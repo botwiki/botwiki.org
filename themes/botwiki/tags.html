@@ -1,0 +1,20 @@
+<h1>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a></h1>
+{% for page in pages %}          
+    <article>
+        <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <p class="meta">
+            <span class="tags"><br />Tags :
+                {% for tag in page.tags %}
+                    <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+                {% endfor %}
+            </span>
+        </p>
+        {{ page.excerpt }}
+    </article>
+{% endfor %}
+<h1>All tags :</h1>
+    <ul>
+        {% for tag in tag_list %}
+            <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+        {% endfor %}
+    </ul>

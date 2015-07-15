@@ -1,0 +1,5 @@
+User-agent: Browsershots
+Disallow: 
+User-agent: *
+Disallow: /placeholder/
+Sitemap: http://botwiki.org/sitemap.xml

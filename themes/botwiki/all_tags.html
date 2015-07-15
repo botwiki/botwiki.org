@@ -1,0 +1,23 @@
+<!-- TAG PAGES : list of blog posts tagged with #... -->
+
+<p>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>:</p>
+{% for page in pages %}
+{% if page.date %}
+<article>
+  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  <p class="meta">Posted on {{ page.date }} by {{ page.author }}
+    <span class="tags"><br />Tags:
+      {% for tag in page.tags %}
+      <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
+    </span>
+  </p>
+</article>
+{% endif %}
+{% endfor %}
+All tags:
+<ul class="tags">
+  {% for tag in tag_list %}
+  <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+  {% endfor %}
+</ul>
