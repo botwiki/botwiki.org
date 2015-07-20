@@ -2,7 +2,7 @@
 
 ## Installing Botwiki
 
-Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP. You can install the site with [Composer](https://getcomposer.org/), so one of these should work:
+Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP, the content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics). You can install the site with [Composer](https://getcomposer.org/), so one of these should work:
 
 ```
 php composer install
@@ -39,15 +39,12 @@ content/bots/twitterbots/
 
 Then create a new file ```my_new_bot.md``` and the page will be available at 
 
-```
-http://localhost:3000/bots/twitterbots/bartleby_scrvnr
-```
+
+localhost:3000/**bots/twitterbots/my_new_bot**
 
 Or
 
-```
-http://botwiki.org/bots/twitterbots/bartleby_scrvnr
-```
+botwiki.org/**bots/twitterbots/my_new_bot**
 
 ## Updating the styles
 
@@ -62,6 +59,8 @@ And then run the gulp tasks, simply with:
 ```
 gulp
 ```
+
+The site will be available with live-reloading at localhost:3000.
 
 If you for some reason get an error about a node package missing, just install it with
 
