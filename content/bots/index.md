@@ -2,7 +2,7 @@
 Title: Bots
 */
 
-### Notable Twitter bots
+### Twitter bots
 
 - [@YesYoureRacist](twitterbots/YesYoureRacist) -- retweets tweets containing _"I'm not a racist"_
 - [@congressedits](twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress

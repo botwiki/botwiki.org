@@ -106,16 +106,15 @@ body {
 a, a:visited {
 	color: #4A89DC;
 	text-decoration: none;
-	-webkit-transition: all 0.2s linear;
-	-moz-transition: all 0.2s linear;
-	-ms-transition: all 0.2s linear;
-	-o-transition: all 0.2s linear;
-	transition: all 0.2s linear;
 }
 
 a:hover, a:active {
 	color: #000;
 	text-decoration: none;
+}
+
+a:hover{
+	transition: color 0.2s linear;	
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -201,7 +200,7 @@ blockquote {
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-	width: 850px;
+	max-width: 850px;
 	margin: 0 auto;
 }
 
@@ -278,7 +277,7 @@ blockquote {
 /*---------------------------------------------*/
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 860px) {
 	
 	.inner {
 		width: 85%;
@@ -333,30 +332,5 @@ blockquote {
 	}
 	#header h1 a {
 		font-size:1em;
-	}
-	#header .menu-icon {
-		display:inline-block;
-	}
-	#header nav a { color: #000; }
-	#header nav a:hover { color: #5D9CEC; }
-	#header nav ul, nav:active ul { 
-		display: none;
-		position: absolute;
-		padding: 20px;
-		background: #fff;
-		border: 5px solid #444;
-		right: 0em;
-		top: 100px;
-		width: auto;
-		border-radius: 4px 0 4px 4px;
-	}
-	#header nav li {
-		text-align: center;
-		width: 100%;
-		padding: 10px 0;
-		margin: 0;
-	}
-	#header nav:hover ul {
-		display: block;
 	}
 }
