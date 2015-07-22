@@ -5,7 +5,7 @@
 
 ## Installing Botwiki
 
-Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP, the content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics). You can install the site with [Composer](https://getcomposer.org/), so one of these should work (provided that you have already installed [PHP](http://php.net/manual/en/install.php)):
+Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP, the content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics). You can install the site with [Composer](https://getcomposer.org/), so one of these should work -- provided that you have already installed [PHP](http://php.net/manual/en/install.php):
 
 ```
 php composer install
