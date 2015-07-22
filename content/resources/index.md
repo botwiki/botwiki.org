@@ -5,6 +5,7 @@ Description: Various data dumps and other content for bot creators.
 
 ### Public Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
+- [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
 - [Common Crawl](http://commoncrawl.org/) -- an open repository of web crawl data
 - [OpenFDA](https://open.fda.gov/) -- Open-source APIs for FDA drug, device, and food data
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
