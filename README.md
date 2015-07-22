@@ -1,5 +1,8 @@
 # Botwiki.org
 
+<img style="max-width:100%;" src="content/images/botwiki.png">
+
+
 ## Installing Botwiki
 
 Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP, the content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics). You can install the site with [Composer](https://getcomposer.org/), so one of these should work:
