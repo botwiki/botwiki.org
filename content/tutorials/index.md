@@ -1,5 +1,6 @@
 /*
 Title: Tutorials
+Description: Learn how to make your own bot!
 */
 
 ### General

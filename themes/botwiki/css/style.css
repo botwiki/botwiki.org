@@ -160,7 +160,7 @@ a:visited {
 a:hover,
 a:active {
   color: #000;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   -webkit-transition: color 0.2s linear;

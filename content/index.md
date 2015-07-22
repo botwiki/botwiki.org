@@ -1,14 +1,12 @@
 /*
 Title: Welcome To Botwiki.org
-Description: This description will go in the meta description tag
+Description: botwiki.org
 Nav: hidden
 */
 
 
 Hi!
 
-**Botwiki** is still work in progress. The goal is to create a **simple**, **open-source** collection of **tutorials, articles, datasets and other resources** for creating useful/interesting/artistic online bots.
+**Botwiki** is a simple, **open-source** (soon!) collection of [tutorials](tutorials), [articles](articles), [datasets and other resources](resources) for creating useful/interesting/artistic [online bots](bots).
 
-Stay tuned!
-
--- [@fourtonfish](https://twitter.com/fourtonfish), [@botwikidotorg](https://twitter.com/botwikidotorg)
+-- [@fourtonfish](https://twitter.com/fourtonfish)

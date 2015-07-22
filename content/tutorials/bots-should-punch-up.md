@@ -1,6 +1,7 @@
 /*
 Title: Bots Should Punch Up
 Author: Leonard Richardson
+Description: "Always punch up, never punch down!"
 Nav: hidden
 */
 

@@ -10,4 +10,4 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/bartleby_scrvnr.png)](https://twitter.com/bartleby_scrvnr)
-A short-story character turned into a Twitter bot. Created by @fourtonfish.
+A short-story character turned into a Twitter bot. Created by [@fourtonfish](https://twitter.com/fourtonfish).
