@@ -5,6 +5,7 @@ Description: Little virtual robots.
 
 ### Twitter bots
 
+- [@censusAmericans](twitterbots/censusAmericans) -- tweeting the census one real American at a time
 - [@YesYoureRacist](twitterbots/YesYoureRacist) -- retweets tweets containing _"I'm not a racist"_
 - [@congressedits](twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
 - [@Betelgeuse_3](twitterbots/Betelgeuse_3) -- based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)
