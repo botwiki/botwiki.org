@@ -1,6 +1,6 @@
 /*
 Title: Welcome To Botwiki.org
-Description: botwiki.org
+Description: An open-source collection of tutorials, articles, datasets and other resources for creating useful/interesting/artistic online bots.
 Nav: hidden
 */
 
