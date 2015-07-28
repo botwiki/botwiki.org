@@ -45,6 +45,7 @@ Description: Various data dumps and other content for bot creators.
 - [The New York Public Library Digital Collections API](http://api.repo.nypl.org/)
 - [Last.fm](http://www.last.fm/api) -- music related APIs
 - [Flickr](https://www.flickr.com/services/api/)
+- [Capitol Words API](http://capitolwords.org/api/1/) -- [Capitol Words](http://capitolwords.org/) visualizes the most frequently used words in the Congressional Record
 
 #### API directories
 - [ProgrammableWeb](http://www.programmableweb.com/)
