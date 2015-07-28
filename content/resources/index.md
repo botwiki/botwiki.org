@@ -16,7 +16,7 @@ Description: Various data dumps and other content for bot creators.
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
 
-### APIs
+### APIs and self-hosted libraries
 
 #### Language, text, speech
 - [The New York Times Semantic API](http://developer.nytimes.com/docs/read/semantic_API) -- "list of people, places, organizations and other locations, entities and descriptors that make up the controlled vocabulary used as metadata by The New York Times"
@@ -26,6 +26,7 @@ Description: Various data dumps and other content for bot creators.
 - [Wordnik](http://developer.wordnik.com/) -- "definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, and more"
 - [AlchemyAPI](http://www.alchemyapi.com/developers) -- text and image analysis tools 
 - [Project Gutenberg](https://www.gutenberg.org/wiki/Gutenberg:Information_About_Robot_Access_to_our_Pages) -- "information about robot access to our pages"
+- [RiTa](http://www.rednoise.org/rita/index.html) -- a software toolkit for generative literature
 
 #### Face and object recognition
 - [OpenFace API](http://openfaceapi.com/)
@@ -55,3 +56,5 @@ Description: Various data dumps and other content for bot creators.
 
 ### Specific Resources
 - [Twitter bots](twitterbots)
+
+Also check out [the opensourced bots](/tag/opensource).

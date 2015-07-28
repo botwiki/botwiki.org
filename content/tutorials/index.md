@@ -10,3 +10,5 @@ Description: Learn how to make your own bot!
 ### Technical
 
 - [Tutorials for Twitter bots](twitterbots)
+
+Also check out [the opensourced bots](/tag/opensource).

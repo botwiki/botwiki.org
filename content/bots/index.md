@@ -11,6 +11,7 @@ Description: Little virtual robots.
 - [@Betelgeuse_3](twitterbots/Betelgeuse_3) -- based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)
 - [@DearAssistant](twitterbots/DearAssistant) -- answers to all your questions
 - [@infinitedeserts](twitterbots/infinitedeserts) -- an infinity of deserts
+- [@JustDiedBot](twitterbots/JustDiedBot) -- tweets about celebrity deaths once they are posted on Wikipedia
 - [@bartleby_scrvnr](twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - [@holidaybot4000](twitterbots/holidaybot4000) -- holidays, every day
 
