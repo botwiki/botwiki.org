@@ -16,9 +16,12 @@ Description: Little virtual robots.
 - [@bartleby_scrvnr](twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - [@holidaybot4000](twitterbots/holidaybot4000) -- holidays, every day
 
-[See more](/tag/twitterbot)
+Browse [more Twitter bots](/tag/twitterbot).
+
+For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
 ### Bot-powered games
 - [Detective](http://fourtonfish.com/detective/) by [@fourtonfish](https://twitter.com/fourtonfish)
 
 See also bots tagged with [#game](/tag/game).
+
