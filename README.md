@@ -70,3 +70,9 @@ If you for some reason get an error about a node package missing, just install i
 ```
 sudo npm install NAME_OF_THE_PACKAGE --save-dev
 ```
+
+## Contributing without GitHub
+
+[The main idea](http://blog.fourtonfish.com/post/124755462290/botwikiorg) behind Botwiki is to keep maintaining, contributing and distributing simple. It runs on PHP, which is the most common back-end language, available even on [free web hosting sites](https://www.google.com/search?q=free+php+hosting). [Markdown](http://daringfireball.net/projects/markdown/basics) is a fairly simple language that uses only text.
+
+If you'd like to contribute outside of GitHub, you can send an email to <a href="mailto:stefan@fourtonfish.com">stefan@fourtonfish.com</a>. Simply copy the content of [this file](https://raw.githubusercontent.com/botwiki/botwiki.org/master/content/bots/twitterbots/holidaybot4000.md) and replace it with relevant information -- and if you'd like, you can also include a screenshot (the width should be **900px**, height is not limited, but shouldn't be more than around 500px). 
