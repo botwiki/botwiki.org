@@ -32,6 +32,7 @@ Description: Various data dumps and other content for bot creators.
 - [OpenFace API](http://openfaceapi.com/)
 - [Betaface](http://www.betafaceapi.com/)
 - [Clarifai](http://www.clarifai.com/)
+- [Sighthound](https://www.sighthound.com/products/cloud)
 
 #### Free images
 - [Old Book Illustrations](http://www.oldbookillustrations.com/)
