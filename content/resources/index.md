@@ -15,6 +15,7 @@ Description: Various data dumps and other content for bot creators.
 - [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/) -- a collection of approximately 20,000 newsgroup documents
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
+- [The Museum of Modern Art (MoMA) Collection](https://github.com/MuseumofModernArt/collection) -- basic metadata for more than 120,000 records (no images, but some include URLs)
 
 ### APIs and self-hosted libraries
 
