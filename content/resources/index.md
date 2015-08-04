@@ -41,6 +41,7 @@ Description: Various data dumps and other content for bot creators.
 - [Clipart](https://openclipart.org/)
 - [The Digital Comic Museum](http://digitalcomicmuseum.com/)
 - [Smithsonian](http://www.asia.si.edu/collections/edan/default.cfm) -- 40,000 works of Asian and American art, can be used for all non-commercial purposes
+- [New York Public Library Public Domain Images](http://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=&filters[rights][]=pd)
 
 #### Unsorted
 - [NASA's API Catalog](https://data.nasa.gov/developer)
