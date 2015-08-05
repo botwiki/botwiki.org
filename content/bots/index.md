@@ -18,7 +18,11 @@ Description: Little virtual robots.
 
 Browse [more Twitter bots](/tag/twitterbot).
 
+### Lists of Twitter bots
+- [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
+
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
+
 
 ### Bot-powered games
 - [Detective](http://fourtonfish.com/detective/) by [@fourtonfish](https://twitter.com/fourtonfish)
