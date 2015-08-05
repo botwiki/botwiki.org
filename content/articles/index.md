@@ -13,4 +13,4 @@ Author: Stefan Bohacek
 - June 26, 2015 -- [The Future of UI Design? Old-School Text Messages](http://www.wired.com/2015/06/future-ui-design-old-school-text-messages/)
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
 
-Follow [@botwikidotorg](https://twitter.com/botwikidotorg).
+Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for real-time updates.
