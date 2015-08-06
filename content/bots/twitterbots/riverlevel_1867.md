@@ -15,4 +15,4 @@ One of the over 2,400 Twitter bots that tweet the water level of rivers in UK. Y
 
 Read more about the project on [niemanlab.org](http://www.niemanlab.org/2014/07/is-the-river-behind-your-house-rising-a-british-twitter-bot-will-tell-you/).
 
-[![](/content/bots/twitterbots/images/riverlevel_map.png.png)](http://www.gaugemap.co.uk/)
+[![](/content/bots/twitterbots/images/riverlevel_map.png)](http://www.gaugemap.co.uk/)
