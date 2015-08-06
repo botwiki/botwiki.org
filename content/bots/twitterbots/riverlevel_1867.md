@@ -1,9 +1,9 @@
 /*
 Title: @riverlevel_1867
-Description: "Generating cards for a mysterious card game."
+Description: "Live river-level data from over 2,400 government gauges across England and Wales."
 Author: Stefan Bohacek
-Date: July 26, 2015
-Tags: twitterbot,active,images
+Date: August 6, 2015
+Tags: twitterbot,active
 
 Nav: hidden
 Robots: index,follow
