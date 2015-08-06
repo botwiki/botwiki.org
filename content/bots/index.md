@@ -15,6 +15,7 @@ Description: Little virtual robots.
 - [@JustDiedBot](twitterbots/JustDiedBot) -- tweets about celebrity deaths once they are posted on Wikipedia
 - [@bartleby_scrvnr](twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - [@holidaybot4000](twitterbots/holidaybot4000) -- holidays, every day
+- [@riverlevel_1867](twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
 
 Browse [more Twitter bots](/tag/twitterbot).
 
