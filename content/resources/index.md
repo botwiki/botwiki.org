@@ -16,6 +16,7 @@ Description: Various data dumps and other content for bot creators.
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
 - [The Museum of Modern Art (MoMA) Collection](https://github.com/MuseumofModernArt/collection) -- basic metadata for more than 120,000 records (no images, but some include URLs)
+- [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 
 ### APIs and self-hosted libraries
 
