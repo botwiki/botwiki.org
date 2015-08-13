@@ -21,6 +21,7 @@ Browse [more Twitter bots](/tag/twitterbot).
 
 ### Lists of Twitter bots
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
+- [The Omnibots list](https://twitter.com/botally/lists/omnibots), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
