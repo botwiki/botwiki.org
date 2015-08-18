@@ -14,4 +14,4 @@ Nav: hidden
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
 - [bothub.org](http://bothub.org/)
 
-See also [tutorials for Twitter bots](/tutorials/twitterbots).
+See also [tutorials for Twitter bots](/tutorials/twitterbots) and [general resources](/resources). For more assorted twitterbot resources, see [botpad.org](http://botpad.org/p/bot_resources).
