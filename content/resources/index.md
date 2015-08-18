@@ -59,6 +59,6 @@ Description: Various data dumps and other content for bot creators.
 - [Temboo Library](https://www.temboo.com/library/)
 
 ### Specific Resources
-- [Twitter bots](twitterbots)
+- [Twitter bots](/resources/twitterbots)
 
 Also check out [the opensourced bots](/tag/opensource).
