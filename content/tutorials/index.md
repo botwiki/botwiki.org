@@ -10,6 +10,7 @@ Description: Learn how to make your own bot!
 ### Technical
 
 - [Tutorials for Twitter bots](twitterbots)
+- [Tutorials for IRC bots](irc-bots)
 - [Tutorials for Telegram bots](telegram-bots)
 
 Also check out [the opensourced bots](/tag/opensource).
