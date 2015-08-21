@@ -33,6 +33,7 @@ Description: Various data dumps and other content for bot creators.
 #### Face and object recognition
 - [OpenFace API](http://openfaceapi.com/)
 - [Betaface](http://www.betafaceapi.com/)
+- [AlchemyVision](http://www.alchemyapi.com/products/alchemyvision)
 - [Clarifai](http://www.clarifai.com/)
 - [Sighthound](https://www.sighthound.com/products/cloud)
 
