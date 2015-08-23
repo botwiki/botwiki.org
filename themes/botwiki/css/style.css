@@ -115,8 +115,8 @@ input[type=submit],
 button {
   cursor: pointer;
 }
-/* make buttons play nice in IE:	 
-		www.viget.com/inspire/styling-the-button-element-in-internet-explorer/ */
+/* make buttons play nice in IE:   
+    www.viget.com/inspire/styling-the-button-element-in-internet-explorer/ */
 button {
   width: auto;
   overflow: visible;
@@ -240,6 +240,16 @@ blockquote {
   padding-left: 10px;
   border-left: 5px solid #dddddd;
 }
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+  margin-right: 2em;
+}
+img.main-banner-fix {
+  margin-top: -100px;
+}
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
@@ -327,11 +337,20 @@ blockquote {
 /*---------------------------------------------*/
 /* Small Devices, Tablets */
 @media only screen and (max-width: 860px) {
+  .float-right,
+  .float-left {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+  img.main-banner-fix {
+    margin-top: 0;
+  }
   .inner {
     width: 85%;
   }
   .inner img {
-    width: 100%;
+    max-width: 100%;
   }
   #header {
     margin-bottom: 40px;
