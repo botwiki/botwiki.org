@@ -3,7 +3,7 @@ Title: Bots
 Description: Little virtual robots.
 */
 
-### Twitter bots
+### [Twitter](https://twitter.com/) bots
 
 - [@censusAmericans](twitterbots/censusAmericans) -- tweeting the census one real American at a time
 - [@YesYoureRacist](twitterbots/YesYoureRacist) -- retweets tweets containing _"I'm not a racist"_
@@ -24,6 +24,14 @@ Browse [more Twitter bots](/tag/twitterbot).
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
+
+### [Slack](https://slack.com/) bots
+
+- [@large](slackbots/large) -- on-demand ice cream for your team
+- [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
+- [shoulda-coulda](slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
+
+Browse [more Slack bots](/tag/slackbot).
 
 
 ### Bot-powered games
