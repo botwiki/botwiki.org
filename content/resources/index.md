@@ -3,6 +3,8 @@ Title: Resources
 Description: Various data dumps and other content for bot creators.
 */
 
+![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}
+
 ### Public Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
@@ -17,6 +19,8 @@ Description: Various data dumps and other content for bot creators.
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
 - [The Museum of Modern Art (MoMA) Collection](https://github.com/MuseumofModernArt/collection) -- basic metadata for more than 120,000 records (no images, but some include URLs)
 - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
+
+![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-left}
 
 ### APIs and self-hosted libraries
 

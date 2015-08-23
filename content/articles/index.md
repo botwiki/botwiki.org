@@ -5,6 +5,8 @@ Date: July 21, 2015
 Author: Stefan Bohacek
 */
 
+![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
+
 - August 4, 2015 -- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/)
 - July 27, 2015 -- [They should have sent a Twitter bot poet](http://www.avclub.com/article/they-should-have-sent-twitter-bot-poet-222947)
 - July 17, 2015 -- [Stay Woke Bot](http://feeltrain.com/blog/stay-woke/): Darius Kazemi created a Twitter bot that "helps activists handle their haters".

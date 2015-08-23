@@ -4,6 +4,7 @@ Description: An open-source collection of tutorials, articles, datasets and othe
 Nav: hidden
 */
 
+![Marinoni printing press](/content/images/illustrations/marinoni-printing-press.png){.float-right .main-banner-fix}
 
 Hi!
 

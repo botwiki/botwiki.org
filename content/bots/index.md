@@ -3,6 +3,8 @@ Title: Bots
 Description: Little virtual robots.
 */
 
+![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
+
 ### [Twitter](https://twitter.com/) bots
 
 - [@censusAmericans](twitterbots/censusAmericans) -- tweeting the census one real American at a time
@@ -24,6 +26,8 @@ Browse [more Twitter bots](/tag/twitterbot).
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
+
+![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/deep-sea-diver-768.jpg){.float-left}
 
 ### [Slack](https://slack.com/) bots
 
