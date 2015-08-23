@@ -76,7 +76,7 @@ td {
 body {
   line-height: 1;
   color: black;
-  background: white;
+  background: #434A54;
 }
 table {
   border-collapse: separate;
@@ -149,7 +149,7 @@ select:focus {
 body {
   font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #fff;
+  background: #434A54;
   -webkit-font-smoothing: antialiased;
 }
 a,
@@ -177,13 +177,13 @@ h6 {
   margin-bottom: 0.6em;
 }
 h1 {
-  font-size: 2em;
+  font-size: 2.1em;
 }
 h2 {
-  font-size: 1.7em;
+  font-size: 1.8em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.7em;
   margin-top: 2em;
 }
 p {
@@ -247,9 +247,7 @@ blockquote {
   margin: 0 auto;
 }
 #header {
-  background: #434A54;
   padding: 60px 0;
-  margin-bottom: 80px;
   color: #5D9CEC;
 }
 #header a {
@@ -296,10 +294,14 @@ blockquote {
   position: absolute;
   top: 7em;
 }
+#content {
+  background-color: #fff;
+  padding: 100px 0;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
 #footer {
-  background: #434A54;
-  padding: 60px 0;
-  margin-top: 80px;
+  padding: 40px 0;
   color: #C0C0C0;
 }
 #footer a {
