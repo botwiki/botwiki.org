@@ -74,6 +74,8 @@
         {% elseif current_page is empty %}
             {% if meta.title != 'Error 404' %}
               {% include 'all_tags.html' %}
+            {% else %}
+              {{ content }}
             {% endif %}
         {% endif %}
 			{% endif %}
