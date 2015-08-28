@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html itemscope itemtype="https://schema.org/WebPage" lang="en" class="no-js">
 <head>
-	<meta charset="utf-8" />
+  <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if meta.title %}
@@ -14,12 +14,12 @@
     <meta name="twitter:title" content="{{ site_title }}">
   {% endif %}
   {% if meta.description %}
-  	<meta name="description" content="{{ meta.description }}"> 
+    <meta name="description" content="{{ meta.description }}"> 
     <meta property="og:description" content="{{ meta.description }}" />
     <meta name="twitter:description" content="{{ meta.description }}">
   {% endif %}
   {% if meta.robots %}
-  	<meta name="robots" content="{{ meta.robots }}">
+    <meta name="robots" content="{{ meta.robots }}">
   {% endif %}
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://www.botwiki.org/" />
@@ -35,38 +35,38 @@
   <link rel="apple-touch-icon-precomposed" href="http://botwiki.org/content/images/favicon-152.png">
   <link rel="icon" href="http://botwiki.org/content/images/favicon-32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="http://botwiki.org/content/images/favicon-64.png">
-	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
-	<link rel="stylesheet" href="{{ theme_url }}/css/style.min.css" type="text/css" />	
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.min.css" type="text/css" />  
 <!--
-	<script src="{{ theme_url }}/libs/modernizr-2.6.1.min.js"></script>
+  <script src="{{ theme_url }}/libs/modernizr-2.6.1.min.js"></script>
 -->
 </head>
 <body>
-	<header id="header">
-		<div class="inner clearfix">
-			<h1><a href="{{ base_url }}" id="logo">{{ site_title }}</a></h1>
-			<nav>
-				<a href="#" onclick="return false;" class="menu-icon">
+  <header id="header">
+    <div class="inner clearfix">
+      <h1><a href="{{ base_url }}" id="logo">{{ site_title }}</a></h1>
+      <nav>
+        <a href="#" onclick="return false;" class="menu-icon">
           <svg id="Untitled-2" viewBox="0 0 18 12" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="18px" height="12px"><g id="Layer%201"><rect x="0" y="0" width="18" height="2" fill="#ffffff"/><rect x="0" y="5" width="18" height="2" fill="#ffffff"/><rect x="0" y="10" width="18" height="2" fill="#ffffff"/></g></svg>
         </a>
-				<ul>
-					{% for page in pages %}
+        <ul>
+          {% for page in pages %}
             {% if page.nav != "hidden" %}
-  						<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
-					{% endfor %}
-				</ul>
-			</nav>
+          {% endfor %}
+        </ul>
+      </nav>
       <form action="/search">
         <input name="q" placeholder="Search...">
       </form>
-		</div>
-	</header>
-	<section id="content">
-		<div class="inner">
-			{% if meta.purpose == "search_results" %}
+    </div>
+  </header>
+  <section id="content">
+    <div class="inner">
+      {% if meta.purpose == "search_results" %}
         {% include 'search_results.html' %}
-			{% else %}
+      {% else %}
         {% if is_front_page %}
           {% include 'main.html' %}
         {% elseif current_page is not empty %}
@@ -78,11 +78,11 @@
               {{ content }}
             {% endif %}
         {% endif %}
-			{% endif %}
-		</div>
-	</section>
-	<footer id="footer">
-		<div class="inner">
+      {% endif %}
+    </div>
+  </section>
+  <footer id="footer">
+    <div class="inner">
     <!-- TODO: Make these an <ul> -->
       <a href="https://github.com/botwiki/botwiki.org">Source code</a>
       |
@@ -91,9 +91,9 @@
       <a href="https://twitter.com/botwikidotorg">Twitter</a>
       |
       <!-- TODO: Change the maintainer(s) link to https://github.com/orgs/botwiki/people - once there is more than one maintainer -->
-			Powered by <a href="http://picocms.org/">Pico</a>, maintained by <a href="https://twitter.com/fourtonfish">@fourtonfish</a>. Images from <a href="http://www.oldbookillustrations.com/">oldbookillustrations.com</a>.
-		</div>
-	</footer>
+      Powered by <a href="http://picocms.org/">Pico</a>, maintained by <a href="https://twitter.com/fourtonfish">@fourtonfish</a>. Images from <a href="http://www.oldbookillustrations.com/">oldbookillustrations.com</a>.
+    </div>
+  </footer>
 {% include 'statcounter.html' ignore missing %}
 </body>
 </html>
