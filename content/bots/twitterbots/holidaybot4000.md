@@ -11,6 +11,3 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/holidaybot4000.png)](https://twitter.com/holidaybot4000)
 A Twitter bot that tweets holidays around the world for the given day. Created by [@fourtonfish](https://twitter.com/fourtonfish).
-
-**Trivia:**
-- The number 4000 refers to [the port](http://fourtonfish.com:4000/) the bot is running on.
