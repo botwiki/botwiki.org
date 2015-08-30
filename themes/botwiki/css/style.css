@@ -322,6 +322,12 @@ img.main-banner-fix {
 }
 /* Misc Styles
 /*---------------------------------------------*/
+.search-item {
+  border-top: 1px solid silver;
+}
+.search-item meta {
+  font-style: italic;
+}
 .clearfix:before,
 .clearfix:after {
   content: " ";
