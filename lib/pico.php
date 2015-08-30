@@ -346,7 +346,7 @@ class Pico
         if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' && $_SERVER['HTTPS'] != '') {
             $protocol = 'https';
         }
-
+        echo $protocol;
         return $protocol;
     }
 
