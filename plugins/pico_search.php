@@ -13,7 +13,7 @@ class Pico_Search
 
     public function before_read_file_meta(&$headers)
     {
-        $headers['purpose'] = 'show_tags';
+        $headers['purpose'] = 'Purpose';
     }
 
     public function get_pages(&$pages, &$current_page, &$prev_page, &$next_page)
