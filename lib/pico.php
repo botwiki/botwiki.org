@@ -171,8 +171,7 @@ class Pico
             'author' => 'Author',
             'date' => 'Date',
             'robots' => 'Robots',
-            'template' => 'Template',
-            'nav' => 'Nav'
+            'template' => 'Template'
         );
 
         // Add support for custom headers by hooking into the headers array
@@ -268,8 +267,7 @@ class Pico
                 'content' => $page_content,
                 'excerpt' => $this->limit_words(strip_tags($page_content), $excerpt_length),
                 //this addition allows the 'description' meta to be picked up in content areas... specifically to replace 'excerpt'
-                'description' => isset($page_meta['description']) ? $page_meta['description'] : '',
-                'nav' => isset($page_meta['nav']) ? $page_meta['nav'] : ''
+                'description' => isset($page_meta['description']) ? $page_meta['description'] : ''
             );
 
             // Extend the data provided with each page by hooking into the data array

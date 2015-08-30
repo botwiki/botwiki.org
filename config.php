@@ -25,11 +25,11 @@ $config['site_title'] = 'botwiki.org';              // Site title
  * THEME
  */
 $config['theme'] = 'botwiki';                // Set the theme (defaults to "default")
-// $config['twig_config'] = array(              // Twig settings
-//	'cache' => false,	                        // To enable Twig caching change this to CACHE_DIR
-//	'autoescape' => false,                      // Autoescape Twig vars
-//	'debug' => false                            // Enable Twig debug
-// );
+$config['twig_config'] = array(              // Twig settings
+	'cache' => false,	                        // To enable Twig caching change this to CACHE_DIR
+	'autoescape' => false,                      // Autoescape Twig vars
+	'debug' => false                            // Enable Twig debug
+);
 
 /*
  * CONTENT
@@ -40,6 +40,11 @@ $config['theme'] = 'botwiki';                // Set the theme (defaults to "defa
 // $config['excerpt_length'] = 50;                // The pages excerpt length (in words)
 $config['content_dir'] = 'content/';    // Content directory
 $config['ptags_template'] = 'index';
+
+$config['custom_meta_values'] = array(
+  'nav' => 'Nav'
+);
+
 /*
  * TIMEZONE
  */
