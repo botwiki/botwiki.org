@@ -1,6 +1,8 @@
 <p class="meta">{{ search_num_results }} page(s) found for "{{ search_term }}"</p>
 {% for page in search_results %}
-  <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
-  <p class="excerpt">{{ page.description }}</p>
-  {% if page.date %}<p class="meta">{{ page.date }} by {{ page.author }}</p>{% endif %}
+  <div class="search-item">
+    <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+    <p class="excerpt">{{ page.description }}</p>
+    {% if page.date %}<p class="meta">{{ page.date }} by {{ page.author }}</p>{% endif %}
+  </div>
 {% endfor %}
