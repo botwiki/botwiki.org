@@ -1,30 +1,34 @@
 <!-- TAG PAGES : list of blog posts tagged with #... -->
-
-<p>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>:</p>
-{% for page in pagestags %}
-{% if page.date %}
-<div class="search-item">
-  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-  <p class="meta">{{ page.description }}<br/>
-    <span class="tags">Tags:
-      {% for tag in page.tags %}
-      <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-      {% endfor %}
-    </span>
-  </p>
-<!--
-  <p class="meta">Posted on {{ page.date }} by {{ page.author }}
--->
-  </p>
-</div>
-{% endif %}
-{% endfor %}
-<!--
-TODO: Is this useful?
-All tags:
-<ul class="tags">
-  {% for tag in tag_list %}
-  <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+{% if pagestags|length == 0 %}
+  <p>No posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
+  <p><a href="/">Back to the main page.</a>
+{% else %}
+  <p>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>:</p>
+  {% for page in pagestags %}
+  {% if page.date %}
+  <div class="search-item">
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <p class="meta">{{ page.description }}<br/>
+      <span class="tags">Tags:
+        {% for tag in page.tags %}
+        <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+        {% endfor %}
+      </span>
+    </p>
+  <!--
+    <p class="meta">Posted on {{ page.date }} by {{ page.author }}
+  -->
+    </p>
+  </div>
+  {% endif %}
   {% endfor %}
-</ul>
--->
+  <!--
+  TODO: Is this useful?
+  All tags:
+  <ul class="tags">
+    {% for tag in tag_list %}
+    <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+    {% endfor %}
+  </ul>
+  -->
+{% endif %}
