@@ -3,7 +3,7 @@ Title: @plzrevisit
 Description: "Tweet me an image and I'll glitch it using http://revisit.link"
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitterbot,inactive,images
+Tags: twitterbot,inactive,images,beaugunderson
 
 Nav: hidden
 Robots: index,follow

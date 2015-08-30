@@ -3,7 +3,7 @@ Title: @Betelgeuse_3
 Description: "Beetlejuice, Beetlejuice, Beetlejuice!"
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitterbot,active
+Tags: twitterbot,active,muffinista
 
 Nav: hidden
 Robots: index,follow

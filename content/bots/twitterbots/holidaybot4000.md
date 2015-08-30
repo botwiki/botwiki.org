@@ -3,7 +3,7 @@ Title: @holidaybot4000
 Description: Every day IS a holiday
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitterbot,active,node,holidays,images,useful
+Tags: twitterbot,active,node,holidays,images,useful,fourtonfish
 
 Nav: hidden
 Robots: index,follow

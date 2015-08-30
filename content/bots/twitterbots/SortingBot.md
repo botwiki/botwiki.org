@@ -3,7 +3,7 @@ Title: @SortingBot
 Description: "I'm the Sorting Hat and I'm here to say / I love sorting students in a major way."
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitterbot,active,film,opensource
+Tags: twitterbot,active,film,opensource,tinysubversions
 
 Nav: hidden
 Robots: index,follow

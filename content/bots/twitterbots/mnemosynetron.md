@@ -3,7 +3,7 @@ Title: @mnemosynetron
 Description: A reminder bot.
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitterbot,active,useful
+Tags: twitterbot,active,useful,thricedotted
 
 Nav: hidden
 Robots: index,follow
