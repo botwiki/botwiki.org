@@ -3,7 +3,7 @@ Title: @ESBcolor
 Description: Unofficial daily update of colors on the Empire State Building.
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitterbot,active,nyc
+Tags: twitterbot,active,nyc,swiftsam
 
 Nav: hidden
 Robots: index,follow

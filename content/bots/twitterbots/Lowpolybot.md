@@ -3,7 +3,7 @@ Title: @Lowpolybot
 Description: Low polygon pictures from any image.
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitterbot,active,images
+Tags: twitterbot,active,images,quasimondo
 
 Nav: hidden
 Robots: index,follow
