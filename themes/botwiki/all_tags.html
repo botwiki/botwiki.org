@@ -1,7 +1,7 @@
 <!-- TAG PAGES : list of blog posts tagged with #... -->
 
 <p>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>:</p>
-{% for page in pages %}
+{% for page in pagestags %}
 {% if page.date %}
 <article>
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>

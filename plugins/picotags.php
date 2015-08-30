@@ -13,6 +13,7 @@ class Picotags {
 
     public $is_tag;
     public $current_tag;
+    private $pagestags;
 
     /*
         Declaring two functions for sorting tags with special chars
@@ -219,7 +220,7 @@ class Picotags {
                 $this->tag_list = array_unique(array_filter($tag_list));
             }
             // Overwrite $pages with $new_pages
-            $pages = $new_pages;
+            $this->pagestags = $new_pages;
         } else { // Workaround
             if (isset($page['tags'])){
                 $new_pages = array();
@@ -234,7 +235,7 @@ class Picotags {
                     }
                     $new_pages[] = $page;
                 }
-                $pages = $new_pages;
+                $this->pagestags = $new_pages;
                 $this->tag_list = array_unique(array_filter($tag_list));
 
             }
@@ -255,6 +256,7 @@ class Picotags {
             $twig_vars['meta']['title'] = "#" . $this->current_tag;
             // Return current tag and list of all tags as Twig vars
         }
+            $twig_vars['pagestags'] = $this->pagestags;
             $twig_vars['current_tag'] = $this->current_tag; /* {{ current_tag }} is a string*/
             /*
                 MULTICOLUMNS OUTPUT
