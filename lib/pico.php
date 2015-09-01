@@ -341,9 +341,15 @@ class Pico
     protected function get_protocol()
     {
         $protocol = 'http';
-        if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' && $_SERVER['HTTPS'] != '') {
+
+        if (
+            (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off')
+            || ($_SERVER['SERVER_PORT'] == 443)
+            || (!empty($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
+        ) {
             $protocol = 'https';
         }
+
 
         return $protocol;
     }
