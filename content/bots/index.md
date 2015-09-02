@@ -31,6 +31,7 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 
 ### [Slack](https://slack.com/) bots
 
+- [slack-poker-bot](slackbots/slack-poker-bot) -- turns Slack into a legitimate Texas Hold'em client
 - [@large](slackbots/large) -- on-demand ice cream for your team
 - [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
 - [shoulda-coulda](slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
