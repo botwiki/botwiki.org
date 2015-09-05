@@ -1,94 +1,12 @@
 botwiki.org
 /* TEAM */
 
+https://github.com/orgs/botwiki/people
+
 Stefan, https://twitter.com/fourtonfish
+Tully, https://twitter.com/tullyhansen
 
 /* SITE */
 
 Language: English
 Powered by: picocms.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* EASTER EGGS */
-
-* Write stefan into the projects search box (perhaps some other keywords?)
-* Konami code
-* Check the response headers
-* http://fourtonfish.com/hellosalut/hello -- click the Globe icon
-* https://fourtonfish.makes.org/thimble/Nzg5MjUwMzA0/a-gentle-introduction-to-css3-animation -- go to the slide where it says "You can click all you want, nothing will happen on this page." and click anyway.
-* In the Detective game, try typing: wiggle, jump, godmode or "I like this game".
