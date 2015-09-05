@@ -35,8 +35,8 @@ $config['twig_config'] = array(              // Twig settings
  * CONTENT
  */
 // $config['date_format'] = '%D %T';             // Set the PHP date format as described here: http://php.net/manual/en/function.strftime.php
-// $config['pages_order_by'] = 'alpha';           // Order pages by "alpha" or "date"
-// $config['pages_order'] = 'asc';                // Order pages "asc" or "desc"
+$config['pages_order_by'] = 'date';           // Order pages by "alpha" or "date"
+$config['pages_order'] = 'desc';                // Order pages "asc" or "desc"
 // $config['excerpt_length'] = 50;                // The pages excerpt length (in words)
 $config['content_dir'] = 'content/';    // Content directory
 $config['ptags_template'] = 'index';
