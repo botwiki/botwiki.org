@@ -1,6 +1,7 @@
 /*
 Title: Resources
 Description: Various data dumps and other content for bot creators.
+Date: July 23, 2015
 */
 
 ![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}

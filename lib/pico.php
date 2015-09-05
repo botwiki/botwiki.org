@@ -274,7 +274,7 @@ class Pico
             $this->run_hooks('get_page_data', array(&$data, $page_meta));
 
             if ($order_by == 'date' && isset($page_meta['date'])) {
-                $sorted_pages[$page_meta['date'] . $date_id] = $data;
+                $sorted_pages[$page_meta['date_formatted'] . $date_id] = $data;
                 $date_id++;
             } else {
                 $sorted_pages[$page] = $data;

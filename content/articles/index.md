@@ -1,7 +1,7 @@
 /*
 Title: Articles
 Description: Assorted selection of articles relevant to bot makers.
-Date: July 21, 2015
+Date: July 22, 2015
 Author: Stefan Bohacek
 */
 
