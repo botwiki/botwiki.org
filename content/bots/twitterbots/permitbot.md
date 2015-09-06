@@ -3,7 +3,7 @@ Title: @permitbot
 Description: Interesting findings from Chicago building permits.
 Author: Stefan Bohacek
 Date: September 6, 2015
-Tags: twitterbot,active,opensource,chrishagan
+Tags: twitterbot,active,opensource,python,chrishagan
 
 Nav: hidden
 Robots: index,follow
