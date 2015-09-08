@@ -11,7 +11,7 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/Betelgeuse_3.png)](https://twitter.com/Betelgeuse_3)
 
-@Betelgeuse_3 was a Twitter bot based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice).
+[@Betelgeuse_3](https://twitter.com/Betelgeuse_3) was a Twitter bot based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice).
 
 The bot would respond to tweets that contain the word "Beetlejuice" three times, similarly to how the ghost is summoned in the movie.
 
