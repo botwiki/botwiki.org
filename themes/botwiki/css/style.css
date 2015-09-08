@@ -326,7 +326,8 @@ div.search-item {
   border-top: 1px solid #eee;
   padding: 2em 0 1em;
 }
-div.search-item p.meta {
+div.search-item p.meta,
+div.meta p.last-updated {
   font-style: italic;
 }
 .clearfix:before,
