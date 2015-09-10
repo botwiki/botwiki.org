@@ -247,8 +247,8 @@ blockquote {
   float: left;
   margin-right: 2em;
 }
-img.main-banner-fix {
-  margin-top: -75px;
+img.main-banner {
+  margin: -20px 0 10px 50px;
 }
 /* Structure Styles
 /*---------------------------------------------*/
@@ -351,8 +351,8 @@ div.meta p.last-updated {
     display: block;
     margin: 0 auto;
   }
-  img.main-banner-fix {
-    margin-top: 0;
+  img.main-banner {
+    margin: 0 auto;
   }
   .inner {
     width: 85%;
