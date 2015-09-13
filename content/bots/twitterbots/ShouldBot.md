@@ -2,7 +2,7 @@
 Title: @ShouldBot
 Description: Should you THIS or should you THAT?
 Author: Stefan Bohacek
-Date: September 11, 2015
+Date: September 12, 2015
 Tags: twitterbot,active,opensource,20hz20khz
 
 Nav: hidden
