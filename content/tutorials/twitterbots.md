@@ -6,6 +6,14 @@ Nav: hidden
 
 ![Tweet, tweet](/content/images/illustrations/brambling-greenfinch.jpg){.float-right}
 
+> Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
+
+-- [Wikipedia](https://en.wikipedia.org/wiki/Twitter)
+
+Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
+
+### Tutorials
+
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
 - [A Twitter Bot In 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/) (using [ttezel/twit](https://github.com/ttezel/twit))
 - [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
