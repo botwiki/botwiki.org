@@ -19,4 +19,6 @@ Some examples of such bots include:
 
 You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
 
--- [@fourtonfish](https://twitter.com/fourtonfish)
+-- [Stefan](https://twitter.com/fourtonfish), the original creator of **Botwiki.org**
+
+<!-- TODO: Eventually the link above should be changed to "the Botwiki.org team" and either link to the Github team page or a separate About page --> 

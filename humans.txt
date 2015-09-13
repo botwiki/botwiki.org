@@ -1,10 +1,16 @@
-botwiki.org
+  ;
+ ["]
+/[_]\ botwiki.org
+ ] [
+
 /* TEAM */
 
 https://github.com/orgs/botwiki/people
 
 Stefan, https://twitter.com/fourtonfish
 Tully, https://twitter.com/tullyhansen
+
+Special thanks to Anil Dash.
 
 /* SITE */
 
