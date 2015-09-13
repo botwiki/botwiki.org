@@ -1,3 +1,9 @@
+/*
+  This is a slightly modified default Pico theme. Needs a complete rewrite. 
+*/
+/*
+  Variables
+*/
 /*=================================*/
 /* Pico Default Theme
 /* By: Gilbert Pellegrom
@@ -76,7 +82,7 @@ td {
 body {
   line-height: 1;
   color: black;
-  background: #434A54;
+  background: #434a54;
 }
 table {
   border-collapse: separate;
@@ -149,7 +155,7 @@ select:focus {
 body {
   font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #434A54;
+  background: #434a54;
   -webkit-font-smoothing: antialiased;
 }
 a,
@@ -177,7 +183,7 @@ h6 {
   margin-bottom: 0.6em;
 }
 h1 {
-  font-size: 2.1em;
+  font-size: 2.5em;
 }
 h2 {
   font-size: 1.8em;
@@ -248,7 +254,7 @@ blockquote {
   margin-right: 2em;
 }
 img.main-banner {
-  margin: -20px 0 10px 50px;
+  margin: 10px 0 10px 50px;
 }
 /* Structure Styles
 /*---------------------------------------------*/
@@ -266,6 +272,8 @@ img.main-banner {
 #header h1 a,
 #header a:hover {
   color: #fff;
+  text-decoration: none;
+  margin-bottom: 1em;
 }
 #header h1 {
   font-weight: bold;
@@ -286,6 +294,8 @@ img.main-banner {
   padding: 0;
 }
 #header nav a {
+  font-size: 1.3em;
+  color: #fff;
   font-weight: bold;
   margin-left: 20px;
 }
@@ -295,6 +305,7 @@ img.main-banner {
 }
 #header ul {
   list-style: none;
+  padding-top: 10px;
 }
 #header li {
   display: inline-block;
@@ -302,7 +313,10 @@ img.main-banner {
 }
 #header form {
   position: absolute;
-  top: 7em;
+  top: 8em;
+}
+#header form input {
+  width: 13.5em;
 }
 #content {
   background-color: #fff;
@@ -315,7 +329,7 @@ img.main-banner {
   color: #C0C0C0;
 }
 #footer a {
-  color: #ddd;
+  color: #fff;
 }
 #footer a:hover {
   color: #fff;

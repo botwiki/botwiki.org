@@ -1,3 +1,13 @@
+/*
+  This is a slightly modified default Pico theme. Needs a complete rewrite. 
+*/
+
+/*
+  Variables
+*/
+
+@main-color: #434A54; 
+
 /*=================================*/
 /* Pico Default Theme
 /* By: Gilbert Pellegrom
@@ -28,7 +38,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 body {
   line-height: 1;
   color: black;
-  background: #434A54;
+  background: @main-color;
 }
 
 table {
@@ -99,7 +109,7 @@ select:focus {
 body {
   font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #434A54;
+  background: @main-color;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -124,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.1em;
+  font-size: 2.5em;
 }
 
 h2 {
@@ -207,7 +217,7 @@ blockquote {
 }
 
 img.main-banner{
-  margin: -20px 0 10px 50px;
+  margin: 10px 0 10px 50px;
 }
 
 /* Structure Styles
@@ -221,9 +231,15 @@ img.main-banner{
   padding: 60px 0;
   color: #5D9CEC;
 }
-#header a { color: #5D9CEC; }
+#header a { 
+  color: #5D9CEC; 
+}
 #header h1 a,
-#header a:hover { color: #fff; }
+#header a:hover { 
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 1em;
+}
 #header h1 { 
   font-weight: bold;
   margin: 0; 
@@ -243,6 +259,8 @@ img.main-banner{
   padding: 0;
 }
 #header nav a {
+  font-size: 1.3em;
+  color: #fff;
   font-weight: bold;
   margin-left: 20px;
 }
@@ -252,6 +270,7 @@ img.main-banner{
 }
 #header ul {
   list-style: none;
+  padding-top: 10px;
 }
 #header li {
   display: inline-block;
@@ -259,8 +278,13 @@ img.main-banner{
 }
 #header form{
   position: absolute;
-  top: 7em;
+  top: 8em;
 }
+
+#header form input{
+  width: 13.5em;
+}
+
 #content{
   background-color: #fff;
   padding: 100px 0;
@@ -271,7 +295,7 @@ img.main-banner{
   padding: 40px 0;
   color: #C0C0C0;
 }
-#footer a { color: #ddd; }
+#footer a { color: #fff; }
 #footer a:hover { color: #fff; }
 
 /* Misc Styles

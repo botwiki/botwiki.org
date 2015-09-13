@@ -1,12 +1,12 @@
 /*
 Title: Welcome To Botwiki.org
-Description: An open-source collection of tutorials, articles, datasets and other resources for creating useful/interesting/artistic online bots.
+Description: Botwiki.org is an open-source collection of tutorials, articles and datasets and other resources for creating useful, interesting, artistic and friendly online bots.
 Nav: hidden
 */
 
 Hi!
 
-**Botwiki.org** is an [open-source](https://github.com/botwiki/botwiki.org) collection of [tutorials](tutorials/), [articles](articles/) and [datasets and other resources](resources/) for creating **useful, interesting, artistic and friendly** [online bots](bots/).
+**Botwiki.org** is an [open-source](https://github.com/botwiki/botwiki.org) collection of [tutorials](tutorials/), [articles](articles/) and [datasets and other resources](resources/) for creating **useful, interesting, artistic and friendly** [online bots](bots/) -- smart software agents that do fun or useful stuff.
 
 ![Marinoni printing press](/content/images/illustrations/marinoni-printing-press.png){.float-right .main-banner}
 
@@ -19,6 +19,6 @@ Some examples of such bots include:
 
 You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
 
--- [Stefan](https://twitter.com/fourtonfish), the original creator of **Botwiki.org**
+-- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
 <!-- TODO: Eventually the link above should be changed to "the Botwiki.org team" and either link to the Github team page or a separate About page --> 
