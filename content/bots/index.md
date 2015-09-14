@@ -36,6 +36,17 @@ Browse [more Twitter bots](/tag/twitterbot).
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
+### &#35;botALLY and Bot Summit
+
+There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a dedicated [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)).
+
+The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
+
+[Darius Kazemi](https://twitter.com/tinysubversions) organizes the Bot Summit events dedicated to this community.
+
+- [Bot Summit 2013](http://tinysubversions.com/2013/11/bot-summit/)
+- [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
+
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/deep-sea-diver-768.jpg){.float-left}
 
 ### [Slack](https://slack.com/) bots
