@@ -280,7 +280,14 @@ img.main-banner {
   margin: 0;
   float: left;
 }
-#header .menu-icon {
+label.cursor-pointer {
+  cursor: pointer;
+}
+#menu-toggle {
+  display: none;
+  /* hide the checkbox */
+}
+#header #menu-icon {
   display: none;
   color: #fff;
   font-size: 2em;
@@ -299,7 +306,7 @@ img.main-banner {
   font-weight: bold;
   margin-left: 20px;
 }
-#header a:hover#menu-icon {
+#header a:checked#menu-icon {
   background-color: #444;
   border-radius: 4px 4px 0 0;
 }
@@ -380,7 +387,7 @@ div.meta p.last-updated {
   #header h1 a {
     font-size: 1em;
   }
-  #header .menu-icon {
+  #header #menu-icon {
     display: inline-block;
   }
   #header nav a {
@@ -390,14 +397,15 @@ div.meta p.last-updated {
     color: #5D9CEC;
   }
   #header nav ul,
-  nav:active ul {
+  nav:active ul,
+  #menu {
     opacity: 0;
     position: absolute;
     padding: 20px;
     background: #fff;
     border: 5px solid #444;
     right: 2.7em;
-    top: 30px;
+    top: 80px;
     width: 80%;
     border-radius: 4px 0 4px 4px;
     z-index: 9999;
@@ -433,12 +441,13 @@ div.meta p.last-updated {
     -webkit-transition-delay: 0.2s;
     transition-delay: 0.2s;
   }
-  #header nav:hover ul {
+  #header nav #menu-toggle:checked ul,
+  #menu-toggle:checked + #menu {
     opacity: 1;
-    top: 50px;
+    top: 100px;
     pointer-events: all;
   }
-  #header nav:hover li {
+  #header nav #menu-toggle:checked + #menu li {
     margin-left: 0;
     opacity: 1;
   }
