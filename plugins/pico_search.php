@@ -33,14 +33,17 @@ class Pico_Search
                 $this->pages[$k]["score"] = 0;
                 $title = strtoupper($page["title"]);
                 $content = strtoupper($page["content"]);
+                $tags = strtoupper($page["tags"]);
 
                 if (strstr($title, $q)) $this->pages[$k]["score"]+= 10;
                 if (strstr($content, $q)) $this->pages[$k]["score"]+= 10;
+                if (strstr($tags, $q)) $this->pages[$k]["score"]+= 10;
 
                 foreach($qs as $query)
                 {
                     if (strstr($title, $query)) $this->pages[$k]["score"]+= 3;
                     if (strstr($content, $query)) $this->pages[$k]["score"]+= 3;
+                    if (strstr($tags, $query)) $this->pages[$k]["score"]+= 3;
                 }
             }
 
