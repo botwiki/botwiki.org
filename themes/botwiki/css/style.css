@@ -337,6 +337,7 @@ label.cursor-pointer {
 }
 #footer a {
   color: #fff;
+  font-weight: bold;
 }
 #footer a:hover {
   color: #fff;
