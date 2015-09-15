@@ -5,6 +5,14 @@
   {% if search_term == 'opensource' or search_term == 'open source' %}
     <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
   {% endif %}
+  {% if search_term == 'stefan' or search_term == 'fourtonfish' or search_term == 'four ton fish' %}
+    <p>Hello!</p>
+    <ul>
+      <li>Here is my <a href="https://fourtonfish.com/">website</a>,</li>
+      <li>this is my <a href="https://github.com/fourtonfish">GitHub page</a>,</li>
+      <li>and my <a href="https://twitter.com/fourtonfish">Twitter</a>.</li>
+    </ul>
+  {% endif %}
 
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
   {% for page in search_results %}

@@ -61,6 +61,7 @@ Browse [more Slack bots](/tag/slackbot).
 
 ### Bot-powered games
 - [Detective](http://fourtonfish.com/detective/) by [@fourtonfish](https://twitter.com/fourtonfish)
+- Bots tagged with [#game](/tag/game)
 
-See also bots tagged with [#game](/tag/game).
+See also bots tagged with [#opensource](/tag/opensource).
 
