@@ -58,6 +58,8 @@ The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter
 
 Browse [more Slack bots](/tag/slackbot).
 
+### Connected Devices, Internet Of Things (IoT)
+ - See the [#IoT](/tag/iot) tag.
 
 ### Bot-powered games
 - [Detective](http://fourtonfish.com/detective/) by [@fourtonfish](https://twitter.com/fourtonfish)
