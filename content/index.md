@@ -6,7 +6,7 @@ Nav: hidden
 
 Hi!
 
-**Botwiki.org** is an [open-source](https://github.com/botwiki/botwiki.org) collection of [tutorials](tutorials/), [articles](articles/), [datasets and other resources](resources/) for creating **useful, interesting, artistic and friendly** [online bots](bots/) -- smart software agents that do fun or useful stuff.
+**Botwiki.org** is an [open-source](https://github.com/botwiki/botwiki.org) collection of [tutorials](tutorials/), [articles](articles/), [datasets and other resources](resources/) for creating **useful, interesting, artistic and friendly** [online bots](bots/) -- smart software agents that do fun or useful stuff -- for [Twitter](https://twitter.com/), [Slack](https://slack.com/), [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and other online networks.
 
 ![Marinoni printing press](/content/images/illustrations/marinoni-printing-press.png){.float-right .main-banner}
 
