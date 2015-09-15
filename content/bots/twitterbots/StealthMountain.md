@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/StealthMountain.png)](https://twitter.com/StealthMountain)
-It "allerts twitter users that they typed sneak peak when they meant sneak peek".
+
+[@StealthMountain](https://twitter.com/StealthMountain) "allerts twitter users that they typed sneak peak when they meant sneak peek".

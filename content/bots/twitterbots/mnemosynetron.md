@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/mnemosynetron.png)](https://twitter.com/mnemosynetron)
 
-A reminder bot by [@thricedotted](https://twitter.com/thricedotted). See more of her bots [here](https://twitter.com/thricedotted/lists/thricedotted-bottes/members).
+[@mnemosynetron](https://twitter.com/mnemosynetron) is a Twitter reminder bot by [@thricedotted](https://twitter.com/thricedotted). See more of her bots [here](https://twitter.com/thricedotted/lists/thricedotted-bottes/members).

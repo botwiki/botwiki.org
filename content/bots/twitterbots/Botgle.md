@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/Botgle.png)](https://twitter.com/Botgle)
-A Twitter bot that plays games of [Boggle](https://en.wikipedia.org/wiki/Boggle). Created by [Colin Mitchell](https://twitter.com/muffinista), read more [on his blog](http://muffinlabs.com/botgle/).
+
+[@Botgle](https://twitter.com/Botgle) is a Twitter bot that plays games of [Boggle](https://en.wikipedia.org/wiki/Boggle). Created by [Colin Mitchell](https://twitter.com/muffinista), read more [on his blog](http://muffinlabs.com/botgle/).

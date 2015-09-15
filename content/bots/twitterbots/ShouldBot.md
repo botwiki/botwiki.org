@@ -12,4 +12,4 @@ Robots: index,follow
 [![](/content/bots/twitterbots/images/ShouldBot.png)](https://twitter.com/ShouldBot)
 
 
-An [open source](https://github.com/20hz20khz/ShouldBot) Twitter bot that helps you decide what to do. Created by [Justin Riley](https://twitter.com/20hz20khz).
+[@ShouldBot](https://twitter.com/ShouldBot) is an [open source](https://github.com/20hz20khz/ShouldBot) Twitter bot that helps you decide what to do. Created by [Justin Riley](https://twitter.com/20hz20khz).

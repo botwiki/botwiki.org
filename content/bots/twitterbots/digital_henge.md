@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/digital_henge.png)](https://twitter.com/digital_henge)
 
-A bot that tweets *moon phases, equinoxes, solstices, and "major" eclipses* using emojis. Created by [Alice Maz](https://twitter.com/alicemazzy).
+[@digital_henge](https://twitter.com/digital_henge) is a Twitter bot that tweets *moon phases, equinoxes, solstices, and "major" eclipses* using emojis. Created by [Alice Maz](https://twitter.com/alicemazzy).

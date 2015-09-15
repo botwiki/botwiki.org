@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/holidaybot4000.png)](https://twitter.com/holidaybot4000)
-A Twitter bot that tweets holidays around the world for the given day. Created by [@fourtonfish](https://twitter.com/fourtonfish).
+
+[@holidaybot4000](https://twitter.com/holidaybot4000) is a Twitter bot that tweets holidays around the world for the given day. It was created by [@fourtonfish](https://twitter.com/fourtonfish).

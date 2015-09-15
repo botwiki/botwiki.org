@@ -3,7 +3,7 @@ Title: @SortingBot
 Description: "I'm the Sorting Hat and I'm here to say / I love sorting students in a major way."
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitterbot,active,film,opensource,tinysubversions
+Tags: twitterbot,active,literature,opensource,tinysubversions
 
 Nav: hidden
 Robots: index,follow
@@ -15,4 +15,4 @@ Robots: index,follow
   If you follow [@SortingBot] on Twitter, it adds you to a queue, and when it's your turn it gives you a short rhyming couplet sorting you into a Hogwarts house from the Harry Potter books.
 </blockquote>
 
-Created by [Darius Kazemi](https://twitter.com/tinysubversions). Read more [on his blog](http://tinysubversions.com/notes/sorting-bot/) or [download the source code on GitHub](https://github.com/dariusk/sorting-bot).
+[@SortingBot](https://twitter.com/SortingBot) was created by [Darius Kazemi](https://twitter.com/tinysubversions). Read more [on his blog](http://tinysubversions.com/notes/sorting-bot/) or [download the source code on GitHub](https://github.com/dariusk/sorting-bot).

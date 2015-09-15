@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/slackbots/images/slack-poker-bot.png)](https://github.com/CharlieHess/slack-poker-bot)
 
-_**slack-poker-bot**_ is an [opensource](https://github.com/CharlieHess/slack-poker-bot) bot that "turns Slack into a legitimate Texas Hold'em client". Created by [Charlie Hess](https://twitter.com/Charlie_Hess).
+[slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot) is an open source bot that "turns Slack into a legitimate Texas Hold'em client". Created by [Charlie Hess](https://twitter.com/Charlie_Hess).

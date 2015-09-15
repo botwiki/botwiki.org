@@ -11,6 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/infinitedeserts.png)](https://twitter.com/infinitedeserts)
 
-"An infinity of deserts, each more infinite than the last."
-
-Created by [@getdizzzy](https://twitter.com/getdizzzy).
+[@infinitedeserts](https://twitter.com/infinitedeserts) is a Twitter bot that posts "an infinity of deserts, each more infinite than the last". It was created by [@getdizzzy](https://twitter.com/getdizzzy).

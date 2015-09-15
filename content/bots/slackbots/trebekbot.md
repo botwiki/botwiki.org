@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/slackbots/images/trebekbot.png)](https://github.com/gesteves/trebekbot)
 
-**trebekbot** is an [opensource](https://github.com/gesteves/trebekbot) [*Jeopardy!*](https://en.wikipedia.org/wiki/Jeopardy!) bot for Slack, created by [Guillermo Esteves](https://twitter.com/gesteves).
+[trebekbot](https://github.com/gesteves/trebekbot) is an open source [*Jeopardy!*](https://en.wikipedia.org/wiki/Jeopardy!) bot for Slack, created by [Guillermo Esteves](https://twitter.com/gesteves).

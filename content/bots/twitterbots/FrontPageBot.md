@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/FrontPageBot.png)](https://twitter.com/FrontPageBot)
 
-A Twitter bot that posts front pages of newspapers. Created by [Jacob Roufa](https://twitter.com/jroufa).
+[@FrontPageBot](https://twitter.com/FrontPageBot) is a Twitter bot that posts front pages of newspapers. Created by [Jacob Roufa](https://twitter.com/jroufa).

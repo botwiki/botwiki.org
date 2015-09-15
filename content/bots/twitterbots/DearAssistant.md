@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/DearAssistant.png)](https://twitter.com/DearAssistant)
-A Twitter bot that answers various questions, like *When was Mahatama Gandhi born?* or *What is the capital of Japan?* Created by [Amit Agarwal](https://twitter.com/labnol).
+
+[@DearAssistant](https://twitter.com/DearAssistant) is a Twitter bot that answers various questions, like *When was Mahatama Gandhi born?* or *What is the capital of Japan?* Created by [Amit Agarwal](https://twitter.com/labnol).
