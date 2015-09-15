@@ -291,8 +291,8 @@ label.cursor-pointer {
   display: none;
   color: #fff;
   font-size: 2em;
-  width: 1em;
-  height: 1em;
+  width: 36px;
+  height: 24px;
 }
 #header nav {
   float: right;
