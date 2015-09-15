@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/bartleby_scrvnr.png)](https://twitter.com/bartleby_scrvnr)
-A short-story character turned into a Twitter bot. Created by [@fourtonfish](https://twitter.com/fourtonfish).
+
+[@bartleby_scrvnr](https://twitter.com/bartleby_scrvnr) is a short-story character turned into a Twitter bot. It was created by [@fourtonfish](https://twitter.com/fourtonfish).

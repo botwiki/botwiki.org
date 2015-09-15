@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/botwikidotorg.png)](https://twitter.com/botwikidotorg)
-The official Botwiki Twitter bot. It retweets @ mentions of the Botwiki maintainers. Created by [@fourtonfish](https://twitter.com/fourtonfish), [source code available on Github](https://github.com/botwiki/community-retweet-bot).
+
+[@botwikidotorg](https://twitter.com/botwikidotorg) is the official, semi-automated Botwiki.org Twitter account. The bot retweets @ mentions from the Botwiki.org maintainers. It was created by [@fourtonfish](https://twitter.com/fourtonfish), [source code available on Github](https://github.com/botwiki/community-retweet-bot).

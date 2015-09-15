@@ -10,4 +10,5 @@ Robots: index,follow
 */
 
 [![](/content/bots/twitterbots/images/thesaurusgame.png)](https://twitter.com/thesaurusgame)
-A simple thesaurus game on Twitter, read more about it on [thesaurusgame.tumblr.com](http://thesaurusgame.tumblr.com/).
+
+[@thesaurusgame](https://twitter.com/thesaurusgame) is a simple thesaurus game on Twitter, read more about it on [thesaurusgame.tumblr.com](http://thesaurusgame.tumblr.com/).

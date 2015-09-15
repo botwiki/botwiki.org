@@ -11,7 +11,7 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/mothgenerator.png)](https://twitter.com/mothgenerator)
 
-Bot created by [@katierosepipkin](https://twitter.com/katierosepipkin) and [@lorenschmidt](https://twitter.com/lorenschmidt) that randomly generates moths.
+[@mothgenerator](https://twitter.com/mothgenerator) is a Twitter bot created by [@katierosepipkin](https://twitter.com/katierosepipkin) and [@lorenschmidt](https://twitter.com/lorenschmidt) that randomly generates moths.
 
 
 **Articles**
