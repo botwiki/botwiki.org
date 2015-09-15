@@ -6,6 +6,8 @@ Date: July 23, 2015
 
 ![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}
 
+Below is a list of useful resources, such as datasets, APIs, free images. Be sure to also check out [the open source bots](/tag/opensource).
+
 ### Public Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
@@ -66,5 +68,3 @@ Date: July 23, 2015
 
 ### Specific Resources
 - [Twitter bots](/resources/twitterbots)
-
-Also check out [the opensourced bots](/tag/opensource).
