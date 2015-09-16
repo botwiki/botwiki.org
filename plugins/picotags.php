@@ -255,7 +255,7 @@ class Picotags {
                 $template = $this->ptags_template;
             }
             // Set page title to #TAG
-            $twig_vars['meta']['title'] = "#" . $this->current_tag;
+            $twig_vars['meta']['title'] = "#" .implode(", #", $this->current_tags);
             // Return current tag and list of all tags as Twig vars
         }
             $twig_vars['pagestags'] = $this->pagestags;
