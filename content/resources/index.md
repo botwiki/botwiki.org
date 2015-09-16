@@ -6,7 +6,7 @@ Date: July 23, 2015
 
 ![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}
 
-Below is a list of useful resources, such as datasets, APIs, free images. Be sure to also check out [the open source bots](/tag/opensource).
+Below is a list of useful resources, such as datasets, APIs and free images. Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource).
 
 ### Public Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
