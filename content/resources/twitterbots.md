@@ -9,6 +9,9 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 ### Libraries
 - [ttezel/twit](https://github.com/ttezel/twit) -- a very good and simple node.js twitterbot module
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "A simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
+- [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
+- [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
+- [mkproj](https://www.npmjs.com/package/mkproj) -- tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
