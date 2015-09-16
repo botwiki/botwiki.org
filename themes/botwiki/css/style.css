@@ -82,7 +82,7 @@ td {
 body {
   line-height: 1;
   color: black;
-  background: #212832;
+  background: #434a54;
 }
 table {
   border-collapse: separate;
@@ -155,7 +155,7 @@ select:focus {
 body {
   font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #212832;
+  background: #434a54;
   -webkit-font-smoothing: antialiased;
 }
 a,
@@ -185,9 +185,6 @@ h6 {
 h1,
 article h2 {
   font-size: 2.5em;
-}
-article h2 {
-  font-weight: bold;
 }
 h2 {
   font-size: 1.8em;

@@ -6,7 +6,7 @@
   Variables
 */
 
-@main-color: #212832; 
+@main-color: #434A54; 
 
 /*=================================*/
 /* Pico Default Theme
@@ -99,7 +99,7 @@ select {
 input:focus,
 textarea:focus,
 select:focus {
-  color: #212832;
+  color: @main-color - #222;
   background: #fff;
   border: 1px solid #666666;
 }
@@ -119,7 +119,7 @@ a, a:visited {
 }
 
 a:hover, a:active {
-  color: #212832;
+  color: @main-color - #222;
   text-decoration: underline;
 }
 
@@ -128,7 +128,7 @@ a:hover{
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212832;
+  color: @main-color - #222;
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
@@ -136,10 +136,6 @@ h1, h2, h3, h4, h5, h6 {
 h1,
 article h2 {
   font-size: 2.5em;
-}
-
-article h2 {
-  font-weight: bold;
 }
 
 h2 {
@@ -372,7 +368,7 @@ div.meta p.last-updated{
     display:inline-block;
   }
   #header nav a {
-    color: #212832; 
+    color: @main-color - #222; 
   }
   #header nav a:hover {
     color: #5D9CEC; 
