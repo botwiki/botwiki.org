@@ -3,7 +3,7 @@ Title: @censusAmericans
 Description: Tweeting the census one real american at a time.
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitterbot,active,FiveThirtyEight
+Tags: twitter,twitterbot,active,FiveThirtyEight
 
 Nav: hidden
 Robots: index,follow

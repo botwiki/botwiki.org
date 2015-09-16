@@ -3,7 +3,7 @@ Title: @DeepDreamThis
 Description: #deepdream
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitterbot,active,images,deepdream
+Tags: twitter,twitterbot,active,images,deepdream
 
 Nav: hidden
 Robots: index,follow

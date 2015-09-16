@@ -3,7 +3,7 @@ Title: @digital_henge
 Description: "Moon phases, equinoxes, solstices, and "major" eclipses."
 Author: Stefan Bohacek
 Date: August 31, 2015
-Tags: twitterbot,active,emoji,alicemazzy
+Tags: twitter,twitterbot,active,emoji,alicemazzy
 
 Nav: hidden
 Robots: index,follow

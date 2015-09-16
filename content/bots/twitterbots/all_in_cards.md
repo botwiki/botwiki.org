@@ -3,7 +3,7 @@ Title: @all_in_cards
 Description: "Generating cards for a mysterious card game."
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitterbot,active,images,ckolderup
+Tags: twitter,twitterbot,active,images,ckolderup
 
 Nav: hidden
 Robots: index,follow

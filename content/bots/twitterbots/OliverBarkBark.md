@@ -3,7 +3,7 @@ Title: @OliverBarkBark
 Description: Bark!
 Author: Stefan Bohacek
 Date: September 15, 2015
-Tags: twitterbot,active,opensource,python,iot,raspberry pi
+Tags: twitter,twitterbot,active,opensource,python,iot,raspberry pi
 
 Nav: hidden
 Robots: index,follow

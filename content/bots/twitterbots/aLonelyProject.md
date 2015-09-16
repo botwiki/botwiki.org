@@ -3,7 +3,7 @@ Title: @aLonelyProject
 Description: "Generating cards for a mysterious card game."
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitterbot,active,phillylauren
+Tags: twitter,twitterbot,active,phillylauren
 
 Nav: hidden
 Robots: index,follow

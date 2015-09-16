@@ -3,7 +3,7 @@ Title: @riverlevel_1867
 Description: "Live river-level data from over 2,400 government gauges across England and Wales."
 Author: Stefan Bohacek
 Date: August 6, 2015
-Tags: twitterbot,active
+Tags: twitter,twitterbot,active
 
 Nav: hidden
 Robots: index,follow

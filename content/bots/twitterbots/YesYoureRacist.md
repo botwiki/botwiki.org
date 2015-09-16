@@ -3,7 +3,7 @@ Title: @YesYoureRacist
 Description: I'm not a racist, but...
 Author: Stefan Bohacek
 Date: July 9, 2015
-Tags: twitterbot,active,political
+Tags: twitter,twitterbot,active,political
 
 Nav: hidden
 Robots: index,follow
