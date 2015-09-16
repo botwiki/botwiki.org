@@ -1,5 +1,9 @@
 {% if pagestags|length == 0 %}
-  <p>No posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
+  <p>No posts tagged 
+
+    {% for tag in current_tags %}
+      <a href="/tag/{{ tag}}">#{{ tag }}</a>
+    {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
   <p><a href="/">Back to the main page.</a>
 {% else %}
 
@@ -7,7 +11,12 @@
   <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
 {% endif %}
 
-  <p>Posts tagged <a href="{{ page.url }}">#{{ current_tag }}</a>:</p>
+  <p>Posts tagged 
+    {% for tag in current_tags %}
+      <a href="/tag/{{ tag}}">#{{ tag }}</a>
+    {% endfor %}
+  </p>
+
   {% for page in pagestags %}
   {% if page.date %}
   <div class="search-item">
