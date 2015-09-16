@@ -35,7 +35,16 @@ Below is a list of useful resources, such as datasets, APIs and free images. Be 
 - [Wordnik](http://developer.wordnik.com/) -- "definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, and more"
 - [AlchemyAPI](http://www.alchemyapi.com/developers) -- text and image analysis tools 
 - [Project Gutenberg](https://www.gutenberg.org/wiki/Gutenberg:Information_About_Robot_Access_to_our_Pages) -- "information about robot access to our pages"
-- [RiTa](http://www.rednoise.org/rita/index.html) -- a software toolkit for generative literature
+- [RiTa](http://www.rednoise.org/rita/index.html) -- a software toolkit for generative literature:
+  - context-free grammars and markov-chains
+  - taggers for syllables, phonemes, stress, part-of-speech, etc.
+  - modules for tokenization, verb conjugation, pluralization, and stemming
+  - a user-customizable lexicon with a letter-to-sound phoneme generation
+  - integration with processing, processingjs, and nodejs
+  - integrates with WordNet dictionary
+  - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
+
+
 
 #### Face and object recognition
 - [OpenFace API](http://openfaceapi.com/)
