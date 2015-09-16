@@ -5,7 +5,8 @@
   {% if search_term == 'opensource' or search_term == 'open source' %}
     <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
   {% endif %}
-  {% if search_term == 'stefan' or search_term == 'fourtonfish' or search_term == 'four ton fish' %}
+  {% set search_term_lower = search_term|lower %}
+  {% if search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
     <p>Hello!</p>
     <ul>
       <li>Here is my <a href="https://fourtonfish.com/">website</a>,</li>
@@ -20,7 +21,13 @@
     <div class="search-item">
       <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
       <p class="excerpt">{{ page.description }}</p>
-      {% if page.date %}<p class="meta">{{ page.date }} by {{ page.author }}</p>{% endif %}
+      <p class="meta">
+         {% if page.tags|length > 0 %}
+          {% for tag in page.tags|split(',') %}
+          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+          {% endfor %}
+        {% endif %}
+      {% if page.date %}<br/>Last updated on {{ page.date }}</p>{% endif %}
     </div>
   {% endfor %}
 {% endif %}
