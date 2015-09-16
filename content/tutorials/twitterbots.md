@@ -25,7 +25,7 @@ Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at 
 
 ### Tools and Twitter-specific resources
 
-See [Resources for Twitter bots](https://www.botwiki.org/resources/twitterbots).
+See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).
