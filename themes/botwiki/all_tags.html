@@ -11,15 +11,17 @@
   {% for page in pagestags %}
   {% if page.date %}
   <div class="search-item">
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <p class="meta">{{ page.description }}<br/>
-      <span class="tags">Tags:
+    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <p class="meta">{{ page.description }}
+    </p>
+    <p class="meta">
+      <span class="tags">
         {% for tag in page.tags %}
         <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
         {% endfor %}
       </span>
-    </p>
-    <p class="meta">Last updated on {{ page.date }}
+      <br/>
+      Last updated on {{ page.date }}
     </p>
   </div>
   {% endif %}
