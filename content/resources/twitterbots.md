@@ -9,12 +9,13 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 ### Libraries
 - [ttezel/twit](https://github.com/ttezel/twit) -- a very good and simple node.js twitterbot module
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "A simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
+- [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
+- [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
 - [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- A tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
-- [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
-- [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
+
 
 ### Other/Unsorted
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
