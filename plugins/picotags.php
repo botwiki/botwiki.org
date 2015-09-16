@@ -13,6 +13,7 @@ class Picotags {
 
     public $is_tag;
     public $current_tag;
+    public $current_tags;
     private $pagestags;
 
     /*
@@ -83,7 +84,8 @@ class Picotags {
         // Set is_tag to true if the first four characters of the URL are 'tag/'
         $this->is_tag = (substr($url, 0, 4) === 'tag/');
         // If the URL does start with 'tag/', grab the rest of the URL
-        if ($this->is_tag) $this->current_tag = urldecode(substr($url, 4));
+//        if ($this->is_tag) $this->current_tag = urldecode(substr($url, 4));
+          if ($this->is_tag) $this->current_tags = explode('+', substr($url, 4));
     }
 
     public function before_read_file_meta(&$headers)
@@ -176,7 +178,7 @@ class Picotags {
                         // And add them to the tag_list array
                         $tag_list[] = $tag;
                         // If the tag matches the current_tag
-                        if ($tag === $this->current_tag) {
+                        if (count(array_intersect($this->current_tags, $page['tags'])) == count($this->current_tags) && !in_array($page, $new_pages)){
                             // Add that page to the new_pages
                             $new_pages[] = $page;
                         }
@@ -258,6 +260,7 @@ class Picotags {
         }
             $twig_vars['pagestags'] = $this->pagestags;
             $twig_vars['current_tag'] = $this->current_tag; /* {{ current_tag }} is a string*/
+            $twig_vars['current_tags'] = $this->current_tags;
             /*
                 MULTICOLUMNS OUTPUT
                 Change the value of $config['ptags_nbcol'] = 5; in the config.php
