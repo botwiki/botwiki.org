@@ -3,7 +3,7 @@ Title: @pixelsorter
 Description: A Twitter bot that sorts your pixels.
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitterbot,active,images,wayspurrchen
+Tags: twitter,twitterbot,active,images,wayspurrchen
 
 Nav: hidden
 Robots: index,follow

@@ -3,7 +3,7 @@ Title: @thesaurusgame
 Description: A thesaurus game.
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitterbot,active,game
+Tags: twitter,twitterbot,active,game
 
 Nav: hidden
 Robots: index,follow

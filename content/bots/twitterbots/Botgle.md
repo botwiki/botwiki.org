@@ -3,7 +3,7 @@ Title: @Botgle
 Description: "The game is played using a plastic grid of lettered dice, in which players attempt to find words in sequences of adjacent letters."
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitterbot,active,game,muffinista
+Tags: twitter,twitterbot,active,game,muffinista
 
 Nav: hidden
 Robots: index,follow

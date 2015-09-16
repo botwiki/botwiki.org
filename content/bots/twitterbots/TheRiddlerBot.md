@@ -3,7 +3,7 @@ Title: @TheRiddlerBot
 Description: Solve the riddle!
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitterbot,active,game,verhoevenben,1vangro,fvancesco,pedrojmmartins
+Tags: twitter,twitterbot,active,game,verhoevenben,1vangro,fvancesco,pedrojmmartins
 
 Nav: hidden
 Robots: index,follow

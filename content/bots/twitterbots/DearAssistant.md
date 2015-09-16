@@ -3,7 +3,7 @@ Title: @DearAssistant
 Description: Solve the riddle!
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitterbot,active,useful,labnol
+Tags: twitter,twitterbot,active,useful,labnol
 
 Nav: hidden
 Robots: index,follow

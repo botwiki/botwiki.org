@@ -3,7 +3,7 @@ Title: @FrontPageBot
 Description: A Twitter bot that posts front pages of newspapers.
 Author: Stefan Bohacek
 Date: July 27, 2015
-Tags: twitterbot,active,images,news,jroufa
+Tags: twitter,twitterbot,active,images,news,jroufa
 
 Nav: hidden
 Robots: index,follow

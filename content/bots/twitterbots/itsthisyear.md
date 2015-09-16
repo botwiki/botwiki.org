@@ -3,7 +3,7 @@ Title: @itsthisyear
 Description: All the things we should have or do or know by now
 Author: Stefan Bohacek
 Date: September 10, 2015
-Tags: twitterbot,active,RobertVinluan
+Tags: twitter,twitterbot,active,RobertVinluan
 
 Nav: hidden
 Robots: index,follow

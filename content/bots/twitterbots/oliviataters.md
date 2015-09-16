@@ -3,7 +3,7 @@ Title: @oliviataters
 Description: "May not always communicate in complete sentences."
 Author: Stefan Bohacek
 Date: September 6, 2015
-Tags: twitterbot,active,markovchain,robdubbin
+Tags: twitter,twitterbot,active,markovchain,robdubbin
 
 Nav: hidden
 Robots: index,follow
