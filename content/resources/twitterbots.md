@@ -12,6 +12,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
 - [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
 - [mkproj](https://www.npmjs.com/package/mkproj) -- tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
+- [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy. 
+- [filtered-followback](https://www.npmjs.com/package/filtered-followback) -- make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
