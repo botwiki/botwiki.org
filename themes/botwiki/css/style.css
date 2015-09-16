@@ -193,6 +193,9 @@ h3 {
   font-size: 1.7em;
   margin-top: 2em;
 }
+h4 {
+  font-weight: bold;
+}
 p {
   margin-bottom: 1em;
 }

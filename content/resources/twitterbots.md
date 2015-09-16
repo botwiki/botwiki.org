@@ -6,7 +6,9 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
-### Libraries
+### Libraries/Frameworks
+
+#### node.js/JavaScript
 - [ttezel/twit](https://github.com/ttezel/twit) -- a very good and simple node.js twitterbot module
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "A simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
 - [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
@@ -14,6 +16,19 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [mkproj](https://www.npmjs.com/package/mkproj) -- tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
 - [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy. 
 - [filtered-followback](https://www.npmjs.com/package/filtered-followback) -- make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
+
+#### Python
+- [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot) -- a Python framework for creating interactive Twitter bots
+
+#### Ruby
+- [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
+- [twitter_ebooks](https://github.com/mispy/twitter_ebooks) -- "a framework for building interactive twitterbots which respond to mentions/DMs"
+
+#### Go
+- [zhaytee/botville](https://github.com/zhaytee/botville) -- "a simple package for bootstrapping a Twitter bot in Go"
+
+#### Other
+- [a Perl command line client](http://www.floodgap.com/software/ttytter/) 
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
