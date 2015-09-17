@@ -22,7 +22,7 @@ Below is a list of useful resources, such as datasets, APIs and free images. Be 
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
 - [The Museum of Modern Art (MoMA) Collection](https://github.com/MuseumofModernArt/collection) -- basic metadata for more than 120,000 records (no images, but some include URLs)
 - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
-- [200,000+ Jeopardy Questions](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) -- json/csv dataset crawled from [j-archive](www.j-archive.com)
+- [200,000+ Jeopardy Questions](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) -- json/csv dataset crawled from [j-archive](http://www.j-archive.com)
 
 ![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-left}
 
