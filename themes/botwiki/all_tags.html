@@ -19,19 +19,35 @@
 
   {% for page in pagestags %}
   {% if page.date %}
-  <div class="search-item">
-    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <p class="meta">{{ page.description }}
-    </p>
-    <p class="meta">
-      <span class="tags">
-        {% for tag in page.tags %}
-        <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-        {% endfor %}
-      </span>
-      <br/>
-      Last updated on {{ page.date }}
-    </p>
+  <div class="search-item clearfix">
+    {% if 'twitterbot' in page.tags %}
+      <div class="search-thumbnail">
+        <a href="{{ page.url }}">
+          <img src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
+        </a>
+      </div>
+    {% endif %}
+    {% if 'slackbot' in page.tags %}
+      <div class="search-thumbnail">
+        <a href="{{ page.url }}">
+          <img src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
+        </a>
+      </div>
+    {% endif %}
+    <div class="search-text">
+      <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+      <p class="meta">{{ page.description }}
+      </p>
+      <p class="meta">
+        <span class="tags">
+          {% for tag in page.tags %}
+          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+          {% endfor %}
+        </span>
+        <br/>
+        Last updated on {{ page.date }}
+      </p>
+    </div>
   </div>
   {% endif %}
   {% endfor %}

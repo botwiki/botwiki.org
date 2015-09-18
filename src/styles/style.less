@@ -338,6 +338,26 @@ div.search-item p.meta,
 div.meta p.last-updated{
   font-style: italic;
 }
+
+@media only screen and (min-width : 800px) {
+  div.search-thumbnail,
+  div.search-text{
+    width: 45%;
+    padding: 1em;
+  }
+  div.search-thumbnail img{
+    max-width: 100%;
+  }
+  div.search-thumbnail{
+    float: right;
+  }
+  div.search-text{
+    float: left;
+  }
+
+}
+
+
 .clearfix:before,
 .clearfix:after {
     content: " ";
