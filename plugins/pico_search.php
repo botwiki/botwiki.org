@@ -30,21 +30,26 @@ class Pico_Search
 
             foreach($this->pages as $k => $page)
             {
-                $this->pages[$k]["score"] = 0;
-                $title = strtoupper($page["title"]);
-                $content = strtoupper($page["content"]);
-                $tags = strtoupper($page["tags"]);
+              $this->pages[$k]["score"] = 0;
+              $title = strtoupper($page["title"]);
+              $content = strtoupper($page["content"]);
+              $tags = strtoupper($page["tags"]);
 
-                if (strstr($title, $q)) $this->pages[$k]["score"]+= 10;
-                if (strstr($content, $q)) $this->pages[$k]["score"]+= 10;
-                if (strstr($tags, $q)) $this->pages[$k]["score"]+= 10;
+              if (strstr($title, $q)) $this->pages[$k]["score"]+= 10;
+              if (strstr($content, $q)) $this->pages[$k]["score"]+= 10;
+              if (strstr($tags, $q)) $this->pages[$k]["score"]+= 10;
 
-                foreach($qs as $query)
-                {
-                    if (strstr($title, $query)) $this->pages[$k]["score"]+= 3;
-                    if (strstr($content, $query)) $this->pages[$k]["score"]+= 3;
-                    if (strstr($tags, $query)) $this->pages[$k]["score"]+= 3;
-                }
+              if (count(array_intersect($qs, explode(" ", $title))) == count($qs)){
+                $this->pages[$k]["score"]+= 3;
+              }
+
+              if (count(array_intersect($qs, explode(" ", $content))) == count($qs)){
+                $this->pages[$k]["score"]+= 3;
+              }
+
+              if (count(array_intersect($qs, explode(",", $tags))) == count($qs)){
+                $this->pages[$k]["score"]+= 3;
+              }
             }
 
             $counts = array();
