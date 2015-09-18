@@ -18,16 +18,32 @@
 
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
   {% for page in search_results %}
-    <div class="search-item">
-      <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-      <p class="excerpt">{{ page.description }}</p>
-      <p class="meta">
-         {% if page.tags|length > 0 %}
-          {% for tag in page.tags|split(',') %}
-          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-          {% endfor %}
-        {% endif %}
-      {% if page.date %}<br/>Last updated on {{ page.date }}</p>{% endif %}
+    <div class="search-item clearfix">
+      {% if 'twitterbot' in page.tags %}
+        <div class="search-thumbnail">
+          <a href="{{ page.url }}">
+            <img src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
+          </a>
+        </div>
+      {% endif %}
+      {% if 'slackbot' in page.tags %}
+        <div class="search-thumbnail">
+          <a href="{{ page.url }}">
+            <img src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
+          </a>
+        </div>
+      {% endif %}
+      <div class="search-text">
+        <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+        <p class="excerpt">{{ page.description }}</p>
+        <p class="meta">
+           {% if page.tags|length > 0 %}
+            {% for tag in page.tags|split(',') %}
+            <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+            {% endfor %}
+          {% endif %}
+        {% if page.date %}<br/>Last updated on {{ page.date }}</p>{% endif %}
+      </div>
     </div>
   {% endfor %}
 {% endif %}
