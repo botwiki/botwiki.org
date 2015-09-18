@@ -233,7 +233,7 @@ img.main-banner{
 }
 
 #header {
-  padding: 60px 0;
+  padding: 60px 0 40px;
   color: #5D9CEC;
 }
 #header a { 
@@ -244,6 +244,12 @@ img.main-banner{
   color: #fff;
   text-decoration: none;
   margin-bottom: 1em;
+}
+#header a:hover { 
+  text-decoration: underline;
+}
+#header h1 a:hover { 
+  text-decoration: none;
 }
 #header h1 { 
   font-weight: bold;
@@ -260,6 +266,7 @@ label.cursor-pointer {
   display: none;
   color: #fff;
   font-size: 2em;
+  padding-top: 10px;
   width: 36px;
   height: 24px;
 }
@@ -287,13 +294,16 @@ label.cursor-pointer {
   display: inline-block;
   float: left;
 }
-#header form{
-  position: absolute;
-  top: 8em;
+form#search-form{
+  position: relative;
+  top: 2em;
+  margin: 0 auto;
+  width: 100%;
 }
 
-#header form input{
-  width: 13.5em;
+form#search-form input{
+  padding: 1em 5px;
+  width: 100%;
 }
 
 #content{
@@ -362,9 +372,6 @@ div.meta p.last-updated{
   .inner img {
     max-width:100%;
   }
-  #header {
-    margin-bottom: 40px;
-  }
   #header h1 a {
     font-size:1em;
   }
@@ -375,7 +382,7 @@ div.meta p.last-updated{
     color: @main-color - #222; 
   }
   #header nav a:hover {
-    color: #5D9CEC; 
+    color: #434a54; 
   }
 
 
@@ -403,6 +410,8 @@ div.meta p.last-updated{
     transition: all 0.2s;
     margin-left: 30px;
   }
+
+
   /*
     TODO: Why is the order here off?
   */

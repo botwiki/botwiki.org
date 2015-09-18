@@ -58,11 +58,13 @@
           {% endfor %}
         </ul>
       </nav>
-      <form action="/search">
-        <input name="q" placeholder="Search...">
-      </form>
+    <form id="search-form" action="/search">
+      <input name="q" placeholder="Search...">
+    </form>
+
     </div>
   </header>
+
   <section id="content">
     <div class="inner">
       {% if meta.purpose == "search_results" %}
