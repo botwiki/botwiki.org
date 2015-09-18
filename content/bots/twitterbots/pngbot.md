@@ -1,6 +1,6 @@
 /*
 Title: @pngbot
-Description: Low polygon pictures from any image.
+Description: A Twitter bot exploiting Twitter PNG transparency quirks.
 Author: Stefan Bohacek
 Date: September 18, 2015
 Tags: twitter,twitterbot,active,images,png,vgan
