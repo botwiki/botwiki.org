@@ -38,7 +38,7 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 
 ### &#35;botALLY and Bot Summit
 
-There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a dedicated [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)).
+There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a dedicated [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)) and a [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1).
 
 The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
