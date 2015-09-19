@@ -17,3 +17,4 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 
 ### Specific resources
 - [Twitter bots](/resources/twitterbots)
+- [IRC bots](/resources/irc-bots)
