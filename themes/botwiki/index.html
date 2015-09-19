@@ -42,6 +42,9 @@
 -->
 </head>
 <body>
+  <div id="join-botmakers">
+    <p>NEW: <a href="https://botmakers.org/">Join our Botmakers Slack group</a> to learn more about bot making, share your projects and find collaborators!</p>
+  </div>
   <header id="header">
     <div class="inner clearfix">
       <h1><a href="{{ base_url }}" id="logo">{{ site_title }}</a></h1>
@@ -58,13 +61,11 @@
           {% endfor %}
         </ul>
       </nav>
-    <form id="search-form" action="/search">
-      <input name="q" placeholder="Search...">
-    </form>
-
-    </div>
+      <form id="search-form" action="/search">
+        <input name="q" placeholder="Search...">
+      </form>
+    </div>    
   </header>
-
   <section id="content">
     <div class="inner">
       {% if meta.purpose == "search_results" %}
