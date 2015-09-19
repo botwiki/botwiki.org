@@ -3,7 +3,7 @@ Title: tesla-slack
 Description: Integrates Tesla Model S REST API to Slack
 Author: Stefan Bohacek
 Date: September 18, 2015
-Tags: slack,slackbot,tesla,opensource,open source,node.js,heikkipora
+Tags: slack,slackbot,tesla,opensource,open source,node.js,nodejs,node,heikkipora
 
 Nav: hidden
 Robots: index,follow
