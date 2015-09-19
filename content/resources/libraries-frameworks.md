@@ -21,6 +21,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) -- "fast, flexible, and lean implementation of core jQuery designed specifically for the server"
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
 - [feedparser](https://www.npmjs.com/package/feedparser) -- a robust RSS Atom and RDF feed parsing using Isaac Schlueter's [sax](https://github.com/isaacs/sax-js) parser
+- [stanford-simple-nlp](https://www.npmjs.com/package/stanford-simple-nlp) -- a simple node.js wrapper for Stanford CoreNLP
 
 ### Python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
