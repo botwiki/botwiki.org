@@ -457,9 +457,10 @@ div#join-botmakers > p > a {
     padding: 20px;
     background: #fff;
     border: 5px solid #444;
-    right: 2.7em;
-    top: 80px;
-    width: 80%;
+    left: -100px;
+    top: 100px;
+    width: -webkit-calc(65vw);
+    width: calc(65vw);
     border-radius: 4px 0 4px 4px;
     z-index: 9999;
     -webkit-transition: all 0.2s;
@@ -497,7 +498,7 @@ div#join-botmakers > p > a {
   #header nav #menu-toggle:checked ul,
   #menu-toggle:checked + #menu {
     opacity: 1;
-    top: 100px;
+    left: 0;
     pointer-events: all;
   }
   #header nav #menu-toggle:checked + #menu li {
