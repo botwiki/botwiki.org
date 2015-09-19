@@ -1,12 +1,12 @@
 /*
 Title: Resources
-Description: Various data dumps and other content for bot creators.
+Description: Various libraries, frameworks, data dumps and other content for bot creators.
 Date: July 23, 2015
 */
 
 ![Not sure how this is related to "resources"](/content/images/illustrations/advice-hostess.png){.float-right}
 
-Below is a list of categories with useful resources, such as **datasets**, **APIs** and **free images and other media**.
+Below is a list of categories with useful resources, such as **libraries**, **frameworks**, **datasets**, **APIs** and **free images and other media**.
 
 Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource).
 
