@@ -3,7 +3,7 @@ Title: @crystalliser
 Description: Image "Crystalliser".
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitter,twitterbot,active,images,opensource,dead_cells
+Tags: twitter,twitterbot,active,images,opensource,open source,dead_cells
 
 Nav: hidden
 Robots: index,follow
