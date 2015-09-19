@@ -26,7 +26,15 @@ class Pico_Search
         if (isset($_GET["q"])){
             $q = strtoupper(trim($_GET["q"]));
             while (strstr($q, "  ")) $q = str_replace("  ", " ", $q);
-            $qs = explode(" ", $q);
+
+            if (strpos($q, " OR ") === false){
+              $qs = explode(" ", $q);
+              $search_type = "AND";
+            }
+            else{            
+              $search_type = "OR";
+              $qs = explode(" OR ", $q);
+            }
 
             foreach($this->pages as $k => $page)
             {
@@ -39,17 +47,35 @@ class Pico_Search
               if (strstr($content, $q)) $this->pages[$k]["score"]+= 10;
               if (strstr($tags, $q)) $this->pages[$k]["score"]+= 10;
 
-              if (count(array_intersect($qs, explode(" ", $title))) == count($qs)){
-                $this->pages[$k]["score"]+= 3;
+              switch ($search_type) {
+                case 'AND':
+                  if (count(array_intersect($qs, explode(" ", $title))) == count($qs)){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+
+                  if (count(array_intersect($qs, explode(" ", $content))) == count($qs)){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+
+                  if (count(array_intersect($qs, explode(",", $tags))) == count($qs)){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+                break;
+                case 'OR':
+                  if (count(array_intersect($qs, explode(" ", $title))) > 0){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+
+                  if (count(array_intersect($qs, explode(" ", $content))) > 0){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+
+                  if (count(array_intersect($qs, explode(",", $tags))) > 0){
+                    $this->pages[$k]["score"]+= 3;
+                  }
+                break;
               }
 
-              if (count(array_intersect($qs, explode(" ", $content))) == count($qs)){
-                $this->pages[$k]["score"]+= 3;
-              }
-
-              if (count(array_intersect($qs, explode(",", $tags))) == count($qs)){
-                $this->pages[$k]["score"]+= 3;
-              }
             }
 
             $counts = array();
