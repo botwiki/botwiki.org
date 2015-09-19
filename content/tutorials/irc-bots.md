@@ -17,3 +17,5 @@ Nav: hidden
 Learn how to make IRC bots:
 
 - [Build IRC Bots with Node.js](http://davidwalsh.name/nodejs-irc)
+
+See also [resources for IRC bots](/resources/irc-bots).
