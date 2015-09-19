@@ -3,7 +3,7 @@ Title: Oskar
 Description: Slackbot that tracks how happy people are at work and helps remote teams to prevent isolation.
 Author: Stefan Bohacek
 Date: August 23, 2015
-Tags: slackbot,opensource,node.js,wearehanno
+Tags: slack,slackbot,opensource,node.js,wearehanno
 
 Nav: hidden
 Robots: index,follow

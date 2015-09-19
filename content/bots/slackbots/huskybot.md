@@ -3,7 +3,7 @@ Title: huskybot
 Description: Slackbot for "people who need Siberian Huskies, now".
 Author: Stefan Bohacek
 Date: August 23, 2015
-Tags: slackbot,opensource,node.js
+Tags: slack,slackbot,opensource,node.js
 
 Nav: hidden
 Robots: index,follow

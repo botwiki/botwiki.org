@@ -3,7 +3,7 @@ Title: trebekbot
 Description: A Jeopardy! bot for Slack.
 Author: Stefan Bohacek
 Date: September 4, 2015
-Tags: slackbot,opensource,ruby,game,gesteves
+Tags: slack,slackbot,opensource,ruby,game,gesteves
 
 Nav: hidden
 Robots: index,follow
