@@ -17,4 +17,5 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 
 ### Specific resources
 - [Twitter bots](/resources/twitterbots)
+- [Slack bots](/resources/slackbots)
 - [IRC bots](/resources/irc-bots)
