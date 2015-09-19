@@ -21,6 +21,7 @@ Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at 
 - [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
 - [Five Steps To Build Your Own Random Non-Sequitur Twitter Bot](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions?_escaped_fragment_=) -- with Python and [Heroku](https://www.heroku.com/)
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
+- [Fake It ‘Til You Make It: A Basic Bot Primer For The Aprogrammatic](http://blog.tullyhansen.com/post/62774813528/fake-it-til-you-make-it-a-basic-bot-primer-for) -- a tutorial by [Tully Hansen](https://twitter.com/tullyhansen) for non-programmers, using [twittbot.net](http://twittbot.net/) and [RoundTeam](https://roundteam.co/)
 - [These emojis will work in your Twitter name and bio](https://www.emojibase.com/emojis-on-twitter)
 
 ### Tools and Twitter-specific resources
