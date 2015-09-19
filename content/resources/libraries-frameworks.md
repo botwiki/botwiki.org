@@ -9,6 +9,7 @@ Nav: hidden
 For libraries and frameworks for specific networks check out their corresponding pages:
 
 - [Twitter bots](/resources/twitterbots)
+- [IRC bots](/resources/irc-bots)
 
 ![Another "machine"](/content/images/illustrations/riehle-testing-machine.jpg){.float-right}
 
