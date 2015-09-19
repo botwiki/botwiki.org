@@ -4,17 +4,17 @@ Description: Libraries and other resources specifically for Twitter bots.
 Nav: hidden
 */
 
+![Tweet, tweet](/content/images/illustrations/brambling-greenfinch.jpg){.float-left}
+
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 ### Libraries/Frameworks
 
 #### node.js/JavaScript
 - [ttezel/twit](https://github.com/ttezel/twit) -- a very good and simple node.js twitterbot module
-- [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "A simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
 - [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
 - [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
 - [mkproj](https://www.npmjs.com/package/mkproj) -- tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
-- [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy. 
 - [filtered-followback](https://www.npmjs.com/package/filtered-followback) -- make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
 
 #### Python
@@ -38,3 +38,5 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
 - [bothub.org](http://bothub.org/) -- various links for Twitter bot makers
 - [botpad.org](http://botpad.org/p/bot_resources) -- same as above, but usually inaccessible
+
+[Back to all resources](/resources)
