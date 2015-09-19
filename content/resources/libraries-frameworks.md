@@ -19,6 +19,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy.
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) -- "fast, flexible, and lean implementation of core jQuery designed specifically for the server"
+- [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
 
 ### Python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"

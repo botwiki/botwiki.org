@@ -16,6 +16,11 @@ Many people provide these resources **for free** -- and **Botwiki.org** collects
 
 ### Technical tutorials
 
+- [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
+- [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
+- [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
+
+### Network-specific tutorials
 - [Tutorials for Twitter bots](twitterbots)
 - [Tutorials for Slack bots](slackbots)
 - [Tutorials for IRC bots](irc-bots)

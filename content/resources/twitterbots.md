@@ -29,6 +29,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 #### Other
 - [a Perl command line client](http://www.floodgap.com/software/ttytter/) 
+- [Twitter Natural Language Processing](http://www.ark.cs.cmu.edu/TweetNLP/) -- tokenizer, a part-of-speech tagger, hierarchical word clusters, and a dependency parser for tweets, along with annotated corpora and web-based annotation tools
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
