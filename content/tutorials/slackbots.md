@@ -14,4 +14,4 @@ Learn how to make your own Slack bot with these tutorials:
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [How to Build A Slackbot (with node.js) + Deploy an App to Heroku for Absolute Beginners](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 
-Be sure to also [look at some Slack bots](/tag/slackbot) on this site.
+See also [Resources for Slack bots](/resources/slackbots) and [open source code for Slack bots](/tag/slack+opensource). You can also [browse all the Slack bots](/tag/slackbot) for inspiration.

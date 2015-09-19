@@ -3,7 +3,7 @@ Title: @large
 Description: On-demand ice cream for your team using Slack.
 Author: Stefan Bohacek
 Date: August 23, 2015
-Tags: slackbot
+Tags: slack,slackbot
 
 Nav: hidden
 Robots: index,follow
