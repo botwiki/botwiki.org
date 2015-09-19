@@ -2,6 +2,7 @@
 Title: Tutorials
 Description: Learn how to make your own bot!
 Date: July 24, 2015
+Tags: machine learning,nlp,language,processing,opencv
 */
 
 ![Man, presumably reading a Twitterbot tutorial](/content/images/illustrations/man-reading-mail-768.jpg){.float-right}
