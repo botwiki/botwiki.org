@@ -21,7 +21,3 @@ Some examples of such bots include:
 You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
-
-**PS**: We have a [new community](http://botmakers.org/), **come join us**!
-
-<!-- TODO: Eventually the link above should be changed to "the Botwiki.org team" and either link to the Github team page or a separate About page --> 

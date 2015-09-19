@@ -6,7 +6,8 @@
   Variables
 */
 
-@main-color: #434A54; 
+@site-width: 850px;
+@main-color: #434A54;
 
 /*=================================*/
 /* Pico Default Theme
@@ -231,12 +232,12 @@ img.main-banner{
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-  max-width: 850px;
+  max-width: @site-width;
   margin: 0 auto;
 }
 
 #header {
-  padding: 60px 0 40px;
+  padding: 30px 0 40px;
   color: #5D9CEC;
 }
 #header a { 
@@ -311,7 +312,7 @@ form#search-form input{
 
 #content{
   background-color: #fff;
-  padding: 100px 0;
+  padding: 50px 0 100px;
   font-size: 1.2em;
   line-height: 1.5em;
 }
@@ -337,10 +338,31 @@ div.search-item{
   border-top: 1px solid #eee;
   padding: 2em 0 1em;
 }
+
 div.search-item p.meta,
 div.meta p.last-updated{
   font-style: italic;
 }
+
+div#join-botmakers{
+  max-width: 100%;
+  font-weight: bold;
+  color: #fff;
+  background-color: @main-color - #111;
+}
+
+div#join-botmakers > p{
+  max-width: @site-width;
+  margin: 0 auto;
+  padding: 10px;  
+  text-align: justify;
+}
+
+div#join-botmakers > p > a{
+  color: #fff;
+  text-decoration: underline;
+}
+
 
 @media only screen and (min-width : 800px) {
   div.search-thumbnail,

@@ -273,7 +273,7 @@ img.main-banner {
   margin: 0 auto;
 }
 #header {
-  padding: 60px 0 40px;
+  padding: 30px 0 40px;
   color: #5D9CEC;
 }
 #header a {
@@ -347,7 +347,7 @@ form#search-form input {
 }
 #content {
   background-color: #fff;
-  padding: 100px 0;
+  padding: 50px 0 100px;
   font-size: 1.2em;
   line-height: 1.5em;
 }
@@ -374,6 +374,22 @@ div.search-item {
 div.search-item p.meta,
 div.meta p.last-updated {
   font-style: italic;
+}
+div#join-botmakers {
+  max-width: 100%;
+  font-weight: bold;
+  color: #fff;
+  background-color: #323943;
+}
+div#join-botmakers > p {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: justify;
+}
+div#join-botmakers > p > a {
+  color: #fff;
+  text-decoration: underline;
 }
 @media only screen and (min-width: 800px) {
   div.search-thumbnail,
