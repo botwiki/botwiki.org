@@ -3,7 +3,7 @@ Title: @belongbot4000
 Description: An unofficial belong.io bot.
 Author: Stefan Bohacek
 Date: September 15, 2015
-Tags: twitter,twitterbot,active,node,web scraping,fourtonfish
+Tags: twitter,twitterbot,active,node.js,nodejs,node,web scraping,fourtonfish
 
 Nav: hidden
 Robots: index,follow

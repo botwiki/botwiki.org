@@ -3,7 +3,7 @@ Title: @nmstereo
 Description: "Get yer hits out!"
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitter,twitterbot,inactive,opensource,open source,NixonMcInnes,iot,raspberry pi
+Tags: twitter,twitterbot,inactive,opensource,open source,python,NixonMcInnes,iot,raspberry pi
 
 Nav: hidden
 Robots: index,follow

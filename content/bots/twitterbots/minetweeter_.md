@@ -3,7 +3,7 @@ Title: @minetweeter_
 Description: Play MineSweeper on Twitter.
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitter,twitterbot,active,game,opensource,open source,louroboros
+Tags: twitter,twitterbot,active,game,opensource,open source,node.js,nodejs,node,louroboros
 
 Nav: hidden
 Robots: index,follow

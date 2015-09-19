@@ -3,7 +3,7 @@ Title: @bartleby_scrvnr
 Description: A short-story character turned into a bot.
 Author: Stefan Bohacek
 Date: July 9, 2015
-Tags: twitter,twitterbot,active,node,rivescript,fourtonfish
+Tags: twitter,twitterbot,active,node.js,nodejs,node,rivescript,fourtonfish,chatbot
 
 Nav: hidden
 Robots: index,follow

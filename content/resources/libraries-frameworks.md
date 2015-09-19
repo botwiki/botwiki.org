@@ -2,7 +2,7 @@
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
 Date: July 23, 2015
-Tags: web,scraping,scraper,language,nlp,machine learning,nodejs
+Tags: web,scraping,scraper,language,nlp,machine learning,nodejs,python
 Nav: hidden
 */
 
