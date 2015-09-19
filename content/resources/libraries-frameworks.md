@@ -2,7 +2,7 @@
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
 Date: July 23, 2015
-Tags: web,scraping,scraper,language,nlp,machine learning
+Tags: web,scraping,scraper,language,nlp,machine learning,nodejs
 Nav: hidden
 */
 
@@ -20,6 +20,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) -- "fast, flexible, and lean implementation of core jQuery designed specifically for the server"
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
+- [feedparser](https://www.npmjs.com/package/feedparser) -- a robust RSS Atom and RDF feed parsing using Isaac Schlueter's [sax](https://github.com/isaacs/sax-js) parser
 
 ### Python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"

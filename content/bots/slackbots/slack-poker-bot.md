@@ -3,7 +3,7 @@ Title: slack-poker-bot
 Description: A bot that turns Slack into a legitimate Texas Hold'em client.
 Author: Stefan Bohacek
 Date: September 1, 2015
-Tags: slack,slackbot,opensource,node.js,game,Charlie_Hess
+Tags: slack,slackbot,opensource,open source,node.js,game,Charlie_Hess
 
 Nav: hidden
 Robots: index,follow
