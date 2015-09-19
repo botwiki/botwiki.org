@@ -6,7 +6,7 @@
     <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
   {% endif %}
   {% set search_term_lower = search_term|lower %}
-  {% if search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
+  {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
     <p>Hello!</p>
     <ul>
       <li>Here is my <a href="https://fourtonfish.com/">website</a>,</li>
@@ -25,15 +25,18 @@
             <img src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
           </a>
         </div>
-      {% endif %}
-      {% if 'slackbot' in page.tags %}
+        <div class="search-text">
+      {% elseif 'slackbot' in page.tags %}
         <div class="search-thumbnail">
           <a href="{{ page.url }}">
             <img src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
           </a>
         </div>
+        <div class="search-text">
+      {% else %}
+      <div class="search-text-full">      
       {% endif %}
-      <div class="search-text">
+
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
         <p class="excerpt">{{ page.description }}</p>
         <p class="meta">
