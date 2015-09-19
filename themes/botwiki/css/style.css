@@ -367,6 +367,13 @@ form#search-form input {
 }
 /* Misc Styles
 /*---------------------------------------------*/
+div.search-instructions,
+p.search-instructions {
+  font-style: italic;
+}
+p.search-instructions code {
+  font-style: normal;
+}
 div.search-item {
   border-top: 1px solid #eee;
   padding: 2em 0 1em;
