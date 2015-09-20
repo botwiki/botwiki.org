@@ -2,6 +2,7 @@
 
 <img style="max-width:100%;" src="content/images/botwiki.png">
 
+***Note: All members of the Botwiki.org team and contributors must read, understand and follow our official [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md).***
 
 ## Installing Botwiki
 
@@ -26,9 +27,9 @@ sudo npm install
 ```
 
 
-## Updating content
+## Updating or adding new content
 
-All the website's content is inside the  ```content``` folder. If you only want to update the content, not the look of the page, go to the main folder and run
+All the website's content is inside the  ```content``` folder. If you only want to update the content or add something new, rather than update the look of the website, go to the main folder and run
 
 ```
 php -S localhost:5000
