@@ -1,16 +1,20 @@
 "strict";
 
-// function ready(fn) {
-//   if (document.readyState !== 'loading'){
-//     fn();
-//   } else {
-//     document.addEventListener('DOMContentLoaded', fn);
-//   }
-// }
+function ready(fn) {
+  if (document.readyState !== 'loading'){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
 
-// ready(function(){
-//   console.log('Hello!');
-// });
+ready(function(){
+  console.log('Hello!');
+  document.getElementsByClassName('search-text-after-image').
+    classList.remove('search-text-after-image').
+    classList.add('search-text');
+
+});
 
 
 /*!
