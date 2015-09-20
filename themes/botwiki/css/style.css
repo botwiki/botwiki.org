@@ -398,6 +398,15 @@ div#join-botmakers > p > a {
   color: #fff;
   text-decoration: underline;
 }
+.lazy-load,
+.lazy-loaded {
+  -webkit-transition: opacity 0.3s;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+.lazy-loaded {
+  opacity: 1;
+}
 @media only screen and (min-width: 800px) {
   div.search-thumbnail,
   div.search-text {
