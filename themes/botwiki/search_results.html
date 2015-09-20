@@ -35,14 +35,14 @@
             <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
           </a>
         </div>
-        <div class="search-text">
+        <div class="search-text-after-image">
       {% elseif 'slackbot' in page.tags %}
         <div class="search-thumbnail">
           <a href="{{ page.url }}">
             <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
           </a>
         </div>
-        <div class="search-text">
+        <div class="search-text-after-image">
       {% else %}
       <div class="search-text-full">      
       {% endif %}
