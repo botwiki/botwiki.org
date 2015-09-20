@@ -44,7 +44,7 @@ content/bots/twitterbots/
 Then create a new file ```my_new_bot.md``` and the page will be available at 
 
 
-localhost:3000/**bots/twitterbots/my_new_bot**
+localhost:5000/**bots/twitterbots/my_new_bot**
 
 Or
 
