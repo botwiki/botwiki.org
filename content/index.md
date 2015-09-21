@@ -21,3 +21,7 @@ Some examples of such bots include:
 You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
+
+**PS:** If you'd like to support this project, for the time being you can send donations [through PayPal](https://www.paypal.me/stefanbohacek) or [Bitcoin](bitcoin:1FmqUDejT1hC4mTzwLhfpUyxxaui4BSHDP?amount=0.02&label=Botwiki). If you're using PayPal, please include "Botwiki.org donation" in the "Special instructions to seller".
+
+Thank you!
