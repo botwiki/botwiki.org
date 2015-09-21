@@ -16,7 +16,7 @@ Some examples of such bots include:
 - [a poker game bot](bots/slackbots/slack-poker-bot)
 - [a bot that lets your order ice cream](bots/slackbots/large)
 - [a bot that posts current holidays](bots/twitterbots/holidaybot4000)
-- [a bot that open the door for you](bots/slackbots/doorbell-server)
+- [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
 
 You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
