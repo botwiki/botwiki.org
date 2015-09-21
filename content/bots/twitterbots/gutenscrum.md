@@ -3,7 +3,7 @@ Title: @gutenscrum
 Description: "A surrealist project management"
 Author: Stefan Bohacek
 Date: September 20, 2015
-Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,colewillsea
+Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,gutenberg,colewillsea
 
 Nav: hidden
 Robots: index,follow

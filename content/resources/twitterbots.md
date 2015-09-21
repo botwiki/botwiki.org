@@ -8,7 +8,7 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
-### Libraries/Frameworks
+### Libraries, frameworks, unsorted bot code
 
 #### node.js/JavaScript
 - [ttezel/twit](https://github.com/ttezel/twit) -- a very good and simple node.js twitterbot module
@@ -19,6 +19,10 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 #### Python
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot) -- a Python framework for creating interactive Twitter bots
+- [hugovk/word-tools](https://github.com/hugovk/word-tools) -- a collection of tools/mini-bots that do various language-related things
+- [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it
+- [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork) -- segmentation-based image filter ("patchwork" effect)
+
 
 #### Ruby
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
