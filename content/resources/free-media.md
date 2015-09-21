@@ -28,4 +28,4 @@ These are not always downloadable, but you can at least freely link to them.
 - [coverr.co](http://www.coverr.co/) -- more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/) -- archive of wildlife sounds and videos
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)

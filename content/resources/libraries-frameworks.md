@@ -26,4 +26,4 @@ For libraries and frameworks for specific networks check out their corresponding
 ### Python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)

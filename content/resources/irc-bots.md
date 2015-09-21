@@ -16,4 +16,4 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [caffeinery/coffea](https://github.com/caffeinery/coffea)
 
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)

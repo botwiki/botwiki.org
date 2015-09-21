@@ -49,4 +49,4 @@ Nav: hidden
 - [Capitol Words API](http://capitolwords.org/api/1/) -- [Capitol Words](http://capitolwords.org/) -- visualizes the most frequently used words in the Congressional Record
 - [Poetry DB](http://poetrydb.org/index.html) -- API for *next generation internet poets*
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)
