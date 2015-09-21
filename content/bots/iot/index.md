@@ -12,5 +12,6 @@ Nav: hidden
 
 Browse [all IoT bots](/tag/iot) or by network:
 - [Twitter IoT bots](/tag/iot+twitterbot)
+- [Slack IoT bots](/tag/iot+slackbot)
 
 [Return to the **Bots** page.](/bots)
