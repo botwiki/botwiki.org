@@ -114,6 +114,9 @@ article,
 figure {
   display: block;
 }
+article {
+  overflow: auto;
+}
 /* hand cursor on clickable input elements */
 label,
 input[type=button],

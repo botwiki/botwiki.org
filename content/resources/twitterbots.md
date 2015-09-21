@@ -38,6 +38,6 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 ### Other/Unsorted
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
 - [bothub.org](http://bothub.org/) -- various links for Twitter bot makers
-- [botpad.org](http://botpad.org/p/bot_resources) -- same as above, but usually inaccessible
+- [botpad.org](http://botpad.org/p/bot_resources) -- same as above, but the site is often inaccessible
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)

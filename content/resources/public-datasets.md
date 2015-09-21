@@ -29,4 +29,4 @@ Nav: hidden
 - [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [r/datasets](https://www.reddit.com/r/datasets/)
 
-[Back to all resources](/resources)
+[Back to all resources.](/resources)

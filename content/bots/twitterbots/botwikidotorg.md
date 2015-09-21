@@ -3,7 +3,7 @@ Title: @botwikidotorg
 Description: The official Botwiki Twitter bot.
 Author: Stefan Bohacek
 Date: August 1, 2015
-Tags: twitter,twitterbot,active,node,fourtonfish,opensource,open source,node.js,nodejs,node
+Tags: twitter,twitterbot,active,node,fourtonfish,opensource,open source,node.js,nodejs,node,retweet
 
 Nav: hidden
 Robots: index,follow
