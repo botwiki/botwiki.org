@@ -4,6 +4,8 @@
 
 ***Note: All members of the Botwiki.org team and contributors must read, understand and follow our official [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md).***
 
+***Note: If you want to join the official Botwiki.org and/or Botmakers.org team, [read this](https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md).***
+
 ## Installing Botwiki
 
 Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP, the content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics). You can install the site with [Composer](https://getcomposer.org/), so one of these should work (provided that you have already installed [PHP](http://php.net/manual/en/install.php)):
