@@ -15,7 +15,7 @@ I eventually learned about the [#botALLY](https://twitter.com/search?q=%23botALL
 
 Also, the `#botALLY` IRC channel was pretty much dead (they did restart their [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1) two or three days after I launched [Botmakers.org](https://botmakers.org/), so be sure to go say hi, if you're more into the artsy side of botmaking, Markov chains and all).
 
-Right now I'm mostly busy building up [Botwiki.org](https://www.botwiki.org/) and maintaining the [Botmakers.org](https://botmakers.org/) community, but I do have a few bots I'm [working on](https://github.com/fourtonfish/eddbott) -- all that on top of being a **husband** and a **father of a three and a half year old** -- and responding to people who use [simplesharingbuttons.com](https://simplesharingbuttons.com) and telling them they actually need to upload the images to their site for the code to work, **just like it says in the instructions right above the Download button!**
+Right now I'm mostly busy building up [Botwiki.org](https://www.botwiki.org/) and maintaining the [Botmakers.org](https://botmakers.org/) community, but I do have a few bots I'm [working on](https://github.com/fourtonfish/eddbott) -- all that on top of being a [web developer](https://fourtonfish.com/) in NYC and a **husband** and a **father of a three and a half year old** -- and responding to people who use [simplesharingbuttons.com](https://simplesharingbuttons.com) and telling them they actually need to upload the images to their site for the code to work, **just like it says in the instructions right above the Download button!**
 
 ...I tend to leave out the bolded part. *But one day!*
 
