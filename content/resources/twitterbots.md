@@ -16,13 +16,15 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
 - [mkproj](https://www.npmjs.com/package/mkproj) -- tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
 - [filtered-followback](https://www.npmjs.com/package/filtered-followback) -- make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
+- [queneau-buckets](https://www.npmjs.com/package/queneau-buckets) -- node.js implementation of Leonard Richardson's [Queneau Assembly](http://www.crummy.com/2011/08/18/0) buckets algorithm
+- [queneau-letters](https://www.npmjs.com/package/queneau-letters) -- node.js implementation of [Queneau Assembly/Letter Chunks](http://www.crummy.com/2011/08/18/0) algorithm by Leonard Richardson
 
 #### Python
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot) -- a Python framework for creating interactive Twitter bots
 - [hugovk/word-tools](https://github.com/hugovk/word-tools) -- a collection of tools/mini-bots that do various language-related things
 - [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it
 - [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork) -- segmentation-based image filter ("patchwork" effect)
-
+- [araile/python-botutil](https://github.com/araile/python-botutil) -- small libraries for Python botmakers
 
 #### Ruby
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
