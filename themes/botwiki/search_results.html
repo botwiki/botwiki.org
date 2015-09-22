@@ -2,9 +2,6 @@
   <p>No pages found for "{{ search_term }}". Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
   <p><a href="/">Back to the main page.</a>
 {% else %}
-  {% if search_term == 'opensource' or search_term == 'open source' %}
-    <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
-  {% endif %}
   {% set search_term_lower = search_term|lower %}
   {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
     <div class="search-instructions">

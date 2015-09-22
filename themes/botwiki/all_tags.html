@@ -7,10 +7,6 @@
   <p><a href="/">Back to the main page.</a>
 {% else %}
 
-{% if 'opensource' in current_tags %}
-  <p>For a <strong>full list</strong> of open source bots, visit <a href="https://github.com/botwiki/open-source-bots">github.com/botwiki/open-source-bots</a>.</p>
-{% endif %}
-
   <p>Posts tagged 
     {% for tag in current_tags %}
       <a href="/tag/{{ tag}}">#{{ tag }}</a>
