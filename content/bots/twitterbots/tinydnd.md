@@ -1,6 +1,6 @@
 /*
 Title: @tinydnd
-Description: *You are likely to be eaten by a tiny grue.*
+Description: "You are likely to be eaten by a tiny grue."
 Author: Stefan Bohacek
 Date: September 22, 2015
 Tags: twitter,twitterbot,active,game,dnd,dungeon,adventure,doeg
