@@ -3,7 +3,7 @@ Title: @inXwords
 Description: #twitterBotInXwords
 Author: Stefan Bohacek
 Date: September 21, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,trending,language,hugovk
+Tags: twitter,twitterbot,active,opensource,open source,python,trending,language,literature,hugovk
 
 Nav: hidden
 Robots: index,follow
