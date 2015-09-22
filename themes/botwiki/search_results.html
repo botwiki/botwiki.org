@@ -13,6 +13,8 @@
       </ul>
       <p>-- <a href="https://angel.co/stefanbohacek">Stefan</a></p>
     </div>
+  {% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
+    <p class="search-instructions">Did you mean <a href="https://botwiki.org/content/images/other/mango.gif">mango</a>?</p> 
   {% elseif search_term_lower == 'help' %}
     <p class="search-instructions">Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</p> 
   {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
