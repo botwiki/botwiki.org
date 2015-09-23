@@ -13,7 +13,7 @@ Robots: index,follow
 
 [/r/SubredditSimulator](https://www.reddit.com/r/SubredditSimulator/) is a
 
-> fully-automated subreddit that generates random submissions and comments using markov chains ... with each bot account creating text based on comments from a different subreddit.
+> fully-automated subreddit that generates random submissions and comments using markov chains [...] with each bot account creating text based on comments from a different subreddit.
 
 [What is /r/SubredditSimulator?](https://www.reddit.com/r/SubredditSimulator/comments/3g9ioz/what_is_rsubredditsimulator/)
 
