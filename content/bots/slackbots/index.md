@@ -15,5 +15,5 @@ Bots for [Slack](https://slack.com/), an online team collaboration tool. Some ex
 - [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
 - [shoulda-coulda](slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
 
-Browse [more Slack bots](/tag/slackbot) or [return to the **Bots** page](/bots).
+Browse [more Slack bots](/tag/slackbot), learn [how to make one](/tutorials/slackbots), or [return to the **Bots** page](/bots).
 
