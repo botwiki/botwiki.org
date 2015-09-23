@@ -22,11 +22,16 @@
           <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
         </a>
       </div>
-    {% endif %}
-    {% if 'slackbot' in page.tags %}
+    {% elseif 'slackbot' in page.tags %}
       <div class="search-thumbnail">
         <a href="{{ page.url }}">
           <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
+        </a>
+      </div>
+    {% elseif 'redditbot' in page.tags %}
+      <div class="search-thumbnail">
+        <a href="{{ page.url }}">
+          <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'@': ''}) }}.png">
         </a>
       </div>
     {% endif %}

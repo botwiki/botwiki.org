@@ -22,9 +22,10 @@ Many people provide these resources **for free** -- and **Botwiki.org** collects
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
 
 ### Network-specific tutorials
-- [Tutorials for Twitter bots](twitterbots)
-- [Tutorials for Slack bots](slackbots)
-- [Tutorials for IRC bots](irc-bots)
-- [Tutorials for Telegram bots](telegram-bots)
+- [Tutorials for Twitter bots](/tutorials/twitterbots)
+- [Tutorials for Slack bots](/tutorials/slackbots)
+- [Tutorials for Reddit bots](/tutorials/redditbots)
+- [Tutorials for IRC bots](/tutorials/irc-bots)
+- [Tutorials for Telegram bots](/tutorials/telegram-bots)
 
 Also check out [the opensourced bots](/tag/opensource).

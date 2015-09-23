@@ -49,5 +49,5 @@ The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter
 - [Bot Summit 2013](http://tinysubversions.com/2013/11/bot-summit/)
 - [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
 
-Return to the [**Bots** page](/bots) or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
+Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 

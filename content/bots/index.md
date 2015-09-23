@@ -17,6 +17,7 @@ Description: Little virtual robots.
 ### Browse bots by categories
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
+- [Reddit bots](/bots/redditbots)
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
 - [Game bots](/tag/game)
