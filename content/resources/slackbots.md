@@ -12,6 +12,10 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 ### Libraries/Frameworks
 
+- [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
+- [slackhq/python-slackclient](https://github.com/slackhq/python-slackclient) -- official Slack client for Python
+
+
 A collection of community-built Slack integrations and plugins is at [api.slack.com/community](https://api.slack.com/community). Languages include C, Go, Haskell, Java, JavaScript (node.js), PHP, Python, Ruby and more.
 
 [Back to all resources.](/resources)
