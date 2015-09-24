@@ -12,6 +12,7 @@ Nav: hidden
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
 - [Common Crawl](http://commoncrawl.org/) -- an open repository of web crawl data
+- [openNASA](https://open.nasa.gov/) -- 30k+ data sets from NASA
 - [OpenFDA](https://open.fda.gov/) -- Open-source APIs for FDA drug, device, and food data
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
 - [European Parliament Proceedings Parallel Corpus 1996-2011](http://www.statmt.org/europarl/)
