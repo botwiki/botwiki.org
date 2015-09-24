@@ -21,8 +21,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 #### Python
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot) -- a Python framework for creating interactive Twitter bots
-- [hugovk/word-tools](https://github.com/hugovk/word-tools) -- a collection of tools/mini-bots that do various language-related things
-- [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it
+- [hugovk/word-tools](https://github.com/hugovk/word-tools) -- a collection of tools/mini-bots that do various language-related things, used by [@favibot](https://twitter.com/favibot), [@lovihatibot](https://twitter.com/lovihatibot) and [@nixibot](https://twitter.com/nixibot)
+- [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it, used by [@FlagFacts](https://twitter.com/FlagFacts)
 - [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork) -- segmentation-based image filter ("patchwork" effect)
 - [araile/python-botutil](https://github.com/araile/python-botutil) -- small libraries for Python botmakers
 - [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov) -- create markov chain ("_ebooks") accounts
