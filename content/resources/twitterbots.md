@@ -25,6 +25,9 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it
 - [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork) -- segmentation-based image filter ("patchwork" effect)
 - [araile/python-botutil](https://github.com/araile/python-botutil) -- small libraries for Python botmakers
+- [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov) -- create markov chain ("_ebooks") accounts
+- [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks) -- a framework for building interactive twitterbots which respond to mentions/DMs
+
 
 #### Ruby
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
@@ -36,6 +39,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 #### Other
 - [a Perl command line client](http://www.floodgap.com/software/ttytter/) 
 - [Twitter Natural Language Processing](http://www.ark.cs.cmu.edu/TweetNLP/) -- tokenizer, a part-of-speech tagger, hierarchical word clusters, and a dependency parser for tweets, along with annotated corpora and web-based annotation tools
+- [dariusk/grunt-init-twitter-bot](https://github.com/dariusk/grunt-init-twitter-bot) -- a [grunt init](http://gruntjs.com/project-scaffolding) template for making Twitter bots
+
 
 ### Tools
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
