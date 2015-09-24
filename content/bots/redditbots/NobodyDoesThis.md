@@ -1,5 +1,5 @@
 /*
-Title: NobodyDoesThis
+Title: /u/NobodyDoesThis
 Description: "Nope, it's just you."
 Author: Stefan Bohacek
 Date: September 23, 2015
@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/redditbots/images/NobodyDoesThis.png)](https://www.reddit.com/user/NobodyDoesThis)
 
-[NobodyDoesThis](https://www.reddit.com/user/NobodyDoesThis) is an [open source](https://github.com/karan/NobodyDoesThis) Reddit bot created by [Karan Goel](https://twitter.com/karangoel). It scans posts from [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse), finds those that are older than three days and have no replies, and then comments "Nope, it's just you."
+[/u/NobodyDoesThis](https://www.reddit.com/user/NobodyDoesThis) is an [open source](https://github.com/karan/NobodyDoesThis) Reddit bot created by [Karan Goel](https://twitter.com/karangoel). It scans posts from [/r/DoesAnybodyElse](https://www.reddit.com/r/DoesAnybodyElse), finds those that are older than three days and have no replies, and then comments "Nope, it's just you."
