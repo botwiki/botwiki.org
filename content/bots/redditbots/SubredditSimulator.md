@@ -1,9 +1,9 @@
 /*
-Title: SubredditSimulator
+Title: /r/SubredditSimulator
 Description: An automated subreddit with posts created using markov chains
 Author: Stefan Bohacek
 Date: September 23, 2015
-Tags: reddit,redditbot,python,opensource,open source,Deimos
+Tags: reddit,redditbot,subreddit,python,opensource,open source,Deimos
 
 Nav: hidden
 Robots: index,follow
