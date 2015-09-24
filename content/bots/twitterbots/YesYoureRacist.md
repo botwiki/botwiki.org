@@ -14,7 +14,7 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/YesYoureRacist.png)](https://twitter.com/YesYoureRacist)
 
-[@YesYoureRacist](https://twitter.com/YesYoureRacist) is a Twitter bot that retweets tweets containing _"I'm not a racist"_. It turns out that many of these are actually quite racist. The bot was created by [](https://twitter.com/Logan Smith).
+[@YesYoureRacist](https://twitter.com/YesYoureRacist) is a Twitter bot that retweets tweets containing _"I'm not a racist"_. It turns out that many of these are actually quite racist. The bot was created by [Logan Smith](https://twitter.com/LoganJames).
 
 In the author's [own words](http://www.independent.co.uk/voices/comment/yes-youre-racist-the-casual-comments-permeating-twitter-8437127.html):
 
