@@ -22,8 +22,13 @@ For libraries and frameworks for specific networks check out their corresponding
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
 - [feedparser](https://www.npmjs.com/package/feedparser) -- a robust RSS Atom and RDF feed parsing using Isaac Schlueter's [sax](https://github.com/isaacs/sax-js) parser
 - [stanford-simple-nlp](https://www.npmjs.com/package/stanford-simple-nlp) -- a simple node.js wrapper for Stanford CoreNLP
+- [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) -- madlibs-style sentence templating
+- [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
+
 
 ### Python
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
+- [cblgh/storyteller](https://github.com/cblgh/storyteller) -- a templating language and python parser for generating small stories
+
 
 [Back to all resources.](/resources)
