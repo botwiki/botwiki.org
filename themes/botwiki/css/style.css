@@ -260,6 +260,9 @@ blockquote {
   padding-left: 10px;
   border-left: 5px solid #dddddd;
 }
+center {
+  padding: 2em 0;
+}
 .float-right {
   float: right;
 }
