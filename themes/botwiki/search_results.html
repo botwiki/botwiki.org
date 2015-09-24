@@ -46,7 +46,7 @@
       {% elseif 'redditbot' in page.tags %}
         <div class="search-thumbnail">
           <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'@': ''}) }}.png">
+            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'/u/': '', '/r/': ''}) }}.png">
           </a>
         </div>
         <div class="search-text-after-image">
