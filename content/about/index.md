@@ -7,7 +7,7 @@ Oh, so you would like to **learn a bit more** about [Botwiki.org](https://www.bo
 
 ***Well huddle up, then!***
 
-Personally, I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](twitter.com/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
+Personally, I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
 
 The idea to make [Botwiki.org](https://www.botwiki.org/) came from wanting to be able to run a quick search whenever I get an idea for a bot to see if anyone already made anything similar.
 
