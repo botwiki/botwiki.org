@@ -3,6 +3,8 @@ Title: About
 Description: Oh, so you would like to learn a bit more about Botwiki.org and Botmakers.org?
 */
 
+![The logo, pixelated on purpose!](/content/about/images/botwiki-about.png)
+
 Oh, so you would like to **learn a bit more** about [Botwiki.org](https://www.botwiki.org/) and [Botmakers.org](https://botmakers.org/)?
 
 ***Well huddle up, then!***
@@ -14,6 +16,9 @@ The idea to make [Botwiki.org](https://www.botwiki.org/) came from wanting to be
 I eventually learned about the [#botALLY](https://twitter.com/search?q=%23botALLY&f=tweets) folks, but the sites that were out there were either [a bit incomplete](http://bothub.org), [hard to browse](http://botdb.gameology.org/bot-list), or plainly just [didn't work](http://botpad.org/p/bot_resources) most of the time.
 
 Also, the `#botALLY` IRC channel was pretty much dead (they did restart their [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1) two or three days after I launched [Botmakers.org](https://botmakers.org/), so be sure to go say hi, if you're more into the artsy side of botmaking, Markov chains and all).
+
+![Vintage!](/content/about/images/botmakers.png)
+
 
 Right now I'm mostly busy building up [Botwiki.org](https://www.botwiki.org/) and maintaining the [Botmakers.org](https://botmakers.org/) community, but I do have a few bots I'm [working on](https://github.com/fourtonfish/eddbott) -- all that on top of being a [web developer](https://fourtonfish.com/) in NYC and a **husband** and a **father of a three and a half year old** -- and responding to people who use [simplesharingbuttons.com](https://simplesharingbuttons.com) and telling them they actually need to upload the images to their site for the code to work, **just like it says in the instructions right above the Download button!**
 
