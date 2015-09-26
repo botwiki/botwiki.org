@@ -9,11 +9,13 @@ function ready(fn) {
 }
 
 ready(function(){
-  console.log('Hello!');
-  document.getElementsByClassName('search-text-after-image').
-    classList.remove('search-text-after-image').
-    classList.add('search-text');
-
+  console.log('Hello! Are you a #botmaker? botmakers.org');
+  var lazyLoadedImages = document.getElementsByClassName('search-text-after-image');
+  if (lazyLoadedImages.lenght){
+    lazyLoadedImages.
+      classList.remove('search-text-after-image').
+      classList.add('search-text');
+  }
 });
 
 
