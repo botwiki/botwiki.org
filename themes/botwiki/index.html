@@ -72,6 +72,9 @@
           {% include 'main.html' %}
         {% elseif current_page is not empty %}
           {% include 'article.html' %}
+          {# TODO: Something like this should be possible with Pico 1.0
+          {% include 'contribute.html' with {'relative_path': current_page.url | split(base_url) | last } %}
+          #}
         {% elseif current_page is empty %}
             {% if meta.title != 'Error 404' %}
               {% include 'all_tags.html' %}

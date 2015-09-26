@@ -26,9 +26,9 @@ $config['site_title'] = 'botwiki.org';              // Site title
  */
 $config['theme'] = 'botwiki';                // Set the theme (defaults to "default")
 $config['twig_config'] = array(              // Twig settings
-	'cache' => false,	                        // To enable Twig caching change this to CACHE_DIR
+	'cache' => 'cache',	                        // To enable Twig caching change this to CACHE_DIR
 	'autoescape' => false,                      // Autoescape Twig vars
-	'debug' => false                            // Enable Twig debug
+	'debug' => true                            // Enable Twig debug
 );
 
 /*
