@@ -394,6 +394,8 @@ div#join-botmakers {
   font-weight: bold;
   color: #fff;
   background-color: #323943;
+  overflow: auto;
+  padding-bottom: 1em;
 }
 div#join-botmakers > p {
   max-width: 850px;
@@ -401,7 +403,7 @@ div#join-botmakers > p {
   padding: 10px;
   text-align: justify;
 }
-div#join-botmakers p a {
+div#join-botmakers a {
   color: #fff;
   text-decoration: underline;
 }
@@ -409,13 +411,7 @@ div#join-botmakers p a {
   white-space: nowrap;
 }
 .pull-right {
-  padding-left: 0.7em;
-}
-@media only screen and (min-width: 860px) {
-  .pull-right {
-    padding-left: 0;
-    float: right;
-  }
+  float: right;
 }
 .lazy-load,
 .lazy-loaded {
