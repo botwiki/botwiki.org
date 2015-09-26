@@ -3,7 +3,6 @@
   <p><a href="/">Back to the main page.</a>
 {% else %}
   {% set search_term_lower = search_term|lower %}
-  {{ dump(search_term_lower)}}
   {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
     <div class="search-instructions">
       <p>Hello!</p>
