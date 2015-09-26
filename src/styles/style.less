@@ -372,18 +372,26 @@ div#join-botmakers{
 div#join-botmakers > p{
   max-width: @site-width;
   margin: 0 auto;
-  padding: 10px;  
+  padding: 10px;
   text-align: justify;
 }
 
-div#join-botmakers > p > a{
+div#join-botmakers p a{
   color: #fff;
   text-decoration: underline;
 }
 
-span.separator{
+.nowrap{
+  white-space:nowrap;
+}
+
+.pull-right{
   padding-left: 0.7em;
-  padding-right: 0.7em;
+
+  @media only screen and (min-width : 860px) {
+    padding-left: 0;
+    float: right;
+  }
 }
 
 .lazy-load,
