@@ -1,12 +1,13 @@
 {% if pagestags|length == 0 %}
   <p>No posts tagged 
-
     {% for tag in current_tags %}
       <a href="/tag/{{ tag}}">#{{ tag }}</a>
     {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
   <p><a href="/">Back to the main page.</a>
 {% else %}
-
+  {% if current_tags == ['twitterbot'] %}
+    {% include 'twitterbots.html' %}
+  {% endif %}
   <p>Posts tagged 
     {% for tag in current_tags %}
       <a href="/tag/{{ tag}}">#{{ tag }}</a>
