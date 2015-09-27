@@ -22,22 +22,22 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [@holidaybot4000](twitterbots/holidaybot4000) -- holidays, every day
 - [@riverlevel_1867](twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
 
-![Tweet, tweet](/content/images/illustrations/white-throated-dipper.jpg){.float-left}
+![Tweet, tweet](/content/images/illustrations/white-throated-dipper.jpg){.float-right}
 
-### Browse Twitter bots by category
+### [¶](#browse-twitter-bots-by-category) Browse Twitter bots by category {#browse-twitter-bots-by-category}
 - [Game bots](/tag/twitterbot+game)
 - [Image bots](/tag/twitterbot+images)
 - [Open source bots](/tag/twitterbot+opensource)
 
 Browse [all Twitter bots](/tag/twitterbot).
 
-### Lists of Twitter bots
+### [¶](#lists-of-twitter-bots) Lists of Twitter bots {#lists-of-twitter-bots}
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
-### &#35;botALLY and Bot Summit
+### [¶](#botally-and-bot-summit) &#35;botALLY and Bot Summit {#botally-and-bot-summit}
 
 There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a dedicated [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)) and a [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1).
 

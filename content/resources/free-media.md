@@ -6,9 +6,9 @@ Date: July 23, 2015
 Nav: hidden
 */
 
-![ART!](/content/images/illustrations/studio-work.png){.float-left}
+![ART!](/content/images/illustrations/studio-work.png){.float-right}
 
-### Free images
+### [¶](#free-images) Free images {#free-images}
 - [Old Book Illustrations](http://www.oldbookillustrations.com/) -- illustrations from old books; this very site uses it extensively!
 - [Flickr](https://www.flickr.com/search/?q=&l=commderiv&ct=0&mt=all&adv=1) -- CC-licensed content for commercial use on Flickr
 - [Clipart](https://openclipart.org/) -- free clipart images
@@ -16,8 +16,7 @@ Nav: hidden
 - [Smithsonian](http://www.asia.si.edu/collections/edan/default.cfm) -- 40,000 works of Asian and American art, can be used for all non-commercial purposes
 - [New York Public Library Public Domain Images](http://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=&filters[rights][]=pd) -- exactly what it says :-)
 
-### Free videos
-
+### [¶](#free-videos) Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
 
 - [British Pathé](https://www.youtube.com/user/britishpathe/videos) -- historical footage

@@ -15,7 +15,8 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Free images, sounds, videos](/resources/free-media)
 - [Libraries and frameworks](/resources/libraries-frameworks)
 
-### Specific resources
+### [¶](#specific-resources) Specific resources {#specific-resources}
+
 - [Twitter bots](/resources/twitterbots)
 - [Slack bots](/resources/slackbots)
 - [Reddit bots](/resources/redditbots)

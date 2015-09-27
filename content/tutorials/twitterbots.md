@@ -12,8 +12,7 @@ Nav: hidden
 
 Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
-### Tutorials
-
+### [¶](#tutorials) Tutorials {#tutorials}
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
 - [A Twitter Bot In 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/) (using [ttezel/twit](https://github.com/ttezel/twit))
 - [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
@@ -29,8 +28,7 @@ Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at 
 - [Raspberry Pi Twitterbot](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/) -- an IoT tutorial with a [Raspberry Pi](https://www.raspberrypi.org/) and Python
 - [These emojis will work in your Twitter name and bio](https://www.emojibase.com/emojis-on-twitter)
 
-### Tools and Twitter-specific resources
-
+### [¶](#tools-and-twitter-specific-resources) Tools-and-twitter-specific-resources {#tools-and-twitter-specific-resources}
 See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).

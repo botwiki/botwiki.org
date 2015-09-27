@@ -10,7 +10,7 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Slack bot tutorials](/tutorials/slackbots).
 
-### Libraries/Frameworks
+### [¶](#libraries-frameworks) Libraries/Frameworks {#libraries-frameworks}
 
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
 - [slackhq/python-slackclient](https://github.com/slackhq/python-slackclient) -- official Slack client for Python
