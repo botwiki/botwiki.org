@@ -11,6 +11,8 @@ To make good bots, you need a **little bit of software** (preferably free and [o
 
 Many people provide these resources **for free** -- and **Botwiki.org** collects them. If you find anything useful, be sure to thank the person through their website, an email or social media site of their choice :-)
 
+Oh and if you have any questions, try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/). 
+
 ### [¶](#general-tutorials){.pilcrow} General tutorials {#general-tutorials}
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
