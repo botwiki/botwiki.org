@@ -10,9 +10,9 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the IRC bot tutorials](/tutorials/irc-bots).
 
-### [¶](#libraries-frameworks) Libraries/Frameworks {#libraries-frameworks}
+### [¶](#libraries-frameworks){.pilcrow} Libraries/Frameworks {#libraries-frameworks}
 
-#### [¶](#nodejs-js) node.js/JavaScript {#nodejs-js}
+#### [¶](#nodejs-js){.pilcrow} node.js/JavaScript {#nodejs-js}
 - [caffeinery/coffea](https://github.com/caffeinery/coffea)
 
 

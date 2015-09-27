@@ -186,25 +186,11 @@ h6 {
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a,
-h1 a:hover,
-h2 a:hover,
-h3 a:hover,
-h4 a:hover,
-h5 a:hover,
-h6 a,
-h1 a:visited,
-h2 a:visited,
-h3 a:visited,
-h4 a:visited,
-h5 a:visited,
-h6 a {
+a.pilcrow,
+a.pilcrow:visited {
   color: #cbd2dc;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
 }
 h1 a,
 h2 a,
@@ -214,12 +200,9 @@ h5 a,
 h6 a {
   text-decoration: none;
 }
-h1 a:hover,
-h2 a:hover,
-h3 a:hover,
-h4 a:hover,
-h5 a:hover,
-h6 a {
+a.pilcrow:hover {
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
   color: #212832;
   text-decoration: none;
 }
