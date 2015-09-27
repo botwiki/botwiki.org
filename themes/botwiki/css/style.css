@@ -313,7 +313,7 @@ img.main-banner {
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-  max-width: 850px;
+  max-width: 900px;
   margin: 0 auto;
 }
 #header {
@@ -435,7 +435,7 @@ div#join-botmakers {
   padding-bottom: 1em;
 }
 div#join-botmakers > p {
-  max-width: 850px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 10px;
   text-align: justify;
@@ -443,12 +443,6 @@ div#join-botmakers > p {
 div#join-botmakers a {
   color: #fff;
   text-decoration: underline;
-}
-.nowrap {
-  white-space: nowrap;
-}
-.pull-right {
-  float: right;
 }
 .lazy-load,
 .lazy-loaded {
