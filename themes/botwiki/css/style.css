@@ -351,6 +351,7 @@ label.cursor-pointer {
   display: none;
   color: #fff;
   font-size: 2em;
+  padding-top: 5px;
   width: 36px;
   height: 24px;
 }
