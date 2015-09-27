@@ -21,7 +21,7 @@
     <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
   {% elseif ' OR ' in search_term %}
   {% else %}
-    <p class="search-instructions">Psst, you can also use the <code> OR </code> operator, for example <a href="/search?q=python+OR+ruby">"python OR ruby"</a>.</p>
+    <p class="search-instructions">Psst, you can also use the <code>OR</code> operator, for example <a href="/search?q=python+OR+ruby">"python OR ruby"</a>.</p>
   {% endif %}
 
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
