@@ -14,7 +14,7 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ![Another "machine"](/content/images/illustrations/riehle-testing-machine.jpg){.float-right}
 
-### node.js/JavaScript
+### [¶](#nodejs-js) node.js/JavaScript {#nodejs-js}
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "a simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
 - [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy.
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
@@ -25,8 +25,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) -- madlibs-style sentence templating
 - [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
 
-
-### Python
+### [¶](#python) Python {#python}
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
 - [cblgh/storyteller](https://github.com/cblgh/storyteller) -- a templating language and python parser for generating small stories
 

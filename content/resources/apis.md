@@ -6,11 +6,9 @@ Date: July 23, 2015
 Nav: hidden
 */
 
+![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-right}
 
-![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-left}
-
-
-### Language, text, speech
+### [¶](#language-text-speech) Language, text, speech {#language-text-speech}
 - [The New York Times Semantic API](http://developer.nytimes.com/docs/read/semantic_API) -- "list of people, places, organizations and other locations, entities and descriptors that make up the controlled vocabulary used as metadata by The New York Times"
 - [TextTeaser](http://www.textteaser.com/) -- "an automatic summarization"
 - [wit.ai](https://wit.ai/) -- natural language APIs
@@ -27,20 +25,20 @@ Nav: hidden
   - integrates with WordNet dictionary
   - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
 
-### Face and object recognition
+### [¶](#face-and-object-recognition) Face and object recognition {#face-and-object-recognition}
 - [OpenFace API](http://openfaceapi.com/)
 - [Betaface](http://www.betafaceapi.com/)
 - [AlchemyVision](http://www.alchemyapi.com/products/alchemyvision)
 - [Clarifai](http://www.clarifai.com/)
 - [Sighthound](https://www.sighthound.com/products/cloud)
 
-### API directories
+### [¶](#api-directories) API directories {#api-directories}
 - [ProgrammableWeb](http://www.programmableweb.com/)
 - [apis.io](http://apis.io/)
 - [PublicAPIs](https://www.publicapis.com/)
 - [Temboo Library](https://www.temboo.com/library/)
 
-### Unsorted
+### [¶](#unsorted) Unsorted {#unsorted}
 - [NASA's API Catalog](https://data.nasa.gov/developer)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [The New York Public Library Digital Collections API](http://api.repo.nypl.org/)
