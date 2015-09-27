@@ -8,7 +8,7 @@ Date: July 23, 2015
 
 Below is a list of categories with useful resources, such as **libraries**, **frameworks**, **datasets**, **APIs** and **free images and other media**.
 
-Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource).
+Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource). Still can't find what you're looking for? Try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/).
 
 - [Public datasets](/resources/public-datasets)
 - [APIs](/resources/apis)
