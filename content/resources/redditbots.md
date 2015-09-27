@@ -11,7 +11,4 @@ Nav: hidden
 - [Automatically-generated documentation for the reddit API](https://www.reddit.com/dev/api)
 - [/r/redditdev](https://www.reddit.com/r/redditdev) -- a subreddit for Reddit API developers
 
-
-
-
 See also [open source Reddit bot code](/tag/reddit+opensource), [browse all the Reddit bots](/bots/redditbots) or check out the [tutorials](/tutorials/redditbots).

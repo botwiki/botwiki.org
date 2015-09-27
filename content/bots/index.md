@@ -14,7 +14,7 @@ Description: Little virtual robots.
 
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
 
-### [¶](#browse-bots-by-categories) Browse bots by categories {#browse-bots-by-categories}
+### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
