@@ -27,6 +27,7 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 ### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse Twitter bots by category {#browse-twitter-bots-by-category}
 - [Game bots](/tag/twitterbot+game)
 - [Image bots](/tag/twitterbot+images)
+- [Non-English bots](/tag/non-english+twitterbot)
 - [Open source bots](/tag/twitterbot+opensource)
 
 Browse [all Twitter bots](/tag/twitterbot).
