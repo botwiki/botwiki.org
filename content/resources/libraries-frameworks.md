@@ -2,7 +2,7 @@
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
 Date: July 23, 2015
-Tags: web,scraping,scraper,language,nlp,machine learning,nodejs,python
+Tags: web,scraping,scraper,language,nlp,machine learning,nodejs,python,block,offensive
 Nav: hidden
 */
 
@@ -28,6 +28,8 @@ For libraries and frameworks for specific networks check out their corresponding
 ### [¶](#python){.pilcrow} Python {#python}
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
 - [cblgh/storyteller](https://github.com/cblgh/storyteller) -- a templating language and python parser for generating small stories
+- [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
+- [Python script to filter possibly offensive text](https://github.com/molly/CyberPrefixer/blob/master/offensive.py) -- the source code for Molly's [@cyberprefixer](https://twitter.com/cyberprefixer) contains a script
 
 
 [Back to all resources.](/resources)
