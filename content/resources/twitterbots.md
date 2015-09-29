@@ -28,7 +28,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [araile/python-botutil](https://github.com/araile/python-botutil) -- small libraries for Python botmakers
 - [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov) -- create markov chain ("_ebooks") accounts
 - [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks) -- a framework for building interactive twitterbots which respond to mentions/DMs
-
+- [leonardr/sycorax](https://github.com/leonardr/sycorax) -- "a Twitter client that choreographs the online behavior of fictional characters", read more on [crummy.com](http://www.crummy.com/software/sycorax/)
 
 #### [¶](#ruby){.pilcrow} Ruby {#ruby}
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
