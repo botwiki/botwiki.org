@@ -22,3 +22,4 @@ Description: Little virtual robots.
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
 - [Game bots](/tag/game)
+- [Non-English bots](/tag/non-english)
