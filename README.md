@@ -95,7 +95,7 @@ You can keep the `Nav` and `Robots` values as they are. `Nav: hidden` just means
 
 Now, you will also need to go to your bot's page and take a screenshot that shows how the bot works. There is no set requirement for the height, since every bot may need different amount of space to show what it does, but the width should be **900px**.
 
-The screenshot can be any format, really, just make sure you change the path to the file to match it. The screenshot itself should be in the `images` folder inside the folder where you added your bot. I also recommend downloading a program like [ImageOptim](https://imageoptim.com/) (OSX) or [Trimage](http://trimage.org/) (Linux, Windows, OSX) to optimize the size of the image.
+The screenshot must be in the `.png` format and also needs to match the name of the bot used for the page `Title`. The screenshot itself should be in the `images` folder inside the folder where you added your bot. I also recommend downloading a program like [ImageOptim](https://imageoptim.com/) (OSX) or [Trimage](http://trimage.org/) (Linux, Windows, OSX) to optimize the size of the image.
 
 Once you're done, you will be able to go to `localhost:5000/bots/twitterbots/my_new_bot` and see your newly added bot.
 
