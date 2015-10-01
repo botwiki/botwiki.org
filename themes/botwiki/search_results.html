@@ -1,29 +1,34 @@
-{% if search_num_results == 0 %}
+{% set search_term_lower = search_term|lower %}
+{% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' or search_term_lower == 'contact' or search_term_lower == 'email' %}
+  {% include 'contact.html' %}
+{% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
+  <p class="search-instructions">Did you mean <a href="/content/images/other/mango.gif">mango</a>?</p> 
+{% elseif search_term_lower == 'help' %}
+  <p class="search-instructions">Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</p> 
+{% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
+  <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
+{% elseif search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
+  <div class="search-instructions">
+    <p>Hello!</p>
+    <ul>
+      <li>Here is my <a href="https://fourtonfish.com/">website</a>,</li>
+      <li>this is my <a href="https://github.com/fourtonfish">GitHub page</a>,</li>
+      <li>and my <a href="https://twitter.com/fourtonfish">Twitter</a>.</li>
+    </ul>
+    <p>-- <a href="https://angel.co/stefanbohacek">Stefan</a></p>
+  </div>
+{% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
+  <p class="search-instructions">Did you mean <a href="/content/images/other/mango.gif">mango</a>?</p> 
+{% elseif search_term_lower == 'help' %}
+  <p class="search-instructions"><strong>Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</strong></p> 
+{% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
+  <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
+{% elseif ' OR ' in search_term %}
+  <p class="search-instructions">Psst, you can also use the <code>OR</code> operator, for example <a href="/search?q=python+OR+ruby">"python OR ruby"</a>.</p>
+{% elseif search_num_results == 0 %}
   <p>No pages found for "{{ search_term }}". Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
   <p><a href="/">Back to the main page.</a>
 {% else %}
-  {% set search_term_lower = search_term|lower %}
-  {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' %}
-    <div class="search-instructions">
-      <p>Hello!</p>
-      <ul>
-        <li>Here is my <a href="https://fourtonfish.com/">website</a>,</li>
-        <li>this is my <a href="https://github.com/fourtonfish">GitHub page</a>,</li>
-        <li>and my <a href="https://twitter.com/fourtonfish">Twitter</a>.</li>
-      </ul>
-      <p>-- <a href="https://angel.co/stefanbohacek">Stefan</a></p>
-    </div>
-  {% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
-    <p class="search-instructions">Did you mean <a href="/content/images/other/mango.gif">mango</a>?</p> 
-  {% elseif search_term_lower == 'help' %}
-    <p class="search-instructions">Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</p> 
-  {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
-    <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
-  {% elseif ' OR ' in search_term %}
-  {% else %}
-    <p class="search-instructions">Psst, you can also use the <code>OR</code> operator, for example <a href="/search?q=python+OR+ruby">"python OR ruby"</a>.</p>
-  {% endif %}
-
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
 
   {% for page in search_results %}
