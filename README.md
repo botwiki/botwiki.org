@@ -83,7 +83,7 @@ Robots: index,follow
 [@holidaybot4000](https://twitter.com/holidaybot4000) is a Twitter bot that tweets holidays around the world for the given day, typically together with an image of the country's flag. It was created by [@fourtonfish](https://twitter.com/fourtonfish).
 ```
 
-The title should be the name of the bot. I include the "@" for bots on Twitter. The `Description` should be short and it shows up on the search page or when you browse the content of the site by tags.
+The `Title` should be the name of the bot. I include the "@" for bots on Twitter. The `Description` should be short and it shows up on the search page or when you browse the content of the site by tags.
 
 The `Author` should be your name (or Twitter handle, or your _stage name_), as the author of the page. (Although, I don't think this shows up anywhere right now.)
 
