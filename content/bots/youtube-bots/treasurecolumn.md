@@ -1,6 +1,6 @@
 /*
 Title: Treasure Column
-Description: 
+Description: Preseting footage from unsecured network cameras as aesthetic, rather than intrusive.
 Author: Stefan Bohacek
 Date: October 1, 2015
 Tags: youtube,youtubebot,active,video,eerie,music,sound,webcam,opensource,open source,python,derekarnold
