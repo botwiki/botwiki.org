@@ -50,6 +50,7 @@ For more general tutorials on hosting bots, see articles below. (Some network sp
 ### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
 - [Tutorials for Twitter bots](/tutorials/twitterbots)
 - [Tutorials for Slack bots](/tutorials/slackbots)
+- [Tutorials for YouTube bots](/tutorials/youtube-bots)
 - [Tutorials for Reddit bots](/tutorials/redditbots)
 - [Tutorials for IRC bots](/tutorials/irc-bots)
 - [Tutorials for Telegram bots](/tutorials/telegram-bots)

@@ -1,5 +1,5 @@
 /*
-Title: YouTube bots
+Title: YouTube Bots
 Description: Bots for youtube.com.
 Nav: hidden
 */
@@ -14,5 +14,5 @@ Some examples include:
 
 - [Treasure Column](/bots/youtube-bots/treasurecolumn) -- footage from unsecured network cameras presented as aesthetic, rather than intrusive
 
-Browse [more YouTube bots](/tag/youtubebot), learn [how to make one](/tutorials/youtubebots), or [return to the **Bots** page](/bots).
+Browse [more YouTube bots](/tag/youtubebot), learn [how to make one](/tutorials/youtube-bots), or [return to the **Bots** page](/bots).
 
