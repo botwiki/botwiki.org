@@ -26,7 +26,7 @@ Nav: hidden
 - [200,000+ Jeopardy Questions](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) -- json/csv dataset crawled from [j-archive](http://www.j-archive.com)
 - [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
 - [dariusk/corpora](https://github.com/dariusk/corpora) -- "a collection of small corpuses of interesting data for the creation of bots and similar stuff"
-
+- [Full Reddit submission corpus (2006 - August 2015)](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/)
 ### [¶](#dataset-sites){.pilcrow} Sites/projects that collect datasets {#dataset-sites}
 - [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [r/datasets](https://www.reddit.com/r/datasets/)
