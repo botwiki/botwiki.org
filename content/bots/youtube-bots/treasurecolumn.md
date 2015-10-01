@@ -1,0 +1,14 @@
+/*
+Title: Treasure Column
+Description: 
+Author: Stefan Bohacek
+Date: October 1, 2015
+Tags: youtube,youtubebot,active,opensource,open source,python,derekarnold
+
+Nav: hidden
+Robots: index,follow
+*/
+
+[![](/content/bots/youtube-bots/images/treasurecolumn.png)](https://www.youtube.com/channel/UCKNW6jeGUfPUg_UsyAsTaPA)
+
+[Treasure Column](https://www.youtube.com/channel/UCKNW6jeGUfPUg_UsyAsTaPA) is an [open source](https://github.com/lysol/treasurecolumn) YouTube bot created by [Derek Arnold](https://twitter.com/derekarnold). You can read more about the project [on his blog](https://medium.com/@derekarnold/remote-viewing-5cb161cdef4a).
