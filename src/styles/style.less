@@ -234,9 +234,16 @@ pre {
 
 blockquote {
   font-style: italic;
-  margin: 3em 0 1em 15px;
+  margin: 2em 0 1em 15px;
   padding-left: 10px;
   border-left: 5px solid #dddddd;
+}
+
+hr{
+  border-top: solid 1px #dfdfdf;
+  border-bottom: none;
+  margin: 3em auto 1em;
+  max-width: 70%;
 }
 
 center{
@@ -505,21 +512,31 @@ div#join-botmakers a{
 
 
   /*
-    TODO: Why is the order here off?
+    TODO: Why is the order here off? 
+    Also, look into writing this programmatically with LESS, or something.
   */
   #header nav li:nth-child(1){
-    transition-delay: 0;
+    transition-delay: 0s;
   }
   #header nav li:nth-child(3){
-    transition-delay: 0.1s;
+    transition-delay: 0.05s;
   }
   #header nav li:nth-child(2){
-    transition-delay: 0.15;
+    transition-delay: 0.1;
   }
   #header nav li:nth-child(4){
-    transition-delay: 0.2s;
+    transition-delay: 0.15s;
   }
   #header nav li:nth-child(5){
+    transition-delay: 0.2s;
+  }
+  #header nav li:nth-child(6){
+    transition-delay: 0.25s;
+  }
+  #header nav li:nth-child(7){
+    transition-delay: 0.3s;
+  }
+  #header nav li:nth-child(8){
     transition-delay: 0.35s;
   }
   #header nav #menu-toggle:checked ul,
