@@ -18,6 +18,31 @@ Oh and if you have any questions, try asking in our community for botmakers and 
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
 
 ### [¶](#technical-tutorials){.pilcrow} Technical tutorials {#technical-tutorials}
+#### [¶](#bot-hosting){.pilcrow} Bot hosting {#bot-hosting}
+
+You have quite a few options when it comes to hosting your bots.
+
+- [Digital Ocean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (this [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
+- [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
+- [Heroku](https://www.heroku.com) -- similar to OpenShift
+- [Linode](https://www.linode.com/) -- another VPS, starts at $10/mo
+- [dreamhost](https://www.dreamhost.com/) -- web hosting and domain name registrar, their VPS starts at $15/month
+- [Google Apps Script](https://script.google.com/d/11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7/edit?usp=sharing) -- see [Bradley Momberger](https://twitter.com/air_hadoken)'s [blog](http://airhadoken.github.io/2015/06/29/twitter-lib-explained.html) for more details
+- you can even use your [Raspberry Pi](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/)
+
+Common ways to manage multiple bots on the same network are:
+
+- running each bot as a separate app/process with its own API keys
+- running all of your bots in one app, using the same set of API keys
+- or as a variation, you can create multiple apps, but still use the same API keys
+
+These are also common ways to solve the need for a phone number verification when creating apps (bots) on Twitter. Also see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account, which helps solve this problem. One more solution is to remove the phone number from your account and associate it with a new one.
+
+For more general tutorials on hosting bots, see articles below. (Some network specific tutorials [below](#network-specific-tutorials) include a step explaining how to host your bot.)
+- [Automating bots with cron on Digital Ocean](http://www.colewillsea.com/blog/do-cron)
+
+
+#### [¶](#other){.pilcrow} Other {#other}
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
