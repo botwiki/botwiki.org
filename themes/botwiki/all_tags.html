@@ -40,6 +40,12 @@
           <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
         </a>
       </div>
+    {% elseif 'youtubebot' in page.tags %}
+      <div class="search-thumbnail">
+        <a href="{{ page.url }}">
+          <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
+        </a>
+      </div>
     {% elseif 'redditbot' in page.tags %}
       <div class="search-thumbnail">
         <a href="{{ page.url }}">
