@@ -276,9 +276,15 @@ pre {
 }
 blockquote {
   font-style: italic;
-  margin: 3em 0 1em 15px;
+  margin: 2em 0 1em 15px;
   padding-left: 10px;
   border-left: 5px solid #dddddd;
+}
+hr {
+  border-top: solid 1px #dfdfdf;
+  border-bottom: none;
+  margin: 3em auto 1em;
+  max-width: 70%;
 }
 center {
   padding: 2em 0;
@@ -522,25 +528,38 @@ div#join-botmakers a {
     margin-left: 30px;
   }
   /*
-    TODO: Why is the order here off?
+    TODO: Why is the order here off? 
+    Also, look into writing this programmatically with LESS, or something.
   */
   #header nav li:nth-child(1) {
-    -webkit-transition-delay: 0;
-    transition-delay: 0;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
   }
   #header nav li:nth-child(3) {
-    -webkit-transition-delay: 0.1s;
-    transition-delay: 0.1s;
+    -webkit-transition-delay: 0.05s;
+    transition-delay: 0.05s;
   }
   #header nav li:nth-child(2) {
-    -webkit-transition-delay: 0.15;
-    transition-delay: 0.15;
+    -webkit-transition-delay: 0.1;
+    transition-delay: 0.1;
   }
   #header nav li:nth-child(4) {
+    -webkit-transition-delay: 0.15s;
+    transition-delay: 0.15s;
+  }
+  #header nav li:nth-child(5) {
     -webkit-transition-delay: 0.2s;
     transition-delay: 0.2s;
   }
-  #header nav li:nth-child(5) {
+  #header nav li:nth-child(6) {
+    -webkit-transition-delay: 0.25s;
+    transition-delay: 0.25s;
+  }
+  #header nav li:nth-child(7) {
+    -webkit-transition-delay: 0.3s;
+    transition-delay: 0.3s;
+  }
+  #header nav li:nth-child(8) {
     -webkit-transition-delay: 0.35s;
     transition-delay: 0.35s;
   }
