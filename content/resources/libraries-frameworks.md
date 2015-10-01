@@ -16,6 +16,7 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ### [¶](#nodejs-js){.pilcrow} node.js/JavaScript {#nodejs-js}
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "a simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
+- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple node.js module that lets you filter (bad) words
 - [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy.
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) -- "fast, flexible, and lean implementation of core jQuery designed specifically for the server"
@@ -31,5 +32,6 @@ For libraries and frameworks for specific networks check out their corresponding
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
 - [Python script to filter possibly offensive text](https://github.com/molly/CyberPrefixer/blob/master/offensive.py) -- the source code for Molly's [@cyberprefixer](https://twitter.com/cyberprefixer) contains a script
 
+[Darius Kazemi's repos](https://github.com/dariusk?tab=repositories) are also worth checking out for an assorted collection of tools and libraries for node.js and Python.
 
 [Back to all resources.](/resources)
