@@ -3,7 +3,7 @@ Title: Treasure Column
 Description: 
 Author: Stefan Bohacek
 Date: October 1, 2015
-Tags: youtube,youtubebot,active,opensource,open source,python,derekarnold
+Tags: youtube,youtubebot,active,video,eerie,music,sound,webcam,opensource,open source,python,derekarnold
 
 Nav: hidden
 Robots: index,follow
