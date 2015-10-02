@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "0.12"
+env:
+  - DISABLE_NOTIFIER=true
+before_script:
+  - npm install -g gulp
+script:
+  - gulp clean
+  - gulp styles
+  - gulp scripts
