@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/botwiki/botwiki.org.png)](https://travis-ci.org/botwiki/botwiki.org)
+
 # Botwiki.org
 
 <img style="max-width:100%;" src="content/images/botwiki.png">
