@@ -12,6 +12,10 @@
 {% else %}
   {% if current_tags == ['twitterbot'] %}
     {% include 'twitterbots.html' %}
+  {% elseif current_tags == ['images'] %}
+    <p>You can also explore the <a href="/tag/gif">#gif</a> tag.</p>
+  {% elseif current_tags == ['gif'] %}
+    <p>You can also explore the <a href="/tag/images">#images</a> tag.</p>
   {% elseif current_tags == ['opensource'] or current_tags == ['open source'] %}
     {% include 'opensource.html' %}
   {% elseif current_tags == ['opensource', 'twitterbot'] or current_tags == ['open source', 'twitterbot'] 
