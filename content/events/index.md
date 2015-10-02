@@ -5,9 +5,9 @@ Description: Upcoming and past events either dedicated to botmaking or with rele
 
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/people-evening.jpg){.float-right}
 
-A list of upcoming and past events either dedicated to botmaking or those that include relevant sessions. 
+A list of upcoming and past events either dedicated to botmaking or those that include relevant sessions. Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates.
 
-Know about an interesting event? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
+Do you know about an interesting event? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
 
 Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/)!
 
