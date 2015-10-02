@@ -17,3 +17,4 @@ Bots for [Slack](https://slack.com/), an online team collaboration tool. Some ex
 
 Browse [more Slack bots](/tag/slackbot), learn [how to make one](/tutorials/slackbots), or [return to the **Bots** page](/bots).
 
+There is also a [Slack community](http://dev4slack.xoxco.com/) for Slack developers where also the actual Slack engineers hang out.
