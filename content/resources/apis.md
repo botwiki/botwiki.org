@@ -39,6 +39,7 @@ Nav: hidden
 - [Temboo Library](https://www.temboo.com/library/)
 
 ### [¶](#unsorted){.pilcrow} Unsorted {#unsorted}
+- [A list of APIs that don't require authentication](http://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
 - [NASA's API Catalog](https://data.nasa.gov/developer)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [The New York Public Library Digital Collections API](http://api.repo.nypl.org/)
