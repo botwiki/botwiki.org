@@ -1,6 +1,6 @@
 /*
 Title: Free media
-Description: If you know what APIs are, you're in the right place.
+Description: Tons of free images, sounds and videos to fuel your bot.
 Date: July 23, 2015
 
 Nav: hidden
