@@ -23,6 +23,6 @@ You can see more bots [on the **Bots** page](bots/), or [check out the tutorials
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
-**PS:** If you'd like to **support this project**, for the time being you can send donations [through PayPal](https://www.paypal.me/stefanbohacek) (please include "Botwiki.org donation" in "Special instructions to seller") or [Bitcoin](bitcoin:1FmqUDejT1hC4mTzwLhfpUyxxaui4BSHDP?amount=0.02&label=Botwiki).
+**PS:** If you'd like to **support this project**, check out the links [at the bottom of the footer](#footer)!
 
 **Thank you!**
