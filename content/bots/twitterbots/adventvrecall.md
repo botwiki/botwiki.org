@@ -3,7 +3,7 @@ Title: @adventvrecall
 Description: "Where should I go?"
 Author: Stefan Bohacek
 Date: October 2, 2015
-Tags: twitter,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir
+Tags: twitter,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
 
 Nav: hidden
 Robots: index,follow
@@ -12,7 +12,7 @@ Robots: index,follow
 [![](/content/bots/twitterbots/images/adventvrecall.png)](https://twitter.com/adventvrecall) 
 
 
-[@adventvrecall](https://twitter.com/adventvrecall) is a Twitter-based game bot created by [@aliceffekt](https://twitter.com/aliceffekt) and [@noirmirroir](https://twitter.com/noirmirroir).
+[@adventvrecall](https://twitter.com/adventvrecall) is a Twitter-based game bot created by [@neauoire](https://twitter.com/neauoire) and [@noirmirroir](https://twitter.com/noirmirroir).
 
 From the [official website](http://wiki.xxiivv.com/advent+v):
 
