@@ -19,5 +19,4 @@
 Options -Indexes
 
 Redirect "/ph" "/"
-Redirect "/submit-your-bot" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
-Redirect "/submit-your-bot/" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
+Redirect "/submit-your-bot/*" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
