@@ -23,48 +23,38 @@ and [more](https://botwiki.org/bots/).
 
 ## Contributing to Botwiki
 
-Botwiki is powered by [Pico](http://picocms.org/), which is a very simple CMS running on PHP. It uses the [Twig](http://twig.sensiolabs.org/) templating language. The content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics).
+Botwiki is powered by [Pico](http://picocms.org/) ([official documentation](http://picocms.org/docs.html)), which is a very simple CMS running on PHP. It uses the [Twig](http://twig.sensiolabs.org/) templating language. The content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics).
 
 There is a few ways you can contribute to Botwiki. 
 
+
+### Reporting issues
+
 If you see an error on any of the pages, you can [open a new issue](https://github.com/botwiki/botwiki.org/issues) where you describe the problem and if you know, you can also suggest a solution.
 
+### Adding a new bot
 
-If you want to add a bot by yourself, you should be familiar with git, GitHub and the command line.
+To add a new bot, you have a few options.
 
-If you're just learning about git, it's very easy [to set it up](https://help.github.com/articles/set-up-git/) and you can look at [some of these resources](https://help.github.com/articles/good-resources-for-learning-git-and-github/) for learning how to use it together with the GitHub site.
+The easiest way is to use the submission form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot). After filling out the information, your bot will be added to the queue for manual review.
 
-You will really only need to know the basics to be able to contribute to this project.
+Another option is to send a pull request to this repo.
 
-Once you're all set with git, it's time to fork this project and clone the new repo to your computer.
+Things you will need to install and be/get familiar with:
 
-Once you install [PHP](http://php.net/manual/en/install.php) and [Composer](https://getcomposer.org/), go to the website's main folder and run
+- [git](https://help.github.com/articles/set-up-git/)
+- [GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [Markdown](https://daringfireball.net/projects/markdown/syntax) (no need to install anything here)
+
+The above will be fine if you want to use a site like [dillinger.io](http://dillinger.io/) to preview your updates. You can use this site to see if your Markdown text looks okay, check if links are working -- but you won't be able to see images.
+
+So, start by cloning the repo:
 
 ```
-composer install
+git clone git@github.com:botwiki/botwiki.org.git
 ```
-
-Make sure everything installs correctly, otherwise you will see an error that looks like this:
-
-```
-Class 'ParsedownExtra' not found in /home/stefan/Desktop/Untitled Folder/botwiki.org/lib/pico.php on line 152
-```
-
-If you want to learn more about Pico, you can check out [the official documentation](http://picocms.org/docs.html), but you are now ready to add content to the site.
 
 All the content is inside the  `content` folder. Let's see how we'd go about adding a new Twitter bot called "_my_new_bot_"
-
-First, we need to run the site on our local machine.
-
-```
-php -S localhost:5000
-```
-
-(The port number, which is `5000` here, can be pretty much any number.)
-
-Then, we will go to the `content/bots/twitterbots` folder. We can make a copy of one of the files and rename it to `my_new_bot.md`.
-
-
 
 The structure of the file is very simple, here's an example from the Twitter bot that posts about holidays for each day.
 
@@ -97,13 +87,45 @@ You can keep the `Nav` and `Robots` values as they are. `Nav: hidden` just means
 
 Now, you will also need to go to your bot's page and take a screenshot that shows how the bot works. There is no set requirement for the height, since every bot may need different amount of space to show what it does, but the width should be **900px**.
 
-The screenshot must be in the `.png` format and also needs to match the name of the bot used for the page `Title`. The screenshot itself should be in the `images` folder inside the folder where you added your bot. I also recommend downloading a program like [ImageOptim](https://imageoptim.com/) (OSX) or [Trimage](http://trimage.org/) (Linux, Windows, OSX) to optimize the size of the image.
+The screenshot must be in the `.png` format and also needs to match the name of the bot used for the page `Title`. If you have spaces in your `Title`, change them to `_` in the image file name.
+
+The screenshot itself should be in the `images` folder inside the folder where you added your bot. I also recommend downloading a program like [ImageOptim](https://imageoptim.com/) (OSX) or [Trimage](http://trimage.org/) (Linux, Windows, OSX) to optimize the size of the image.
+
+You can then use [dillinger.io](http://dillinger.io/) to check if the content of your .md file renders correctly. If everything looks good, go ahead and open a pull request so that your updates can be reviewed and merged.
+
+### Adding a new bot with Botwiki running on your computer
+
+If you prefer to run the site on your computer, you will also need:
+
+- [php](http://php.net/manual/en/install.php)
+- [Composer](https://getcomposer.org/)
+
+
+After cloning the project:
+
+```
+cd botwiki.org
+curl -sS https://getcomposer.org/installer | php
+php composer.phar install
+```
+
+Make sure everything installs correctly, otherwise you will see an error that looks like this:
+
+```
+Class 'ParsedownExtra' not found in /home/stefan/Desktop/Untitled Folder/botwiki.org/lib/pico.php on line 152
+```
+
+To run the site on our local machine:
+
+```
+php -S localhost:5000
+```
+
+(The port number, which is `5000` here, can be pretty much any number.)
+
+Then, we will go to the `content/bots/twitterbots` folder. We can make a copy of one of the files and rename it to `my_new_bot.md`.
 
 Once you're done, you will be able to go to `localhost:5000/bots/twitterbots/my_new_bot` and see your newly added bot.
-
-Pretty easy!
-
-If everything looks good, go ahead and open a pull request so that your updates can be reviewed and merged.
 
 ## Updating the website's style
 
