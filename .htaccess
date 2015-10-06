@@ -24,3 +24,4 @@ Options -Indexes
 
 Redirect "/ph" "/"
 RedirectMatch "^/submit-your-bot/*" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
+RedirectMatch "^/survey/botmaking-01/*" "https://docs.google.com/forms/d/1MCKQSB2CCHUy7z-IDtNS-eSXQzXJWLEYGInF-Yd2CT4/viewform"
