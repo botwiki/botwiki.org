@@ -120,8 +120,19 @@ To run the site on our local machine:
 ```
 php -S localhost:5000
 ```
+**Tip:** You can also create an _alias_ for this command, so that you can execute it in an easier way.
 
-(The port number, which is `5000` here, can be pretty much any number.)
+Just type `nano ~/.bash_profile` in your command line, then add the line below:
+
+```
+alias phpserver='php -S localhost:5000'
+```
+
+Hit `ctrl + X` to close the document, save it. Finally, run `source ~/.bash_profile`. Now you can just open the botwiki.org folder and run `phpserver` in your terminal.
+
+*How neat is that!*
+
+**Note:** The port number, which is `5000` here, can be pretty much any number.
 
 Then, we will go to the `content/bots/twitterbots` folder. We can make a copy of one of the files and rename it to `my_new_bot.md`.
 
