@@ -1,11 +1,25 @@
 /*
 Title: Articles
-Description: Assorted selection of articles relevant to bot makers.
+Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
 Date: July 22, 2015
 Author: Stefan Bohacek
 */
 
+Below is a selection of blogs centered around botmaking and bot-related topics. Further below is a few hand-picked blog posts. Enjoy!
+
+***PS: Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
+
+
+### [¶](#blogs){.pilcrow} Blogs {#blogs}
+
+- [The Bot Blog](https://thebotblog.wordpress.com/)
+- [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
+- [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
+- [The New York Review of Bots](http://nybots.tumblr.com/)
+
 ![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
+
+### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 - August 4, 2015 -- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/)
 - July 27, 2015 -- [They should have sent a Twitter bot poet](http://www.avclub.com/article/they-should-have-sent-twitter-bot-poet-222947)
