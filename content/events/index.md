@@ -29,11 +29,22 @@ It will include a ***Build a Bot*** workshop, presented by [Terian Koscik](https
 
 ### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
 
-_October 21 (2015) at 6:30pm_
+_October 21 (2015) 6:30pm - 8:30pm_
 
 [800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
 
+
 > This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
+
+<hr/>
+
+### [¶](#nyc-botally-meetup){.pilcrow} [NYC #botALLY Meetup](https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296) {#nyc-botally-meetup}
+
+_October 23 at 6:30pm (2015)_
+
+[155 Bank St, New York, NY](https://www.google.com/maps/dir/Current+Location/155+Bank+St,+New+York,+NY)
+
+A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
 <hr/>
 
