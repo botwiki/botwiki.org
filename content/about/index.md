@@ -5,10 +5,6 @@ Description: Oh, so you would like to learn a bit more about Botwiki.org and Bot
 
 ![The logo, pixelated on purpose!](/content/about/images/botwiki-about.png)
 
-Oh, so you would like to **learn a bit more** about [Botwiki.org](https://www.botwiki.org/) and [Botmakers.org](https://botmakers.org/)?
-
-***Well huddle up, then!***
-
 Personally, I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
 
 <center>
@@ -22,8 +18,6 @@ I eventually learned about the [#botALLY](https://twitter.com/search?q=%23botALL
 <center>
   <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
 </center>
-
-Also, the `#botALLY` IRC channel was pretty much dead (they did restart their [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1) two or three days after I launched [Botmakers.org](https://botmakers.org/), so be sure to go say hi, if you're more into the artsy side of botmaking, Markov chains and all).
 
 <center>
   <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">botwiki/open-source-bots: A full list of open source bots. ★26 <a href="https://t.co/Tz9gHe5vdO">https://t.co/Tz9gHe5vdO</a></p>&mdash; Github Trending (@TrendingGithub) <a href="https://twitter.com/TrendingGithub/status/644029090345914368">September 16, 2015</a></blockquote>
