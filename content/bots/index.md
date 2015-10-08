@@ -19,6 +19,7 @@ Description: Little virtual robots.
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
 - [YouTube bots](/bots/youtube-bots)
+- [Snapchat bots](/tag/snapchatbot)
 - [Reddit bots](/bots/redditbots)
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
