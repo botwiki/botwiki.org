@@ -19,7 +19,9 @@ The idea to make [Botwiki.org](https://www.botwiki.org/) came from wanting to be
   <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
 </center>
 
-The main goal of [Botwiki.org](https://www.botwiki.org/) and [Botmakers.org](https://botmakers.org/) is to create safe and friendly online spaces for people interested in bots and web APIs -- not necessarily just programmers. Everyone is welcome to [contribute](https://github.com/botwiki/botwiki.org) to [Botwiki.org](https://www.botwiki.org/) and [join our community](https://botmakers.org/) of botmakers and bot enthusiasts. We have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) and we are also looking for [more core team members](https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md).
+The main goal of [Botwiki.org](https://www.botwiki.org/) and [Botmakers.org](https://botmakers.org/) is to create safe and friendly online spaces for people interested in bots and web APIs -- not necessarily just programmers -- to share ideas, resources and their bot creations.
+
+Everyone is welcome to [contribute](https://github.com/botwiki/botwiki.org) to [Botwiki.org](https://www.botwiki.org/) and [join our community](https://botmakers.org/) of botmakers and bot enthusiasts. We have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) and we are also looking for [more core team members](https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md).
 
 <center>
   <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">botwiki/open-source-bots: A full list of open source bots. ★26 <a href="https://t.co/Tz9gHe5vdO">https://t.co/Tz9gHe5vdO</a></p>&mdash; Github Trending (@TrendingGithub) <a href="https://twitter.com/TrendingGithub/status/644029090345914368">September 16, 2015</a></blockquote>
