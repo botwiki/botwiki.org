@@ -29,7 +29,7 @@ It will include a ***Build a Bot*** workshop, presented by [Terian Koscik](https
 
 ### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
 
-_October 21 (2015) 6:30pm - 8:30pm_
+_October 21 (2015) at 6:30pm_
 
 [800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
 
@@ -40,7 +40,7 @@ _October 21 (2015) 6:30pm - 8:30pm_
 
 ### [¶](#nyc-botally-meetup){.pilcrow} [NYC #botALLY Meetup](https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296) {#nyc-botally-meetup}
 
-_October 23 at 6:30pm (2015)_
+_October 23 (2015) 6:30pm - 8:30pm_
 
 [155 Bank St, New York, NY](https://www.google.com/maps/dir/Current+Location/155+Bank+St,+New+York,+NY)
 
