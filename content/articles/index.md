@@ -28,7 +28,7 @@ Below is a selection of blogs centered around botmaking and bot-related topics. 
 - June 26, 2015 -- [The Future of UI Design? Old-School Text Messages](http://www.wired.com/2015/06/future-ui-design-old-school-text-messages/)
 - March 23, 2015 -- [Is Twitter the Next Gaming Platform?](http://iq.intel.com/is-twitter-the-next-playground-for-gamers/)
 - March 11, 2015 -- [Bot or Not](http://www.nybooks.com/blogs/nyrblog/2015/mar/11/twitter-bot-or-not/): *Because the Twitterverse is made of text, rather than rocks and trees and bones and blood, it’s suddenly quite easy to make bots. Now there are millions, by Twitter’s own estimates—most of them short-lived and invisible nuisances.*
-- January 13, 2015 -- [A Brief History Of The Future Of Twitter Bots (pdf)](http://www.gamesbyangelina.org/talks/codecamp.pdf), by [Michael Cook](https://twitter.com/mtrc)
+- January 13, 2015 -- [A Brief History Of The Future Of Twitter Bots (pdf)](http://www.gamesbyangelina.org/talks/codecamp.pdf), by [Michael Cook](https://twitter.com/mtrc) [[mirror]](/content/articles/download/michael_cook--a_brief_history_of_the_future_of_twitter_bots.pdf)
 - May 30, 2014 -- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
 - November 14, 2013 -- [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots)
