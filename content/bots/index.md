@@ -26,6 +26,11 @@ Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Into <a href="https://twitter.com/hashtag/node?src=hash">#node</a>.js <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> <a href="https://twitter.com/hashtag/NLP?src=hash">#NLP</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash">#machinelearning</a> and <a href="https://twitter.com/hashtag/Twitter?src=hash">#Twitter</a> and <a href="https://twitter.com/hashtag/Slack?src=hash">#Slack</a> <a href="https://twitter.com/hashtag/API?src=hash">#API</a>? Join us at <a href="http://t.co/4FH6OgVuCG">http://t.co/4FH6OgVuCG</a>! <a href="http://t.co/D3B0kXBURA">pic.twitter.com/D3B0kXBURA</a></p>&mdash; Botwiki Dot Org (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/645962600363241472">September 21, 2015</a></blockquote>  
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 **PS:** I'm working on a series of tutorials and would really appreciate [your input](https://botwiki.org/survey/botmaking-01). Thank you!
 
 Oh and if you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot) instead.
