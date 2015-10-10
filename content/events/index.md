@@ -23,7 +23,7 @@ _October 10 - 11 (2015)_
 
 > A Pythonicly specific space focusing on ideas, projects, and best practices in need of more attention in an inclusive and welcoming environment.
 
-It will include a ***Build a Bot*** workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
+It will include a [Build a Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
 
 <hr/>
 
