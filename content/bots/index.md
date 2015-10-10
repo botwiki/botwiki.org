@@ -14,8 +14,6 @@ So what exactly is a "bot"? Well, it really depends on who you ask.
 
 -- [A user experience tester](http://peek.usertesting.com/result/20922996954524)
 
-![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
-
 In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on Tumblr or retweet Tweets that talk about cats.
 
 Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community are dedicated to the friendlier of the online bots.
@@ -27,6 +25,8 @@ You are also welcome to join [botmakers.org](https://botmakers.org/), our friend
 Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
+
+![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
 
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 
