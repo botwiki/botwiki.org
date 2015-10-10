@@ -3,7 +3,7 @@ Title: @KeplerBot
 Description: The latest data from NASA's Kepler spacecraft.
 Author: Stefan Bohacek
 Date: October 6, 2015
-Tags: twitter,twitterbot,active,images,space,GeertHub
+Tags: twitter,twitterbot,active,images,gif,space,GeertHub
 
 Nav: hidden
 Robots: index,follow
