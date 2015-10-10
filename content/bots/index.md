@@ -20,9 +20,11 @@ In essence, an online bot is (usually) a simple program that does something a hu
 
 Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community are dedicated to the friendlier of the online bots.
 
-Feel free to browse the bot categories below, use the search if you're looking for something specific -- or join us at [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
+Feel free to browse the [bot categories below](#browse-bots-by-categories), check out the [tutorials](/tutorials/), [read the articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
-Thanks for checking out Botwiki!
+You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
+
+Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
