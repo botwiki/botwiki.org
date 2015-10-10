@@ -26,6 +26,10 @@ Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
+**PS:** I'm working on a series of tutorials and would really appreciate [your input](https://botwiki.org/survey/botmaking-01). Thank you!
+
+Oh and if you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot) instead.
+
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
 
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
