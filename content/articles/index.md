@@ -21,7 +21,9 @@ Below is a selection of blogs centered around botmaking and bot-related topics. 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+
 - October 6, 2015 -- [Agent, Droid, Infobot: the texty Twitter robots Tully Hansen has known and loved](http://www.wheelercentre.com/notes/twitter-bots-tully-hansen-has-known-and-loved) by [Tully Hansen](https://twitter.com/tullyhansen)
+- September 29, 2015 -- [Forget Apps, Now The Bots Take Over](http://techcrunch.com/2015/09/29/forget-apps-now-the-bots-take-over/)
 - August 4, 2015 -- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/)
 - July 27, 2015 -- [They should have sent a Twitter bot poet](http://www.avclub.com/article/they-should-have-sent-twitter-bot-poet-222947)
 - July 17, 2015 -- [Stay Woke Bot](http://feeltrain.com/blog/stay-woke/): Darius Kazemi created a Twitter bot that "helps activists handle their haters".
