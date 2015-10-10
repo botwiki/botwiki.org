@@ -14,9 +14,11 @@ So what exactly is a "bot"? Well, it really depends on who you ask.
 
 -- [A user experience tester](http://peek.usertesting.com/result/20922996954524)
 
-In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on Tumblr or retweet Tweets that talk about cats.
+In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
 
-Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community are dedicated to the friendlier of the online bots.
+You can pretty much think of bots as programs that turn sites like [damnyoubatman.com](http://damnyoubatman.com/) or [hungernames.com](http://hungernames.com/) into automated [Twitter](https://twitter.com/) or [Tumblr](https://www.tumblr.com/) accounts, so you don't have to refresh them. These bots can either wait for a user's input or post their stuff automatically.
+
+Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
 Feel free to browse the [bot categories below](#browse-bots-by-categories), check out the [tutorials](/tutorials/), [read the articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
