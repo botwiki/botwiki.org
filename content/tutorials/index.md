@@ -32,6 +32,10 @@ You have quite a few options when it comes to hosting your bots.
 - [PythonAnywhere](https://www.pythonanywhere.com/) -- "Host, run, and code Python in the cloud!" -- see also slides from the [Build A Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop
 - you can even use your [Raspberry Pi](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/)
 
+Specifically for Twitter bots, you can try:
+- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/)
+- [tilde.town](http://tilde.town/) (Twitter and IRC bots)
+
 **Note: ** [@beaugunderson](https://twitter.com/beaugunderson) is offering to let people host bots on his [Linode](https://www.linode.com/) account
 
 Common ways to manage multiple bots on the same network are:
