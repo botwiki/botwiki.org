@@ -23,7 +23,7 @@ _October 10 - 11 (2015)_
 
 > A Pythonicly specific space focusing on ideas, projects, and best practices in need of more attention in an inclusive and welcoming environment.
 
-It will include a ***Build a Bot*** workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
+It will include a [Build a Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
 
 <hr/>
 
@@ -33,7 +33,30 @@ _October 21 (2015) at 6:30pm_
 
 [800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
 
+
 > This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
+
+<hr/>
+
+### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
+
+_October 22 (2015) 7:00pm_
+
+[Kings Place, 90 York Way, London](https://www.google.com/maps/dir/Current+Location/Kings+Place,+90+York+Way,+London)
+
+> Have you ever wanted to build your own [@ThinkpieceBot](https://twitter.com/ThinkpieceBot), [@fbibot](https://twitter.com/fbibot) or [@horse_ebooks](https://twitter.com/horse_ebooks)? If so you're in luck, as this month we'll be following a tutorial to create our own Twitter bot using Node.js. 
+
+Notes should be available at [journocoders.hackpad.com](https://journocoders.hackpad.com/Journocoders-October-2015-PGXvou7Vcw8).
+
+<hr/>
+
+### [¶](#nyc-botally-meetup){.pilcrow} [NYC #botALLY Meetup](https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296) {#nyc-botally-meetup}
+
+_October 23 (2015) 6:30pm - 8:30pm_
+
+[155 Bank St, New York, NY](https://www.google.com/maps/dir/Current+Location/155+Bank+St,+New+York,+NY)
+
+A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
 <hr/>
 

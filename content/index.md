@@ -23,6 +23,6 @@ You can see more bots [on the **Bots** page](bots/), or [check out the tutorials
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
-**PS:** If you'd like to **support this project**, check out the links [at the bottom of the footer](#footer)!
+**PS:** If you'd like to **support this project**, check out the links [in the footer](#footer)!
 
 **Thank you!**

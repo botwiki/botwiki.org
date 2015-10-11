@@ -9,3 +9,4 @@ Nav: hidden
 Learn how to make a bot for [Telegram](https://telegram.org/):
 
 - [Bots: An introduction for developers](https://core.telegram.org/bots)
+- [Telegram Bot Tutorials](https://www.youtube.com/playlist?list=PLZI3P0VZBj6Hilx7Z-m1jMub2wZwxP5dO) -- a YouTube playlist
