@@ -13,6 +13,7 @@ Nav: hidden
 Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
 ### [¶](#tutorials){.pilcrow} Tutorials {#tutorials}
+- [Build A Bot Workshop](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) -- slides from a workshop at the [PyDX 2015](/events/#pydx2015) Python conference, presented by [Terian Koscik](https://twitter.com/spine_cone) 
 - [dariusk/examplebot](https://github.com/dariusk/examplebot) -- a super simple tutorial with node.js source code
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
 - [A Twitter Bot In 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/) (using [ttezel/twit](https://github.com/ttezel/twit))

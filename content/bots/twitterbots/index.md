@@ -40,14 +40,11 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 
 ### [¶](#botally-and-bot-summit){.pilcrow} &#35;botALLY and Bot Summit {#botally-and-bot-summit}
 
-There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a dedicated [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)) and a [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1).
+There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag. There is also a mostly inactive [IRC channel](irc://freenode/botally?key) ([freenode Web IRC link](http://webchat.freenode.net/?channels=botally)) and a [Slack group](https://docs.google.com/forms/d/13OMkyF7U1dcRPU4lsZC-gWcMT_-lN33Ql0aV2L-K-iA/viewform?c=0&w=1) that started a few days after the launch of [Botmakers.org](https://botmakers.org/).
 
 The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
-[Darius Kazemi](https://twitter.com/tinysubversions) organizes the Bot Summit events dedicated to this community.
-
-- [Bot Summit 2013](http://tinysubversions.com/2013/11/bot-summit/)
-- [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
+[Darius Kazemi](https://twitter.com/tinysubversions) organizes the [Bot Summit events](/events/) dedicated to this community.
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 

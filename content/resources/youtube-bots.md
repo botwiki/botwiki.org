@@ -8,4 +8,4 @@ Nav: hidden
 
 ***This section has no content yet! [Would you like to contribute](https://github.com/botwiki/botwiki.org)?***
 
-See also [open source YouTube bot code](/tag/youtube+opensource), [browse all the YouTube bots](/bots/youtube-bots), or check out some [useful resources](/resources/youtube-bots) for making YouTube bots.
+See also [open source YouTube bot code](/tag/youtube+opensource), [browse all the YouTube bots](/bots/youtube-bots), or check out some [tutorials](/tutorials/youtube-bots) for making YouTube bots.

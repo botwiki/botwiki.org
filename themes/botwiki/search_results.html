@@ -23,6 +23,8 @@
   <p class="search-instructions"><strong>Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</strong></p> 
 {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
   <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
+{% elseif search_term_lower == 'rap' %}
+  <center><iframe width="420" height="315" src="https://www.youtube.com/embed/8PaoLy7PHwk" frameborder="0" allowfullscreen></iframe></center>
 {% elseif search_term_lower == 'error' or search_term_lower == '404' %}
   <p class="search-instructions">Very funny :-)</p>
 {% elseif ' OR ' in search_term %}
@@ -55,6 +57,27 @@
         <div class="search-thumbnail">
           <a href="{{ page.url }}">
             <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
+          </a>
+        </div>
+        <div class="search-text-after-image">
+      {% elseif 'tumblrbot' in page.tags %}
+        <div class="search-thumbnail">
+          <a href="{{ page.url }}">
+            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/tumblr-bots/images/{{page.title | replace({' ': '_'}) }}.png">
+          </a>
+        </div>
+        <div class="search-text-after-image">
+      {% elseif 'snapchatbot' in page.tags %}
+        <div class="search-thumbnail">
+          <a href="{{ page.url }}">
+            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/snapchat-bots/images/{{page.title | replace({' ': '_'}) }}.png">
+          </a>
+        </div>
+        <div class="search-text-after-image">
+      {% elseif 'kikbot' in page.tags %}
+        <div class="search-thumbnail">
+          <a href="{{ page.url }}">
+            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/kik-bots/images/{{page.title | replace({' ': '_'}) }}.png">
           </a>
         </div>
         <div class="search-text-after-image">
