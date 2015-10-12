@@ -33,7 +33,7 @@ You have quite a few options when it comes to hosting your bots.
 - you can even use your [Raspberry Pi](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/)
 
 Specifically for Twitter bots, you can try:
-- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/)
+- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) -- see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ
 - [tilde.town](http://tilde.town/) (Twitter and IRC bots)
 
 **Note: ** [@beaugunderson](https://twitter.com/beaugunderson) is offering to let people host bots on his [Linode](https://www.linode.com/) account

@@ -44,7 +44,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
-- [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
+- [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
 - [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- A tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
 
 ### [¶](#unsorted){.pilcrow} Other/Unsorted {#unsorted}
