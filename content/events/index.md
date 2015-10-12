@@ -14,19 +14,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 ## Upcoming events
 
 
-### [¶](#pydx2015){.pilcrow} [PyDX 2015](http://pydx.org/) {#pydx2015}
-
-_October 10 - 11 (2015)_
-
-[White Stag Block, 70 NW Couch St, Portland, OR](https://www.google.com/maps/dir/Current+Location/White+Stag+Block+(UO+Portland)+70+NW+Couch+St,+Portland,+OR+97209)
-
-
-> A Pythonicly specific space focusing on ideas, projects, and best practices in need of more attention in an inclusive and welcoming environment.
-
-It will include a [Build a Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
-
-<hr/>
-
 ### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
 
 _October 21 (2015) at 6:30pm_
@@ -61,6 +48,19 @@ A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "re
 <hr/>
 
 # Past events
+
+### [¶](#pydx2015){.pilcrow} [PyDX 2015](http://pydx.org/) {#pydx2015}
+
+_October 10 - 11 (2015)_
+
+[White Stag Block, 70 NW Couch St, Portland, OR](https://www.google.com/maps/dir/Current+Location/White+Stag+Block+(UO+Portland)+70+NW+Couch+St,+Portland,+OR+97209)
+
+
+> A Pythonicly specific space focusing on ideas, projects, and best practices in need of more attention in an inclusive and welcoming environment.
+
+It will include a [Build a Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop, presented by [Terian Koscik](https://twitter.com/spine_cone). See full schedule [here](http://pydx.org/files/pydx-2015-schedule.pdf).
+
+<hr/>
 
 ### [¶](#bot-summit-2014){.pilcrow} [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/) {#bot-summit-2014}
 
