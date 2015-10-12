@@ -19,7 +19,7 @@ Some examples of such bots include:
 - [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
 
-You can see more bots [on the **Bots** page](bots/), or [check out the tutorials](tutorials/) to learn how to make your own.
+You can see more bots [on the **Bots** page](bots/) (you can jump directly to bots organized [ by **categories**](/bots/#browse-bots-by-categories) or [the **network**](/bots/#browse-bots-by-network) on which they operate), or [check out the tutorials](tutorials/) to learn how to make your own.
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
