@@ -20,7 +20,7 @@ You can pretty much think of bots as programs that turn sites like [damnyoubatma
 
 Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
-Feel free to browse the [bot categories below](#browse-bots-by-categories), check out the [tutorials](/tutorials/), [read the articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
+Feel free to browse the bots below -- [by categories](#browse-bots-by-categories) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
 You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
 
