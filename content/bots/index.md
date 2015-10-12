@@ -41,6 +41,14 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 
+- [Game bots](/tag/game)
+- [Image bots](/tag/images)
+- [Non-English bots](/tag/non-english)
+- [Internet of Things (IoT) bots](/bots/iot)
+- [Open source bots](/tag/opensource)
+
+### [¶](#browse-bots-by-network){.pilcrow} Browse bots by network {#browse-bots-by-network}
+
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
 - [Tumblr bots](/bots/tumblr-bots)
@@ -48,8 +56,3 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 - [Reddit bots](/bots/redditbots)
 - [Snapchat bots](/tag/snapchatbot)
 - [Kik bots](/tag/kikbot)
-- [Internet of Things (IoT) bots](/bots/iot)
-- [Open source bots](/tag/opensource)
-- [Game bots](/tag/game)
-- [Image bots](/tag/images)
-- [Non-English bots](/tag/non-english)
