@@ -3,7 +3,7 @@ Title: @infinitedeserts
 Description: An infinity of deserts, each more infinite than the last.
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,active,ascii,getdizzzy
+Tags: twitter,twitterbot,active,nature,ascii,cheapbotsdonequick,getdizzzy
 
 Nav: hidden
 Robots: index,follow
