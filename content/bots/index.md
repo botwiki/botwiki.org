@@ -42,7 +42,7 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 
 - [Game bots](/tag/game)
-- [Image bots](/tag/images)
+- [Image bots](/tag/images) ([GIF bots](/tag/gif))
 - [Non-English bots](/tag/non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
