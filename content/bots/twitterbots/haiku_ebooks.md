@@ -3,7 +3,7 @@ Title: @haiku_ebooks
 Description: Tweets that fit the haiku structure
 Author: Stefan Bohacek
 Date: September 20, 2015
-Tags: twitter,twitterbot,active,opensource,open source,ruby,retweet,haiku,language,poems,colewillsea
+Tags: twitter,twitterbot,active,opensource,open source,ruby,retweet,haiku,poetry,colewillsea
 
 Nav: hidden
 Robots: index,follow

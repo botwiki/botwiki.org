@@ -44,8 +44,9 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
-- [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"*
+- [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
 - [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- A tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
+- [I Will Dance The OAuth Dance For You](http://v21.io/iwilldancetheoauthdanceforyou/) -- a tool to help obtain oauth credentials for an account.
 
 ### [¶](#unsorted){.pilcrow} Other/Unsorted {#unsorted}
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
