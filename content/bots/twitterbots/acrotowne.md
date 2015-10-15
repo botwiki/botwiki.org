@@ -2,7 +2,7 @@
 Title: @acrotowne
 Description: An acronym game Twitter bot.
 Author: Stefan Bohacek
-Date: October, 2015
+Date: October 2, 2015
 Tags: twitter,twitterbot,active,game,zhaytee
 
 Nav: hidden
