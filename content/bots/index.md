@@ -20,18 +20,13 @@ You can pretty much think of bots as programs that turn sites like [damnyoubatma
 
 Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
-Feel free to browse the [bot categories below](#browse-bots-by-categories), check out the [tutorials](/tutorials/), [read the articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
+Feel free to browse the bots below -- [by categories](#browse-bots-by-categories) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
 You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
 
 Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
-
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Into <a href="https://twitter.com/hashtag/node?src=hash">#node</a>.js <a href="https://twitter.com/hashtag/Python?src=hash">#Python</a> <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> <a href="https://twitter.com/hashtag/NLP?src=hash">#NLP</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash">#machinelearning</a> and <a href="https://twitter.com/hashtag/Twitter?src=hash">#Twitter</a> and <a href="https://twitter.com/hashtag/Slack?src=hash">#Slack</a> <a href="https://twitter.com/hashtag/API?src=hash">#API</a>? Join us at <a href="http://t.co/4FH6OgVuCG">http://t.co/4FH6OgVuCG</a>! <a href="http://t.co/D3B0kXBURA">pic.twitter.com/D3B0kXBURA</a></p>&mdash; Botwiki Dot Org (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/645962600363241472">September 21, 2015</a></blockquote>  
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 **PS:** I'm working on a series of tutorials and would really appreciate [your input](https://botwiki.org/survey/botmaking-01). Thank you!
 
@@ -41,6 +36,15 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 
+- [Poetry bots](/tag/poetry)
+- [Image bots](/tag/images) ([GIF bots](/tag/gif))
+- [Game bots](/tag/game)
+- [Non-English bots](/tag/non-english)
+- [Internet of Things (IoT) bots](/bots/iot)
+- [Open source bots](/tag/opensource)
+
+### [¶](#browse-bots-by-network){.pilcrow} Browse bots by network {#browse-bots-by-network}
+
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
 - [Tumblr bots](/bots/tumblr-bots)
@@ -48,8 +52,3 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 - [Reddit bots](/bots/redditbots)
 - [Snapchat bots](/tag/snapchatbot)
 - [Kik bots](/tag/kikbot)
-- [Internet of Things (IoT) bots](/bots/iot)
-- [Open source bots](/tag/opensource)
-- [Game bots](/tag/game)
-- [Image bots](/tag/images)
-- [Non-English bots](/tag/non-english)

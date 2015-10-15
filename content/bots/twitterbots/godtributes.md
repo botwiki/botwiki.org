@@ -3,7 +3,7 @@ Title: @godtributes
 Description: TWITTERBOTS FOR THE TWITTERBOT GOD!
 Author: Stefan Bohacek
 Date: September 20, 2015
-Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,retweet,haiku,language,poems,deathmtn
+Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,language,deathmtn
 
 Nav: hidden
 Robots: index,follow
