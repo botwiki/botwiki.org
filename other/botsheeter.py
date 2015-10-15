@@ -145,9 +145,13 @@ if __name__ == "__main__":
     list_of_rows.pop(0)  # ditch header
 
     # Getting stuff to build .md -- only Twitter bots for now
+    twitter_urls = []  # for screenshots
     for i, row in enumerate(list_of_rows):
         # row is a list of columns
         if "twitter" in row[1]:
+            if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
+                print("Already added or declined, skip it")
+                continue
             bot = {}
             bot['location'] = row[1]
             bot['description'] = row[2]
@@ -182,19 +186,14 @@ if __name__ == "__main__":
             added_col = 10
             wks.update_cell(added_row, added_col, "true")
 
-    # Let's find the URLs of Twitter bots
-    twitter_urls = []
-    for row in list_of_rows:
-        if "twitter" in row[1]:
-            twitter_urls.append(row[1])
-            print("Found:", row[1])
-
-    # Prep botshotter.py call
-    print("Save images...")
-    twitter_urls = ",".join(twitter_urls)
-    import botshotter
-    outdir = "content/bots/twitterbots/images/"  # TODO harcoded for Twitter
-    create_dirs(outdir)
-    botshotter.botshotter(twitter_urls, outdir, headless=True)
+    if twitter_urls:
+        # Prep botshotter.py call
+        print("Save images...")
+        twitter_urls = ",".join(twitter_urls)
+        import botshotter
+        # TODO harcoded for Twitter:
+        outdir = "content/bots/twitterbots/images/"
+        create_dirs(outdir)
+        botshotter.botshotter(twitter_urls, outdir, headless=True)
 
 # End of file
