@@ -19,10 +19,19 @@ Some examples of such bots include:
 - [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
 
-You can see more bots [on the **Bots** page](bots/) (you can jump directly to bots organized [ by **categories**](/bots/#browse-bots-by-categories) or [the **network**](/bots/#browse-bots-by-network) on which they operate), or [check out the tutorials](tutorials/) to learn how to make your own.
+You can see more bots [on the **Bots** page](bots/) (you can jump directly to bots organized [ by **categories**](/bots/#browse-bots-by-categories) or [the **network**](/bots/#browse-bots-by-network) on which they operate).
+
+Do you want us to **include a friendly bot that you made or really like in our collection**? Send us a [pull request](https://github.com/botwiki.org) or use [this handy form](https://botwiki.org/submit-your-bot)!
+
+Lastly, we'd love you to join fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [Botmakers.org](https://botmakers.org/). Or you can go ahead and [check out the **Tutorials** section](tutorials/) to learn how to make your own online bot!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
-**PS:** If you'd like to **support this project**, check out the links [in the footer](#footer)!
+**PS:** If you'd like to **support this project**, you can do so here:
+
+- [Gratipay](https://gratipay.com/botwiki-org/)
+- [Patreon](https://www.patreon.com/fourtonfish)
+- [PayPal](https://www.paypal.me/stefanbohacek) (please include *"Botwiki donation"* in your note)
+- [Bitcoin](bitcoin:1FmqUDejT1hC4mTzwLhfpUyxxaui4BSHDP?amount=0.02&label=Botwiki)
 
 **Thank you!**
