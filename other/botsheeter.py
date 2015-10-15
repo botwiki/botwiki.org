@@ -149,8 +149,8 @@ if __name__ == "__main__":
     for i, row in enumerate(list_of_rows):
         # row is a list of columns
         if "twitter" in row[1]:
-            if (row[10] == "TRUE" or row[10]):
-                print("Already added, skip it")
+            if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
+                print("Already added or declined, skip it")
                 continue
             bot = {}
             bot['location'] = row[1]
