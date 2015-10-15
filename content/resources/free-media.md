@@ -9,6 +9,7 @@ Nav: hidden
 ![ART!](/content/images/illustrations/studio-work.png){.float-right}
 
 ### [¶](#free-images){.pilcrow} Free images {#free-images}
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) -- a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/) -- illustrations from old books; this very site uses it extensively!
 - [Flickr](https://www.flickr.com/search/?q=&l=commderiv&ct=0&mt=all&adv=1) -- CC-licensed content for commercial use on Flickr
 - [Clipart](https://openclipart.org/) -- free clipart images
