@@ -80,7 +80,7 @@ def format_md(bot):
     else:
         creator_text = bot['creator']
 
-    # Remove spaces from before commas, but not from tags
+    # Remove spaces after commas, but not from tags
     tags = bot['tags'].replace(", ", ",")
 
     md_file_text = (
