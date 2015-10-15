@@ -1,6 +1,6 @@
 /*
 Title: Botmaking with OpenShift: Lesson One
-Description: OpenShift, terminal and the API keys stuff
+Description: OpenShift, terminal and containers
 Nav: hidden
 */
 
@@ -9,7 +9,7 @@ Hey there, welcome to the *Botmaking with OpenShift* series, originally to be na
 
 Also, I am hoping to get some kind of a sponsorhip deal with [OpenShift](https://www.openshift.com/), now how about that, that would be pretty cool, eh?!
 
-My name is Stefan *[stefn]* (or [@fourtonfish](https://twitter.com/fourtonfish)) on Twitter -- *Feel free to follow me, but don't expect me to "follow back" just because you did. Look, I can't just follow *everybody*, alright?* -- and this series will take you from a bot enthusiast to an expert [botmaker](https://botmakers.org/) in -- well, I guess that really depends on many factors, like your style of learning, how much fun you're going to have, etc, etc.
+My name is Stefan *[stefn]* (or [@fourtonfish](https://twitter.com/fourtonfish)) on Twitter, and this series will take you from a bot enthusiast to an expert [botmaker](https://botmakers.org/) in -- well, I guess that really depends on many factors, like your style of learning, how much fun you're going to have, etc, etc.
 
 But don't worry, *I'll get you there, alright*? We're in this together now, alright?
 
@@ -40,4 +40,26 @@ Right. That makes sense. So OpenShift really is just some kind of a web hosting 
 
 OpenShift is actually a pretty good hosting solution, I used it myself before moving all of my projects to [Digital Ocean](https://www.digitalocean.com/). It lets you create three apps for free and unlike [Heroku](https://dashboard.heroku.com/), it doesn't force you to shut down your app for several hours a day. What's up with that, Heroku?
 
-So let's start by signing up for an account on the [openshift.com](https://www.openshift.com/) website.
+## [¶](#openshift-getting-started){.pilcrow} Getting started with OpenShift? {#openshift-getting-started}
+
+Anyway. Let's start by signing up for an account on the [openshift.com](https://www.openshift.com/) website.
+
+![Signing up for an account](/content/tutorials/botmaking-with-openshift/images/lesson-1-img-01-signup.png)
+
+After you fill out the signup form, you will be asked to verify your email and after that, you will also have to accept the terms of service. Once all that is taken care of, you'll see the welcome page.
+
+![Welcome](/content/tutorials/botmaking-with-openshift/images/lesson-1-img-02-welcome.png)
+
+Now, it might be tempting to click *Create your first application now*, but we're not quite ready for that yet. We need to first install a few things that we'll be using to create our bots. And this will vary depending on what operating system (OS) you happen to be using. There is no right or wrong answer here, but most common options are:
+
+ - Windows
+ - Mac/OS X
+ - some Linux distribution, for example Ubuntu, Fedora or Mint
+
+OpenShift's [Getting Started](https://developers.openshift.com/en/getting-started-overview.html) page provides pretty comprehensive tutorials for all major operating systems, so you should be fine just following the one for your OS.
+
+At the end, you should have installed the following
+
+ - **git** -- a version control system, which will be also used for pushing your bot app to your OpenShift server
+ - **Ruby** -- a popular programming language; you won't really need to learn this, it's just required by OpenShift
+ - **rhc** -- command line interface for OpenShift (a little program that will let you control your OpenShift apps)
