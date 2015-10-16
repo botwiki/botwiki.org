@@ -41,7 +41,7 @@ def validate_location(location):
 def bot_category(bot):
     """ Get the bot's category from its location """
     if "twitter.com" in bot['location']:
-        return "twitter-bots"
+        return "twitterbots"
     return None
 
 
