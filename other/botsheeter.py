@@ -200,9 +200,9 @@ if __name__ == "__main__":
         bot = {}
         bot['location'] = validate_location(row[1])
         if "twitter" in bot['location']:
-            # if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
-                # print("Already added or declined, skip it")
-                # continue
+            if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
+                print("Already added or declined, skip it")
+                continue
             twitter_urls.append(bot['location'])
             bot['description'] = row[2]
             bot['tags'] = row[3]
@@ -233,7 +233,7 @@ if __name__ == "__main__":
             #   - Don't forget we ditched the header, so i==0 is row 2.
             added_row = i + 2
             # * Second value is column (A=1, B=2, ..., K=11, etc.)
-            added_col = 11
+            added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
     if twitter_urls:
