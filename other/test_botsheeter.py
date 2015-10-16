@@ -86,6 +86,17 @@ class TestIt(unittest.TestCase):
             tags, "twitter,twitterbot,political,media,corbyn,headlines,"
                   "open source,opensource")
 
+    def test_bot_tags_open_source_language(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['is_open_source'] = True
+        bot['open_source_language'] = "python"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
+                  "open source,opensource,python")
+
     def test_bot_png_filename(self):
         # Arrange
         bot = {}

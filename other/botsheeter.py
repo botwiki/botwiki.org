@@ -73,6 +73,8 @@ def bot_tags(bot):
 
     if 'is_open_source' in bot and bot['is_open_source']:
         tags_to_add.extend(["open source", "opensource"])
+        if 'open_source_language' in bot and bot['open_source_language']:
+            tags_to_add.append(bot['open_source_language'])
 
     # Remove duplicates
     tags_to_add = dedupe(tags_to_add)
@@ -215,6 +217,8 @@ if __name__ == "__main__":
             bot['creator'] = row[6]
             bot['short_description'] = row[7]
             bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
+            # row[9] not used
+            bot['open_source_language'] = row[10]
 
             outfile = bot_md_filename(bot)
             if os.path.isfile(outfile):
@@ -232,7 +236,7 @@ if __name__ == "__main__":
             #   - Rows begin at 1, not 0.
             #   - Don't forget we ditched the header, so i==0 is row 2.
             added_row = i + 2
-            # * Second value is column (A=1, B=2, ..., K=11, etc.)
+            # * Second value is column (A=1, B=2, ..., L=12, etc.)
             added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
