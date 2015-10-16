@@ -1,0 +1,4 @@
+gspread
+oauth2client
+pillow
+selenium
