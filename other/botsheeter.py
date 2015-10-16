@@ -71,6 +71,9 @@ def bot_tags(bot):
     # Add user tags
     tags_to_add.extend(user_tags)
 
+    if 'is_open_source' in bot and bot['is_open_source']:
+        tags_to_add.extend(["open source", "opensource"])
+
     # Remove duplicates
     tags_to_add = dedupe(tags_to_add)
 
