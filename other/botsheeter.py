@@ -52,6 +52,32 @@ def bot_network(bot):
     return None
 
 
+def dedupe(seq):
+    """ Dedupe a list, preserving order """
+    seen = set()
+    seen_add = seen.add
+    return [x for x in seq if not (x in seen or seen_add(x))]
+
+
+def bot_tags(bot):
+    """ Add network-specific tags, remove duplicates """
+    tags_to_add = []
+    if "twitter.com" in bot['location']:
+        tags_to_add = ["twitter", "twitterbot"]
+
+    # Remove spaces after commas, but not from tags, and convert into a list
+    user_tags = bot['tags'].replace(", ", ",").split(",")
+
+    # Add user tags
+    tags_to_add.extend(user_tags)
+
+    # Remove duplicates
+    tags_to_add = dedupe(tags_to_add)
+
+    # And back to a lowercase string
+    return ",".join(tags_to_add).lower()
+
+
 def bot_type(bot):
     """ Get the bot's type from its location """
     if "twitter.com" in bot['location']:
@@ -83,6 +109,7 @@ def format_md(bot):
 
     bot['category'] = bot_category(bot)
     bot['network'] = bot_network(bot)
+    bot['tags'] = bot_tags(bot)
     bot['type'] = bot_type(bot)
     bot['username'] = bot_username(bot, at_sign=True)
 
@@ -97,16 +124,13 @@ def format_md(bot):
     else:
         creator_text = bot['creator']
 
-    # Remove spaces after commas, but not from tags
-    tags = bot['tags'].replace(", ", ",")
-
     md_file_text = (
         '/*\n'
         + 'Title: ' + bot['username'] + '\n'
         + 'Description: ' + bot['short_description'] + '\n'
         + 'Author: botsheeter.py' + '\n'
         + 'Date: ' + date + '\n'
-        + 'Tags: ' + tags + '\n'
+        + 'Tags: ' + bot['tags'] + '\n'
         + 'Nav: hidden' + '\n'
         + 'Robots: index,follow' + '\n'
         + '*/' + '\n\n'
