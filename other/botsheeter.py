@@ -69,13 +69,6 @@ def bot_username(bot, at_sign=False):
     return username
 
 
-def fix_url(url):
-    """ Check the url really is proper URL """
-    if url.startswith("twitter.com"):
-        url = "https://" + url
-    return url
-
-
 def format_md(bot):
     """
     bot.network will be deduced based on the URL, eg
@@ -117,13 +110,18 @@ def format_md(bot):
         + 'Nav: hidden' + '\n'
         + 'Robots: index,follow' + '\n'
         + '*/' + '\n\n'
-        + '[![](/content/bots/' + bot['category'] + '/images/'
-        + bot['username'] + '.png)](' + bot['location'] + ')' + '\n\n'
+        + '[![](/' + bot_png_filename(bot) + ')](' + bot['location'] + ')\n\n'
         + '[' + bot['username'] + '](' + bot['location'] + ') is a'
         + open_source_text
         + bot['network'] + ' bot created by ' + creator_text + '. \n\n'
         + bot['description'] + '\n\n')
     return md_file_text
+
+
+def bot_png_filename(bot):
+    """ Return a filename for saving this bot's png file """
+    return ("content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
+            + ".png")
 
 
 def bot_md_filename(bot):
