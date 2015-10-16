@@ -71,10 +71,16 @@ def bot_tags(bot):
     # Add user tags
     tags_to_add.extend(user_tags)
 
+    # Add open-source tags
     if 'is_open_source' in bot and bot['is_open_source']:
         tags_to_add.extend(["open source", "opensource"])
         if 'open_source_language' in bot and bot['open_source_language']:
             tags_to_add.append(bot['open_source_language'])
+
+    # Add author's Twitter username
+    if 'creator_twitter_url' in bot and bot['creator_twitter_url']:
+        tags_to_add.append(
+            twitter_username_from_url(bot['creator_twitter_url']))
 
     # Remove duplicates
     tags_to_add = dedupe(tags_to_add)
@@ -90,13 +96,19 @@ def bot_type(bot):
     return None
 
 
+def twitter_username_from_url(url, at_sign=False):
+    """ Get a Twitter username from a URL """
+    username = url.rsplit('/', 1)[-1]
+    if at_sign:
+        username = "@" + username
+    return username
+
+
 def bot_username(bot, at_sign=False):
     """ Get the bot's username from its location """
     username = None
     if "twitter.com" in bot['location']:
-        username = bot['location'].rsplit('/', 1)[-1]
-        if at_sign:
-            username = "@" + username
+        username = twitter_username_from_url(bot['location'])
     return username
 
 
