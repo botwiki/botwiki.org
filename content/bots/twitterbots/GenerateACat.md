@@ -7,12 +7,12 @@ Tags: twitter,twitterbot,images,generator,animal,procedural,mousefountain,bzgeb
 Nav: hidden
 Robots: index,follow
 */
-[![](/content/bots/twitter-bots/images/@GenerateACat.png)](https://twitter.com/GenerateACat)
-[@GenerateACat](https://twitter.com/GenerateACat) is a Twitter bot created by [Bronson Zgeb](https://twitter.com/bzgeb). 
 
-A Twitter bot that generates a drawing of a cat when someone follows or tweets at it.
+[![](/content/bots/twitterbots/images/GenerateACat.png)](https://twitter.com/GenerateACat)
 
-Generator by [@mousefountain](https://twitter.com/mousefountain).
+[@GenerateACat](https://twitter.com/GenerateACat) is a Twitter bot created by [Bronson Zgeb](https://twitter.com/bzgeb) that generates a drawing of a cat when someone follows or tweets at it.
+
+The generator itself was created by [G.P. Lackey](https://twitter.com/mousefountain).
 
 
 
