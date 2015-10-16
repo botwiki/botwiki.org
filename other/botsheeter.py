@@ -15,6 +15,29 @@ from oauth2client.client import SignedJwtAssertionCredentials
 # from pprint import pprint
 
 
+def make_twitter_url(text, force_it=False):
+    """ Do the best to turn it into a Twitter URL """
+    if text.startswith("twitter.com"):
+        return "https://" + text.replace(" ", "")
+    if text.startswith("https://twitter.com"):
+        return text.replace(" ", "")
+    if text.startswith("@"):
+        return "https://twitter.com/" + text[1:].replace(" ", "")
+    if force_it:
+        return "https://twitter.com/" + text.replace(" ", "")
+    return text
+
+
+def validate_creator_twitter_url(url):
+    """ Validate url to return a Twitter URL """
+    return make_twitter_url(url, force_it=True)
+
+
+def validate_location(location):
+    """ Validate location to return a URL """
+    return make_twitter_url(location)
+
+
 def bot_category(bot):
     """ Get the bot's category from its location """
     if "twitter.com" in bot['location']:
@@ -54,11 +77,13 @@ def fix_url(url):
 
 
 def format_md(bot):
-    # bot.network will be deduced based on the URL, eg
-    # bot.url contains youtube.com => bot.network = 'YouTube'
-    # and bot.category = 'youtube-bots'
-    # and bot.type = 'youtubebot'
-    # etc
+    """
+    bot.network will be deduced based on the URL, eg
+    bot.url contains youtube.com => bot.network = 'YouTube'
+    and bot.category = 'youtube-bots'
+    and bot.type = 'youtubebot'
+    etc.
+    """
 
     date = datetime.datetime.today()
     date = date.strftime("%B %d, %Y")
@@ -68,15 +93,14 @@ def format_md(bot):
     bot['type'] = bot_type(bot)
     bot['username'] = bot_username(bot, at_sign=True)
 
-    print(bot['is_open_source'])
     if bot['is_open_source']:
         open_source_text = 'n [open source](' + bot['source_url'] + ') '
     else:
         open_source_text = ' '
 
-    if 'creator_twiter_url' in bot:
-        url = fix_url(bot['creator_twiter_url'])
-        creator_text = '[' + bot['creator'] + '](' + url + ')'
+    if 'creator_twitter_url' in bot:
+        creator_text = ('[' + bot['creator'] + ']('
+                        + bot['creator_twitter_url'] + ')')
     else:
         creator_text = bot['creator']
 
@@ -148,12 +172,13 @@ if __name__ == "__main__":
     twitter_urls = []  # for screenshots
     for i, row in enumerate(list_of_rows):
         # row is a list of columns
-        if "twitter" in row[1]:
-            if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
-                print("Already added or declined, skip it")
-                continue
-            bot = {}
-            bot['location'] = row[1]
+        bot = {}
+        bot['location'] = validate_location(row[1])
+        if "twitter" in bot['location']:
+            # if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
+                # print("Already added or declined, skip it")
+                # continue
+            twitter_urls.append(bot['location'])
             bot['description'] = row[2]
             bot['tags'] = row[3]
             bot['active'] = row[4]
@@ -164,7 +189,7 @@ if __name__ == "__main__":
                 bot['is_open_source'] = False
             bot['creator'] = row[6]
             bot['short_description'] = row[7]
-            bot['creator_twiter_url'] = row[8]
+            bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
 
             outfile = bot_md_filename(bot)
             if os.path.isfile(outfile):
@@ -182,8 +207,8 @@ if __name__ == "__main__":
             #   - Rows begin at 1, not 0.
             #   - Don't forget we ditched the header, so i==0 is row 2.
             added_row = i + 2
-            # * Second value is column (A=1, B=2, etc.)
-            added_col = 10
+            # * Second value is column (A=1, B=2, ..., K=11, etc.)
+            added_col = 11
             wks.update_cell(added_row, added_col, "true")
 
     if twitter_urls:
