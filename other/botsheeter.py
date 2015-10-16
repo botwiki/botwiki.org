@@ -116,9 +116,9 @@ def format_md(bot):
         + 'Tags: ' + tags + '\n'
         + 'Nav: hidden' + '\n'
         + 'Robots: index,follow' + '\n'
-        + '*/' + '\n'
+        + '*/' + '\n\n'
         + '[![](/content/bots/' + bot['category'] + '/images/'
-        + bot['username'] + '.png)](' + bot['location'] + ')' + '\n'
+        + bot['username'] + '.png)](' + bot['location'] + ')' + '\n\n'
         + '[' + bot['username'] + '](' + bot['location'] + ') is a'
         + open_source_text
         + bot['network'] + ' bot created by ' + creator_text + '. \n\n'
