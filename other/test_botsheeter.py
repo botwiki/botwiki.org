@@ -68,6 +68,14 @@ class TestIt(unittest.TestCase):
         output = botsheeter.validate_location(input)
         self.assertEqual(output, "botwiki dot org")
 
+    def test_bot_tags(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines")
+
     def test_bot_png_filename(self):
         # Arrange
         bot = {}
