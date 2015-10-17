@@ -66,7 +66,7 @@ def bot_tags(bot):
         tags_to_add = ["twitter", "twitterbot"]
 
     # Remove spaces after commas, but not from tags, and convert into a list
-    user_tags = bot['tags'].replace(", ", ",").split(",")
+    user_tags = bot['tags'].replace(", ", ",").lower().split(",")
 
     # Add user tags
     tags_to_add.extend(user_tags)
@@ -76,6 +76,11 @@ def bot_tags(bot):
         tags_to_add.extend(["open source", "opensource"])
         if 'open_source_language' in bot and bot['open_source_language']:
             tags_to_add.append(bot['open_source_language'])
+        # Add node tags
+        if ("nodejs" in tags_to_add
+                or "node.js" in tags_to_add
+                or "node" in tags_to_add):
+            tags_to_add.extend(["nodejs", "node.js", "node"])
 
     # Add author's Twitter username
     if 'creator_twitter_url' in bot and bot['creator_twitter_url']:
