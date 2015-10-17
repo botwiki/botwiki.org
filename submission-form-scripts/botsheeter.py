@@ -190,7 +190,7 @@ if __name__ == "__main__":
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument(
         '-j', '--json',
-        default='E:/Users/hugovk/Dropbox/bin/data/botsheeter.json',
+        default='botsheeter.json',
         help="JSON file location containing Google OAuth credentials from: "
              "https://gspread.readthedocs.org/en/latest/oauth2.html")
     args = parser.parse_args()

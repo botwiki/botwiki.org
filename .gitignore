@@ -3,6 +3,8 @@ cache
 themes/botwiki/statcounter.html
 google58822c7cc0900975.html
 
+submission-form-scripts/botsheeter.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
