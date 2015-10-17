@@ -12,7 +12,7 @@ Requirements:
 from __future__ import print_function, unicode_literals
 import argparse
 from PIL import Image  # pip install pillow
-from selenium import webdriver  # pip install selenium
+from selenium import webdriver, common  # pip install selenium
 import StringIO
 import os.path
 import time
@@ -49,15 +49,16 @@ def username_from_url(url):
     """ Given https://twitter.com/gutendelight, return gutendelight """
     return url.rsplit('/', 1)[-1]
 
-
 def delete_element_by_class_name(driver, class_name):
     """ Delete an element from the page """
-    element = driver.find_element_by_class_name(class_name)
-    driver.execute_script("""
-        var element = arguments[0];
-        element.parentNode.removeChild(element);
-        """, element)
-
+    try:
+        element = driver.find_element_by_class_name(class_name)
+        driver.execute_script("""
+            var element = arguments[0];
+            element.parentNode.removeChild(element);
+            """, element)
+    except common.exceptions.NoSuchElementException:
+        pass
 
 def take_shot(driver, url, headless):
     """
