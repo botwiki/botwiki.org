@@ -66,18 +66,18 @@
   <section id="content">
     <div class="inner">
       {% if meta.purpose == "search_results" %}
-        {% include 'search_results.html' %}
+        {% include 'includes/search_results.html' %}
       {% else %}
         {% if is_front_page %}
-          {% include 'main.html' %}
+          {% include 'includes/main.html' %}
         {% elseif current_page is not empty %}
-          {% include 'article.html' %}
+          {% include 'includes/article.html' %}
           {# TODO: Something like this should be possible with Pico 1.0
-          {% include 'contribute.html' with {'relative_path': current_page.url | split(base_url) | last } %}
+          {% include 'includes/contribute.html' with {'relative_path': current_page.url | split(base_url) | last } %}
           #}
         {% elseif current_page is empty %}
             {% if meta.title != 'Error 404' %}
-              {% include 'all_tags.html' %}
+              {% include 'includes/all_tags.html' %}
             {% else %}
               {{ content }}
             {% endif %}
@@ -106,7 +106,7 @@
       </p>
     </div>
   </footer>
-{% include 'statcounter.html' ignore missing %}
+{% include 'includes/statcounter.html' ignore missing %}
   <script src="{{ theme_url }}/js/scripts.min.js"></script>
 </body>
 </html>
