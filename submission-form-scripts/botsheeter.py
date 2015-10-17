@@ -166,7 +166,7 @@ def format_md(bot):
 
 def bot_png_filename(bot):
     """ Return a filename for saving this bot's png file """
-    return ("../content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
+    return ("/content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
             + ".png")
 
 
