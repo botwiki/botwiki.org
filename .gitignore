@@ -1,8 +1,13 @@
 node_modules
 cache
+
+# StatCounter (visitor statistics) snippet
 themes/botwiki/statcounter.html
+
+# Google Webmaster Tools validation
 google58822c7cc0900975.html
 
+# API keys for Hugo's bot submission form
 submission-form-scripts/botsheeter.json
 
 # Byte-compiled / optimized / DLL files
