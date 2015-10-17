@@ -66,7 +66,7 @@ def bot_tags(bot):
         tags_to_add = ["twitter", "twitterbot"]
 
     # Remove spaces after commas, but not from tags, and convert into a list
-    user_tags = bot['tags'].replace(", ", ",").split(",")
+    user_tags = bot['tags'].replace(", ", ",").lower().split(",")
 
     # Add user tags
     tags_to_add.extend(user_tags)
@@ -76,6 +76,11 @@ def bot_tags(bot):
         tags_to_add.extend(["open source", "opensource"])
         if 'open_source_language' in bot and bot['open_source_language']:
             tags_to_add.append(bot['open_source_language'])
+        # Add node tags
+        if ("nodejs" in tags_to_add
+                or "node.js" in tags_to_add
+                or "node" in tags_to_add):
+            tags_to_add.extend(["nodejs", "node.js", "node"])
 
     # Add author's Twitter username
     if 'creator_twitter_url' in bot and bot['creator_twitter_url']:
@@ -193,6 +198,9 @@ if __name__ == "__main__":
         default='botsheeter.json',
         help="JSON file location containing Google OAuth credentials from: "
              "https://gspread.readthedocs.org/en/latest/oauth2.html")
+    parser.add_argument(
+        '-x', '--test', action='store_true',
+        help="Test mode: create local files but don't update the spreadsheet")
     args = parser.parse_args()
 
     json_key = json.load(open(args.json))
@@ -243,14 +251,15 @@ if __name__ == "__main__":
             print()
             save_md(md_file_text, outfile)
 
-            # Update the worksheet
-            # * First value is row number but take care!
-            #   - Rows begin at 1, not 0.
-            #   - Don't forget we ditched the header, so i==0 is row 2.
-            added_row = i + 2
-            # * Second value is column (A=1, B=2, ..., L=12, etc.)
-            added_col = 12
-            wks.update_cell(added_row, added_col, "true")
+            if not args.test:
+                # Update the worksheet
+                # * First value is row number but take care!
+                #   - Rows begin at 1, not 0.
+                #   - Don't forget we ditched the header, so i==0 is row 2.
+                added_row = i + 2
+                # * Second value is column (A=1, B=2, ..., L=12, etc.)
+                added_col = 12
+                wks.update_cell(added_row, added_col, "true")
 
     if twitter_urls:
         # Prep botshotter.py call
