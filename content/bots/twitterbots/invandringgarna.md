@@ -3,7 +3,7 @@ Title: invandringgarna
 Description: Provoking ignorant immigration tweeters.
 Author: botsheeter.py
 Date: October 17, 2015
-Tags: twitter,twitterbot,python,good cause,open source,opensource,arvid220u
+Tags: twitter,twitterbot,python,political,cause,reply,open source,opensource,arvid220u
 Nav: hidden
 Robots: index,follow
 */
