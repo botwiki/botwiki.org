@@ -7,10 +7,18 @@
     {% endif %}
   
     {% if meta.tags is not empty %}
-      <p class="tags">Tags:
-        {% for tag in meta.tags %}
-            <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-        {% endfor %}
+      {% if 
+        'active' in meta.tags or
+        'inactive' in meta.tags
+      %}
+        <p class="tags">Browse more bots like this:
+      {% else %}
+        <p class="tags">Tags:
+      {% endif %}
+
+      {% for tag in meta.tags %}
+          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
       </p>
     {% endif %}
   </p>
