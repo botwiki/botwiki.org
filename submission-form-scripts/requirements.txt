@@ -3,7 +3,7 @@ gspread
 oauth2client
 
 # botshotter.py
-pillow
+pillow>=2.9.0
 selenium
 
 # test_botsheeter.py
