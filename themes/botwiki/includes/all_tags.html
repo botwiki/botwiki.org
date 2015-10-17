@@ -14,6 +14,8 @@
     {% include 'includes/twitterbots.html' %}
   {% elseif current_tags == ['images'] %}
     <p>You can also explore the <a href="/tag/gif">#gif</a> tag.</p>
+  {% elseif current_tags == ['game'] %}
+    {% include 'includes/game-bots.html' %}
   {% elseif current_tags == ['gif'] %}
     <p>You can also explore the <a href="/tag/images">#images</a> tag.</p>
   {% elseif current_tags == ['opensource'] or current_tags == ['open source'] %}
