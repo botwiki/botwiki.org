@@ -1,6 +1,6 @@
 {% set search_term_lower = search_term|lower %}
 {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' or search_term_lower == 'contact' or search_term_lower == 'email' %}
-  {% include 'contact.html' %}
+  {% include 'includes/contact.html' %}
 {% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
   <p class="search-instructions">Did you mean <a href="/content/images/other/mango.gif">mango</a>?</p> 
 {% elseif search_term_lower == 'help' %}
@@ -23,6 +23,8 @@
   <p class="search-instructions"><strong>Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</strong></p> 
 {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
   <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
+{% elseif search_term_lower == 'game' %}
+  {% include 'includes/game-bots.html' %}
 {% elseif search_term_lower == 'rap' %}
   <center><iframe width="420" height="315" src="https://www.youtube.com/embed/8PaoLy7PHwk" frameborder="0" allowfullscreen></iframe></center>
 {% elseif search_term_lower == 'error' or search_term_lower == '404' %}
