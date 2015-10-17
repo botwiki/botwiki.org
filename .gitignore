@@ -2,7 +2,7 @@ node_modules
 cache
 
 # StatCounter (visitor statistics) snippet
-themes/botwiki/statcounter.html
+statcounter.html
 
 # Google Webmaster Tools validation
 google58822c7cc0900975.html
