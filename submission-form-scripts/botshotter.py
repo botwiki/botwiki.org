@@ -13,6 +13,9 @@ from __future__ import print_function, unicode_literals
 import argparse
 from PIL import Image  # pip install pillow
 from selenium import webdriver, common  # pip install selenium
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 import StringIO
 import os.path
 import time
@@ -30,7 +33,6 @@ def do_one_account(driver, url_or_username, outdir, headless):
 
     im = take_shot(driver, url, headless)
     im = crop_image(im, headless)
-
     im.save(outfile)
 
 
@@ -68,6 +70,10 @@ def take_shot(driver, url, headless):
 
     # Load the webpage
     driver.get(url)
+
+    # Make sure the page is loaded
+    wait = WebDriverWait(driver, 10)
+    wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
     # Remove some clutter
     delete_element_by_class_name(driver, 'BannersContainer')
@@ -123,7 +129,7 @@ def botshotter(url, outdir, headless=False):
     """ Main bit """
     if headless:
         import os.path
-        driver = webdriver.PhantomJS(service_log_path=os.path.devnull)
+        driver = webdriver.PhantomJS(service_log_path=os.path.devnull, service_args=['--ignore-ssl-errors=true', '--ssl-protocol=any'])
     else:
         options = webdriver.ChromeOptions()
         options.add_argument("--start-maximized")
