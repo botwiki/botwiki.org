@@ -68,6 +68,59 @@ class TestIt(unittest.TestCase):
         output = botsheeter.validate_location(input)
         self.assertEqual(output, "botwiki dot org")
 
+    def test_bot_tags(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines")
+
+    def test_bot_tags_open_source(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['is_open_source'] = True
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
+                  "open source,opensource")
+
+    def test_bot_tags_open_source_language(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['is_open_source'] = True
+        bot['open_source_language'] = "python"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
+                  "open source,opensource,python")
+
+    def test_bot_tags_authors_twitter_name(self):
+        bot = {}
+        bot['tags'] = "Political, media, corbyn, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['open_source_language'] = "python"
+        bot['creator_twitter_url'] = "https://twitter.com/fourtonfish"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
+                  "fourtonfish")
+
+    def test_bot_png_filename(self):
+        # Arrange
+        bot = {}
+        bot['type'] = "twitterbots"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+
+        # Act
+        filename = botsheeter.bot_png_filename(bot)
+
+        # Assert
+        self.assertEqual(
+            filename, "content/bots/twitterbots/images/botwikidotorg.png")
+
 
 class TestWithHypothesis(unittest.TestCase):
 
