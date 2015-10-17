@@ -41,7 +41,7 @@ def validate_location(location):
 def bot_category(bot):
     """ Get the bot's category from its location """
     if "twitter.com" in bot['location']:
-        return "twitter-bots"
+        return "twitterbots"
     return None
 
 
@@ -52,6 +52,43 @@ def bot_network(bot):
     return None
 
 
+def dedupe(seq):
+    """ Dedupe a list, preserving order """
+    seen = set()
+    seen_add = seen.add
+    return [x for x in seq if not (x in seen or seen_add(x))]
+
+
+def bot_tags(bot):
+    """ Add network-specific tags, remove duplicates """
+    tags_to_add = []
+    if "twitter.com" in bot['location']:
+        tags_to_add = ["twitter", "twitterbot"]
+
+    # Remove spaces after commas, but not from tags, and convert into a list
+    user_tags = bot['tags'].replace(", ", ",").split(",")
+
+    # Add user tags
+    tags_to_add.extend(user_tags)
+
+    # Add open-source tags
+    if 'is_open_source' in bot and bot['is_open_source']:
+        tags_to_add.extend(["open source", "opensource"])
+        if 'open_source_language' in bot and bot['open_source_language']:
+            tags_to_add.append(bot['open_source_language'])
+
+    # Add author's Twitter username
+    if 'creator_twitter_url' in bot and bot['creator_twitter_url']:
+        tags_to_add.append(
+            twitter_username_from_url(bot['creator_twitter_url']))
+
+    # Remove duplicates
+    tags_to_add = dedupe(tags_to_add)
+
+    # And back to a lowercase string
+    return ",".join(tags_to_add).lower()
+
+
 def bot_type(bot):
     """ Get the bot's type from its location """
     if "twitter.com" in bot['location']:
@@ -59,21 +96,20 @@ def bot_type(bot):
     return None
 
 
+def twitter_username_from_url(url, at_sign=False):
+    """ Get a Twitter username from a URL """
+    username = url.rsplit('/', 1)[-1]
+    if at_sign:
+        username = "@" + username
+    return username
+
+
 def bot_username(bot, at_sign=False):
     """ Get the bot's username from its location """
     username = None
     if "twitter.com" in bot['location']:
-        username = bot['location'].rsplit('/', 1)[-1]
-        if at_sign:
-            username = "@" + username
+        username = twitter_username_from_url(bot['location'])
     return username
-
-
-def fix_url(url):
-    """ Check the url really is proper URL """
-    if url.startswith("twitter.com"):
-        url = "https://" + url
-    return url
 
 
 def format_md(bot):
@@ -90,6 +126,7 @@ def format_md(bot):
 
     bot['category'] = bot_category(bot)
     bot['network'] = bot_network(bot)
+    bot['tags'] = bot_tags(bot)
     bot['type'] = bot_type(bot)
     bot['username'] = bot_username(bot, at_sign=True)
 
@@ -104,26 +141,28 @@ def format_md(bot):
     else:
         creator_text = bot['creator']
 
-    # Remove spaces after commas, but not from tags
-    tags = bot['tags'].replace(", ", ",")
-
     md_file_text = (
         '/*\n'
         + 'Title: ' + bot['username'] + '\n'
         + 'Description: ' + bot['short_description'] + '\n'
         + 'Author: botsheeter.py' + '\n'
         + 'Date: ' + date + '\n'
-        + 'Tags: ' + tags + '\n'
+        + 'Tags: ' + bot['tags'] + '\n'
         + 'Nav: hidden' + '\n'
         + 'Robots: index,follow' + '\n'
-        + '*/' + '\n'
-        + '[![](/content/bots/' + bot['category'] + '/images/'
-        + bot['username'] + '.png)](' + bot['location'] + ')' + '\n'
+        + '*/' + '\n\n'
+        + '[![](/' + bot_png_filename(bot) + ')](' + bot['location'] + ')\n\n'
         + '[' + bot['username'] + '](' + bot['location'] + ') is a'
         + open_source_text
         + bot['network'] + ' bot created by ' + creator_text + '. \n\n'
         + bot['description'] + '\n\n')
     return md_file_text
+
+
+def bot_png_filename(bot):
+    """ Return a filename for saving this bot's png file """
+    return ("content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
+            + ".png")
 
 
 def bot_md_filename(bot):
@@ -175,9 +214,9 @@ if __name__ == "__main__":
         bot = {}
         bot['location'] = validate_location(row[1])
         if "twitter" in bot['location']:
-            # if (row[10] == "TRUE" or row[10] == "DECLINED" or row[10]):
-                # print("Already added or declined, skip it")
-                # continue
+            if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
+                print("Already added or declined, skip it")
+                continue
             twitter_urls.append(bot['location'])
             bot['description'] = row[2]
             bot['tags'] = row[3]
@@ -190,6 +229,8 @@ if __name__ == "__main__":
             bot['creator'] = row[6]
             bot['short_description'] = row[7]
             bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
+            # row[9] not used
+            bot['open_source_language'] = row[10]
 
             outfile = bot_md_filename(bot)
             if os.path.isfile(outfile):
@@ -207,8 +248,8 @@ if __name__ == "__main__":
             #   - Rows begin at 1, not 0.
             #   - Don't forget we ditched the header, so i==0 is row 2.
             added_row = i + 2
-            # * Second value is column (A=1, B=2, ..., K=11, etc.)
-            added_col = 11
+            # * Second value is column (A=1, B=2, ..., L=12, etc.)
+            added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
     if twitter_urls:
