@@ -97,11 +97,21 @@ class TestIt(unittest.TestCase):
             tags, "twitter,twitterbot,political,media,corbyn,headlines,"
                   "open source,opensource,python")
 
+    def test_bot_tags_nodejs(self):
+        bot = {}
+        bot['tags'] = "media, node, twitter,headlines"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['is_open_source'] = True
+        bot['open_source_language'] = "node"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,media,node,headlines,open source,"
+                  "opensource,nodejs,node.js")
+
     def test_bot_tags_authors_twitter_name(self):
         bot = {}
         bot['tags'] = "Political, media, corbyn, twitter,headlines"
         bot['location'] = "https://twitter.com/botwikidotorg"
-        bot['open_source_language'] = "python"
         bot['creator_twitter_url'] = "https://twitter.com/fourtonfish"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
