@@ -166,13 +166,13 @@ def format_md(bot):
 
 def bot_png_filename(bot):
     """ Return a filename for saving this bot's png file """
-    return ("content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
+    return ("../content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
             + ".png")
 
 
 def bot_md_filename(bot):
     """ Return a filename for saving this bot's md file """
-    return "content/bots/" + bot_type(bot) + "/" + bot_username(bot) + ".md"
+    return "../content/bots/" + bot_type(bot) + "/" + bot_username(bot) + ".md"
 
 
 def create_dirs(dir):
@@ -267,7 +267,7 @@ if __name__ == "__main__":
         twitter_urls = ",".join(twitter_urls)
         import botshotter
         # TODO harcoded for Twitter:
-        outdir = "content/bots/twitterbots/images/"
+        outdir = "../content/bots/twitterbots/images/"
         create_dirs(outdir)
         botshotter.botshotter(twitter_urls, outdir, headless=True)
 
