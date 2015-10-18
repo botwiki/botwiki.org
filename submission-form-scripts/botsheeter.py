@@ -106,6 +106,11 @@ def bot_tags(bot, network):
     # Remove spaces after commas, but not from tags, and convert into a list
     user_tags = bot['tags'].replace(", ", ",").lower().split(",")
 
+    if bot['active'] == 'Active':
+        tags_to_add.extend(['active'])
+    else:
+        tags_to_add.extend(['inactive'])
+
     # Add user tags
     tags_to_add.extend(user_tags)
 
@@ -215,7 +220,7 @@ def save_md(md_file_text, filename):
     create_dirs(os.path.dirname(filename))
     print("Saving to", filename)
     with open(filename, "w") as f:
-        f.write(md_file_text)
+        f.write(md_file_text.encode('utf-8'))
 
 
 if __name__ == "__main__":
