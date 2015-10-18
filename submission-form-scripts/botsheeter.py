@@ -38,9 +38,10 @@ def validate_location(location):
     return make_twitter_url(location)
 
 
-def bot_category(bot, network):
-    """ First, attempt to get the bot's category from its location, """
-    """ fall back on user submitted data. """
+def bot_category(bot):
+    """ First, attempt to get the bot's category from its location,
+    fall back on user-submitted data.
+    """
     if "twitter.com" in bot['location']:
         return "twitterbots"
     elif "youtube.com" in bot['location']:
@@ -49,18 +50,19 @@ def bot_category(bot, network):
         return "redditbots"
     elif "tumblr.com" in bot['location']:
         return "tumblr-bots"
-    elif network == 'Slack':
+    elif bot['network'] == 'Slack':
         return "slackbots"
-    elif network == 'Kik':
+    elif bot['network'] == 'Kik':
         return "kik-bots"
-    elif network == 'Snapchat':
+    elif bot['network'] == 'Snapchat':
         return "snapchat-bots"
     return None
 
 
-def bot_network(bot, network):
-    """ First, attempt to get the bot's betwork name from its location, """
-    """ fall back on user submitted data. """
+def bot_network(bot):
+    """ First, attempt to get the bot's betwork name from its location,
+    fall back on user-submitted data.
+    """
     if "twitter.com" in bot['location']:
         return "Twitter"
     elif "youtube.com" in bot['location']:
@@ -69,11 +71,11 @@ def bot_network(bot, network):
         return "Reddit"
     elif "tumblr.com" in bot['location']:
         return "Tumblr"
-    elif network == 'Slack':
+    elif bot['network'] == 'Slack':
         return "Slack"
-    elif network == 'Kik':
+    elif bot['network'] == 'Kik':
         return "Kik"
-    elif network == 'Snapchat':
+    elif bot['network'] == 'Snapchat':
         return "Snapchat"
     return None
 
@@ -85,7 +87,7 @@ def dedupe(seq):
     return [x for x in seq if not (x in seen or seen_add(x))]
 
 
-def bot_tags(bot, network):
+def bot_tags(bot):
     """ Add network-specific tags, remove duplicates """
     tags_to_add = []
     if "twitter.com" in bot['location']:
@@ -96,11 +98,11 @@ def bot_tags(bot, network):
         tags_to_add = ["reddit", "redditbot"]
     elif "tumblr.com" in bot['location']:
         tags_to_add = ["tumblr", "tumblrbot"]
-    elif network == 'Slack':
+    elif bot['network'] == 'Slack':
         tags_to_add = ["slack", "slackbot"]
-    elif network == 'Kik':
+    elif bot['network'] == 'Kik':
         tags_to_add = ["kik", "kikbot"]
-    elif network == 'Snapchat':
+    elif bot['network'] == 'Snapchat':
         tags_to_add = ["snapchat", "snapchatbot"]
 
     # Remove spaces after commas, but not from tags, and convert into a list
@@ -149,7 +151,7 @@ def username_from_url(url, at_sign=False):
     return username
 
 
-def format_md(bot, network):
+def format_md(bot):
     """
     bot.network will be deduced based on the URL, eg
     bot.url contains youtube.com => bot.network = 'YouTube'
@@ -161,8 +163,11 @@ def format_md(bot, network):
     date = datetime.datetime.today()
     date = date.strftime("%B %d, %Y")
 
-    bot['tags'] = bot_tags(bot, network)
-    bot['type'] = bot_category(bot, network)
+    bot['network'] = bot_network(bot)
+    bot['category'] = bot_category(bot)
+
+    bot['tags'] = bot_tags(bot)
+    bot['type'] = bot_category(bot)
     if bot['type'] == 'twitterbots':
         bot['username'] = username_from_url(bot['location'], at_sign=True)
     else:
@@ -189,7 +194,7 @@ def format_md(bot, network):
         'Nav: hidden' + '\n' +
         'Robots: index,follow' + '\n' +
         '*/' + '\n\n' +
-        '[![](' + bot_png_filename(bot, bot['location'],  network) + ')](' +
+        '[![](' + bot_png_filename(bot) + ')](' +
         bot['location'] + ')\n\n' +
         '[' + bot['username'] + '](' + bot['location'] + ') is a' +
         open_source_text +
@@ -198,16 +203,16 @@ def format_md(bot, network):
     return md_file_text
 
 
-def bot_png_filename(bot, url, network):
+def bot_png_filename(bot):
     """ Return a filename for saving this bot's png file """
-    return ("/content/bots/" + bot_category(bot, network) + "/images/" +
-            username_from_url(url) + ".png")
+    return ("/content/bots/" + bot_category(bot) + "/images/" +
+            username_from_url(bot['location']) + ".png")
 
 
-def bot_md_filename(bot, url, network):
+def bot_md_filename(bot):
     """ Return a filename for saving this bot's md file """
-    return ("../content/bots/" + bot_category(bot, network) + "/" +
-            username_from_url(url) + ".md")
+    return ("../content/bots/" + bot_category(bot) + "/" +
+            username_from_url(bot['location']) + ".md")
 
 
 def create_dirs(dir):
@@ -257,9 +262,6 @@ if __name__ == "__main__":
         bot = {}
         bot['location'] = validate_location(row[1])
 
-        bot['category'] = bot_category(bot, row[9])
-        bot['network'] = bot_network(bot, row[9])
-
         if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
             print("Skipping " + username_from_url(row[1]))
             continue
@@ -276,15 +278,15 @@ if __name__ == "__main__":
         bot['creator'] = row[6]
         bot['short_description'] = row[7]
         bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
-        # row[9] not used
+        bot['network'] = row[9]
         bot['open_source_language'] = row[10]
 
-        outfile = bot_md_filename(bot, row[1], row[9])
+        outfile = bot_md_filename(bot)
         if os.path.isfile(outfile):
             continue  # Don't overwrite existing
 
         print(bot)
-        md_file_text = format_md(bot, row[9])
+        md_file_text = format_md(bot)
         print()
         print(md_file_text)
         print()
@@ -306,7 +308,7 @@ if __name__ == "__main__":
         bot_page_urls = ",".join(bot_page_urls)
         import botshotter
 
-#        outdir = "../content/bots/" + bot_category(bot, row[9]) + "/images/"
+#        outdir = "../content/bots/" + bot_category(bot) + "/images/"
 #        create_dirs(outdir)
         botshotter.botshotter(bot_page_urls, None, headless=True)
 
