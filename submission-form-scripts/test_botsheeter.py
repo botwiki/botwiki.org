@@ -74,7 +74,8 @@ class TestIt(unittest.TestCase):
         bot['location'] = "https://twitter.com/botwikidotorg"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,twitterbot,political,media,corbyn,headlines")
+            tags, "twitter,twitterbot,inactive,political,media,corbyn,"
+                  "headlines")
 
     def test_bot_tags_open_source(self):
         bot = {}
@@ -83,8 +84,8 @@ class TestIt(unittest.TestCase):
         bot['is_open_source'] = True
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
-                  "open source,opensource")
+            tags, "twitter,twitterbot,inactive,political,media,corbyn,"
+                  "headlines,open source,opensource")
 
     def test_bot_tags_open_source_language(self):
         bot = {}
@@ -94,8 +95,8 @@ class TestIt(unittest.TestCase):
         bot['open_source_language'] = "python"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
-                  "open source,opensource,python")
+            tags, "twitter,twitterbot,inactive,political,media,corbyn,"
+                  "headlines,open source,opensource,python")
 
     def test_bot_tags_nodejs(self):
         bot = {}
@@ -105,8 +106,8 @@ class TestIt(unittest.TestCase):
         bot['open_source_language'] = "node"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,twitterbot,media,node,headlines,open source,"
-                  "opensource,nodejs,node.js")
+            tags, "twitter,twitterbot,inactive,media,node,headlines,"
+                  "open source,opensource,nodejs,node.js")
 
     def test_bot_tags_authors_twitter_name(self):
         bot = {}
@@ -115,8 +116,8 @@ class TestIt(unittest.TestCase):
         bot['creator_twitter_url'] = "https://twitter.com/fourtonfish"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,twitterbot,political,media,corbyn,headlines,"
-                  "fourtonfish")
+            tags, "twitter,twitterbot,inactive,political,media,corbyn,"
+                  "headlines,fourtonfish")
 
     def test_bot_png_filename(self):
         # Arrange
