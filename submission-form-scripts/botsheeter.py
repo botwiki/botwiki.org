@@ -38,17 +38,43 @@ def validate_location(location):
     return make_twitter_url(location)
 
 
-def bot_category(bot):
-    """ Get the bot's category from its location """
+def bot_category(bot, network):
+    """ First, attempt to get the bot's category from its location, """
+    """ fall back on user submitted data. """
     if "twitter.com" in bot['location']:
         return "twitterbots"
+    elif "youtube.com" in bot['location']:
+        return "youtube-bots"
+    elif "reddit.com" in bot['location']:
+        return "redditbots"
+    elif "tumblr.com" in bot['location']:
+        return "tumblr-bots"
+    elif network == 'Slack':
+        return "slackbots"
+    elif network == 'Kik':
+        return "kik-bots"
+    elif network == 'Snapchat':
+        return "snapchat-bots"
     return None
 
 
-def bot_network(bot):
-    """ Get the bot's network from its location """
+def bot_network(bot, network):
+    """ First, attempt to get the bot's betwork name from its location, """
+    """ fall back on user submitted data. """
     if "twitter.com" in bot['location']:
         return "Twitter"
+    elif "youtube.com" in bot['location']:
+        return "Youtube"
+    elif "reddit.com" in bot['location']:
+        return "Reddit"
+    elif "tumblr.com" in bot['location']:
+        return "Tumblr"
+    elif network == 'Slack':
+        return "Slack"
+    elif network == 'Kik':
+        return "Kik"
+    elif network == 'Snapchat':
+        return "Snapchat"
     return None
 
 
@@ -59,11 +85,23 @@ def dedupe(seq):
     return [x for x in seq if not (x in seen or seen_add(x))]
 
 
-def bot_tags(bot):
+def bot_tags(bot, network):
     """ Add network-specific tags, remove duplicates """
     tags_to_add = []
     if "twitter.com" in bot['location']:
         tags_to_add = ["twitter", "twitterbot"]
+    elif "youtube.com" in bot['location']:
+        tags_to_add = ["youtube", "youtubebot"]
+    elif "reddit.com" in bot['location']:
+        tags_to_add = ["reddit", "redditbot"]
+    elif "tumblr.com" in bot['location']:
+        tags_to_add = ["tumblr", "tumblrbot"]
+    elif network == 'Slack':
+        tags_to_add = ["slack", "slackbot"]
+    elif network == 'Kik':
+        tags_to_add = ["kik", "kikbot"]
+    elif network == 'Snapchat':
+        tags_to_add = ["snapchat", "snapchatbot"]
 
     # Remove spaces after commas, but not from tags, and convert into a list
     user_tags = bot['tags'].replace(", ", ",").lower().split(",")
@@ -85,7 +123,7 @@ def bot_tags(bot):
     # Add author's Twitter username
     if 'creator_twitter_url' in bot and bot['creator_twitter_url']:
         tags_to_add.append(
-            twitter_username_from_url(bot['creator_twitter_url']))
+            username_from_url(bot['creator_twitter_url']))
 
     # Remove duplicates
     tags_to_add = dedupe(tags_to_add)
@@ -94,30 +132,19 @@ def bot_tags(bot):
     return ",".join(tags_to_add).lower()
 
 
-def bot_type(bot):
-    """ Get the bot's type from its location """
-    if "twitter.com" in bot['location']:
-        return "twitterbots"
-    return None
-
-
-def twitter_username_from_url(url, at_sign=False):
-    """ Get a Twitter username from a URL """
-    username = url.rsplit('/', 1)[-1]
+def username_from_url(url, at_sign=False):
+    """ Get the bot's username from its location """
+    if "tumblr.com" in url:
+        username = url.rsplit('.')[0]
+        username = username.rsplit('//')[1]
+    else:
+        username = url.rsplit('/', 1)[-1]
     if at_sign:
         username = "@" + username
     return username
 
 
-def bot_username(bot, at_sign=False):
-    """ Get the bot's username from its location """
-    username = None
-    if "twitter.com" in bot['location']:
-        username = twitter_username_from_url(bot['location'])
-    return username
-
-
-def format_md(bot):
+def format_md(bot, network):
     """
     bot.network will be deduced based on the URL, eg
     bot.url contains youtube.com => bot.network = 'YouTube'
@@ -129,11 +156,13 @@ def format_md(bot):
     date = datetime.datetime.today()
     date = date.strftime("%B %d, %Y")
 
-    bot['category'] = bot_category(bot)
-    bot['network'] = bot_network(bot)
-    bot['tags'] = bot_tags(bot)
-    bot['type'] = bot_type(bot)
-    bot['username'] = bot_username(bot, at_sign=True)
+    bot['tags'] = bot_tags(bot, network)
+    bot['type'] = bot_category(bot, network)
+    if bot['type'] == 'twitterbots':
+        bot['username'] = username_from_url(bot['location'], at_sign=True)
+    else:
+        bot['username'] = username_from_url(bot['location'], at_sign=False)      
+
 
     if bot['is_open_source']:
         open_source_text = 'n [open source](' + bot['source_url'] + ') '
@@ -156,7 +185,7 @@ def format_md(bot):
         + 'Nav: hidden' + '\n'
         + 'Robots: index,follow' + '\n'
         + '*/' + '\n\n'
-        + '[![](/' + bot_png_filename(bot) + ')](' + bot['location'] + ')\n\n'
+        + '[![](' + bot_png_filename(bot, bot['location'],  network) + ')](' + bot['location'] + ')\n\n'
         + '[' + bot['username'] + '](' + bot['location'] + ') is a'
         + open_source_text
         + bot['network'] + ' bot created by ' + creator_text + '. \n\n'
@@ -164,15 +193,15 @@ def format_md(bot):
     return md_file_text
 
 
-def bot_png_filename(bot):
+def bot_png_filename(bot, url, network):
     """ Return a filename for saving this bot's png file """
-    return ("/content/bots/" + bot_type(bot) + "/images/" + bot_username(bot)
+    return ("/content/bots/" + bot_category(bot, network) + "/images/" + username_from_url(url)
             + ".png")
 
 
-def bot_md_filename(bot):
+def bot_md_filename(bot, url, network):
     """ Return a filename for saving this bot's md file """
-    return "../content/bots/" + bot_type(bot) + "/" + bot_username(bot) + ".md"
+    return "../content/bots/" + bot_category(bot, network) + "/" + username_from_url(url) + ".md"
 
 
 def create_dirs(dir):
@@ -216,59 +245,62 @@ if __name__ == "__main__":
     list_of_rows.pop(0)  # ditch header
 
     # Getting stuff to build .md -- only Twitter bots for now
-    twitter_urls = []  # for screenshots
+    bot_page_urls = []  # for screenshots
     for i, row in enumerate(list_of_rows):
         # row is a list of columns
         bot = {}
         bot['location'] = validate_location(row[1])
-        if "twitter" in bot['location']:
-            if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
-                print("Already added or declined, skip it")
-                continue
-            twitter_urls.append(bot['location'])
-            bot['description'] = row[2]
-            bot['tags'] = row[3]
-            bot['active'] = row[4]
-            if row[5]:
-                bot['is_open_source'] = True
-                bot['source_url'] = row[5]
-            else:
-                bot['is_open_source'] = False
-            bot['creator'] = row[6]
-            bot['short_description'] = row[7]
-            bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
-            # row[9] not used
-            bot['open_source_language'] = row[10]
 
-            outfile = bot_md_filename(bot)
-            if os.path.isfile(outfile):
-                continue  # Don't overwrite existing
+        bot['category'] = bot_category(bot, row[9])
+        bot['network'] = bot_network(bot, row[9])
 
-            print(bot)
-            md_file_text = format_md(bot)
-            print()
-            print(md_file_text)
-            print()
-            save_md(md_file_text, outfile)
+        if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
+            print("Skipping " + username_from_url(row[1]))
+            continue
+        bot_page_urls.append(bot['location'])
+        bot['description'] = row[2]
+        bot['tags'] = row[3]
+        bot['active'] = row[4]
+        if row[5]:
+            bot['is_open_source'] = True
+            bot['source_url'] = row[5]
+        else:
+            bot['is_open_source'] = False
+        bot['creator'] = row[6]
+        bot['short_description'] = row[7]
+        bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
+        # row[9] not used
+        bot['open_source_language'] = row[10]
 
-            if not args.test:
-                # Update the worksheet
-                # * First value is row number but take care!
-                #   - Rows begin at 1, not 0.
-                #   - Don't forget we ditched the header, so i==0 is row 2.
-                added_row = i + 2
-                # * Second value is column (A=1, B=2, ..., L=12, etc.)
-                added_col = 12
-                wks.update_cell(added_row, added_col, "true")
+        outfile = bot_md_filename(bot, row[1], row[9])
+        if os.path.isfile(outfile):
+            continue  # Don't overwrite existing
 
-    if twitter_urls:
+        print(bot)
+        md_file_text = format_md(bot, row[9])
+        print()
+        print(md_file_text)
+        print()
+        save_md(md_file_text, outfile)
+
+        if not args.test:
+            # Update the worksheet
+            # * First value is row number but take care!
+            #   - Rows begin at 1, not 0.
+            #   - Don't forget we ditched the header, so i==0 is row 2.
+            added_row = i + 2
+            # * Second value is column (A=1, B=2, ..., L=12, etc.)
+            added_col = 12
+            wks.update_cell(added_row, added_col, "true")
+
+    if bot_page_urls:
         # Prep botshotter.py call
-        print("Save images...")
-        twitter_urls = ",".join(twitter_urls)
+        print("Creating thumbnails...")
+        bot_page_urls = ",".join(bot_page_urls)
         import botshotter
-        # TODO harcoded for Twitter:
-        outdir = "../content/bots/twitterbots/images/"
-        create_dirs(outdir)
-        botshotter.botshotter(twitter_urls, outdir, headless=True)
+
+#        outdir = "../content/bots/" + bot_category(bot, row[9]) + "/images/"
+#        create_dirs(outdir)
+        botshotter.botshotter(bot_page_urls, None, headless=True)
 
 # End of file
