@@ -9,6 +9,7 @@ Nav: hidden
 ![ART!](/content/images/illustrations/studio-work.png){.float-right}
 
 ### [¶](#free-images){.pilcrow} Free images {#free-images}
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) -- a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/) -- illustrations from old books; this very site uses it extensively!
 - [Flickr](https://www.flickr.com/search/?q=&l=commderiv&ct=0&mt=all&adv=1) -- CC-licensed content for commercial use on Flickr
 - [Clipart](https://openclipart.org/) -- free clipart images
@@ -16,6 +17,7 @@ Nav: hidden
 - [Smithsonian](http://www.asia.si.edu/collections/edan/default.cfm) -- 40,000 works of Asian and American art, can be used for all non-commercial purposes
 - [New York Public Library Public Domain Images](http://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=&filters[rights][]=pd) -- exactly what it says :-)
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) -- "more than 8,400 high-resolution photographs taken by Apollo astronauts during trips to the moon"
+- [Political Posters, Labadie Collection, University of Michigan](http://quod.lib.umich.edu/l/lbc2ic?cc=lbc2ic;page=index;c=lbc2ic) -- 2,200 radical political posters
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.

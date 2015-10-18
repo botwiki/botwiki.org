@@ -11,17 +11,19 @@
   <p><a href="/">Back to the main page.</a>
 {% else %}
   {% if current_tags == ['twitterbot'] %}
-    {% include 'twitterbots.html' %}
+    {% include 'includes/twitterbots.html' %}
   {% elseif current_tags == ['images'] %}
     <p>You can also explore the <a href="/tag/gif">#gif</a> tag.</p>
+  {% elseif current_tags == ['game'] %}
+    {% include 'includes/game-bots.html' %}
   {% elseif current_tags == ['gif'] %}
     <p>You can also explore the <a href="/tag/images">#images</a> tag.</p>
   {% elseif current_tags == ['opensource'] or current_tags == ['open source'] %}
-    {% include 'opensource.html' %}
+    {% include 'includes/opensource.html' %}
   {% elseif current_tags == ['opensource', 'twitterbot'] or current_tags == ['open source', 'twitterbot'] 
          or current_tags == ['twitterbot', 'opensource'] or current_tags == ['twitterbot', 'open source']
   %}
-    {% include 'opensource-twitterbots.html' %}
+    {% include 'includes/opensource-twitterbots.html' %}
   {% endif %}
   <p>Posts tagged 
     {% for tag in current_tags %}
