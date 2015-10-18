@@ -8,7 +8,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[![](/content/bots/tumblr-bots/images/thatforestbot.png)](http://thatforestbot.tumblr.com/)
+[![](/content/bots/tumblr-bots/images/ThatForestBot.png)](http://thatforestbot.tumblr.com/)
 
 [ThatForestBot](http://thatforestbot.tumblr.com/) is a Tumblr bot created by [@tinyworlds](https://twitter.com/tinyworlds). 
 
