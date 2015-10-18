@@ -123,7 +123,7 @@ def crop_image(im, headless, url_or_username):
     right = im.width - 20
     bottom = im.height
     if headless:
-        if 'twitter' in url_or_username:
+        if 'twitter.com' in url_or_username:
             top = 90
         else:
             top = 0
