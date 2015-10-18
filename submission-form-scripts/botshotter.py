@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Take a screenshot of a Twitter profile.
+Take a screenshot of a bot's profile.
 Removes some clutter and crops before saving.
 
 Requirements:
@@ -22,7 +22,7 @@ import time
 
 
 def do_one_account(driver, url_or_username, outdir, headless):
-    """ Process a single Twitter account """
+    """ Process a single bot account """
     url = get_url(url_or_username)
 
     outfile = username_from_url(url) + ".png"
@@ -32,7 +32,7 @@ def do_one_account(driver, url_or_username, outdir, headless):
         return  # Don't overwrite existing
 
     im = take_shot(driver, url, headless)
-    im = crop_image(im, headless)
+    im = crop_image(im, headless, url_or_username)
     im.save(outfile)
 
 
@@ -47,9 +47,16 @@ def get_url(url_or_username):
         return "https://twitter.com/" + url_or_username.lstrip("@")
 
 
-def username_from_url(url):
-    """ Given https://twitter.com/gutendelight, return gutendelight """
-    return url.rsplit('/', 1)[-1]
+def username_from_url(url, at_sign=False):
+    """ Get the bot's username from its location """
+    if "tumblr.com" in url:
+        username = url.rsplit('.')[0]
+        username = username.rsplit('//')[1]
+    else:
+        username = url.rsplit('/', 1)[-1]
+    if at_sign:
+        username = "@" + username
+    return username
 
 def delete_element_by_class_name(driver, class_name):
     """ Delete an element from the page """
@@ -73,21 +80,26 @@ def take_shot(driver, url, headless):
 
     # Make sure the page is loaded
     wait = WebDriverWait(driver, 10)
-    wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
-    # Remove some clutter
-    delete_element_by_class_name(driver, 'BannersContainer')
-    delete_element_by_class_name(driver, 'topbar')
-    delete_element_by_class_name(driver, 'SignupCallOut')
-    delete_element_by_class_name(driver, 'trends')
-    delete_element_by_class_name(driver, 'user-actions-follow-button')
+    if "twitter.com" in url:
+        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
+
+        # Remove some clutter
+        delete_element_by_class_name(driver, 'BannersContainer')
+        delete_element_by_class_name(driver, 'topbar')
+        delete_element_by_class_name(driver, 'SignupCallOut')
+        delete_element_by_class_name(driver, 'trends')
+        delete_element_by_class_name(driver, 'user-actions-follow-button')
+#    elif "tumblr.com" in url:
+#        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
     if not headless:
-        # Scroll to the profile image
-        element = driver.find_element_by_class_name('ProfileCanopy-avatar')
-        driver.execute_script("return arguments[0].scrollIntoView();", element)
-        # ... and back a bit
-        driver.execute_script("window.scrollBy(0, -10);")
+        if "twitter.com" in url:
+            # Scroll to the profile image
+            element = driver.find_element_by_class_name('ProfileCanopy-avatar')
+            driver.execute_script("return arguments[0].scrollIntoView();", element)
+            # ... and back a bit
+            driver.execute_script("window.scrollBy(0, -10);")
 
     # Bit of extra time to let it finish loading/removing
     time.sleep(0.5)
@@ -102,7 +114,7 @@ def take_shot(driver, url, headless):
     return im
 
 
-def crop_image(im, headless):
+def crop_image(im, headless, url_or_username):
     """ Crop and return the image """
     # Crop:
     #  * 20px from right for scrollbars
@@ -111,7 +123,10 @@ def crop_image(im, headless):
     right = im.width - 20
     bottom = im.height
     if headless:
-        top = 90
+        if 'twitter' in url_or_username:
+            top = 90
+        else:
+            top = 0
         bottom = 700
 
     # Now centre in 900px
@@ -123,6 +138,25 @@ def crop_image(im, headless):
 
     im = im.crop((left, top, right, bottom))
     return im
+
+def bot_directory(url):
+    """ First, attempt to get the bot's category from its location, """
+    """ fall back on user submitted data. """
+    if "twitter.com" in url:
+        return "../content/bots/twitterbots/images/"
+    elif "youtube.com" in url:
+        return "../content/bots/youtube-bots/images/"
+    elif "reddit.com" in url:
+        return "../content/bots/redditbots/images/"
+    elif "tumblr.com" in url:
+        return "../content/bots/tumblr-bots/images/"
+    elif network == 'Slack':
+        return "../content/bots/slackbots/images/"
+    elif network == 'Kik':
+        return "../content/bots/kik-bots/images/"
+    elif network == 'Snapchat':
+        return "../content/bots/snapchat-bots/images/"
+    return None
 
 
 def botshotter(url, outdir, headless=False):
@@ -143,7 +177,9 @@ def botshotter(url, outdir, headless=False):
         urls = [url]
 
     for url in urls:
-        print(url)
+        if outdir == None:
+            outdir = bot_directory(url)
+        print('Creating thumbnail from ' + url + ' ...')
         do_one_account(driver, url, outdir, headless)
 
     driver.quit()
@@ -151,7 +187,7 @@ def botshotter(url, outdir, headless=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Take a screenshot of a Twitter profile.",
+        description="Take a screenshot of a bot's profile page.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('url', help="Username or URL to screenshot. "
                                     "Or a comma-separated list.")
