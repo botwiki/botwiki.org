@@ -129,8 +129,6 @@ def crop_image(im, headless, url_or_username):
     if headless:
         if 'twitter.com' in url_or_username:
             top = 90
-        else:
-            top = 0
         bottom = 700
 
     # Now centre in 900px
