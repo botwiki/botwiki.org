@@ -179,7 +179,7 @@ def botshotter(url, outdir, headless=False):
     for url in urls:
         if outdir == None:
             outdir = bot_directory(url)
-        print('Creating thumbnail from ' + url + ' ...')
+        print('Creating thumbnail from ' + url + ', saving to ' + outdir + ' ...')
         do_one_account(driver, url, outdir, headless)
 
     driver.quit()
