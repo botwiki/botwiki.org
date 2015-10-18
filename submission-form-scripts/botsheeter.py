@@ -120,9 +120,9 @@ def bot_tags(bot, network):
         if 'open_source_language' in bot and bot['open_source_language']:
             tags_to_add.append(bot['open_source_language'])
         # Add node tags
-        if ("nodejs" in tags_to_add
-                or "node.js" in tags_to_add
-                or "node" in tags_to_add):
+        if ("nodejs" in tags_to_add or
+                "node.js" in tags_to_add or
+                "node" in tags_to_add):
             tags_to_add.extend(["nodejs", "node.js", "node"])
 
     # Add author's Twitter username
@@ -166,8 +166,7 @@ def format_md(bot, network):
     if bot['type'] == 'twitterbots':
         bot['username'] = username_from_url(bot['location'], at_sign=True)
     else:
-        bot['username'] = username_from_url(bot['location'], at_sign=False)      
-
+        bot['username'] = username_from_url(bot['location'], at_sign=False)
 
     if bot['is_open_source']:
         open_source_text = 'n [open source](' + bot['source_url'] + ') '
@@ -175,38 +174,40 @@ def format_md(bot, network):
         open_source_text = ' '
 
     if 'creator_twitter_url' in bot:
-        creator_text = ('[' + bot['creator'] + ']('
-                        + bot['creator_twitter_url'] + ')')
+        creator_text = ('[' + bot['creator'] + '](' +
+                        bot['creator_twitter_url'] + ')')
     else:
         creator_text = bot['creator']
 
     md_file_text = (
-        '/*\n'
-        + 'Title: ' + bot['username'] + '\n'
-        + 'Description: ' + bot['short_description'] + '\n'
-        + 'Author: botsheeter.py' + '\n'
-        + 'Date: ' + date + '\n'
-        + 'Tags: ' + bot['tags'] + '\n'
-        + 'Nav: hidden' + '\n'
-        + 'Robots: index,follow' + '\n'
-        + '*/' + '\n\n'
-        + '[![](' + bot_png_filename(bot, bot['location'],  network) + ')](' + bot['location'] + ')\n\n'
-        + '[' + bot['username'] + '](' + bot['location'] + ') is a'
-        + open_source_text
-        + bot['network'] + ' bot created by ' + creator_text + '. \n\n'
-        + bot['description'] + '\n\n')
+        '/*\n' +
+        'Title: ' + bot['username'] + '\n' +
+        'Description: ' + bot['short_description'] + '\n' +
+        'Author: botsheeter.py' + '\n' +
+        'Date: ' + date + '\n' +
+        'Tags: ' + bot['tags'] + '\n' +
+        'Nav: hidden' + '\n' +
+        'Robots: index,follow' + '\n' +
+        '*/' + '\n\n' +
+        '[![](' + bot_png_filename(bot, bot['location'],  network) + ')](' +
+        bot['location'] + ')\n\n' +
+        '[' + bot['username'] + '](' + bot['location'] + ') is a' +
+        open_source_text +
+        bot['network'] + ' bot created by ' + creator_text + '. \n\n' +
+        bot['description'] + '\n\n')
     return md_file_text
 
 
 def bot_png_filename(bot, url, network):
     """ Return a filename for saving this bot's png file """
-    return ("/content/bots/" + bot_category(bot, network) + "/images/" + username_from_url(url)
-            + ".png")
+    return ("/content/bots/" + bot_category(bot, network) + "/images/" +
+            username_from_url(url) + ".png")
 
 
 def bot_md_filename(bot, url, network):
     """ Return a filename for saving this bot's md file """
-    return "../content/bots/" + bot_category(bot, network) + "/" + username_from_url(url) + ".md"
+    return ("../content/bots/" + bot_category(bot, network) + "/" +
+            username_from_url(url) + ".md")
 
 
 def create_dirs(dir):
