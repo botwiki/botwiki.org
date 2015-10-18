@@ -262,6 +262,7 @@ if __name__ == "__main__":
         if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
             print("Skipping " + username_from_url(row[1]))
             continue
+
         bot_page_urls.append(bot['location'])
         bot['description'] = row[2]
         bot['tags'] = row[3]
