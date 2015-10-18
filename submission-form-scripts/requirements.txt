@@ -1,0 +1,10 @@
+# botsheeter.py
+gspread
+oauth2client
+
+# botshotter.py
+pillow>=2.9.0
+selenium
+
+# test_botsheeter.py
+hypothesis

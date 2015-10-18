@@ -1,0 +1,25 @@
+<article>
+  <h2>{{ meta.title }}</h2>
+  {{ content }}
+  <div class="meta">
+    {% if meta.tags is not empty %}
+      <p class="last-updated">Last updated: {{ meta.date }}</p>
+    {% endif %}
+  
+    {% if meta.tags is not empty %}
+      {% if 
+        'active' in meta.tags or
+        'inactive' in meta.tags
+      %}
+        <p class="tags">Browse more bots like this:
+      {% else %}
+        <p class="tags">Tags:
+      {% endif %}
+
+      {% for tag in meta.tags %}
+          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
+      </p>
+    {% endif %}
+  </p>
+</article>
