@@ -129,7 +129,7 @@ class TestIt(unittest.TestCase):
 
         # Assert
         self.assertEqual(
-            filename, "content/bots/twitterbots/images/botwikidotorg.png")
+            filename, "/content/bots/twitterbots/images/botwikidotorg.png")
 
 
 class TestWithHypothesis(unittest.TestCase):
