@@ -1,7 +1,10 @@
 /*
 Title: Stefan
-Description: The botmaker behind Botwiki.org and Botmakers.org.
+Description: The botmaker behind Botwiki.org and Botmakers.org. (Example page.)
 Nav: hidden
+Author: Stefan Bohacek
+Date: October 19, 2015
+Tags: botmaker,example
 */
 
 ![](/content/botmakers/images/hello-world.jpeg)
