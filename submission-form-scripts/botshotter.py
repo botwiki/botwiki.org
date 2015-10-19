@@ -58,6 +58,7 @@ def username_from_url(url, at_sign=False):
         username = "@" + username
     return username
 
+
 def delete_element_by_class_name(driver, class_name):
     """ Delete an element from the page """
     try:
@@ -68,6 +69,7 @@ def delete_element_by_class_name(driver, class_name):
             """, element)
     except common.exceptions.NoSuchElementException:
         pass
+
 
 def take_shot(driver, url, headless):
     """
@@ -82,7 +84,8 @@ def take_shot(driver, url, headless):
     wait = WebDriverWait(driver, 10)
 
     if "twitter.com" in url:
-        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
+        wait.until(EC.visibility_of_element_located((
+            By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
         # Remove some clutter
         delete_element_by_class_name(driver, 'BannersContainer')
@@ -97,12 +100,13 @@ def take_shot(driver, url, headless):
         if "twitter.com" in url:
             # Scroll to the profile image
             element = driver.find_element_by_class_name('ProfileCanopy-avatar')
-            driver.execute_script("return arguments[0].scrollIntoView();", element)
+            driver.execute_script("return arguments[0].scrollIntoView();",
+                                  element)
             # ... and back a bit
             driver.execute_script("window.scrollBy(0, -10);")
 
     # Bit of extra time to let it finish loading/removing
-    time.sleep(0.5)
+    time.sleep(0.8)
 
     # Save the image immediately to disk
     # driver.save_screenshot(outfile)
@@ -125,8 +129,6 @@ def crop_image(im, headless, url_or_username):
     if headless:
         if 'twitter.com' in url_or_username:
             top = 90
-        else:
-            top = 0
         bottom = 700
 
     # Now centre in 900px
@@ -138,6 +140,7 @@ def crop_image(im, headless, url_or_username):
 
     im = im.crop((left, top, right, bottom))
     return im
+
 
 def bot_directory(url):
     """ First, attempt to get the bot's category from its location, """
@@ -163,7 +166,9 @@ def botshotter(url, outdir, headless=False):
     """ Main bit """
     if headless:
         import os.path
-        driver = webdriver.PhantomJS(service_log_path=os.path.devnull, service_args=['--ignore-ssl-errors=true', '--ssl-protocol=any'])
+        driver = webdriver.PhantomJS(service_log_path=os.path.devnull,
+                                     service_args=['--ignore-ssl-errors=true',
+                                                   '--ssl-protocol=any'])
     else:
         options = webdriver.ChromeOptions()
         options.add_argument("--start-maximized")
@@ -178,7 +183,8 @@ def botshotter(url, outdir, headless=False):
 
     for url in urls:
         outdir = bot_directory(url)
-        print('Creating thumbnail from ' + url + ', saving to ' + outdir + ' ...')
+        print('Creating thumbnail from ' + url + ', saving to ' + outdir +
+              ' ...')
         do_one_account(driver, url, outdir, headless)
 
     driver.quit()

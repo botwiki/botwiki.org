@@ -1,5 +1,5 @@
 /*
-Title: invandringgarna
+Title: @invandringgarna
 Description: Provoking ignorant immigration tweeters.
 Author: botsheeter.py
 Date: October 17, 2015
@@ -10,7 +10,7 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/invandringgarna.png)](http://twitter.com/invandringgarna)
 
-[invandringgarna](http://twitter.com/invandringgarna) is an [open source](https://github.com/ArVID220u/invandringsbot) Twitter bot created by [ArVID220u](https://twitter.com/http://twitter.com/arvid220u). 
+[@invandringgarna](http://twitter.com/invandringgarna) is an [open source](https://github.com/ArVID220u/invandringsbot) Twitter bot created by [ArVID220u](https://twitter.com/http://twitter.com/arvid220u). 
 
 When people post ignorant tweets about immigration, this bot replies with a rant about the moral responsibility we all have to welcome refugees.
 
