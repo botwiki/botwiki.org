@@ -3,7 +3,7 @@ Title: @CutePetsDenver
 Description: We are adorable & adoptable Denver Pets!
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,adopt,pets,denver,open source,opensource,ruby,dviramontes_
+Tags: twitter,twitterbot,active,adopt,pets,denver,open source,opensource,ruby,dviramontes_,drewSaysGoVeg
 Nav: hidden
 Robots: index,follow
 */
