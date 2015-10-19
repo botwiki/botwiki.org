@@ -27,13 +27,13 @@ class Pico_Search
             $q = strtoupper(trim($_GET["q"]));
             while (strstr($q, "  ")) $q = str_replace("  ", " ", $q);
 
-            if (strpos($q, " OR ") === false){
-              $qs = explode(" ", $q);
+            if (strpos($q, " AND ")){
+              $qs = explode(" AND ", $q);
               $search_type = "AND";
             }
             else{            
               $search_type = "OR";
-              $qs = explode(" OR ", $q);
+              $qs = explode(" ", $q);
             }
 
             foreach($this->pages as $k => $page)
