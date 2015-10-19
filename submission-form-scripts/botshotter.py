@@ -106,7 +106,7 @@ def take_shot(driver, url, headless):
             driver.execute_script("window.scrollBy(0, -10);")
 
     # Bit of extra time to let it finish loading/removing
-    time.sleep(0.8)
+    time.sleep(2)
 
     # Save the image immediately to disk
     # driver.save_screenshot(outfile)
