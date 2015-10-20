@@ -62,17 +62,47 @@ class Pico_Search
                   }
                 break;
                 case 'OR':
-                  if (count(array_intersect($qs, explode(" ", $title))) > 0){
-                    $this->pages[$k]["score"]+= 3;
+
+                  foreach ($qs as $q) {
+                    $words = preg_split("/ |_/", $title);
+                    
+                    foreach ($words as $word) {
+                      if (levenshtein($q, $word) < 6 ){
+                        $this->pages[$k]["score"]+= 10;
+                      }
+                    }
                   }
 
-                  if (count(array_intersect($qs, explode(" ", $content))) > 0){
-                    $this->pages[$k]["score"]+= 3;
+                  foreach ($qs as $q) {
+                    $words = preg_split("/ |_/", $content);
+                    
+                    foreach ($words as $word) {
+                      if (levenshtein($q, $word) < 3 ){
+                        $this->pages[$k]["score"]+= 8;
+                      }
+                    }
                   }
 
-                  if (count(array_intersect($qs, explode(",", $tags))) > 0){
-                    $this->pages[$k]["score"]+= 3;
+                  foreach ($qs as $q) {
+                    $words = preg_split("/ |_/", $content);
+                    
+                    foreach ($words as $word) {
+                      if (levenshtein($q, $word) < 6 ){
+                        $this->pages[$k]["score"]+= 3;
+                      }
+                    }
                   }
+
+                  foreach ($qs as $q) {
+                    $words = preg_split("/ |_/", $tags);
+                    
+                    foreach ($words as $word) {
+                      if (levenshtein($q, $word) < 6 ){
+                        $this->pages[$k]["score"]+= 1;
+                      }
+                    }
+                  }
+
                 break;
               }
 
