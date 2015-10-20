@@ -2,6 +2,7 @@
 Title: Resources
 Description: Various libraries, frameworks, data dumps and other content for bot creators.
 Date: July 23, 2015
+Weight: 4
 */
 
 ![Not sure how this is related to "resources"](/content/images/illustrations/advice-hostess.png){.float-right}
