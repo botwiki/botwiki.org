@@ -100,9 +100,20 @@ class Pico_Search
                     foreach ($words as $word) {
                       if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
                         $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
-                        if (strpos($content_stripped, $q) > -1 ){
-                          $this->pages[$k]["search_snippet"] = substr($content_stripped, strpos($content_stripped, $q), 100);
-                        }
+                        // TODO:
+                        //
+                        // if (strpos($content_stripped, $q) > -1 ){
+                        //   $this->pages[$k]["search_snippet"] = substr($content_stripped, strpos($content_stripped, $q), 100);
+                        // }
+                        //
+                        // Once the search snippet is set up to work, update
+                        // search_results.html as below:
+                        //
+                        // {% if page.search_snippet|length > 0 %}
+                        //   <p class="excerpt"><em>{{ page.search_snippet }} ...</em></p>
+                        // {% else %}
+                        //   <p class="excerpt">{{ page.description }}</p>
+                        // {% endif %}
                       }
                     }
                   }

@@ -95,11 +95,7 @@
       {% endif %}
 
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-        {% if page.search_snippet|length > 0 %}
-          <p class="excerpt"><em>{{ page.search_snippet }} ...</em></p>
-        {% else %}
-          <p class="excerpt">{{ page.description }}</p>
-        {% endif %}
+        <p class="excerpt">{{ page.description }}</p>
         <p class="meta">
            {% if page.tags|length > 0 %}
             {% for tag in page.tags|split(',') %}
