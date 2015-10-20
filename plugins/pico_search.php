@@ -11,6 +11,18 @@ class Pico_Search
 {
     private $pages = array();
 
+    private function search_loop($search_target, $search_query, $assign_score, &$results){
+      $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $search_target));
+
+      foreach ($search_query as $q) {                    
+        foreach ($words as $word) {
+          if (levenshtein($q, $word)/strlen($word) < $assign_score/strlen($word) ) {
+            $results += $assign_score - levenshtein($q, $word);
+          }
+        }
+      }
+    }
+
     public function before_read_file_meta(&$headers)
     {
         $headers['purpose'] = 'Purpose';
@@ -41,6 +53,8 @@ class Pico_Search
               $this->pages[$k]["score"] = 0;
               $title = strtoupper($page["title"]);
               $content = strtoupper($page["content"]);
+              $content_stripped = strip_tags($page["content"]);
+
               $tags = strtoupper($page["tags"]);
 
               if (strstr($title, $q)) $this->pages[$k]["score"]+= 10;
@@ -62,22 +76,33 @@ class Pico_Search
                   }
                 break;
                 case 'OR':
+
+                  // TODO: Rewrite the loops below (DRY).
+
+                  // $this->search_loop($title, $qs, 10, $this->pages[$k]["score"]);
+                  // $this->search_loop($content, $qs, 5, $this->pages[$k]["score"]);
+                  // $this->search_loop($tags, $qs, 5, $this->pages[$k]["score"]);
+
                   $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $title));
 
                   foreach ($qs as $q) {                    
                     foreach ($words as $word) {
                       if (levenshtein($q, $word)/strlen($word) < 10/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 10 - levenshtein($q, $word);
+                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
                       }
                     }
                   }
+
 
                   $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $content));
 
                   foreach ($qs as $q) {                    
                     foreach ($words as $word) {
                       if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
+                        $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
+                        if (strpos($content_stripped, $q) > -1 ){
+                          $this->pages[$k]["search_snippet"] = substr($content_stripped, strpos($content_stripped, $q), 100);
+                        }
                       }
                     }
                   }
@@ -87,7 +112,7 @@ class Pico_Search
                   foreach ($qs as $q) {
                     foreach ($words as $word) {
                       if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
+                        $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
                       }
                     }
                   }
