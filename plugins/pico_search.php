@@ -62,43 +62,32 @@ class Pico_Search
                   }
                 break;
                 case 'OR':
+                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $title));
 
-                  foreach ($qs as $q) {
-                    $words = preg_split("/ |_/", $title);
-                    
+                  foreach ($qs as $q) {                    
                     foreach ($words as $word) {
-                      if (levenshtein($q, $word) < 6 ){
-                        $this->pages[$k]["score"]+= 10;
+                      if (levenshtein($q, $word)/strlen($word) < 10/strlen($word) ) {
+                        $this->pages[$k]["score"]+= 10 - levenshtein($q, $word);
                       }
                     }
                   }
 
-                  foreach ($qs as $q) {
-                    $words = preg_split("/ |_/", $content);
-                    
+                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $content));
+
+                  foreach ($qs as $q) {                    
                     foreach ($words as $word) {
-                      if (levenshtein($q, $word) < 3 ){
-                        $this->pages[$k]["score"]+= 8;
+                      if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
+                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
                       }
                     }
                   }
 
-                  foreach ($qs as $q) {
-                    $words = preg_split("/ |_/", $content);
-                    
-                    foreach ($words as $word) {
-                      if (levenshtein($q, $word) < 6 ){
-                        $this->pages[$k]["score"]+= 3;
-                      }
-                    }
-                  }
+                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $tags));
 
                   foreach ($qs as $q) {
-                    $words = preg_split("/ |_/", $tags);
-                    
                     foreach ($words as $word) {
-                      if (levenshtein($q, $word) < 6 ){
-                        $this->pages[$k]["score"]+= 1;
+                      if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
+                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
                       }
                     }
                   }
