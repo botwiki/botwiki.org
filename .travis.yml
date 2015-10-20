@@ -1,11 +1,25 @@
-language: node_js
-node_js:
-  - "0.12"
+language: python
+
+python:
+  - 2.7
+
+# Use container-based infrastructure
+sudo: false
+
 env:
   - DISABLE_NOTIFIER=true
-before_script:
-  - npm install -g gulp
+
+install:
+  - npm install gulp --global
+  - npm install gulp --save-dev
+  - npm install
+
+  - pip install -r submission-form-scripts/requirements.txt
+
 script:
   - gulp clean
   - gulp styles
   - gulp scripts
+
+  # Python unit tests
+  - python submission-form-scripts/test_botsheeter.py

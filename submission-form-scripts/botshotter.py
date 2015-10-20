@@ -17,7 +17,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import StringIO
-import os.path
+import os
 import time
 
 
@@ -34,6 +34,17 @@ def do_one_account(driver, url_or_username, outdir, headless):
     im = take_shot(driver, url, headless)
     im = crop_image(im, headless, url_or_username)
     im.save(outfile)
+
+    # Optimise with optipng (if binary in path)
+    cmd = "optipng -force -o7 '{0}'".format(outfile)
+    print(cmd)
+    os.system(cmd)
+
+    # Optimise with pngcrush (if binary in path)
+    cmd = ("pngcrush -ow -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB "
+           "-rem time '{0}'").format(outfile)
+    print(cmd)
+    os.system(cmd)
 
 
 def get_url(url_or_username):
@@ -129,6 +140,7 @@ def crop_image(im, headless, url_or_username):
     if headless:
         if 'twitter.com' in url_or_username:
             top = 90
+            left = 20
         bottom = 700
 
     # Now centre in 900px
@@ -182,7 +194,8 @@ def botshotter(url, outdir, headless=False):
         urls = [url]
 
     for url in urls:
-        outdir = bot_directory(url)
+        if not outdir:
+            outdir = bot_directory(url)
         print('Creating thumbnail from ' + url + ', saving to ' + outdir +
               ' ...')
         do_one_account(driver, url, outdir, headless)

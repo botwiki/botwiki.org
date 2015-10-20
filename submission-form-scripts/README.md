@@ -24,7 +24,7 @@ Next, install [ChromeDriver](https://code.google.com/p/selenium/wiki/ChromeDrive
 
 ***Note:** On Linux, you will need to build PhantomJS from source, which...takes a while (30 minutes or more).*
 
-Lastly, you will also need to obtain API keys:
+Now, you will also need to obtain API keys:
 
  1. Head to [Google Developers Console](https://console.developers.google.com/project) and create a new project.
  2. Under "API & auth", in the API enable "Drive API".
@@ -33,6 +33,8 @@ Lastly, you will also need to obtain API keys:
  4. For key type, choose "JSON".
  5. A download will start, save the file as "botsheeter.json" in the folder with scripts.
  6. Copy the `client_email` value and send it to one of the core members of the Botwiki.org/Botmakers.org team so they can whitelist this email.
+
+Finally, you will need `pngcrush` and `optipng` to compress the screenshots (see [#53](https://github.com/botwiki/botwiki.org/pull/53)). Installing these will vary depending on your OS, so please do a quick online search.
 
 ## Usage
 
