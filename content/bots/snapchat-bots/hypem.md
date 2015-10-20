@@ -15,3 +15,4 @@ Robots: index,follow
 
 It was created by [Anthony Volodkin](https://twitter.com/fascinated) (the founder of [Hype Machine](http://hypem.com/)), and the Hype Machine team. You can read the announcement on [their blog](http://blog.hypem.com/2015/05/hype-machine-on-snapchat/).
 
+See more screenshots [here](https://twitter.com/fascinated/status/653710201598681088).
