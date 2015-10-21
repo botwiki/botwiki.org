@@ -36,7 +36,7 @@ Great. But what is *platform as a service*?
 
 Right. That makes sense. So OpenShift really is just some kind of a web hosting service. *Neat.*
 
-OpenShift is actually a pretty good hosting solution, I used it myself before moving all of my projects to [Digital Ocean](https://www.digitalocean.com/). It lets you create three apps for free and unlike [Heroku](https://dashboard.heroku.com/), it doesn't force you to shut down your app for several hours a day. What's up with that, Heroku?
+OpenShift is actually a pretty good hosting solution, I used it myself before moving all of my projects to [Digital Ocean](https://www.digitalocean.com/). It lets you create three apps for free and unlike [Heroku](https://dashboard.heroku.com/), it doesn't force you to shut down your app for several hours a day. What's up with that, Heroku? Oh and OpenShift also [supports *cron*](https://twitter.com/TheSteve0/status/649020842744016896).
 
 ## [¶](#openshift-getting-started){.pilcrow} Getting started with OpenShift? {#openshift-getting-started}
 
