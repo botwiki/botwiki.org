@@ -5,7 +5,7 @@ Nav: hidden
 */
 
 
-[Twitter](https://twitter.com/) is a popular social networking service that *"that enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
+[Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
 
