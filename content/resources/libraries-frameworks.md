@@ -25,6 +25,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [stanford-simple-nlp](https://www.npmjs.com/package/stanford-simple-nlp) -- a simple node.js wrapper for Stanford CoreNLP
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) -- madlibs-style sentence templating
 - [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
+- [jimkang/shakesnippet](https://github.com/jimkang/shakesnippet) -- provides a randomly chosen Shakespeare excerpt
 
 ### [¶](#python){.pilcrow} Python {#python}
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
