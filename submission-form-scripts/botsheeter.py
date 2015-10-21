@@ -136,7 +136,7 @@ def bot_tags(bot):
     tags_to_add = dedupe(tags_to_add)
 
     # And back to a lowercase string
-    return ",\r".join(tags_to_add).lower()
+    return ",".join(tags_to_add).lower()
 
 
 def username_from_url(url, at_sign=False):
