@@ -1,7 +1,10 @@
-  ;
- ["]
-/[_]\ botwiki.org
- ] [
+
+     ;
+    ["]
+   /[_]\ botwiki.org
+    ] [
+
+
 
 /* TEAM */
 
@@ -9,10 +12,14 @@ https://github.com/orgs/botwiki/people
 
 Stefan, https://twitter.com/fourtonfish
 Tully, https://twitter.com/tullyhansen
+Hugo, https://twitter.com/hugovk
+Terian, https://twitter.com/spine_cone
 
-Special thanks to Anil Dash.
+
+Special thanks to Anil Dash, https://twitter.com/anildash
+
 
 /* SITE */
 
 Language: English
-Powered by: picocms.org
+Powered by: picocms.org, and love of bots
