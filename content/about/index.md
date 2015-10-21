@@ -4,8 +4,6 @@ Description: Oh, so you would like to learn a bit more about Botwiki.org and Bot
 Weight: 1
 */
 
-![The logo, pixelated on purpose!](/content/about/images/botwiki-about.png)
-
 Hi!
 
 My name is [Stefan](https://twitter.com/fourtonfish) and I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
