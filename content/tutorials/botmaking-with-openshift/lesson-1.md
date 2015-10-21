@@ -1,17 +1,15 @@
 /*
 Title: Botmaking with OpenShift: Lesson One
-Description: OpenShift, terminal and containers
+Description: Welcome to Openshift
 Nav: hidden
 */
 
 
-Hey there, welcome to the *Botmaking with OpenShift* series, originally to be named *Botmaking for fun, bringing down oppressive structures through the means of political commentary via automated online bots, and potentially a little bit of profit*. I decided against the original name mainly due to the idea of actually making a profit with non-malicious, non-spam bots is *pretty* ridiculous.
+Hey there, welcome to the *Botmaking with OpenShift* series!
 
-Also, I am hoping to get some kind of a sponsorhip deal with [OpenShift](https://www.openshift.com/), now how about that, that would be pretty cool, eh?!
+My name is Stefan *[stefn]* (or [@fourtonfish](https://twitter.com/fourtonfish)) on Twitter, and this series will take you from a bot enthusiast to an expert [botmaker](https://botmakers.org/) in less than -- well, I guess that really depends on many factors, like your style of learning, how much fun you're going to have, and so on.
 
-My name is Stefan *[stefn]* (or [@fourtonfish](https://twitter.com/fourtonfish)) on Twitter, and this series will take you from a bot enthusiast to an expert [botmaker](https://botmakers.org/) in -- well, I guess that really depends on many factors, like your style of learning, how much fun you're going to have, etc, etc.
-
-But don't worry, *I'll get you there, alright*? We're in this together now, alright?
+But don't worry, *I'll get you there, alright*? We're in this together now, *alright*?
 
 Oh, one more thing. This tutorial is for people who want to make "useful, interesting, artistic and friendly online bots", just like the tagline of this website says. (Hey, did I mention I made this website? Yep, that's me! 👋 Hi, what's up?)
 
@@ -56,6 +54,8 @@ Now, it might be tempting to click *Create your first application now*, but we'r
  - Mac/OS X
  - some Linux distribution, for example Ubuntu, Fedora or Mint
 
+***Note:*** If you're on Windows and want to get more geeky about this whole thing, check out [this article](http://daverupert.com/2015/10/windows-editors-and-shells/) showing some useful tools for developers using Windows. Bottom line: [*cmder*](http://cmder.net/) looks very nice.
+
 OpenShift's [Getting Started](https://developers.openshift.com/en/getting-started-overview.html) page provides pretty comprehensive tutorials for all major operating systems, so you should be fine just following the one for your OS.
 
 At the end, you should have installed the following
@@ -63,3 +63,7 @@ At the end, you should have installed the following
  - **git** -- a version control system, which will be also used for pushing your bot app to your OpenShift server
  - **Ruby** -- a popular programming language; you won't really need to learn this, it's just required by OpenShift
  - **rhc** -- command line interface for OpenShift (a little program that will let you control your OpenShift apps)
+
+Awesome, we did most of the hard work already! You can pick [any of the following tutorials](/tutorials/botmaking-with-openshift/) based on the kind of a bot you want to create.
+
+Thanks -- and good luck with your new bot!
