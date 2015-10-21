@@ -11,7 +11,7 @@ My name is Stefan *[stefn]* (or [@fourtonfish](https://twitter.com/fourtonfish))
 
 But don't worry, *I'll get you there, alright*? We're in this together now, *alright*?
 
-Oh, one more thing. This tutorial is for people who want to make "useful, interesting, artistic and friendly online bots", just like the tagline of this website says. (Hey, did I mention I made this website? Yep, that's me! 👋 Hi, what's up?)
+Oh, one more thing. This tutorial is for people who want to make "useful, interesting, artistic and friendly online bots", just like the tagline of this website says. (Hey, did I mention I [made this website](/about)? Yep, that's me! 👋 Hi, what's up?)
 
 With that being said, don't be a jerk and use my site to make spam bots, okay? Me and other folks are putting a lot of effort into making all these tutorials, libraries, APIs and what not, and we'd really hate to see someone use all that to do harm, abuse or just create something uninspiring. Alright? So if you're _that person_, just leave, this site and this tutorial are not for you.
 
