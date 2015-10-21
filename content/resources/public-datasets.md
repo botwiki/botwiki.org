@@ -28,6 +28,7 @@ Nav: hidden
 - [Full Reddit submission corpus (2006 - August 2015)](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/)
 - [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
 - [corpusmusic/liederCorpusAnalysis](https://github.com/corpusmusic/liederCorpusAnalysis) -- a collection of IPA (International Phonetic Alphabet) transcriptions of German poems from prominent 19th-c. art songs
+- [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
 
 ### [¶](#dataset-sites){.pilcrow} Sites/projects that collect datasets {#dataset-sites}
 - [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
