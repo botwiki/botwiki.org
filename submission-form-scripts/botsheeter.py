@@ -266,7 +266,11 @@ if __name__ == "__main__":
             print("Skipping " + username_from_url(row[1]))
             continue
 
-        bot_page_urls.append(bot['location'])
+        print("Processing " + username_from_url(row[1]) + "...")
+
+        if ("twitter.com" in bot['location']) or ("tumblr.com" in bot['location']):
+            bot_page_urls.append(bot['location'])
+
         bot['description'] = row[2]
         bot['tags'] = row[3]
         bot['active'] = row[4]
@@ -304,7 +308,7 @@ if __name__ == "__main__":
 
     if bot_page_urls:
         # Prep botshotter.py call
-        print("Creating thumbnails...")
+        print("Loading botshotter.py...")
         bot_page_urls = ",".join(bot_page_urls)
         import botshotter
 
