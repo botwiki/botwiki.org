@@ -82,7 +82,7 @@ td {
 body {
   line-height: 1;
   color: black;
-  background: #434a54;
+  background: #373e40;
 }
 table {
   border-collapse: separate;
@@ -150,7 +150,7 @@ select {
 input:focus,
 textarea:focus,
 select:focus {
-  color: #212832;
+  color: #151c1e;
   background: #fff;
   border: 1px solid #666666;
 }
@@ -159,7 +159,7 @@ select:focus {
 body {
   font: 14px/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #434a54;
+  background: #373e40;
   -webkit-font-smoothing: antialiased;
 }
 a,
@@ -169,7 +169,7 @@ a:visited {
 }
 a:hover,
 a:active {
-  color: #212832;
+  color: #151c1e;
   text-decoration: underline;
 }
 a:hover {
@@ -182,13 +182,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #212832;
+  color: #151c1e;
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
 a.pilcrow,
 a.pilcrow:visited {
-  color: #cbd2dc;
+  color: #bfc6c8;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
@@ -203,7 +203,7 @@ h6 a {
 a.pilcrow:hover {
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
-  color: #212832;
+  color: #151c1e;
   text-decoration: none;
 }
 h1,
@@ -326,8 +326,16 @@ img.main-banner {
   text-decoration: none;
   margin-bottom: 1em;
 }
+#header a {
+  padding-bottom: 8px;
+}
 #header a:hover {
-  text-decoration: underline;
+  border-bottom: 3px solid #F5F5F5;
+}
+#header a,
+#header a:hover {
+  -webkit-transition: border 0.1s;
+  transition: border 0.1s;
 }
 #header h1 a:hover {
   text-decoration: none;
@@ -336,6 +344,9 @@ img.main-banner {
   font-weight: bold;
   margin: 0;
   float: left;
+}
+li.active a {
+  border-bottom: 3px solid #F5F5F5;
 }
 label.cursor-pointer {
   cursor: pointer;
@@ -358,11 +369,13 @@ label.cursor-pointer {
   margin: 0;
   padding: 0;
 }
+#header nav li {
+  margin-left: 20px;
+}
 #header nav a {
   font-size: 1.3em;
   color: #fff;
   font-weight: bold;
-  margin-left: 20px;
 }
 #header a:checked#menu-icon {
   background-color: #444;
@@ -427,7 +440,7 @@ div#join-botmakers {
   max-width: 100%;
   font-weight: bold;
   color: #fff;
-  background-color: #323943;
+  background-color: #262d2f;
   overflow: auto;
   padding-bottom: 1em;
 }
@@ -503,7 +516,7 @@ div#join-botmakers a {
     display: inline-block;
   }
   #header nav a {
-    color: #212832;
+    color: #151c1e;
   }
   #header nav a:hover {
     color: #434a54;
