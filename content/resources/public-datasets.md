@@ -26,9 +26,15 @@ Nav: hidden
 - [200,000+ Jeopardy Questions](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file) -- json/csv dataset crawled from [j-archive](http://www.j-archive.com)
 - [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
 - [Full Reddit submission corpus (2006 - August 2015)](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/)
+- [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
+- [corpusmusic/liederCorpusAnalysis](https://github.com/corpusmusic/liederCorpusAnalysis) -- a collection of IPA (International Phonetic Alphabet) transcriptions of German poems from prominent 19th-c. art songs
+- [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
 
 ### [¶](#dataset-sites){.pilcrow} Sites/projects that collect datasets {#dataset-sites}
 - [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [r/datasets](https://www.reddit.com/r/datasets/)
+
+### [¶](#other){.pilcrow} Other {#other}
+- [shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
 [Back to all resources.](/resources)

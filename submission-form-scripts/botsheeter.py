@@ -255,18 +255,28 @@ if __name__ == "__main__":
     list_of_rows = wks.get_all_values()
     list_of_rows.pop(0)  # ditch header
 
+    skipped_bots = []
+
     # Getting stuff to build .md -- only Twitter bots for now
     bot_page_urls = []  # for screenshots
     for i, row in enumerate(list_of_rows):
         # row is a list of columns
         bot = {}
         bot['location'] = validate_location(row[1])
+        bot['username'] = username_from_url(row[1])
 
         if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
-            print("Skipping " + username_from_url(row[1]))
+            skipped_bots.append(username_from_url(row[1]))
             continue
 
-        bot_page_urls.append(bot['location'])
+        print("Processing " + bot['username'] + "...")
+
+        if ("twitter.com" in bot['location']) or ("tumblr.com" in bot['location']):
+            bot_page_urls.append(bot['location'])
+        else:
+            print("\033[1;31mUnable to make screenshot for " + bot['username'] + ", please do it manually\033[1;m")
+
+
         bot['description'] = row[2]
         bot['tags'] = row[3]
         bot['active'] = row[4]
@@ -283,9 +293,10 @@ if __name__ == "__main__":
 
         outfile = bot_md_filename(bot)
         if os.path.isfile(outfile):
+            print(outfile + " already exists, skipping")
             continue  # Don't overwrite existing
 
-        print(bot)
+        #print(bot)
         md_file_text = format_md(bot)
         print()
         print(md_file_text)
@@ -302,9 +313,13 @@ if __name__ == "__main__":
             added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
+    print("\n\n\033[1;32mFinished processing, skipped " + str(len(skipped_bots)) + " bots:\033[1;m")
+    print(', '.join(skipped_bots))
+
+
     if bot_page_urls:
         # Prep botshotter.py call
-        print("Creating thumbnails...")
+        print("Loading botshotter.py...")
         bot_page_urls = ",".join(bot_page_urls)
         import botshotter
 

@@ -51,11 +51,7 @@
         </label>  
         <input type="checkbox" id="menu-toggle"/>  
         <ul id="menu">  
-          {% for page in pages %}
-            {% if page.nav != "hidden" %}
-              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
+          {{ nav_sort.sorted_nav }}
         </ul>
       </nav>
       <form id="search-form" action="/search">
