@@ -15,6 +15,7 @@ from colorama import init, Fore, Style
 
 # from pprint import pprint
 
+
 def clean_path(path):
     return path.replace('..', '')
 
