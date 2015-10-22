@@ -11,23 +11,14 @@ import gspread  # pip install gspread
 import json
 import os
 from oauth2client.client import SignedJwtAssertionCredentials
-from colorama import Fore, Back, Style
+from colorama import init, Fore, Style
 
 # from pprint import pprint
 
-print()
-print(Fore.BLUE)
-print("   ;")
-print('  ["]')
-print(" /[_]\ " + Style.RESET_ALL + "botwiki.org")
-print(Fore.BLUE + "  ] [")
-print(Style.RESET_ALL)
-print()
-
-print("Starting botsheeter.py, a Botwiki.org script by " + Fore.BLUE + "twitter.com/hugovk" + Style.RESET_ALL + "...")
 
 def clean_path(path):
     return path.replace('..', '')
+
 
 def make_twitter_url(text, force_it=False):
     """ Do the best to turn it into a Twitter URL """
@@ -257,6 +248,19 @@ if __name__ == "__main__":
         help="Test mode: create local files but don't update the spreadsheet")
     args = parser.parse_args()
 
+    init()  # Initialise Colorama for Windows
+    print()
+    print(Fore.BLUE)
+    print("   ;")
+    print('  ["]')
+    print(" /[_]\ " + Style.RESET_ALL + "botwiki.org")
+    print(Fore.BLUE + "  ] [")
+    print(Style.RESET_ALL)
+    print()
+
+    print("Starting botsheeter.py, a Botwiki.org script by " + Fore.BLUE +
+          "twitter.com/hugovk" + Style.RESET_ALL + "...")
+
     json_key = json.load(open(args.json))
     scope = ['https://spreadsheets.google.com/feeds']
     credentials = SignedJwtAssertionCredentials(
@@ -286,13 +290,13 @@ if __name__ == "__main__":
 
         print("Processing " + bot['username'] + "...")
 
-        if ("twitter.com" in bot['location']) or ("tumblr.com" in bot['location']):
+        if "twitter.com" in bot['location'] or "tumblr.com" in bot['location']:
             bot_page_urls.append(bot['location'])
         else:
-            print(Fore.RED + "Unable to make screenshot for " + bot['username'] + ", please do it manually")
+            print(Fore.RED + "Unable to make screenshot for " +
+                  bot['username'] + ", please do it manually")
             print("ERROR: Unsuported network")
             print(Fore.RESET)
-
 
         bot['description'] = row[2]
         bot['tags'] = row[3]
@@ -311,12 +315,13 @@ if __name__ == "__main__":
         outfile = bot_md_filename(bot)
 
         if os.path.isfile(outfile):
-            print(Fore.RED + clean_path(outfile) + " already exists, skipping" + Style.RESET_ALL)
+            print(Fore.RED + clean_path(outfile) +
+                  " already exists, skipping" + Style.RESET_ALL)
             continue  # Don't overwrite existing
         else:
             created_bots.append(clean_path(outfile))
 
-        #print(bot)
+        # print(bot)
         md_file_text = format_md(bot)
         # print()
         # print(md_file_text)
@@ -333,11 +338,11 @@ if __name__ == "__main__":
             added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
-    print(Fore.GREEN + "Finished processing, skipped " + str(len(skipped_bots)) + " bots:")
+    print(Fore.GREEN + "Finished processing, skipped " +
+          str(len(skipped_bots)) + " bots:")
     print(Fore.RESET + Style.DIM)
     print(', '.join(skipped_bots))
     print(Style.RESET_ALL)
-
 
     if bot_page_urls:
         # Prep botshotter.py call

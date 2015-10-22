@@ -23,3 +23,5 @@ script:
 
   # Python unit tests
   - python submission-form-scripts/test_botsheeter.py
+  # Error and style-checker
+  - flake8 submission-form-scripts/*.py
