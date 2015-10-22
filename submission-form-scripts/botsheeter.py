@@ -11,9 +11,23 @@ import gspread  # pip install gspread
 import json
 import os
 from oauth2client.client import SignedJwtAssertionCredentials
+from colorama import Fore, Back, Style
 
 # from pprint import pprint
 
+print()
+print(Fore.BLUE)
+print("   ;")
+print('  ["]')
+print(" /[_]\ " + Style.RESET_ALL + "botwiki.org")
+print(Fore.BLUE + "  ] [")
+print(Style.RESET_ALL)
+print()
+
+print("Starting botsheeter.py, a Botwiki.org script by " + Fore.BLUE + "twitter.com/hugovk" + Style.RESET_ALL + "...")
+
+def clean_path(path):
+    return path.replace('..', '')
 
 def make_twitter_url(text, force_it=False):
     """ Do the best to turn it into a Twitter URL """
@@ -224,7 +238,7 @@ def create_dirs(dir):
 def save_md(md_file_text, filename):
     """ Save the md_file_text into filename """
     create_dirs(os.path.dirname(filename))
-    print("Saving to", filename)
+    print("Saving to", clean_path(filename))
     with open(filename, "w") as f:
         f.write(md_file_text.encode('utf-8'))
 
@@ -256,6 +270,7 @@ if __name__ == "__main__":
     list_of_rows.pop(0)  # ditch header
 
     skipped_bots = []
+    created_bots = []
 
     # Getting stuff to build .md -- only Twitter bots for now
     bot_page_urls = []  # for screenshots
@@ -274,7 +289,9 @@ if __name__ == "__main__":
         if ("twitter.com" in bot['location']) or ("tumblr.com" in bot['location']):
             bot_page_urls.append(bot['location'])
         else:
-            print("\033[1;31mUnable to make screenshot for " + bot['username'] + ", please do it manually\033[1;m")
+            print(Fore.RED + "Unable to make screenshot for " + bot['username'] + ", please do it manually")
+            print("ERROR: Unsuported network")
+            print(Fore.RESET)
 
 
         bot['description'] = row[2]
@@ -292,15 +309,18 @@ if __name__ == "__main__":
         bot['open_source_language'] = row[10]
 
         outfile = bot_md_filename(bot)
+
         if os.path.isfile(outfile):
-            print(outfile + " already exists, skipping")
+            print(Fore.RED + clean_path(outfile) + " already exists, skipping" + Style.RESET_ALL)
             continue  # Don't overwrite existing
+        else:
+            created_bots.append(clean_path(outfile))
 
         #print(bot)
         md_file_text = format_md(bot)
-        print()
-        print(md_file_text)
-        print()
+        # print()
+        # print(md_file_text)
+        # print()
         save_md(md_file_text, outfile)
 
         if not args.test:
@@ -313,8 +333,10 @@ if __name__ == "__main__":
             added_col = 12
             wks.update_cell(added_row, added_col, "true")
 
-    print("\n\n\033[1;32mFinished processing, skipped " + str(len(skipped_bots)) + " bots:\033[1;m")
+    print(Fore.GREEN + "Finished processing, skipped " + str(len(skipped_bots)) + " bots:")
+    print(Fore.RESET + Style.DIM)
     print(', '.join(skipped_bots))
+    print(Style.RESET_ALL)
 
 
     if bot_page_urls:
@@ -326,5 +348,16 @@ if __name__ == "__main__":
 #        outdir = "../content/bots/" + bot_category(bot) + "/images/"
 #        create_dirs(outdir)
         botshotter.botshotter(bot_page_urls, None, headless=True)
+
+        print(Fore.GREEN + "Finished!")
+
+        if (len(created_bots)):
+            print("New bots:")
+            for path in created_bots:
+                print(path)
+        else:
+            print(Fore.RESET + Style.DIM + "No new bots")
+
+    print(Style.RESET_ALL)
 
 # End of file

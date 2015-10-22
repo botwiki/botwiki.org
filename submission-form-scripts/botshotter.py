@@ -19,6 +19,12 @@ from selenium.webdriver.support import expected_conditions as EC
 import StringIO
 import os
 import time
+from colorama import Fore, Back, Style
+
+
+def clean_path(path):
+    return path.replace('..', '')
+
 
 
 def do_one_account(driver, url_or_username, outdir, headless):
@@ -29,6 +35,7 @@ def do_one_account(driver, url_or_username, outdir, headless):
     if outdir:
         outfile = os.path.join(outdir, outfile)
     if os.path.isfile(outfile):
+        print(Fore.RED + clean_path(outfile) + " already exists, skipping")
         return  # Don't overwrite existing
 
     im = take_shot(driver, url, headless)
@@ -196,7 +203,7 @@ def botshotter(url, outdir, headless=False):
     for url in urls:
         if not outdir:
             outdir = bot_directory(url)
-        print('Creating thumbnail from ' + url + ', saving to ' + outdir +
+        print('Creating thumbnail from ' + url + ', saving to ' + clean_path(outdir) +
               ' ...')
         do_one_account(driver, url, outdir, headless)
 
