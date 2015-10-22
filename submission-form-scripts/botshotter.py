@@ -41,14 +41,17 @@ def do_one_account(driver, url_or_username, outdir, headless):
     im = crop_image(im, headless, url_or_username)
     im.save(outfile)
 
+    # For Windows, need correct directory slashes for os.system calls
+    abs_outfile = os.path.abspath(outfile)
+
     # Optimise with optipng (if binary in path)
-    cmd = "optipng -force -o7 '{0}'".format(outfile)
+    cmd = "optipng -force -o7 {0}".format(abs_outfile)
     print(cmd)
     os.system(cmd)
 
     # Optimise with pngcrush (if binary in path)
     cmd = ("pngcrush -ow -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB "
-           "-rem time '{0}'").format(outfile)
+           "-rem time {0}").format(abs_outfile)
     print(cmd)
     os.system(cmd)
 
