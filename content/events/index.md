@@ -15,18 +15,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
-
-### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
-
-_October 21 (2015) at 6:30pm_
-
-[800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
-
-
-> This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
-
-<hr/>
-
 ### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
 
 _October 22 (2015) 7:00pm_
@@ -51,6 +39,18 @@ A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "re
 
 ## [¶](#past-ongoing-events){.pilcrow} Past or permanently ongoing events {#past-ongoing-events}
 
+### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
+
+_October 21 (2015) at 6:30pm_
+
+[800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
+
+
+> This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
+
+[Jeff Kramer](https://twitter.com/jeffk)'s slides are available [here](http://www.slideshare.net/jeffkramer1/atx-bot-talk-hello-pybot), for more see [this repo](https://github.com/jeffk/pybot).
+
+<hr/>
 
 ### [¶](#electronic-literature-edx-2015){.pilcrow} [Electronic Literature (Online)](https://www.edx.org/course/electronic-literature-davidsonx-d004x) {#electronic-literature-edx-2015}
 
