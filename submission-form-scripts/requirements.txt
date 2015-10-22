@@ -11,3 +11,4 @@ hypothesis
 
 # utilities
 colorama
+flake8
