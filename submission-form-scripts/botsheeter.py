@@ -15,20 +15,6 @@ from colorama import init, Fore, Style
 
 # from pprint import pprint
 
-init()  # Initialise Colorama for Windows
-print()
-print(Fore.BLUE)
-print("   ;")
-print('  ["]')
-print(" /[_]\ " + Style.RESET_ALL + "botwiki.org")
-print(Fore.BLUE + "  ] [")
-print(Style.RESET_ALL)
-print()
-
-print("Starting botsheeter.py, a Botwiki.org script by " + Fore.BLUE +
-      "twitter.com/hugovk" + Style.RESET_ALL + "...")
-
-
 def clean_path(path):
     return path.replace('..', '')
 
@@ -260,6 +246,19 @@ if __name__ == "__main__":
         '-x', '--test', action='store_true',
         help="Test mode: create local files but don't update the spreadsheet")
     args = parser.parse_args()
+
+    init()  # Initialise Colorama for Windows
+    print()
+    print(Fore.BLUE)
+    print("   ;")
+    print('  ["]')
+    print(" /[_]\ " + Style.RESET_ALL + "botwiki.org")
+    print(Fore.BLUE + "  ] [")
+    print(Style.RESET_ALL)
+    print()
+
+    print("Starting botsheeter.py, a Botwiki.org script by " + Fore.BLUE +
+          "twitter.com/hugovk" + Style.RESET_ALL + "...")
 
     json_key = json.load(open(args.json))
     scope = ['https://spreadsheets.google.com/feeds']
