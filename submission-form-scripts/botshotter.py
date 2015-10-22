@@ -172,12 +172,12 @@ def bot_directory(url):
         return "../content/bots/redditbots/images/"
     elif "tumblr.com" in url:
         return "../content/bots/tumblr-bots/images/"
-    elif network == 'Slack':
-        return "../content/bots/slackbots/images/"
-    elif network == 'Kik':
-        return "../content/bots/kik-bots/images/"
-    elif network == 'Snapchat':
-        return "../content/bots/snapchat-bots/images/"
+    # elif network == 'Slack':
+        # return "../content/bots/slackbots/images/"
+    # elif network == 'Kik':
+        # return "../content/bots/kik-bots/images/"
+    # elif network == 'Snapchat':
+        # return "../content/bots/snapchat-bots/images/"
     return None
 
 
