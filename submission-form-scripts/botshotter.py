@@ -15,16 +15,15 @@ from PIL import Image  # pip install pillow
 from selenium import webdriver, common  # pip install selenium
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as ec
 import StringIO
 import os
 import time
-from colorama import Fore, Back, Style
+from colorama import Fore
 
 
 def clean_path(path):
     return path.replace('..', '')
-
 
 
 def do_one_account(driver, url_or_username, outdir, headless):
@@ -102,7 +101,7 @@ def take_shot(driver, url, headless):
     wait = WebDriverWait(driver, 10)
 
     if "twitter.com" in url:
-        wait.until(EC.visibility_of_element_located((
+        wait.until(ec.visibility_of_element_located((
             By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
         # Remove some clutter
@@ -112,7 +111,8 @@ def take_shot(driver, url, headless):
         delete_element_by_class_name(driver, 'trends')
         delete_element_by_class_name(driver, 'user-actions-follow-button')
 #    elif "tumblr.com" in url:
-#        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
+#        wait.until(ec.visibility_of_element_located(
+#                   (By.CSS_SELECTOR, 'img.ProfileAvatar-image')))
 
     if not headless:
         if "twitter.com" in url:
@@ -203,8 +203,8 @@ def botshotter(url, outdir, headless=False):
     for url in urls:
         if not outdir:
             outdir = bot_directory(url)
-        print('Creating thumbnail from ' + url + ', saving to ' + clean_path(outdir) +
-              ' ...')
+        print('Creating thumbnail from ' + url + ', saving to ' +
+              clean_path(outdir) + ' ...')
         do_one_account(driver, url, outdir, headless)
 
     driver.quit()
