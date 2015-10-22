@@ -8,3 +8,6 @@ selenium
 
 # test_botsheeter.py
 hypothesis
+
+# utilities
+colorama
