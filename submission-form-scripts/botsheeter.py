@@ -11,10 +11,11 @@ import gspread  # pip install gspread
 import json
 import os
 from oauth2client.client import SignedJwtAssertionCredentials
-from colorama import Fore, Back, Style
+from colorama import init, Fore, Back, Style
 
 # from pprint import pprint
 
+init()  # Initialise Colorama for Windows
 print()
 print(Fore.BLUE)
 print("   ;")
