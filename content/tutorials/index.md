@@ -58,6 +58,7 @@ For more general tutorials on hosting bots, see articles below. (Some network sp
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
+- [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 
 ### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
 - [Tutorials for Twitter bots](/tutorials/twitterbots)
