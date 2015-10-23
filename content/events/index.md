@@ -15,18 +15,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
-### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
-
-_October 22 (2015) 7:00pm_
-
-[Kings Place, 90 York Way, London](https://www.google.com/maps/dir/Current+Location/Kings+Place,+90+York+Way,+London)
-
-> Have you ever wanted to build your own [@ThinkpieceBot](https://twitter.com/ThinkpieceBot), [@fbibot](https://twitter.com/fbibot) or [@horse_ebooks](https://twitter.com/horse_ebooks)? If so you're in luck, as this month we'll be following a tutorial to create our own Twitter bot using Node.js. 
-
-Notes should be available at [journocoders.hackpad.com](https://journocoders.hackpad.com/Journocoders-October-2015-PGXvou7Vcw8).
-
-<hr/>
-
 ### [¶](#nyc-botally-meetup){.pilcrow} [NYC #botALLY Meetup](https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296) {#nyc-botally-meetup}
 
 _October 23 (2015) 6:30pm - 8:30pm_
@@ -38,6 +26,18 @@ A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "re
 <hr/>
 
 ## [¶](#past-ongoing-events){.pilcrow} Past or permanently ongoing events {#past-ongoing-events}
+
+### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
+
+_October 22 (2015) 7:00pm_
+
+[Kings Place, 90 York Way, London](https://www.google.com/maps/dir/Current+Location/Kings+Place,+90+York+Way,+London)
+
+> Have you ever wanted to build your own [@ThinkpieceBot](https://twitter.com/ThinkpieceBot), [@fbibot](https://twitter.com/fbibot) or [@horse_ebooks](https://twitter.com/horse_ebooks)? If so you're in luck, as this month we'll be following a tutorial to create our own Twitter bot using Node.js. 
+
+Notes are available at [journocoders.hackpad.com](https://journocoders.hackpad.com/Journocoders-October-2015-PGXvou7Vcw8).
+
+<hr/>
 
 ### [¶](#atx-bot-talk){.pilcrow} [ATX Bot Talk](http://atxbots.splashthat.com/) {#atx-bot-talk}
 
