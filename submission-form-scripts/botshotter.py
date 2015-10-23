@@ -177,6 +177,7 @@ def bot_directory(url):
         return "../content/bots/tumblr-bots/images/"
     return None
 
+
 def botshotter(url, outdir, headless=False):
     """ Main bit """
     if headless:
