@@ -16,7 +16,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Free images, sounds, videos](/resources/free-media)
 - [Libraries and frameworks](/resources/libraries-frameworks)
 
-### [¶](#specific-resources){.pilcrow} Specific resources {#specific-resources}
+### [¶](#specific-resources){.pilcrow} Network-specific resources {#specific-resources}
 
 - [Twitter bots](/resources/twitterbots)
 - [Slack bots](/resources/slackbots)
