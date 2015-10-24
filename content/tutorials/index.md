@@ -6,21 +6,23 @@ Tags: machine learning,nlp,language,processing,opencv
 Weight: 2
 */
 
-![Man, presumably reading a Twitterbot tutorial](/content/images/illustrations/man-reading-mail-768.jpg){.float-right}
-
 To make good bots, you need a **little bit of software** (preferably free and [open source](https://en.wikipedia.org/wiki/Open-source_software)), [**some useful data**](/resources) to connect the bot to, and **tutorials and [articles](/articles)** to explain how to connect it all together.
 
 Many people provide these resources **for free** -- and **Botwiki.org** collects them. If you find anything useful, be sure to thank the person through their website, an email or social media site of their choice :-)
 
 Oh and if you have any questions, try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/). 
 
-### [¶](#general-tutorials){.pilcrow} General tutorials {#general-tutorials}
-- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
-- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
-- [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
+![Man, presumably reading a Twitterbot tutorial](/content/images/illustrations/man-reading-mail-768.jpg){.float-right}
 
-### [¶](#technical-tutorials){.pilcrow} Technical tutorials {#technical-tutorials}
-#### [¶](#bot-hosting){.pilcrow} Bot hosting {#bot-hosting}
+### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
+- [Tutorials for Twitter bots](/tutorials/twitterbots)
+- [Tutorials for Slack bots](/tutorials/slackbots)
+- [Tutorials for YouTube bots](/tutorials/youtube-bots)
+- [Tutorials for Reddit bots](/tutorials/redditbots)
+- [Tutorials for IRC bots](/tutorials/irc-bots)
+- [Tutorials for Telegram bots](/tutorials/telegram-bots)
+
+### [¶](#bot-hosting){.pilcrow} Bot hosting {#bot-hosting}
 
 You have quite a few options when it comes to hosting your bots.
 
@@ -50,22 +52,20 @@ These are also common ways to solve the need for a phone number verification whe
 For more general tutorials on hosting bots, see articles below. (Some network specific tutorials [below](#network-specific-tutorials) include a step explaining how to host your bot.)
 - [Automating bots with cron on Digital Ocean](http://www.colewillsea.com/blog/do-cron)
 
-#### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
+### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
 - [Codecadamey](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
 
-#### [¶](#other){.pilcrow} Other {#other}
+### [¶](#other){.pilcrow} Other {#other}
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 
-### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
-- [Tutorials for Twitter bots](/tutorials/twitterbots)
-- [Tutorials for Slack bots](/tutorials/slackbots)
-- [Tutorials for YouTube bots](/tutorials/youtube-bots)
-- [Tutorials for Reddit bots](/tutorials/redditbots)
-- [Tutorials for IRC bots](/tutorials/irc-bots)
-- [Tutorials for Telegram bots](/tutorials/telegram-bots)
+## [¶](#general-essays){.pilcrow} General, essays {#general-essays}
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
+- [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
+
 
 Also check out [the opensourced bots](/tag/opensource).
