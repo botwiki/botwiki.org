@@ -182,7 +182,8 @@ h3,
 h4,
 h5,
 h6 {
-  color: #151c1e;
+  font-family: 'Bree Serif', serif;
+  color: #373e40;
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
@@ -445,7 +446,7 @@ div#join-botmakers {
   padding-bottom: 1em;
 }
 div#join-botmakers > p {
-  max-width: 900px;
+  max-width: 1078px;
   margin: 0 auto;
   padding: 10px;
   text-align: justify;
