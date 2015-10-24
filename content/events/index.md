@@ -1,7 +1,7 @@
 /*
 Title: Events
 Description: Upcoming and past events either dedicated to botmaking or with relevant sessions.
-Weight: 6
+Weight: 5
 */
 
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/people-evening.jpg){.float-right}

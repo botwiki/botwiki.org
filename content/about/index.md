@@ -1,7 +1,7 @@
 /*
 Title: About
 Description: Oh, so you would like to learn a bit more about Botwiki.org and Botmakers.org?
-Weight: 1
+Weight: 6
 */
 
 Hi!

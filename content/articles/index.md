@@ -3,7 +3,7 @@ Title: Articles
 Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
 Date: July 22, 2015
 Author: Stefan Bohacek
-Weight: 5
+Weight: 4
 */
 
 Below is a selection of blogs centered around botmaking and bot-related topics. Further below is a few hand-picked blog posts. Enjoy!

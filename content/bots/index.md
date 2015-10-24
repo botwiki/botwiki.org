@@ -2,7 +2,7 @@
 Title: Bots
 Date: July 25, 2015
 Description: Little virtual robots.
-Weight: 2
+Weight: 1
 */
 
 So what exactly is a "bot"? Well, it really depends on who you ask.
