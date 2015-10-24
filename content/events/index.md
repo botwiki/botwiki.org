@@ -33,6 +33,15 @@ United Kingdom<br/>
 
 <hr/>
 
+### [¶](#bot-summit-2016){.pilcrow} [Bot Summit 2016](http://tinysubversions.com/botsummit/2016/) {#bot-summit-2016}
+
+_April 9th, 2016_
+
+London
+
+> Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
+
+<hr/>
 
 ## [¶](#past-ongoing-events){.pilcrow} Past or permanently ongoing events {#past-ongoing-events}
 
