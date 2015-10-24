@@ -12,23 +12,41 @@ Nav: hidden
 
 Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
-### [¶](#tutorials){.pilcrow} Tutorials {#tutorials}
-- [Build A Bot Workshop](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) -- slides from a workshop at the [PyDX 2015](/events/#pydx2015) Python conference, presented by [Terian Koscik](https://twitter.com/spine_cone) 
-- [dariusk/examplebot](https://github.com/dariusk/examplebot) -- a super simple tutorial with node.js source code
+### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
+
+#### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
+
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
-- [A Twitter Bot In 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/) (using [ttezel/twit](https://github.com/ttezel/twit))
+- [Build A Bot Workshop](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) -- slides from a workshop at the [PyDX 2015](/events/#pydx2015) Python conference, presented by [Terian Koscik](https://twitter.com/spine_cone) 
 - [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
-- [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
-- [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
 - [Five Steps To Build Your Own Random Non-Sequitur Twitter Bot](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions?_escaped_fragment_=) -- with Python and [Heroku](https://www.heroku.com/)
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
+
+#### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
+
+- [A Twitter Bot In 20 Minutes With Node.js](http://www.apcoder.com/2013/10/03/twitter-bot-20-minutes-node-js/) (using [ttezel/twit](https://github.com/ttezel/twit))
+- [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
-- Building a twitter bot using node, [feedparser](https://www.npmjs.com/package/feedparser) and [simple-twitter](https://www.npmjs.com/package/simple-twitter): [Part 1](https://www.hughrundle.net/2015/07/16/building-a-twitter-bot-using-node-feedparser-and-simple-twitter-part-1/) and [Part 2](https://www.hughrundle.net/2015/07/18/building-a-twitter-bot-part-2-its-aliiiive/)
+- [dariusk/examplebot](https://github.com/dariusk/examplebot) -- a super simple tutorial with node.js source code
+
+#### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 - [Fake It ‘Til You Make It: A Basic Bot Primer For The Aprogrammatic](http://blog.tullyhansen.com/post/62774813528/fake-it-til-you-make-it-a-basic-bot-primer-for) -- a tutorial by [Tully Hansen](https://twitter.com/tullyhansen) for non-programmers, using [twittbot.net](http://twittbot.net/) and [RoundTeam](https://roundteam.co/)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/) -- tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
-- [A video tutorial](https://vimeo.com/139794441) where [Cole Willsea](https://twitter.com/colewillsea) shows how he built [@_WE_GET_IT_BRO_](https://twitter.com/_WE_GET_IT_BRO_), a Twitter bot about weed, [source code](https://github.com/coleww/we-get-it-you-smoke-weed)
+- [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
+
+
+
+
+### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
+
 - [Raspberry Pi Twitterbot](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/) -- an IoT tutorial with a [Raspberry Pi](https://www.raspberrypi.org/) and Python
-- [These emojis will work in your Twitter name and bio](https://www.emojibase.com/emojis-on-twitter)
+- Building a twitter bot using node, [feedparser](https://www.npmjs.com/package/feedparser) and [simple-twitter](https://www.npmjs.com/package/simple-twitter): [Part 1](https://www.hughrundle.net/2015/07/16/building-a-twitter-bot-using-node-feedparser-and-simple-twitter-part-1/) and [Part 2](https://www.hughrundle.net/2015/07/18/building-a-twitter-bot-part-2-its-aliiiive/)
+- [A video tutorial](https://vimeo.com/139794441) where [Cole Willsea](https://twitter.com/colewillsea) shows how he built [@_WE_GET_IT_BRO_](https://twitter.com/_WE_GET_IT_BRO_), a Twitter bot about weed, [source code](https://github.com/coleww/we-get-it-you-smoke-weed)
+
+
+#### [¶](#unsorted-notes){.pilcrow} Unsorted notes {#unsorted-notes}
+
+- ["These emojis will work in your Twitter name and bio"](https://www.emojibase.com/emojis-on-twitter)
 
 ### [¶](#tools-and-twitter-specific-resources){.pilcrow} Tools-and-twitter-specific-resources {#tools-and-twitter-specific-resources}
 See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
