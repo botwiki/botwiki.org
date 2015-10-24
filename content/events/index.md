@@ -15,6 +15,27 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
+### [¶](#procjam-2015){.pilcrow} [PROCJAM 2015](http://www.procjam.com/category/procjam-2015/) {#procjam-2015}
+
+> PROCJAM is a game jam about procedural content generation - [find out more on itch.io](http://itch.io/jam/procjam).
+
+_November 7th – 15th_  -- online
+
+_November 7th, 13:00 to 19:00 (GMT)_ -- [PROCJAM Launch Day](http://www.eventbrite.co.uk/e/procjam-2015-kickoff-day-tickets-18723814433), London
+
+
+[Blackett Building, Imperial College](https://www.google.com/maps/dir/Current+Location/Blackett+Building,+Imperial+College+London,+South+Kensington+Campus,+London+SW7+2AZ,+United+Kingdom)<br/>
+Prince Consort Road<br/>
+South Kensington<br/>
+SW7 2AZ London<br/>
+United Kingdom<br/>
+
+
+<hr/>
+
+
+## [¶](#past-ongoing-events){.pilcrow} Past or permanently ongoing events {#past-ongoing-events}
+
 ### [¶](#nyc-botally-meetup){.pilcrow} [NYC #botALLY Meetup](https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296) {#nyc-botally-meetup}
 
 _October 23 (2015) 6:30pm - 8:30pm_
@@ -24,8 +45,6 @@ _October 23 (2015) 6:30pm - 8:30pm_
 A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
 <hr/>
-
-## [¶](#past-ongoing-events){.pilcrow} Past or permanently ongoing events {#past-ongoing-events}
 
 ### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
 
@@ -48,7 +67,7 @@ _October 21 (2015) at 6:30pm_
 
 > This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
 
-[Jeff Kramer](https://twitter.com/jeffk)'s slides are available [here](http://www.slideshare.net/jeffkramer1/atx-bot-talk-hello-pybot), for more see [this repo](https://github.com/jeffk/pybot).
+[Jeff Kramer](https://twitter.com/jeffk)'s slides are available [here](http://www.slideshare.net/jeffkramer1/atx-bot-talk-hello-pybot), for more see [this repo](https://github.com/jeffk/pybot). [Ben Brown](https://twitter.com/benbrown)'s slides titled _"An Incomplete and Inaccurate History of Bots"_ are [here](http://www.slideshare.net/xoxco/an-incomplete-and-inaccurate-history-of-bots).
 
 <hr/>
 
