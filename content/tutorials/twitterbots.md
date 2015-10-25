@@ -54,7 +54,7 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 
 - ["These emojis will work in your Twitter name and bio"](https://www.emojibase.com/emojis-on-twitter)
 
-### [¶](#tools-and-twitter-specific-resources){.pilcrow} Tools-and-twitter-specific-resources {#tools-and-twitter-specific-resources}
+### [¶](#tools-and-twitter-specific-resources){.pilcrow} Tools and Twitter-specific resources {#tools-and-twitter-specific-resources}
 See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).
