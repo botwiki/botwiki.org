@@ -8,7 +8,7 @@ Nav: hidden
 
 [Slack](https://slack.com/) is a popular team collaboration tool that has great API and [fully embraces bots](http://www.theguardian.com/technology/2015/sep/03/slack-killing-email-chatbots-ai).
 
-Learn how to make your own Slack bot with these tutorials:
+Learn how to make your own Slack bot with these tutorials below and join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
 
 - [Official Slack documentation](https://api.slack.com/bot-users)
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
