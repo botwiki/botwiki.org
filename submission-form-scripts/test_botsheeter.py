@@ -132,6 +132,54 @@ class TestIt(unittest.TestCase):
         self.assertEqual(
             filename, "/content/bots/twitterbots/images/botwikidotorg.png")
 
+    def test_col_to_num_a_lc_zero_index(self):
+        letter = "a"
+        zero_index = True
+        number = botsheeter.col_to_num(letter, zero_index)
+        self.assertEqual(number, 0)
+
+    def test_col_to_num_a_uc_zero_index(self):
+        letter = "A"
+        zero_index = True
+        number = botsheeter.col_to_num(letter, zero_index)
+        self.assertEqual(number, 0)
+
+    def test_col_to_num_a_uc_zero_index(self):
+        letter = "C"
+        zero_index = True
+        number = botsheeter.col_to_num(letter, zero_index)
+        self.assertEqual(number, 2)
+
+    def test_col_to_num_a_lc_nonzero_index(self):
+        letter = "a"
+        zero_index = False
+        number = botsheeter.col_to_num(letter, zero_index)
+        self.assertEqual(number, 1)
+
+    def test_col_to_num_a_uc_nonzero_index(self):
+        letter = "c"
+        zero_index = False
+        number = botsheeter.col_to_num(letter, zero_index)
+        self.assertEqual(number, 3)
+
+    def test_bot_tags_interactive(self):
+        bot = {}
+        bot['tags'] = "twitter"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+        bot['interactive'] = "Yes"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,inactive,interactive")
+
+    def test_bot_tags_not_interactive(self):
+        bot = {}
+        bot['tags'] = "twitter"
+        bot['location'] = "https://twitter.com/botwikidotorg"
+#         bot['interactive'] = "Yes"
+        tags = botsheeter.bot_tags(bot)
+        self.assertEqual(
+            tags, "twitter,twitterbot,inactive")
+
 
 class TestWithHypothesis(unittest.TestCase):
 
