@@ -72,6 +72,7 @@ _October 23 (2015) 6:30pm - 8:30pm_
 A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
  - [Leonard Richardson](https://twitter.com/leonardr)'s slides are available [here](http://www.crummy.com/writing/speaking/2015-Bot%20Summit/)
+ - [Bot Poetry at the SFPC](http://0x0a.li/en/bot-poetry-at-the-sfpc/)
 
 <hr/>
 
