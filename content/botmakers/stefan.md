@@ -25,4 +25,4 @@ I like the idea of approaching people and having a little chat and creating this
 
 How does that sound?
 
-<center><iframe width="420" height="315" src="https://www.youtube.com/embed/xaIZsCYxAzQ" frameborder="0" allowfullscreen></iframe></center>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/xaIZsCYxAzQ" frameborder="0" allowfullscreen></iframe>
