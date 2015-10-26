@@ -71,6 +71,8 @@ _October 23 (2015) 6:30pm - 8:30pm_
 
 A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
+ - [Leonard Richardson](https://twitter.com/leonardr)'s slides are available [here](http://www.crummy.com/writing/speaking/2015-Bot%20Summit/)
+
 <hr/>
 
 ### [¶](#journocoders-workshop-building-twitter-bots-guardian){.pilcrow} [Journocoders workshop: Building Twitter bots at the Guardian](http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989) {#journocoders-workshop-building-twitter-bots-guardian}
