@@ -166,7 +166,7 @@ class TestIt(unittest.TestCase):
         bot = {}
         bot['tags'] = "twitter"
         bot['location'] = "https://twitter.com/botwikidotorg"
-        bot['interactive'] = "Yes"
+        bot['interactive'] = "Interactive"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
             tags, "twitter,twitterbot,inactive,interactive")

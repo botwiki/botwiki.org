@@ -133,7 +133,7 @@ def bot_tags(bot):
     else:
         tags_to_add.extend(['inactive'])
 
-    if 'interactive' in bot and bot['interactive'] == 'Yes':
+    if 'interactive' in bot and bot['interactive'] == 'Interactive':
         tags_to_add.extend(['interactive'])
 
     # Add user tags
