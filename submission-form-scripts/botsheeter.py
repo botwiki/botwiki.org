@@ -16,6 +16,21 @@ from colorama import init, Fore, Style
 # from pprint import pprint
 
 
+# The "Added" column in the spreadsheet
+ADDED_COL = "M"
+
+
+def col_to_num(letter, zero_index=True):
+    """  Given a column letter, return its numeric count """
+#     ord('a') == 97
+    number = ord(letter.lower()) - 97
+    if zero_index:
+        offset = 0
+    else:
+        offset = 1
+    return number + offset
+
+
 def clean_path(path):
     return path.replace('..', '')
 
@@ -117,6 +132,9 @@ def bot_tags(bot):
         tags_to_add.extend(['active'])
     else:
         tags_to_add.extend(['inactive'])
+
+    if 'interactive' in bot and bot['interactive'] == 'Interactive':
+        tags_to_add.extend(['interactive'])
 
     # Add user tags
     tags_to_add.extend(user_tags)
@@ -284,7 +302,9 @@ if __name__ == "__main__":
         bot['location'] = validate_location(row[1])
         bot['username'] = username_from_url(row[1])
 
-        if (row[11] == "TRUE" or row[11] == "DECLINED" or row[11]):
+        added_col = col_to_num(ADDED_COL, zero_index=True)
+        added = row[added_col]
+        if (added == "TRUE" or added == "DECLINED" or added):
             skipped_bots.append(username_from_url(row[1]))
             continue
 
@@ -311,6 +331,7 @@ if __name__ == "__main__":
         bot['creator_twitter_url'] = validate_creator_twitter_url(row[8])
         bot['network'] = row[9]
         bot['open_source_language'] = row[10]
+        bot['interactive'] = row[11]
 
         outfile = bot_md_filename(bot)
 
@@ -335,7 +356,7 @@ if __name__ == "__main__":
             #   - Don't forget we ditched the header, so i==0 is row 2.
             added_row = i + 2
             # * Second value is column (A=1, B=2, ..., L=12, etc.)
-            added_col = 12
+            added_col = col_to_num(ADDED_COL, zero_index=False)
             wks.update_cell(added_row, added_col, "true")
 
     print(Fore.GREEN + "Finished processing, skipped " +
