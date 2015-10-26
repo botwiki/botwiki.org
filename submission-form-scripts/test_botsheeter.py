@@ -175,10 +175,15 @@ class TestIt(unittest.TestCase):
         bot = {}
         bot['tags'] = "twitter"
         bot['location'] = "https://twitter.com/botwikidotorg"
-#         bot['interactive'] = "Yes"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
             tags, "twitter,twitterbot,inactive")
+
+    def test_make_twitter_url_http_twitter(self):
+        input = "http://twitter.com/botwikidotorg"
+        force_it = True
+        output = botsheeter.make_twitter_url(input, force_it)
+        self.assertEqual(output, "https://twitter.com/botwikidotorg")
 
 
 class TestWithHypothesis(unittest.TestCase):
