@@ -37,6 +37,9 @@ def clean_path(path):
 
 def make_twitter_url(text, force_it=False):
     """ Do the best to turn it into a Twitter URL """
+    if text.startswith("http://twitter.com"):
+        text = text.replace("http://twitter.com", "https://twitter.com")
+
     if text.startswith("twitter.com"):
         return "https://" + text.replace(" ", "")
     if text.startswith("https://twitter.com"):
