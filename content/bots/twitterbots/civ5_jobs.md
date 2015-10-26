@@ -10,7 +10,5 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/civ5_jobs.png)](http://twitter.com/civ5_jobs)
 
-[@civ5_jobs](http://twitter.com/civ5_jobs) is an [open source](https://github.com/swizzard/civjobs) Twitter bot created by [swizzard](https://twitter.com/http://twitter.com/swizzard). 
-
-Combines unit names from Civilization 5 with technologies from Darius' corpora project.
+[@civ5_jobs](http://twitter.com/civ5_jobs) is an [open source](https://github.com/swizzard/civjobs) Twitter bot created by [@swizzard](https://twitter.com/). It combines unit names from the [Civilization 5](https://en.wikipedia.org/wiki/Civilization_V) turn-based strategy video game with technologies from Darius' [Corpora project](https://github.com/dariusk/corpora).
 
