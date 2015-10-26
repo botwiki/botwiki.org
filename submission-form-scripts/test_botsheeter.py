@@ -144,7 +144,7 @@ class TestIt(unittest.TestCase):
         number = botsheeter.col_to_num(letter, zero_index)
         self.assertEqual(number, 0)
 
-    def test_col_to_num_a_uc_zero_index(self):
+    def test_col_to_num_c_uc_zero_index(self):
         letter = "C"
         zero_index = True
         number = botsheeter.col_to_num(letter, zero_index)
@@ -156,7 +156,7 @@ class TestIt(unittest.TestCase):
         number = botsheeter.col_to_num(letter, zero_index)
         self.assertEqual(number, 1)
 
-    def test_col_to_num_a_uc_nonzero_index(self):
+    def test_col_to_num_c_lc_nonzero_index(self):
         letter = "c"
         zero_index = False
         number = botsheeter.col_to_num(letter, zero_index)
