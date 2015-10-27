@@ -2,7 +2,6 @@
   <p>Please check out the <a href="/tag/opensource"><strong><code>opensource</code></strong></a> tag while we get our stuff together. Thanks!</p>
 {% elseif current_tags == ['all-tags'] %}
   <h1>Browse all existing tags</h1>
-  <p>Ordered by frequency:</p>
   <div class="all-tags">
     {% for tag in tag_list %}
       <a href="/tag/{{ tag }}">#{{ tag }}</a></li>
