@@ -28,7 +28,7 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 **@botwikibot** is a "multi-network" bot that powers the offical [@botwikidotorg](https://twitter.com/botwikidotorg) account (it retweets the core members of the Botwiki team; the source code for this functionality is available [on GitHub](https://github.com/botwiki/community-retweet-bot)) and also helps out in our [Botmakers.org](https://botmakers.org/) Slack group where it helps us filter our channel that pulls in relevant tweets.
 
-We are planning to add more features and open source the code to make it available to ther Slack-based hobby and non-profit groups.
+We are planning to add more features and open source the code to make it available to other Slack-based hobby and non-profit groups.
 
 If you'd like to help out with the development, join us at [Botmakers.org](https://botmakers.org/).
 
