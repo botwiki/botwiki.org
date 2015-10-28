@@ -22,7 +22,7 @@
     <meta name="robots" content="{{ meta.robots }}">
   {% endif %}
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.botwiki.org/" />
+  <meta property="og:url" content="{{ current_page.url }}" />
   {% if 'twitterbot' in meta.tags %}
     <meta property="og:image" content="{{base_url}}/content/bots/twitterbots/images/{{meta.title | replace({'@': ''}) }}.png">
     <meta property="twitter:image:src" content="{{base_url}}/content/bots/twitterbots/images/{{meta.title | replace({'@': ''}) }}.png">
