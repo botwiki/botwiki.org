@@ -45,65 +45,7 @@
 
   {% for page in pagestags %}
     {% if page.date %}
-    <div class="search-item clearfix">
-      {% if 'twitterbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
-          </a>
-        </div>
-      {% elseif 'slackbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
-          </a>
-        </div>
-      {% elseif 'youtubebot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-          </a>
-        </div>
-      {% elseif 'tumblrbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/tumblr-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-          </a>
-        </div>
-      {% elseif 'snapchatbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/snapchat-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-          </a>
-        </div>
-      {% elseif 'kikbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/kik-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-          </a>
-        </div>
-      {% elseif 'redditbot' in page.tags %}
-        <div class="search-thumbnail">
-          <a href="{{ page.url }}">
-            <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'/u/': '', '/r/': ''}) }}.png">
-          </a>
-        </div>
-      {% endif %}
-      <div class="search-text-after-image">
-        <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-        <p class="meta">{{ page.description }}
-        </p>
-        <p class="meta">
-          <span class="tags">
-            {% for tag in page.tags %}
-            <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-            {% endfor %}
-          </span>
-          <br/>
-          Last updated on {{ page.date }}
-        </p>
-      </div>
-    </div>
+      {% include 'includes/search_item.html' %}
     {% endif %}
   {% endfor %}
 {% endif %}
