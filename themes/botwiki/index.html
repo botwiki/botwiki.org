@@ -23,27 +23,27 @@
   {% endif %}
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.botwiki.org/" />
-  {% if 'twitterbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
-  {% elseif 'slackbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
-  {% elseif 'youtubebot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-  {% elseif 'tumblrbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/tumblr-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/tumblr-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-  {% elseif 'snapchatbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/snapchat-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/snapchat-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-  {% elseif 'kikbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/kik-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/kik-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-  {% elseif 'redditbot' in page.tags %}
-    <meta property="og:image" content="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'/u/': '', '/r/': ''}) }}.png">
-    <meta property="twitter:image:src" content="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'/u/': '', '/r/': ''}) }}.png">
+  {% if 'twitterbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/twitterbots/images/{{meta.title | replace({'@': ''}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/twitterbots/images/{{meta.title | replace({'@': ''}) }}.png">
+  {% elseif 'slackbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/slackbots/images/{{meta.title | replace({'@': ''}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/slackbots/images/{{meta.title | replace({'@': ''}) }}.png">
+  {% elseif 'youtubebot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/youtube-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/youtube-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+  {% elseif 'tumblrbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/tumblr-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/tumblr-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+  {% elseif 'snapchatbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/snapchat-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/snapchat-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+  {% elseif 'kikbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/kik-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/kik-bots/images/{{meta.title | replace({' ': '_'}) }}.png">
+  {% elseif 'redditbot' in meta.tags %}
+    <meta property="og:image" content="{{base_url}}/content/bots/redditbots/images/{{meta.title | replace({'/u/': '', '/r/': ''}) }}.png">
+    <meta property="twitter:image:src" content="{{base_url}}/content/bots/redditbots/images/{{meta.title | replace({'/u/': '', '/r/': ''}) }}.png">
   {% else %}
     <meta property="og:image" content="https://www.botwiki.org/content/images/botwiki-thumbnail-full.png" /> 
     <meta property="twitter:image:src" content="https://www.botwiki.org/content/images/botwiki-thumbnail-full.png" /> 
