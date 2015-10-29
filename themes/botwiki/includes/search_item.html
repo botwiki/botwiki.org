@@ -55,9 +55,15 @@
     <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
     <p class="excerpt">{{ page.description }}</p>
     <p class="meta">
-       {% if page.tags|length > 0 %}
-        {% for tag in page.tags|split(',') %}
-        <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+      {% if page.tags|length > 0 %}
+        {% if page.tags is iterable %}
+          {% set page_tags = page.tags %}
+        {% else %}
+          {% set page_tags = page.tags|split(',') %}
+        {% endif %}
+
+        {% for tag in page_tags %}
+          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
         {% endfor %}
       {% endif %}
     {% if page.date %}<br/>Last updated on {{ page.date }}</p>{% endif %}
