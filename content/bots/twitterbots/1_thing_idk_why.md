@@ -4,7 +4,7 @@ Description: "I designed this Twitter bot to explain one thing, I don't know why
 Author: Stefan Bohacek
 Date: September 20, 2015
 Tags: twitter,twitterbot,active,lyrics,tweetstorm,opensource,open source,node.js,nodejs,node,colewillsea
-
+Translations: es
 Nav: hidden
 Robots: index,follow
 */

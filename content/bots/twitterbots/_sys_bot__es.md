@@ -4,6 +4,7 @@ Description: Nombres potenciales de bandas tributo a LCD Soundsystem.
 Author: botsheeter.py
 Date: October 26, 2015
 Tags: twitter,twitterbot,active,python,rhyming,rhyme,band_names,open source,opensource,python,swizzard
+Language: es
 Nav: hidden
 Robots: index,follow
 */
