@@ -1,5 +1,5 @@
 /*
-Title: @_sys_bot_
+Title: @_sys_bot_ (es)
 Description: Nombres potenciales de bandas tributo a LCD Soundsystem.
 Author: botsheeter.py
 Date: 29 de Octubre, 2015
