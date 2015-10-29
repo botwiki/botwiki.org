@@ -1,9 +1,9 @@
 /*
 Title: @11_11_bot (es)
 Description: Memento mori.
-Author: botsheeter.py
+Author: hectorpalmatellez
 Language: es
-Date: October 24, 2015
+Date: 29 de Octubre, 2015
 Tags: twitter,twitterbot,active,death,reminder,swayandsea
 Nav: hidden
 Robots: index,follow
