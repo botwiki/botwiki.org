@@ -1,6 +1,7 @@
 /*
 Title: @1_thing_idk_why
 Description: "Diseñé este bot de Twitter para explicar una cosa... I don't know why, it didn't even matter how hard I tried"
+Language: es
 Author: Stefan Bohacek
 Date: September 20, 2015
 Tags: twitter,twitterbot,active,lyrics,tweetstorm,opensource,open source,node.js,nodejs,node,colewillsea

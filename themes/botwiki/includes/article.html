@@ -1,17 +1,39 @@
 <article>
+  <div class="meta">
+    {% if meta.tags is not empty %}
+      <p class="last-updated">
+        {% if meta.language == 'es'%}
+          Actualizado por última vez:
+        {% else %}
+          Last updated:
+        {% endif %}
+
+        {{ meta.date }}
+
+        {% if meta.translations is not empty %}
+        , also available in: 
+            {% for language in meta.translations|split(',') %}
+              <a href="{{ current_page.url }}{{_language}}">{{ language }}</a>
+            {% endfor %}
+
+        {% endif %}
+      </p>
+    {% endif %}
   <h2>{{ meta.title }}</h2>
   {{ content }}
   <div class="meta">
-    {% if meta.tags is not empty %}
-      <p class="last-updated">Last updated: {{ meta.date }}</p>
-    {% endif %}
-  
     {% if meta.tags is not empty %}
       {% if 
         'active' in meta.tags or
         'inactive' in meta.tags
       %}
-        <p class="tags">Browse more bots like this:
+        <p class="tags">
+          {% if meta.language == 'es'%}
+            Otros bots como este:
+          {% else %}
+            Browse more bots like this:
+          {% endif %}
+
       {% else %}
         <p class="tags">Tags:
       {% endif %}
