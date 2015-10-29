@@ -1,5 +1,5 @@
 /*
-Title: @11_11_bot
+Title: @11_11_bot (es)
 Description: Memento mori.
 Author: botsheeter.py
 Language: es
