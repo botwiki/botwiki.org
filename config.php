@@ -42,7 +42,8 @@ $config['content_dir'] = 'content/';    // Content directory
 $config['ptags_template'] = 'index';
 
 $config['custom_meta_values'] = array(
-  'nav' => 'Nav'
+  'nav' => 'Nav',
+  'language' => 'Language'
 );
 
 /*

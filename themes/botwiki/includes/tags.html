@@ -44,7 +44,7 @@
   </p>
 
   {% for page in pagestags %}
-    {% if page.date %}
+    {% if page.date and not page.language %}
       {% include 'includes/search_item.html' %}
     {% endif %}
   {% endfor %}

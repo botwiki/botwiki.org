@@ -40,6 +40,8 @@
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
 
   {% for page in search_results %}
-    {% include 'includes/search_item.html' %}
+    {% if not page.language %}
+      {% include 'includes/search_item.html' %}
+    {% endif %}
   {% endfor %}
 {% endif %}
