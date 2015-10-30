@@ -4,7 +4,7 @@ Description: I am a robot / that finds haiku on Twitter / made by accident
 Author: Stefan Bohacek
 Date: September 20, 2015
 Tags: twitter,twitterbot,active,retweet,haiku,poetry,eusonic
-
+Translations: es
 Nav: hidden
 Robots: index,follow
 */
