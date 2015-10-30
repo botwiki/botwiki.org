@@ -13,9 +13,14 @@
         {% if meta.translations is not empty %}
         , also available in: 
             {% for language in meta.translations|split(',') %}
-              <a href="{{ current_page.url }}_{{ language }}">{{ language }}</a>
+              <a href="{{ current_page.url }}_{{ language }}">
+                {% if language == 'es' %}
+                  Spanish
+                {% else %}
+                  {{ language }}
+                {% endif %}
+              </a>
             {% endfor %}
-
         {% endif %}
       </p>
     {% endif %}
