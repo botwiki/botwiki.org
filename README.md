@@ -8,6 +8,8 @@
 
 ***Note: If you want to join the official Botwiki.org and/or Botmakers.org team, [read this](https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md).***
 
+***Note: We're [looking for volunteer translators](https://github.com/botwiki/botwiki.org/blob/master/TRANSLATING-CONTENT.md)!
+ 
 ## About
 
 [Botwiki.org](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- _smart software agents that do fun or useful stuff_ -- for [Twitter](https://twitter.com/), [Slack](https://slack.com/), [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and other online networks.
