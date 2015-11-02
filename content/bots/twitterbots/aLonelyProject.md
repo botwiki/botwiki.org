@@ -1,6 +1,6 @@
 /*
 Title: @aLonelyProject
-Description: "Generating cards for a mysterious card game."
+Description: The Lonely Project reaches out to people who feel lonely on Twitter.
 Author: Stefan Bohacek
 Date: August 5, 2015
 Tags: twitter,twitterbot,active,phillylauren
