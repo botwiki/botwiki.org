@@ -4,6 +4,7 @@ Description: "Generating cards for a mysterious card game."
 Author: Stefan Bohacek
 Date: August 5, 2015
 Tags: twitter,twitterbot,active,phillylauren
+Translations: es
 
 Nav: hidden
 Robots: index,follow

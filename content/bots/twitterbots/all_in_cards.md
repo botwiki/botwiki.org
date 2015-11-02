@@ -4,6 +4,7 @@ Description: "Generating cards for a mysterious card game."
 Author: Stefan Bohacek
 Date: July 26, 2015
 Tags: twitter,twitterbot,active,images,ckolderup
+Translations: es
 
 Nav: hidden
 Robots: index,follow
