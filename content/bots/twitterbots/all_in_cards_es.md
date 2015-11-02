@@ -1,5 +1,5 @@
 /*
-Title: @all_in_cards
+Title: @all_in_cards (es)
 Description: "Generación de cartas para un misterioso juego."
 Author: hectorpalmatellez
 Language: es

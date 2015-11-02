@@ -1,5 +1,5 @@
 /*
-Title: @aLonelyProject
+Title: @aLonelyProject (es)
 Description: "Recopilación de tweets de soledad en Twitter."
 Author: hectorpalmatellez
 Date: 2 de Noviembre, 2015
