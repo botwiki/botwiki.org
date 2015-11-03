@@ -4,7 +4,7 @@ Description: TODO: DESCRIPTION
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
-Tags: botmaker,cheapbotsdonequick,george
+Tags: botmaker,cheapbotsdonequick,v21
 */
 
 ![](/content/botmakers/images/george.jpeg)
@@ -79,7 +79,8 @@ George found time in his busy schedule while traveling to speak with me for the 
  
 **Stefan:** Ha, this reminds me of that one web comic comparing the way of live in the past and now.
 
-![](http://digitizor.com/wp-content/uploads/2011/06/past-rage-comic-full.jpg)
+![](/content/botmakers/images/past-rage-comic-full.jpg)
+
  
 **George:** I mean, sure. The other viewpoint is the sense of wonder I felt as a kid as computers got more capable. It was like... everything I need, I can do with this one thing. And all the things that fit between, it can do those too. Now, it's like that, except...it's your phone? It's a thing you can carry with you everywhere you go? The moment of wonder when I could download a song off Napster in less time than it took to play... or when I got maps working on my nokia, and could see where I was in realtime as I took the bus (and so saw I was at my stop without having to look out the window)
  
