@@ -1,6 +1,6 @@
 /*
 Title: @DearAssistant
-Description: Solve the riddle!
+Description: I'll try to answer your questions just like Siri, Google Now or Cortana.
 Author: Stefan Bohacek
 Date: July 21, 2015
 Tags: twitter,twitterbot,active,useful,labnol
