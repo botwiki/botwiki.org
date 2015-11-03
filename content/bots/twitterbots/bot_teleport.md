@@ -2,8 +2,8 @@
 Title: @bot_teleport
 Description: I'm a text bot who teleports you to magical, inspiring places.
 Author: botsheeter.py
-Date: October 15, 2015
-Tags: twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,tinyworlds
+Date: October 31, 2015
+Tags: twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,open source,opensource,cheapbotsdonequick,tinyworlds
 Nav: hidden
 Robots: index,follow
 */
@@ -13,4 +13,4 @@ Robots: index,follow
 >
 > -- George Buckenham
 
-[@bot_teleport](https://twitter.com/bot_teleport) is a Twitter bot created by [Rick Hoppmann](https://twitter.com/tinyworlds). It's a "fish with a tophat transporting you to magical, inspiring places".
+[@bot_teleport](https://twitter.com/bot_teleport) is an [open source](https://github.com/tinyworlds/bot_teleport) Twitter bot created by [Rick Hoppmann](https://twitter.com/tinyworlds) using [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). It's a "fish with a tophat transporting you to magical, inspiring places".

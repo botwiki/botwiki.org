@@ -32,6 +32,10 @@ We are planning to add more features and open source the code to make it availab
 
 If you'd like to help out with the development, join us at [Botmakers.org](https://botmakers.org/).
 
+### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
+
+Please see the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details.
+
 # [¶](#contact){.pilcrow} Contact {#contact}
 
 If you'd like to get in touch, feel free to email [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) or reach to him [on Twitter](https://twitter.com/fourtonfish).

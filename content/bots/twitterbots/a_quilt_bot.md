@@ -4,6 +4,7 @@ Description: A quilt bot.
 Author: botsheeter.py
 Date: October 16, 2015
 Tags: twitter,twitterbot,images,glitch,algorithm,bobpoekert
+Translations: es
 Nav: hidden
 Robots: index,follow
 */
