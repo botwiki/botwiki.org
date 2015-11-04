@@ -25,3 +25,7 @@ We are also going to be listening to ideas and feedback on how to make the Month
 We're looking forward to seeing what people will make!
 
 
+**PS:** As mentioned above, this is more of a "test run" to see if there is an interest for this kind of an event, to work out some technical details, and so on.
+
+
+Also, we plan on having more challenging themes; right now it's just "space", but we want to go way beyond simple "keywords". Think using specific [data sets](/resources/public-datasets/), finding ways to make bots useful for, say, [disabled people](https://botwiki.org/bots/twitterbots/alt_text_bot), etc. An *actual* challenge.
