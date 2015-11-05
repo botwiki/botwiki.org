@@ -41,6 +41,19 @@ United Kingdom<br/>
 
 <hr/>
 
+### [¶](#poetry-artificial-intelligence-and-computational-creativity-uk-2015){.pilcrow} [Poetry, Artificial Intelligence and Computational Creativity](https://www.eventbrite.co.uk/e/poetry-artificial-intelligence-and-computational-creativity-tickets-18530643654) {#poetry-artificial-intelligence-and-computational-creativity-uk-2015}
+
+> Artificial poetry generators and real-life poets go head to head to answer the question, What is creativity? Featuring performances, discussions, and a live interactive experiment in which the audience work with electronic poetry generators and their organic counterparts, to create new, cyborg poetry. The event will also include live telephonic performances from poets in Bangladesh curated by Pangaea Poets, and will be live blogged by the Ladies of the Press.
+
+_November 14th, from 12:00 to 17:00 (GMT)_
+
+[The Octagon, Queen Mary University of London](https://www.google.com/maps/dir/Current+Location/The+Octagon+Queen+Mary+University+of+London+Mile+End+Road+E1+4NS+London+United+Kingdom)<br/>
+Mile End Road <br/>
+E1 4NS London<br/>
+United Kingdom
+
+<hr/>
+
 ### [¶](#bot-summit-2016){.pilcrow} [Bot Summit 2016](http://tinysubversions.com/botsummit/2016/) {#bot-summit-2016}
 
 _April 9th, 2016_
