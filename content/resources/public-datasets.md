@@ -17,7 +17,7 @@ Nav: hidden
 - [Enigma](http://enigma.io/) -- "Explore the world's public data"
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [r/datasets](https://www.reddit.com/r/datasets/)
-
+- [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
 
 ### [¶](#datasets-language){.pilcrow} General language, news, reviews, forum data, metadata {#datasets-language}
 
