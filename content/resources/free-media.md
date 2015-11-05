@@ -19,6 +19,7 @@ Nav: hidden
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) -- "more than 8,400 high-resolution photographs taken by Apollo astronauts during trips to the moon"
 - [Political Posters, Labadie Collection, University of Michigan](http://quod.lib.umich.edu/l/lbc2ic?cc=lbc2ic;page=index;c=lbc2ic) -- 2,200 radical political posters
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) -- 7,584 watercolor paintings, lithographs and line drawings, including 3,807 images of apples
+- [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- see the DATASETS tab for maps, posters, and more
 
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
