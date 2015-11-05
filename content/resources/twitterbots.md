@@ -31,6 +31,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 ### [¶](#python-sdk){.pilcrow} SDKs/API wrappers  {#python-sdk}
 
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot) -- a Python framework for creating interactive Twitter bots
+- [hmason/botomatic](https://github.com/hmason/botomatic) -- easily create twitter bots in Python
+- [swizzard/botmaster](https://github.com/swizzard/botmaster) -- making Twitter bots easier
 
 ### [¶](#python-language){.pilcrow} Language {#python-language}
 
