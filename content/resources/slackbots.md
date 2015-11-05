@@ -14,6 +14,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
 - [slackhq/python-slackclient](https://github.com/slackhq/python-slackclient) -- official Slack client for Python
+- [mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api) -- "node.js library for easy operation with Slack API"
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
 
