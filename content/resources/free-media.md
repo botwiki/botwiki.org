@@ -18,6 +18,8 @@ Nav: hidden
 - [New York Public Library Public Domain Images](http://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&keywords=&filters[rights][]=pd) -- exactly what it says :-)
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) -- "more than 8,400 high-resolution photographs taken by Apollo astronauts during trips to the moon"
 - [Political Posters, Labadie Collection, University of Michigan](http://quod.lib.umich.edu/l/lbc2ic?cc=lbc2ic;page=index;c=lbc2ic) -- 2,200 radical political posters
+- [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) -- 7,584 watercolor paintings, lithographs and line drawings, including 3,807 images of apples
+
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
