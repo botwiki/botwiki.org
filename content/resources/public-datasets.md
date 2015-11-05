@@ -32,7 +32,8 @@ Nav: hidden
 - [Full Reddit submission corpus (2006 - August 2015)](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/)
 - [corpusmusic/liederCorpusAnalysis](https://github.com/corpusmusic/liederCorpusAnalysis) -- a collection of IPA (International Phonetic Alphabet) transcriptions of German poems from prominent 19th-c. art songs
 - [shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) (Useful for filtering language)
-
+- [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
+- [Full Hacker News dataset (now available on BigQuery)](https://news.ycombinator.com/item?id=10440502)
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data

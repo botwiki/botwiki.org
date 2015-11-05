@@ -46,10 +46,14 @@ For libraries and frameworks for specific networks check out their corresponding
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
 - [Python script to filter possibly offensive text](https://github.com/molly/CyberPrefixer/blob/master/offensive.py) -- the source code for Molly's [@cyberprefixer](https://twitter.com/cyberprefixer) contains a script
 - [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Python module that lets you filter (bad) words (available also for node.js and Ruby)
+- [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
+- [nathanielksmith/prosaic](https://github.com/nathanielksmith/prosaic) -- cut-up poetry generation over large corpora
+- [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
 
 #### [¶](#python-other){.pilcrow} Other {#python-other}
 
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
+- [hugovk/whatsonthemenu](https://github.com/hugovk/whatsonthemenu) -- Python interface to [NYPL's What's on The Menu API](https://github.com/NYPL/menus-api)
 
 
 ### [¶](#ruby){.pilcrow} Ruby {#ruby}
