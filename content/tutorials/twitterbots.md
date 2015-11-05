@@ -23,6 +23,8 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 - [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
 - [Five Steps To Build Your Own Random Non-Sequitur Twitter Bot](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions?_escaped_fragment_=) -- with Python and [Heroku](https://www.heroku.com/)
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
+- [How to Code a Simple Twitter Bot for Complete Beginners](https://medium.com/@sarahnadia/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d)
+
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
