@@ -6,7 +6,9 @@ Author: Stefan Bohacek
 Weight: 4
 */
 
-Below is a selection of blogs centered around botmaking and bot-related topics. Further below is a few hand-picked blog posts. Enjoy!
+Below is a [selection of blogs](#blogs) centered around botmaking and bot-related topics. Further below is [a few hand-picked blog posts](#selected-articles). And right after that, [videos](#videos) of talks that should be of interest to botmakers and bot enthusiasts as well.
+
+Enjoy!
 
 ***PS: Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
 
@@ -38,5 +40,10 @@ Below is a selection of blogs centered around botmaking and bot-related topics. 
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
 - November 14, 2013 -- [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots)
 - June 8, 2013 -- [Genre: Bot](http://iloveepoetry.com/?p=5427): reviews of various Twitter bots on [iloveepoetry.com](http://iloveepoetry.com/?p=5427)
+
+### [¶](#videos){.pilcrow} Videos {#videos}
+
+- [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"
+
 
 Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for real-time updates.
