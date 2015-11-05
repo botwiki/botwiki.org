@@ -44,6 +44,8 @@ Enjoy!
 ### [¶](#videos){.pilcrow} Videos {#videos}
 
 - [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"
+- Video of a [session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder] and [@naveen](https://twitter.com/naveen).
+
 
 
 Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for real-time updates.
