@@ -38,6 +38,7 @@ Nav: hidden
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
 - [openNASA](https://open.nasa.gov/) -- 30k+ data sets from NASA
+- [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue) -- a database of all discovered extra-solar planets
 - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- 
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 
