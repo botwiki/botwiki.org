@@ -49,6 +49,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
 - [nathanielksmith/prosaic](https://github.com/nathanielksmith/prosaic) -- cut-up poetry generation over large corpora
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
+- [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- recurrent neural network for generating little stories about images
 
 #### [¶](#python-other){.pilcrow} Other {#python-other}
 
