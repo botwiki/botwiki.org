@@ -44,7 +44,7 @@ There is a small, loosely connected community of Twitter botmakers exchanging up
 
 The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
-[Darius Kazemi](https://twitter.com/tinysubversions) organizes the [Bot Summit events](/events/) dedicated to this community.
+[Darius Kazemi](https://twitter.com/tinysubversions) organizes the [Bot Summit events](/events/).
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 
