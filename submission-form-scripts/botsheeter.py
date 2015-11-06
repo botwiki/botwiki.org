@@ -79,7 +79,7 @@ def bot_category(bot):
         return "kik-bots"
     elif bot['network'] == 'Snapchat':
         return "snapchat-bots"
-    return None
+    return "other"
 
 
 def bot_network(bot):
@@ -100,7 +100,7 @@ def bot_network(bot):
         return "Kik"
     elif bot['network'] == 'Snapchat':
         return "Snapchat"
-    return None
+    return "other"
 
 
 def dedupe(seq):
