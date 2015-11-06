@@ -48,6 +48,13 @@
       </a>
     </div>
     <div class="search-text-after-image">
+  {% elseif 'trellobot' in page.tags %}
+    <div class="search-thumbnail">
+      <a href="{{ page.url }}">
+        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/trello-bots/images/{{page.title | replace({'@': '', ' ': '_'}) }}.png">
+      </a>
+    </div>
+    <div class="search-text-after-image">
   {% else %}
   <div class="search-text-full">      
   {% endif %}
