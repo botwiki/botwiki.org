@@ -42,7 +42,7 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/) -- tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
 - [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
 - [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) by [Zach Whalen](http://www.twitter.com/zachwhalen)
-
+- [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots) -- a tutorial in [Jupyter Notebooks](http://jupyter.org/) 
 
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
