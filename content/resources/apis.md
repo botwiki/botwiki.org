@@ -25,6 +25,7 @@ Nav: hidden
   - integration with processing, processingjs, and nodejs
   - integrates with WordNet dictionary
   - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
+- [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) -- historic newspapers and select digitized newspaper pages
 
 ### [¶](#face-and-object-recognition){.pilcrow} Face and object recognition {#face-and-object-recognition}
 - [OpenFace API](http://openfaceapi.com/)
