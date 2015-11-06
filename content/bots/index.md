@@ -5,6 +5,9 @@ Description: Little virtual robots.
 Weight: 1
 */
 
+***Note: Jump straight to browsing bots [by categories](#browse-bots-by-categories) or [by the network](#browse-bots-by-network) on which they operate.***
+
+
 So what exactly is a "bot"? Well, it really depends on who you ask.
 
 > An Internet bot, also known as web robot, WWW robot or simply bot, is a software application that runs automated tasks over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
@@ -48,6 +51,7 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
+- [Trello bots](/bots/trello-bots)
 - [Tumblr bots](/bots/tumblr-bots)
 - [YouTube bots](/bots/youtube-bots)
 - [Reddit bots](/bots/redditbots)

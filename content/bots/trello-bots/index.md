@@ -11,5 +11,5 @@ Nav: hidden
 Bots for [Trello](https://www.trello.com/), *"a web-based project management application"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Trello).
 
 
-Browse [Trello bots](/tag/trellobot) or [return to the **Bots** page](/bots).
+Browse [all Trello bots](/tag/trellobot) or [return to the **Bots** page](/bots).
 
