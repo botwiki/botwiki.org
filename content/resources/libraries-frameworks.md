@@ -50,6 +50,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [nathanielksmith/prosaic](https://github.com/nathanielksmith/prosaic) -- cut-up poetry generation over large corpora
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- recurrent neural network for generating little stories about images
+- [hugovk/chroniclingamerica.py](https://github.com/hugovk/chroniclingamerica.py) -- a Python wrapper for the [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) API
 
 #### [¶](#python-other){.pilcrow} Other {#python-other}
 
