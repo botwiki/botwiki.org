@@ -48,5 +48,6 @@ Nav: hidden
 - [Flickr API](https://www.flickr.com/services/api/)
 - [Capitol Words API](http://capitolwords.org/api/1/) -- [Capitol Words](http://capitolwords.org/) -- visualizes the most frequently used words in the Congressional Record
 - [Poetry DB](http://poetrydb.org/index.html) -- API for *next generation internet poets*
+- [Sunlight Congress API](https://sunlightlabs.github.io/congress/) -- live JSON API for the people and work of US Congress
 
 [Back to all resources.](/resources)
