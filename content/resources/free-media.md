@@ -33,4 +33,9 @@ These are not always downloadable, but you can at least freely link to them.
 - [coverr.co](http://www.coverr.co/) -- more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/) -- archive of wildlife sounds and videos
 
+
+### [¶](#general-lists){.pilcrow} General websites and lists {#general-lists}
+
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) -- a curated list of stock photography, video and illustration websites
+
 [Back to all resources.](/resources)
