@@ -34,6 +34,6 @@ Lastly, we'd love you to join fellow [#botmakers](https://twitter.com/search?q=%
 - [Gratipay](https://gratipay.com/botwiki-org/)
 - [Patreon](https://www.patreon.com/fourtonfish)
 - [PayPal](https://www.paypal.me/stefanbohacek) (please include *"Botwiki donation"* in your note)
-- [Bitcoin](bitcoin:1FmqUDejT1hC4mTzwLhfpUyxxaui4BSHDP?amount=0.02&label=Botwiki)
+- [Bitcoin](bitcoin:15ncoocSHNVsvebH8JQnzeLuHTxzBNDoTa?amount=0.02&label=Botwiki)
 
 **Thank you!**
