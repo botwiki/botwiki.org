@@ -31,6 +31,8 @@ _November 7th – 15th_  -- online
 
 _November 7th, 13:00 to 19:00 (GMT)_ -- [PROCJAM Launch Day](http://www.eventbrite.co.uk/e/procjam-2015-kickoff-day-tickets-18723814433), London
 
+**Video of the 2015 PROCJAM talks is available [here](https://www.youtube.com/watch?v=s_eyo_m_hnc).**
+
 
 [Blackett Building, Imperial College](https://www.google.com/maps/dir/Current+Location/Blackett+Building,+Imperial+College+London,+South+Kensington+Campus,+London+SW7+2AZ,+United+Kingdom)<br/>
 Prince Consort Road<br/>
