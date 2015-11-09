@@ -1,6 +1,6 @@
 /*
 Title: George Buckenham
-Description: TODO: George makes games and tools for botmakers, gives talks, and "always liked broken games the best".
+Description: George makes games and tools for botmakers, gives talks, and "always liked broken games the best".
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
