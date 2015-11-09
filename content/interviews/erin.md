@@ -4,7 +4,7 @@ Description: Writer, founder of Wordnik and a former editor-in-chief of American
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
-Tags: botmaker,wordnik,emckean
+Tags: interview,wordnik,emckean
 */
 
 ![](/content/interviews/images/erin.jpeg)
