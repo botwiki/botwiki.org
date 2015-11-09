@@ -4,7 +4,7 @@ Description: The botmaker behind Botwiki.org and Botmakers.org. (Example page.)
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
-Tags: botmaker,example
+Tags: interview,example
 */
 
 ![](/content/interviews/images/hello-world.jpeg)

@@ -298,6 +298,15 @@ hr {
 center {
   padding: 2em 0;
 }
+.centered {
+  display: block;
+  margin: 0 auto;
+}
+img.centered {
+  display: block;
+  margin: 3em auto;
+  max-width: 100%;
+}
 .float-right {
   float: right;
 }

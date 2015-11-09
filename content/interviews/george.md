@@ -4,7 +4,7 @@ Description: TODO: DESCRIPTION
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
-Tags: botmaker,cheapbotsdonequick,v21
+Tags: interview,cheapbotsdonequick,v21
 */
 
 ![](/content/interviews/images/george.png)
@@ -79,8 +79,7 @@ George found time in his busy schedule while traveling to speak with me for the 
  
 **Stefan:** Ha, this reminds me of that one web comic comparing the way of live in the past and now.
 
-![](/content/botmakers/images/past-rage-comic-full.jpg)
-
+![](/content/interviews/images/past-rage-comic-full.jpg){.centered}
  
 **George:** I mean, sure. The other viewpoint is the sense of wonder I felt as a kid as computers got more capable. It was like... everything I need, I can do with this one thing. And all the things that fit between, it can do those too. Now, it's like that, except...it's your phone? It's a thing you can carry with you everywhere you go? The moment of wonder when I could download a song off Napster in less time than it took to play... or when I got maps working on my nokia, and could see where I was in realtime as I took the bus (and so saw I was at my stop without having to look out the window)
  
@@ -153,3 +152,8 @@ George found time in his busy schedule while traveling to speak with me for the 
 **Stefan:** And I've seen other bots that are about as simple and it just wouldn't do it for me. And I've seen bots that I know took work to create. But that's not always enough either.
 
 **George:** Yeah - like, I really like [@metaphormagnet](https://twitter.com/metaphormagnet), but that's just the CS grad in me. It doesn't use all that cleverness to as good an effect as it could do, if it was written better. But that's also fine - that's basically the role of academia, right? To break new ground, to find new techniques, to make that possible. then other people come along and actually use them in anger, ignore the interesting theoretical bits and just focus on making them effective.
+
+**Stefan:** Well, we've been at this for a while and I'm sure you have things attend to. It's been a real pleasure speaking with you!
+
+**Stefan:** Good luck at the GameCity festival!
+
