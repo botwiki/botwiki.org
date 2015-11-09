@@ -2,7 +2,7 @@
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
 Date: July 23, 2015
-Tags: web,scraping,scraper,language,nlp,machine learning,nodejs,python,block,offensive
+Tags: web,scraping,scraper,language,rhyme,rhyming,nlp,machine learning,nodejs,python,block,offensive
 Nav: hidden
 */
 
@@ -24,6 +24,8 @@ For libraries and frameworks for specific networks check out their corresponding
 - [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple node.js module that lets you filter (bad) words (available also for Python and Ruby)
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [jimkang/shakesnippet](https://github.com/jimkang/shakesnippet) -- provides a randomly chosen Shakespeare excerpt
+- [zeke/cmu-pronouncing-dictionary](https://github.com/zeke/cmu-pronouncing-dictionary) -- all the 134,000+ words in the [CMU pronouncing dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) as a simple JSON object
+- [zeke/rhymes](https://github.com/zeke/rhymes) -- "Give me an English word and I'll give you a list of rhymes." (uses zeke/cmu-pronouncing-dictionary)
 
 
 #### [¶](#nodejs-js-apis){.pilcrow} APIs {#nodejs-js-apis}
@@ -51,6 +53,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- recurrent neural network for generating little stories about images
 - [hugovk/chroniclingamerica.py](https://github.com/hugovk/chroniclingamerica.py) -- a Python wrapper for the [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) API
+- [aparrish/pronouncingpy](https://github.com/aparrish/pronouncingpy) -- a simple interface for the [CMU pronouncing dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict), useful for finding rhymes
 
 #### [¶](#python-other){.pilcrow} Other {#python-other}
 
