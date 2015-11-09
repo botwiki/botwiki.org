@@ -29,7 +29,7 @@ George found time in his busy schedule while traveling to speak with me for the 
 
 **George:** Haha, sure.
 
-**Stefan:** So I was wondering: what does your username on Twitter mean, *v21*?
+**Stefan:** So I was wondering: what does your username on Twitter mean, [@v21](https://twitter.com/v21)?
 
 **George:** Ah! So... nothing? I've had it for a long time though, I use it everywhere, and probably identify with it more than I do my real name? I think I was doodling in school and ended up writing it a bunch? Spent years in school rewriting it and designing it like a logo.
 
