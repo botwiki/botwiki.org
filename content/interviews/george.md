@@ -19,9 +19,9 @@ George found time in his busy schedule while traveling to speak with me for the 
  
 **Stefan:** Right, is that the reason for your upcoming travel?
 
-**George:** Yeah! and then next week off to Zoo Machines, a french festival for digital/physical videogames
+**George:** Yeah! And then next week off to Zoo Machines, a french festival for digital/physical videogames
  
-**Stefan:** Nice, well I hope you'll have a great time! What game are you going to be showing?
+**Stefan:** Nice, well, I hope you'll have a great time! What game are you going to be showing?
 
 **George:** [Fabulous Beasts](http://playfabulousbeasts.com/).
  
