@@ -3,7 +3,7 @@ Title: @menubot
 Description: Welcome to 1869! Why not enjoy some Glaces variées at A Stockholm Restaurant?
 Author: botsheeter.py
 Date: November 07, 2015
-Tags: twitter,twitterbot,active,food,menu,nypl,images,archive,open source,opensource,python,hugovk
+Tags: twitter,twitterbot,tumblr,tumblrbot,active,food,menu,nypl,images,archive,open source,opensource,python,hugovk
 Nav: hidden
 Robots: index,follow
 */
