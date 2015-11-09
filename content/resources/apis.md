@@ -26,6 +26,7 @@ Nav: hidden
   - integrates with WordNet dictionary
   - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
 - [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) -- historic newspapers and select digitized newspaper pages
+- [RhymeBrain.com -- Rhyming and Word Information API](http://rhymebrain.com/api.html)
 
 ### [¶](#face-and-object-recognition){.pilcrow} Face and object recognition {#face-and-object-recognition}
 - [OpenFace API](http://openfaceapi.com/)
