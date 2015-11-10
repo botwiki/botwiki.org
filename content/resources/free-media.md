@@ -9,6 +9,7 @@ Nav: hidden
 ![ART!](/content/images/illustrations/studio-work.png){.float-right}
 
 ### [¶](#free-images){.pilcrow} Free images {#free-images}
+
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) -- a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/) -- illustrations from old books; this very site uses it extensively!
 - [Flickr](https://www.flickr.com/search/?q=&l=commderiv&ct=0&mt=all&adv=1) -- CC-licensed content for commercial use on Flickr
@@ -20,6 +21,7 @@ Nav: hidden
 - [Political Posters, Labadie Collection, University of Michigan](http://quod.lib.umich.edu/l/lbc2ic?cc=lbc2ic;page=index;c=lbc2ic) -- 2,200 radical political posters
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) -- 7,584 watercolor paintings, lithographs and line drawings, including 3,807 images of apples
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- see the DATASETS tab for maps, posters, and more
+- [French Revolution Digital Archive](http://frda.stanford.edu/) -- 14,000 images of the French Revolution
 
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
