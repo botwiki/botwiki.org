@@ -22,7 +22,8 @@ Nav: hidden
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) -- 7,584 watercolor paintings, lithographs and line drawings, including 3,807 images of apples
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- see the DATASETS tab for maps, posters, and more
 - [French Revolution Digital Archive](http://frda.stanford.edu/) -- 14,000 images of the French Revolution
-
+- [National Gallery of Art Images](https://images.nga.gov/?service=category&action=show_content_page&language=en&category=16) -- 35,000 works of art from the National Gallery, including masterpieces by Van Gogh, Gauguin, Rembrandt, and more
+- [The Morgan Library & Museum: Rembrandt Prints](http://www.themorgan.org/rembrandt)
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
