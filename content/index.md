@@ -24,11 +24,6 @@ We have an online group for [#botmakers](https://twitter.com/search?q=%23botmake
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
-**PS:** If you'd like to **support this project**, you can do so here:
-
-- [Gratipay](https://gratipay.com/botwiki-org/)
-- [Patreon](https://www.patreon.com/fourtonfish)
-- [PayPal](https://www.paypal.me/stefanbohacek) (please include *"Botwiki donation"* in your note)
-- [Bitcoin](bitcoin:15ncoocSHNVsvebH8JQnzeLuHTxzBNDoTa?amount=0.02&label=Botwiki)
+**PS:** If you'd like to **support this project**, you can do so on [Gratipay](https://gratipay.com/botwiki-org/), [Patreon](https://www.patreon.com/fourtonfish), [PayPal](https://www.paypal.me/stefanbohacek) (please include *"Botwiki donation"* in your note) or with [Bitcoin](bitcoin:15ncoocSHNVsvebH8JQnzeLuHTxzBNDoTa?amount=0.02&label=Botwiki).
 
 **Thank you!**
