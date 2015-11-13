@@ -38,4 +38,4 @@ Please see the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details
 
 # [¶](#contact){.pilcrow} Contact {#contact}
 
-If you'd like to get in touch, feel free to email [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) or reach to him [on Twitter](https://twitter.com/fourtonfish).
+If you'd like to get in touch, feel free to email [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) or reach out to him [on Twitter](https://twitter.com/fourtonfish).
