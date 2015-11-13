@@ -28,6 +28,7 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
+- A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
 - A three-part in-depth tutorial by [@ursooperduper](https://twitter.com/ursooperduper)
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
