@@ -25,6 +25,8 @@
     {% include 'includes/game-bots.html' %}
   {% elseif current_tags == ['gif'] %}
     <p>You can also explore the <a href="/tag/images">#images</a> tag.</p>
+  {% elseif current_tags == ['non-english'] %}
+    {% include 'includes/non-english.html' %}
   {% elseif current_tags == ['botmaker'] %}
     <h2>Botmaker Profiles</h2>
     <p><em>Botmaker Profiles</em> is a series of short interviews that introduce the members of the botmaking community as part of the <a href="http://botzine.org/">Botzine.org</a> newsletter that comes out every Monday. 
