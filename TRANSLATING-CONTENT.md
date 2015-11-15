@@ -5,7 +5,7 @@ We are now in phase one of translating the Botwiki.org content. During this phas
 For example translations, see
 
  - [@11_11_bot](https://botwiki.org/bots/twitterbots/11_11_bot)
- - [@_sys_bot_](https://botwiki.org/bots/twitterbots/_sys_bot_)
+ - [@\_sys_bot\_](https://botwiki.org/bots/twitterbots/_sys_bot_)
  - [@a_quilt_bot](https://botwiki.org/bots/twitterbots/a_quilt_bot)
 
 (Look for the *"also available in"* link.)
