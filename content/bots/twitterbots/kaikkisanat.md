@@ -3,7 +3,7 @@ Title: @kaikkisanat
 Description: A bot to tweet every Finnish word.
 Author: Stefan Bohacek
 Date: September 28, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,language,finnish,non-english,nonenglish,finland,everyword,hugovk
+Tags: twitter,twitterbot,active,opensource,open source,python,language,finnish,non-english,finland,everyword,hugovk
 
 Nav: hidden
 Robots: index,follow

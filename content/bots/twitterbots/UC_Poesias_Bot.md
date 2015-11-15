@@ -3,7 +3,7 @@ Title: @UC_Poesias_Bot
 Description: Soy un bot que genera versos inspirados en la poesía de Ulises Carrión.
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,poetry,nonenglish,literature,books,elikaortega
+Tags: twitter,twitterbot,active,poetry,non-english,spanish,literature,books,elikaortega
 Nav: hidden
 Robots: index,follow
 */

@@ -23,6 +23,10 @@
   <p class="search-instructions"><strong>Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</strong></p> 
 {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
   <p class="search-instructions">Join the <a href="https://botmakers.org/">community of Botmakers</a>!</p>
+{% elseif search_term_lower == 'nonenglish' %}
+  {% include 'includes/non-english.html' with {'include_tag_link': true} %}
+{% elseif search_term_lower == 'non-english' %}
+  {% include 'includes/non-english.html' %}
 {% elseif search_term_lower == 'game' %}
   {% include 'includes/game-bots.html' %}
 {% elseif search_term_lower == 'rap' %}
