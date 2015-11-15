@@ -3,7 +3,7 @@ Title: @DeuxTitres
 Description: Quand on prend deux titres et qu'on les mélange, c'est drôle.
 Author: Stefan Bohacek
 Date: September 28, 2015
-Tags: twitter,twitterbot,active,french,nonenglish,non-english,language,news,White_Fangs
+Tags: twitter,twitterbot,active,french,non-english,language,news,White_Fangs
 
 Nav: hidden
 Robots: index,follow

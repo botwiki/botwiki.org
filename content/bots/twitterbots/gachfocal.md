@@ -3,7 +3,7 @@ Title: @gachfocal
 Description: Gach focal i nGaeilge.
 Author: Stefan Bohacek
 Date: September 28, 2015
-Tags: twitter,twitterbot,active,language,irish,non-english,nonenglish,ireland,everyword,inky
+Tags: twitter,twitterbot,active,language,irish,non-english,ireland,everyword,inky
 
 Nav: hidden
 Robots: index,follow

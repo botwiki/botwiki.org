@@ -3,7 +3,7 @@ Title: @BILD_Komposita
 Description: Wörter, die so oder ähnlich wahrscheinlich vor kurzem in der BILD-Zeitung standen.
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,news,headlines,nonenglish,open source,opensource,python,ojahnn
+Tags: twitter,twitterbot,active,news,headlines,non-english,open source,opensource,python,ojahnn
 Nav: hidden
 Robots: index,follow
 */

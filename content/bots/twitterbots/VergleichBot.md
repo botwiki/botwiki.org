@@ -3,7 +3,7 @@ Title: @VergleichBot
 Description: Ich stelle nach undurchsichtigen Kriterien Dinge anderen Dingen gegenüber.
 Author: Stefan Bohacek
 Date: September 29, 2015
-Tags: twitter,twitterbot,active,german,nonenglish,non-english,language,open source,opensource,python,ojahnn
+Tags: twitter,twitterbot,active,german,non-english,language,open source,opensource,python,ojahnn
 
 Nav: hidden
 Robots: index,follow
