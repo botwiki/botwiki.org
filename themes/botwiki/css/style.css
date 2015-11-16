@@ -187,6 +187,9 @@ h6 {
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
+h2 {
+  margin-bottom: 1.2em;
+}
 a.pilcrow,
 a.pilcrow:visited {
   color: #bfc6c8;
