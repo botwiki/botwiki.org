@@ -10,6 +10,7 @@ Nav: hidden
 
 Bots for [Slack](https://slack.com/), an online team collaboration tool. Some examples include:
 
+- [slack-pokemon](/bots/slackbots/slack-pokemon) -- a bot that lets you catch Pokemon
 - [slack-poker-bot](slackbots/slack-poker-bot) -- turns Slack into a legitimate Texas Hold'em client
 - [@large](slackbots/large) -- on-demand ice cream for your team
 - [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
