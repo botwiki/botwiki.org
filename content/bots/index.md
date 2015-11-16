@@ -51,9 +51,9 @@ Oh and if you want to add your bot, check out [this form](https://botwiki.org/su
 
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
-- [Trello bots](/bots/trello-bots)
 - [Tumblr bots](/bots/tumblr-bots)
 - [YouTube bots](/bots/youtube-bots)
 - [Reddit bots](/bots/redditbots)
 - [Snapchat bots](/tag/snapchatbot)
 - [Kik bots](/tag/kikbot)
+- [Trello bots](/bots/trello-bots)
