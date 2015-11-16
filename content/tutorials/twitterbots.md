@@ -4,7 +4,6 @@ Description: Learn how to make your own Twitter bot!
 Nav: hidden
 */
 
-![Tweet, tweet](/content/images/illustrations/brambling-greenfinch.jpg){.float-right}
 
 > Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
 

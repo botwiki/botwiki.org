@@ -4,11 +4,17 @@ Description: Bots for Slack.com.
 Nav: hidden
 */
 
-![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/deep-sea-diver-768.jpg){.float-right}
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
 
-Bots for [Slack](https://slack.com/), an online team collaboration tool. Some examples include:
+[Slack](https://slack.com/) is a popular online team collaboration tool that [fully embraces bots](http://www.theguardian.com/technology/2015/sep/03/slack-killing-email-chatbots-ai) and has a [great API](https://api.slack.com/bot-users) and [tons of libraries](https://api.slack.com/community).
+
+<p class="screenshot float-right">
+  <a href="/bots/slackbots/slack-poker-bot">
+    <img src="/content/bots/slackbots/images/slack-poker-bot.png">
+  </a>
+</p>
+
+Some example bots include:
 
 - [slack-pokemon](/bots/slackbots/slack-pokemon) -- a bot that lets you catch Pokemon
 - [slack-poker-bot](slackbots/slack-poker-bot) -- turns Slack into a legitimate Texas Hold'em client
@@ -16,6 +22,8 @@ Bots for [Slack](https://slack.com/), an online team collaboration tool. Some ex
 - [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
 - [shoulda-coulda](slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
 
-Browse [more Slack bots](/tag/slackbot), learn [how to make one](/tutorials/slackbots), or [return to the **Bots** page](/bots).
+Browse [more Slack bots](/tag/slackbot), learn how to make them with [tutorials](/tutorials/slackbots) and other botmakers at [botmakers.org](https://botmakers.org/).
 
-There is also a [Slack community](http://dev4slack.xoxco.com/) for Slack developers where also the actual Slack engineers hang out.
+For even more bots check out [slackstack.io](http://slackstack.io/resources/slackbots/) and [slackbotlist.com](http://www.slackbotlist.com/). There is also a community of Slack developers at [dev4slack.xoxco.com](http://dev4slack.xoxco.com/).
+
+[Return to the **Bots** page](/bots)

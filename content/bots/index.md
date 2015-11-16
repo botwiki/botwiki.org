@@ -36,7 +36,14 @@ Thanks for checking out **Botwiki**!
 
 Oh and if you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot) instead.
 
-![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/diving-gear.jpg){.float-right}
+
+
+
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/buoypix">
+    <img src="/content/bots/twitterbots/images/buoypix.png">
+  </a>
+</p>
 
 ### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
 

@@ -473,6 +473,14 @@ div#join-botmakers a {
   color: #fff;
   text-decoration: underline;
 }
+p.screenshot {
+  padding: 10px 25px;
+}
+@media only screen and (min-width: 800px) {
+  p.screenshot {
+    max-width: 45%;
+  }
+}
 .lazy-load,
 .lazy-loaded {
   -webkit-transition: all 0.3s;
