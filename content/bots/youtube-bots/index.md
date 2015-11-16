@@ -4,7 +4,12 @@ Description: Bots for youtube.com.
 Nav: hidden
 */
 
-![This is EXACTLY what YouTube is like.](/content/images/illustrations/battle-nile.jpg){.float-right}
+<p class="screenshot float-right">
+  <a href="/bots/youtube-bots/treasurecolumn">
+    <img src="/content/bots/youtube-bots/images/Treasure_Column.png">
+  </a>
+</p>
+
 
 ***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
 

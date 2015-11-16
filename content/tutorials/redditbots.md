@@ -4,9 +4,14 @@ Description: Learn how to make a bot for Reddit!
 Nav: hidden
 */
 
-![Hrmpf!](/content/images/illustrations/taste.jpg){.float-right}
 
 ***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+
+<p class="screenshot float-right">
+  <a href="/bots/redditbots/NobodyDoesThis">
+    <img src="/content/bots/redditbots/images/NobodyDoesThis.png">
+  </a>
+</p>
 
 - [Automatically-generated documentation for the reddit API](https://www.reddit.com/dev/api)
 

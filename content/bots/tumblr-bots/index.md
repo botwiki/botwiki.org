@@ -4,7 +4,11 @@ Description: Bots for tumblr.com.
 Nav: hidden
 */
 
-![Tumblring](/content/images/illustrations/man-love.jpg){.float-right}
+<p class="screenshot float-right">
+  <a href="/bots/tumblr-bots/deadspelunkers">
+    <img src="/content/bots/tumblr-bots/images/deadspelunkers.png">
+  </a>
+</p>
 
 ***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
 

@@ -5,11 +5,17 @@ Nav: hidden
 */
 
 
+
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
 
-![Tweet, tweet](/content/images/illustrations/brambling-greenfinch.jpg){.float-right}
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/TheRiddlerBot">
+    <img src="/content/bots/twitterbots/images/TheRiddlerBot.png">
+  </a>
+</p>
+
 
 - [@censusAmericans](twitterbots/censusAmericans) -- tweeting the census one real American at a time
 - [@congressedits](twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
@@ -22,9 +28,17 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [@holidaybot4000](twitterbots/holidaybot4000) -- holidays, every day
 - [@riverlevel_1867](twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
 
-![Tweet, tweet](/content/images/illustrations/white-throated-dipper.jpg){.float-right}
 
-### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse Twitter bots by category {#browse-twitter-bots-by-category}
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/FireworksBot">
+    <img src="/content/bots/twitterbots/images/FireworksBot.png">
+  </a>
+</p>
+
+
+### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse by category {#browse-twitter-bots-by-category}
+
+
 - [Game bots](/tag/twitterbot+game)
 - [Image bots](/tag/twitterbot+images)
 - [Non-English bots](/tag/non-english+twitterbot)

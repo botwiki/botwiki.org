@@ -4,7 +4,13 @@ Description: Bots for reddit.com.
 Nav: hidden
 */
 
-![Hrmpf!](/content/images/illustrations/taste.jpg){.float-right}
+
+<p class="screenshot float-right">
+  <a href="/bots/redditbots/NobodyDoesThis">
+    <img src="/content/bots/redditbots/images/NobodyDoesThis.png">
+  </a>
+</p>
+
 
 ***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
 
