@@ -3,7 +3,7 @@ Title: slack-pokemon
 Description: Gotta catch em all!
 Author: Stefan Bohacek
 Date: November 15, 2015
-Tags: slack,slackbot,active,game,pokemon,open source,opensource,ruby,RobertVinluan
+Tags: slack,slackbot,active,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
 Nav: hidden
 Robots: index,follow
 */
