@@ -24,6 +24,7 @@ Nav: hidden
 - [French Revolution Digital Archive](http://frda.stanford.edu/) -- 14,000 images of the French Revolution
 - [National Gallery of Art Images](https://images.nga.gov/?service=category&action=show_content_page&language=en&category=16) -- 35,000 works of art from the National Gallery, including masterpieces by Van Gogh, Gauguin, Rembrandt, and more
 - [The Morgan Library & Museum: Rembrandt Prints](http://www.themorgan.org/rembrandt)
+- [Unsplash](https://unsplash.com/) -- free high-resolution photos, also available via [Unsplash API](https://source.unsplash.com/) (also see [documentation](https://unsplash.com/documentation))
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
@@ -35,6 +36,10 @@ These are not always downloadable, but you can at least freely link to them.
 - [mazwai.com](http://mazwai.com/#/videos) -- a small collection of stock videos
 - [coverr.co](http://www.coverr.co/) -- more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/) -- archive of wildlife sounds and videos
+
+### [¶](#free-audio){.pilcrow} Free audio {#free-audio}
+
+- [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html) -- more than 85,000 individual episodes from nearly 2,000 series
 
 
 ### [¶](#general-lists){.pilcrow} General websites and lists {#general-lists}
