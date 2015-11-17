@@ -50,13 +50,12 @@ Feel free to browse the bots below -- [by categories](#browse-bots-by-category) 
 
 You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
 
+
 Thanks for checking out **Botwiki**!
 
 -- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
 
-
 PS: If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
-
 
 <p class="screenshot float-right">
   <a href="/bots/twitterbots/buoypix">
@@ -64,7 +63,8 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
   </a>
 </p>
 
-### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
+#### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
+
 
 - [Poetry bots](/tag/poetry)
 - [Image bots](/tag/images) ([GIF bots](/tag/gif))
@@ -73,7 +73,8 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
 
-### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
+#### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
+
 
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)

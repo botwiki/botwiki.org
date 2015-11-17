@@ -85,6 +85,19 @@
       </form>
     </div>    
   </header>
+    {% if breadcrumbs %}
+      <div class="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
+        {% for crumb in breadcrumbs %}
+          <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+            &nbsp;&gt;&nbsp; 
+            <a href="{{ crumb.url }}" itemprop="url"><span itemprop="title">{{ crumb.name }}</span></a>
+          </span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+
   <section id="content">
     <div class="inner">
       {% if meta.purpose == "search_results" %}
