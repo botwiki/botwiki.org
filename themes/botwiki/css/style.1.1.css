@@ -436,7 +436,7 @@ label.cursor-pointer {
 form#search-form {
   position: relative;
   top: 2em;
-  margin: 0 auto;
+  margin: 2em auto 0;
   width: 100%;
 }
 form#search-form input {
