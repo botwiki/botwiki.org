@@ -190,6 +190,7 @@ p {
 ol, ul {
   padding-left: 30px;
   margin-bottom: 1em;
+  margin-left: 1em;
 }
 
 b, strong {
@@ -281,6 +282,11 @@ img.centered{
   margin: 3em auto;
   max-width: 100%;
 }
+.float-right,
+.float-left{
+  max-width: 410px;
+}
+
 
 .float-right{
   float: right;
@@ -303,6 +309,16 @@ div.all-tags{
 
 div.all-tags a{
   padding: 0 0.2em;
+}
+
+div.breadcrumbs{
+  width: 80%;
+  max-width: 900px;
+  margin: 1em auto 1em;
+}
+
+div.breadcrumbs a{
+  color: #fff;
 }
 
 /* Structure Styles
@@ -475,7 +491,7 @@ div#join-botmakers a{
 }
 
 p.screenshot{
-  @media only screen and (min-width : 800px) {
+  @media only screen and (min-width : 910px) {
     max-width: 45%;
   }
   padding: 15px 35px;
@@ -495,6 +511,7 @@ p.screenshot img{
   transform: translate(0,-10px);
   opacity: 1;
 }
+
 
 @media only screen and (min-width : 800px) {
   div.search-thumbnail,
@@ -531,12 +548,17 @@ p.screenshot img{
 /*---------------------------------------------*/
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 860px) {
+@media only screen and (max-width : 912px) {
   .float-right,
   .float-left{
+    max-width: 100%;
     float: none;
     display: block;
     margin: 0 auto;
+  }
+
+  .float-right{
+    padding-left: 0;
   }
 
   img.main-banner{
