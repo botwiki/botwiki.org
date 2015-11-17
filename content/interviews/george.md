@@ -113,7 +113,7 @@ George found time in his busy schedule while traveling to speak with me for the 
 
 **Stefan:** Haha, well I think this is a really good story. Thanks!
  
-**Stefan:** I started [working on this series](/tutorials/botmaking-with-openshift/), that promises to take you from a non-coder bot enthusiast to a "pro botmaker". I reached out to you a few days ago on Twitter, asking whether QBDC is open source (which it is, which is great).
+**Stefan:** I started [working on this series](/tutorials/botmaking-with-openshift/), that promises to take you from a non-coder bot enthusiast to a "pro botmaker". I reached out to you a few days ago on Twitter, asking whether CBDQ is open source (which it is, which is great).
 
 **Stefan:** You'll remember me mentioning that I'd like to add third-party API, easy public dataset integration, and so on. Basically helping people who like making bots stay non-coders. Now, after that brief conversation, and seeing online tools like [Dexter](https://rundexter.com/), I actually like this approach.
 
