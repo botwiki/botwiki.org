@@ -50,7 +50,7 @@ Nick Harasym is a Platform Support Specialist at [DigitalOcean](https://www.digi
 **Stefan:** But "everybody" uses [Slack](https://slack.com/), including non-technical people, it's just such a great tool. And these bots really take it a few steps further. One of the reason I enjoy working on bots -- I will be focusing more on our very own @botwikibot more in the coming weeks, well one thing I like is making something for people who are not necessarily technical, you know? My other bigger project, simplesharingbuttons.com, it has a lot of users who send me questions and I can see they're not very technical. So it's nice to be able to create something that's, hmm, for a more general audience to enjoy?
 
  
-**Stefan:** There are some good articles on https://[botwiki.org](https://botwiki.org/)/articles/, if you have time later, about "chat UI" and similar topics -- and [Slack](https://slack.com/) is definitely behind what's making these things go mainstream, really.
+**Stefan:** There are some good articles on [botwiki.org](https://botwiki.org/articles/), if you have time later, about "chat UI" and similar topics -- and [Slack](https://slack.com/) is definitely behind what's making these things go mainstream, really.
 
 **Stefan:** What would you say you like about making bots the most?
 
@@ -110,7 +110,7 @@ Nick Harasym is a Platform Support Specialist at [DigitalOcean](https://www.digi
 **Stefan:** The folks at [DigitalOcean](https://www.digitalocean.com/) were super nice, setting our chat up -- and I must say, you all seem like very nice people, from my brief interactions with whoever is managing your official Twitter account. How did the whole thing go, did you know about [Botwiki.org](https://botwiki.org/) before you were asked about this interview, were you "assigned" to speak with me or were there other people who were maybe interested? Just curious.
 
 
-**Nick:** I did not know about [Botwiki.org](https://botwiki.org/) before. When we received the message on Twitter, the person monitoring Twitter knew that I had being working on bots for support so they recommended me. Though I am not sure if other people where interested in doing the interview.
+**Nick:** I did not know about [Botwiki.org](https://botwiki.org/) before. When we received the message on Twitter, the person monitoring Twitter knew that I had being working on bots for support so they recommended me. Though I am not sure if other people were interested in doing the interview.
 
 **Stefan:** Well I'm happy to hear that bots get you excited! Yeah, you mentioned a few personal bots, the bot you're working on at your job. Do you see yourself working on more personal bot projects?
 
@@ -138,7 +138,7 @@ When you think about it, the non-playable characters in games are pretty much ju
  
 **Stefan:** Well, as I mentioned, we are talking about a few projects in our Slack group, so you're more than welcome to hang around and join in!
 
-**Stefan:** It was really nice talking to you and getting to know you a bit, thanks, again for finding the time!. zero forty PM.
+**Stefan:** It was really nice talking to you and getting to know you a bit, thanks, again for finding the time!
 
 **Nick:** Sure, I would be more then happy to check those out. It was great talking to. Thank you for your time as well!
 
