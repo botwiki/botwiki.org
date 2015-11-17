@@ -12,9 +12,10 @@ Many people provide these resources **for free** -- and **Botwiki.org** collects
 
 Oh and if you have any questions, try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/). 
 
+### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
+
 ![Man, presumably reading a Twitterbot tutorial](/content/images/illustrations/man-reading-mail-768.jpg){.float-right}
 
-### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
 - [Tutorials for Twitter bots](/tutorials/twitterbots)
 - [Tutorials for Slack bots](/tutorials/slackbots)
 - [Tutorials for YouTube bots](/tutorials/youtube-bots)
