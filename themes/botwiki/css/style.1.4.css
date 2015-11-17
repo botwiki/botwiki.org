@@ -358,7 +358,7 @@ div.breadcrumbs a {
   margin: 0 auto;
 }
 #header {
-  padding: 50px 0 40px;
+  padding: 50px 0 0;
   color: #5D9CEC;
 }
 #header a {
@@ -434,9 +434,7 @@ label.cursor-pointer {
   float: left;
 }
 form#search-form {
-  position: relative;
-  top: 2em;
-  margin: 2em auto 0;
+  margin: 5em auto 0;
   width: 100%;
 }
 form#search-form input {
@@ -502,11 +500,13 @@ div#join-botmakers a {
   text-decoration: underline;
 }
 p.screenshot {
-  padding: 15px 35px;
+  padding: 0 0 1.5em;
+  margin: 2px;
 }
 @media only screen and (min-width: 910px) {
   p.screenshot {
     max-width: 45%;
+    padding: 15px 0 35px;
   }
 }
 p.screenshot img {
