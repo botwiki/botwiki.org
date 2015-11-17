@@ -5,7 +5,7 @@ Description: Little virtual robots.
 Weight: 1
 */
 
-***Note: Jump straight to browsing bots [by categories](#browse-bots-by-categories) or [by the network](#browse-bots-by-network) on which they operate.***
+***Note: Jump straight to browsing bots [by category](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate.***
 
 
 So what exactly is a "bot"? Well, it really depends on who you ask.
@@ -39,13 +39,13 @@ In essence, an online bot is (usually) a simple program that does something a hu
   </a>
 </p>
 
-You can pretty much think of bots as programs that turn sites like [damnyoubatman.com](http://damnyoubatman.com/) or [hungernames.com](http://hungernames.com/) into automated [Twitter](https://twitter.com/) or [Tumblr](https://www.tumblr.com/) accounts, so you don't have to refresh them. 
+You can pretty much think of bots as programs that turn sites like [damnyoubatman.com](http://damnyoubatman.com/) or [hungernames.com](http://hungernames.com/) into automated [Twitter](https://twitter.com/) or [Tumblr](https://www.tumblr.com/) accounts. 
 
 
 Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
 
-Feel free to browse the bots below -- [by categories](#browse-bots-by-categories) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
+Feel free to browse the bots below -- [by categories](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
 
 You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
@@ -64,7 +64,7 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
   </a>
 </p>
 
-### [¶](#browse-bots-by-categories){.pilcrow} Browse bots by categories {#browse-bots-by-categories}
+### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
 
 - [Poetry bots](/tag/poetry)
 - [Image bots](/tag/images) ([GIF bots](/tag/gif))
@@ -73,7 +73,7 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
 
-### [¶](#browse-bots-by-network){.pilcrow} Browse bots by network {#browse-bots-by-network}
+### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
 
 - [Twitter bots](/bots/twitterbots)
 - [Slack bots](/bots/slackbots)
