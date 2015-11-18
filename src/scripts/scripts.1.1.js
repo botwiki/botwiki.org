@@ -93,6 +93,14 @@ console.log('                                                                   
   }
 });
 
+window.onscroll = function() {
+  var sticky = document.getElementById('breadcrumbs-wrapper');
+  if( document.body.scrollTop+document.documentElement.scrollTop > 240)
+      sticky.className = "sticky";
+  else sticky.className = "";
+};
+
+
 
 /*!
  * Lazy Load Images without jQuery

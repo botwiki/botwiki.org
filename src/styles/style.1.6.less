@@ -311,16 +311,32 @@ div.all-tags a{
   padding: 0 0.2em;
 }
 
-div.breadcrumbs{
+div#breadcrumbs-wrapper{
+  background-color: @main-color;
+}
+
+div#breadcrumbs{
+  padding: 1em;
+  background-color: @main-color;
   width: 100%;
   max-width: 900px;
-  margin: 1em auto 1em;
+  margin: 0 auto;
   @media only screen and (max-width : 910px) {
     display: none;
   }  
 }
 
-div.breadcrumbs a{
+div#breadcrumbs-wrapper.sticky{
+  @media only screen and (min-width : 910px) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+}
+
+
+div#breadcrumbs a{
   color: #fff;
 }
 
@@ -468,27 +484,6 @@ div.meta p.last-updated{
 
 div.meta p.last-updated{
   font-size: 0.9em;
-}
-
-div#join-botmakers{
-  max-width: 100%;
-  font-weight: bold;
-  color: #fff;
-  background-color: @main-color - #111;
-  overflow: auto;
-  padding-bottom: 1em;
-}
-
-div#join-botmakers > p{
-  max-width: @site-width;
-  margin: 0 auto;
-  padding: 10px;
-  text-align: justify;
-}
-
-div#join-botmakers a{
-  color: #fff;
-  text-decoration: underline;
 }
 
 p.screenshot{
