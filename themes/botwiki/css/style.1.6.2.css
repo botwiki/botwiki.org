@@ -356,6 +356,7 @@ div#breadcrumbs {
 @media only screen and (min-width: 910px) {
   div#breadcrumbs-wrapper.sticky {
     position: fixed;
+    z-index: 100;
     top: 0;
     left: 0;
     right: 0;
@@ -669,9 +670,6 @@ p.screenshot img {
 @media only screen and (max-width: 480px) {
   .inner {
     width: 85%;
-  }
-  .inner img {
-    width: 100%;
   }
   #header {
     margin-bottom: 30px;

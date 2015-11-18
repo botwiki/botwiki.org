@@ -28,4 +28,4 @@ You can join our group for [#botmakers](https://twitter.com/search?q=%23botmaker
 
 Thanks for visiting **Botwiki**, feel free to [contribute](https://github.com/botwiki/botwiki.org)!
 
--- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
+-- [Stefan](/about/team#stefan), the creator of **Botwiki.org**

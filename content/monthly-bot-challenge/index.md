@@ -4,28 +4,22 @@ Description: Make a bot in three weeks, then vote for the best.
 Nav: hidden
 */
 
-***Note: The first Monthly Bot Challenge started on November 2, 2015. We are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:***
+***Note: The first Monthly Bot Challenge will officially start on January 1, 2016. The submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:***
 
+### [¶](#rules){.pilcrow} Rules {#rules}
 
-On the first Monday of the month, we will announce the topic in our [Bot! zine](http://botzine.org/) newsletter. Everyone will then have three weeks to create a bot inspired by the topic. You can make the bot open source, but it's not a condition for entering the challenge.
+ 1. On **the first day of the month**, we will announce the topic via our official Twitter account [@botwikidotorg](https://twitter.com/botwikidotorg), in our dedicated [#monthly-bot-challenge](https://botmakers.slack.com/messages/monthly-bot-challenge/details/) channel (you can join our group at [botmakers.org](https://botmakers.org/)), and the topic will also be mentioned in our [Bot! zine](http://botzine.org/) newsletter, which comes out every Monday.
 
-Add your bot to Botwiki via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*.
+ 2. Everyone will have **until the end of the month** to create a bot inspired by the topic. You can make the bot open source, but it's **not** a condition for entering the challenge.
 
-After the three weeks, we will send out a form where people will be able to vote for their favorite bot.
-The voting will be closed after a week and the winner and a new topic will be announced on the first Monday of the next month.
+ 3. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
 
-The topic for the very first Monthly Bot Challenge is:
+ 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge) -- and we are also looking into finding sponsor who would provide additional prizes.
 
-### SPACE!
+##### The topic for the January 2016 Monthly Bot Challenge is: ***SPACE***!
 
-If you need some inspiration, have a look at bots tagged [#space](https://botwiki.org/tag/space) on [Botwiki.org](https://botwiki.org/). And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
+If you need an inspiration, have a look at bots tagged [#space](https://botwiki.org/tag/space) on [Botwiki.org](https://botwiki.org/). And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
 We are also going to be listening to ideas and feedback on how to make the Monthly Bot Challenge better.
 
-We're looking forward to seeing what people will make!
-
-
-**PS:** As mentioned above, this is more of a "test run" to see if there is an interest for this kind of an event, to work out some technical details, and so on.
-
-
-Also, we plan on having more challenging themes; right now it's just "space", but we want to go way beyond simple "keywords". Think using specific [data sets](/resources/public-datasets/), finding ways to make bots useful for, say, [disabled people](https://botwiki.org/bots/twitterbots/alt_text_bot), etc. An *actual* challenge.
+We're looking forward to seeing what you will make!
