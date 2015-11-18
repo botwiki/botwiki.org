@@ -1,10 +1,10 @@
 /*
-Title: The Botwiki Team
-Description: Who we are and what are we working on
+Title: Active Projects
+Description: See what we are working on.
 */
 
 
-The core Botwiki team consists of [Stefan](https://twitter.com/fourtonfish), [Hugo](https://twitter.com/hugovk), [Terian](https://twitter.com/spine_cone/) and [Kasey](https://twitter.com/bitpixi). The projects we are currently focusing on are:
+The projects we are currently focusing on are:
 
 
 ### [¶](#botwiki-org){.pilcrow} Botwiki.org {#botwiki-org}
