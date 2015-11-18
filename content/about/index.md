@@ -4,7 +4,7 @@ Description: Oh, so you would like to learn a bit more about Botwiki.org?
 Weight: 6
 */
 
-***For the list of the Botwiki team members and our projects, see the [Projects](/projects/) page***
+***To see who's behind Botwiki.org, [Botmakers.org](https://botmakers.org/) and the [Bot! zine](https://botzine.org/), see our [Team page](/about/team/). To see what we're actively working on, see the [Projects page](/projects/).***
 
 Hi!
 
