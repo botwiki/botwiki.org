@@ -8,7 +8,7 @@ Weight: 6
 
 Hi!
 
-My name is [Stefan](https://twitter.com/fourtonfish) and I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
+My name is [Stefan](/about/team#stefan) and I got into botmaking while working on an AI-based online game. I actually wanted to first make a smaller game to get the hang of [RiveScript](http://www.rivescript.com), but I run into mobile browser limitations with no workarounds, so I decided to make [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) instead. It was kind of fun, so I ended up making a few more [bots](https://twitter.com/fourtonfish/lists/my-twitterbots1/members).
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">I liked <a href="https://twitter.com/fourtonfish">@fourtonfish</a>&#39;s Botwiki, a set of resources for learning about &amp; building bots for Slack, Twitter, etc. <a href="https://t.co/uFTB6Zrr6a">https://t.co/uFTB6Zrr6a</a></p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/642120992932933632">September 10, 2015</a></blockquote>
 
