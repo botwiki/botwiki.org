@@ -4,6 +4,13 @@ Description: Make a bot in three weeks, then vote for the best.
 Nav: hidden
 */
 
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/KeplerBot">
+    <img src="/content/bots/twitterbots/images/KeplerBot.png">
+  </a>
+</p>
+
+
 ***Note: The first Monthly Bot Challenge will officially start on January 1, 2016. The submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:***
 
 ### [¶](#rules){.pilcrow} Rules {#rules}
@@ -28,7 +35,9 @@ Nav: hidden
   </a>
 </p>
 
-If you need an inspiration, have a look at bots tagged [#space](https://botwiki.org/tag/space) on [Botwiki.org](https://botwiki.org/). And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
+You could make a bot that posts images from NASA's [High Definition Earth-Viewing System](http://eol.jsc.nasa.gov/HDEV/) on Twitter. Or you could make a Slack bot that lets you play a trivia a game about space!
+
+You can browse bots tagged [#space](https://botwiki.org/tag/space) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
 We are also going to be listening to ideas and feedback on how to make the Monthly Bot Challenge better.
 
