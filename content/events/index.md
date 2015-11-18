@@ -46,11 +46,9 @@ Includes a session by [Ben Brown](https://twitter.com/benbrown) titled ["Your fr
 _January 19 - 20, 2016: Training_<br/>
 _january 20 - 22, 2016: Conference_
 
-[Fort Mason Center](http://fortmason.org/)
-2 Marina Boulevard (at Buchanan Street)
+[Fort Mason Center](http://fortmason.org/) ([map](https://www.google.com/maps/dir/Current+Location/Fort+Mason+Center+2+Marina+Boulevard+San+Francisco+CA+94123))<br/>
+2 Marina Boulevard (at Buchanan Street)<br/>
 San Francisco, CA 94123
-
-
 
 
 > Join us at an uncommon gathering for those who understand—and want to learn more about—the force design exerts in shaping a better world. Enhance your skills and expand your knowledge with hands-on training and workshops, informative demonstrations, and inspiring and practical presentations from more than 70 design innovators.
