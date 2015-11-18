@@ -23,7 +23,7 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 _December 6th, 2pm_
 
-[Sophia University](https://www.google.com/maps/dir/Current+Location/Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA)<br/>
+Sophia University ([map](https://www.google.com/maps/dir/Current+Location/Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA))<br/>
 1069 East Meadow Circle,<br/>
 Palo Alto, CA<br/>
 
@@ -36,6 +36,24 @@ Palo Alto, CA<br/>
 _November 1st - December 1st_ -- online
 
 Be sure to browse the [#nanogenmo](https://twitter.com/search?f=tweets&vertical=default&q=%23nanogenmo) hashtag on Twitter.
+
+<hr/>
+
+### [¶](#o-reilly-design-2016){.pilcrow} [O'Reilly Design](http://conferences.oreilly.com/design-ux-interaction-iot) {#o-reilly-design-2016}
+
+Includes a session by [Ben Brown](https://twitter.com/benbrown) titled ["Your friendly robot companions: Design for messaging and chat"](http://conferences.oreilly.com/design-ux-interaction-iot/public/schedule/detail/45682).
+
+_January 19 - 20, 2016: Training_<br/>
+_january 20 - 22, 2016: Conference_
+
+[Fort Mason Center](http://fortmason.org/)
+2 Marina Boulevard (at Buchanan Street)
+San Francisco, CA 94123
+
+
+
+
+> Join us at an uncommon gathering for those who understand—and want to learn more about—the force design exerts in shaping a better world. Enhance your skills and expand your knowledge with hands-on training and workshops, informative demonstrations, and inspiring and practical presentations from more than 70 design innovators.
 
 <hr/>
 
@@ -69,7 +87,7 @@ _November 7th – 15th_  -- online
 
 _November 7th, 13:00 to 19:00 (GMT)_ -- [PROCJAM Launch Day](http://www.eventbrite.co.uk/e/procjam-2015-kickoff-day-tickets-18723814433), London
 
-[Blackett Building, Imperial College](https://www.google.com/maps/dir/Current+Location/Blackett+Building,+Imperial+College+London,+South+Kensington+Campus,+London+SW7+2AZ,+United+Kingdom)<br/>
+Blackett Building, Imperial College ([map](https://www.google.com/maps/dir/Current+Location/Blackett+Building,+Imperial+College+London,+South+Kensington+Campus,+London+SW7+2AZ,+United+Kingdom))<br/>
 Prince Consort Road<br/>
 South Kensington<br/>
 SW7 2AZ London<br/>
@@ -85,8 +103,8 @@ Video of the 2015 PROCJAM talks is available [here](https://www.youtube.com/watc
 
 _November 14th, from 12:00 to 17:00 (GMT)_
 
-[The Octagon, Queen Mary University of London](https://www.google.com/maps/dir/Current+Location/The+Octagon+Queen+Mary+University+of+London+Mile+End+Road+E1+4NS+London+United+Kingdom)<br/>
-Mile End Road <br/>
+The Octagon, Queen Mary University of London ([map](https://www.google.com/maps/dir/Current+Location/The+Octagon+Queen+Mary+University+of+London+Mile+End+Road+E1+4NS+London+United+Kingdom))<br/>
+Mile End Road<br/>
 E1 4NS London<br/>
 United Kingdom
 
@@ -96,7 +114,7 @@ United Kingdom
 
 _October 23 (2015) 6:30pm - 8:30pm_
 
-[155 Bank St, New York, NY](https://www.google.com/maps/dir/Current+Location/155+Bank+St,+New+York,+NY)
+155 Bank St, New York, NY ([map](https://www.google.com/maps/dir/Current+Location/155+Bank+St,+New+York,+NY))
 
 A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "replacement" for the 2015 Bot Summit that has been delayed until 2016.
 
@@ -109,7 +127,7 @@ A NYC meetup created by [Allison Parrish](https://twitter.com/aparrish) as a "re
 
 _October 22 (2015) 7:00pm_
 
-[Kings Place, 90 York Way, London](https://www.google.com/maps/dir/Current+Location/Kings+Place,+90+York+Way,+London)
+Kings Place, 90 York Way, London ([map](https://www.google.com/maps/dir/Current+Location/Kings+Place,+90+York+Way,+London))
 
 > Have you ever wanted to build your own [@ThinkpieceBot](https://twitter.com/ThinkpieceBot), [@fbibot](https://twitter.com/fbibot) or [@horse_ebooks](https://twitter.com/horse_ebooks)? If so you're in luck, as this month we'll be following a tutorial to create our own Twitter bot using Node.js. 
 
@@ -121,7 +139,7 @@ Notes are available at [journocoders.hackpad.com](https://journocoders.hackpad.c
 
 _October 21 (2015) at 6:30pm_
 
-[800 W. Cesar Chavez St. Austin Tx](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx)
+800 W. Cesar Chavez St. Austin Tx ([map](https://www.google.com/maps/dir/Current+Location/800+W.+Cesar+Chavez+St.+Austin+Tx))
 
 
 > This meetup is open to people of all skill levels and disciplines. If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant!
@@ -135,7 +153,9 @@ _October 21 (2015) at 6:30pm_
 
 _October 10 - 11 (2015)_
 
-[White Stag Block, 70 NW Couch St, Portland, OR](https://www.google.com/maps/dir/Current+Location/White+Stag+Block+(UO+Portland)+70+NW+Couch+St,+Portland,+OR+97209)
+White Stag Block, ([map](https://www.google.com/maps/dir/Current+Location/White+Stag+Block+(UO+Portland)+70+NW+Couch+St,+Portland,+OR+97209))<br/>
+70 NW Couch St,<br/>
+Portland, OR 
 
 
 > A Pythonicly specific space focusing on ideas, projects, and best practices in need of more attention in an inclusive and welcoming environment.
