@@ -506,11 +506,21 @@ p.screenshot {
 @media only screen and (min-width: 910px) {
   p.screenshot {
     max-width: 45%;
-    padding: 15px 0 35px;
+    padding: 0 0 35px;
   }
 }
 p.screenshot img {
   border: 1px solid #efefef;
+}
+@media only screen and (min-width: 910px) {
+  p.screenshot.float-right {
+    padding-left: 30px;
+  }
+}
+@media only screen and (min-width: 910px) {
+  p.screenshot.float-left {
+    padding-right: 30px;
+  }
 }
 .lazy-load,
 .lazy-loaded {

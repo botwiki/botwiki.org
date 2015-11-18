@@ -6,8 +6,8 @@ Nav: hidden
 
 
 <p class="screenshot float-right">
-  <a href="/bots/slackbots/slack-poker-bot">
-    <img src="/content/bots/slackbots/images/slack-poker-bot.png">
+  <a href="/bots/slackbots/slack-tableflip">
+    <img src="/content/bots/slackbots/images/slack-tableflip.png">
   </a>
 </p>
 
