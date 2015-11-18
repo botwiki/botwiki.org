@@ -16,7 +16,17 @@ Nav: hidden
 
  4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge) -- and we are also looking into finding sponsor who would provide additional prizes.
 
-##### The topic for the January 2016 Monthly Bot Challenge is: ***SPACE***!
+##### The topic for the January 2016 Monthly Bot Challenge is: 
+
+#### *SPACE!*
+
+
+
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/himawari8bot">
+    <img src="/content/bots/twitterbots/images/himawari8bot.png">
+  </a>
+</p>
 
 If you need an inspiration, have a look at bots tagged [#space](https://botwiki.org/tag/space) on [Botwiki.org](https://botwiki.org/). And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
