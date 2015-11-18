@@ -35,7 +35,7 @@ Nav: hidden
   </a>
 </p>
 
-You could make a bot that posts images from NASA's [High Definition Earth-Viewing System](http://eol.jsc.nasa.gov/HDEV/) on Twitter. Or you could make a Slack bot that lets you play a trivia a game about space!
+You could make a bot that posts images from NASA's [High Definition Earth-Viewing System](http://eol.jsc.nasa.gov/HDEV/) on Twitter. Or you could make a Slack bot that lets you play a trivia a [game](/tag/slackbot+game) about space!
 
 You can browse bots tagged [#space](https://botwiki.org/tag/space) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
