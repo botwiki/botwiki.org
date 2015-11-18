@@ -20,4 +20,4 @@ You can visit my personal website at [fourtonfish.com](https://fourtonfish.com/)
 
 <hr/>
 
-The core Botwiki team also consists of [Hugo](https://twitter.com/hugovk), [Terian](https://twitter.com/spine_cone/) and [Kasey](https://twitter.com/bitpixi). 
+The core Botwiki team also consists of [Hugo](https://twitter.com/hugovk), [Terian](https://twitter.com/spine_cone/) and [Kasey](https://twitter.com/bitpixi). To see what we're all working on, check out our [**Projects** page](/projects/).
