@@ -60,7 +60,7 @@
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Yantramanav" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.1.5.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.1.6.min.css" type="text/css" />  
 </head>
 <body>
 <!--
@@ -86,7 +86,8 @@
     </div>    
   </header>
     {% if breadcrumbs %}
-      <div class="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+    <div id="breadcrumbs-wrapper">
+      <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
         <a href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
         {% for crumb in breadcrumbs %}
           <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
@@ -95,6 +96,7 @@
           </span>
         {% endfor %}
       </div>
+    </div>      
     {% endif %}
 
 
@@ -142,6 +144,6 @@
     </div>
   </footer>
 {% include 'includes/statcounter.html' ignore missing %}
-  <script src="{{ theme_url }}/js/scripts.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.1.1.min.js"></script>
 </body>
 </html>
