@@ -76,11 +76,11 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 #### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
 
 
-- [Twitter bots](/bots/twitterbots)
-- [Slack bots](/bots/slackbots)
-- [Tumblr bots](/bots/tumblr-bots)
-- [YouTube bots](/bots/youtube-bots)
-- [Reddit bots](/bots/redditbots)
-- [Snapchat bots](/tag/snapchatbot)
-- [Kik bots](/tag/kikbot)
-- [Trello bots](/bots/trello-bots)
+- [Twitter bots](/bots/twitterbots/)
+- [Slack bots](/bots/slackbots/)
+- [Tumblr bots](/bots/tumblr-bots/)
+- [YouTube bots](/bots/youtube-bots/)
+- [Reddit bots](/bots/redditbots/)
+- [Snapchat bots](/tag/snapchatbot/)
+- [Kik bots](/tag/kikbot/)
+- [Trello bots](/bots/trello-bots/)
