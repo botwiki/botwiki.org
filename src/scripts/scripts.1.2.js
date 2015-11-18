@@ -93,11 +93,18 @@ console.log('                                                                   
   }
 });
 
+var sticky = document.getElementById('breadcrumbs-wrapper');
+
 window.onscroll = function() {
-  var sticky = document.getElementById('breadcrumbs-wrapper');
-  if( document.body.scrollTop+document.documentElement.scrollTop > 240)
-      sticky.className = "sticky";
-  else sticky.className = "";
+  if( document.body.scrollTop + document.documentElement.scrollTop > 214){
+    console.log(sticky.clientHeight);
+      document.body.style.paddingTop = sticky.clientHeight + 'px';
+      sticky.className = 'sticky';
+  }
+  else{
+    document.body.style.paddingTop = '0';
+    sticky.className = '';
+  }
 };
 
 
