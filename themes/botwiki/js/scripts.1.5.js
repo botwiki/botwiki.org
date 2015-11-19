@@ -25,7 +25,15 @@ var smoothScroll = function(el, duration, callback){
     if (typeof el === 'number') {
       end = parseInt(el);
     } else {
+
+    if (window.innerWidth > 910){
       end = getTop(el) - 70;
+    }
+    else{
+      end = getTop(el);      
+    }
+
+
     }
     var clock = Date.now();
     var requestAnimationFrame = window.requestAnimationFrame ||
@@ -66,11 +74,7 @@ var sticky = document.getElementById('breadcrumbs-wrapper');
 
 function checkBreadcrumbsPosition(){
   if( document.body.scrollTop + document.documentElement.scrollTop > 214){
-    if (window.innerWidth > 910){
-      document.body.style.paddingTop = sticky.clientHeight + 'px'; 
-    }
-    else{
-    }
+    document.body.style.paddingTop = sticky.clientHeight + 'px'; 
     sticky.className = 'sticky';
   }
   else{
@@ -89,7 +93,9 @@ function ready(fn) {
 
 ready(function(){
 if(window.location.hash) {
-  checkBreadcrumbsPosition();
+  if (window.innerWidth > 910){
+    checkBreadcrumbsPosition();
+  }
   smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
   return false;
 }  
@@ -115,7 +121,9 @@ console.log('                                                                   
 });
 
 window.onscroll = function() {
-  checkBreadcrumbsPosition();
+  if (window.innerWidth > 910){
+    checkBreadcrumbsPosition();
+  }
 };
 
 /*!
