@@ -54,7 +54,7 @@ For more general tutorials on hosting bots, see articles below. (Some network sp
 - [Automating bots with cron on Digital Ocean](http://www.colewillsea.com/blog/do-cron)
 
 ### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
-- [Codecadamey](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
+- [Codecademy](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
 
 ### [¶](#other){.pilcrow} Other {#other}
