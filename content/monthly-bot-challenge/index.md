@@ -42,7 +42,7 @@ Check out our [**Projects** page](/projects/) to see what else we're working on!
 
 You could make a bot that posts images from NASA's [High Definition Earth-Viewing System](http://eol.jsc.nasa.gov/HDEV/) on Twitter. Or you could make a Slack bot that lets you play a trivia a [game](/tag/slackbot+game) about space!
 
-You don't need to be an experienced programmer to join our challenge; actually, making bots is a great way to [learn how to program](https://botwiki.org/tutorials/twitterbots/#beginner-tutorials)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
+You don't need to be an experienced programmer to join our challenge; actually, making bots is a great way to [learn how to program](https://botwiki.org/tutorials/)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
 
 You can browse bots tagged [#space](https://botwiki.org/tag/space) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
