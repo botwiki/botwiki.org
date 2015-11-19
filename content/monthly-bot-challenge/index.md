@@ -14,6 +14,8 @@ Nav: hidden
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
+Check out our [**Projects** page](/projects/) to see what else we're working on!
+
 ***Note: The first Monthly Bot Challenge will officially start on January 1, 2016. The submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:***
 
 ### [¶](#rules){.pilcrow} Rules {#rules}
