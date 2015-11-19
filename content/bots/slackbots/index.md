@@ -19,7 +19,7 @@ Some example bots include:
 - [slack-pokemon](/bots/slackbots/slack-pokemon) -- a bot that lets you catch Pokemon
 - [slack-poker-bot](slackbots/slack-poker-bot) -- turns Slack into a legitimate Texas Hold'em client
 - [@large](slackbots/large) -- on-demand ice cream for your team
-- [Oskar](slackbots/oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
+- [Oskar](slackbots/Oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
 - [shoulda-coulda](slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
 
 Browse [more Slack bots](/tag/slackbot), learn how to make them with [tutorials](/tutorials/slackbots) and other botmakers at [botmakers.org](https://botmakers.org/).
