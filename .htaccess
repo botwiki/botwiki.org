@@ -6,8 +6,7 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule . index.php [L]
 
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^(.*)([^/])$        /$1$2/ [L,R=301]
+    RewriteRule ^(.*)([^/])$ http://%{HTTP_HOST}/$1$2/ [L,R=301]
 
 
 ##  ???
