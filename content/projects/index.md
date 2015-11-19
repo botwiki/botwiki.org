@@ -32,10 +32,12 @@ We are planning to add more features and open source the code to make it availab
 
 If you'd like to help out with the development, join us at [Botmakers.org](https://botmakers.org/).
 
+### [¶](#bay-area-bot-arts-meetup){.pilcrow} Bay Area Bot Arts Meetup {#bay-area-bot-arts-meetup}
+
+Regular botmaking events in San Francisco, CA, hosted by [Kasey](https://twitter.com/bitpixi). Join [the Meetup.com group](http://www.meetup.com/Bay-Area-Bot-Arts/) and follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates!
+
+
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
 Please see the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details.
 
-# [¶](#contact){.pilcrow} Contact {#contact}
-
-If you'd like to get in touch, feel free to email [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) or reach out to him [on Twitter](https://twitter.com/fourtonfish).
