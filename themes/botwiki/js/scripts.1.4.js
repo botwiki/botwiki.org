@@ -1,5 +1,4 @@
 "strict";
-
 /*
   https://github.com/alicelieutier/smoothScroll
   Modified by Stefan Bohacek to use the HTML5 History API.
@@ -63,6 +62,23 @@ document.addEventListener("DOMContentLoaded", function () {
 return smoothScroll;
 })();
 
+var sticky = document.getElementById('breadcrumbs-wrapper');
+
+function checkBreadcrumbsPosition(){
+  if( document.body.scrollTop + document.documentElement.scrollTop > 214){
+    if (window.innerWidth > 910){
+      document.body.style.paddingTop = sticky.clientHeight + 'px'; 
+    }
+    else{
+    }
+    sticky.className = 'sticky';
+  }
+  else{
+    document.body.style.paddingTop = '0';
+    sticky.className = '';
+  }  
+}
+
 function ready(fn) {
   if (document.readyState !== 'loading'){
     fn();
@@ -72,6 +88,11 @@ function ready(fn) {
 }
 
 ready(function(){
+if(window.location.hash) {
+  checkBreadcrumbsPosition();
+  smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
+  return false;
+}  
 console.log('                                                                                                                    ');
 console.log('88888888ba                                            88  88         88                                             ');
 console.log('88      "8b                ,d                         ""  88         ""                                             ');
@@ -93,21 +114,9 @@ console.log('                                                                   
   }
 });
 
-var sticky = document.getElementById('breadcrumbs-wrapper');
-
 window.onscroll = function() {
-  if( document.body.scrollTop + document.documentElement.scrollTop > 214){
-    console.log(sticky.clientHeight);
-      document.body.style.paddingTop = sticky.clientHeight + 'px';
-      sticky.className = 'sticky';
-  }
-  else{
-    document.body.style.paddingTop = '0';
-    sticky.className = '';
-  }
+  checkBreadcrumbsPosition();
 };
-
-
 
 /*!
  * Lazy Load Images without jQuery
