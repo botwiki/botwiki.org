@@ -1,5 +1,5 @@
 /*
-Title: Erin
+Title: Erin McKean
 Description: Writer, founder of Wordnik and a former editor-in-chief of American Dictionaries for Oxford University Press.
 Nav: hidden
 Author: Stefan Bohacek
