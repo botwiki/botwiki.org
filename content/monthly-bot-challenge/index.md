@@ -4,19 +4,18 @@ Description: Make a bot in three weeks, then vote for the best.
 Nav: hidden
 */
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/KeplerBot">
-    <img src="/content/bots/twitterbots/images/KeplerBot.png">
-  </a>
-</p>
-
-
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
-Check out our [**Projects** page](/projects/) to see what else we're working on!
 
-***Note: The first Monthly Bot Challenge will officially start on January 1, 2016. The submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:***
+
+[![DigitalOcean](/content/images/logos/digitalocean-logo.png){.float-right}](https://www.digitalocean.com/)
+
+
+**The first Monthly Bot Challenge will officially start on January 1, 2016. The sponsor of our first challenge is [DigitalOcean](https://www.digitalocean.com/), provider of simple cloud infrastructure for developers, used by hobby projects and full production websites -- including our very own Botwiki.**
+
+
+Submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup, but for now, the rules are going to be very simple:
 
 ### [¶](#rules){.pilcrow} Rules {#rules}
 
@@ -26,12 +25,20 @@ Check out our [**Projects** page](/projects/) to see what else we're working on!
 
  3. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
 
- 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge) -- and we are also looking into finding sponsor who would provide additional prizes.
+ 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge)
+
+
+For the very first Monthly Bot Challenge, our generous sponsor [DigitalOcean](https://www.digitalocean.com/) will provide the following prices:
+
+ - The winner of the **1st place** will receive **$60 USD in hosting credit** at [DigitalOcean](https://www.digitalocean.com/),
+ - 2nd place will get **$40 USD in hosting credit**,
+ - and 3rd place will get **$20 in hosting credit**
+
+Visit [digitalocean.com](https://www.digitalocean.com/) to learn more about the company and their offerings and follow [@digitalocean](https://twitter.com/digitalocean) for updates and occasional friendly banter.
 
 ##### The topic for the January 2016 Monthly Bot Challenge is: 
 
 #### *SPACE!*
-
 
 
 <p class="screenshot float-right">
