@@ -557,6 +557,16 @@ p.screenshot img {
 .clearfix {
   *zoom: 1;
 }
+/* Logo Styles
+/*---------------------------------------------*/
+/*
+img[class^="logo-"]{
+}
+*/
+img.logo-digitalocean {
+  height: 1.15em;
+  vertical-align: sub;
+}
 /* Media Queries
 /*---------------------------------------------*/
 /* Small Devices, Tablets */

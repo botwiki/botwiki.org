@@ -27,7 +27,7 @@ Oh and if you have any questions, try asking in our community for botmakers and 
 
 You have quite a few options when it comes to hosting your bots.
 
-- [Digital Ocean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (this [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
+- [DigitalOcean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
 - [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
 - [Heroku](https://www.heroku.com) -- similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)) 
 - [Linode](https://www.linode.com/) -- another VPS, starts at $10/mo
@@ -51,7 +51,7 @@ Common ways to manage multiple bots on the same network are:
 These are also common ways to solve the need for a phone number verification when creating apps (bots) on Twitter. Also see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account, which helps solve this problem. One more solution is to remove the phone number from your account and associate it with a new one.
 
 For more general tutorials on hosting bots, see articles below. (Some network specific tutorials [below](#network-specific-tutorials) include a step explaining how to host your bot.)
-- [Automating bots with cron on Digital Ocean](http://www.colewillsea.com/blog/do-cron)
+- [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
 
 ### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
 - [Codecademy](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
