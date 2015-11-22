@@ -53,6 +53,14 @@ You don't need to be an experienced programmer to join our challenge; actually, 
 
 You can browse bots tagged [#space](https://botwiki.org/tag/space) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
+
+<p class="screenshot float-right">
+  <a href="/bots/twitterbots/KeplerBot">
+    <img src="/content/bots/twitterbots/images/KeplerBot.png">
+  </a>
+</p>
+
+
 We are also going to be listening to ideas and feedback on how to make the Monthly Bot Challenge better.
 
 We're looking forward to seeing what you will make!
