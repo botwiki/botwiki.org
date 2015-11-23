@@ -23,6 +23,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [How to Build A Slackbot (with node.js) + Deploy an App to Heroku for Absolute Beginners](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 - [Building an Intelligent Bot Using the Slack API](http://nordicapis.com/building-an-intelligent-bot-using-the-slack-api/) -- a great tutorial that uses node.js and [Wit.ai API](https://wit.ai/)
 - [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A) -- a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
+- [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
 
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
