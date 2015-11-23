@@ -9,7 +9,6 @@ Nav: hidden
 [![Stefan](/content/about/images/stefan.jpg){.float-right}](https://twitter.com/fourtonfish)
 
 
-
 Hi!
 
 My name is Stefan *[stefn]* and I'm [@stefan](https://botmakers.slack.com/messages/@stefan/details/) on [Botmakers.org](https://botmakers.org/) and [@fourtonfish](https://twitter.com/fourtonfish) on Twitter. I am the original creator of **Botwiki.org**, the admin on [Botmakers.org](https://botmakers.org/) and I also write the [Bot! zine](https://botzine.org/).
@@ -20,7 +19,14 @@ You can visit my personal website at [fourtonfish.com](https://fourtonfish.com/)
 
 <hr/>
 
-The core Botwiki team also consists of [Hugo](https://twitter.com/hugovk), [Terian](https://twitter.com/spine_cone/), and [Kasey](https://twitter.com/bitpixi), who hosts [regular botmaking events in San Francisco, CA](http://www.meetup.com/Bay-Area-Bot-Arts/). To see what we're all working on, check out our [**Projects** page](/projects/).
+The core Botwiki team also consists of [Terian](https://twitter.com/spine_cone/), and [Kasey](https://twitter.com/bitpixi), who hosts [regular botmaking events in San Francisco, CA](http://www.meetup.com/Bay-Area-Bot-Arts/)
+
+To see what we're all working on, check out our [**Projects** page](/projects/).
+ 
+And we have some [very helpful volunteer contributors](https://github.com/botwiki/botwiki.org/graphs/contributors), including [Hugo](https://twitter.com/hugovk), who [automated our bot submission form](https://github.com/botwiki/botwiki.org/tree/master/submission-form-scripts)  and [Héctor](https://twitter.com/Zentaurus), who was the first [volunteer translator](https://github.com/botwiki/botwiki.org/blob/master/TRANSLATING-CONTENT.md).
+
+**Huge thanks goes to everyone involved on our projects!**
+
 
 ### [¶](#contact){.pilcrow} Contact {#contact}
 
