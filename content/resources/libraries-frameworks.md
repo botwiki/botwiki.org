@@ -28,6 +28,10 @@ For libraries and frameworks for specific networks check out their corresponding
 - [zeke/rhymes](https://github.com/zeke/rhymes) -- "Give me an English word and I'll give you a list of rhymes." (uses zeke/cmu-pronouncing-dictionary)
 
 
+#### [¶](#nodejs-js-images){.pilcrow} Images {#nodejs-js-images}
+
+- [aleju/cat-generator](https://github.com/aleju/cat-generator) -- generate cat images with neural networks
+
 #### [¶](#nodejs-js-apis){.pilcrow} APIs {#nodejs-js-apis}
 
 - [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) -- "a simple Node.js library to read and manipulate data in Google Spreadsheets"; also see [this article](http://feeltrain.com/blog/stay-woke/) on how it can be used
