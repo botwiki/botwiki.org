@@ -35,11 +35,13 @@ Nav: hidden
 - [Clarifai](http://www.clarifai.com/)
 - [Sighthound](https://www.sighthound.com/products/cloud)
 
+### [¶](#other){.pilcrow} Other {#other}
+- [Untappd API](https://untappd.com/api/docs) -- "Untappd is a social networking service that allows its users to check into beers as they drink them, and share these check-ins and their locations with their friends." [Wikipedia](https://en.wikipedia.org/wiki/Untappd)
+- [BreweryDB API](http://www.brewerydb.com/developers) -- "BreweryDB is your database of breweries, beers, beer events and guilds"
+
 ### [¶](#api-directories){.pilcrow} API directories {#api-directories}
 - [ProgrammableWeb](http://www.programmableweb.com/)
 - [apis.io](http://apis.io/)
-- [PublicAPIs](https://www.publicapis.com/)
-- [Temboo Library](https://www.temboo.com/library/)
 
 ### [¶](#media){.pilcrow} Media {#media}
 - [Unsplash API](https://source.unsplash.com/) -- free high-resolution photos, see documentation [here](https://unsplash.com/documentation) (also available for direct download at [unsplash.com](https://unsplash.com/))
