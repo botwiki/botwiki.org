@@ -52,8 +52,6 @@ Common ways to manage multiple bots on the same network are:
 - running all of your bots in one app, using the same set of API keys
 - or as a variation, you can create multiple apps, but still use the same API keys
 
-These are also common ways to solve the need for a phone number verification when creating apps (bots) on Twitter. Also see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account, which helps solve this problem. One more solution is to remove the phone number from your account and associate it with a new one.
-
 For more general tutorials on hosting bots, see articles below. (Some network specific tutorials [below](#network-specific-tutorials) include a step explaining how to host your bot.)
 - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
 
