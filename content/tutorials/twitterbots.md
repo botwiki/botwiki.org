@@ -17,7 +17,7 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 
 One tricky part of making a bot for Twitter is that if you want your bot to be able to actually post on Twitter, rather than just read from it, you will need to add a phone number to your account. 
 
-There is a few ways to solve this problem:
+There is a few ways to solve this:
 
 - see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account
 - you can remove the phone number from your account and associate it with a new one
