@@ -25,10 +25,10 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A) -- a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
 - [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
 
-
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
 - [Slack + SuperScript — Rise of the Bots](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c)
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)
+- [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 
 See also [Resources for Slack bots](/resources/slackbots) and [open source code for Slack bots](/tag/slack+opensource). You can also [browse all the Slack bots](/tag/slackbot) for inspiration.
