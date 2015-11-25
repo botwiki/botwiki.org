@@ -13,9 +13,7 @@ Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at 
 
 And you're more then welcome to join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
 
-### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
-
-Note: One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
+**Note:** One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
 
 There is a few ways to solve this problem:
 
@@ -24,6 +22,9 @@ There is a few ways to solve this problem:
 - you can sign up for [Google Voice](https://www.google.com/voice) ([Skype](http://www.skype.com/) number won't work, because Skype doesn't let you receive text messages, which you will need to verify your phone number)
 
 And once you have one account verified, you can also host all your bots under the same app.
+
+
+### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
 #### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
 
