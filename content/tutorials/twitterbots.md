@@ -15,6 +15,16 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
+Note: One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
+
+There is a few ways to solve this problem:
+
+- see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account
+- you can remove the phone number from your account and associate it with a new one
+- you can sign up for [Google Voice](https://www.google.com/voice) ([Skype](http://www.skype.com/) number won't work, because Skype doesn't let you receive text messages, which you will need to verify your phone number)
+
+And once you have one account verified, you can also host all your bots under the same app.
+
 #### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
 
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
