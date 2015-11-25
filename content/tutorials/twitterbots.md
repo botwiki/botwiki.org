@@ -15,7 +15,7 @@ And you're more then welcome to join us at [**Botmakers.org**](https://botmakers
 
 #### [¶](#note-phone-number){.pilcrow} Note on needing a phone number {#note-phone-number}
 
-One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
+One tricky part of making a bot for Twitter is that if you want your bot to be able to actually post on Twitter, rather than just read from it, you will need to add a phone number to your account. 
 
 There is a few ways to solve this problem:
 
