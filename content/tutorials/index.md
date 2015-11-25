@@ -52,7 +52,8 @@ Common ways to manage multiple bots on the same network are:
 - running all of your bots in one app, using the same set of API keys
 - or as a variation, you can create multiple apps, but still use the same API keys
 
-For more general tutorials on hosting bots, see articles below. (Some network specific tutorials [below](#network-specific-tutorials) include a step explaining how to host your bot.)
+For more general tutorials on hosting bots, see articles below. (Some [network specific tutorials](#network-specific-tutorials) include a step explaining how to host your bot.)
+
 - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
 
 ### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
