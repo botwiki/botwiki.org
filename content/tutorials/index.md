@@ -31,7 +31,7 @@ If you have any questions, try asking in our [community for botmakers and bot en
 You have quite a few options when it comes to hosting your bots.
 
 - [DigitalOcean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
-- [Cloud9](https://c9.io/fourtonfish) -- browser-based IDE (integrated development environment) that vastly simplifies the development process 
+- [Cloud9](https://c9.io/fourtonfish) -- browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan
 - [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
 - [Heroku](https://www.heroku.com) -- similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)) 
 - [Linode](https://www.linode.com/) -- another VPS, starts at $10/mo
