@@ -6,11 +6,14 @@ Tags: machine learning,nlp,language,processing,opencv
 Weight: 2
 */
 
-To make good bots, you need a **little bit of software** (preferably free and [open source](https://en.wikipedia.org/wiki/Open-source_software)), [**some useful data**](/resources) to connect the bot to, and **tutorials and [articles](/articles)** to explain how to connect it all together.
+[![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
-Many people provide these resources **for free** -- and **Botwiki.org** collects them. If you find anything useful, be sure to thank the person through their website, an email or social media site of their choice :-)
 
-Oh and if you have any questions, try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/). 
+There is a variety of tools that make creating bots very easy. From [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) (specifically for Twitter bots) and [Dexter](https://rundexter.com/), which is still in beta, but aims to make creating bots as easy as [dragging and dropping](https://twitter.com/fourtonfish/status/664130256266264576), to browser-based development environments, like [Cloud9](https://c9.io/) that vastly simplifies the development process. You can also find many [opensourced bots](/tag/opensource) that you can reuse and build on top of.
+
+Botmaking has never been easier!
+
+If you have any questions, try asking in our [community for botmakers and bot enthusiasts](https://botmakers.org/). 
 
 ### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
 
@@ -28,6 +31,7 @@ Oh and if you have any questions, try asking in our community for botmakers and 
 You have quite a few options when it comes to hosting your bots.
 
 - [DigitalOcean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
+- [Cloud9](https://c9.io/fourtonfish) -- browser-based IDE (integrated development environment) that vastly simplifies the development process 
 - [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
 - [Heroku](https://www.heroku.com) -- similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)) 
 - [Linode](https://www.linode.com/) -- another VPS, starts at $10/mo
