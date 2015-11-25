@@ -13,7 +13,9 @@ Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at 
 
 And you're more then welcome to join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
 
-**Note:** One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
+#### [¶](#note-phone-number){.pilcrow} Note on needing a phone number {#note-phone-number}
+
+One the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. 
 
 There is a few ways to solve this problem:
 
