@@ -191,7 +191,7 @@ In the top menu, click **File**, then **Upload Local Files**. Go back to the *.z
 
 Using a neat little library called [countries-list](https://www.npmjs.com/package/countries-list), I created a list of about 200 countries and their capitals. [Download the list from here](/content/tutorials/making-what_capital/data/list_of_countries.js) and also upload it to your project.
 
-And [here is my finished `server.js` file](/content/tutorials/making-what_capital/data/server.js). Let me quickly explain the main parts of the code.
+And [here is my finished and annotated `server.js` file](/content/tutorials/making-what_capital/data/server.js). Let me quickly explain the main parts of the code.
 
 We are going to load the list of countries similarly to how we loaded our API keys.
 
