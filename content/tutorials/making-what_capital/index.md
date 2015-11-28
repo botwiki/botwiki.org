@@ -12,7 +12,7 @@ Tags: tutorial,twitter,cloud9,node,nodejs,node.js,fourtonfish
 
 Hey there, this is Stefan, the creator of **Botwiki.org**.
 
-In this tutorial, I'm going to guide you through the creation of a simple Twitter bot that will randomly select and post a country flag and wait for someone to respond with the correct name of the matching country. 
+In this tutorial, I'm going to guide you through the creation of a simple Twitter bot that will randomly select and post a country flag and wait for someone to respond with the correct name of the matching country. You can [check out the finished bot on Twitter](https://twitter.com/what_capital).
 
 We are going to use the following tools:
 
