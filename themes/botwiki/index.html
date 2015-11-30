@@ -109,7 +109,7 @@
     {% if breadcrumbs %}
     <div id="breadcrumbs-wrapper">
       <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a class="back-to-top" href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
+        <a href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
         {% for crumb in breadcrumbs %}
           <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
             &nbsp;&gt;&nbsp; 
