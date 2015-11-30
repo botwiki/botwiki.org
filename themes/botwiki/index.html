@@ -109,11 +109,11 @@
     {% if breadcrumbs %}
     <div id="breadcrumbs-wrapper">
       <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a id="home-link" href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
+        <a class="back-to-top" href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
         {% for crumb in breadcrumbs %}
           <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
             &nbsp;&gt;&nbsp; 
-            <a href="{{ crumb.url }}" itemprop="url"><span itemprop="title">{{ crumb.name }}</span></a>
+            <a {% if loop.last %} class="back-to-top" {% endif %} href="{{ crumb.url }}" itemprop="url"><span itemprop="title">{{ crumb.name }}</span></a>
           </span>
         {% endfor %}
       </div>
@@ -166,6 +166,6 @@
     </div>
   </footer>
 {% include 'includes/statcounter.html' ignore missing %}
-  <script src="{{ theme_url }}/js/scripts.1.7.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.1.7.1.min.js"></script>
 </body>
 </html>

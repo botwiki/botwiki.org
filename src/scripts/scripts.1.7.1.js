@@ -101,10 +101,17 @@ if(window.location.hash) {
   return false;
 }
 
-document.getElementById('home-link').addEventListener('click', function(event){
-  event.preventDefault();
-  smoothScroll(0, 500);
-});
+
+var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
+
+for(var i = backToTopLinks.length; a = backToTopLinks[--i];){
+    a.addEventListener("click", function(ev){
+      ev.preventDefault();
+      smoothScroll(0, 500);      
+    }, false);
+}
+
+
 
 console.log('                                                                                                                    ');
 console.log('88888888ba                                            88  88         88                                             ');

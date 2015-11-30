@@ -99,7 +99,20 @@ if(window.location.hash) {
   }
   smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
   return false;
-}  
+}
+
+
+var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
+
+for(var i = backToTopLinks.length; a = backToTopLinks[--i];){
+    a.addEventListener("click", function(ev){
+      ev.preventDefault();
+      smoothScroll(0, 500);      
+    }, false);
+}
+
+
+
 console.log('                                                                                                                    ');
 console.log('88888888ba                                            88  88         88                                             ');
 console.log('88      "8b                ,d                         ""  88         ""                                             ');
