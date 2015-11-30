@@ -5,8 +5,6 @@ Date: November 25, 2015
 Tags: tutorial,twitter,cloud9,node,nodejs,node.js,fourtonfish
 */
 
-***Note: This tutorial is an unfinished work in progress.***
-
 
 ![Finished bot](/content/tutorials/making-what_capital/images/finished-bot.png)
 
@@ -20,13 +18,16 @@ We are going to use the following tools:
 - [node.js](https://nodejs.org/), a way of running [JavaScript](https://en.wikipedia.org/wiki/JavaScript) on the server,
 - and [Twit](https://github.com/ttezel/twit), a node.js module (or a library) for interacting with Twitter
 
-***Quick note: You might need to disable your adblocking addon/plugin for the [Cloud9](https://c9.io/) website. At least I had a small problem when the site wouldn't allow me to continue when adding a new project.***
+***Quick note: You might need to disable your adblocking addon/plugin for the [Cloud9](https://c9.io/) website. At least I had a small problem when adding a new project.***
+
+***Also: I wrote this tutorial to help beginner coders join our [Monthly Bot Challenge](/monthly-bot-challenge). Be sure to join the [Botmakers.org](https://botmakers.org/) community to share ideas and ask for help, and follow [@botwikidotorg](https://twitter.com/botwikidotorg/) for updates!***
+
 
 ### [¶](#step-1){.pilcrow} Creating a Twitter app {#step-1}
 
 The way you make bots on Twitter is that you first create a new account, which is going to be the actual bot, and a Twitter app, through which you will control this bot.
 
-So let's start by [creating a new Twitter account](https://twitter.com/signup). This is relatively straightforward. Now, the tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. See the [**Note on needing a phone number**](/tutorials/twitterbots#note-phone-number) section of the Twitter bot tutorials page for possible solutions.
+So let's start by [creating a new Twitter account](https://twitter.com/signup). This is relatively straightforward. The only tricky part is that if you want your app to be able to post to Twitter, rather than just read from it, you will need to add a phone number to your account. If you already associated your phone number with your main account, see the [**Note on needing a phone number**](/tutorials/twitterbots#note-phone-number) section of the Twitter bot tutorials page for possible solutions.
 
 After you create your account, go to [apps.twitter.com](https://apps.twitter.com/) and create a new app. 
 
@@ -51,7 +52,7 @@ You need to click the button in the **Your Access Token** section to generate th
 
 As explained earlier, Cloud9 is a browser-based IDE, or [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment). All this means is just that you can use it to write code, and most of the other things, like setting up your working environment and deploying your app to a server will be taken care of for you.
 
-Cloud9 offers a [free plan](https://c9.io/pricing/public), which offers more than enough for our simple Twitter bot.
+Cloud9 offers a [free plan](https://c9.io/pricing/public), which gives us more than enough for our simple Twitter bot.
 
 So let's [sign up for our free account](https://c9.io/web/sign-up/free). After we fill out all the necessary information, we should land in our Workspaces view. 
 
@@ -68,7 +69,7 @@ After a few seconds, your IDE should load and you should see something like this
 
 ![IDE](/content/tutorials/making-what_capital/images/ide.png)
 
-I will add links that explain everything in more detail, but for now, I'm just going you quickly run you through the basics so you can get an idea what making bots is all about.
+I will add [links that go into more details](#further-reading), but for now, I'm just going you quickly run you through the basics so you can get an idea what making bots is all about.
 
 The most important things to know are: you can see your files and folders on the left. `server.js` is where you will write your Twitter bot code. The tab at the bottom where it says "bash" is the *command line*, and we will use that to install the Twit module.
 
@@ -140,7 +141,7 @@ T.post('statuses/update', {
 
 Let me explain a few things. `require` is a command in node.js that loads libaries and files. This allows us to load the *Twit* library we installed, but also the configuration file with our API keys. `fs` and `path` are node.js modules that will *help* our script find our files, so that we can, for example, easily load our configuration file.
 
-I will include a link to some JavaScript and node.js tutorials at the end, but for now, the code above can be simplified to something like this:
+I will include links to some JavaScript and node.js tutorials [at the end](#further-reading), but for now, the code above can be simplified to something like this:
 
 
 ```
@@ -189,9 +190,9 @@ In the top menu, click **File**, then **Upload Local Files**. Go back to the *.z
 ![Flags galore](/content/tutorials/making-what_capital/images/flags.png){.centered}
 
 
-Using a neat little library called [countries-list](https://www.npmjs.com/package/countries-list), I created a list of about 200 countries and their capitals. [Download the list from here](/content/tutorials/making-what_capital/data/list_of_countries.js) and also upload it to your project.
+Using a neat little library called [countries-list](https://www.npmjs.com/package/countries-list), I created a list of about 200 countries and their capitals. [Download the list from here](/content/tutorials/making-what_capital/source/list_of_countries.js) and also upload it to your project.
 
-And [here is my finished and annotated `server.js` file](/content/tutorials/making-what_capital/data/server.js). Let me quickly explain the main parts of the code.
+And [here is my finished and annotated `server.js` file](/content/tutorials/making-what_capital/source/server.js). Let me quickly explain the main parts of the code.
 
 We are going to load the list of countries similarly to how we loaded our API keys.
 
@@ -278,8 +279,24 @@ T.post('media/upload', { media_data: b64content }, function (err, data, response
 
 Some more ideas to explore:
 
-- you could save the score for each player a [Google Sheets](https://www.google.com/sheets/about/) spreadsheet (see [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet)); then you could post the leaderboard after each game
+- you could save the score for each player a [Google Sheets](https://www.google.com/sheets/about/) spreadsheet (see the [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) module); then you could post the leaderboard after each game
 - you could add more responses to both when the answer is correct and incorrect (using the same technique as for picking a random country)
-- you could let the player know if they probably just misspelled the answer (see [levenshtein](https://www.npmjs.com/package/levenshtein), or learn more about Levenshtein distance on [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
+- you could let the player know if they probably just misspelled the answer (see the [levenshtein](https://www.npmjs.com/package/levenshtein) module, or learn more about Levenshtein distance on [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
 
-This bot can also be "repurposed" and turned into similar games, for example, you could make a bot that posts outlines of countries and the players need to identify them. You could post images of famous people, landmarks, animals, etc. You could even make the game fully text-based.
+This bot can also be "repurposed" and turned into similar games, for example, you could make a bot that posts outlines of countries and the players need to identify them. You could post images of famous people, landmarks, animals, etc. You could even make the game fully text-based and create something like [@TheRiddlerBot](https://botwiki.org/bots/twitterbots/TheRiddlerBot/).
+
+
+### [¶](#further-reading){.pilcrow} Further reading {#further-reading}
+
+- [Getting Started with Cloud9](https://docs.c9.io/docs/): Useful links and tips for learning how to use our cloud IDE
+- [JavaScript Fundamentals](http://thenewcode.com/1027/Web-Developer-Reading-List-JavaScript-Fundamentals)
+- [The Absolute Beginner’s Guide to Node.js](http://blog.codeship.com/node-js-tutorial/)
+- [Twitter Bot Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) video tutorial series by [Daniel Shiffman](https://twitter.com/shiffman) 
+
+### [¶](#notes){.pilcrow} Notes {#notes}
+
+Earlier I mentioned the need for making your workspace "private". This is mainly so that you don't expose your private Twitter API keys. Anyone who can see those could easily take over your bot and use it to spam people.
+
+Using the free plan, Cloud9 only allows you to have [one private workspace](https://c9.io/pricing/public), which is still very generious. If you want to use Cloud9 to host another bot, you will have to make your additional workspaces public.
+
+I am going to follow up this tutorial with one that shows how you can create one node.js app that can control multiple bots, but if you don't mind having your source code visible, there is actually a very simple workaround for having private information in public workspaces: simply [move the configuration file](https://docs.c9.io/docs/sensitive-data-in-public-workspaces) outside of your workspace directory.
