@@ -99,7 +99,13 @@ if(window.location.hash) {
   }
   smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
   return false;
-}  
+}
+
+document.getElementById('home-link').addEventListener('click', function(event){
+  event.preventDefault();
+  smoothScroll(0, 500);
+});
+
 console.log('                                                                                                                    ');
 console.log('88888888ba                                            88  88         88                                             ');
 console.log('88      "8b                ,d                         ""  88         ""                                             ');
