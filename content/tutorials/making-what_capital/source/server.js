@@ -1,5 +1,5 @@
 /*
-  Annotated source code for twitter.com/what_capital. Created by Stefan Bohacek (twitter.com/fourtonfish).
+  Annotated source code for twitter.com/what_capital. Created by Stefan Bohacek (twitter.com/fourtonfish) as part of a tutorial: botwiki.org/tutorials/making-what_capital
 */
 
 /*
