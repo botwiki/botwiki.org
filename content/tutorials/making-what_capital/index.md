@@ -14,7 +14,7 @@ In this tutorial, I'm going to guide you through the creation of a simple Twitte
 
 We are going to use the following tools:
 
-- [Cloud9](https://c9.io/fourtonfish), a browser-based [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment), or in other words, a web app where you will write your code,
+- [Cloud9](https://c9.io/), a browser-based [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment), or in other words, a web app where you will write your code,
 - [node.js](https://nodejs.org/), a way of running [JavaScript](https://en.wikipedia.org/wiki/JavaScript) on the server,
 - and [Twit](https://github.com/ttezel/twit), a node.js module (or a library) for interacting with Twitter
 
