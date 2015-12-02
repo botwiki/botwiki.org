@@ -32,6 +32,8 @@ For libraries and frameworks for specific networks check out their corresponding
 #### [¶](#nodejs-js-images){.pilcrow} Images {#nodejs-js-images}
 
 - [aleju/cat-generator](https://github.com/aleju/cat-generator) -- generate cat images with neural networks
+- [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code) -- generate any image
+
 
 #### [¶](#nodejs-js-apis){.pilcrow} APIs {#nodejs-js-apis}
 
