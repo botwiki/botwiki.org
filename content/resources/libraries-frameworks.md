@@ -26,6 +26,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [jimkang/shakesnippet](https://github.com/jimkang/shakesnippet) -- provides a randomly chosen Shakespeare excerpt
 - [zeke/cmu-pronouncing-dictionary](https://github.com/zeke/cmu-pronouncing-dictionary) -- all the 134,000+ words in the [CMU pronouncing dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) as a simple JSON object
 - [zeke/rhymes](https://github.com/zeke/rhymes) -- "Give me an English word and I'll give you a list of rhymes." (uses zeke/cmu-pronouncing-dictionary)
+- [shariq/burgundy](https://github.com/shariq/burgundy) -- generates "aesthetically pleasing words", see [burgundy.io](http://burgundy.io/)
 
 
 #### [¶](#nodejs-js-images){.pilcrow} Images {#nodejs-js-images}
