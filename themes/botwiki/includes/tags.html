@@ -24,6 +24,8 @@
 {% elseif current_tags != ['all-tags'] %}
   {% if current_tags == ['twitterbot'] %}
     {% include 'includes/twitterbots.html' %}
+  {% elseif current_tags == ['slackbot'] %}
+    {% include 'includes/slackbots.html' %}
   {% elseif current_tags == ['images'] %}
     <p>You can also explore the <a href="/tag/gif">#gif</a> tag.</p>
   {% elseif current_tags == ['game'] %}
