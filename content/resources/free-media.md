@@ -20,6 +20,7 @@ Nav: hidden
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) -- "more than 8,400 high-resolution photographs taken by Apollo astronauts during trips to the moon"
 - [Political Posters, Labadie Collection, University of Michigan](http://quod.lib.umich.edu/l/lbc2ic?cc=lbc2ic;page=index;c=lbc2ic) -- 2,200 radical political posters
 - [U.S. Department of Agriculture (USDA) Pomological Watercolor Collection](http://usdawatercolors.nal.usda.gov/pom/home.xhtml) -- 7,584 watercolor paintings, lithographs and line drawings, including 3,807 images of apples
+ - [@pomological](/bots/twitterbots/pomological/) tweets these images randomly
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- see the DATASETS tab for maps, posters, and more
 - [French Revolution Digital Archive](http://frda.stanford.edu/) -- 14,000 images of the French Revolution
 - [National Gallery of Art Images](https://images.nga.gov/?service=category&action=show_content_page&language=en&category=16) -- 35,000 works of art from the National Gallery, including masterpieces by Van Gogh, Gauguin, Rembrandt, and more
