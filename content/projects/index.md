@@ -7,7 +7,10 @@ Description: See what we are working on.
 The projects we are currently focusing on are:
 
 
+
 ### [¶](#botwiki-org){.pilcrow} Botwiki.org {#botwiki-org}
+
+![Botwiki.org](/content/projects/images/botwiki.png)
 
 [Botwiki.org](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
 
@@ -16,17 +19,31 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ### [¶](#botmakers-org){.pilcrow} Botmakers.org {#botmakers-org}
 
+[![Botmakers.org](/content/projects/images/botmakers.png)](https://botmakers.org/)
+
 [Botmakers.org](https://botmakers.org/) is a friendly Slack group for botmakers and bot enthusiasts. We share ideas, resources, tips -- things that eventually end up on Botwiki.org. We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) -- and it applies to our bots as well!
 
 
 ### [¶](#botzine-org){.pilcrow} Botzine.org {#botzine-org}
+
+[![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
 
 [Botzine.org](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [TinyLetter](http://tinyletter.com/). It goes out every Monday and features *Botmaker Profiles*, a series of interviews that introduce the members of the botmaking community.
 
 
 ### [¶](#botwikibot){.pilcrow} @botwikibot {#botwikibot}
 
-**@botwikibot** is a "multi-network" bot that powers the offical [@botwikidotorg](https://twitter.com/botwikidotorg) account (it retweets the core members of the Botwiki team; the source code for this functionality is available [on GitHub](https://github.com/botwiki/community-retweet-bot)) and also helps out in our [Botmakers.org](https://botmakers.org/) Slack group where it helps us filter our channel that pulls in relevant tweets.
+**@botwikibot** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
+
+- on Twitter, it powers the semi-automated [@botwikidotorg](https://twitter.com/botwikidotorg) account
+- it retweets tweets from whitelisted accounts (people it follows) that contain the *#botmaker* hashtag
+- it retweets tweets shared by DM (also checks if the DM came from an account it follows)
+- in the [Botmakers.org](https://botmakers.org/) Slack group, it pulls in relevant tweets and posts them to a dedicated channel
+- if a message with the tweet gets one of the specific reactions (*star*, *heart*, *+1*), it retweets it via the [@botwikidotorg](https://twitter.com/botwikidotorg) account
+- it can also mute accounts inside the dedicated channel
+- the bot handles its responses with [RiveScript](http://www.rivescript.com/)
+
+
 
 We are planning to add more features and open source the code to make it available to other Slack-based hobby and non-profit groups.
 
@@ -39,5 +56,5 @@ Regular botmaking events in San Francisco, CA, hosted by [Kasey](https://twitter
 
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
-Please see the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details.
+See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details.
 
