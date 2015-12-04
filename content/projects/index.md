@@ -38,7 +38,7 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 **Sidekick** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
 
 - on Twitter, it powers the semi-automated [@botwikidotorg](https://twitter.com/botwikidotorg) account
-- it retweets tweets from whitelisted accounts (people it follows) that contain the *#botmaker* hashtag
+- it retweets tweets from whitelisted accounts (people it follows) that contain the [#botmakers](https://twitter.com/hashtag/botmakers) hashtag
 - it retweets tweets shared by DM (also checks if the DM came from an account it follows)
 - it watches for keywords on Twitter and posts relevant tweets in a dedicated channel in the [Botmakers.org](https://botmakers.org/) Slack group
 - if the posted tweet gets a specific reaction (*star*, *heart*, *+1*), the bot retweets it via the [@botwikidotorg](https://twitter.com/botwikidotorg) account
