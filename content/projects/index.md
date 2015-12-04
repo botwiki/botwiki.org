@@ -31,11 +31,11 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 [Botzine.org](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [TinyLetter](http://tinyletter.com/). It goes out every Monday and features *Botmaker Profiles*, a series of interviews that introduce the members of the botmaking community.
 
 
-### [¶](#botwikibot){.pilcrow} @botwikibot {#botwikibot}
+### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 
-![@botwikibot](/content/projects/images/botwikibot.png)
+![Sidekick](/content/projects/images/botwikibot.png)
 
-**@botwikibot** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
+**Sidekick** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
 
 - on Twitter, it powers the semi-automated [@botwikidotorg](https://twitter.com/botwikidotorg) account
 - it retweets tweets from whitelisted accounts (people it follows) that contain the *#botmaker* hashtag
