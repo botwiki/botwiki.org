@@ -19,7 +19,7 @@ from selenium.webdriver.support import expected_conditions as ec
 import StringIO
 import os
 import time
-from colorama import Fore
+from colorama import init, Fore, Style
 
 
 def clean_path(path):
@@ -210,6 +210,7 @@ def botshotter(url, outdir, headless=False):
 
 
 if __name__ == "__main__":
+    init()  # Initialise Colorama for Windows
     parser = argparse.ArgumentParser(
         description="Take a screenshot of a bot's profile page.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
