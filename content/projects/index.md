@@ -33,19 +33,20 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ### [¶](#botwikibot){.pilcrow} @botwikibot {#botwikibot}
 
+![@botwikibot](/content/projects/images/botwikibot.png)
+
 **@botwikibot** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
 
 - on Twitter, it powers the semi-automated [@botwikidotorg](https://twitter.com/botwikidotorg) account
 - it retweets tweets from whitelisted accounts (people it follows) that contain the *#botmaker* hashtag
 - it retweets tweets shared by DM (also checks if the DM came from an account it follows)
-- in the [Botmakers.org](https://botmakers.org/) Slack group, it pulls in relevant tweets and posts them to a dedicated channel
-- if a message with the tweet gets one of the specific reactions (*star*, *heart*, *+1*), it retweets it via the [@botwikidotorg](https://twitter.com/botwikidotorg) account
-- it can also mute accounts inside the dedicated channel
+- it watches for keywords on Twitter and posts relevant tweets in a dedicated channel in the [Botmakers.org](https://botmakers.org/) Slack group
+- if the posted tweet gets a specific reaction (*star*, *heart*, *+1*), the bot retweets it via the [@botwikidotorg](https://twitter.com/botwikidotorg) account
+- it can also filter accounts from this search
 - the bot handles its responses with [RiveScript](http://www.rivescript.com/)
 
 
-
-We are planning to add more features and open source the code to make it available to other Slack-based hobby and non-profit groups.
+I'm planning to add more features (polls, advanced functionality for our Twitter tracking channel, and more) and open source the code to make it available to other Slack-based hobby and non-profit groups.
 
 If you'd like to help out with the development, join us at [Botmakers.org](https://botmakers.org/).
 
