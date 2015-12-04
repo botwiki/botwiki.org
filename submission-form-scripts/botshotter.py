@@ -34,7 +34,9 @@ def do_one_account(driver, url_or_username, outdir, headless):
     if outdir:
         outfile = os.path.join(outdir, outfile)
     if os.path.isfile(outfile):
-        print(Fore.RED + clean_path(outfile) + " already exists, skipping" + Style.RESET_ALL)
+        print(Fore.RED + clean_path(outfile) +
+              " already exists, skipping" +
+              Style.RESET_ALL)
         return  # Don't overwrite existing
 
     im = take_shot(driver, url, headless)
