@@ -10,6 +10,8 @@ Robots: index,follow
 
 [![](/content/bots/slackbots/images/MeMoji.png)](https://memoji.mod.bz/)
 
+***Note: Come join [Botmakers.org](https://botmakers.org/) and you can [try this bot yourself](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) :-)***
+
 [MeMoji](https://memoji.mod.bz/) is a bot-powered game for Slack created by [Ryan Stevens](https://twitter.com/ryan_stevens), [Josh Everett](https://twitter.com/puglr), [Oscar Nilsson](https://twitter.com/oscrse), and [Alex Karaman](https://github.com/alexkaraman85).
 
 
