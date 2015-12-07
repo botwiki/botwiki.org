@@ -18,7 +18,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
 
-- [Get Channel ID from Channel Name](https://open.blockspring.com/pkpp1233/get-channel-id-from-name) (needs a free account, plus connect with Slack)
+- You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example)
 
 A collection of community-built Slack integrations and plugins is at [api.slack.com/community](https://api.slack.com/community). Languages include C, Go, Haskell, Java, JavaScript (node.js), PHP, Python, Ruby and more.
 
