@@ -35,20 +35,7 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ![Sidekick](/content/projects/images/botwikibot.png)
 
-**Sidekick** is a multi-network bot, currently working on Twitter and Slack. Here's what it can do:
-
-- on Twitter, it powers the semi-automated [@botwikidotorg](https://twitter.com/botwikidotorg) account
-- it retweets tweets from whitelisted accounts (people it follows) that contain the [#botmakers](https://twitter.com/hashtag/botmakers) hashtag
-- it retweets tweets shared by DM (also checks if the DM came from an account it follows)
-- it watches for keywords on Twitter and posts relevant tweets in a dedicated channel in the [Botmakers.org](https://botmakers.org/) Slack group
-- if the posted tweet gets a specific reaction (*star*, *heart*, *+1*), the bot retweets it via the [@botwikidotorg](https://twitter.com/botwikidotorg) account
-- it can also filter accounts from this search
-- the bot handles its responses with [RiveScript](http://www.rivescript.com/)
-
-
-I'm planning to add more features (polls, advanced functionality for our Twitter tracking channel, and more) and open source the code to make it available to other Slack-based hobby and non-profit groups.
-
-If you'd like to help out with the development, join us at [Botmakers.org](https://botmakers.org/).
+**Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. Learn more about the project at [getyoursidekick.org](http://getyoursidekick.org/) and join the ongoing development at [Botmakers.org](https://botmakers.org/).
 
 ### [¶](#bay-area-bot-arts-meetup){.pilcrow} Bay Area Bot Arts Meetup {#bay-area-bot-arts-meetup}
 
