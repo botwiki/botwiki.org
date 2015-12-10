@@ -34,3 +34,4 @@ RedirectMatch "^/submit-your-bot/*" "https://docs.google.com/forms/d/1IZGM4AIUye
 RedirectMatch "^/survey/botmaking-01/*" "https://docs.google.com/forms/d/1MCKQSB2CCHUy7z-IDtNS-eSXQzXJWLEYGInF-Yd2CT4/viewform"
 RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
 RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
+RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
