@@ -17,18 +17,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
-### [¶](#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot){.pilcrow} [Learn To Make A Hilarious Twitter Bot](http://www.meetup.com/Bay-Area-Bot-Arts/events/226719808/) {#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot}
-
-> Learn to make a hilarious Twitter bot that sounds like YOU (or anyone)! No experience is necessary.
-
-_December 6th, 2pm_
-
-Sophia University ([map](https://www.google.com/maps/dir/Current+Location/Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA))<br/>
-1069 East Meadow Circle,<br/>
-Palo Alto, CA<br/>
-
-<hr/>
-
 ### [¶](#nanogenmo-2015){.pilcrow} [NaNoGenMo 2015](https://github.com/dariusk/NaNoGenMo-2015/) {#nanogenmo-2015}
 
 > Spend the month of November writing code that generates a novel of 50k+ words. This is in the spirit of [National Novel Writing Month](http://nanowrimo.org/)'s interesting [definition of a novel](https://nanowrimo.uservoice.com/knowledgebase/articles/329132-why-50-000-words-and-how-do-you-define-novel) as 50,000 words of fiction.
@@ -76,6 +64,18 @@ _Self-paced online course at edx.org, starts on October 12 (2015)_
 
 
 ## [¶](#past-events){.pilcrow} Past events {#past-events}
+
+### [¶](#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot){.pilcrow} [Learn To Make A Hilarious Twitter Bot](http://www.meetup.com/Bay-Area-Bot-Arts/events/226719808/) {#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot}
+
+> Learn to make a hilarious Twitter bot that sounds like YOU (or anyone)! No experience is necessary.
+
+_December 6th, 2pm_
+
+Sophia University ([map](https://www.google.com/maps/dir/Current+Location/Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA))<br/>
+1069 East Meadow Circle,<br/>
+Palo Alto, CA<br/>
+
+<hr/>
 
 ### [¶](#procjam-2015){.pilcrow} [PROCJAM 2015](http://www.procjam.com/category/procjam-2015/) {#procjam-2015}
 
