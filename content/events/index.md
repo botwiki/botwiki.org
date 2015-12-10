@@ -17,16 +17,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
-### [¶](#nanogenmo-2015){.pilcrow} [NaNoGenMo 2015](https://github.com/dariusk/NaNoGenMo-2015/) {#nanogenmo-2015}
-
-> Spend the month of November writing code that generates a novel of 50k+ words. This is in the spirit of [National Novel Writing Month](http://nanowrimo.org/)'s interesting [definition of a novel](https://nanowrimo.uservoice.com/knowledgebase/articles/329132-why-50-000-words-and-how-do-you-define-novel) as 50,000 words of fiction.
-
-_November 1st - December 1st_ -- online
-
-Be sure to browse the [#nanogenmo](https://twitter.com/search?f=tweets&vertical=default&q=%23nanogenmo) hashtag on Twitter.
-
-<hr/>
-
 ### [¶](#o-reilly-design-2016){.pilcrow} [O'Reilly Design](http://conferences.oreilly.com/design-ux-interaction-iot) {#o-reilly-design-2016}
 
 Includes a session by [Ben Brown](https://twitter.com/benbrown) titled ["Your friendly robot companions: Design for messaging and chat"](http://conferences.oreilly.com/design-ux-interaction-iot/public/schedule/detail/45682).
@@ -64,6 +54,16 @@ _Self-paced online course at edx.org, starts on October 12 (2015)_
 
 
 ## [¶](#past-events){.pilcrow} Past events {#past-events}
+
+### [¶](#nanogenmo-2015){.pilcrow} [NaNoGenMo 2015](https://github.com/dariusk/NaNoGenMo-2015/) {#nanogenmo-2015}
+
+> Spend the month of November writing code that generates a novel of 50k+ words. This is in the spirit of [National Novel Writing Month](http://nanowrimo.org/)'s interesting [definition of a novel](https://nanowrimo.uservoice.com/knowledgebase/articles/329132-why-50-000-words-and-how-do-you-define-novel) as 50,000 words of fiction.
+
+_November 1st - December 1st_ -- online
+
+Be sure to browse the [#nanogenmo](https://twitter.com/search?f=tweets&vertical=default&q=%23nanogenmo) hashtag on Twitter.
+
+<hr/>
 
 ### [¶](#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot){.pilcrow} [Learn To Make A Hilarious Twitter Bot](http://www.meetup.com/Bay-Area-Bot-Arts/events/226719808/) {#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot}
 
