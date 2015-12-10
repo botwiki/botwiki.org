@@ -12,14 +12,23 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 ### [¶](#libraries-frameworks){.pilcrow} Libraries/Frameworks {#libraries-frameworks}
 
+A collection of community-built Slack integrations and plugins is at [api.slack.com/community](https://api.slack.com/community). Languages include C, Go, Haskell, Java, JavaScript (node.js), PHP, Python, Ruby and more.
+
+#### [¶](#libraries-frameworks-nodejs){.pilcrow} node.js {#libraries-frameworks-nodejs}
+
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
-- [slackhq/python-slackclient](https://github.com/slackhq/python-slackclient) -- official Slack client for Python
+- [slackhq/hubot-slack](https://github.com/slackhq/hubot-slack) -- a [Hubot](https://hubot.github.com/) adapter to use with Slack
 - [mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api) -- "node.js library for easy operation with Slack API"
+
+#### [¶](#libraries-frameworks-python){.pilcrow} Python {#libraries-frameworks-python}
+
+- [slackhq/python-slackclient](https://github.com/slackhq/python-slackclient) -- official Slack client for Python
+- [andrewthetechie/slack_rtmbot](https://github.com/andrewthetechie/slack_rtmbot) -- A Python-based bot framework, created by [@andrewthetechie](https://twitter.com/andrewthetechie), that lets you use [Slack's RTM API](https://api.slack.com/rtm). It's extensible via [plugins](https://github.com/andrewthetechie/slack_rtmbot/tree/master/doc/plugins#creating-plugins).
+
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
 
 - You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example)
 
-A collection of community-built Slack integrations and plugins is at [api.slack.com/community](https://api.slack.com/community). Languages include C, Go, Haskell, Java, JavaScript (node.js), PHP, Python, Ruby and more.
 
 [Back to all resources.](/resources)
