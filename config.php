@@ -43,6 +43,7 @@ $config['ptags_template'] = 'index';
 
 $config['custom_meta_values'] = array(
   'nav' => 'Nav',
+  'thumbnail' => 'Thumbnail',
   'language' => 'Language',
   'translations' => 'Translations'
 );
