@@ -1,6 +1,6 @@
 /*
 Title: Botmaker Badges
-Thumbnail: botmaker-badges/images/botmaker-badges-thumbnail-v1.png
+Thumbnail: botmaker-badges/images/botmaker-badges-thumbnail-v1.1.png
 Description: Digital open badges for botmakers.
 Nav: hidden
 */
