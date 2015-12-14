@@ -27,6 +27,7 @@ Submissions are already open and we are going to use this first challenge to ful
 
  4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge)
 
+### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
 For the very first Monthly Bot Challenge, our generous sponsor [DigitalOcean](https://www.digitalocean.com/) will provide the following prizes:
 
