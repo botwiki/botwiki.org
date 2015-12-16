@@ -25,7 +25,7 @@ Submissions are already open and we are going to use this first challenge to ful
 
  3. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
 
- 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive [a badge](/botmaker-badges/#monthly-bot-challenge-badge)
+ 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge).
 
 ### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
