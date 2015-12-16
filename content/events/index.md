@@ -18,13 +18,11 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
 
-### [¶](#meet-and-greet-with-bot-fans-in-sf-december-14-2015){.pilcrow} [Meet and Greet with Bot Fans in SF!](http://www.meetup.com/Bay-Area-Bot-Arts/events/226815239/) {#meet-and-greet-with-bot-fans-in-sf-december-14-2015}
+### [¶](#the-algorithmia-shorties-contest-december-2015){.pilcrow} [The Algorithmia Shorties Contest](https://github.com/algorithmiaio/shorties) {#the-algorithmia-shorties-contest-december-2015}
 
-_December 14, 6:30 PM to 9:30 PM_
+_December 9th to January 9th_
 
-Make School ([map](https://www.google.com/maps/dir/Current+Location/Make+School+1547+Mission+St+San+Francisco+CA))<br/>
-1547 Mission St,<br/>
-San Francisco, CA<br/>
+> [The Algorithmia Shorties contest](https://github.com/algorithmiaio/shorties) is designed to help programmers of all skill levels get started with Natural Language Processing tools and concepts.
 
 <hr/>
 
@@ -66,6 +64,16 @@ _Self-paced online course at edx.org, starts on October 12 (2015)_
 
 
 ## [¶](#past-events){.pilcrow} Past events {#past-events}
+
+### [¶](#meet-and-greet-with-bot-fans-in-sf-december-14-2015){.pilcrow} [Meet and Greet with Bot Fans in SF!](http://www.meetup.com/Bay-Area-Bot-Arts/events/226815239/) {#meet-and-greet-with-bot-fans-in-sf-december-14-2015}
+
+_December 14, 6:30 PM to 9:30 PM_
+
+Make School ([map](https://www.google.com/maps/dir/Current+Location/Make+School+1547+Mission+St+San+Francisco+CA))<br/>
+1547 Mission St,<br/>
+San Francisco, CA<br/>
+
+<hr/>
 
 ### [¶](#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot){.pilcrow} [Learn To Make A Hilarious Twitter Bot](http://www.meetup.com/Bay-Area-Bot-Arts/events/226719808/) {#bay-area-bot-arts-learn-to-make-a-hilarious-twitter-bot}
 
