@@ -10,6 +10,8 @@ A list of [upcoming](#upcoming-events), [permanently ongoing](#ongoing-events), 
 
 For regular botmaking events in San Francisco, CA, check out [Kasey](https://twitter.com/bitpixi)'s [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/) and follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
 
+For the **Monthly Bot Challenge**, [see the dedicated page](/monthly-bot-challenge). 
+
 Do you know about an interesting event? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
 
 Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/)!
