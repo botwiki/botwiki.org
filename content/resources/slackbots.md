@@ -16,7 +16,7 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 
 #### [¶](#libraries-frameworks-nodejs){.pilcrow} node.js {#libraries-frameworks-nodejs}
 
-- [Botkit](http://howdy.ai/botkit/): Building Blocks for Building Slack Bots ([howdyai/botkit](https://github.com/howdyai/botkit))
+- [Botkit](http://howdy.ai/botkit/) -- "Building Blocks for Building Slack Bots" ([howdyai/botkit](https://github.com/howdyai/botkit))
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
 - [slackhq/hubot-slack](https://github.com/slackhq/hubot-slack) -- a [Hubot](https://hubot.github.com/) adapter to use with Slack
 - [mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api) -- "node.js library for easy operation with Slack API"
