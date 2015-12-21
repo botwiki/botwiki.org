@@ -19,13 +19,21 @@ Submissions are already open and we are going to use this first challenge to ful
 
 ### [¶](#rules){.pilcrow} Rules {#rules}
 
- 1. On **the first day of the month**, we will announce the topic via our official Twitter account [@botwikidotorg](https://twitter.com/botwikidotorg), in our dedicated [#monthly-bot-challenge](https://botmakers.slack.com/messages/monthly-bot-challenge/details/) channel (you can join our group at [botmakers.org](https://botmakers.org/)), and the topic will also be mentioned in our [Bot! zine](http://botzine.org/) newsletter, which comes out every Monday.
+ 1. On **the first day of the month**, the topic will be announced via the official [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account, in the dedicated [#monthly-bot-challenge](https://botmakers.slack.com/messages/monthly-bot-challenge/details/) channel (you can join our group at [botmakers.org](https://botmakers.org/)), and the topic will also be mentioned in the [Bot! zine](http://botzine.org/) newsletter, which comes out every Monday.
 
  2. Everyone will have **until the end of the month** to create a bot inspired by the topic. You can make the bot open source, but it's **not** a condition for entering the challenge.
 
- 3. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
+ 3. You can only submit **one bot**. You can reuse existing code (your own or [open source](/tag/opensource)), but you must add **something new** for the hackathon.
 
- 4. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge).
+ 4. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
+
+ Note that the bot will be submitted to Botwiki, so if you prefer, you can wait until the day before the voting starts.
+
+ 5. You are free to make updates to your bot until the voting starts, even after you submit your bot to Botwiki. Only bug fixes are allowed after the voting period starts.
+
+ 6. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge).
+
+Not adhering to the rules above **may disqualify you from the contest**, so if anything is unclear, please ask!
 
 ### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
