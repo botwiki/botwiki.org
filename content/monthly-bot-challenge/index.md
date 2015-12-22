@@ -33,7 +33,11 @@ Submissions are already open and we are going to use this first challenge to ful
 
  6. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge).
 
-Not adhering to the rules above **may disqualify you from the contest**, so if anything is unclear, please ask!
+Not adhering to the rules above **may disqualify you from the contest** (depending on the severity and context, this can apply to the current month, or the Monthly Challenge altogether). Also, while interacting with other participants and members of [Botmakers.org](https://botmakers.org/), you must follow the **Botmakers.org** [Code of Conduct](http://botmakers.org/code-of-conduct/), which also applies to the behavior of your submitted bot.
+
+Naturally, you must also follow the rules of the platform on which you choose to create your bot.
+
+If any of the rules are unclear, please [ask questions](mailto:stefan@fourtonfish.com)! 
 
 ### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
