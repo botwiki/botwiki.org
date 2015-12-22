@@ -6,11 +6,11 @@ Author: Stefan Bohacek
 Weight: 4
 */
 
-Below is a [selection of blogs](#blogs) centered around botmaking and bot-related topics. Further below is [a few hand-picked blog posts](#selected-articles). And right after that, [videos](#videos) of talks that should be of interest to botmakers and bot enthusiasts as well.
+For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg). Below is a [selection of blogs](#blogs), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
 
 Enjoy!
 
-***PS: Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
+***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
 
 
 ### [¶](#blogs){.pilcrow} Blogs {#blogs}
@@ -44,8 +44,4 @@ Enjoy!
 ### [¶](#videos){.pilcrow} Videos {#videos}
 
 - [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"
-- Video of a [session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder] and [@naveen](https://twitter.com/naveen).
-
-
-
-Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for real-time updates.
+- Video of a [session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
