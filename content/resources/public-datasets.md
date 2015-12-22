@@ -22,6 +22,7 @@ Nav: hidden
 ### [¶](#datasets-language){.pilcrow} General language, news, reviews, forum data, metadata {#datasets-language}
 
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
+- [VisualGenome](http://visualgenome.org/) -- "dataset, a knowledge base, an ongoing effort to connect structured image concepts to language"
 - [European Parliament Proceedings Parallel Corpus 1996-2011](http://www.statmt.org/europarl/)
 - [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/) -- a collection of approximately 20,000 newsgroup documents
 - [Yelp's Academic Dataset](https://www.yelp.com/academic_dataset)
