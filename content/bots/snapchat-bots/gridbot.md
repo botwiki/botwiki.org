@@ -1,6 +1,6 @@
 /*
 Title: gridbot
-Description: A Hype Machine video bot on Snapchat.
+Description: Colorful grids, once a day!
 Author: Stefan Bohacek
 Date: October 10, 2015
 Tags: snapchat,snapchatbot,inactive,images,gridbot,tinysubversions
