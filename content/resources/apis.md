@@ -8,6 +8,9 @@ Nav: hidden
 
 ![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-right}
 
+### [¶](#general-knowledge-base){.pilcrow} General knowledge base {#general-knowledge-base}
+- [Google Knowledge Graph Search API](https://developers.google.com/knowledge-graph/) -- find entities in the [Google Knowledge Graph](https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html)
+
 ### [¶](#language-text-speech){.pilcrow} Language, text, speech {#language-text-speech}
 - [The New York Times Semantic API](http://developer.nytimes.com/docs/read/semantic_API) -- "list of people, places, organizations and other locations, entities and descriptors that make up the controlled vocabulary used as metadata by The New York Times"
 - [TextTeaser](http://www.textteaser.com/) -- "an automatic summarization"
