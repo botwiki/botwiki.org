@@ -126,9 +126,12 @@ console.log('                                                                   
 console.log('                                                                                                         "Y8bbdP"   ');
   console.log('\nHello there! Are you a #botmaker? Join us! https://botmakers.org/\n');
   console.log('Want to get more involved? https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md\n\n');
-  var botHeaderImage = document.querySelectorAll('article img')[0];
-  botHeaderImage.dataset.src = botHeaderImage.src;
-  botHeaderImage.classList.add('lazy-load');
+  var articleImages = document.querySelectorAll('article img');
+
+  for (var i = 0, j = articleImages.length; i < j; i++){
+    articleImages[i].dataset.src = articleImages[i].src;
+    articleImages[i].classList.add('lazy-load');    
+  }
 
   var lazyLoadedImages = document.getElementsByClassName('search-text-after-image');
   if (lazyLoadedImages.lenght){
