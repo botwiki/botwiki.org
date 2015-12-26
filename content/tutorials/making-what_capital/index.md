@@ -296,6 +296,41 @@ This bot can also be "repurposed" and turned into similar games, for example, yo
 
 Earlier I mentioned the need for making your workspace "private". This is mainly so that you don't expose your private Twitter API keys. Anyone who can see those could easily take over your bot and use it to spam people.
 
-Using the free plan, Cloud9 only allows you to have [one private workspace](https://c9.io/pricing/public), which is still very generious. If you want to use Cloud9 to host another bot, you will have to make your additional workspaces public.
+Using the free plan, Cloud9 only allows you to have [one private workspace](https://c9.io/pricing/public), which is still very generous. If you want to use Cloud9 to host another bot, you will have to make your additional workspaces public.
 
+Another complication comes from the fact that on the free Cloud9 plan, your app will become idle if it doesn't get any web traffic for a while. You have two options here: you can subscribe to the [$19/month plan](https://c9.io/pricing/webide), or you could use [OpenShift](https://www.openshift.com/) to actually host and run your app, while you'd still edit the code using Cloud9. Note that you will have to ["upgrade" to the free Bronze plan](https://www.openshift.com/pricing/index.html), which, again, is free, but it does require you to add your credit card information anyway.
+
+### [¶](#step-openshift){.pilcrow} Deploying to OpenShift {#step-openshift}
+
+***This section is work in progress.***
+
+Integrating with OpenShift is actually fairly straightforward. I recommend downloading your `config.js` file, deleting your current Cloud9 project and creating a new one. (Below I will add a link to an updated version of **@what_capital**).
+
+Also, we're going to be using *git*, so [here is a very quick overview](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) of what git is.
+
+1. Sign up for a [new OpenShift account](https://www.openshift.com/app/account/new) and [switch to the free Bronze plan](https://www.openshift.com/pricing/index.html).
+2. Create a [new node.js app](https://openshift.redhat.com/app/console/application_types).
+3. Copy [your Cloud9 SSH key](https://c9.io/account/ssh) and [add it to your OpenShift account](https://openshift.redhat.com/app/console/keys/new) (this is essentially needed [for the two sites to communicate](https://simple.wikipedia.org/wiki/Secure_Shell)).
+4. When you open your OpenShift app page, on the right side, you will see a text field under *Source Code* and above *Pass this URL to 'git clone' to copy the repository locally*. It will look something like `ssh://65522ee0c2e66c3d300190@whatcapital-botsfortwitter.rhcloud.com/~/git/whatcapital.git/`.
+5. Go back to the Cloud9 command line, after you create a new project, and insert the code below, updated with the correct `ssh://...` line:
+```
+git init
+git remote add openshift -m master ssh://65522ee0c2e66c3d300190@whatcapital-botsfortwitter.rhcloud.com/~/git/whatcapital.git/
+```
+6. Next, we're going to copy over the OpenShift default node.js project:
+```
+git pull openshift master
+``` 
+7. [Download the source code for @what_capital](https://github.com/fourtonfish/what_capital) (slightly modified to run on OpenShift), upload it to your project folder and run:
+```
+git add -A
+git commit
+git push openshift master
+```
+8. I highly recommend looking at some [git tutorials](https://try.github.io/), but for simplicity, you can use the commands from the above step every time you want to update your bot, after you update your code.
+
+***This section is work in progress.***
+
+<!--
 I am going to follow up this tutorial with one that shows how you can create one node.js app that can control multiple bots, but if you don't mind having your source code visible, there is actually a very simple workaround for having private information in public workspaces: simply [move the configuration file](https://docs.c9.io/docs/sensitive-data-in-public-workspaces) outside of your workspace directory.
+-->
