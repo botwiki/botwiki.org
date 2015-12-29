@@ -12,7 +12,7 @@ Nav: hidden
 [![DigitalOcean](/content/images/logos/digitalocean-logo.png){.float-right}](https://www.digitalocean.com/)
 
 
-**The first Monthly Bot Challenge will officially start on January 1, 2016. The sponsor of our first challenge is [DigitalOcean](https://www.digitalocean.com/), provider of simple cloud infrastructure for developers, used by hobby projects and full production websites -- including our very own Botwiki.**
+**The first Monthly Bot Challenge will officially start on January 1, 2016. The sponsor of our first challenge is [DigitalOcean](https://www.digitalocean.com/) ([see prizes below](#prizes)), provider of simple cloud infrastructure for developers, used by hobby projects and full production websites -- including our very own Botwiki.**
 
 
 Submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup. Continue reading below for the [Rules](#rules) and [Prizes](#prizes).
