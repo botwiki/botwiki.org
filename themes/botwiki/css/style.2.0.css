@@ -9,6 +9,11 @@
 /* By: Gilbert Pellegrom
 /* http: //dev7studios.com
 /*=================================*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 /* Reset Styles
 /*---------------------------------------------*/
 html,
@@ -82,7 +87,7 @@ td {
 body {
   line-height: 1;
   color: black;
-  background: #2a2c2b;
+  background: #fff;
 }
 table {
   border-collapse: separate;
@@ -159,7 +164,7 @@ select:focus {
 body {
   font: 1.2em 'Yantramanav', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #2a2c2b;
+  background: #fff;
   -webkit-font-smoothing: antialiased;
 }
 a,
@@ -302,8 +307,8 @@ iframe[id^="twitter-widget"] {
 hr {
   border-top: solid 1px #dfdfdf;
   border-bottom: none;
-  margin: 3em auto 1em;
-  max-width: 90%;
+  margin: 2em auto 2em;
+  max-width: 100%;
 }
 center {
   padding: 2em 0;
@@ -341,12 +346,12 @@ div.all-tags a {
 }
 div#breadcrumbs-wrapper {
   background-color: #2a2c2b;
+  padding: 0 1em;
 }
 div#breadcrumbs {
   padding: 1em;
   background-color: #2a2c2b;
   width: 100%;
-  max-width: 900px;
   margin: 0 auto;
 }
 @media only screen and (max-width: 910px) {
@@ -369,11 +374,12 @@ div#breadcrumbs a {
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-  max-width: 900px;
   margin: 0 auto;
+  padding: 0 2em;
 }
 #header {
   padding: 50px 0 0;
+  background-color: #2a2c2b;
   color: #5D9CEC;
 }
 #header a {
@@ -460,13 +466,73 @@ form#search-form input {
   padding: 0.7em 5px;
   width: 100%;
 }
+div#content-wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+}
 #content {
+  min-height: 800px;
   background-color: #fff;
   padding: 50px 0 100px;
   font-size: 1.2em;
   line-height: 1.3em;
+  position: relative;
+}
+@media (min-width: 980px) {
+  aside#sidebar {
+    display: block;
+    max-width: 300px;
+    position: absolute;
+    padding: 2em 1em 0 1em;
+    left: 0;
+    top: 10px;
+    bottom: 50px;
+  }
+}
+@media (max-width: 980px) {
+  aside#sidebar {
+    overflow: auto;
+  }
+}
+aside#sidebar p {
+  font-size: 0.9em;
+  margin: 0 0 1em;
+  text-align: center;
+}
+aside#sidebar img {
+  display: block;
+  margin: 0 auto 0.7em;
+}
+@media (max-width: 980px) {
+  div.sidebar-module {
+    width: 33%;
+    float: left;
+  }
+}
+@media (max-width: 700px) {
+  div.sidebar-module {
+    width: 100%;
+    float: none;
+  }
+}
+@media (min-width: 980px) {
+  div.sidebar-module:not(:last-child) {
+    border-bottom: 1px solid #dedede;
+  }
+}
+@media (min-width: 980px) {
+  div.sidebar-module:not(:first-child) {
+    margin-top: 2em;
+  }
+}
+@media (min-width: 980px) {
+  div#main {
+    margin-left: 300px;
+    padding: 0 1em;
+  }
 }
 #footer {
+  background-color: #2a2c2b;
   padding: 40px 0;
   color: #C0C0C0;
 }
@@ -589,9 +655,6 @@ img.logo-digitalocean {
   img.main-banner {
     margin: 0 auto;
   }
-  .inner {
-    width: 85%;
-  }
   .inner img {
     max-width: 100%;
   }
@@ -635,7 +698,7 @@ img.logo-digitalocean {
     margin-left: 30px;
   }
   div.callout {
-    max-width: 900px;
+    max-width: 1200px;
     margin: 0 auto;
     font-weight: bold;
     background-color: #000000;
@@ -701,9 +764,6 @@ img.logo-digitalocean {
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
-  .inner {
-    width: 85%;
-  }
   #header {
     margin-bottom: 30px;
   }

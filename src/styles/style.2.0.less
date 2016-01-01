@@ -6,7 +6,8 @@
   Variables
 */
 
-@site-width: 900px;
+@site-width: 1200px;
+@sidebar-width: 300px;
 @main-color: #2A2C2B;
 
 /*=================================*/
@@ -14,6 +15,10 @@
 /* By: Gilbert Pellegrom
 /* http: //dev7studios.com
 /*=================================*/
+
+*{
+  box-sizing: border-box;
+}
 
 /* Reset Styles
 /*---------------------------------------------*/
@@ -39,7 +44,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 body {
   line-height: 1;
   color: black;
-  background: @main-color;
+  background: #fff;
 }
 
 table {
@@ -115,7 +120,7 @@ select:focus {
 body {
   font: 1.2em 'Yantramanav', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: @main-color;
+  background: #fff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -265,8 +270,8 @@ iframe[id^="twitter-widget"]{
 hr{
   border-top: solid 1px #dfdfdf;
   border-bottom: none;
-  margin: 3em auto 1em;
-  max-width: 90%;
+  margin: 2em auto 2em;
+  max-width: 100%;
 }
 
 center{
@@ -314,13 +319,13 @@ div.all-tags a{
 
 div#breadcrumbs-wrapper{
   background-color: @main-color;
+  padding: 0 1em;
 }
 
 div#breadcrumbs{
   padding: 1em;
   background-color: @main-color;
   width: 100%;
-  max-width: 900px;
   margin: 0 auto;
   @media only screen and (max-width : 910px) {
     display: none;
@@ -345,12 +350,13 @@ div#breadcrumbs a{
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-  max-width: @site-width;
   margin: 0 auto;
+  padding: 0 2em;
 }
 
 #header {
   padding: 50px 0 0;
+  background-color: @main-color;
   color: #5D9CEC;
 }
 #header a { 
@@ -445,13 +451,79 @@ form#search-form input{
   width: 100%;
 }
 
+div#content-wrapper{
+  margin: 0 auto;
+  max-width: @site-width;
+}
+
 #content{
+  min-height: 800px;
   background-color: #fff;
   padding: 50px 0 100px;
   font-size: 1.2em;
   line-height: 1.3em;
+  position: relative;
 }
+
+aside#sidebar{
+  @media (min-width : 980px){
+    display: block;
+    max-width: @sidebar-width;
+    position: absolute;
+    padding: 2em 1em 0 1em;
+    left: 0;
+    top: 10px;
+    bottom: 50px;
+  }
+
+  @media (max-width : 980px){
+    overflow: auto;
+  }
+}
+
+aside#sidebar p{
+  font-size: 0.9em;
+  margin: 0 0 1em;
+  text-align: center;
+}
+
+aside#sidebar img{
+  display: block;
+  margin: 0 auto 0.7em;
+}
+
+div.sidebar-module{
+  @media (max-width : 980px){
+    width: 33%;
+    float: left;
+  }
+  @media (max-width : 700px){
+    width: 100%;
+    float: none;
+  }
+}
+
+div.sidebar-module:not(:last-child){
+  @media (min-width : 980px){
+    border-bottom: 1px solid #dedede;
+  }
+}
+
+div.sidebar-module:not(:first-child){
+  @media (min-width : 980px){
+    margin-top: 2em;
+  }
+}
+
+div#main{
+  @media (min-width : 980px){
+    margin-left: @sidebar-width;
+    padding: 0 1em;
+  }
+}
+
 #footer {
+  background-color: @main-color;
   padding: 40px 0;
   color: #C0C0C0;
 }
@@ -596,9 +668,6 @@ img.logo-digitalocean{
     margin: 0 auto;
   }
 
-  .inner {
-    width: 85%;
-  }
   .inner img {
     max-width:100%;
   }
@@ -642,7 +711,7 @@ img.logo-digitalocean{
   }
 
 div.callout{
-  max-width: 900px;
+  max-width: @site-width;
   margin: 0 auto;
   font-weight: bold;
   color: #fff;
@@ -706,9 +775,6 @@ div.callout a{
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (max-width : 480px) {
-  .inner {
-    width: 85%;
-  }
   #header {
     margin-bottom: 30px;
   }
