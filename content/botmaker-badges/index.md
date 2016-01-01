@@ -9,9 +9,9 @@ Nav: hidden
 >
 > -- [Wikipedia](https://en.wikipedia.org/wiki/Digital_badge)
 
-Using [Mozilla's Open Badges](https://en.wikipedia.org/wiki/Mozilla_Open_Badges) project, we are now issuing our own Botmaker Badges! See the list and conditions for applying below.
+Using [Mozilla's Open Badges](https://en.wikipedia.org/wiki/Mozilla_Open_Badges) and [Badgr](http://info.badgr.io/), we are issuing Botmaker Badges to people who create bots and resources for botmakers! See the list and conditions for applying below.
 
-Once you get your badge, you can add it to your [Mozilla Backpack](https://backpack.openbadges.org/) and show it off, [like this](https://backpack.openbadges.org/share/110353f11a04184be77cd6ae7e856fea/)!
+Once you get your badge, you can add it to your [Mozilla Backpack](https://backpack.openbadges.org/) and show it off [like this](https://backpack.openbadges.org/share/110353f11a04184be77cd6ae7e856fea/)!
 
 
 

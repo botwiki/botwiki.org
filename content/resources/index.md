@@ -24,7 +24,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Reddit bots](/resources/redditbots)
 - [IRC bots](/resources/irc-bots)
 
-### [¶](#other{.pilcrow} Lists and unsorted {#specificother}
+### [¶](#other){.pilcrow} Lists and unsorted {#specificother}
 
 - [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp) -- A curated list of resources dedicated to Natural Language Processing
 

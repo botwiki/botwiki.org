@@ -63,35 +63,9 @@
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Yantramanav" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.1.8.2.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.0.min.css" type="text/css" />  
 </head>
 <body>
-  <style type="text/css">
-    div.callout{
-      max-width: 900px;
-      margin: 0 auto;
-      font-weight: bold;
-      color: #fff;
-      background-color: #525252;
-      color: #fff;
-      overflow: auto;
-      padding: 0.5em 0;
-    }
-
-    div.callout > p{
-      padding: 0;
-      margin: 0;
-      text-align: center;
-    }
-
-    div.callout a{
-      color: #fff;
-      text-decoration: underline;
-    }  
-  </style>
-  <div class="callout">
-    <p>Join the <a href="/monthly-bot-challenge/">Monthly Bot Challenge</a> and win <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal-white.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a> hosting credit!</p>
-  </div>
   <header id="header">
     <div class="inner clearfix">
       <h1><a href="{{ base_url }}" id="logo">{{ site_title }}</a></h1>
@@ -123,29 +97,45 @@
     </div>      
     {% endif %}
 
-
-  <section id="content">
-    <div class="inner">
-      {% if meta.purpose == "search_results" %}
-        {% include 'includes/search_results.html' %}
-      {% else %}
-        {% if is_front_page %}
-          {% include 'includes/main.html' %}
-        {% elseif current_page is not empty %}
-          {% include 'includes/article.html' %}
-          {# TODO: Something like this should be possible with Pico 1.0
-          {% include 'includes/contribute.html' with {'relative_path': current_page.url | split(base_url) | last } %}
-          #}
-        {% elseif current_page is empty %}
-            {% if meta.title != 'Error 404' %}
-              {% include 'includes/tags.html' %}
-            {% else %}
-              {{ content }}
-            {% endif %}
+  <div id="content-wrapper">
+    <section id="content">
+      <div id="main" class="inner">
+        {% if meta.purpose == "search_results" %}
+          {% include 'includes/search_results.html' %}
+        {% else %}
+          {% if is_front_page %}
+            {% include 'includes/main.html' %}
+          {% elseif current_page is not empty %}
+            {% include 'includes/article.html' %}
+            {# TODO: Something like this should be possible with Pico 1.0
+            {% include 'includes/contribute.html' with {'relative_path': current_page.url | split(base_url) | last } %}
+            #}
+          {% elseif current_page is empty %}
+              {% if meta.title != 'Error 404' %}
+                {% include 'includes/tags.html' %}
+              {% else %}
+                {{ content }}
+              {% endif %}
+          {% endif %}
         {% endif %}
-      {% endif %}
-    </div>
-  </section>
+      </div>
+
+      <aside id="sidebar">
+        <div class="sidebar-module">
+          <a href="https://botmakers.org/"><img src="/content/images/logos/botmakers-500.png" title="Botmakers" alt="Botmakers.org logo"></a>
+          <p>Join <a href="https://botmakers.org/">Botmakers.org</a>.</p>
+        </div>
+        <div class="sidebar-module">
+          <a href="/botmaker-badges/"><img src="/content/images/logos/botmaker-badges.png" title="Botmaker Badge" alt="Botmaker Badge"></a>
+          <p>Apply for a <a href="/botmaker-badges/">badge</a>!</p>
+        </div>
+        <div class="sidebar-module">
+          <a href="https://www.digitalocean.com/"><img src="/content/images/logos/digitalocean-logo-sidebar.png" title="DigitalOcean" alt="DigitalOcean company logo"></a>
+          <p>Enter the <a href="/monthly-bot-challenge/">Monthly Bot Challenge</a>!</p>
+        </div>
+      </aside>
+    </section>
+  </div>  
   <footer id="footer">
     <div class="inner">
       <p>
