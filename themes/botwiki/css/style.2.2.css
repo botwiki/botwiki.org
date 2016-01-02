@@ -478,6 +478,10 @@ div#content-wrapper {
   line-height: 1.3em;
   position: relative;
 }
+aside#sidebar {
+  -webkit-box-shadow: 0px 0 25px #dadada;
+  box-shadow: 0px 0 25px #dadada;
+}
 @media (min-width: 980px) {
   aside#sidebar {
     display: block;
