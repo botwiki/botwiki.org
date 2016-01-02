@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/Hitch_Haiku.png)](https://twitter.com/Hitch_Haiku)
 
-[@Hitch_Haiku](https://twitter.com/Hitch_Haiku) is a generative poetry Twitter bot, posting from Douglas Adams Hitchhiker's Trilogy, in Haiku. Made by [@Penguin](https://twitter.com/Penguin) in [@spine_cone](https://twitter.com/spine_cone)'s workshop. Using [@nate_smith](https://twitter.com/nate_smith)'s [prosaic](https://github.com/nathanielksmith/prosaic).
+[@Hitch_Haiku](https://twitter.com/Hitch_Haiku) is a generative poetry Twitter bot, posting from Douglas Adams [Hitchhiker's Trilogy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), in Haiku. Made by [@Penguin](https://twitter.com/Penguin) in [@spine_cone](https://twitter.com/spine_cone)'s workshop. Using [@nate_smith](https://twitter.com/nate_smith)'s [prosaic](https://github.com/nathanielksmith/prosaic).
