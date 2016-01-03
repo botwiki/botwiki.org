@@ -25,7 +25,7 @@ gulp.task('browser-sync', function () {
 });
 
 gulp.task('styles', function() {
-  return gulp.src('src/styles/*.less')
+  return gulp.src('themes/botwiki/src/styles/*.less')
     .pipe(less({
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))
@@ -39,7 +39,7 @@ gulp.task('styles', function() {
 });
 
 gulp.task('scripts', function() {
-  return gulp.src('src/scripts/*.js')
+  return gulp.src('themes/botwiki/src/scripts/*.js')
     .pipe(jshint('tests/.jshintrc'))
     .pipe(jshint.reporter('default'))
     .pipe(gulp.dest('themes/botwiki/js'))
@@ -57,8 +57,8 @@ gulp.task('clean', function() {
 });
 
 gulp.task('watch', function() {
-  gulp.watch('src/styles/*.less', ['styles']);
-  gulp.watch('src/scripts/*.js', ['scripts']);
+  gulp.watch('themes/botwiki/src/styles/*.less', ['styles']);
+  gulp.watch('themes/botwiki/src/scripts/*.js', ['scripts']);
 });
 
 gulp.task('default', ['clean'], function() {
