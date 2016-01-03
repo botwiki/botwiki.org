@@ -29,7 +29,7 @@
   <hr/>
   <div class="meta">
     <p>Share this page on 
-      <a href="https://twitter.com/intent/tweet?source={{current_page.url}}&amp;text={% if 'active' in meta.tags or 'inactive' in meta.tags %}Check out {{meta.title}}{% else %}{{meta.title}}%20{{current_page.url}}{% endif %}&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a>,
+      <a href="https://twitter.com/intent/tweet?source={{current_page.url}}&amp;text={% if 'twitterbot' in meta.tags %}.{{meta.title}}{% else %}{{meta.title}}%20{{current_page.url}}{% endif %}&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a>,
       <a href="https://www.facebook.com/sharer/sharer.php?u={{current_page.url}}&amp;t={{meta.title}}" target="_blank" title="Share on Facebook">Facebook</a>,
       via <a href="mailto:?subject={{meta.title}}&amp;body={{meta.description}}:%20{{current_page.url}}" target="_blank" title="Email">an email</a>,
       or save it to your <a href="https://getpocket.com/save?url={{current_page.url}}&amp;title={{meta.title}}" target="_blank" title="Add to Pocket">Pocket</a>
