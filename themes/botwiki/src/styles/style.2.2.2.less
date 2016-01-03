@@ -459,7 +459,7 @@ div#content-wrapper{
 #content{
   min-height: 800px;
   background-color: #fff;
-  padding: 50px 0 100px;
+  padding: 0 0 100px;
   font-size: 1.2em;
   line-height: 1.3em;
   position: relative;
@@ -467,11 +467,6 @@ div#content-wrapper{
 
 aside#sidebar{
   @media (min-width : 980px){
-    box-shadow: -10px 0 10px -8px #ddd;
-    border-left: 1px solid #f5f5f5;
-    border-top: 1px solid #f5f5f5;
-    border-bottom: 1px solid #f5f5f5;
-
     display: block;
     max-width: @sidebar-width;
     position: absolute;
@@ -523,7 +518,9 @@ div.sidebar-module:not(:first-child){
 div#main{
   @media (min-width : 980px){
     margin-right: @sidebar-width;
-    padding: 0 1em;
+    padding: 1.5em 1em;
+    box-shadow: 20px 0px 30px -20px #ddd;
+    border-right: 1px solid #d0d0d0;
   }
 }
 
