@@ -44,6 +44,20 @@ San Francisco, CA 94123
 > Join us at an uncommon gathering for those who understand—and want to learn more about—the force design exerts in shaping a better world. Enhance your skills and expand your knowledge with hands-on training and workshops, informative demonstrations, and inspiring and practical presentations from more than 70 design innovators.
 
 <hr/>
+### [¶](#messaging-and-chatbot-developer-meet-up-ben-brown-2016-sxsw){.pilcrow} [Messaging and Chatbot Developer Meet Up at SXSW](http://schedule.sxsw.com/2016/events/event_PP46960) {#messaging-and-chatbot-developer-meet-up-ben-brown-2016-sxsw}
+
+> Share what you're working on with other developers, and talk about what defines a great messaging experience!
+>
+> _Date, Time, and Venue information will be available January 2016_
+
+[Fort Mason Center](http://fortmason.org/) ([map](https://www.google.com/maps/dir/Current+Location/Fort+Mason+Center+2+Marina+Boulevard+San+Francisco+CA+94123))<br/>
+2 Marina Boulevard (at Buchanan Street)<br/>
+San Francisco, CA 94123
+
+
+> Join us at an uncommon gathering for those who understand—and want to learn more about—the force design exerts in shaping a better world. Enhance your skills and expand your knowledge with hands-on training and workshops, informative demonstrations, and inspiring and practical presentations from more than 70 design innovators.
+
+<hr/>
 
 ### [¶](#bot-summit-2016){.pilcrow} [Bot Summit 2016](http://tinysubversions.com/botsummit/2016/) {#bot-summit-2016}
 
