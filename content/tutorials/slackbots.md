@@ -27,6 +27,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
+- [Make a Self-Training, NLP-Driven Slack Bot](http://blog.templeton.host/self-training-nlp-enabled-slack-bot-tutorial/) -- "NLP + [Botkit](http://howdy.ai/botkit/) = Magic"
 - [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10#.p31ox7ml1) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
 - [Slack + SuperScript — Rise of the Bots](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c)
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)
