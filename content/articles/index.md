@@ -25,6 +25,7 @@ Enjoy!
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 
+- January 5, 2016 -- [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities)
 - October 6, 2015 -- [Agent, Droid, Infobot: the texty Twitter robots Tully Hansen has known and loved](http://www.wheelercentre.com/notes/twitter-bots-tully-hansen-has-known-and-loved) by [Tully Hansen](https://twitter.com/tullyhansen)
 - September 29, 2015 -- [Forget Apps, Now The Bots Take Over](http://techcrunch.com/2015/09/29/forget-apps-now-the-bots-take-over/)
 - August 4, 2015 -- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/)
