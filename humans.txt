@@ -1,25 +1,19 @@
 
-     ;
-    ["]
-   /[_]\ botwiki.org
-    ] [
+   ;
+  ["]
+ /[_]\  botwiki.org
+  ] [
 
 
 
 /* TEAM */
 
-https://github.com/orgs/botwiki/people
+To learn who's behind Botwiki.org, see botwiki.org/about/team.
 
-Stefan, https://twitter.com/fourtonfish
-Tully, https://twitter.com/tullyhansen
-Hugo, https://twitter.com/hugovk
-Terian, https://twitter.com/spine_cone
-
-
-Special thanks to Anil Dash, https://twitter.com/anildash
+Special thanks to Anil Dash (twitter.com/anildash).
 
 
 /* SITE */
 
 Language: English
-Powered by: picocms.org, and love of bots
+Powered by: picocms.org, and love of bots.
