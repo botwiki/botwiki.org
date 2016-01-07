@@ -6,6 +6,8 @@ Author: Stefan Bohacek
 Weight: 4
 */
 
+![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
+
 For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg). Below is a [selection of blogs](#blogs), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
 
 Enjoy!
@@ -19,8 +21,6 @@ Enjoy!
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
 - [The New York Review of Bots](http://nybots.tumblr.com/)
-
-![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
