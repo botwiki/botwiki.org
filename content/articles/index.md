@@ -41,6 +41,8 @@ Enjoy!
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
 - November 14, 2013 -- [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots)
 - June 8, 2013 -- [Genre: Bot](http://iloveepoetry.com/?p=5427): reviews of various Twitter bots on [iloveepoetry.com](http://iloveepoetry.com/?p=5427)
+- March 21, 2013 -- [Beyond the GUI: It's Time for a Conversational User Interface](http://www.wired.com/2013/03/conversational-user-interface/)
+
 
 ### [¶](#videos){.pilcrow} Videos {#videos}
 
