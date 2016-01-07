@@ -193,7 +193,8 @@ h6 {
   margin-bottom: 0.6em;
 }
 h2 {
-  margin-bottom: 1.2em;
+  margin-top: 1.2em;
+  margin-bottom: 1em;
 }
 a.pilcrow,
 a.pilcrow:visited {
