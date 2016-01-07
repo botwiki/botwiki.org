@@ -6,15 +6,25 @@ Weight: 5
 
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/people-evening.jpg){.float-right}
 
-A list of [upcoming](#upcoming-events), [permanently ongoing](#ongoing-events), and [past](#past-events) events either dedicated to botmaking or those that include relevant sessions. Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates.
-
-For regular botmaking events in San Francisco, CA, check out [Kasey](https://twitter.com/bitpixi)'s [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/) and follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
+A list of [meetup groups](#meetup-groups) and [upcoming](#upcoming-events), [permanently ongoing](#ongoing-events), and [past](#past-events) events either dedicated to botmaking or those that include relevant sessions. Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates.
 
 For the **Monthly Bot Challenge**, [see the dedicated page](/monthly-bot-challenge). 
 
 Do you know about an interesting event? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
 
 Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/)!
+
+
+## [¶](#meetup-groups){.pilcrow} Meetup groups {#meetup-groups}
+
+### [¶](#nyc){.pilcrow} New York {#nyc}
+
+- [New York Slack Meetup](http://www.meetup.com/New-York-Slack-Meetup/), created by [David Markovich](https://twitter.com/DavidMarkovich_)
+
+### [¶](#san-francisco-ca){.pilcrow} San Francisco, CA {#san-francisco-ca}
+
+- [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/), hosted by [Kasey](https://twitter.com/bitpixi). Follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
+- [SlackDevs](http://www.meetup.com/SlackDevs/), the official [Slack](http://slackhq.com/) meetup group.
 
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
