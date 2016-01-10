@@ -49,6 +49,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 - [araile/python-botutil](https://github.com/araile/python-botutil) -- small libraries for Python botmakers
 - [leonardr/sycorax](https://github.com/leonardr/sycorax) -- "a Twitter client that choreographs the online behavior of fictional characters", read more on [crummy.com](http://www.crummy.com/software/sycorax/)
+- [tdhopper/tau](https://github.com/tdhopper/tau) -- a template for creating a Twitter bot with [AWS Lambda](https://aws.amazon.com/lambda/)
+
 
 ## [¶](#ruby){.pilcrow} Ruby {#ruby}
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot) -- Ruby-based Twitter Bot Framework, using OAuth to authenticate
