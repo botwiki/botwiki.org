@@ -1,6 +1,6 @@
 /*
 Title: Monthly Bot Challenge
-Description: Make a bot in three weeks, then vote for the best.
+Description: A monthly theme-based botmaking challenge.
 Nav: hidden
 */
 
