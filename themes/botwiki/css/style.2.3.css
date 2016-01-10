@@ -376,7 +376,12 @@ div#breadcrumbs a {
 /*---------------------------------------------*/
 .inner {
   margin: 0 auto;
-  padding: 0 2em;
+  padding: 5px;
+}
+@media (min-width: 910px) {
+  .inner {
+    padding: 0 2em;
+  }
 }
 #header {
   padding: 50px 0 0;
