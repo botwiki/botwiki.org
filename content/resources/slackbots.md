@@ -29,6 +29,14 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 
 ### [¶](#tools){.pilcrow} Tools {#tools}
 
+#### [¶](#tools-hosting){.pilcrow} Hosting {#tools-hosting}
+
+- [Dexter](https://rundexter.com/) -- in beta, promises to make connecting third-party APIs easy (includes Slack)
+- [Beep Boop](https://beepboophq.com/) -- "a ridiculously simple hosting platform for your Slackbots", limited free accounts or $5/month
+ - [Natural Language Slackbots with Wit.ai and Beep Boop](https://blog.beepboophq.com/natural-language-slackbots-with-wit-ai-and-beep-boop-c007cf303c04#.vqo9vksf1) (tutorial)
+
+#### [¶](#tools-other){.pilcrow} Other {#tools-other}
+
 - You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example)
 
 
