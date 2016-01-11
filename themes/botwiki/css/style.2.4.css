@@ -405,7 +405,7 @@ div#breadcrumbs a {
 #header a {
   padding-bottom: 8px;
 }
-@media (min-width: 900px) {
+@media (min-width: 920px) {
   #header a:hover {
     border-bottom: 3px solid #F5F5F5;
   }
