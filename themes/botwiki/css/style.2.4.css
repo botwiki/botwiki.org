@@ -175,7 +175,12 @@ a:visited {
 a:hover,
 a:active {
   color: #080a09;
-  text-decoration: underline;
+}
+@media (min-width: 980px) {
+  a:hover,
+  a:active {
+    text-decoration: underline;
+  }
 }
 a:hover {
   -webkit-transition: color 0.2s linear;
@@ -400,8 +405,10 @@ div#breadcrumbs a {
 #header a {
   padding-bottom: 8px;
 }
-#header a:hover {
-  border-bottom: 3px solid #F5F5F5;
+@media (min-width: 980px) {
+  #header a:hover {
+    border-bottom: 3px solid #F5F5F5;
+  }
 }
 #header a,
 #header a:hover {
@@ -416,8 +423,10 @@ div#breadcrumbs a {
   margin: 0;
   float: left;
 }
-li.active a {
-  border-bottom: 3px solid #F5F5F5;
+@media (min-width: 980px) {
+  li.active a {
+    border-bottom: 3px solid #F5F5F5;
+  }
 }
 label.cursor-pointer {
   cursor: pointer;
@@ -689,9 +698,7 @@ img.logo-digitalocean {
     border: 5px solid #444;
     left: -100px;
     top: 100px;
-    width: -webkit-calc(65vw);
-    width: calc(65vw);
-    border-radius: 4px 0 4px 4px;
+    width: 100%;
     z-index: 9999;
     -webkit-transition: all 0.2s;
     transition: all 0.2s;

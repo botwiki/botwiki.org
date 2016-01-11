@@ -131,7 +131,9 @@ a, a:visited {
 
 a:hover, a:active {
   color: @main-color - #222;
-  text-decoration: underline;
+  @media (min-width : 980px){
+    text-decoration: underline;
+  }
 }
 
 a:hover{
@@ -378,7 +380,9 @@ div#breadcrumbs a{
 }
 
 #header a:hover { 
-  border-bottom: 3px solid #F5F5F5; 
+  @media (min-width : 980px){
+    border-bottom: 3px solid #F5F5F5; 
+  }
 }
 
 
@@ -398,7 +402,9 @@ div#breadcrumbs a{
 }
 
 li.active a{
-  border-bottom: 3px solid #F5F5F5; 
+  @media (min-width : 980px){
+    border-bottom: 3px solid #F5F5F5; 
+  }
 }
 
 label.cursor-pointer {  
@@ -701,8 +707,7 @@ img.logo-digitalocean{
     border: 5px solid #444;
     left: -100px;
     top: 100px;
-    width: calc(100vw - 35px);
-    border-radius: 4px 0 4px 4px;
+    width: 100%;
     z-index: 9999;
     transition: all 0.2s;
     pointer-events: none;
