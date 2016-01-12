@@ -1,6 +1,7 @@
 /*
 Title: Monthly Bot Challenge
 Description: A monthly theme-based botmaking challenge.
+Thumbnail: monthly-bot-challenge/images/monthly-bot-challenge-promo-1v2.png
 Nav: hidden
 */
 
