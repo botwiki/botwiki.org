@@ -26,9 +26,12 @@ You can either include your email in the description, so we can send you your ba
 
 ### [¶](#monthly-bot-challenge-badge){.pilcrow} Monthly Bot Challenge Winner {#monthly-bot-challenge-badge}
 
-***Design pending***
+![Monthly Bot Challenge Badge](/content/botmaker-badges/images/monthly-bot-challenge-winner.png){.float-right}
 
-This badge will be awarded to the winner of our [Monthly Bot Challenge](/monthly-bot-challenge/).
+This badge will be awarded to the winner of the **Monthly Bot Challenge**.
+
+
+For details, see the [Monthly Bot Challenge](/monthly-bot-challenge/) page.
 
 ### [¶](#bot-teacher-badge){.pilcrow} Bot Teacher {#bot-teacher-badge}
 
