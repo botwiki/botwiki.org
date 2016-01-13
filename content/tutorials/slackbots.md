@@ -36,4 +36,11 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)
 - [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 
+
+### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
+
+- [3 Things We Learned Building a Chatbot for Slack](https://medium.com/@kipsearch/3-things-we-learned-building-a-chatbot-for-slack-2dc32321d77c#.jlekubjvh) -- via [@kipsearch](https://twitter.com/kipsearch)
+
+
+
 See also [Resources for Slack bots](/resources/slackbots) and [open source code for Slack bots](/tag/slack+opensource). You can also [browse all the Slack bots](/tag/slackbot) for inspiration.
