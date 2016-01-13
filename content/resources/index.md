@@ -15,6 +15,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [APIs](/resources/apis)
 - [Free images, sounds, videos](/resources/free-media)
 - [Libraries and frameworks](/resources/libraries-frameworks)
+- [Tools](/resources/tools)
 
 ### [¶](#specific-resources){.pilcrow} Network-specific resources {#specific-resources}
 
