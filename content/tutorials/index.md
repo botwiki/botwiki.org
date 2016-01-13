@@ -1,7 +1,7 @@
 /*
 Title: Tutorials
 Description: Learn how to make your own bot!
-Date: July 24, 2015
+Date: January 12, 2016
 Tags: machine learning,nlp,language,processing,opencv
 Weight: 2
 */
