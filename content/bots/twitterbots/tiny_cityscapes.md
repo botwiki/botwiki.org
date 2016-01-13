@@ -2,7 +2,7 @@
 Title: @tiny_cityscapes
 Description: Tiny emoji cities, a few times a day.
 Author: botsheeter.py
-Date: January 05, 2016
+Date: January 5, 2016
 Tags: twitter,twitterbot,active,cheapbotsdonequick,emoji,open source,opensource,tracery,deer_ful
 Nav: hidden
 Robots: index,follow

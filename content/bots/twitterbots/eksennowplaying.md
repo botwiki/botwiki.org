@@ -2,7 +2,7 @@
 Title: @eksennowplaying
 Description: Songs from a local radio station in Istanbul.
 Author: botsheeter.py
-Date: January 05, 2016
+Date: January 5, 2016
 Tags: twitter,twitterbot,active,music,radio,ahmetkun
 Nav: hidden
 Robots: index,follow

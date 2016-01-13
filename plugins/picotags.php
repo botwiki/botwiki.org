@@ -259,42 +259,51 @@ class Picotags {
             $twig_vars['meta']['title'] = "#" .implode(", #", $this->current_tags);
             // Return current tag and list of all tags as Twig vars
         }
-            $twig_vars['pagestags'] = $this->pagestags;
-            $twig_vars['current_tag'] = $this->current_tag; /* {{ current_tag }} is a string*/
-            $twig_vars['current_tags'] = $this->current_tags;
-            /*
-                MULTICOLUMNS OUTPUT
-                Change the value of $config['ptags_nbcol'] = 5; in the config.php
-                In your template, for a two columns output :
-                <ul>
-                    {% for tag in tag_list_0 %}
-                        <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
-                    {% endfor %}
-                </ul>
-                <ul>
-                    {% for tag in tag_list_1 %}
-                        <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
-                    {% endfor %}
-                </ul>
-            */
-            if (isset($this->ptags_nbcol) && $this->ptags_nbcol != '') {
-                $nbtags = sizeof($this->tag_list);
-                $nbtagscol = ceil ($nbtags/$this->ptags_nbcol);
-                $tag_list_cut = array();
-                $tag_list_sorted_cut = array();
-                for ($i=0;$i<$this->ptags_nbcol;$i++)
-                {
-                    $this->tag_list_cut = array_slice($this->tag_list, $i*$nbtagscol, $nbtagscol);
-                    $twig_vars['tag_list_'.$i] = $this->tag_list_cut;
-                }
-                // Keeping the original tag_list twig var
-                $twig_vars['tag_list'] = $this->tag_list;
+
+        function sort_by_date($a, $b){
+            $t1 = strtotime(str_replace(',', '', $a['date']));
+            $t2 = strtotime(str_replace(',', '', $b['date']));
+            return $t2 - $t1;
+        }
+
+        usort($this->pagestags, 'sort_by_date');
+        $twig_vars['pagestags'] = $this->pagestags;
+
+        $twig_vars['current_tag'] = $this->current_tag; /* {{ current_tag }} is a string*/
+        $twig_vars['current_tags'] = $this->current_tags;
+        /*
+            MULTICOLUMNS OUTPUT
+            Change the value of $config['ptags_nbcol'] = 5; in the config.php
+            In your template, for a two columns output :
+            <ul>
+                {% for tag in tag_list_0 %}
+                    <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for tag in tag_list_1 %}
+                    <li><a href="/tag/{{ tag }}">#{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+        */
+        if (isset($this->ptags_nbcol) && $this->ptags_nbcol != '') {
+            $nbtags = sizeof($this->tag_list);
+            $nbtagscol = ceil ($nbtags/$this->ptags_nbcol);
+            $tag_list_cut = array();
+            $tag_list_sorted_cut = array();
+            for ($i=0;$i<$this->ptags_nbcol;$i++)
+            {
+                $this->tag_list_cut = array_slice($this->tag_list, $i*$nbtagscol, $nbtagscol);
+                $twig_vars['tag_list_'.$i] = $this->tag_list_cut;
             }
-            // else {
-            if (isset($this->tag_list)){
-                $twig_vars['tag_list'] = $this->tag_list; // {{ tag_list }} in an array
-            }
-            // }
+            // Keeping the original tag_list twig var
+            $twig_vars['tag_list'] = $this->tag_list;
+        }
+        // else {
+        if (isset($this->tag_list)){
+            $twig_vars['tag_list'] = $this->tag_list; // {{ tag_list }} in an array
+        }
+        // }
     }
 }
 ?>
