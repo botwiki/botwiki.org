@@ -15,6 +15,9 @@ Nav: hidden
 Learn how to make your own [Slack](https://slack.com/) bot with these tutorials and join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
 
 
+### [¶](#slack-api){.pilcrow} Selected API documentation {#slack-api}
+
+- [Attachments](https://api.slack.com/docs/attachments) -- create more richly-formatted messages
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
