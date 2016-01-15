@@ -74,7 +74,7 @@ var sticky = document.getElementById('breadcrumbs-wrapper');
 
 function checkBreadcrumbsPosition(){
   // TODO: Get this value dynamically!
-  if( document.body.scrollTop + document.documentElement.scrollTop > 259){
+  if( document.body.scrollTop + document.documentElement.scrollTop > 170){
     document.body.style.paddingTop = sticky.clientHeight + 'px'; 
     sticky.className = 'sticky';
   }
