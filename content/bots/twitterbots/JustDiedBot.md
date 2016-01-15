@@ -11,4 +11,4 @@ Robots: index,follow
 
 [![](/content/bots/twitterbots/images/JustDiedBot.png)](https://twitter.com/JustDiedBot)
 
-[@JustDiedBot](https://twitter.com/JustDiedBot) is aot that tweets about celebrity deaths once they are posted on Wikipedia. Created by [Scott Kildall](https://twitter.com/kildall) as part of his [Bot Collective](http://www.botcollective.com/).
+[@JustDiedBot](https://twitter.com/JustDiedBot) is a bot that tweets about celebrity deaths once they are posted on Wikipedia. Created by [Scott Kildall](https://twitter.com/kildall) as part of his [Bot Collective](http://www.botcollective.com/).
