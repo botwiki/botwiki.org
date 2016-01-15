@@ -198,7 +198,6 @@ h6 {
   margin-bottom: 0.6em;
 }
 h2 {
-  margin-top: 1.2em;
   margin-bottom: 1em;
 }
 a.pilcrow,
@@ -389,7 +388,7 @@ div#breadcrumbs a {
   }
 }
 #header {
-  padding: 50px 0 0;
+  padding: 10px 0 0;
   background-color: #2a2c2b;
   color: #5D9CEC;
 }
@@ -457,7 +456,7 @@ ul#menu {
   margin-left: 20px;
 }
 #header nav a {
-  font-size: 1.3em;
+  font-size: 1.2em;
   color: #fff;
   font-weight: bold;
 }
@@ -478,7 +477,7 @@ form#search-form {
   width: 100%;
 }
 form#search-form input {
-  padding: 0.7em 5px;
+  padding: 0.5em 5px;
   width: 100%;
 }
 div#content-wrapper {
@@ -489,8 +488,8 @@ div#content-wrapper {
   min-height: 800px;
   background-color: #fff;
   padding: 0 0 100px;
-  font-size: 1.2em;
-  line-height: 1.3em;
+  font-size: 1.1em;
+  line-height: 1.2em;
   position: relative;
 }
 @media (min-width: 980px) {
