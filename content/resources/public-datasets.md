@@ -50,5 +50,6 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 ### [¶](#other){.pilcrow} Other {#other}
 
 - [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
+- [Open Payments Dataset](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) -- payments made by healthcare manufacturers (pharmaceutical companies, medical device manufacturers) to any doctor they work with 
 
 [Back to all resources.](/resources)
