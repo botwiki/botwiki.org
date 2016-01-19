@@ -24,7 +24,9 @@ Some examples of such bots include:
 
 There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add.
 
-You can join our group for [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts at [**botmakers.org**](https://botmakers.org/) and subscribe to our weekly newsletter at [**botzine.org**](http://botzine.org/). Be sure to check out our [Monthly Bot Challenge](/monthly-bot-challenge/) -- and apply for a [Botmaker Badge](/botmaker-badges/)!
+You can join our group for [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts at [**botmakers.org**](https://botmakers.org/) and subscribe to our weekly newsletter at [**botzine.org**](http://botzine.org/) for the latest news, resources, [interviews](/tag/interview/) and [upcoming events](/events/).
+
+Be sure to also check out our [Monthly Bot Challenge](/monthly-bot-challenge/) -- and apply for a [Botmaker Badge](/botmaker-badges/)!
 
 Thanks for visiting **Botwiki**, feel free to [contribute](https://github.com/botwiki/botwiki.org)!
 
