@@ -57,8 +57,9 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks) -- a framework for building interactive twitterbots which respond to mentions/DMs
 - [negatendo/rubybottools](https://github.com/negatendo/rubybottools) -- a collection of tools for writing Twitter bots with Ruby
 
-## [¶](#go){.pilcrow} Go {#go}
-- [zhaytee/botville](https://github.com/zhaytee/botville) -- "a simple package for bootstrapping a Twitter bot in Go"
+## [¶](#other-languages){.pilcrow} Other languages {#other-languages}
+- [zhaytee/botville](https://github.com/zhaytee/botville) -- a simple package for bootstrapping a Twitter bot in Go
+- [matteoredaelli/twitterBot](https://github.com/matteoredaelli/twitterBot) -- a simple Twitter bot written in Elixir
 
 
 ## [¶](#tools-other){.pilcrow} Tools, other {#tools-other}
