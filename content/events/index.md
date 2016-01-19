@@ -30,15 +30,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
 
-### [¶](#the-algorithmia-shorties-contest-december-2015){.pilcrow} [The Algorithmia Shorties Contest](https://github.com/algorithmiaio/shorties) {#the-algorithmia-shorties-contest-december-2015}
-
-_December 9th to January 9th_
-
-> [The Algorithmia Shorties contest](https://github.com/algorithmiaio/shorties) is designed to help programmers of all skill levels get started with Natural Language Processing tools and concepts.
-
-<hr/>
-
-
 ### [¶](#o-reilly-design-2016){.pilcrow} [O'Reilly Design](http://conferences.oreilly.com/design-ux-interaction-iot) {#o-reilly-design-2016}
 
 Includes a session by [Ben Brown](https://twitter.com/benbrown) titled ["Your friendly robot companions: Design for messaging and chat"](http://conferences.oreilly.com/design-ux-interaction-iot/public/schedule/detail/45682).
@@ -83,6 +74,14 @@ _Self-paced online course at edx.org, starts on October 12 (2015)_
 
 
 ## [¶](#past-events){.pilcrow} Past events {#past-events}
+
+### [¶](#the-algorithmia-shorties-contest-december-2015){.pilcrow} [The Algorithmia Shorties Contest](https://github.com/algorithmiaio/shorties) {#the-algorithmia-shorties-contest-december-2015}
+
+_December 9th to January 9th_
+
+> [The Algorithmia Shorties contest](https://github.com/algorithmiaio/shorties) is designed to help programmers of all skill levels get started with Natural Language Processing tools and concepts.
+
+<hr/>
 
 ### [¶](#meet-and-greet-with-bot-fans-in-sf-december-14-2015){.pilcrow} [Meet and Greet with Bot Fans in SF!](http://www.meetup.com/Bay-Area-Bot-Arts/events/226815239/) {#meet-and-greet-with-bot-fans-in-sf-december-14-2015}
 
