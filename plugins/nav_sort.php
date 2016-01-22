@@ -38,9 +38,11 @@ class Nav_Sort {
     // Create each menu item
     if (!empty($navigation)) {
       foreach ($navigation as $weight => $page) {
+        $active_class = strpos($_SERVER['REQUEST_URI'], strtolower($page['title'])) > -1 ? ' class="active"' : '';
+
         $items .= sprintf(
           $item_format,
-          $weight == $active ? ' class="active"' : '',
+          $active_class,
           $page['url'],
           $page['title'],
           $page['title']
