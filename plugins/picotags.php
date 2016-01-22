@@ -85,7 +85,7 @@ class Picotags {
         $this->is_tag = (substr($url, 0, 4) === 'tag/');
         // If the URL does start with 'tag/', grab the rest of the URL
 //        if ($this->is_tag) $this->current_tag = urldecode(substr($url, 4));
-          if ($this->is_tag) $this->current_tags = explode('+', substr($url, 4));
+          if ($this->is_tag) $this->current_tags = explode('+', str_replace("%20", " ", substr($url, 4)));
     }
 
     public function before_read_file_meta(&$headers)
