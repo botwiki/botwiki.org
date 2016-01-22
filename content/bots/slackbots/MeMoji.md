@@ -3,7 +3,7 @@ Title: MeMoji
 Description: :sunglasses: :slack: :joystick: 
 Author: Stefan Bohacek
 Date: November 16, 2015
-Tags: slack,slackbot,active,game,emoji,ryan_stevens,puglr,oscrse,alexkaraman85
+Tags: slack,slackbot,active,interactive,game,emoji,ryan_stevens,puglr,oscrse,alexkaraman85
 Nav: hidden
 Robots: index,follow
 */
