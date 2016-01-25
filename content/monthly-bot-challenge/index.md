@@ -8,11 +8,6 @@ Nav: hidden
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
-
-
-[![DigitalOcean](/content/images/logos/digitalocean-logo.png){.float-right}](https://www.digitalocean.com/)
-
-
 ### [¶](#rules){.pilcrow} Rules {#rules}
 
  1. The current theme will be announced **on the first day of each month** via [@botwikidotorg](https://twitter.com/botwikidotorg) on Twitter and in the [Botmakers.org](https://botmakers.org/) group.
@@ -40,6 +35,8 @@ If any of the rules are unclear, please [ask questions](mailto:stefan@fourtonfis
 ### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
 For the very first Monthly Bot Challenge, our generous sponsor [DigitalOcean](https://www.digitalocean.com/) will provide the following prizes:
+
+[![DigitalOcean](/content/images/logos/digitalocean-logo.png){.float-right}](https://www.digitalocean.com/)
 
  - The winner of the **1st place** will receive **$60 USD in hosting credit** at [DigitalOcean](https://www.digitalocean.com/),
  - 2nd place will get **$40 USD in hosting credit**,
