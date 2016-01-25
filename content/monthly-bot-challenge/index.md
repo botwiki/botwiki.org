@@ -13,30 +13,27 @@ Nav: hidden
 [![DigitalOcean](/content/images/logos/digitalocean-logo.png){.float-right}](https://www.digitalocean.com/)
 
 
-**The first Monthly Bot Challenge will officially start on January 1, 2016. The sponsor of our first challenge is [DigitalOcean](https://www.digitalocean.com/) ([see prizes below](#prizes)), provider of simple cloud infrastructure for developers, used by hobby projects and full production websites -- including our very own Botwiki.**
-
-
-Submissions are already open and we are going to use this first challenge to fully flesh out the rules and find the best technical setup. Continue reading below for the [Rules](#rules) and [Prizes](#prizes).
-
 ### [¶](#rules){.pilcrow} Rules {#rules}
 
- 1. On **the first day of the month**, the topic will be announced via the official [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account, in the dedicated [#monthly-bot-challenge](https://botmakers.slack.com/messages/monthly-bot-challenge/details/) channel (you can join our group at [botmakers.org](https://botmakers.org/)), and the topic will also be mentioned in the [Bot! zine](http://botzine.org/) newsletter, which comes out every Monday.
+ 1. The current theme will be announced **on the first day of each month** via [@botwikidotorg](https://twitter.com/botwikidotorg) on Twitter and in the [Botmakers.org](https://botmakers.org/) group.
 
- 2. Everyone will have **until the end of the month** to create a bot inspired by the topic. You can make the bot open source, but it's **not** a condition for entering the challenge.
+ 2. Everyone will have **until the end of the month** ([Eastern Time](https://www.google.com/search?q=local+time+est)).
+
+ *Note: You can make the bot open source, but it's **not** a condition for entering the challenge.*
 
  3. You can only submit **one bot**. You can reuse existing code (your own or [open source](/tag/opensource)), but you must add **something new** for the hackathon.
 
- 4. To enter the challenge, **add your bot to Botwiki.org** via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
+ 4. To **enter the challenge**, add your bot to Botwiki.org via the form at [botwiki.org/submit-your-bot](https://botwiki.org/submit-your-bot) and tag it with *monthlybotchallenge*. Be sure to also include an information about yourself being the author.
 
- Note that the bot will be submitted to Botwiki, so if you prefer, you can wait until the day before the voting starts.
+ *Note that the bot will be submitted to Botwiki, so if you prefer, you can wait until the day before the voting starts.*
 
  5. You are free to make updates to your bot until the voting starts, even after you submit your bot to Botwiki. Only bug fixes are allowed after the voting period starts.
 
- 6. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge).
+ 6. At the end of the month, we will share a page where people will be able to vote for their favorite bot. The voting will be open **for one week** and the winner will receive the [Monthly Bot Challenge Winner badge](/botmaker-badges/#monthly-bot-challenge-badge) and any [prizes](#prizes) provided by our sponsors.
 
 Not adhering to the rules above **may disqualify you from the contest** (depending on the severity and context, this can apply to the current month, or the Monthly Challenge altogether). Also, while interacting with other participants and members of [Botmakers.org](https://botmakers.org/), you must follow the **Botmakers.org** [Code of Conduct](http://botmakers.org/code-of-conduct/), which also applies to the behavior of your submitted bot.
 
-Naturally, you must also follow the rules of the platform on which you choose to create your bot.
+Naturally, you must also follow the rules of the platform on which you choose to create your bot. (For example, don't make [Twitter bots that automatically reply to people](https://support.twitter.com/articles/76915#replies-mentions).)
 
 If any of the rules are unclear, please [ask questions](mailto:stefan@fourtonfish.com)! 
 
