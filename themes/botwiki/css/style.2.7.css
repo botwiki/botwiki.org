@@ -162,7 +162,7 @@ select:focus {
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.2em 'Yantramanav', Helvetica, Arial, Helvetica, sans-serif;
+  font: 1.2em 'Alegreya Sans', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
   background: #fff;
   -webkit-font-smoothing: antialiased;
@@ -305,9 +305,6 @@ blockquote.twitter-tweet,
 iframe {
   display: block;
   margin: 3em auto;
-}
-iframe[id^="twitter-widget"] {
-  padding: 1em 0 !important;
 }
 hr {
   border-top: solid 1px #dfdfdf;
