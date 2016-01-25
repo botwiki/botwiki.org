@@ -37,7 +37,8 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 
 #### [¶](#tools-other){.pilcrow} Other {#tools-other}
 
-- You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example)
+- [Slack Message Builder](http://davestevens.github.io/slack-message-builder/)
+- You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example) (browsing [api.slack.com/methods](https://api.slack.com/methods) is useful in general, as you can test all of the Slack API)
 
 
 [Back to all resources.](/resources)
