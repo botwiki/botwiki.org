@@ -22,7 +22,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [kylestetz/Sentencer](https://github.com/kylestetz/Sentencer) -- madlibs-style sentence templating
 - [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
 - [iscool](https://www.npmjs.com/package/iscool) -- tool to help check if a string contains offensive or disrespectful language, or refers to a tragedy.
-- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple node.js module that lets you filter (bad) words (available also for Python and Ruby)
+- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple node.js module that lets you filter (bad) words (available also for PHP, Python and Ruby)
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [jimkang/shakesnippet](https://github.com/jimkang/shakesnippet) -- provides a randomly chosen Shakespeare excerpt
 - [zeke/cmu-pronouncing-dictionary](https://github.com/zeke/cmu-pronouncing-dictionary) -- all the 134,000+ words in the [CMU pronouncing dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict) as a simple JSON object
@@ -31,12 +31,18 @@ For libraries and frameworks for specific networks check out their corresponding
 
 
 
+#### [¶](#language-php){.pilcrow} PHP {#language-php}
+
+- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple PHP module that lets you filter (bad) words (available also for Python, node.js and Ruby)
+
+
+
 #### [¶](#language-python){.pilcrow} Python {#language-python}
 
 - [cblgh/storyteller](https://github.com/cblgh/storyteller) -- a templating language and python parser for generating small stories
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
 - [Python script to filter possibly offensive text](https://github.com/molly/CyberPrefixer/blob/master/offensive.py) -- the source code for Molly's [@cyberprefixer](https://twitter.com/cyberprefixer) contains a script
-- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Python module that lets you filter (bad) words (available also for node.js and Ruby)
+- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Python module that lets you filter (bad) words (available also for PHP, node.js and Ruby)
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
 - [nathanielksmith/prosaic](https://github.com/nathanielksmith/prosaic) -- cut-up poetry generation over large corpora
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
@@ -47,7 +53,7 @@ For libraries and frameworks for specific networks check out their corresponding
 
 #### [¶](#language-ruby){.pilcrow} Ruby {#language-ruby}
 
-- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Ruby module that lets you filter (bad) words (available also for node.js and Python)
+- [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Ruby module that lets you filter (bad) words (available also for node.js, PHP and Python)
 
 
 
