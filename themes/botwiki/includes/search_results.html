@@ -46,6 +46,8 @@
 {% else %}
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
 
+  <p>Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers.org community</a>, or reach out directly to <a href="mailto:stefan@fourtonfish.com">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</p>
+
   {% for page in search_results %}
     {% if not page.language %}
       {% include 'includes/search_item.html' %}
