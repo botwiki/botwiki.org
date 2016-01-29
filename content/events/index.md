@@ -21,15 +21,13 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
+### [¶](#designing-conversations-huge-february-2016){.pilcrow} [Designing Conversations: Rise of the Bots](http://www.meetup.com/Huge-LA/events/228204876/) {#designing-conversations-huge-february-2016}
 
+> Join us for a UX and development workshop on conversation design and AI. 
 
-### [¶](#ibm-watson-robots-cognitive-iot-january-2016){.pilcrow} [IBM Watson + Robots = Cognitive IoT](http://www.meetup.com/IBM-Watson-and-Cognitive-Computing/events/227441913/) {#ibm-watson-robots-cognitive-iot-january-2016}
-
-> Ever wondered how to build a robot that talks to you? Thanks to [Watson](https://en.wikipedia.org/wiki/Watson_(computer)) and the emergence of cheap, hackable computer boards it's never been easier to do. During this session we'll give a few best practices and a high level intro to Watson in the IoT space.
-
-- Monday, January 25, 2016
-- 7:00 PM to 9:00 PM
-- IBM Innovation Center Silicon Valley, 1001 E. Hillsdale Blvd, Suite 400, Foster City, CA ([map](https://www.google.com/maps/dir/Current+Location/1001+E.+Hillsdale+Blvd,+Suite+400,+Foster+City,+CA))
+- Tuesday, February 2, 2016
+- 6:30 PM to 9:30 PM
+- Huge, 6100 Wilshire Blvd, Second Floor, Los Angeles, CA ([map](https://www.google.com/maps/dir/Current+Location/6100+Wilshire+Blvd+Los+Angeles+CA))
 
 <hr/>
 
