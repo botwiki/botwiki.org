@@ -48,6 +48,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 
 ### [¶](#lists-of-twitter-bots){.pilcrow} Lists of Twitter bots {#lists-of-twitter-bots}
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
+- [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R M Livingstone](https://twitter.com/Rmlivingstone)
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
