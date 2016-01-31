@@ -1,5 +1,5 @@
 /*
-Title: @mnemosynetron
+Title: @mnemosynetron (es)
 Description: Un bot recordatorio.
 Author: hectorpalmatellez
 Language: es

@@ -1,5 +1,5 @@
 /*
-Title: slack-pokemon
+Title: slack-pokemon (es)
 Description: ¡Atrápalos ya!
 Author: hectorpalmatellez
 Language: es
