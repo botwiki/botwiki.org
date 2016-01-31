@@ -4,7 +4,7 @@ Description: A reminder bot.
 Author: Stefan Bohacek
 Date: July 28, 2015
 Tags: twitter,twitterbot,active,useful,thricedotted
-
+Translations: es
 Nav: hidden
 Robots: index,follow
 */
