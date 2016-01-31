@@ -485,19 +485,24 @@ div#content-wrapper {
   min-height: 800px;
   background-color: #fff;
   padding: 0 0 100px;
+  margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.2em;
   position: relative;
+  -webkit-box-shadow: -20px 10px 40px -20px #dddddd, 20px 10px 40px -20px #dddddd;
+  box-shadow: -20px 10px 40px -20px #dddddd, 20px 10px 40px -20px #dddddd;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
 }
 @media (min-width: 980px) {
   aside#sidebar {
     display: block;
     max-width: 300px;
     position: absolute;
+    border-left: 1px solid #efefef;
     padding: 2em 1em 0 1em;
     right: 0;
     top: 10px;
-    bottom: 50px;
   }
 }
 @media (max-width: 980px) {
@@ -539,10 +544,7 @@ aside#sidebar img {
 @media (min-width: 980px) {
   div#main {
     margin-right: 300px;
-    padding: 1.5em 1em;
-    -webkit-box-shadow: 20px 0px 30px -20px #dddddd;
-    box-shadow: 20px 0px 30px -20px #dddddd;
-    border-right: 1px solid #d0d0d0;
+    padding: 1.5em 2em 5em;
   }
 }
 #footer {
@@ -614,6 +616,9 @@ p.screenshot img {
   -ms-transform: translate(0, -10px);
   transform: translate(0, -10px);
   opacity: 1;
+}
+div.search-thumbnail img {
+  border: 1px solid #efefef;
 }
 @media only screen and (min-width: 800px) {
   div.search-thumbnail,
