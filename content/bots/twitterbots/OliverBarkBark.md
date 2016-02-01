@@ -4,7 +4,7 @@ Description: Bark!
 Author: Stefan Bohacek
 Date: September 15, 2015
 Tags: twitter,twitterbot,active,opensource,open source,python,iot,raspberry pi
-
+Translations: es
 Nav: hidden
 Robots: index,follow
 */
