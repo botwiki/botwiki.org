@@ -26,7 +26,7 @@ You can either include your email in the description, so we can send you your ba
 
 ### [¶](#monthly-bot-challenge-badge){.pilcrow} Monthly Bot Challenge Winner {#monthly-bot-challenge-badge}
 
-![Monthly Bot Challenge Badge](/content/botmaker-badges/images/monthly-bot-challenge-winner.png){.float-right}
+![Monthly Bot Challenge Badge](/content/botmaker-badges/images/monthly-bot-challenge-winner-february.png){.float-right}
 
 This badge will be awarded to the winner of the **Monthly Bot Challenge**.
 
