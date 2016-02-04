@@ -7,6 +7,7 @@ Weight: 1
 
 ***Note: Jump straight to browsing bots [by category](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate.***
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
 
 So what exactly is a "bot"? Well, it really depends on who you ask.
 
@@ -84,3 +85,6 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Snapchat bots](/tag/snapchatbot/)
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
