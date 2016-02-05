@@ -21,15 +21,6 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 ## [¶](#upcoming-events){.pilcrow} Upcoming events {#upcoming-events}
 
-### [¶](#designing-conversations-huge-february-2016){.pilcrow} [Designing Conversations: Rise of the Bots](http://www.meetup.com/Huge-LA/events/228204876/) {#designing-conversations-huge-february-2016}
-
-> Join us for a UX and development workshop on conversation design and AI. 
-
-- Tuesday, February 2, 2016
-- 6:30 PM to 9:30 PM
-- Huge, 6100 Wilshire Blvd, Second Floor, Los Angeles, CA ([map](https://www.google.com/maps/dir/Current+Location/6100+Wilshire+Blvd+Los+Angeles+CA))
-
-<hr/>
 
 ### [¶](#messaging-and-chatbot-developer-meet-up-ben-brown-2016-sxsw){.pilcrow} [Messaging and Chatbot Developer Meet Up at SXSW](http://schedule.sxsw.com/2016/events/event_PP46960) {#messaging-and-chatbot-developer-meet-up-ben-brown-2016-sxsw}
 

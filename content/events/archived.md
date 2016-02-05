@@ -11,6 +11,16 @@ Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates.
 
 See also [upcoming events](/events/) and [meetup groups](/events/meetups).
 
+### [¶](#designing-conversations-huge-february-2016){.pilcrow} [Designing Conversations: Rise of the Bots](http://www.meetup.com/Huge-LA/events/228204876/) {#designing-conversations-huge-february-2016}
+
+> Join us for a UX and development workshop on conversation design and AI. 
+
+- Tuesday, February 2, 2016
+- 6:30 PM to 9:30 PM
+- Huge, 6100 Wilshire Blvd, Second Floor, Los Angeles, CA ([map](https://www.google.com/maps/dir/Current+Location/6100+Wilshire+Blvd+Los+Angeles+CA))
+
+<hr/>
+
 ### [¶](#o-reilly-design-2016){.pilcrow} [O'Reilly Design](http://conferences.oreilly.com/design-ux-interaction-iot) {#o-reilly-design-2016}
 
 Includes a session by [Ben Brown](https://twitter.com/benbrown) titled ["Your friendly robot companions: Design for messaging and chat"](http://conferences.oreilly.com/design-ux-interaction-iot/public/schedule/detail/45682).
