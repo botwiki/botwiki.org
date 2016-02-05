@@ -59,6 +59,6 @@ You can browse bots tagged [#emoji](https://botwiki.org/tag/emoji) for more insp
 
 ### [¶](#prizes){.pilcrow} Prize {#prizes}
 
-The prize for the February's Monthly Bot Challenge is **$20** in the form of either an **Amazon** or **Google Play Store** credit, courtesy of Botwiki donnors :-) 
+The prize for the February's Monthly Bot Challenge is **$20** in the form of either an **Amazon** or **Google Play Store** credit, courtesy of Botwiki donors :-) 
 
 **Looking forward to seeing what you'll make!**
