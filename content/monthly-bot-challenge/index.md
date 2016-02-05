@@ -57,6 +57,8 @@ You could make a bot that [generates emoji-landscapes](/bots/twitterbots/letspla
 
 You can browse bots tagged [#emoji](https://botwiki.org/tag/emoji) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
 
+### [¶](#prizes){.pilcrow} Prize {#prizes}
 
+The prize for the February's Monthly Bot Challenge is **$20** in the form of either an **Amazon** or **Google Play Store** credit, courtesy of Botwiki donnors :-) 
 
 **Looking forward to seeing what you'll make!**
