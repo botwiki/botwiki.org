@@ -8,6 +8,25 @@ Nav: hidden
 
 This section lists general tools and articles that discuss tools and possible approaches to solve particular problems. For tools for specific networks see [the main Resources page](/resources/#specific-resources).
 
+### [¶](#botmaking){.pilcrow} Botmaking websites/tools {#botmaking}
+
+***Note:** See also [Bot Hosting in the Tutorials section](/tutorials/#bot-hosting).*
+
+#### [¶](#botmaking-general){.pilcrow} General {#botmaking-general}
+
+- [Dexter](https://rundexter.com/) -- a platform that makes connecting third-party APIs easy
+- [Hubot](https://hubot.github.com/) -- a customizable, life embetterment robot
+- [Huginn](https://github.com/cantino/huginn) - a system for building agents that perform automated tasks for you online
+- [Flow XO](https://flowxo.com/) -- connect your cloud apps together into automated workflows
+
+#### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
+
+- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) -- This site will help you make a Twitterbot!
+
+#### [¶](#botmaking-slack){.pilcrow} Slack bots {#botmaking-slack}
+
+- [Beep Boop](https://beepboophq.com) -- Slack bot hosting platform
+
 
 ### [¶](#dialog-tools){.pilcrow} Dialog tools {#dialog-tools}
 
