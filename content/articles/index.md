@@ -17,6 +17,7 @@ Enjoy!
 
 ### [¶](#blogs){.pilcrow} Blogs {#blogs}
 
+- [BotWatch](http://bot.watch/)
 - [The Bot Blog](https://thebotblog.wordpress.com/)
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
