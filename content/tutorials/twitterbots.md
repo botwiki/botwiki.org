@@ -51,6 +51,11 @@ And once you have one account verified, you can also host all your bots under th
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
 - [How to Code a Simple Twitter Bot for Complete Beginners](https://medium.com/@sarahnadia/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d)
 
+#### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
+
+[Civ V Random Game Generator Twitterbot](http://www.katelyndinkgrave.com/ruby/2016/01/31/civ-game-generator-twitterbot.html)
+
+
 #### [¶](#cheap-bots-done-quick){.pilcrow} Cheap Bots Done Quick {#cheap-bots-done-quick}
 
 Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For example bots, see the [#cheapbotsdonequick](/tag/cheapbotsdonequick) tag.
