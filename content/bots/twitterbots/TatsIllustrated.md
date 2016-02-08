@@ -1,14 +1,14 @@
 /*
 Title: @TatsIllustrated
 Description: SEXY YETI
+Thumbnail: /content/bots/twitterbots/images/TatsIllustrated.png
+Link: http://twitter.com/TatsIllustrated
 Author: botsheeter.py
 Date: October 18, 2015
 Tags: twitter,twitterbot,active,images,tattoos,boodooperson
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/TatsIllustrated.png)](https://twitter.com/TatsIllustrated)
 
 [@TatsIllustrated](https://twitter.com/TatsIllustrated) is a Twitter bot created by [Joel McCoy](https://twitter.com/BooDooPERSON). 
 

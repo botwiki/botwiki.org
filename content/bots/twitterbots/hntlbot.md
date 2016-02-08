@@ -1,14 +1,14 @@
 /*
 Title: @hntlbot
 Description: Hacker News comments link bot.
+Thumbnail: /content/bots/twitterbots/images/hntlbot.png
+Link: https://twitter.com/hntlbot
 Author: botsheeter.py
 Date: January 5, 2016
 Tags: twitter,twitterbot,active,open source,opensource,python,diamondbishop
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/hntlbot.png)](https://twitter.com/hntlbot)
 
 [@hntlbot](https://twitter.com/hntlbot) is an [open source](https://github.com/dbish/hacker-news-tweet-linking-bot) Twitter bot created by [Diamond Bishop](https://twitter.com/diamondbishop) that adds [Hacker News](https://news.ycombinator.com/) comment links in response to the [Hacker News story bot](https://twitter.com/newsycombinator).
 

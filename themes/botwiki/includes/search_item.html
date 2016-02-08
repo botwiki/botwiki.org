@@ -1,83 +1,13 @@
 <div class="search-item clearfix">
-  {% if 'twitterbot' in page.tags %}
+  {% if page.thumbnail %}
     <div class="search-thumbnail">
       <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/twitterbots/images/{{page.title | replace({'@': ''}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'slackbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/slackbots/images/{{page.title | replace({'@': ''}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'youtubebot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/youtube-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'tumblrbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/tumblr-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'snapchatbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/snapchat-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'kikbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/kik-bots/images/{{page.title | replace({' ': '_'}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'redditbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/redditbots/images/{{page.title | replace({'/u/': '', '/r/': ''}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'trellobot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/trello-bots/images/{{page.title | replace({'@': '', ' ': '_'}) }}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'aimbot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/aim-bots/images/{{page.title}}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif 'telegrambot' in page.tags %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/images/blank.gif" data-src="{{base_url}}/content/bots/telegram-bots/images/{{page.title}}.png">
-      </a>
-    </div>
-    <div class="search-text-after-image">
-  {% elseif thumbnail in page %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img class="lazy-load" src="{{base_url}}/content/{{page.thumbnail}}" data-src="{{base_url}}/content/{{page.thumbnail}}">
+        <img src="{{ page.thumbnail }}" data-src="{{ page.thumbnail }}" class="lazy-load">
       </a>
     </div>
     <div class="search-text-after-image">
   {% else %}
-  <div class="search-text-full">      
+    <div class="search-text-full">      
   {% endif %}
 
     <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>

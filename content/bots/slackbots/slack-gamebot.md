@@ -1,6 +1,8 @@
 /*
 Title: slack-gamebot
 Description: A game bot for Slack, ping-pong, chess, and more.
+Thumbnail: /content/bots/slackbots/images/slack-gamebot.png
+Link: https://github.com/dblock/slack-gamebot
 Author: botsheeter.py
 Date: October 20, 2015
 Tags: slack,slackbot,active,interactive,game,ping-pong,chess,open source,opensource,ruby,dblockdotorg
@@ -8,7 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[![](/content/bots/slackbots/images/slack-gamebot.png)](https://github.com/dblock/slack-gamebot)
 
 [slack-gamebot](https://github.com/dblock/slack-gamebot) is an [open source](https://github.com/dblock/slack-gamebot) Slack bot created by [Daniel Doubrovkine](https://twitter.com/dblockdotorg). 
 

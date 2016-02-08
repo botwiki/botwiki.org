@@ -1,14 +1,14 @@
 /*
 Title: @wowwwbeautiful
 Description: bc all selfies are beautiful
+Thumbnail: /content/bots/twitterbots/images/wowwwbeautiful.png
+Link: http://twitter.com/wowwwbeautiful
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,twitterbot,active,interactive,selfies,autoreply,images,detection,swayandsea
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/wowwwbeautiful.png)](https://twitter.com/wowwwbeautiful)
 
 [@wowwwbeautiful](https://twitter.com/wowwwbeautiful) is a Twitter bot created by [@swayandsea](https://twitter.com/swayandsea) and [@colewillsea](https://twitter.com/colewillsea) that auto-detects and compliments its followers' selfies.
 

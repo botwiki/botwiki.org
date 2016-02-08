@@ -1,6 +1,8 @@
 /*
 Title: deadspelunkers
 Description: Animated GIFs of deaths from Spelunky Daily Challenge
+Thumbnail: /content/bots/tumblr-bots/images/deadspelunkers.png
+Link: http://deadspelunkers.tumblr.com/
 Author: Stefan Bohacek
 Date: October 10, 2015
 Tags: tumblr,tumblrbot,active,gif,videogame,death,boodooperson
@@ -8,8 +10,6 @@ Tags: tumblr,tumblrbot,active,gif,videogame,death,boodooperson
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/tumblr-bots/images/deadspelunkers.png)](http://deadspelunkers.tumblr.com/)
 
 [deadspelunkers](http://deadspelunkers.tumblr.com/) is one of the earliest modern bots, created by [Joel McCoy](https://twitter.com/boodooperson).
 

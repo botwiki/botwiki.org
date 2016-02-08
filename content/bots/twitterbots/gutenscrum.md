@@ -1,6 +1,8 @@
 /*
 Title: @gutenscrum
 Description: "A surrealist project management"
+Thumbnail: /content/bots/twitterbots/images/gutenscrum.png
+Link: https://twitter.com/gutenscrum
 Author: Stefan Bohacek
 Date: September 20, 2015
 Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,gutenberg,colewillsea
@@ -8,7 +10,5 @@ Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,guten
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/gutenscrum.png)](https://twitter.com/gutenscrum)
 
 [@gutenscrum](https://twitter.com/gutenscrum) is an [open source](https://github.com/coleww/gutenscrum) "surrealist project management" bot [@colewillsea](https://twitter.com/colewillsea).

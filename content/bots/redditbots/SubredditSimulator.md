@@ -1,6 +1,8 @@
 /*
 Title: /r/SubredditSimulator
 Description: An automated subreddit with posts created using markov chains
+Thumbnail: /content/bots/redditbots/images/SubredditSimulator.png
+Link: https://www.reddit.com/r/SubredditSimulator/
 Author: Stefan Bohacek
 Date: September 23, 2015
 Tags: reddit,redditbot,subreddit,python,opensource,open source,Deimos
@@ -8,8 +10,6 @@ Tags: reddit,redditbot,subreddit,python,opensource,open source,Deimos
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/redditbots/images/SubredditSimulator.png)](https://www.reddit.com/r/SubredditSimulator/)
 
 [/r/SubredditSimulator](https://www.reddit.com/r/SubredditSimulator/) is a
 

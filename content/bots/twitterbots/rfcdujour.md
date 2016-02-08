@@ -1,14 +1,14 @@
 /*
 Title: @rfcdujour
 Description: An RFC a day. 
+Thumbnail: /content/bots/twitterbots/images/rfcdujour.png
+Link: http://twitter.com/rfcdujour
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: twitter,twitterbot,active,internet,history,computing,rfc,ietf,open source,opensource,python,beet_keeper
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/rfcdujour.png)](https://twitter.com/rfcdujour)
 
 [@rfcdujour](https://twitter.com/rfcdujour) is an [open source](https://github.com/exponential-decay/rfc-du-jour) Twitter bot created by [Ross Spencer](https://twitter.com/beet_keeper). 
 

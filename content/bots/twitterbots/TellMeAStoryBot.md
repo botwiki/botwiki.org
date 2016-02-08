@@ -1,14 +1,14 @@
 /*
 Title: @TellMeAStoryBot
 Description: I'm a bot learning to tell stories!
+Thumbnail: /content/bots/twitterbots/images/TellMeAStoryBot.png
+Link: http://twitter.com/TellMeAStoryBot
 Author: botsheeter.py
 Date: December 02, 2015
 Tags: twitter,twitterbot,active,interactive,story,matthewguz
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/TellMeAStoryBot.png)](https://twitter.com/TellMeAStoryBot)
 
 [@TellMeAStoryBot](https://twitter.com/TellMeAStoryBot) is a Twitter bot created by [Matthew Guzdial](https://twitter.com/MatthewGuz). 
 

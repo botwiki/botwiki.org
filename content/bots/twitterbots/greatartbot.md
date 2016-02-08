@@ -1,14 +1,14 @@
 /*
 Title: @greatartbot
 Description: Computer-generated art, updated four times a day.
+Thumbnail: /content/bots/twitterbots/images/greatartbot.png
+Link: http://twitter.com/greatartbot
 Author: botsheeter.py
 Date: October 19, 2015
 Tags: twitter,twitterbot,active,art,images,open source,opensource,python,_arp
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/greatartbot.png)](https://twitter.com/greatartbot)
 
 [@greatartbot](https://twitter.com/greatartbot) is an [open source](https://github.com/prestia/greatartbot) Twitter bot created by [@_ARP](https://twitter.com/_ARP). 
 

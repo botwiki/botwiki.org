@@ -1,6 +1,8 @@
 /*
 Title: @gachfocal
 Description: Gach focal i nGaeilge.
+Thumbnail: /content/bots/twitterbots/images/gachfocal.png
+Link: http://twitter.com/gachfocal
 Author: Stefan Bohacek
 Date: September 28, 2015
 Tags: twitter,twitterbot,active,language,irish,non-english,ireland,everyword,inky
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,active,language,irish,non-english,ireland,everyword,ink
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/gachfocal.png)](https://twitter.com/gachfocal)
 
 [@gachfocal](https://twitter.com/gachfocal) is an [everyword-style](/tag/everyword) Twitter bot that tweets every word in the Irish language.
 

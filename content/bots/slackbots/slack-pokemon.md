@@ -1,6 +1,9 @@
 /*
 Title: slack-pokemon
 Description: Gotta catch em all!
+Thumbnail: /content/bots/slackbots/images/slack-pokemon.png
+Link: https://github.com/rvinluan/slack-pokemon/
+Installed: yes
 Author: Stefan Bohacek
 Date: November 15, 2015
 Tags: slack,slackbot,active,interactive,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
@@ -8,10 +11,6 @@ Translations: es
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/slackbots/images/slack-pokemon.png)](https://github.com/rvinluan/slack-pokemon/)
-
-***Note: Come join [Botmakers.org](https://botmakers.org/) and you can [try this bot yourself](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) :-)***
 
 [slack-pokemon](https://github.com/rvinluan/slack-pokemon/) is an [open source](https://github.com/rvinluan/slack-pokemon/) Slack bot created by [Robert Vinluan](https://twitter.com/RobertVinluan) that lets you battle pokemon within a chat channel.
 

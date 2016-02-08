@@ -1,6 +1,8 @@
 /*
 Title: @riverlevel_1867
 Description: "Live river-level data from over 2,400 government gauges across England and Wales."
+Thumbnail: /content/bots/twitterbots/images/riverlevel_1867.png
+Link: http://twitter.com/riverlevel_1867
 Author: Stefan Bohacek
 Date: August 6, 2015
 Tags: twitter,twitterbot,active
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,active
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/riverlevel_1867.png)](https://twitter.com/riverlevel_1867)
 
 [@riverlevel_1867](https://twitter.com/riverlevel_1867) is one of the over 2,400 Twitter bots that tweet the water level of rivers in UK. You can also see all of them on a map on [gaugemap.co.uk](http://www.gaugemap.co.uk/).
 

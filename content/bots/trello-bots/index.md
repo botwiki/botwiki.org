@@ -5,8 +5,9 @@ Nav: hidden
 */
 
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
-
+<div class="note">
+This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 <p class="screenshot float-right">
   <a href="/bots/trello-bots/refbot">

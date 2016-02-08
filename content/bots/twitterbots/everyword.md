@@ -1,6 +1,8 @@
 /*
 Title: @everyword
 Description: "Twittered every word in the English language."
+Thumbnail: /content/bots/twitterbots/images/everyword.png
+Link: https://twitter.com/everyword
 Author: Stefan Bohacek
 Date: September 28, 2015
 Tags: twitter,twitterbot,inactive,language,everyword,aparrish
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,inactive,language,everyword,aparrish
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/everyword.png)](https://twitter.com/everyword)
 
 [@everyword](https://twitter.com/everyword), a Twitter bot created by [Allison Parrish](https://twitter.com/aparrish), began its mission to tweet every word in the English language in 2007 and completed it in 2014.
 

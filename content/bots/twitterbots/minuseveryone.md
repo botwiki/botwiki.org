@@ -1,14 +1,14 @@
 /*
 Title: @minuseveryone
 Description: A daily automated cartoon, with everyone removed.
+Thumbnail: /content/bots/twitterbots/images/minuseveryone.png
+Link: http://twitter.com/minuseveryone
 Author: botsheeter.py
 Date: February 03, 2016
 Tags: twitter,twitterbot,active,art,experimental,tumblr,tumblrbot,images,cartoon,revdancatt
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/minuseveryone.png)](https://twitter.com/minuseveryone)
 
 [@minuseveryone](https://twitter.com/minuseveryone) is a Twitter bot created by [@revdancatt](https://twitter.com/revdancatt) ([revdancatt.com](http://revdancatt.com)).
 

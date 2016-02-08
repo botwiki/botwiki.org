@@ -4,7 +4,9 @@ Description: Oh, so you would like to learn a bit more about Botwiki.org?
 Weight: 6
 */
 
-***To see who's behind Botwiki.org, [Botmakers.org](https://botmakers.org/) and the [Bot! zine](https://botzine.org/), see our [Team page](/about/team/). To see what we're actively working on, see the [Projects page](/projects/).***
+<div class="note">
+  <em>To see who's behind Botwiki.org, <a href="https://botmakers.org/">Botmakers.org</a> and the <a href="https://botzine.org/">Bot! zine</a>, see our <a href="/about/team/">Team page</a>. To see what we're actively working on, see the <a href="/projects/">Projects page</a>.</em>  
+</div>
 
 Hi!
 

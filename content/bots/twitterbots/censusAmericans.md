@@ -1,6 +1,8 @@
 /*
 Title: @censusAmericans
 Description: Tweeting the census one real american at a time.
+Thumbnail: /content/bots/twitterbots/images/censusAmericans.png
+Link: http://twitter.com/censusAmericans
 Author: Stefan Bohacek
 Date: July 26, 2015
 Tags: twitter,twitterbot,active,FiveThirtyEight
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,active,FiveThirtyEight
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/censusAmericans.png)](https://twitter.com/censusAmericans)
 
 [@censusAmericans](https://twitter.com/censusAmericans) is a
 

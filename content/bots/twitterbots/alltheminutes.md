@@ -1,14 +1,14 @@
 /*
 Title: @alltheminutes
 Description: A Twitter clock.
+Thumbnail: /content/bots/twitterbots/images/alltheminutes.png
+Link: https://twitter.com/alltheminutes
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,twitterbot,active,time,retweet,studiomoniker
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/alltheminutes.png)](https://twitter.com/alltheminutes)
 
 [@alltheminutes](https://twitter.com/alltheminutes) is a Twitter bot created by [Moniker](https://twitter.com/studiomoniker) that retweets tweets containing the current time.
 

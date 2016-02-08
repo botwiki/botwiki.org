@@ -1,7 +1,7 @@
 /*
 Title: Monthly Bot Challenge
 Description: A monthly theme-based botmaking challenge.
-Thumbnail: monthly-bot-challenge/images/monthly-bot-challenge-promo-february-2016.png
+Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-february-2016.png
 Date: February 1, 2016
 Tags: monthlybotchallenge
 Nav: hidden

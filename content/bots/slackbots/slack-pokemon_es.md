@@ -1,6 +1,9 @@
 /*
 Title: slack-pokemon (es)
 Description: ¡Atrápalos ya!
+Thumbnail: /content/bots/slackbots/images/slack-pokemon.png
+Link: https://github.com/rvinluan/slack-pokemon/
+Installed: yes
 Author: hectorpalmatellez
 Language: es
 Date: 28 de Enero, 2015
@@ -9,9 +12,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[![](/content/bots/slackbots/images/slack-pokemon.png)](https://github.com/rvinluan/slack-pokemon/)
-
-***Nota: Únete a [Botmakers.org](https://botmakers.org/) y podrás [probar este bot por ti mismo](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) :-)***
 
 [slack-pokemon](https://github.com/rvinluan/slack-pokemon/) es un bot para Slack [open source](https://github.com/rvinluan/slack-pokemon/) creado por [Robert Vinluan](https://twitter.com/RobertVinluan) que te permite hacer peleas Pokémon en un canal de chat.
 

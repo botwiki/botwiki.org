@@ -1,14 +1,14 @@
 /*
 Title: @CutePetsDenver
 Description: We are adorable & adoptable Denver Pets!
+Thumbnail: /content/bots/twitterbots/images/CutePetsDenver.png
+Link: http://twitter.com/CutePetsDenver
 Author: botsheeter.py
 Date: October 18, 2015
 Tags: twitter,twitterbot,active,adopt,pets,denver,open source,opensource,ruby,dviramontes_,drewSaysGoVeg
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/CutePetsDenver.png)](https://twitter.com/CutePetsDenver)
 
 [@CutePetsDenver](https://twitter.com/CutePetsDenver) is an [open source](https://github.com/codeforamerica/CutePetsDenver) Twitter bot created by [David A. Viramontes](https://twitter.com/dviramontes_) and [Drew Wilson](https://twitter.com/drewSaysGoVeg).
 
