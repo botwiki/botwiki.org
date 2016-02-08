@@ -29,4 +29,8 @@ Visit [digitalocean.com](https://www.digitalocean.com/) to learn more about the 
 
 ### [¶](#winners){.pilcrow} Winners {#winners}
 
-Winners will be announced on **Monday, February 8**.
+
+- **1st place**: [@bitsofpluto](/bots/twitterbots/bitsofpluto/) by [Hugo](https://twitter.com/hugovk)
+- 2nd place: [hubot-space-bot](/bots/slackbots/hubot-space-bot/) by [Pierre](https://twitter.com/pdples)
+- 3rd place: [@one_small_bot](/bots/twitterbots/one_small_bot/) by [Emma Winston](https://twitter.com/deer_ful)
+
