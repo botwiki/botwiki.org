@@ -8,9 +8,6 @@ Nav: hidden
 */
 
 
-***Note: You have until Sunday, February 7 ([Eastern Time](https://www.google.com/search?q=local+time+est)) to vote for your favorite space-themed bot for the [January challenge](/monthly-bot-challenge/2016-january) [here](https://www.surveymonkey.com/r/RLKF6GH)!***
-
-
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
 You don't need to be an experienced programmer to join our challenge; actually, making bots is a great way to [learn how to program](https://botwiki.org/tutorials/)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
