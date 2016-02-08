@@ -1,14 +1,14 @@
 /*
 Title: @rikersbot
 Description: Collaborative coding and storytelling project.
+Thumbnail: /content/bots/twitterbots/images/rikersbot.png
+Link: http://twitter.com/rikersbot
 Author: botsheeter.py
 Date: October 28, 2015
 Tags: twitter,twitterbot,active,prison,story,storytelling,open source,opensource,python,justicecolumbia
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/rikersbot.png)](https://twitter.com/rikersbot)
 
 [@rikersbot](https://twitter.com/rikersbot) is an [open source](https://github.com/xpmethod/rikersbot) Twitter bot created by [@JusticeColumbia](https://twitter.com/JusticeColumbia). 
 

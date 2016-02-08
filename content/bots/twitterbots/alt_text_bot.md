@@ -1,6 +1,8 @@
 /*
 Title: @alt_text_bot
 Description: "Mention me with an image to get a description."
+Thumbnail: /content/bots/twitterbots/images/alt_text_bot.png
+Link: https://twitter.com/alt_text_bot
 Author: Stefan Bohacek
 Date: October 2, 2015
 Tags: twitter,twitterbot,active,useful,open source,opensource,ruby,images,image recognition,accessibility,ckundo
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,active,useful,open source,opensource,ruby,images,image 
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/alt_text_bot.png)](https://twitter.com/alt_text_bot)
 
 [@alt_text_bot](https://twitter.com/alt_text_bot) is an [open source](https://github.com/ckundo/alt-text-bot) Twitter bot that provides description of an image included in a tweet that mentions it. From the [author's description](https://github.com/ckundo/alt-text-bot/blob/master/README.md):
 

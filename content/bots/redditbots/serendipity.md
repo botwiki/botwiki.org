@@ -1,6 +1,8 @@
 /*
 Title: /r/serendipity
 Description: An automated subreddit with posts created using markov chains
+Thumbnail: /content/bots/redditbots/images/serendipity.png
+Link: https://www.reddit.com/r/serendipity/
 Author: Stefan Bohacek
 Date: September 24, 2015
 Tags: reddit,redditbot,subreddit,python,opensource,open source,umbrae
@@ -8,8 +10,6 @@ Tags: reddit,redditbot,subreddit,python,opensource,open source,umbrae
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/redditbots/images/serendipity.png)](https://www.reddit.com/r/serendipity/)
 
 [/r/serendipity](https://www.reddit.com/r/serendipity/) is an [open source](https://github.com/umbrae/Serendipity) meta-subreddit redditbot created by [Chris Dary](https://twitter.com/chrisdary). It is --
 

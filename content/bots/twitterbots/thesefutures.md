@@ -1,14 +1,14 @@
 /*
 Title: @thesefutures
 Description: Your daily future predictor.
+Thumbnail: /content/bots/twitterbots/images/thesefutures.png
+Link: http://twitter.com/thesefutures
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,twitterbot,active,retweet,future,sci-fi,ranjit,motherboard,vice
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/thesefutures.png)](https://twitter.com/thesefutures)
 
 [@thesefutures](https://twitter.com/thesefutures) is a collaboration between [Ranjit Bhatnagar](https://twitter.com/ranjit) and the editors of [Motherboard](https://twitter.com/motherboard). 
 

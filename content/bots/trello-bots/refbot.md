@@ -1,14 +1,14 @@
 /*
 Title: refbot
 Description: GitHub Issues-style backreferences.
+Thumbnail: /content/bots/trello-bots/images/refbot.png
+Link: https://trello.com/refbot
 Author: botsheeter.py
 Date: November 06, 2015
 Tags: trello,trellobot,active,useful,comments,links,references,backreferences,open source,opensource,node,nodejs,node.js,fiatjaf
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/trello-bots/images/refbot.png)](https://trello.com/refbot)
 
 [refbot](https://trello.com/refbot) is an [open source](https://github.com/websitesfortrello/refbot) Trello bot created by [@fiatjaf](https://twitter.com/fiatjaf). 
 

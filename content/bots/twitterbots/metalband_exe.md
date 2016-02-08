@@ -1,14 +1,14 @@
 /*
 Title: @metalband_exe
 Description: Brutally generating metal band names and logos every four hours.
+Thumbnail: /content/bots/twitterbots/images/metalband_exe.png
+Link: http://twitter.com/metalband_exe
 Author: botsheeter.py
 Date: January 22, 2016
 Tags: twitter,twitterbot,active,image,music,mike_watson
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/metalband_exe.png)](https://twitter.com/metalband_exe)
 
 [@metalband_exe](https://twitter.com/metalband_exe) is a Twitter bot created by [Mike Watson](https://twitter.com/mike_watson). 
 

@@ -1,6 +1,8 @@
 /*
 Title: @aLonelyProject
 Description: The Lonely Project reaches out to people who feel lonely on Twitter.
+Thumbnail: /content/bots/twitterbots/images/aLonelyProject.png
+Link: https://twitter.com/aLonelyProject
 Author: Stefan Bohacek
 Date: August 5, 2015
 Tags: twitter,twitterbot,active,phillylauren
@@ -9,8 +11,6 @@ Translations: es
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/aLonelyProject.png)](https://twitter.com/aLonelyProject)
 
 An interesting online project that consists of a [web page](http://www.laurenhallden.com/lonelyproject/) and a [Twitter bot](https://twitter.com/aLonelyProject). On the aforementioned page, you can see a random tweet about loneliness. You can choose to either retrieve another tweet or ask the bot to reply to the author of the tweet.
 

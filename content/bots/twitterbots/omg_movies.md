@@ -1,14 +1,14 @@
 /*
 Title: @omg_movies
 Description: A a bot that loves films big time but doesn't have a very good memory.
+Thumbnail: /content/bots/twitterbots/images/omg_movies.png
+Link: http://twitter.com/omg_movies
 Author: botsheeter.py
 Date: October 15, 2015
 Tags: twitter,twitterbot,movies,cinema,memory,malapropism,mistakes,fun,puns,javier
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/omg_movies.png)](https://twitter.com/omg_movies)
 
 [@omg_movies](https://twitter.com/omg_movies) is a Twitter bot created by [Javier Arce](https://twitter.com/javier). 
 

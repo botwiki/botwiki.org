@@ -1,6 +1,8 @@
 /*
 Title: @FinnishFlags
 Description: Why are the flags up in Finland?
+Thumbnail: /content/bots/twitterbots/images/FinnishFlags.png
+Link: http://twitter.com/FinnishFlags
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,twitterbot,active,opensource,open source,python,finnish,finland,flags,hugovk
@@ -8,8 +10,6 @@ Tags: twitter,twitterbot,active,opensource,open source,python,finnish,finland,fl
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/FinnishFlags.png)](https://twitter.com/FinnishFlags)
 
 [@FinnishFlags](https://twitter.com/FinnishFlags) is an [open source](https://github.com/hugovk/whyaretheflagsup) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that posts when the flags up in Finland.
 

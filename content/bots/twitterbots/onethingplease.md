@@ -1,14 +1,14 @@
 /*
 Title: @onethingplease
 Description: I'll send you a thing if you ask me politely.
+Thumbnail: /content/bots/twitterbots/images/onethingplease.png
+Link: http://twitter.com/onethingplease
 Author: botsheeter.py
 Date: October 24, 2015
 Tags: twitter,twitterbot,active,images,reply,interactive,vasilis
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/onethingplease.png)](https://twitter.com/onethingplease)
 
 [@onethingplease](https://twitter.com/onethingplease) is a Twitter bot created by [@vasilis](https://twitter.com/vasilis) that will *send you a thing if you ask me politely*.
 

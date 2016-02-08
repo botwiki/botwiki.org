@@ -1,14 +1,14 @@
 /*
 Title: @notyorker
 Description: Parody New Yorker Comics Bot.
+Thumbnail: /content/bots/twitterbots/images/notyorker.png
+Link: http://twitter.com/notyorker
 Author: botsheeter.py
 Date: October 18, 2015
 Tags: twitter,twitterbot,active,images,captions,cartoons,comics,news,open source,opensource,nodejs,node.js,node,smcavinney
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/notyorker.png)](https://twitter.com/notyorker)
 
 [@notyorker](https://twitter.com/notyorker) is an [open source](https://github.com/shaunymca/not_yorker) Twitter bot created by [Shaun McAvinney](https://twitter.com/smcavinney). 
 

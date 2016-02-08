@@ -1,14 +1,14 @@
 /*
 Title: hellospacebot
 Description: Deep space on your timeline, once in a while.
+Thumbnail: /content/bots/tumblr-bots/images/hellospacebot.png
+Link: http://hellospacebot.tumblr.com/
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: tumblr,tumblrbot,active,space,python,opus,cassini,new horizon,voyager,images,open source,opensource,python,streetwanderer
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/tumblr-bots/images/hellospacebot.png)](http://hellospacebot.tumblr.com/)
 
 [hellospacebot](http://hellospacebot.tumblr.com/) is an [open source](https://github.com/StreetWanderer/HelloSpaceBot) Tumblr bot (also posting [on Twitter](https://twitter.com/HelloSpaceBot)) created by [Nicolas L.](https://twitter.com/StreetWanderer). 
 

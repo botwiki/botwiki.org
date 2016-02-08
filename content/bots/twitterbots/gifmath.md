@@ -1,14 +1,14 @@
 /*
 Title: @gifmath
 Description: Every so often drops a math-powered GIF.
+Thumbnail: /content/bots/twitterbots/images/gifmath.png
+Link: http://twitter.com/gifmath
 Author: botsheeter.py
 Date: November 10, 2015
 Tags: twitter,twitterbot,active,images,gif,ronallo
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/gifmath.png)](https://twitter.com/gifmath)
 
 [@gifmath](https://twitter.com/gifmath) is a Twitter bot created by [Jason Ronallo](https://twitter.com/ronallo) that "every so often drops a math-powered GIF."
 

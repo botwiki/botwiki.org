@@ -1,6 +1,8 @@
 /*
 Title: @adventvrecall (es)
 Description: "¿Dónde debería ir?"
+Thumbnail: /content/bots/twitterbots/images/adventvrecall.png
+Link: https://twitter.com/adventvrecall
 Author: hectorpalmatellez
 Language: es
 Date: 2 de Noviembre, 2015
@@ -9,9 +11,6 @@ Tags: twitter,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir,n
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/adventvrecall.png)](https://twitter.com/adventvrecall)
-
 
 [@adventvrecall](https://twitter.com/adventvrecall) es un bot basado en Twitter creado por [@neauoire](https://twitter.com/neauoire) y [@noirmirroir](https://twitter.com/noirmirroir).
 

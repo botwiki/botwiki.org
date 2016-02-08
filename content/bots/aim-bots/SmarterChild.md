@@ -1,14 +1,13 @@
 /*
 Title: SmarterChild
 Description: 
+Thumbnail: /content/bots/aim-bots/images/SmarterChild.png
 Author: Stefan Bohacek
 Date: January 15, 2015
 Tags: aim,msn,aimbot,msnbot,chatterbot,inactive,ActiveBuddy
 Nav: hidden
 Robots: index,follow
 */
-
-![](/content/bots/aim-bots/images/SmarterChild.png)
 
 
 > SmarterChild was an intelligent agent or bot developed by ActiveBuddy, Inc., with offices in New York and Sunnyvale. It was widely distributed across global instant messaging and SMS networks. SmarterChild developed intimate friendships with over 30 million Instant Messenger users on AIM (AOL) and MSN over the course of its lifetime.

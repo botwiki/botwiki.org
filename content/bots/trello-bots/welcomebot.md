@@ -1,14 +1,14 @@
 /*
 Title: welcomebot
 Description: Let people join your public Trello board automatically!
+Thumbnail: /content/bots/trello-bots/images/welcomebot.png
+Link: https://trello.com/welcomebot
 Author: botsheeter.py
 Date: November 06, 2015
 Tags: trello,trellobot,active,useful,board,public,join,welcome,user,open source,opensource,node,nodejs,node.js,fiatjaf
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/trello-bots/images/welcomebot.png)](https://trello.com/welcomebot)
 
 [welcomebot](https://trello.com/welcomebot) is an [open source](https://github.com/websitesfortrello/welcomebot) Trello bot created by [@fiatjaf](https://twitter.com/fiatjaf). 
 

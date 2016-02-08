@@ -1,14 +1,14 @@
 /*
 Title: @everyailment
 Description: Tweeting every code in the ICD-10-CM.
+Thumbnail: /content/bots/twitterbots/images/everyailment.png
+Link: https://twitter.com/everyailment
 Author: botsheeter.py
 Date: October 18, 2015
 Tags: twitter,twitterbot,active,health,medicine,medical,diseases,everyword,open source,opensource,python,ddbeck
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/everyailment.png)](https://twitter.com/everyailment)
 
 [@everyailment](https://twitter.com/everyailment) is an [open source](https://github.com/ddbeck/everyailment) Twitter bot created by [Daniel D. Beck](https://twitter.com/ddbeck). 
 

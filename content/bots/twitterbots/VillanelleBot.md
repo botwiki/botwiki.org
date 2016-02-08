@@ -1,14 +1,14 @@
 /*
 Title: @VillanelleBot
 Description: Poems in the villanelle form, using random Twitter posts.
+Thumbnail: /content/bots/twitterbots/images/VillanelleBot.png
+Link: https://twitter.com/VillanelleBot
 Author: botsheeter.py
 Date: October 19, 2015
 Tags: twitter,twitterbot,active,poetry,literature,wordnik,avoision
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/VillanelleBot.png)](https://twitter.com/VillanelleBot)
 
 [@VillanelleBot](https://twitter.com/VillanelleBot) is a Twitter bot created by [Felix Jung](https://twitter.com/avoision). 
 

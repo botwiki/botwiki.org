@@ -8,7 +8,10 @@
 
 @site-width: 1200px;
 @sidebar-width: 300px;
+/*
 @main-color: #2A2C2B;
+*/
+@main-color: #564d68;
 
 /*=================================*/
 /* Pico Default Theme
@@ -471,7 +474,7 @@ div#content-wrapper{
   line-height: 1.2em;
   position: relative;
 
-  box-shadow: -20px 10px 40px -20px #ddd, 20px 10px 40px -20px #ddd;
+  box-shadow: -10px 10px 40px -20px #ddd, 10px 10px 40px -20px #ddd;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 
@@ -567,6 +570,13 @@ div.search-item{
   padding: 2em 0 1em;
 }
 
+div.note{
+  font-weight: bold;
+  font-style: italic;
+  padding: 10px;
+  background-color: #F7E967;
+}
+
 div.search-item p.meta,
 div.meta p.last-updated{
   font-style: italic;
@@ -578,7 +588,6 @@ div.meta p.last-updated{
 
 p.screenshot{
   padding: 0 0 1.5em;
-  margin: 2px;
   @media only screen and (min-width : 910px) {
     max-width: 45%;
     padding: 0 0 35px;

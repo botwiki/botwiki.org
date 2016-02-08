@@ -1,6 +1,7 @@
 /*
 Title: gridbot
 Description: Colorful grids, once a day!
+Thumbnail: /content/bots/snapchat-bots/images/gridbot.png
 Author: Stefan Bohacek
 Date: October 10, 2015
 Tags: snapchat,snapchatbot,inactive,images,gridbot,tinysubversions
@@ -8,8 +9,6 @@ Tags: snapchat,snapchatbot,inactive,images,gridbot,tinysubversions
 Nav: hidden
 Robots: index,follow
 */
-
-![](/content/bots/snapchat-bots/images/gridbot.png)
 
 **gridbot** was a Snapchat bot that sent a colorful grid to its followers once a day. It was eventually banned and the Tweet conversation below is the only publicly available information about it.
 

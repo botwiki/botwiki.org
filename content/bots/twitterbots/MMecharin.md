@@ -1,14 +1,14 @@
 /*
 Title: @MMecharin
 Description: Random anime screenshots and short videos.
+Thumbnail: /content/bots/twitterbots/images/MMecharin.png
+Link: http://twitter.com/MMecharin
 Author: botsheeter.py
 Date: October 24, 2015
 Tags: twitter,twitterbot,active,images,video,anime,kimik00
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/MMecharin.png)](https://twitter.com/MMecharin)
 
 [@MMecharin](https://twitter.com/MMecharin) is a Twitter bot created by [@Kimiko](https://twitter.com/Kimik00). 
 

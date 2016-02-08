@@ -1,14 +1,14 @@
 /*
 Title: @5point9billion
 Description: Space and birthdays.
+Thumbnail: /content/bots/twitterbots/images/5point9billion.png
+Link: https://twitter.com/5point9billion
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: twitter,twitterbot,active,interactive,birthdays,space,stars,exoplanets,genmon
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/5point9billion.png)](https://twitter.com/5point9billion)
 
 [@5point9billion](https://twitter.com/5point9billion) is a Twitter bot created by [Matt Webb](https://twitter.com/genmon). 
 

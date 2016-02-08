@@ -1,13 +1,14 @@
 /*
 Title: @bot_teleport
 Description: I'm a text bot who teleports you to magical, inspiring places.
+Thumbnail: /content/bots/twitterbots/images/bot_teleport.png
+Link: http://twitter.com/bot_teleport
 Author: botsheeter.py
 Date: October 31, 2015
 Tags: twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,open source,opensource,cheapbotsdonequick,tinyworlds
 Nav: hidden
 Robots: index,follow
 */
-[![](/content/bots/twitterbots/images/bot_teleport.png)](https://twitter.com/bot_teleport)
 
 > "Bot as escapism, fragments of prose scattered through your day, as a restful place alongside IRL."
 >

@@ -1,14 +1,14 @@
 /*
 Title: @archillect
 Description: The ocular engine.
+Thumbnail: /content/bots/twitterbots/images/archillect.png
+Link: https://twitter.com/archillect
 Author: botsheeter.py
 Date: December 02, 2015
 Tags: twitter,twitterbot,active,images,muratpak
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/archillect.png)](https://twitter.com/archillect)
 
 [@archillect](https://twitter.com/archillect) is an "image curation bot" created by [Murat Pak](https://twitter.com/muratpak). 
 

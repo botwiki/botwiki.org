@@ -1,14 +1,14 @@
 /*
 Title: @ObliqueBot
 Description: Disconnect from desire.
+Thumbnail: /content/bots/twitterbots/images/ObliqueBot.png
+Link: http://twitter.com/ObliqueBot
 Author: botsheeter.py
 Date: November 12, 2015
 Tags: twitter,twitterbot,active,cards,aphorisms,open source,opensource,node.js,nodejs,node,sambreed
 Nav: hidden
 Robots: index,follow
 */
-
-[![](/content/bots/twitterbots/images/ObliqueBot.png)](https://twitter.com/ObliqueBot)
 
 [@ObliqueBot](https://twitter.com/ObliqueBot) is an [open source](https://github.com/wookiehangover/oblique-tab) Twitter bot created by [Sam Breed](https://twitter.com/sambreed) based on *Oblique Strategies*.
 
