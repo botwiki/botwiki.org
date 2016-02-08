@@ -5,7 +5,9 @@
   Variables
 */
 /*
-Purple?
+Original dark gray
+@main-color: #2A2C2B;
+Purple
 @main-color: #564d68;
 */
 /*=================================*/
@@ -159,7 +161,7 @@ select {
 input:focus,
 textarea:focus,
 select:focus {
-  color: #080a09;
+  color: #0e0a0f;
   background: #fff;
   border: 1px solid #666666;
 }
@@ -178,7 +180,7 @@ a:visited {
 }
 a:hover,
 a:active {
-  color: #080a09;
+  color: #0e0a0f;
 }
 @media (min-width: 980px) {
   a:hover,
@@ -197,7 +199,7 @@ h4,
 h5,
 h6 {
   font-family: 'Bree Serif', serif;
-  color: #2a2c2b;
+  color: #302c31;
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
@@ -206,7 +208,7 @@ h2 {
 }
 a.pilcrow,
 a.pilcrow:visited {
-  color: #b2b4b3;
+  color: #b8b4b9;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
@@ -221,7 +223,7 @@ h6 a {
 a.pilcrow:hover {
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
-  color: #080a09;
+  color: #0e0a0f;
   text-decoration: none;
 }
 h1,
@@ -352,12 +354,12 @@ div.all-tags a {
   padding: 0 0.2em;
 }
 div#breadcrumbs-wrapper {
-  background-color: #2a2c2b;
+  background-color: #302c31;
   padding: 0 1em;
 }
 div#breadcrumbs {
   padding: 1em;
-  background-color: #2a2c2b;
+  background-color: #302c31;
   width: 100%;
   margin: 0 auto;
 }
@@ -391,7 +393,7 @@ div#breadcrumbs a {
 }
 #header {
   padding: 10px 0 0;
-  background-color: #2a2c2b;
+  background-color: #302c31;
   color: #5D9CEC;
 }
 #header a {
@@ -553,7 +555,7 @@ aside#sidebar img {
   }
 }
 #footer {
-  background-color: #2a2c2b;
+  background-color: #302c31;
   padding: 40px 0;
   color: #C0C0C0;
 }
@@ -694,7 +696,7 @@ img.logo-digitalocean {
     display: inline-block;
   }
   #header nav a {
-    color: #080a09;
+    color: #0e0a0f;
   }
   #header nav a:hover {
     color: #434a54;
