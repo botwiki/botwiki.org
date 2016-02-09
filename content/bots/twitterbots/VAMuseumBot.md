@@ -1,6 +1,6 @@
 /*
 Title: @VAMuseumBot
-Description: V&A Museum Bot
+Description: Victoria and Albert Museum bot.
 Thumbnail: /content/bots/twitterbots/images/VAMuseumBot.png
 Link: https://twitter.com/VAMuseumBot
 Author: botsheeter.py
