@@ -214,14 +214,14 @@ def format_md(bot):
         '/*\n' +
         'Title: ' + bot['username'] + '\n' +
         'Description: ' + bot['short_description'] + '\n' +
+        'Thumbnail: ' + bot_png_filename(bot) + '\n' +
+        'Link: ' + bot['location'] + '\n' +
         'Author: botsheeter.py' + '\n' +
         'Date: ' + date + '\n' +
         'Tags: ' + bot['tags'] + '\n' +
         'Nav: hidden' + '\n' +
         'Robots: index,follow' + '\n' +
         '*/' + '\n\n' +
-        '[![](' + bot_png_filename(bot) + ')](' +
-        bot['location'] + ')\n\n' +
         '[' + bot['username'] + '](' + bot['location'] + ') is a' +
         open_source_text +
         bot['network'] + ' bot created by ' + creator_text + '. \n\n' +
