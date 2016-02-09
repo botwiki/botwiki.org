@@ -27,7 +27,7 @@ and [more](https://botwiki.org/bots/).
 
 Botwiki is powered by [Pico](http://picocms.org/) ([official documentation](http://picocms.org/docs.html)), which is a very simple CMS running on PHP. It uses the [Twig](http://twig.sensiolabs.org/) templating language. The content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics).
 
-There is a few ways you can contribute to Botwiki.
+There are a few ways you can contribute to Botwiki.
 
 
 ### Reporting issues
