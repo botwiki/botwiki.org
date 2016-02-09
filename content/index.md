@@ -32,4 +32,6 @@ Thanks for visiting **Botwiki**, feel free to [contribute](https://github.com/bo
 
 -- [Stefan](/about/team#stefan), the creator of **Botwiki.org**
 
-**PS:** [Here](/about/support)'s how you can support **Botwiki**!
+<div class="note">
+  <strong><em>PS: <a href="/about/support">Here</a>'s how you can support Botwiki!</em></strong>
+</div>
