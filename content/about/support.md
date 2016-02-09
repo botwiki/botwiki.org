@@ -4,6 +4,10 @@ Description: Thank you in advance!
 Nav: hidden
 */
 
+<div class="note">
+  <strong><em>Note: <a href="#donation-options">Skip</a> directly to the donation options.</em></strong>
+</div>
+
 
 One of the key ideas behind **Botwiki** is preserving the work of creative people -- and **Botwiki** and all the related projects are [open source](https://github.com/botwiki/) for the same reason. With [Botmakers.org](https://botmakers.org/), I am trying to create [a friendly and inviting community](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) where anyone can join and share their interest in bots.
 
@@ -18,8 +22,9 @@ There's a lot that goes into maintaining **Botwiki** and all the related side pr
 - organizing and promoting the [Monthly Bot Challenge](https://botwiki.org/monthly-bot-challenge/), which also includes reaching out to potential sponsors
 - and overall just keeping all the sites running
 
-
-If you don't have the time to help out personally (which I completely understand!), you can support **Botwiki** via:
+<div id="donation-options">
+  If you don't have the time to help out personally (which I completely understand!), you can support <strong>Botwiki</strong> via:
+</div>
 
 - [Patreon](https://www.patreon.com/fourtonfish)
 - [Gratipay](https://gratipay.com/botwiki-org/)
