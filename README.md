@@ -27,7 +27,7 @@ and [more](https://botwiki.org/bots/).
 
 Botwiki is powered by [Pico](http://picocms.org/) ([official documentation](http://picocms.org/docs.html)), which is a very simple CMS running on PHP. It uses the [Twig](http://twig.sensiolabs.org/) templating language. The content of the site is created with [Markdown](http://daringfireball.net/projects/markdown/basics).
 
-There is a few ways you can contribute to Botwiki. 
+There is a few ways you can contribute to Botwiki.
 
 
 ### Reporting issues
@@ -147,9 +147,8 @@ If you want to mess with the look of the site, you will need to also install [no
 Then, from the root directory, you can run:
 
 ```
-sudo npm install
+npm install
 ```
-
 
 First run the site as above:
 
@@ -157,7 +156,13 @@ First run the site as above:
 php -S localhost:5000
 ```
 
-And then (in a new terminal window) run the gulp tasks, simply with:
+And then (in a new terminal window) run the `gulp` tasks, simply with:
+
+```
+npm start
+```
+
+or if you have `gulp` installed globally:
 
 ```
 gulp
@@ -168,7 +173,7 @@ The site will be available with live-reloading at `http://localhost:3000`.
 If you for some reason get an error about a node package missing, just install it with
 
 ```
-sudo npm install NAME_OF_THE_PACKAGE --save-dev
+npm install NAME_OF_THE_PACKAGE --save-dev
 ```
 
 ## Contributing without GitHub
