@@ -6,7 +6,7 @@ Link: https://twitter.com/acrotowne
 Author: hectorpalmatellez
 Language: es
 Date: 30 de Octubre, 2015
-Tags: twitter,twitterbot,active,game,zhaytee
+Tags: twitter,twitterbot,active,interactive,game,zhaytee
 
 Nav: hidden
 Robots: index,follow
