@@ -5,7 +5,7 @@ Weight: 6
 */
 
 <div class="note">
-  <em>To see who's behind Botwiki.org, <a href="https://botmakers.org/">Botmakers.org</a> and the <a href="https://botzine.org/">Bot! zine</a>, see our <a href="/about/team/">Team page</a>. To see what we're actively working on, see the <a href="/projects/">Projects page</a>.</em>  
+  <em>To see who's behind Botwiki.org, <a href="https://botmakers.org/">Botmakers.org</a> and the <a href="https://botzine.org/">Bot! zine</a>, see our <a href="/about/team/">Team page</a>. Also check out the <a href="/projects/">active projects</a>, and <a href="/about/support">here</a>'s how you can support <strong>Botwiki</strong>!</em>  
 </div>
 
 Hi!

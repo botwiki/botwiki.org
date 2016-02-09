@@ -16,12 +16,20 @@ The projects we are currently focusing on are:
 
 If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https://github.com/botwiki/botwiki.org). We also have a neat [submit form](https://botwiki.org/submit-your-bot) that lets you suggests bots that you think we should include on the site.
 
+### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
+
+![Sidekick](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-1v3.png)
+
+An ongoing monthly bot hackathon. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
+
 
 ### [¶](#botmakers-org){.pilcrow} Botmakers.org {#botmakers-org}
 
 [![Botmakers.org](/content/projects/images/botmakers.png)](https://botmakers.org/)
 
-[Botmakers.org](https://botmakers.org/) is a friendly Slack group for botmakers and bot enthusiasts. We share ideas, resources, tips -- things that eventually end up on Botwiki.org. We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) -- and it applies to our bots as well!
+[Botmakers.org](https://botmakers.org/) is a friendly Slack group for botmakers and bot enthusiasts. We share ideas, resources, tips -- things that eventually end up on Botwiki.org.
+
+We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) -- and it applies to our bots as well!
 
 
 ### [¶](#botzine-org){.pilcrow} Botzine.org {#botzine-org}
@@ -36,13 +44,4 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 ![Sidekick](/content/projects/images/botwikibot.png)
 
 **Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. Learn more about the project at [getyoursidekick.org](http://getyoursidekick.org/) and join the ongoing development at [Botmakers.org](https://botmakers.org/).
-
-### [¶](#bay-area-bot-arts-meetup){.pilcrow} Bay Area Bot Arts Meetup {#bay-area-bot-arts-meetup}
-
-Regular botmaking events in San Francisco, CA, hosted by [Kasey](https://twitter.com/bitpixi). Join [the Meetup.com group](http://www.meetup.com/Bay-Area-Bot-Arts/) and follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates!
-
-
-### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
-
-See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details.
 

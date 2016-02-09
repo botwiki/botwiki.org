@@ -31,3 +31,5 @@ Be sure to also check out our [Monthly Bot Challenge](/monthly-bot-challenge/) -
 Thanks for visiting **Botwiki**, feel free to [contribute](https://github.com/botwiki/botwiki.org)!
 
 -- [Stefan](/about/team#stefan), the creator of **Botwiki.org**
+
+**PS:** [Here](/about/support)'s how you can support **Botwiki**!
