@@ -6,7 +6,7 @@ Link: https://twitter.com/adventvrecall
 Author: hectorpalmatellez
 Language: es
 Date: 2 de Noviembre, 2015
-Tags: twitter,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
+Tags: twitter,twitterbot,interactive,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
 
 Nav: hidden
 Robots: index,follow
