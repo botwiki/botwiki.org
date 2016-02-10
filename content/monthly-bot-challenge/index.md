@@ -38,7 +38,7 @@ Not adhering to the rules above **may disqualify you from the contest** (dependi
 
 Naturally, you must also follow the rules of the platform on which you choose to create your bot. (For example, don't make [Twitter bots that automatically reply to people](https://support.twitter.com/articles/76915#replies-mentions) -- unless they follow your bot.)
 
-**If any of the rules are unclear, please [ask questions](mailto:stefan@fourtonfish.com)!**
+**If any of the rules are unclear, please [ask questions](mailto:stefan@botwiki.org)!**
 
 ### [¶](#theme){.pilcrow} Theme {#theme}
 

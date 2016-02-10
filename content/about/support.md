@@ -33,7 +33,7 @@ There's a lot that goes into maintaining **Botwiki** and all the related side pr
 
 You can also sign up for the [DigitalOcean](https://www.digitalocean.com/) hosting using [this referral link](https://www.digitalocean.com/?refcode=9e279abc3337).
 
-If you like the projects, but are not in position to provide financial support, I would appreciate even giving me a [shoutout on Twitter](https://twitter.com/intent/tweet?source=http://localhost:5000/about/support&text=Support%20Botwiki,%20Botmakers.org,%20and%20the%20Bot!%20zine%20newsletter%20http://localhost:5000/about/support&via=botwikidotorg), or sending me a little [note of encouragement](mailto:stefan@fourtonfish.com) :-)
+If you like the projects, but are not in position to provide financial support, I would appreciate even giving me a [shoutout on Twitter](https://twitter.com/intent/tweet?source=http://localhost:5000/about/support&text=Support%20Botwiki,%20Botmakers.org,%20and%20the%20Bot!%20zine%20newsletter%20http://localhost:5000/about/support&via=botwikidotorg), or sending me a little [note of encouragement](mailto:stefan@botwiki.org) :-)
 
 And you are more than welcome to join [Botmakers.org](https://botmakers.org/), regardless of your programming experience! The one thing we all have in common is that we just really like bots :-)
 
