@@ -161,7 +161,7 @@ select {
 input:focus,
 textarea:focus,
 select:focus {
-  color: #0e0a0f;
+  color: #160f18;
   background: #fff;
   border: 1px solid #666666;
 }
@@ -180,7 +180,7 @@ a:visited {
 }
 a:hover,
 a:active {
-  color: #0e0a0f;
+  color: #160f18;
 }
 @media (min-width: 980px) {
   a:hover,
@@ -199,7 +199,7 @@ h4,
 h5,
 h6 {
   font-family: 'Bree Serif', serif;
-  color: #302c31;
+  color: #38313a;
   line-height: 1.2em;
   margin-bottom: 0.6em;
 }
@@ -208,7 +208,7 @@ h2 {
 }
 a.pilcrow,
 a.pilcrow:visited {
-  color: #b8b4b9;
+  color: #c0b9c2;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
 }
@@ -223,7 +223,7 @@ h6 a {
 a.pilcrow:hover {
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
-  color: #0e0a0f;
+  color: #160f18;
   text-decoration: none;
 }
 h1,
@@ -354,12 +354,12 @@ div.all-tags a {
   padding: 0 0.2em;
 }
 div#breadcrumbs-wrapper {
-  background-color: #302c31;
+  background-color: #38313a;
   padding: 0 1em;
 }
 div#breadcrumbs {
   padding: 1em;
-  background-color: #302c31;
+  background-color: #38313a;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -394,7 +394,7 @@ div#breadcrumbs a {
 }
 #header {
   padding: 10px 0 0;
-  background-color: #302c31;
+  background-color: #38313a;
   color: #5D9CEC;
 }
 #header a {
@@ -560,7 +560,7 @@ aside#sidebar img {
   }
 }
 #footer {
-  background-color: #302c31;
+  background-color: #38313a;
   padding: 40px 0;
   color: #C0C0C0;
 }
@@ -701,7 +701,7 @@ img.logo-digitalocean {
     display: inline-block;
   }
   #header nav a {
-    color: #0e0a0f;
+    color: #160f18;
   }
   #header nav a:hover {
     color: #434a54;
@@ -735,7 +735,7 @@ img.logo-digitalocean {
     max-width: 1200px;
     margin: 0 auto;
     font-weight: bold;
-    background-color: #000000;
+    background-color: #050007;
     color: #fff;
     overflow: auto;
     padding: 0.5em 0;
