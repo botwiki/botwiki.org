@@ -14,7 +14,7 @@ Original dark gray
 Purple
 @main-color: #564d68;
 */
-@main-color: #302c31;
+@main-color: #38313a;
 
 /*=================================*/
 /* Pico Default Theme
@@ -293,6 +293,13 @@ img.centered{
   margin: 3em auto;
   max-width: 100%;
 }
+
+img.extra-margin{
+  @media (min-width : 980px) {
+    margin-top: -1.3em;
+  }
+}
+
 .float-right,
 .float-left{
   max-width: 410px;
@@ -333,13 +340,13 @@ div#breadcrumbs{
   width: 100%;
   max-width: @site-width;
   margin: 0 auto;
-  @media only screen and (max-width : 910px) {
+  @media (max-width : 910px) {
     display: none;
   }  
 }
 
 div#breadcrumbs-wrapper.sticky{
-  @media only screen and (min-width : 910px) {
+  @media (min-width : 910px) {
     position: fixed;
     z-index: 100;
     top: 0;
@@ -597,7 +604,7 @@ div.meta p.last-updated{
 
 p.screenshot{
   padding: 0 0 1.5em;
-  @media only screen and (min-width : 910px) {
+  @media (min-width : 910px) {
     max-width: 45%;
     padding: 0 0 35px;
   }
@@ -608,13 +615,13 @@ p.screenshot img{
 }
 
 p.screenshot.float-right{
-  @media only screen and (min-width : 910px) {
+  @media (min-width : 910px) {
     padding-left: 30px;
   }
 }
 
 p.screenshot.float-left{
-  @media only screen and (min-width : 910px) {
+  @media (min-width : 910px) {
     padding-right: 30px;
   }
 }
@@ -636,7 +643,7 @@ div.search-thumbnail img{
 }
 
 
-@media only screen and (min-width : 800px) {
+@media (min-width : 800px) {
   div.search-thumbnail,
   div.search-text{
     width: 45%;
@@ -685,7 +692,7 @@ img.logo-digitalocean{
 /*---------------------------------------------*/
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 912px) {
+@media (max-width : 912px) {
   .float-right,
   .float-left{
     max-width: 100%;
@@ -807,7 +814,7 @@ div.callout a{
 }
 
 /* Extra Small Devices, Phones */ 
-@media only screen and (max-width : 480px) {
+@media (max-width : 480px) {
   #header {
     margin-bottom: 30px;
   }
