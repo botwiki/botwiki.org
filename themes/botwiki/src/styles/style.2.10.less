@@ -331,6 +331,7 @@ div#breadcrumbs{
   padding: 1em;
   background-color: @main-color;
   width: 100%;
+  max-width: @site-width;
   margin: 0 auto;
   @media only screen and (max-width : 910px) {
     display: none;
@@ -401,6 +402,10 @@ div#breadcrumbs a{
   font-weight: bold;
   margin: 0; 
   float: left;
+}
+
+#header .inner{
+  max-width: @site-width + 70px;
 }
 
 li.active a{
