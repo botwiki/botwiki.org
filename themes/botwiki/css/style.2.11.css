@@ -427,7 +427,8 @@ div#breadcrumbs a {
   margin: 0;
   float: left;
 }
-#header .inner {
+header .inner,
+footer .inner {
   max-width: 1270px;
 }
 @media (min-width: 980px) {
