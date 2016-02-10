@@ -14,7 +14,7 @@ See also [past events](/events/archived) and [meetup groups](/events/meetups).
 
 For the **Monthly Bot Challenge**, [see the dedicated page](/monthly-bot-challenge). 
 
-Do you know about an interesting event? Send a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or tweet at [@botwikidotorg](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
+Do you know about an interesting event? Send a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or tweet at [@botwikidotorg](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).
 
 Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/)!
 

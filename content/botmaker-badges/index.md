@@ -22,7 +22,7 @@ Once you get your badge, you can add it to your [Mozilla Backpack](https://backp
 
 To apply, add your bot to Botwiki using our [submit form](http://botwiki.org/submit-your-bot), and in the description, mention that you're applying for this badge.
 
-You can either include your email in the description, so we can send you your badge (the email will **not**, of course, be published), or you can send a separate email to [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) (or a [DM on Twitter](https://twitter.com/fourtonfish)) with your email address and a link to your bot.
+You can either include your email in the description, so we can send you your badge (the email will **not**, of course, be published), or you can send a separate email to [stefan@botwiki.org](mailto:stefan@botwiki.org) (or a [DM on Twitter](https://twitter.com/fourtonfish)) with your email address and a link to your bot.
 
 ### [¶](#bot-teacher-badge){.pilcrow} Bot Teacher {#bot-teacher-badge}
 

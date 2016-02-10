@@ -27,7 +27,7 @@ Everyone is welcome to [contribute](https://github.com/botwiki/botwiki.org) to [
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Feel free to also [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi at [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com).
+Feel free to also [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi at [stefan@botwiki.org](mailto:stefan@botwiki.org).
 
 Thanks -- and have an awesome day 🎸🌟!
 

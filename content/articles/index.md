@@ -12,7 +12,7 @@ For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and f
 
 Enjoy!
 
-***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@fourtonfish.com) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
+***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
 
 
 ### [¶](#blogs){.pilcrow} Blogs {#blogs}

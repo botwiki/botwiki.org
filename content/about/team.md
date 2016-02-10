@@ -27,4 +27,4 @@ You can visit my personal website at [fourtonfish.com](https://fourtonfish.com/)
 
 ### [¶](#contact){.pilcrow} Contact {#contact}
 
-If you'd like to get in touch, feel free to email [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com) or reach out to him [on Twitter](https://twitter.com/fourtonfish).
+If you'd like to get in touch, feel free to email [stefan@botwiki.org](mailto:stefan@botwiki.org) or reach out to him [on Twitter](https://twitter.com/fourtonfish).
