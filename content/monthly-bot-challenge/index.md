@@ -7,9 +7,10 @@ Tags: monthlybotchallenge
 Nav: hidden
 */
 
+**Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s still not too late to complete <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>&#39;s January space-themed bot challenge <a href="https://t.co/cP7uJYNwx8">https://t.co/cP7uJYNwx8</a> <a href="https://t.co/BBXAb1aqjo">pic.twitter.com/BBXAb1aqjo</a></p>&mdash; DigitalOcean (@digitalocean) <a href="https://twitter.com/digitalocean/status/690965477875589120">January 23, 2016</a></blockquote>
 
-**Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
 You don't need to be an experienced programmer to join our challenge; actually, making bots is a great way to [learn how to program](https://botwiki.org/tutorials/)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
 
