@@ -12,18 +12,27 @@
 
     <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
     <p class="excerpt">{{ page.description }}</p>
+    {% if page.date %}
     <p class="meta">
-      {% if page.tags|length > 0 %}
-        {% if page.tags is iterable %}
-          {% set page_tags = page.tags %}
-        {% else %}
-          {% set page_tags = page.tags|split(',') %}
-        {% endif %}
-
-        {% for tag in page_tags %}
-          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-        {% endfor %}
+      {% if 'event' in page.tags %}
+        {{ page.date }}
+      {% else %}
+        Last updated on {{ page.date }}
       {% endif %}
-    {% if page.date %}<br/>Last updated on {{ page.date }}</p>{% endif %}
+    </p>
+    {% endif %}
+    {% if page.tags|length > 0 %}
+      {% if page.tags is iterable %}
+        {% set page_tags = page.tags %}
+      {% else %}
+        {% set page_tags = page.tags|split(',') %}
+      {% endif %}
+        <p class="meta">
+
+          {% for tag in page_tags %}
+            <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+          {% endfor %}
+        </p>
+    {% endif %}
   </div>
 </div>
