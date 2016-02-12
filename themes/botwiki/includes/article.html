@@ -1,6 +1,6 @@
 <article>
   <div class="meta">
-    {% if meta.tags is not empty %}
+    {% if meta.date and 'event' not in meta.tags %}
       <p class="last-updated">
         {% if meta.language == 'es'%}
           Actualizado por última vez:
