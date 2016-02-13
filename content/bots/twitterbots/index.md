@@ -4,6 +4,7 @@ Description: Bots on Twitter.
 Nav: hidden
 */
 
+<div class="note">Jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
 
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
@@ -53,13 +54,20 @@ Browse [all Twitter bots](/tag/twitterbot).
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
-### [¶](#botally-and-bot-summit){.pilcrow} &#35;botALLY and Bot Summit {#botally-and-bot-summit}
+### [¶](#communities){.pilcrow} Communities {#communities}
+#### [¶](#communities-botally){.pilcrow} \#botALLY {#communities-botally}
 
-There is a small, loosely connected community of Twitter botmakers exchanging updates under the [*&#35;botALLY*](https://twitter.com/hashtag/botally?f=tweets) hashtag.
+There is a small, loosely connected community of Twitter botmakers exchanging updates under the [\#botALLY](https://twitter.com/hashtag/botally?f=tweets) hashtag.
 
-The term *&#35;botALLY* was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
+The term "bot ally" was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
-[Darius Kazemi](https://twitter.com/tinysubversions) organizes the [Bot Summit events](/events/).
+[Darius Kazemi](https://twitter.com/tinysubversions), often seen as the leading figure of the #botALLY "movement" organizes the [Bot Summit events](/tag/event+bot%20summit), speaks [publicly about his work](http://tinysubversions.com/press-shows/), and generally [contributes heavily](https://github.com/dariusk?tab=repositories) to the Twitter botmaking ecosystem (some of his popular projects include [corpora](https://github.com/dariusk/corpora), and [wordfilter](https://github.com/dariusk/wordfilter)).
+
+Darius notes on the purpose of #botALLY:
+
+> \#botALLY is ​primarily​ here to provide emotional support and camaraderie and to celebrate people's work and encourage participation. It is only secondarily about discussion of the art and craft of making bots, and that is a far, far, FAR second-place priority.
+
+
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 

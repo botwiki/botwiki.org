@@ -4,7 +4,7 @@ Description: Bot Summit is an event where botmakers from around the world get to
 Link: http://tinysubversions.com/2013/11/bot-summit/
 Date: November 23, 2013
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Boston,MA&zoom=15&size=900x300&maptype=roadmap
-Tags: event,archived,botally
+Tags: event,archived,botally,bot summit
 */
 
 > Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.

@@ -18,6 +18,7 @@ This section lists general tools and articles that discuss tools and possible ap
 - [Hubot](https://hubot.github.com/) -- a customizable, life embetterment robot
 - [Huginn](https://github.com/cantino/huginn) - a system for building agents that perform automated tasks for you online
 - [Flow XO](https://flowxo.com/) -- connect your cloud apps together into automated workflows
+- [Botomatic](http://www.botomatic.co/)
 
 #### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
 
