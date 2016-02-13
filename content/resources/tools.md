@@ -26,7 +26,7 @@ This section lists general tools and articles that discuss tools and possible ap
 #### [¶](#botmaking-slack){.pilcrow} Slack bots {#botmaking-slack}
 
 - [Beep Boop](https://beepboophq.com) -- Slack bot hosting platform
-
+- [Slack.Pipe](http://slack.datastack.co/) -- allows you to create custom bots from any API
 
 ### [¶](#dialog-tools){.pilcrow} Dialog tools {#dialog-tools}
 

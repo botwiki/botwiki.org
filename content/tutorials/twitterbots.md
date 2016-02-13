@@ -32,6 +32,7 @@ And once you have one account verified, you can also host all your bots under th
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
+ - See also [Daniel's notes](http://shiffman.github.io/A2Z-F15/week9/notes.html) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
 - A three-part in-depth tutorial by [@ursooperduper](https://twitter.com/ursooperduper)
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)

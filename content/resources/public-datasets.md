@@ -8,7 +8,7 @@ Nav: hidden
 
 ![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}
 
-### [¶](#datasets-general){.pilcrow} General, unsorted, lists {#datasets-general}
+### [¶](#datasets-general){.pilcrow} General {#datasets-general}
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
 - [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
@@ -20,7 +20,7 @@ Nav: hidden
 - [Yahoo! Datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
 
-### [¶](#datasets-language){.pilcrow} General language, news, reviews, forum data, metadata {#datasets-language}
+### [¶](#datasets-language){.pilcrow} News, reviews, forum data, metadata {#datasets-language}
 
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
 - [VisualGenome](http://visualgenome.org/) -- "dataset, a knowledge base, an ongoing effort to connect structured image concepts to language"
@@ -46,6 +46,16 @@ Nav: hidden
 - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- 
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 
+### [¶](#datasets-movies){.pilcrow} Movies {#datasets-movies}
+- [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
+- [Movielens Data by GroupLens](http://grouplens.org/datasets/movielens/) -- rating data sets from the [MovieLens](http://movielens.org) web site 
+- [UC Irvine Machine Learning Lab’s Movie Data Set](https://archive.ics.uci.edu/ml/datasets/Movie) -- a list of over 10000 films including many older, odd, and cult films
+- [Hadley Wickham’s Normalized IMDB Movie Data](http://had.co.nz/data/movies/)
+- [AM Stat Movie Data Set](http://www.amstat.org/publications/jse/v17n1/datasets.mclaren.html) -- weekend and daily per theater box office receipt data as well as total U.S. gross receipts
+- [LinkedMDB](http://data.linkedmdb.org/) -- open semantic web database for movies, including a large number of interlinks to several datasets on the open data cloud and references to related web pages
+- [Open Movie Database](http://www.omdbapi.com/) -- a free web service to obtain movie information
+- [Cornell University Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+- [Jonathan Koren Movies Data Set](http://jonathankoren.com/movies-dataset.html) -- faceted metadata describing contemporary American films, along with relevant judgements by actual human users
 
 ### [¶](#other){.pilcrow} Other {#other}
 
