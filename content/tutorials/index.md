@@ -67,16 +67,21 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 ### [¶](#chat){.pilcrow} Chat/conversational interfaces {#chat}
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details)
+- [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF)
+
+### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
+- [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
+- [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
+- [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
+- [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
 
 ### [¶](#other){.pilcrow} Other {#other}
-- [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
-- [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
-- [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/)
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/)
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
+
 
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
