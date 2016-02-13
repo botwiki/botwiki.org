@@ -56,7 +56,7 @@ And once you have one account verified, you can also host all your bots under th
 
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 
-[Civ V Random Game Generator Twitterbot](http://www.katelyndinkgrave.com/ruby/2016/01/31/civ-game-generator-twitterbot.html)
+- [Civ V Random Game Generator Twitterbot](http://www.katelyndinkgrave.com/ruby/2016/01/31/civ-game-generator-twitterbot.html)
 
 
 #### [¶](#cheap-bots-done-quick){.pilcrow} Cheap Bots Done Quick {#cheap-bots-done-quick}
