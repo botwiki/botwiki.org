@@ -81,10 +81,15 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
 - [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- A tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
-- [I Will Dance The OAuth Dance For You](http://v21.io/iwilldancetheoauthdanceforyou/) -- a tool to help obtain oauth credentials for an account.
+- [I Will Dance The OAuth Dance For You](http://v21.io/iwilldancetheoauthdanceforyou/) -- a tool to help obtain oauth credentials for an account
+- [MikeNGarrett/twitter-blacklist](https://github.com/MikeNGarrett/twitter-blacklist) -- "100,000+ twitter account ids that are total crap, spam, or bots"
 - [a Perl command line client](http://www.floodgap.com/software/ttytter/) 
 - [Twitter Natural Language Processing](http://www.ark.cs.cmu.edu/TweetNLP/) -- tokenizer, a part-of-speech tagger, hierarchical word clusters, and a dependency parser for tweets, along with annotated corpora and web-based annotation tools
 - [dariusk/grunt-init-twitter-bot](https://github.com/dariusk/grunt-init-twitter-bot) -- a [grunt init](http://gruntjs.com/project-scaffolding) template for making Twitter bots
+
+
+See also:
+
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
 - [bothub.org](http://bothub.org/) -- various links for Twitter bot makers
 - [botpad.org](http://botpad.org/p/bot_resources) -- same as above, but the site is often inaccessible
