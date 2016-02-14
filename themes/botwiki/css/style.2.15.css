@@ -363,7 +363,7 @@ div#breadcrumbs-wrapper {
   padding: 0 1em;
 }
 div#breadcrumbs {
-  padding: 1em;
+  padding: 0 0.3em 1em;
   color: #7c757e;
   background-color: #38313a;
   width: 100%;
