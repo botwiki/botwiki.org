@@ -331,6 +331,11 @@ img.centered {
   margin: 3em auto;
   max-width: 100%;
 }
+@media (min-width: 980px) {
+  img.extra-margin {
+    margin-top: -1.3em;
+  }
+}
 .float-right,
 .float-left {
   max-width: 410px;
@@ -359,17 +364,18 @@ div#breadcrumbs-wrapper {
 }
 div#breadcrumbs {
   padding: 1em;
+  color: #7c757e;
   background-color: #38313a;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
 }
-@media only screen and (max-width: 910px) {
+@media (max-width: 910px) {
   div#breadcrumbs {
     display: none;
   }
 }
-@media only screen and (min-width: 910px) {
+@media (min-width: 910px) {
   div#breadcrumbs-wrapper.sticky {
     position: fixed;
     z-index: 100;
@@ -603,7 +609,7 @@ div.meta p.last-updated {
 p.screenshot {
   padding: 0 0 1.5em;
 }
-@media only screen and (min-width: 910px) {
+@media (min-width: 910px) {
   p.screenshot {
     max-width: 45%;
     padding: 0 0 35px;
@@ -612,12 +618,12 @@ p.screenshot {
 p.screenshot img {
   border: 1px solid #efefef;
 }
-@media only screen and (min-width: 910px) {
+@media (min-width: 910px) {
   p.screenshot.float-right {
     padding-left: 30px;
   }
 }
-@media only screen and (min-width: 910px) {
+@media (min-width: 910px) {
   p.screenshot.float-left {
     padding-right: 30px;
   }
@@ -637,7 +643,7 @@ p.screenshot img {
 div.search-thumbnail img {
   border: 1px solid #efefef;
 }
-@media only screen and (min-width: 800px) {
+@media (min-width: 800px) {
   div.search-thumbnail,
   div.search-text {
     width: 45%;
@@ -677,7 +683,7 @@ img.logo-digitalocean {
 /* Media Queries
 /*---------------------------------------------*/
 /* Small Devices, Tablets */
-@media only screen and (max-width: 912px) {
+@media (max-width: 912px) {
   .float-right,
   .float-left {
     max-width: 100%;
@@ -797,7 +803,7 @@ img.logo-digitalocean {
   }
 }
 /* Extra Small Devices, Phones */
-@media only screen and (max-width: 480px) {
+@media (max-width: 480px) {
   #header {
     margin-bottom: 30px;
   }
