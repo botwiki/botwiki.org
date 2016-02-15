@@ -17,9 +17,8 @@ Nav: hidden
 </p>
 
 - [Automatically-generated documentation for the reddit API](https://www.reddit.com/dev/api)
-- [PRAW: The Python Reddit Api Wrapper](https://praw.readthedocs.org/en/stable/index.html)
 - How to Make a Reddit Bot -- a series of video tutorials
- - [Part 1 - Installing Python+PRAW](https://www.youtube.com/watch?v=xHes-Cdmfzc)
+ - [Part 1 - Installing Python + PRAW (The Python Reddit Api Wrapper)](https://www.youtube.com/watch?v=xHes-Cdmfzc)
  - [Part 2 - Writing ReplyBot](https://www.youtube.com/watch?v=keiATJcZE8g)
  - [Part 3 - OAuth 2](https://www.youtube.com/watch?v=Uvxu2efXuiY)
 
