@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/oliviataters.png
 Link: http://twitter.com/oliviataters
 Author: Stefan Bohacek
 Date: September 6, 2015
-Tags: twitter,twitterbot,active,markov,markovchain,robdubbin
+Tags: twitter,twitterbot,active,markov chain,robdubbin
 
 Nav: hidden
 Robots: index,follow
