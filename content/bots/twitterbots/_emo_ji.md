@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/_emo_ji.png
 Link: https://twitter.com/_emo_ji
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: twitter,twitterbot,active,interactive,monthlybotchallenge emojis images,nah_solo
+Tags: twitter,twitterbot,active,interactive,monthlybotchallenge,emoji,images,nah_solo
 Nav: hidden
 Robots: index,follow
 */
