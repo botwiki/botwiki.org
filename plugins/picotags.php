@@ -267,7 +267,13 @@ class Picotags {
         }
 
         usort($this->pagestags, 'sort_by_date');
-        $twig_vars['pagestags'] = $this->pagestags;
+
+        if(count(array_intersect(['event', 'upcoming'], $this->current_tags)) == count($this->current_tags)){
+            $twig_vars['pagestags'] = array_reverse($this->pagestags);
+        }
+        else{
+            $twig_vars['pagestags'] = $this->pagestags;
+        }
 
         $twig_vars['current_tag'] = $this->current_tag; /* {{ current_tag }} is a string*/
         $twig_vars['current_tags'] = $this->current_tags;
