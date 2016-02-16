@@ -4,7 +4,7 @@ Description: AOL bot that used to chat about Radiohead.
 Link: https://en.wikipedia.org/wiki/GooglyMinotaur
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: inactive,interactive,aim,aol,radiohead,music,chat,ActiveBuddy
+Tags: inactive,interactive,aim,aol,radiohead,music,chat,chatbot,ActiveBuddy
 Nav: hidden
 Robots: index,follow
 */
