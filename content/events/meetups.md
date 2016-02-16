@@ -21,5 +21,5 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 - [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/), hosted by [Kasey](https://twitter.com/bitpixi). Follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
 - [SlackDevs](http://www.meetup.com/SlackDevs/), the official [Slack](http://slackhq.com/) meetup group.
-
+- [Messaging 2.0](http://www.meetup.com/messaging2/): this meetup "brings together thought leaders, connectors, coders and marketers from around the industry to examine and celebrate the rise of the next paradigm: Messaging".
 
