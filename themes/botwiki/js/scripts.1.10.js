@@ -72,7 +72,7 @@ return smoothScroll;
 
 var sticky = document.getElementById('breadcrumbs-wrapper'),
 // TODO: ???
-    stickyOffset = document.getElementById('header').clientHeight + sticky.clientHeight - 7;
+    stickyOffset = document.getElementById('header').clientHeight;
 
 function checkBreadcrumbsPosition(){
   if( document.body.scrollTop + document.documentElement.scrollTop > stickyOffset){
