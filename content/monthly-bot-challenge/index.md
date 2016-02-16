@@ -12,10 +12,6 @@ Nav: hidden
 </div>
 
 
-
-
-
-
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s still not too late to complete <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>&#39;s January space-themed bot challenge <a href="https://t.co/cP7uJYNwx8">https://t.co/cP7uJYNwx8</a> <a href="https://t.co/BBXAb1aqjo">pic.twitter.com/BBXAb1aqjo</a></p>&mdash; DigitalOcean (@digitalocean) <a href="https://twitter.com/digitalocean/status/690965477875589120">January 23, 2016</a></blockquote>
@@ -52,10 +48,11 @@ Naturally, you must also follow the rules of the platform on which you choose to
 ### [¶](#theme){.pilcrow} Theme {#theme}
 
 <p class="screenshot float-right">
-  <a href="/bots/twitterbots/digital_henge">
-    <img src="/content/bots/twitterbots/images/digital_henge.png">
+  <a href="/bots/twitterbots/emoji__polls">
+    <img src="/content/bots/twitterbots/images/emoji__polls.png">
   </a>
 </p>
+
 
 The theme for the February 2016 Monthly Bot Challenge is: 
 
