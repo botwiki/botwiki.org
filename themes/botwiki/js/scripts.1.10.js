@@ -70,11 +70,12 @@ document.addEventListener("DOMContentLoaded", function () {
 return smoothScroll;
 })();
 
-var sticky = document.getElementById('breadcrumbs-wrapper');
+var sticky = document.getElementById('breadcrumbs-wrapper'),
+// TODO: ???
+    stickyOffset = document.getElementById('header').clientHeight + sticky.clientHeight - 7;
 
 function checkBreadcrumbsPosition(){
-  // TODO: Get this value dynamically!
-  if( document.body.scrollTop + document.documentElement.scrollTop > 170){
+  if( document.body.scrollTop + document.documentElement.scrollTop > stickyOffset){
     document.body.style.paddingTop = sticky.clientHeight + 'px'; 
     sticky.className = 'sticky';
   }
