@@ -1,6 +1,6 @@
 /*
 Title: Art of Bots (Abandon Normal Devices)
-Description: If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant! 
+Description: This weekend of workshops, labs and bot showcases will be a chance to meet pioneers of the bot making community, gain an insight into their practices and also uncover the darker side of these computer programmes.
 Link: http://www.andfestival.org.uk/events/art-of-bots-london/
 Date: April 15, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Somerset+House+Strand+London+WC2R+1LA&zoom=15&size=900x300&maptype=roadmap
