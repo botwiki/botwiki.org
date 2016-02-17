@@ -25,7 +25,7 @@ Enjoy!
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
-- [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/)
+- [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
