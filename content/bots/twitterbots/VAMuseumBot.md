@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/VAMuseumBot.png
 Link: https://twitter.com/VAMuseumBot
 Author: botsheeter.py
 Date: February 09, 2016
-Tags: twitter,twitterbot,active,interactive,ruby museum art,jezmr
+Tags: twitter,twitterbot,active,interactive,museum,art,jezmr
 Nav: hidden
 Robots: index,follow
 */
