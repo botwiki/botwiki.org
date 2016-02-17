@@ -23,6 +23,10 @@ Enjoy!
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
 - [The New York Review of Bots](http://nybots.tumblr.com/)
 
+### [¶](#books){.pilcrow} Books and other literature {#books}
+
+- [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/)
+
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 
