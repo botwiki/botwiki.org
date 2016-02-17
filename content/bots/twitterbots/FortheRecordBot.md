@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/FortheRecordBot.png
 Link: https://twitter.com/FortheRecordBot
 Author: botsheeter.py
 Date: February 09, 2016
-Tags: twitter,twitterbot,active,#quinnheraty #emckean #twitterbot #tinysubversions,open source,opensource,quinnheraty
+Tags: twitter,twitterbot,active,quinnheraty,emckean,tinysubversions,open source,opensource
 Nav: hidden
 Robots: index,follow
 */
