@@ -1,6 +1,6 @@
 /*
 Title: @NixieBot
-Description: Movies of neon words can be summoned via hashtag
+Description: Movies of neon words can be summoned via hashtag.
 Thumbnail: /content/bots/twitterbots/images/NixieBot.png
 Link: https://twitter.com/NixieBot
 Author: botsheeter.py
