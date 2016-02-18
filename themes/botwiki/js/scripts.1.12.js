@@ -71,8 +71,7 @@ return smoothScroll;
 })();
 
 var sticky = document.getElementById('breadcrumbs-wrapper'),
-// TODO: ???
-    stickyOffset = document.getElementById('header').clientHeight;
+    stickyOffset = document.getElementById('header').clientHeight - sticky.clientHeight;
 
 function checkBreadcrumbsPosition(){
   if( document.body.scrollTop + document.documentElement.scrollTop > stickyOffset){
