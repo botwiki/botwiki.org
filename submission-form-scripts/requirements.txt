@@ -1,6 +1,6 @@
 # botsheeter.py
 gspread
-oauth2client
+oauth2client==1.5.2
 
 # botshotter.py
 pillow>=2.9.0
