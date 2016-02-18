@@ -32,6 +32,10 @@ Thanks for visiting **Botwiki**, feel free to [contribute](https://github.com/bo
 
 -- [Stefan](/about/team#stefan), the creator of **Botwiki.org**
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Eh-up <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. Hey: <a href="https://twitter.com/NixieBot">@NixieBot</a> this is for you too! <a href="https://t.co/HIi2xT4oD2">pic.twitter.com/HIi2xT4oD2</a></p>&mdash; Neon Clock Tweet Bot (@NixieBot) <a href="https://twitter.com/NixieBot/status/700418685635272704">February 18, 2016</a></blockquote>
+
 <div class="note">
   <strong><em>PS: <a href="/about/support">Here</a>'s how you can support Botwiki!</em></strong>
 </div>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
