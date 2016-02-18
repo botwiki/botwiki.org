@@ -14,8 +14,9 @@ install:
   - npm install gulp --save-dev
   - npm install
 
-  - pip install --force-reinstall --upgrade https://pypi.python.org/packages/source/p/pip/pip-1.5.4.tar.gz
-  - pip install pyopenssl
+  - pip install "pip>=1.5.6"
+  - pip install requests pyOpenSSL ndg-httpsclient pyasn1
+  - pip install docutils
   - pip install -r submission-form-scripts/requirements.txt
 
 script:
