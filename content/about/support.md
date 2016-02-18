@@ -29,7 +29,7 @@ There's a lot that goes into maintaining **Botwiki** and all the related side pr
 - [Patreon](https://www.patreon.com/fourtonfish)
 - [Gratipay](https://gratipay.com/botwiki-org/)
 - [PayPal](https://www.paypal.me/stefanbohacek) (this is a personal account, please include a note!)
-- or [Bitcoin](bitcoin:15ncoocSHNVsvebH8JQnzeLuHTxzBNDoTa?amount=0.02&label=Botwiki).
+- or [Bitcoin](bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&label=Botwiki).
 
 You can also sign up for the [DigitalOcean](https://www.digitalocean.com/) hosting using [this referral link](https://www.digitalocean.com/?refcode=9e279abc3337).
 
