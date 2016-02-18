@@ -9,12 +9,17 @@ sudo: false
 env:
   - DISABLE_NOTIFIER=true
 
+libraries:
+  - name: pycrypto
+    version: "2.6"
+
 install:
   - npm install gulp --global
   - npm install gulp --save-dev
   - npm install
 
   - pip install "pip>=1.5.6"
+  - pip install "pycrypto>=2.6"
   - pip install requests pyOpenSSL ndg-httpsclient pyasn1
   - pip install docutils
   - pip install -r submission-form-scripts/requirements.txt
