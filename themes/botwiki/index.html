@@ -42,7 +42,7 @@
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
   <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.17.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.18.min.css" type="text/css" />  
 </head>
 <body>
   <header id="header">
@@ -61,7 +61,7 @@
         <input name="q" placeholder="Search..." value="{{ search_term }}">
       </form>
     </div>    
-  </header>
+
     {% if breadcrumbs %}
     <div id="breadcrumbs-wrapper">
       <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
@@ -75,6 +75,9 @@
       </div>
     </div>      
     {% endif %}
+
+
+  </header>
 
   <div id="content-wrapper">
     <section id="content">
@@ -137,6 +140,6 @@
     </div>
   </footer>
 {% include 'includes/statcounter.html' ignore missing %}
-  <script src="{{ theme_url }}/js/scripts.1.11.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.1.12.min.js"></script>
 </body>
 </html>
