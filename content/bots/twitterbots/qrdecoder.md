@@ -1,6 +1,6 @@
 /*
 Title: @qrdecoder
-Description: QR Code Bot
+Description: QR code bot.
 Thumbnail: /content/bots/twitterbots/images/qrdecoder.png
 Link: https://twitter.com/qrdecoder
 Author: botsheeter.py
