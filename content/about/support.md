@@ -1,11 +1,11 @@
 /*
-Title: Support Botwiki, Botmakers.org, and the Bot! zine newsletter
+Title: Support Botwiki projects
 Description: Thank you in advance!
 Nav: hidden
 */
 
 <div class="note">
-  <strong><em>Note: <a href="#donation-options">Skip</a> directly to the donation options.</em></strong>
+  Skip directly to the <a href="#donation-options">donation options</a>, or see the <a href="/about/supporters">Supporters page</a>.
 </div>
 
 
