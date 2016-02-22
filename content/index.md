@@ -4,6 +4,7 @@ Description: Botwiki.org is an open-source collection of tutorials, articles, da
 Nav: hidden
 */
 
+<div class="note">NEW: Join the official <a href="http://www.meetup.com/botmakers/">Botwiki/Botmakers Meetup.com group</a>!</div>
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that help you make them.
 
