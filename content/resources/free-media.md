@@ -24,6 +24,7 @@ Nav: hidden
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- see the DATASETS tab for maps, posters, and more
 - [French Revolution Digital Archive](http://frda.stanford.edu/) -- 14,000 images of the French Revolution
 - [National Gallery of Art Images](https://images.nga.gov/?service=category&action=show_content_page&language=en&category=16) -- 35,000 works of art from the National Gallery, including masterpieces by Van Gogh, Gauguin, Rembrandt, and more
+- [Wellcome Images](http://wellcomeimages.org/) -- "a medical picture library and the world's leading source of images on medicine and its history"
 - [The Morgan Library & Museum: Rembrandt Prints](http://www.themorgan.org/rembrandt)
 - [Unsplash](https://unsplash.com/) -- free high-resolution photos, also available via [Unsplash API](https://source.unsplash.com/) (also see [documentation](https://unsplash.com/documentation))
 
