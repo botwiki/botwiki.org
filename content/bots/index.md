@@ -85,6 +85,7 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Tumblr bots](/bots/tumblr-bots/)
 - [YouTube bots](/bots/youtube-bots/)
 - [Reddit bots](/bots/redditbots/)
+- [Telegram bots](/bots/telegram-bots/)
 - [Snapchat bots](/tag/snapchatbot/)
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
