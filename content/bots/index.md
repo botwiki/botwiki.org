@@ -12,7 +12,7 @@ Note: Jump straight to browsing bots <a href="#browse-bots-by-category">by categ
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
 
-So what exactly is a "bot"? Well, it really depends on who you ask.
+So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
 
 
 
