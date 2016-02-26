@@ -29,6 +29,7 @@ Enjoy!
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+- February 24, 2016 -- [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet)
 - February 23, 2016 -- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots)
 - February 18, 2016 -- [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/)
 - February 13, 2016 -- [The fall...and rise and rise and rise of chat networks](http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/)
