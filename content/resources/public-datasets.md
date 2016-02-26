@@ -38,7 +38,7 @@ Nav: hidden
 - [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
 - [Full Hacker News dataset (now available on BigQuery)](https://news.ycombinator.com/item?id=10440502)
 - [Old Fulton NY Post Cards](http://www.fultonhistory.com/Fulton.html) -- search over 33,100,000 historical newspaper pages (US and Canada)
-
+- [Apollo11GuidanceComputerVertAndNounList.txt](https://gist.github.com/jeffThompson/21a72eadf545ede99279) -- a list of "nouns" and "verbs" to control the Apollo 11 guidance computer
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
@@ -46,6 +46,7 @@ Nav: hidden
 - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue) -- a database of all discovered extra-solar planets
 - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- 
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
+- [Uber trip data](https://github.com/fivethirtyeight/uber-tlc-foil-response) from a freedom of information request to NYC's Taxi & Limousine Commission
 
 ### [¶](#datasets-movies){.pilcrow} Movies {#datasets-movies}
 - [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
