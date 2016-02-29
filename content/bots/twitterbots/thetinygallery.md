@@ -11,3 +11,5 @@ Robots: index,follow
 */
 
 [@thetinygallery](https://twitter.com/thetinygallery) is an [open source](https://github.com/emmawinston/thetinygallery) Twitter bot created by [Emma Winston](https://twitter.com/deer_ful) that tweets "tiny exhibitions from a tiny emoji gallery".
+
+The bot was covered by [artnet.com](https://news.artnet.com/art-world/tiny-gallery-emoji-artworks-emma-winston-434894).
