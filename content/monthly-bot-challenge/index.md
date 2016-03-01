@@ -66,7 +66,9 @@ You could make a bot that [tweets think pieces as a movie icon or TV show charac
 - [Word Wars](http://algopop.tumblr.com/post/124318458893/word-wars-julien-deswaef-word-wars-a-new)
 - [more bots tagged film and TV](/tag/film%20and%20tv)
 
-Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.### [¶](#prizes){.pilcrow} Prize {#prizes}
+Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.###
+
+[¶](#prizes){.pilcrow} Prize {#prizes}
 
 This month's sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.org.uk/), a catalyst for new approaches to art-making and digital invention, commissioning ground breaking projects which challenge the definitions of art and moving image.
 
