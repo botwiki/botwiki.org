@@ -1,6 +1,6 @@
 /*
 Title: Monthly Bot Challenge February 2016
-Description: The very first Monthly Bot Challenge: space-themed, sponsored by DigitalOcean.
+Description: The second Monthly Bot Challenge: emoji-themed, sponsored by Botwiki supporters.
 Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-february-2016.png
 Date: February 1, 2016
 Tags: monthlybotchallenge,archive
