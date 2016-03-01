@@ -5,7 +5,7 @@ Thumbnail: /content/bots/tumblr-bots/images/markov-files.png
 Link: http://markov-files.tumblr.com/
 Author: Stefan Bohacek
 Date: October 10, 2015
-Tags: tumblr,tumblrbot,active,markov chain,tv,xfiles,colewillsea
+Tags: tumblr,tumblrbot,active,markov chain,film and tv,tv,xfiles,colewillsea
 
 Nav: hidden
 Robots: index,follow

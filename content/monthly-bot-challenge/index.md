@@ -1,25 +1,24 @@
 /*
 Title: Monthly Bot Challenge
 Description: A monthly theme-based botmaking challenge.
-Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-february-2016.png
-Date: February 1, 2016
+Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-march-2016.png
+Date: March 1, 2016
 Tags: monthlybotchallenge
 Nav: hidden
 */
 
-<div class="note">
-  Quick links: <a href="#rules">Rules</a>, <a href="#theme">Current theme</a>, <a href="#prizes">Prize</a>, <a href="https://botwiki.org/submit-your-bot">Submit your bot</a>.
-</div>
 
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and our **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
 
+Continue reading below for [rules](#rules), [current theme](#theme), and instructions how to [submit your bot](https://botwiki.org/submit-your-bot).
+
+For past challenges, you can browse the [#monthlybotchallenge+archive](/tag/monthlybotchallenge+archive) tags.
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s still not too late to complete <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>&#39;s January space-themed bot challenge <a href="https://t.co/cP7uJYNwx8">https://t.co/cP7uJYNwx8</a> <a href="https://t.co/BBXAb1aqjo">pic.twitter.com/BBXAb1aqjo</a></p>&mdash; DigitalOcean (@digitalocean) <a href="https://twitter.com/digitalocean/status/690965477875589120">January 23, 2016</a></blockquote>
 
 
-You don't need to be an experienced programmer to join our challenge; actually, making bots is a great way to [learn how to program](https://botwiki.org/tutorials/)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
-
-For past challenges, you can browse the [#monthlybotchallenge+archive](/tag/monthlybotchallenge+archive) tags.
+You don't need to be an experienced programmer to join our challenge; making bots is a great way to [learn how to program](https://botwiki.org/tutorials/)! People voting won't see your code, rather they will judge your work based on your creativity and overall execution of your idea.
 
 ### [¶](#rules){.pilcrow} Rules {#rules}
 
@@ -48,25 +47,32 @@ Naturally, you must also follow the rules of the platform on which you choose to
 ### [¶](#theme){.pilcrow} Theme {#theme}
 
 <p class="screenshot float-right">
-  <a href="/bots/twitterbots/emoji__polls">
-    <img src="/content/bots/twitterbots/images/emoji__polls.png">
+  <a href="/bots/twitterbots/SortingBot">
+    <img src="/content/bots/twitterbots/images/SortingBot.png">
   </a>
 </p>
 
 
-The theme for the February 2016 Monthly Bot Challenge is: 
+The March 2016 Monthly Bot Challenge theme is: 
 
-***EMOJI *** 😂
+**MOVIES/TV-SHOWS ** 🎥
 
-You could make a bot that [generates emoji-landscapes](/bots/twitterbots/letsplaysnake/), lets you play an [emoji-powered game](https://botwiki.org/bots/twitterbots/letsplaysnake/), or a bot you can [control using emoji](/bots/slackbots/glickman/).
 
-You can browse bots tagged [#emoji](https://botwiki.org/tag/emoji) for more inspiration. And definitely be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
+You could make a bot that [tweets think pieces as a movie icon or TV show character](http://www.vogue.com/13403807/mulder-hot-take-the-x-files-twitter-bot/), a series of bots that [recreate scenes from a popular sitcom](http://algopop.tumblr.com/post/131697941088/allmybots-the-friends-botnet-re-creates) -- or check out some of these bots for inspiration:
 
-### [¶](#prizes){.pilcrow} Prize {#prizes}
+- [@marvelplots](https://twitter.com/marvelplots)
+- [@tvcommentbot](https://twitter.com/tvcommentbot)
+- [@CSPANFive](https://twitter.com/CSPANFive)
+- [Word Wars](http://algopop.tumblr.com/post/124318458893/word-wars-julien-deswaef-word-wars-a-new)
+- [more bots tagged film and TV](/tag/film%20and%20tv)
 
-The prize for the February's Monthly Bot Challenge is **$20** in the form of either an **Amazon** or **Google Play Store** credit, courtesy of Botwiki donors :-) 
+Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.### [¶](#prizes){.pilcrow} Prize {#prizes}
 
-**Looking forward to seeing what you'll make!**
+This month's sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.org.uk/), a catalyst for new approaches to art-making and digital invention, commissioning ground breaking projects which challenge the definitions of art and moving image.
+
+[AND](http://www.andfestival.org.uk/) is hosting the [Art of Bots](/events/andfestival-art-of-bots) event in London on 15 & 16 April 2016 and the winner will have an opportunity to have their bot showcased. AND has provided this month's theme and prize: **$25** in the form of either an **Amazon**, **Google Play Store**, or **Apple App Store** credit.
+
+**Huge thanks to AND! And I'm looking forward to seeing what you'll make!**
 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

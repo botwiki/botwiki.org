@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/SortingBot.png
 Link: http://twitter.com/SortingBot
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,active,literature,rhyme,rhyming,rita,opensource,open source,node.js,nodejs,node,tinysubversions
+Tags: twitter,twitterbot,active,literature,film,film and tv,rhyme,rhyming,rita,opensource,open source,node.js,nodejs,node,tinysubversions
 
 Nav: hidden
 Robots: index,follow
