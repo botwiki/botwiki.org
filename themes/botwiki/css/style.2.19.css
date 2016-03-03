@@ -458,6 +458,7 @@ ul#menu {
   display: none;
   color: #fff;
   font-size: 2em;
+  margin-top: 0.2em;
   padding-top: 5px;
   width: 36px;
   height: 24px;
@@ -465,7 +466,7 @@ ul#menu {
 #header nav {
   float: right;
   list-style: none;
-  margin: 0.3em 0 0;
+  margin: 0.8em 0 0;
   padding: 0;
 }
 #header nav li {
