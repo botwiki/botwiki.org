@@ -44,6 +44,7 @@ Nav: hidden
 - [Forecast.io API](https://developer.forecast.io/) -- weather API used by [The Dark Sky](http://darkskyapp.com/) app and [Forecast.io](https://forecast.io/)
 
 ### [¶](#other){.pilcrow} Other {#other}
+- [Catalogue of Life](http://www.catalogueoflife.org/) -- online database of the world's known species of animals, plants, fungi and micro-organisms, available [as an API](http://www.catalogueoflife.org/content/web-services) and [downloadable data set](http://www.catalogueoflife.org/content/annual-checklist-archive)
 - [Untappd API](https://untappd.com/api/docs) -- "Untappd is a social networking service that allows its users to check into beers as they drink them, and share these check-ins and their locations with their friends." [Wikipedia](https://en.wikipedia.org/wiki/Untappd)
 - [BreweryDB API](http://www.brewerydb.com/developers) -- "BreweryDB is your database of breweries, beers, beer events and guilds"
 

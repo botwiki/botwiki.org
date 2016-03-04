@@ -49,6 +49,9 @@ Nav: hidden
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 - [Uber trip data](https://github.com/fivethirtyeight/uber-tlc-foil-response) from a freedom of information request to NYC's Taxi & Limousine Commission
 
+### [¶](#biology){.pilcrow} Biology {#biology}
+- [Catalogue of Life](http://www.catalogueoflife.org/) -- online database of the world's known species of animals, plants, fungi and micro-organisms, available [as an API](http://www.catalogueoflife.org/content/web-services) and [downloadable data set](http://www.catalogueoflife.org/content/annual-checklist-archive)
+
 ### [¶](#datasets-movies){.pilcrow} Movies {#datasets-movies}
 - [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
 - [Movielens Data by GroupLens](http://grouplens.org/datasets/movielens/) -- rating data sets from the [MovieLens](http://movielens.org) web site 
