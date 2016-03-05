@@ -278,7 +278,7 @@ T.post('media/upload', { media_data: b64content }, function (err, data, response
 
 Some more ideas to explore:
 
-- you could save the score for each player a [Google Sheets](https://www.google.com/sheets/about/) spreadsheet (see the [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) module); then you could post the leaderboard after each game
+- you could save the score for each player into a [Google Sheets](https://www.google.com/sheets/about/) spreadsheet (see the [google-spreadsheet](https://www.npmjs.com/package/google-spreadsheet) module); then you could post the leaderboard after each game
 - you could add more responses to both when the answer is correct and incorrect (using the same technique as for picking a random country)
 - you could let the player know if they probably just misspelled the answer (see the [levenshtein](https://www.npmjs.com/package/levenshtein) module, or learn more about Levenshtein distance on [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance))
 
