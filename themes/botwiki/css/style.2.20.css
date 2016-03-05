@@ -360,7 +360,7 @@ div.all-tags a {
 }
 div#breadcrumbs-wrapper {
   background-color: #38313a;
-  padding: 0.5em 1em 0;
+  padding: 1em 2em 0;
 }
 div#breadcrumbs {
   padding: 0 0.3em 1em;
@@ -385,7 +385,8 @@ div#breadcrumbs {
   }
 }
 div#breadcrumbs a {
-  color: #fff;
+  color: #fefefe;
+  font-size: 0.9em;
 }
 /* Structure Styles
 /*---------------------------------------------*/
@@ -429,8 +430,9 @@ div#breadcrumbs a {
   text-decoration: none;
 }
 #header h1 {
+  font-size: 2em;
   font-weight: bold;
-  margin: 0;
+  margin: 10px 0;
   float: left;
 }
 header .inner,
@@ -457,6 +459,7 @@ ul#menu {
   display: none;
   color: #fff;
   font-size: 2em;
+  margin-top: 0.2em;
   padding-top: 5px;
   width: 36px;
   height: 24px;
@@ -464,11 +467,11 @@ ul#menu {
 #header nav {
   float: right;
   list-style: none;
-  margin: 0.3em 0 0;
+  margin: 0.8em 0 0;
   padding: 0;
 }
 #header nav li {
-  margin-left: 20px;
+  margin-left: 15px;
 }
 #header nav a {
   font-size: 1.2em;
@@ -488,8 +491,8 @@ ul#menu {
   float: left;
 }
 form#search-form {
-  margin: 5em auto 0;
   width: 100%;
+  margin-top: -0.5em;
 }
 form#search-form input {
   padding: 0.5em 5px;
@@ -505,7 +508,7 @@ div#content-wrapper {
   padding: 0 0 100px;
   margin-bottom: 2em;
   font-size: 1.1em;
-  line-height: 1.2em;
+  line-height: 1.1em;
   position: relative;
   -webkit-box-shadow: -10px 10px 40px -20px #dddddd, 10px 10px 40px -20px #dddddd;
   box-shadow: -10px 10px 40px -20px #dddddd, 10px 10px 40px -20px #dddddd;
@@ -518,7 +521,7 @@ div#content-wrapper {
     max-width: 275px;
     position: absolute;
     border-left: 1px solid #efefef;
-    padding: 2em 1em 0 1em;
+    padding: 0 10px;
     right: 0;
     top: 10px;
   }
@@ -556,7 +559,7 @@ aside#sidebar img {
 }
 @media (min-width: 980px) {
   div.sidebar-module:not(:first-child) {
-    margin-top: 2em;
+    margin-top: 10px;
   }
 }
 @media (min-width: 980px) {
@@ -683,7 +686,7 @@ img.logo-digitalocean {
 /* Media Queries
 /*---------------------------------------------*/
 /* Small Devices, Tablets */
-@media (max-width: 912px) {
+@media (max-width: 1040px) {
   .float-right,
   .float-left {
     max-width: 100%;
@@ -804,9 +807,6 @@ img.logo-digitalocean {
 }
 /* Extra Small Devices, Phones */
 @media (max-width: 480px) {
-  #header {
-    margin-bottom: 30px;
-  }
   #header h1 a {
     font-size: 1em;
   }
