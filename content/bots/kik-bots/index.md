@@ -12,9 +12,6 @@ Nav: hidden
 
 Bots for [kik](https://www.kik.com/), *"an instant messaging application for mobile devices"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Kik_Messenger).
 
-Some examples include:
 
-- [BOT](/bots/kik-bots/BOT) -- BOT THINGS
-
-Browse [more kik bots](/tag/kikbot), learn [how to make one](/tutorials/kik-bots), or [return to the **Bots** page](/bots).
+You can [browse kik bots](/tag/kikbot), learn [how to make one](/tutorials/kik-bots), or [return to the **Bots** page](/bots).
 
