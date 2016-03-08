@@ -7,15 +7,9 @@ Tags: monthlybotchallenge,archive
 Nav: hidden
 */
 
-### [¶](#theme){.pilcrow} Theme {#theme}
-
 
 The theme for the January 2016 Monthly Bot Challenge was: ***SPACE!***
 
-You have until **Sunday, February 7** ([Eastern Time](https://www.google.com/search?q=local+time+est)) to vote for your favorite bot [here](https://www.surveymonkey.com/r/RLKF6GH)!
-
-
-### [¶](#prizes){.pilcrow} Prizes {#prizes}
 
 The very first Monthly Bot Challenge sponsor, [DigitalOcean](https://www.digitalocean.com/) provided the following prizes:
 
@@ -34,3 +28,4 @@ Visit [digitalocean.com](https://www.digitalocean.com/) to learn more about the 
 - 2nd place: [hubot-space-bot](/bots/slackbots/hubot-space-bot/) by [Pierre](https://twitter.com/pdples)
 - 3rd place: [@one_small_bot](/bots/twitterbots/one_small_bot/) by [Emma Winston](https://twitter.com/deer_ful)
 
+Congratulations to the winners! 👏👏👏🎉🎉
