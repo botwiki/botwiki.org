@@ -27,6 +27,12 @@ Enjoy!
 
 - [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
 
+### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
+- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
+- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
+
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 - February 24, 2016 -- [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet)

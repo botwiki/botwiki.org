@@ -84,10 +84,4 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
 
 
-### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
-- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
-- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
-- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
-- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
-
-Also check out [the opensourced bots](/tag/opensource).
+Also check out [the opensourced bots](/tag/opensource). Of interest to ethical botmakers will also be the essays in the [Articles section](#general-essays).
