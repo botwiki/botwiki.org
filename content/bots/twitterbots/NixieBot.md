@@ -22,3 +22,7 @@ Author writes:
 >
 > When it's not answering bot requests it acts as a clock and realtime window onto twitter chatter in the author's workshop. new abilities are being added steadily.
 
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Eh-up <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. Hey: <a href="https://twitter.com/NixieBot">@NixieBot</a> this is for you too! <a href="https://t.co/HIi2xT4oD2">pic.twitter.com/HIi2xT4oD2</a></p>&mdash; Neon Clock Tweet Bot (@NixieBot) <a href="https://twitter.com/NixieBot/status/700418685635272704">February 18, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
