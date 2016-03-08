@@ -84,4 +84,4 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
 
 
-Also check out [the opensourced bots](/tag/opensource). Of interest to ethical botmakers will also be the essays in the [Articles section](#general-essays).
+Also check out [the opensourced bots](/tag/opensource). Of interest to ethical botmakers will also be the essays in the [Articles section](/articles#general-essays).
