@@ -18,7 +18,6 @@ Nav: hidden
 Some examples of such bots include:
 
 - [a reminder bot](bots/twitterbots/mnemosynetron)
-- [a poker game bot](bots/slackbots/slack-poker-bot)
 - [a bot that lets you catch Pokemon](/bots/slackbots/slack-pokemon)
 - [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
