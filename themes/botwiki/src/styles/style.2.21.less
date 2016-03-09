@@ -51,6 +51,7 @@ body {
   line-height: 1;
   color: black;
   background: #fff;
+  padding-top: 100px;
 }
 
 table {
@@ -329,39 +330,6 @@ div.all-tags a{
   padding: 0 0.2em;
 }
 
-div#breadcrumbs-wrapper{
-  background-color: @main-color;
-  padding: 1em 2em 0;
-}
-
-div#breadcrumbs{
-  padding: 0 0.3em 1em;
-  color: @main-color + #444;
-  background-color: @main-color;
-  width: 100%;
-  max-width: @site-width;
-  margin: 0 auto;
-  @media (max-width : 910px) {
-    display: none;
-  }  
-}
-
-div#breadcrumbs-wrapper.sticky{
-  @media (min-width : 910px) {
-    position: fixed;
-    z-index: 100;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-}
-
-
-div#breadcrumbs a{
-  color: #fefefe;
-  font-size: 0.9em;
-}
-
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
@@ -373,7 +341,11 @@ div#breadcrumbs a{
 }
 
 #header {
-  padding: 10px 0 0;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  width: 100%;
+  padding: 10px 0 20px;
   background-color: @main-color;
   color: #5D9CEC;
 }
@@ -453,6 +425,12 @@ ul#menu{
 #header nav li {
   margin-left: 15px;  
 }
+#header nav li.form-wrapper {
+  margin-left: 35px;  
+  @media (max-width : 1040px){
+    margin-top: 25px;
+  }
+}
 #header nav a {
   font-size: 1.2em;
   color: #fff;
@@ -477,6 +455,7 @@ form#search-form{
 
 form#search-form input{
   padding: 0.5em 5px;
+  border-radius: 3px;
   width: 100%;
 }
 

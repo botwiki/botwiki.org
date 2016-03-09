@@ -42,7 +42,7 @@
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
   <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.20.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.21.min.css" type="text/css" />  
 </head>
 <body>
   <header id="header">
@@ -55,30 +55,14 @@
         <input type="checkbox" id="menu-toggle"/>  
         <ul id="menu">  
           {{ nav_sort.sorted_nav }}
-          <li>
+          <li class="form-wrapper">
             <form id="search-form" action="/search">
               <input name="q" placeholder="Search..." value="{{ search_term }}">
             </form>
           </li>
         </ul>
       </nav>
-    </div>    
-
-    {% if breadcrumbs %}
-    <div id="breadcrumbs-wrapper">
-      <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-        <a href="/" itemprop="url"><span itemprop="title">{{ site_title }}</span></a>
-        {% for crumb in breadcrumbs %}
-          <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-            &nbsp;&gt;&nbsp; 
-            <a {% if loop.last %} class="back-to-top" {% endif %} href="{{ crumb.url }}" itemprop="url"><span itemprop="title">{{ crumb.name }}</span></a>
-          </span>
-        {% endfor %}
-      </div>
-    </div>      
-    {% endif %}
-
-
+    </div>
   </header>
 
   <div id="content-wrapper">
@@ -142,6 +126,6 @@
     </div>
   </footer>
 {% include 'includes/statcounter.html' ignore missing %}
-  <script src="{{ theme_url }}/js/scripts.1.12.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.1.13.min.js"></script>
 </body>
 </html>

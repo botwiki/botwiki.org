@@ -94,6 +94,7 @@ body {
   line-height: 1;
   color: black;
   background: #fff;
+  padding-top: 100px;
 }
 table {
   border-collapse: separate;
@@ -358,35 +359,6 @@ div.all-tags {
 div.all-tags a {
   padding: 0 0.2em;
 }
-div#breadcrumbs-wrapper {
-  background-color: #38313a;
-  padding: 1em 2em 0;
-}
-div#breadcrumbs {
-  padding: 0 0.3em 1em;
-  color: #7c757e;
-  background-color: #38313a;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-@media (max-width: 910px) {
-  div#breadcrumbs {
-    display: none;
-  }
-}
-@media (min-width: 910px) {
-  div#breadcrumbs-wrapper.sticky {
-    position: fixed;
-    z-index: 100;
-    top: 0;
-    left: 0;
-    right: 0;
-  }
-}
-div#breadcrumbs a {
-  color: #fff;
-}
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
@@ -399,7 +371,11 @@ div#breadcrumbs a {
   }
 }
 #header {
-  padding: 10px 0 0;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  width: 100%;
+  padding: 10px 0 20px;
   background-color: #38313a;
   color: #5D9CEC;
 }
@@ -429,9 +405,9 @@ div#breadcrumbs a {
   text-decoration: none;
 }
 #header h1 {
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
-  margin: 0;
+  margin: 10px 0;
   float: left;
 }
 header .inner,
@@ -470,7 +446,15 @@ ul#menu {
   padding: 0;
 }
 #header nav li {
-  margin-left: 20px;
+  margin-left: 15px;
+}
+#header nav li.form-wrapper {
+  margin-left: 35px;
+}
+@media (max-width: 1040px) {
+  #header nav li.form-wrapper {
+    margin-top: 25px;
+  }
 }
 #header nav a {
   font-size: 1.2em;
@@ -490,11 +474,12 @@ ul#menu {
   float: left;
 }
 form#search-form {
-  margin: 5em auto 0;
   width: 100%;
+  margin-top: -0.5em;
 }
 form#search-form input {
   padding: 0.5em 5px;
+  border-radius: 3px;
   width: 100%;
 }
 div#content-wrapper {
@@ -520,7 +505,7 @@ div#content-wrapper {
     max-width: 275px;
     position: absolute;
     border-left: 1px solid #efefef;
-    padding: 2em 1em 0 1em;
+    padding: 0 10px;
     right: 0;
     top: 10px;
   }
@@ -558,7 +543,7 @@ aside#sidebar img {
 }
 @media (min-width: 980px) {
   div.sidebar-module:not(:first-child) {
-    margin-top: 2em;
+    margin-top: 10px;
   }
 }
 @media (min-width: 980px) {
@@ -685,7 +670,7 @@ img.logo-digitalocean {
 /* Media Queries
 /*---------------------------------------------*/
 /* Small Devices, Tablets */
-@media (max-width: 912px) {
+@media (max-width: 1040px) {
   .float-right,
   .float-left {
     max-width: 100%;

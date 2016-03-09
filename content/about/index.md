@@ -7,7 +7,7 @@ Weight: 6
 <div class="note">
   To see who's behind Botwiki.org and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>.
 
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>. Also, check out the <a href="/about/press">press coverage</a>.
 </div>
 
 Hi!

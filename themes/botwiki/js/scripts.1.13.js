@@ -70,19 +70,6 @@ document.addEventListener("DOMContentLoaded", function () {
 return smoothScroll;
 })();
 
-var sticky = document.getElementById('breadcrumbs-wrapper'),
-    stickyOffset = document.getElementById('header').clientHeight - sticky.clientHeight;
-
-function checkBreadcrumbsPosition(){
-  if( document.body.scrollTop + document.documentElement.scrollTop > stickyOffset){
-    document.body.style.paddingTop = sticky.clientHeight + 'px'; 
-    sticky.className = 'sticky';
-  }
-  else{
-    document.body.style.paddingTop = '0';
-    sticky.className = '';
-  }  
-}
 
 function ready(fn) {
   if (document.readyState !== 'loading'){
@@ -94,9 +81,6 @@ function ready(fn) {
 
 ready(function(){
 if(window.location.hash) {
-  if (window.innerWidth > 910){
-    checkBreadcrumbsPosition();
-  }
   smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
   return false;
 }
@@ -141,11 +125,13 @@ console.log('                                                                   
   }
 });
 
-window.onscroll = function() {
-  if (window.innerWidth > 910){
-    checkBreadcrumbsPosition();
-  }
-};
+// TODO: Show back to top after user scrolls down a bit.
+//
+// window.onscroll = function() {
+//   if (window.innerWidth > 910){
+//     checkBreadcrumbsPosition();
+//   }
+// };
 
 /*!
  * Lazy Load Images without jQuery

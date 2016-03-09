@@ -2,6 +2,7 @@
   <div class="meta">
     {% if meta.date and 'event' not in meta.tags %}
       <p class="last-updated">
+<!--
         {% if meta.language == 'es'%}
           Actualizado por última vez:
         {% else %}
@@ -9,9 +10,9 @@
         {% endif %}
 
         {{ meta.date }}
-
+-->
         {% if meta.translations is not empty %}
-        , also available in: 
+        Also available in: 
             {% for language in meta.translations|split(',') %}
               <a href="{{ current_page.url }}_{{ language }}">
                 {% if language == 'es' %}
@@ -45,10 +46,6 @@
     {% endif %}
     </div>
   {% endif %}
-
-
-
-
   {{ content }}
   <hr/>
   <div class="meta">
