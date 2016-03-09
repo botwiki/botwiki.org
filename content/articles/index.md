@@ -8,7 +8,9 @@ Weight: 4
 
 ![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
 
-For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg). Below is a [selection of blogs](#blogs), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
+For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg).
+
+Below is a [selection of blogs](#blogs), [essays](#general-essays), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
 
 Enjoy!
 
@@ -26,6 +28,12 @@ Enjoy!
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
 - [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
+
+### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
+- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
+- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 

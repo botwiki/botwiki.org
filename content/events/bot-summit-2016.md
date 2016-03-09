@@ -11,3 +11,5 @@ Tags: event,upcoming,bot summit,botally
 - April 9th, 2016, London
 
 > Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
+
+See [tinysubversions.com/botsummit/2016](http://tinysubversions.com/botsummit/2016/) for more details and updates.
