@@ -42,6 +42,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 ### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
 
+- [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6#.5b0vc2x46)
 - [3 Things We Learned Building a Chatbot for Slack](https://medium.com/@kipsearch/3-things-we-learned-building-a-chatbot-for-slack-2dc32321d77c#.jlekubjvh) -- via [@kipsearch](https://twitter.com/kipsearch)
 - [How We Use Bots in Slack at SparkPost](https://www.sparkpost.com/blog/using-slack-bots-sparkpost/#.VtithJMrLUo)
 

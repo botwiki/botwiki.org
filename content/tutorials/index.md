@@ -32,8 +32,6 @@ You have quite a few options when it comes to hosting your bots.
 
 ***Note:** See also [the Tools section](/resources/tools#botmaking).*
 
-
-
 - [DigitalOcean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
 - [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
 - [Cloud9](https://c9.io/) -- browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
@@ -48,6 +46,8 @@ You have quite a few options when it comes to hosting your bots.
 Specifically for Twitter bots, you can try:
 - [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) -- see [tutorials](/tutorials/twitterbots/#cheap-bots-done-quick) and [examples](/tag/cheapbotsdonequick) of bots created with CBDQ
 - [tilde.town](http://tilde.town/) (Twitter and IRC bots)
+
+See also [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6#.5b0vc2x46) on the [Slack API Developer Blog](https://medium.com/slack-developer-blog).
 
 **Note: ** [@beaugunderson](https://twitter.com/beaugunderson) is offering to let people host bots on his [Linode](https://www.linode.com/) account.
 
