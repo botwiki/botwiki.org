@@ -517,9 +517,13 @@ div.sidebar-module{
   }
 }
 
-div.sidebar-module:not(:last-child){
-  @media (min-width : 980px){
-    border-bottom: 1px solid #dedede;
+aside#sidebar hr{
+  max-width: 45%;
+  @media (max-width : 980px){
+    display: none;
+  }
+  @media (max-width : 700px){
+    display: block;
   }
 }
 
