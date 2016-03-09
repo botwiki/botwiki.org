@@ -25,15 +25,7 @@ var smoothScroll = function(el, duration, callback){
     if (typeof el === 'number') {
       end = parseInt(el);
     } else {
-
-    if (window.innerWidth > 910){
-      end = getTop(el) - 70;
-    }
-    else{
-      end = getTop(el);      
-    }
-
-
+      end = getTop(el) - 100;
     }
     var clock = Date.now();
     var requestAnimationFrame = window.requestAnimationFrame ||
