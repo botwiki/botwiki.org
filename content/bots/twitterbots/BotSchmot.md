@@ -1,7 +1,7 @@
 /*
 Title: @BotSchmot
 Description: A grumpy Twitter bot repeating trending topics with shm-reduplication.
-Thumbnail: /content/bots/bot,twitterbots/images/BotSchmot.png
+Thumbnail: /content/bots/twitterbots/images/BotSchmot.png
 Link: http://twitter.com/BotSchmot
 Author: Stefan Bohacek
 Date: September 21, 2015

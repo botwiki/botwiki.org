@@ -1,7 +1,7 @@
 /*
 Title: @minuseveryone
 Description: A daily automated cartoon, with everyone removed.
-Thumbnail: /content/bots/bot,twitterbots/images/minuseveryone.png
+Thumbnail: /content/bots/twitterbots/images/minuseveryone.png
 Link: http://twitter.com/minuseveryone
 Author: botsheeter.py
 Date: February 03, 2016

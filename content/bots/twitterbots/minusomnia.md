@@ -1,7 +1,7 @@
 /*
 Title: @minusomnia
 Description: Automated cartoon a day, fed by a neural network spidering across news sites and looped back into its own brain. 
-Thumbnail: /content/bots/bot,twitterbots/images/minusomnia.png
+Thumbnail: /content/bots/twitterbots/images/minusomnia.png
 Link: https://twitter.com/minusomnia
 Author: botsheeter.py
 Date: February 15, 2016

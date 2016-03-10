@@ -1,7 +1,7 @@
 /*
 Title: @StealthMountain
 Description: "I think you mean 'sneak peek'"
-Thumbnail: /content/bots/bot,twitterbots/images/StealthMountain.png
+Thumbnail: /content/bots/twitterbots/images/StealthMountain.png
 Link: http://twitter.com/StealthMountain
 Author: Stefan Bohacek
 Date: July 21, 2015

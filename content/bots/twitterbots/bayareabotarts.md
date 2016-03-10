@@ -1,7 +1,7 @@
 /*
 Title: @bayareabotarts
 Description: Updates for the Bay Area Bot Arts Meetup group, plus NASA Picture of the Day.
-Thumbnail: /content/bots/bot,twitterbots/images/bayareabotarts.png
+Thumbnail: /content/bots/twitterbots/images/bayareabotarts.png
 Link: https://www.twitter.com/bayareabotarts
 Author: botsheeter.py
 Date: January 22, 2016

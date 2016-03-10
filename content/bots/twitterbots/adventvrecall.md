@@ -1,7 +1,7 @@
 /*
 Title: @adventvrecall
 Description: "Where should I go?"
-Thumbnail: /content/bots/bot,twitterbots/images/adventvrecall.png
+Thumbnail: /content/bots/twitterbots/images/adventvrecall.png
 Link: https://twitter.com/adventvrecall
 Author: Stefan Bohacek
 Date: October 2, 2015

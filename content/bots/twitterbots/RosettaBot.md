@@ -1,7 +1,7 @@
 /*
 Title: @RosettaBot
 Description: The latest data from the ESA Rosetta Mission spacecraft.
-Thumbnail: /content/bots/bot,twitterbots/images/RosettaBot.png
+Thumbnail: /content/bots/twitterbots/images/RosettaBot.png
 Link: http://twitter.com/RosettaBot
 Author: Stefan Bohacek
 Date: October 6, 2015

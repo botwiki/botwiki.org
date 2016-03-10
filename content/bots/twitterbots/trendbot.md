@@ -1,7 +1,7 @@
 /*
 Title: @trendbot
 Description: English Wikipedia trends
-Thumbnail: /content/bots/bot,twitterbots/images/trendbot.png
+Thumbnail: /content/bots/twitterbots/images/trendbot.png
 Link: http://twitter.com/trendbot
 Author: botsheeter.py
 Date: February 07, 2016

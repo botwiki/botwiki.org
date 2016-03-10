@@ -1,7 +1,7 @@
 /*
 Title: @hntlbot
 Description: Hacker News comments link bot.
-Thumbnail: /content/bots/bot,twitterbots/images/hntlbot.png
+Thumbnail: /content/bots/twitterbots/images/hntlbot.png
 Link: https://twitter.com/hntlbot
 Author: botsheeter.py
 Date: January 5, 2016

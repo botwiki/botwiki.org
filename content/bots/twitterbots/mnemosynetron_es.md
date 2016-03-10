@@ -1,7 +1,7 @@
 /*
 Title: @mnemosynetron (es)
 Description: Un bot recordatorio.
-Thumbnail: /content/bots/bot,twitterbots/images/mnemosynetron.png
+Thumbnail: /content/bots/twitterbots/images/mnemosynetron.png
 Link: http://twitter.com/mnemosynetron
 Author: hectorpalmatellez
 Language: es

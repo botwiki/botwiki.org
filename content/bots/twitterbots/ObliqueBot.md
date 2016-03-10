@@ -1,7 +1,7 @@
 /*
 Title: @ObliqueBot
 Description: Disconnect from desire.
-Thumbnail: /content/bots/bot,twitterbots/images/ObliqueBot.png
+Thumbnail: /content/bots/twitterbots/images/ObliqueBot.png
 Link: http://twitter.com/ObliqueBot
 Author: botsheeter.py
 Date: November 12, 2015

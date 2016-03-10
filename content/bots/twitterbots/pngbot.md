@@ -1,7 +1,7 @@
 /*
 Title: @pngbot
 Description: A Twitter bot exploiting Twitter's PNG transparency quirks.
-Thumbnail: /content/bots/bot,twitterbots/images/pngbot.png
+Thumbnail: /content/bots/twitterbots/images/pngbot.png
 Link: http://twitter.com/pngbot
 Author: Stefan Bohacek
 Date: September 18, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @DeepForger
 Description: Forgeries in the style of famous painters.
-Thumbnail: /content/bots/bot,twitterbots/images/DeepForger.png
+Thumbnail: /content/bots/twitterbots/images/DeepForger.png
 Link: http://twitter.com/DeepForger
 Author: botsheeter.py
 Date: October 25, 2015

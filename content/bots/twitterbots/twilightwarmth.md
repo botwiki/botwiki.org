@@ -1,7 +1,7 @@
 /*
 Title: @twilightwarmth
 Description: I'm all alone in the witching hours, loving you.
-Thumbnail: /content/bots/bot,twitterbots/images/twilightwarmth.png
+Thumbnail: /content/bots/twitterbots/images/twilightwarmth.png
 Link: http://twitter.com/twilightwarmth
 Author: botsheeter.py
 Date: December 02, 2015

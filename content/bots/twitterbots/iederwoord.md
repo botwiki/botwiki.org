@@ -1,7 +1,7 @@
 /*
 Title: @iederwoord
 Description: Nederlandstalige kloon van @everyword
-Thumbnail: /content/bots/bot,twitterbots/images/iederwoord.png
+Thumbnail: /content/bots/twitterbots/images/iederwoord.png
 Link: https://twitter.com/iederwoord
 Author: botsheeter.py
 Date: November 21, 2015

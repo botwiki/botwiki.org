@@ -1,7 +1,7 @@
 /*
 Title: @MagicRealismBot
 Description: A magical story every two hours.
-Thumbnail: /content/bots/bot,twitterbots/images/MagicRealismBot.png
+Thumbnail: /content/bots/twitterbots/images/MagicRealismBot.png
 Link: http://twitter.com/MagicRealismBot
 Author: botsheeter.py
 Date: November 12, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @TinyCrossword
 Description: Tweet-sized crosswords once a day.
-Thumbnail: /content/bots/bot,twitterbots/images/TinyCrossword.png
+Thumbnail: /content/bots/twitterbots/images/TinyCrossword.png
 Link: https://twitter.com/TinyCrossword
 Author: botsheeter.py
 Date: February 15, 2016

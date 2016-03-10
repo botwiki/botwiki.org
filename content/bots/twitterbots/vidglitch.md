@@ -1,7 +1,7 @@
 /*
 Title: @vidglitch
 Description: A bot that applies a range of video glitches.
-Thumbnail: /content/bots/bot,twitterbots/images/vidglitch.png
+Thumbnail: /content/bots/twitterbots/images/vidglitch.png
 Link: https://twitter.com/vidglitch
 Author: botsheeter.py
 Date: November 10, 2015

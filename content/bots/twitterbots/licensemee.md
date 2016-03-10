@@ -1,7 +1,7 @@
 /*
 Title: @licensemee
 Description: Licensing options for the modern world
-Thumbnail: /content/bots/bot,twitterbots/images/licensemee.png
+Thumbnail: /content/bots/twitterbots/images/licensemee.png
 Link: http://twitter.com/licensemee
 Author: botsheeter.py
 Date: December 02, 2015

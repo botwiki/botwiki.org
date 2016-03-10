@@ -1,7 +1,7 @@
 /*
 Title: @metalband_exe
 Description: Brutally generating metal band names and logos every four hours.
-Thumbnail: /content/bots/bot,twitterbots/images/metalband_exe.png
+Thumbnail: /content/bots/twitterbots/images/metalband_exe.png
 Link: http://twitter.com/metalband_exe
 Author: botsheeter.py
 Date: January 22, 2016

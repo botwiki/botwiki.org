@@ -1,7 +1,7 @@
 /*
 Title: @patricktwite
 Description: And stood tweeting.
-Thumbnail: /content/bots/bot,twitterbots/images/patricktwite.png
+Thumbnail: /content/bots/twitterbots/images/patricktwite.png
 Link: http://twitter.com/patricktwite
 Author: botsheeter.py
 Date: October 19, 2015

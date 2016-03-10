@@ -1,7 +1,7 @@
 /*
 Title: @himawari8bot
 Description: Animated GIFs from the Himawari satellite.
-Thumbnail: /content/bots/bot,twitterbots/images/himawari8bot.png
+Thumbnail: /content/bots/twitterbots/images/himawari8bot.png
 Link: https://twitter.com/himawari8bot
 Author: botsheeter.py
 Date: October 28, 2015

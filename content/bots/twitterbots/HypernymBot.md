@@ -1,7 +1,7 @@
 /*
 Title: @HypernymBot
 Description: A bot that creates poems based on hypernyms.
-Thumbnail: /content/bots/bot,twitterbots/images/HypernymBot.png
+Thumbnail: /content/bots/twitterbots/images/HypernymBot.png
 Link: https://twitter.com/HypernymBot
 Author: botsheeter.py
 Date: November 12, 2015

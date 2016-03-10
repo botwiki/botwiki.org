@@ -1,7 +1,7 @@
 /*
 Title: @ATBrokenNews
 Description: Zwei Schlagzeilen zusammengemischt sind besser als eine!
-Thumbnail: /content/bots/bot,twitterbots/images/ATBrokenNews.png
+Thumbnail: /content/bots/twitterbots/images/ATBrokenNews.png
 Link: https://twitter.com/ATBrokenNews
 Author: Stefan Bohacek
 Date: September 29, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @GenerateACat
 Description: I just fashioned a proud kitty-cat.
-Thumbnail: /content/bots/bot,twitterbots/images/GenerateACat.png
+Thumbnail: /content/bots/twitterbots/images/GenerateACat.png
 Link: http://twitter.com/GenerateACat
 Author: botsheeter.py
 Date: October 16, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @JustDiedBot
 Description: Bot that scrapes Wikipedia and immediately tweets RIP messages when there is a celebrity death.
-Thumbnail: /content/bots/bot,twitterbots/images/JustDiedBot.png
+Thumbnail: /content/bots/twitterbots/images/JustDiedBot.png
 Link: http://twitter.com/JustDiedBot
 Author: Stefan Bohacek
 Date: July 28, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @rapgamemetaphor
 Description: "It's the rap brigadiership!"
-Thumbnail: /content/bots/bot,twitterbots/images/rapgamemetaphor.png
+Thumbnail: /content/bots/twitterbots/images/rapgamemetaphor.png
 Link: http://twitter.com/rapgamemetaphor
 Author: Stefan Bohacek
 Date: September 21, 2015

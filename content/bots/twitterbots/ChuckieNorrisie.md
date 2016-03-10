@@ -1,7 +1,7 @@
 /*
 Title: @ChuckieNorrisie
 Description: Random facts about Chuck Norris
-Thumbnail: /content/bots/bot,twitterbots/images/ChuckieNorrisie.png
+Thumbnail: /content/bots/twitterbots/images/ChuckieNorrisie.png
 Link: http://twitter.com/ChuckieNorrisie
 Author: botsheeter.py
 Date: October 25, 2015

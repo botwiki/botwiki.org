@@ -1,7 +1,7 @@
 /*
 Title: @rikersbot
 Description: Collaborative coding and storytelling project.
-Thumbnail: /content/bots/bot,twitterbots/images/rikersbot.png
+Thumbnail: /content/bots/twitterbots/images/rikersbot.png
 Link: http://twitter.com/rikersbot
 Author: botsheeter.py
 Date: October 28, 2015

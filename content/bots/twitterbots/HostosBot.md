@@ -1,7 +1,7 @@
 /*
 Title: @HostosBot
 Description: Este (ro)bot utiliza los escritos de Eugenio María de Hostos para generar textos nuevos cada 6 horas.
-Thumbnail: /content/bots/bot,twitterbots/images/HostosBot.png
+Thumbnail: /content/bots/twitterbots/images/HostosBot.png
 Link: https://twitter.com/HostosBot
 Author: botsheeter.py
 Date: November 21, 2015

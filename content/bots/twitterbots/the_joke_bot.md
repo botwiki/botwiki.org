@@ -1,7 +1,7 @@
 /*
 Title: @the_joke_bot
 Description: That's the joke.
-Thumbnail: /content/bots/bot,twitterbots/images/the_joke_bot.png
+Thumbnail: /content/bots/twitterbots/images/the_joke_bot.png
 Link: http://twitter.com/the_joke_bot
 Author: botsheeter.py
 Date: October 18, 2015

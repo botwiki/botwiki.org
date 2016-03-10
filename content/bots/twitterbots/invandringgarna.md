@@ -1,7 +1,7 @@
 /*
 Title: @invandringgarna
 Description: Provoking ignorant immigration tweeters.
-Thumbnail: /content/bots/bot,twitterbots/images/invandringgarna.png
+Thumbnail: /content/bots/twitterbots/images/invandringgarna.png
 Link: http://twitter.com/invandringgarna
 Author: botsheeter.py
 Date: October 17, 2015

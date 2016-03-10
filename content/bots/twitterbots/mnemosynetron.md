@@ -1,7 +1,7 @@
 /*
 Title: @mnemosynetron
 Description: A reminder bot.
-Thumbnail: /content/bots/bot,twitterbots/images/mnemosynetron.png
+Thumbnail: /content/bots/twitterbots/images/mnemosynetron.png
 Link: http://twitter.com/mnemosynetron
 Author: Stefan Bohacek
 Date: July 28, 2015

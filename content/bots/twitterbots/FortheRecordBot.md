@@ -1,7 +1,7 @@
 /*
 Title: @FortheRecordBot
 Description: Twitter's tiny stenographer, preserving your comments #ForTheRecord.
-Thumbnail: /content/bots/bot,twitterbots/images/FortheRecordBot.png
+Thumbnail: /content/bots/twitterbots/images/FortheRecordBot.png
 Link: https://twitter.com/FortheRecordBot
 Author: botsheeter.py
 Date: February 09, 2016

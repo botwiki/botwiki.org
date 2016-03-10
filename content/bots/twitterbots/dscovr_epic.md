@@ -1,7 +1,7 @@
 /*
 Title: @dscovr_epic
 Description: Pictures from the Earth Polychromatic Camera on the DSCOVR spacecraft.
-Thumbnail: /content/bots/bot,twitterbots/images/dscovr_epic.png
+Thumbnail: /content/bots/twitterbots/images/dscovr_epic.png
 Link: https://twitter.com/dscovr_epic
 Author: botsheeter.py
 Date: October 22, 2015

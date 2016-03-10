@@ -1,7 +1,7 @@
 /*
 Title: @digital_henge
 Description: "Moon phases, equinoxes, solstices, and "major" eclipses."
-Thumbnail: /content/bots/bot,twitterbots/images/digital_henge.png
+Thumbnail: /content/bots/twitterbots/images/digital_henge.png
 Link: http://twitter.com/digital_henge
 Author: Stefan Bohacek
 Date: August 31, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @subtitle_buoy
 Description: Photos from a buoy in the Atlantic Ocean subtitled with *trending topics*. 
-Thumbnail: /content/bots/bot,twitterbots/images/subtitle_buoy.png
+Thumbnail: /content/bots/twitterbots/images/subtitle_buoy.png
 Link: http://twitter.com/subtitle_buoy
 Author: botsheeter.py
 Date: January 27, 2016

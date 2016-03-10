@@ -1,7 +1,7 @@
 /*
 Title: @BotCarrion
 Description: Ulises Carrión's The New Art of Making Books (1975) by bots.
-Thumbnail: /content/bots/bot,twitterbots/images/BotCarrion.png
+Thumbnail: /content/bots/twitterbots/images/BotCarrion.png
 Link: https://twitter.com/BotCarrion
 Author: botsheeter.py
 Date: October 18, 2015

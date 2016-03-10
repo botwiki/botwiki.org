@@ -1,7 +1,7 @@
 /*
 Title: @wholeearthradar
 Description: 🌍 
-Thumbnail: /content/bots/bot,twitterbots/images/wholeearthradar.png
+Thumbnail: /content/bots/twitterbots/images/wholeearthradar.png
 Link: https://twitter.com/wholeearthradar
 Author: botsheeter.py
 Date: December 02, 2015

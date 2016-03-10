@@ -1,7 +1,7 @@
 /*
 Title: @TheGIFingBot
 Description: Converts Twitter's "GIFs" into actual GIFs.
-Thumbnail: /content/bots/bot,twitterbots/images/TheGIFingBot.png
+Thumbnail: /content/bots/twitterbots/images/TheGIFingBot.png
 Link: http://twitter.com/TheGIFingBot
 Author: Stefan Bohacek
 Date: September 28, 2015

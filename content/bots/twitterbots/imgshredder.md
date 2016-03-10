@@ -1,7 +1,7 @@
 /*
 Title: @imgshredder
 Description: I redact, shred, and reassemble images you send me.
-Thumbnail: /content/bots/bot,twitterbots/images/imgshredder.png
+Thumbnail: /content/bots/twitterbots/images/imgshredder.png
 Link: https://twitter.com/imgshredder
 Author: botsheeter.py
 Date: November 10, 2015

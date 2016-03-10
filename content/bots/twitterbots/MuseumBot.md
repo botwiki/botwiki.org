@@ -1,7 +1,7 @@
 /*
 Title: @MuseumBot
 Description: A bot that tweets a random high-res Open Access image from the Metropolitan Museum of Art
-Thumbnail: /content/bots/bot,twitterbots/images/MuseumBot.png
+Thumbnail: /content/bots/twitterbots/images/MuseumBot.png
 Link: http://twitter.com/MuseumBot
 Author: botsheeter.py
 Date: October 19, 2015

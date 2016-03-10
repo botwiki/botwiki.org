@@ -1,7 +1,7 @@
 /*
 Title: @everyportland
 Description: Every word, but in Portland
-Thumbnail: /content/bots/bot,twitterbots/images/everyportland.png
+Thumbnail: /content/bots/twitterbots/images/everyportland.png
 Link: https://twitter.com/everyportland
 Author: botsheeter.py
 Date: October 21, 2015

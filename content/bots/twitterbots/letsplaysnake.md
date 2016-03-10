@@ -1,7 +1,7 @@
 /*
 Title: @letsplaysnake
 Description: Up, down, left, right!
-Thumbnail: /content/bots/bot,twitterbots/images/letsplaysnake.png
+Thumbnail: /content/bots/twitterbots/images/letsplaysnake.png
 Link: http://twitter.com/letsplaysnake
 Author: botsheeter.py
 Date: January 22, 2016

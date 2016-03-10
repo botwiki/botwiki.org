@@ -1,7 +1,7 @@
 /*
 Title: @Lowpolybot
 Description: Low polygon pictures from any image.
-Thumbnail: /content/bots/bot,twitterbots/images/Lowpolybot.png
+Thumbnail: /content/bots/twitterbots/images/Lowpolybot.png
 Link: http://twitter.com/Lowpolybot
 Author: Stefan Bohacek
 Date: August 4, 2015

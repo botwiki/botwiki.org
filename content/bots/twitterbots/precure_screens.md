@@ -1,7 +1,7 @@
 /*
 Title: @precure_screens
 Description: Random screenshots (and sometimes short videos) from all Pretty Cure anime.
-Thumbnail: /content/bots/bot,twitterbots/images/precure_screens.png
+Thumbnail: /content/bots/twitterbots/images/precure_screens.png
 Link: http://twitter.com/precure_screens
 Author: botsheeter.py
 Date: October 24, 2015

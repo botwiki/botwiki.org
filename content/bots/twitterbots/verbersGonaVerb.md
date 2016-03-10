@@ -1,7 +1,7 @@
 /*
 Title: @verbersGonaVerb
 Description: The whackers gonna whack.
-Thumbnail: /content/bots/bot,twitterbots/images/verbersGonaVerb.png
+Thumbnail: /content/bots/twitterbots/images/verbersGonaVerb.png
 Link: https://twitter.com/verbersGonaVerb
 Author: botsheeter.py
 Date: October 18, 2015

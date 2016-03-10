@@ -1,7 +1,7 @@
 /*
 Title: @haiku_ebooks
 Description: Tweets that fit the haiku structure
-Thumbnail: /content/bots/bot,twitterbots/images/haiku_ebooks.png
+Thumbnail: /content/bots/twitterbots/images/haiku_ebooks.png
 Link: https://twitter.com/haiku_ebooks
 Author: Stefan Bohacek
 Date: September 20, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @artassignbot
 Description: Random art assignments.
-Thumbnail: /content/bots/bot,twitterbots/images/artassignbot.png
+Thumbnail: /content/bots/twitterbots/images/artassignbot.png
 Link: https://twitter.com/artassignbot
 Author: botsheeter.py
 Date: October 28, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @godtributes
 Description: bot,twitterbotS FOR THE bot,twitterbot GOD!
-Thumbnail: /content/bots/bot,twitterbots/images/godtributes.png
+Thumbnail: /content/bots/twitterbots/images/godtributes.png
 Link: http://twitter.com/godtributes
 Author: Stefan Bohacek
 Date: September 20, 2015

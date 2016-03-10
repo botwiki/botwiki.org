@@ -1,7 +1,7 @@
 /*
 Title: @tiny_star_field
 Description: A small window of stars.
-Thumbnail: /content/bots/bot,twitterbots/images/tiny_star_field.png
+Thumbnail: /content/bots/twitterbots/images/tiny_star_field.png
 Link: http://twitter.com/tiny_star_field
 Author: Stefan Bohacek
 Date: October 6, 2015

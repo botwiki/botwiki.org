@@ -1,7 +1,7 @@
 /*
 Title: @freehugbot_
 Description: Does somebody need a hug? 
-Thumbnail: /content/bots/bot,twitterbots/images/freehugbot_.png
+Thumbnail: /content/bots/twitterbots/images/freehugbot_.png
 Link: http://twitter.com/freehugbot_
 Author: botsheeter.py
 Date: December 02, 2015

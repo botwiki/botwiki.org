@@ -1,7 +1,7 @@
 /*
 Title: @imgblur
 Description: Send me images to blur/pixelate.
-Thumbnail: /content/bots/bot,twitterbots/images/imgblur.png
+Thumbnail: /content/bots/twitterbots/images/imgblur.png
 Link: https://twitter.com/imgblur
 Author: botsheeter.py
 Date: November 10, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @moonshotbot
 Description: Images from the Project Apollo Archive
-Thumbnail: /content/bots/bot,twitterbots/images/moonshotbot.png
+Thumbnail: /content/bots/twitterbots/images/moonshotbot.png
 Link: http://twitter.com/moonshotbot
 Author: botsheeter.py
 Date: October 18, 2015

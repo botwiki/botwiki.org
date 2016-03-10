@@ -1,7 +1,7 @@
 /*
 Title: @tiny_astro_naut
 Description: Tiny adventures of tiny astronauts injected into tiny star fields.
-Thumbnail: /content/bots/bot,twitterbots/images/tiny_astro_naut.png
+Thumbnail: /content/bots/twitterbots/images/tiny_astro_naut.png
 Link: http://twitter.com/tiny_astro_naut
 Author: botsheeter.py
 Date: October 18, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @a_quilt_bot (es)
 Description: Un bot de edredones.
-Thumbnail: /content/bots/bot,twitterbots/images/a_quilt_bot.png
+Thumbnail: /content/bots/twitterbots/images/a_quilt_bot.png
 Link: https://twitter.com/a_quilt_bot
 Author: hectorpalmatellez
 Language: es

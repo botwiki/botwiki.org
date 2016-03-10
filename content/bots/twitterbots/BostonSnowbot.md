@@ -1,7 +1,7 @@
 /*
 Title: @BostonSnowbot
 Description: I keep you up to date on changes to the snow forecast in Boston.
-Thumbnail: /content/bots/bot,twitterbots/images/BostonSnowbot.png
+Thumbnail: /content/bots/twitterbots/images/BostonSnowbot.png
 Link: https://twitter.com/BostonSnowbot
 Author: botsheeter.py
 Date: November 21, 2015

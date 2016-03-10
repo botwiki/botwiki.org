@@ -1,7 +1,7 @@
 /*
 Title: @HundredZeros
 Description: Free books for Amazon Kindle on Amazon.com.
-Thumbnail: /content/bots/bot,twitterbots/images/HundredZeros.png
+Thumbnail: /content/bots/twitterbots/images/HundredZeros.png
 Link: https://twitter.com/HundredZeros
 Author: botsheeter.py
 Date: November 15, 2015

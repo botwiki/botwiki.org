@@ -1,7 +1,7 @@
 /*
 Title: @botwikidotorg
 Description: The official Botwiki Twitter bot.
-Thumbnail: /content/bots/bot,twitterbots/images/botwikidotorg.png
+Thumbnail: /content/bots/twitterbots/images/botwikidotorg.png
 Link: http://twitter.com/botwikidotorg
 Author: Stefan Bohacek
 Date: August 1, 2015

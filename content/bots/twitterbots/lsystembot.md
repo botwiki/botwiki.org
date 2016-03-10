@@ -1,7 +1,7 @@
 /*
 Title: @lsystembot
 Description: Generates random L-systems.
-Thumbnail: /content/bots/bot,twitterbots/images/lsystembot.png
+Thumbnail: /content/bots/twitterbots/images/lsystembot.png
 Link: http://twitter.com/lsystembot
 Author: botsheeter.py
 Date: December 02, 2015

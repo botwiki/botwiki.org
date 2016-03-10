@@ -1,7 +1,7 @@
 /*
 Title: @tanjoubi_bot_en
 Description: Happy birthday!
-Thumbnail: /content/bots/bot,twitterbots/images/tanjoubi_bot_en.png
+Thumbnail: /content/bots/twitterbots/images/tanjoubi_bot_en.png
 Link: http://twitter.com/tanjoubi_bot_en
 Author: Stefan Bohacek
 Date: September 22, 2015

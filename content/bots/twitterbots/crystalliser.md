@@ -1,7 +1,7 @@
 /*
 Title: @crystalliser
 Description: Image "crystalliser".
-Thumbnail: /content/bots/bot,twitterbots/images/crystalliser.png
+Thumbnail: /content/bots/twitterbots/images/crystalliser.png
 Link: http://twitter.com/crystalliser
 Author: Stefan Bohacek
 Date: August 4, 2015

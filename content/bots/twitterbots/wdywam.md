@@ -1,7 +1,7 @@
 /*
 Title: @wdywam
 Description: Presenting awards to Tweeters that go above and beyond.
-Thumbnail: /content/bots/bot,twitterbots/images/wdywam.png
+Thumbnail: /content/bots/twitterbots/images/wdywam.png
 Link: https://twitter.com/wdywam
 Author: botsheeter.py
 Date: February 15, 2016

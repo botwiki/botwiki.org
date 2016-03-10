@@ -1,7 +1,7 @@
 /*
 Title: @wordnuvola
 Description: Word cloud from tweets.
-Thumbnail: /content/bots/bot,twitterbots/images/wordnuvola.png
+Thumbnail: /content/bots/twitterbots/images/wordnuvola.png
 Link: https://twitter.com/wordnuvola
 Author: botsheeter.py
 Date: November 07, 2015

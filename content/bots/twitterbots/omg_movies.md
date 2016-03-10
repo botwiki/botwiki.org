@@ -1,7 +1,7 @@
 /*
 Title: @omg_movies
 Description: A a bot that loves films big time but doesn't have a very good memory.
-Thumbnail: /content/bots/bot,twitterbots/images/omg_movies.png
+Thumbnail: /content/bots/twitterbots/images/omg_movies.png
 Link: http://twitter.com/omg_movies
 Author: botsheeter.py
 Date: October 15, 2015

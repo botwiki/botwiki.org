@@ -1,7 +1,7 @@
 /*
 Title: @KeplerBot
 Description: The latest data from NASA's Kepler spacecraft.
-Thumbnail: /content/bots/bot,twitterbots/images/KeplerBot.png
+Thumbnail: /content/bots/twitterbots/images/KeplerBot.png
 Link: http://twitter.com/KeplerBot
 Author: Stefan Bohacek
 Date: October 6, 2015

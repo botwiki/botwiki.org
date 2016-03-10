@@ -1,7 +1,7 @@
 /*
 Title: @thesefutures
 Description: Your daily future predictor.
-Thumbnail: /content/bots/bot,twitterbots/images/thesefutures.png
+Thumbnail: /content/bots/twitterbots/images/thesefutures.png
 Link: http://twitter.com/thesefutures
 Author: botsheeter.py
 Date: November 21, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @emojipotus
 Description: Inspirational quotes from U.S. presidents, updated for the new age.
-Thumbnail: /content/bots/bot,twitterbots/images/emojipotus.png
+Thumbnail: /content/bots/twitterbots/images/emojipotus.png
 Link: https://twitter.com/emojipotus
 Author: Stefan Bohacek
 Date: October 12, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @everysimile
 Description: Twittering every simile in the english language.
-Thumbnail: /content/bots/bot,twitterbots/images/everysimile.png
+Thumbnail: /content/bots/twitterbots/images/everysimile.png
 Link: https://twitter.com/everysimile
 Author: botsheeter.py
 Date: October 18, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @thetinygallery
 Description: Tiny exhibitions from a tiny emoji gallery.
-Thumbnail: /content/bots/bot,twitterbots/images/thetinygallery.png
+Thumbnail: /content/bots/twitterbots/images/thetinygallery.png
 Link: http://twitter.com/thetinygallery
 Author: botsheeter.py
 Date: February 03, 2016

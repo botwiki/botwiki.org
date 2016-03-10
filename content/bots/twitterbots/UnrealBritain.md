@@ -1,7 +1,7 @@
 /*
 Title: @UnrealBritain
 Description: Random invented British place names.
-Thumbnail: /content/bots/bot,twitterbots/images/UnrealBritain.png
+Thumbnail: /content/bots/twitterbots/images/UnrealBritain.png
 Link: https://twitter.com/UnrealBritain
 Author: botsheeter.py
 Date: January 12, 2016

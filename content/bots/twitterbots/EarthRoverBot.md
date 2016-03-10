@@ -1,7 +1,7 @@
 /*
 Title: @EarthRoverBot
 Description: A "rover" travelling from Maine to California.
-Thumbnail: /content/bots/bot,twitterbots/images/EarthRoverBot.png
+Thumbnail: /content/bots/twitterbots/images/EarthRoverBot.png
 Link: https://twitter.com/EarthRoverBot
 Author: Stefan Bohacek
 Date: August 2, 2015

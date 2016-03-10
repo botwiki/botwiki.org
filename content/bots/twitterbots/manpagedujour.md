@@ -1,7 +1,7 @@
 /*
 Title: @manpagedujour
 Description: Linux Man Page a Day
-Thumbnail: /content/bots/bot,twitterbots/images/manpagedujour.png
+Thumbnail: /content/bots/twitterbots/images/manpagedujour.png
 Link: http://twitter.com/manpagedujour
 Author: botsheeter.py
 Date: December 21, 2015

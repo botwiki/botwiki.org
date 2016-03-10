@@ -1,7 +1,7 @@
 /*
 Title: @pixelsorter
 Description: A Twitter bot that sorts your pixels.
-Thumbnail: /content/bots/bot,twitterbots/images/pixelsorter.png
+Thumbnail: /content/bots/twitterbots/images/pixelsorter.png
 Link: http://twitter.com/pixelsorter
 Author: Stefan Bohacek
 Date: August 4, 2015

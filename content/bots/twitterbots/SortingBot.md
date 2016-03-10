@@ -1,7 +1,7 @@
 /*
 Title: @SortingBot
 Description: "I'm the Sorting Hat and I'm here to say / I love sorting students in a major way."
-Thumbnail: /content/bots/bot,twitterbots/images/SortingBot.png
+Thumbnail: /content/bots/twitterbots/images/SortingBot.png
 Link: http://twitter.com/SortingBot
 Author: Stefan Bohacek
 Date: July 28, 2015

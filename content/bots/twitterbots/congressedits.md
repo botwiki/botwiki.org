@@ -1,7 +1,7 @@
 /*
 Title: @congressedits
 Description: Anonymous Wikipedia edits that are made from IP addresses in the US Congress.
-Thumbnail: /content/bots/bot,twitterbots/images/congressedits.png
+Thumbnail: /content/bots/twitterbots/images/congressedits.png
 Link: http://twitter.com/congressedits
 Author: Stefan Bohacek
 Date: July 9, 2015

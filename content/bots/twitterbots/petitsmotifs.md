@@ -1,7 +1,7 @@
 /*
 Title: @petitsmotifs
 Description: Little patterns of irregular regularity.
-Thumbnail: /content/bots/bot,twitterbots/images/petitsmotifs.png
+Thumbnail: /content/bots/twitterbots/images/petitsmotifs.png
 Link: http://twitter.com/petitsmotifs
 Author: Stefan Bohacek
 Date: October 12, 2015

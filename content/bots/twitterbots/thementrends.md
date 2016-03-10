@@ -1,7 +1,7 @@
 /*
 Title: @thementrends
 Description: German Wikipedia trends
-Thumbnail: /content/bots/bot,twitterbots/images/thementrends.png
+Thumbnail: /content/bots/twitterbots/images/thementrends.png
 Link: http://twitter.com/thementrends
 Author: botsheeter.py
 Date: February 07, 2016

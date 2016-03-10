@@ -1,7 +1,7 @@
 /*
 Title: @gachfocal
 Description: Gach focal i nGaeilge.
-Thumbnail: /content/bots/bot,twitterbots/images/gachfocal.png
+Thumbnail: /content/bots/twitterbots/images/gachfocal.png
 Link: http://twitter.com/gachfocal
 Author: Stefan Bohacek
 Date: September 28, 2015

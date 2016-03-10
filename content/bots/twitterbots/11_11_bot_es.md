@@ -1,7 +1,7 @@
 /*
 Title: @11_11_bot (es)
 Description: Memento mori.
-Thumbnail: /content/bots/bot,twitterbots/images/11_11_bot.png
+Thumbnail: /content/bots/twitterbots/images/11_11_bot.png
 Link: https://twitter.com/11_11_bot
 Author: hectorpalmatellez
 Language: es

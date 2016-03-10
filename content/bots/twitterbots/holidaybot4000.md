@@ -1,7 +1,7 @@
 /*
 Title: @holidaybot4000
 Description: Every day IS a holiday
-Thumbnail: /content/bots/bot,twitterbots/images/holidaybot4000.png
+Thumbnail: /content/bots/twitterbots/images/holidaybot4000.png
 Link: https://twitter.com/holidaybot4000
 Author: Stefan Bohacek
 Date: July 21, 2015

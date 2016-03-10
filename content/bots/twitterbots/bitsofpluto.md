@@ -1,7 +1,7 @@
 /*
 Title: @bitsofpluto
 Description: Bits of Pluto.
-Thumbnail: /content/bots/bot,twitterbots/images/bitsofpluto.png
+Thumbnail: /content/bots/twitterbots/images/bitsofpluto.png
 Link: https://twitter.com/bitsofpluto
 Author: Stefan Bohacek
 Date: October 6, 2015

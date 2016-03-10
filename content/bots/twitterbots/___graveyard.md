@@ -1,7 +1,7 @@
 /*
 Title: @___graveyard
 Description: ⩍†⩍   †  ⩍⩍⩍† ⩍ ⩍⩍
-Thumbnail: /content/bots/bot,twitterbots/images/___graveyard.png
+Thumbnail: /content/bots/twitterbots/images/___graveyard.png
 Link: http://twitter.com/___graveyard
 Author: botsheeter.py
 Date: November 07, 2015

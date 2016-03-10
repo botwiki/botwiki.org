@@ -1,7 +1,7 @@
 /*
 Title: @FinnishFlags
 Description: Why are the flags up in Finland?
-Thumbnail: /content/bots/bot,twitterbots/images/FinnishFlags.png
+Thumbnail: /content/bots/twitterbots/images/FinnishFlags.png
 Link: http://twitter.com/FinnishFlags
 Author: Stefan Bohacek
 Date: September 21, 2015

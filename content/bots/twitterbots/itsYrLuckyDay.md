@@ -1,7 +1,7 @@
 /*
 Title: @itsYrLuckyDay
 Description: ITS YOUR LUCKY DAY!
-Thumbnail: /content/bots/bot,twitterbots/images/itsYrLuckyDay.png
+Thumbnail: /content/bots/twitterbots/images/itsYrLuckyDay.png
 Link: http://twitter.com/itsYrLuckyDay
 Author: botsheeter.py
 Date: October 25, 2015

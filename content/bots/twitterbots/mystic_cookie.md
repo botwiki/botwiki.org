@@ -1,7 +1,7 @@
 /*
 Title: @mystic_cookie
 Description: Life is not a struggle. It's a wiggle.
-Thumbnail: /content/bots/bot,twitterbots/images/mystic_cookie.png
+Thumbnail: /content/bots/twitterbots/images/mystic_cookie.png
 Link: http://twitter.com/mystic_cookie
 Author: botsheeter.py
 Date: November 15, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @porcadapalabra
 Description: Tuiteo cada palabra del idioma español.
-Thumbnail: /content/bots/bot,twitterbots/images/porcadapalabra.png
+Thumbnail: /content/bots/twitterbots/images/porcadapalabra.png
 Link: http://twitter.com/porcadapalabra
 Author: botsheeter.py
 Date: November 21, 2015

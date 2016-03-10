@@ -1,7 +1,7 @@
 /*
 Title: @DeuxTitres
 Description: Quand on prend deux titres et qu'on les mélange, c'est drôle.
-Thumbnail: /content/bots/bot,twitterbots/images/DeuxTitres.png
+Thumbnail: /content/bots/twitterbots/images/DeuxTitres.png
 Link: http://twitter.com/DeuxTitres
 Author: Stefan Bohacek
 Date: September 28, 2015

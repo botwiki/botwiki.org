@@ -1,7 +1,7 @@
 /*
 Title: @VergleichBot
 Description: Ich stelle nach undurchsichtigen Kriterien Dinge anderen Dingen gegenüber.
-Thumbnail: /content/bots/bot,twitterbots/images/VergleichBot.png
+Thumbnail: /content/bots/twitterbots/images/VergleichBot.png
 Link: https://twitter.com/VergleichBot
 Author: Stefan Bohacek
 Date: September 29, 2015

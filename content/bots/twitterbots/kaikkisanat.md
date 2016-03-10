@@ -1,7 +1,7 @@
 /*
 Title: @kaikkisanat
 Description: A bot to tweet every Finnish word.
-Thumbnail: /content/bots/bot,twitterbots/images/kaikkisanat.png
+Thumbnail: /content/bots/twitterbots/images/kaikkisanat.png
 Link: http://twitter.com/kaikkisanat
 Author: Stefan Bohacek
 Date: September 28, 2015

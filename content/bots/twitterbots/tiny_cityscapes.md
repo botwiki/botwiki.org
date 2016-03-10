@@ -1,7 +1,7 @@
 /*
 Title: @tiny_cityscapes
 Description: Tiny emoji cities, a few times a day.
-Thumbnail: /content/bots/bot,twitterbots/images/tiny_cityscapes.png
+Thumbnail: /content/bots/twitterbots/images/tiny_cityscapes.png
 Link: http://twitter.com/tiny_cityscapes
 Author: botsheeter.py
 Date: January 5, 2016

@@ -1,7 +1,7 @@
 /*
 Title: @awyeabot
 Description: Aw yea gonna do things! So many things! 
-Thumbnail: /content/bots/bot,twitterbots/images/awyeabot.png
+Thumbnail: /content/bots/twitterbots/images/awyeabot.png
 Link: https://twitter.com/awyeabot
 Author: botsheeter.py
 Date: February 15, 2016

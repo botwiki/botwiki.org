@@ -1,7 +1,7 @@
 /*
 Title: @TwoHeadlines
 Description: "Comedy is when you take two headlines about different things and then confuse them."
-Thumbnail: /content/bots/bot,twitterbots/images/TwoHeadlines.png
+Thumbnail: /content/bots/twitterbots/images/TwoHeadlines.png
 Link: https://twitter.com/TwoHeadlines
 Author: Stefan Bohacek
 Date: September 28, 2015

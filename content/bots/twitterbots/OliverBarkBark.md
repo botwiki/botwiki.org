@@ -1,7 +1,7 @@
 /*
 Title: @OliverBarkBark
 Description: Bark!
-Thumbnail: /content/bots/bot,twitterbots/images/OliverBarkBark.png
+Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
 Author: Stefan Bohacek
 Date: September 15, 2015

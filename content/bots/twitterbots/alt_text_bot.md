@@ -1,7 +1,7 @@
 /*
 Title: @alt_text_bot
 Description: "Mention me with an image to get a description."
-Thumbnail: /content/bots/bot,twitterbots/images/alt_text_bot.png
+Thumbnail: /content/bots/twitterbots/images/alt_text_bot.png
 Link: https://twitter.com/alt_text_bot
 Author: Stefan Bohacek
 Date: October 2, 2015

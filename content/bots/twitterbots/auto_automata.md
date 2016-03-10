@@ -1,7 +1,7 @@
 /*
 Title: @auto_automata
 Description: Exploration of cellular automata, lo-fi colour, and symmetry.
-Thumbnail: /content/bots/bot,twitterbots/images/auto_automata.png
+Thumbnail: /content/bots/twitterbots/images/auto_automata.png
 Link: https://twitter.com/auto_automata
 Author: botsheeter.py
 Date: December 02, 2015

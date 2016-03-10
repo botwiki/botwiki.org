@@ -1,7 +1,7 @@
 /*
 Title: @future_junk
 Description: Useless junk from the future.
-Thumbnail: /content/bots/bot,twitterbots/images/future_junk.png
+Thumbnail: /content/bots/twitterbots/images/future_junk.png
 Link: http://twitter.com/future_junk
 Author: botsheeter.py
 Date: October 24, 2015

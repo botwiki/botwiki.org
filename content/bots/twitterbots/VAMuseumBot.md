@@ -1,7 +1,7 @@
 /*
 Title: @VAMuseumBot
 Description: Victoria and Albert Museum bot.
-Thumbnail: /content/bots/bot,twitterbots/images/VAMuseumBot.png
+Thumbnail: /content/bots/twitterbots/images/VAMuseumBot.png
 Link: https://twitter.com/VAMuseumBot
 Author: botsheeter.py
 Date: February 09, 2016

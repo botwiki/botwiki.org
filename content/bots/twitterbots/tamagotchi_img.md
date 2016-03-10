@@ -1,7 +1,7 @@
 /*
 Title: @tamagotchi_img
 Description: Images from a Tamagotchi ROM dump.
-Thumbnail: /content/bots/bot,twitterbots/images/tamagotchi_img.png
+Thumbnail: /content/bots/twitterbots/images/tamagotchi_img.png
 Link: http://twitter.com/tamagotchi_img
 Author: botsheeter.py
 Date: November 07, 2015

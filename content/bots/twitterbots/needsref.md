@@ -1,7 +1,7 @@
 /*
 Title: @needsref
 Description: Random sentences from Wikipedia marked as [Citation Needed]
-Thumbnail: /content/bots/bot,twitterbots/images/needsref.png
+Thumbnail: /content/bots/twitterbots/images/needsref.png
 Link: http://twitter.com/needsref
 Author: botsheeter.py
 Date: October 28, 2015

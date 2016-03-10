@@ -1,7 +1,7 @@
 /*
 Title: @FrontPageBot
 Description: A Twitter bot that posts front pages of newspapers.
-Thumbnail: /content/bots/bot,twitterbots/images/FrontPageBot.png
+Thumbnail: /content/bots/twitterbots/images/FrontPageBot.png
 Link: http://twitter.com/FrontPageBot
 Author: Stefan Bohacek
 Date: July 27, 2015

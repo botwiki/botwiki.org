@@ -1,7 +1,7 @@
 /*
 Title: @dream_sandwich_
 Description: If I could have any sandwich.
-Thumbnail: /content/bots/bot,twitterbots/images/dream_sandwich_.png
+Thumbnail: /content/bots/twitterbots/images/dream_sandwich_.png
 Link: http://twitter.com/dream_sandwich_
 Author: botsheeter.py
 Date: November 12, 2015

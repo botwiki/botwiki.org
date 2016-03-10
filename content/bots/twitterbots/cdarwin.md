@@ -1,7 +1,7 @@
 /*
 Title: @cdarwin
 Description: Geologist, naturalist and gentleman.
-Thumbnail: /content/bots/bot,twitterbots/images/cdarwin.png
+Thumbnail: /content/bots/twitterbots/images/cdarwin.png
 Link: https://twitter.com/cdarwin
 Author: botsheeter.py
 Date: February 15, 2016

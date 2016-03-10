@@ -1,7 +1,7 @@
 /*
 Title: @censusAmericans
 Description: Tweeting the census one real american at a time.
-Thumbnail: /content/bots/bot,twitterbots/images/censusAmericans.png
+Thumbnail: /content/bots/twitterbots/images/censusAmericans.png
 Link: http://twitter.com/censusAmericans
 Author: Stefan Bohacek
 Date: July 26, 2015

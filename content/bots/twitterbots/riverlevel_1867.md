@@ -1,7 +1,7 @@
 /*
 Title: @riverlevel_1867
 Description: "Live river-level data from over 2,400 government gauges across England and Wales."
-Thumbnail: /content/bots/bot,twitterbots/images/riverlevel_1867.png
+Thumbnail: /content/bots/twitterbots/images/riverlevel_1867.png
 Link: http://twitter.com/riverlevel_1867
 Author: Stefan Bohacek
 Date: August 6, 2015
@@ -15,4 +15,4 @@ Robots: index,follow
 
 Read more about the project on [niemanlab.org](http://www.niemanlab.org/2014/07/is-the-river-behind-your-house-rising-a-british-twitter-bot-will-tell-you/).
 
-[![](/content/bots/bot,twitterbots/images/riverlevel_map.png)](http://www.gaugemap.co.uk/)
+[![](/content/bots/twitterbots/images/riverlevel_map.png)](http://www.gaugemap.co.uk/)

@@ -1,7 +1,7 @@
 /*
 Title: @storyofglitch
 Description: im @thricedotted's twittercat ok
-Thumbnail: /content/bots/bot,twitterbots/images/storyofglitch.png
+Thumbnail: /content/bots/twitterbots/images/storyofglitch.png
 Link: http://twitter.com/storyofglitch
 Author: botsheeter.py
 Date: October 19, 2015

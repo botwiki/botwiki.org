@@ -1,7 +1,7 @@
 /*
 Title: @a_quilt_bot
 Description: A quilt bot.
-Thumbnail: /content/bots/bot,twitterbots/images/a_quilt_bot.png
+Thumbnail: /content/bots/twitterbots/images/a_quilt_bot.png
 Link: https://twitter.com/a_quilt_bot
 Author: botsheeter.py
 Date: October 16, 2015

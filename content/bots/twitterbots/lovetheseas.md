@@ -1,7 +1,7 @@
 /*
 Title: @lovetheseas
 Description: Save the seas.
-Thumbnail: /content/bots/bot,twitterbots/images/lovetheseas.png
+Thumbnail: /content/bots/twitterbots/images/lovetheseas.png
 Link: http://twitter.com/lovetheseas
 Author: botsheeter.py
 Date: October 18, 2015

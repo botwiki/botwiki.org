@@ -1,7 +1,7 @@
 /*
 Title: @belongbot4000
 Description: An unofficial belong.io bot.
-Thumbnail: /content/bots/bot,twitterbots/images/belongbot4000.png
+Thumbnail: /content/bots/twitterbots/images/belongbot4000.png
 Link: https://twitter.com/belongbot4000
 Author: Stefan Bohacek
 Date: September 15, 2015

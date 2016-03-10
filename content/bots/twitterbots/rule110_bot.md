@@ -1,7 +1,7 @@
 /*
 Title: @rule110_bot
 Description: Rule 110.
-Thumbnail: /content/bots/bot,twitterbots/images/rule110_bot.png
+Thumbnail: /content/bots/twitterbots/images/rule110_bot.png
 Link: http://twitter.com/rule110_bot
 Author: botsheeter.py
 Date: October 15, 2015

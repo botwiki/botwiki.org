@@ -1,7 +1,7 @@
 /*
 Title: @autocompleterap
 Description: Autocomplete Rap
-Thumbnail: /content/bots/bot,twitterbots/images/autocompleterap.png
+Thumbnail: /content/bots/twitterbots/images/autocompleterap.png
 Link: https://twitter.com/autocompleterap
 Author: Stefan Bohacek
 Date: September 21, 2015

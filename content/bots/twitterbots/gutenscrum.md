@@ -1,7 +1,7 @@
 /*
 Title: @gutenscrum
 Description: "A surrealist project management"
-Thumbnail: /content/bots/bot,twitterbots/images/gutenscrum.png
+Thumbnail: /content/bots/twitterbots/images/gutenscrum.png
 Link: https://twitter.com/gutenscrum
 Author: Stefan Bohacek
 Date: September 20, 2015

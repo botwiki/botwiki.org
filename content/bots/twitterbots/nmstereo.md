@@ -1,7 +1,7 @@
 /*
 Title: @nmstereo
 Description: "Get yer hits out!"
-Thumbnail: /content/bots/bot,twitterbots/images/nmstereo.png
+Thumbnail: /content/bots/twitterbots/images/nmstereo.png
 Link: http://twitter.com/nmstereo
 Author: Stefan Bohacek
 Date: August 5, 2015

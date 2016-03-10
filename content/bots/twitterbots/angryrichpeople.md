@@ -1,7 +1,7 @@
 /*
 Title: @angryrichpeople
 Description: One star reviews by rich people who paid a lot of money and are angry about it. 
-Thumbnail: /content/bots/bot,twitterbots/images/angryrichpeople.png
+Thumbnail: /content/bots/twitterbots/images/angryrichpeople.png
 Link: https://twitter.com/angryrichpeople
 Author: botsheeter.py
 Date: October 21, 2015

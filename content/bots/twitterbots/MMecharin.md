@@ -1,7 +1,7 @@
 /*
 Title: @MMecharin
 Description: Random anime screenshots and short videos.
-Thumbnail: /content/bots/bot,twitterbots/images/MMecharin.png
+Thumbnail: /content/bots/twitterbots/images/MMecharin.png
 Link: http://twitter.com/MMecharin
 Author: botsheeter.py
 Date: October 24, 2015

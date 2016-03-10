@@ -1,7 +1,7 @@
 /*
 Title: @nhcbot
 Description: A Twitter bot that posts National Hurricane Center images from the N. Atlantic.
-Thumbnail: /content/bots/bot,twitterbots/images/nhcbot.png
+Thumbnail: /content/bots/twitterbots/images/nhcbot.png
 Link: http://twitter.com/nhcbot
 Author: Stefan Bohacek
 Date: October 2, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @FireworksBot
 Description: Fireworks from your Tweets!
-Thumbnail: /content/bots/bot,twitterbots/images/FireworksBot.png
+Thumbnail: /content/bots/twitterbots/images/FireworksBot.png
 Link: http://twitter.com/FireworksBot
 Author: botsheeter.py
 Date: November 12, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @ceasedesistbot
 Description: Cease and Desist Bot does not approve of your use of common words and phrases.
-Thumbnail: /content/bots/bot,twitterbots/images/ceasedesistbot.png
+Thumbnail: /content/bots/twitterbots/images/ceasedesistbot.png
 Link: http://twitter.com/ceasedesistbot
 Author: botsheeter.py
 Date: October 21, 2015

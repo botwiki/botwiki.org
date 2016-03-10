@@ -1,7 +1,7 @@
 /*
 Title: @BabellingBorges
 Description: Each book contains four hundred ten pages; each page, forty lines; each line, approximately eighty black letters.
-Thumbnail: /content/bots/bot,twitterbots/images/BabellingBorges.png
+Thumbnail: /content/bots/twitterbots/images/BabellingBorges.png
 Link: https://twitter.com/BabellingBorges
 Author: botsheeter.py
 Date: November 21, 2015

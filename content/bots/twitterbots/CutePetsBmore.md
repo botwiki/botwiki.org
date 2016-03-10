@@ -1,7 +1,7 @@
 /*
 Title: @CutePetsBmore
 Description: Feel the warmth of a cold nose.
-Thumbnail: /content/bots/bot,twitterbots/images/CutePetsBmore.png
+Thumbnail: /content/bots/twitterbots/images/CutePetsBmore.png
 Link: http://twitter.com/CutePetsBmore
 Author: Stefan Bohacek
 Date: October 8, 2015

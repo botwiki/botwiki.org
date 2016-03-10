@@ -1,7 +1,7 @@
 /*
 Title: @one_algorithm
 Description: Just a concise algorithm.
-Thumbnail: /content/bots/bot,twitterbots/images/one_algorithm.png
+Thumbnail: /content/bots/twitterbots/images/one_algorithm.png
 Link: http://twitter.com/one_algorithm
 Author: botsheeter.py
 Date: October 25, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @unchartedatlas
 Description: An atlas of unknown lands.
-Thumbnail: /content/bots/bot,twitterbots/images/unchartedatlas.png
+Thumbnail: /content/bots/twitterbots/images/unchartedatlas.png
 Link: https://twitter.com/unchartedatlas
 Author: botsheeter.py
 Date: February 28, 2016

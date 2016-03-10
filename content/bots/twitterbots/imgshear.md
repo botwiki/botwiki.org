@@ -1,7 +1,7 @@
 /*
 Title: @imgshear
 Description: A bot that applies an effect inspired by geometric shear mapping.
-Thumbnail: /content/bots/bot,twitterbots/images/imgshear.png
+Thumbnail: /content/bots/twitterbots/images/imgshear.png
 Link: https://twitter.com/imgshear
 Author: botsheeter.py
 Date: November 10, 2015

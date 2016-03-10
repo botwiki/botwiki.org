@@ -1,7 +1,7 @@
 /*
 Title: @everyarabicword
 Description: سَـنغـرد كُـل كـلمة في اللـغة العربيـة.
-Thumbnail: /content/bots/bot,twitterbots/images/everyarabicword.png
+Thumbnail: /content/bots/twitterbots/images/everyarabicword.png
 Link: https://twitter.com/everyarabicword
 Author: botsheeter.py
 Date: November 21, 2015

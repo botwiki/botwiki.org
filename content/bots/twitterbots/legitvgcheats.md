@@ -1,7 +1,7 @@
 /*
 Title: @legitvgcheats
 Description: The latest in hot tips to help you stay on top of your game.
-Thumbnail: /content/bots/bot,twitterbots/images/legitvgcheats.png
+Thumbnail: /content/bots/twitterbots/images/legitvgcheats.png
 Link: http://twitter.com/legitvgcheats
 Author: Stefan Bohacek
 Date: October 12, 2015

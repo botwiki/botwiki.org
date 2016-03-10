@@ -1,7 +1,7 @@
 /*
 Title: @onethingplease
 Description: I'll send you a thing if you ask me politely.
-Thumbnail: /content/bots/bot,twitterbots/images/onethingplease.png
+Thumbnail: /content/bots/twitterbots/images/onethingplease.png
 Link: http://twitter.com/onethingplease
 Author: botsheeter.py
 Date: October 24, 2015

@@ -1,7 +1,7 @@
 /*
 Title: @poem_exe
 Description: Micropoetry.
-Thumbnail: /content/bots/bot,twitterbots/images/poem_exe.png
+Thumbnail: /content/bots/twitterbots/images/poem_exe.png
 Link: http://twitter.com/poem_exe
 Author: Stefan Bohacek
 Date: October 12, 2015

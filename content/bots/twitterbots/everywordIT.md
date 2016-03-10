@@ -1,7 +1,7 @@
 /*
 Title: @everywordIT
 Description: Tweeting every single word in the italian vocabulary.
-Thumbnail: /content/bots/bot,twitterbots/images/everywordIT.png
+Thumbnail: /content/bots/twitterbots/images/everywordIT.png
 Link: https://twitter.com/everywordIT
 Author: botsheeter.py
 Date: November 21, 2015

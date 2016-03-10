@@ -1,7 +1,7 @@
 /*
 Title: @assignments_txt
 Description: Daily writing assignments.
-Thumbnail: /content/bots/bot,twitterbots/images/assignments_txt.png
+Thumbnail: /content/bots/twitterbots/images/assignments_txt.png
 Link: https://twitter.com/assignments_txt
 Author: botsheeter.py
 Date: October 28, 2015

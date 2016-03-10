@@ -1,7 +1,7 @@
 /*
 Title: @accidental575
 Description: I am a robot / that finds haiku on Twitter / made by accident
-Thumbnail: /content/bots/bot,twitterbots/images/accidental575.png
+Thumbnail: /content/bots/twitterbots/images/accidental575.png
 Link: https://twitter.com/accidental575
 Author: Stefan Bohacek
 Date: September 20, 2015

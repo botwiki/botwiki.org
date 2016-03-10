@@ -1,7 +1,7 @@
 /*
 Title: @SPACEBOT5000
 Description: SPAAAAAAAAACE
-Thumbnail: /content/bots/bot,twitterbots/images/SPACEBOT5000.png
+Thumbnail: /content/bots/twitterbots/images/SPACEBOT5000.png
 Link: http://twitter.com/SPACEBOT5000
 Author: botsheeter.py
 Date: January 25, 2016

@@ -1,7 +1,7 @@
 /*
 Title: @OliverBarkBark (es)
 Description: ¡Guau!
-Thumbnail: /content/bots/bot,twitterbots/images/OliverBarkBark.png
+Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
 Author: hectorpalmatellez
 Language: es

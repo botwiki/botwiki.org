@@ -1,7 +1,7 @@
 /*
 Title: @unicode_garden
 Description: Gardens of characters.
-Thumbnail: /content/bots/bot,twitterbots/images/unicode_garden.png
+Thumbnail: /content/bots/twitterbots/images/unicode_garden.png
 Link: https://twitter.com/unicode_garden
 Author: Stefan Bohacek
 Date: July 28, 2015

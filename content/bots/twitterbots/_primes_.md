@@ -1,7 +1,7 @@
 /*
 Title: @_primes_
 Description: A prime number calculator that uses Twitter as its data store.
-Thumbnail: /content/bots/bot,twitterbots/images/_primes_.png
+Thumbnail: /content/bots/twitterbots/images/_primes_.png
 Link: http://twitter.com/_primes_
 Author: botsheeter.py
 Date: November 12, 2015

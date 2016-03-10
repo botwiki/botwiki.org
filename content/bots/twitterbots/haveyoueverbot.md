@@ -1,7 +1,7 @@
 /*
 Title: @haveyoueverbot
 Description: I just like the sound of it.
-Thumbnail: /content/bots/bot,twitterbots/images/haveyoueverbot.png
+Thumbnail: /content/bots/twitterbots/images/haveyoueverbot.png
 Link: https://twitter.com/haveyoueverbot
 Author: botsheeter.py
 Date: October 28, 2015

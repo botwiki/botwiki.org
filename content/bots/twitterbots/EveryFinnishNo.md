@@ -1,7 +1,7 @@
 /*
 Title: @EveryFinnishNo
 Description: A bot to tweet every Finnish number.
-Thumbnail: /content/bots/bot,twitterbots/images/EveryFinnishNo.png
+Thumbnail: /content/bots/twitterbots/images/EveryFinnishNo.png
 Link: https://twitter.com/EveryFinnishNo
 Author: Stefan Bohacek
 Date: September 21, 2015

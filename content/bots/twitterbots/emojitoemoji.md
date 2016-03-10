@@ -1,7 +1,7 @@
 /*
 Title: @emojitoemoji
 Description: Curious encounters.
-Thumbnail: /content/bots/bot,twitterbots/images/emojitoemoji.png
+Thumbnail: /content/bots/twitterbots/images/emojitoemoji.png
 Link: https://twitter.com/emojitoemoji
 Author: Stefan Bohacek
 Date: October 12, 2015

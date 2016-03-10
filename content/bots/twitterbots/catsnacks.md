@@ -1,7 +1,7 @@
 /*
 Title: @catsnacks
 Description: exploring the universe of adorable cat faces
-Thumbnail: /content/bots/bot,twitterbots/images/catsnacks.png
+Thumbnail: /content/bots/twitterbots/images/catsnacks.png
 Link: http://twitter.com/catsnacks
 Author: botsheeter.py
 Date: February 03, 2016

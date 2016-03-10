@@ -1,7 +1,7 @@
 /*
 Title: @ShouldBot
 Description: Should you THIS or should you THAT?
-Thumbnail: /content/bots/bot,twitterbots/images/ShouldBot.png
+Thumbnail: /content/bots/twitterbots/images/ShouldBot.png
 Link: http://twitter.com/ShouldBot
 Author: Stefan Bohacek
 Date: September 12, 2015

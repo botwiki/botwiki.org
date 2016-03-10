@@ -1,7 +1,7 @@
 /*
 Title: @buoypix
 Description: Pictures taken by @NOAA buoys in the middle of the ocean.
-Thumbnail: /content/bots/bot,twitterbots/images/buoypix.png
+Thumbnail: /content/bots/twitterbots/images/buoypix.png
 Link: http://twitter.com/buoypix
 Author: botsheeter.py
 Date: October 16, 2015

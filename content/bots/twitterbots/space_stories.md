@@ -1,7 +1,7 @@
 /*
 Title: @space_stories
 Description: Just some stories happening in space.
-Thumbnail: /content/bots/bot,twitterbots/images/space_stories.png
+Thumbnail: /content/bots/twitterbots/images/space_stories.png
 Link: http://twitter.com/space_stories
 Author: botsheeter.py
 Date: October 24, 2015

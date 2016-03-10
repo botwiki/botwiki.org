@@ -1,7 +1,7 @@
 /*
 Title: @inXwords
 Description: #bot,twitterbotInXwords
-Thumbnail: /content/bots/bot,twitterbots/images/inXwords.png
+Thumbnail: /content/bots/twitterbots/images/inXwords.png
 Link: http://twitter.com/inXwords
 Author: Stefan Bohacek
 Date: September 21, 2015

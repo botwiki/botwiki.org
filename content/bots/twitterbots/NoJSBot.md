@@ -1,7 +1,7 @@
 /*
 Title: @NoJSBot
 Description: No JavaScript.
-Thumbnail: /content/bots/bot,twitterbots/images/NoJSBot.png
+Thumbnail: /content/bots/twitterbots/images/NoJSBot.png
 Link: http://twitter.com/NoJSBot
 Author: botsheeter.py
 Date: November 07, 2015

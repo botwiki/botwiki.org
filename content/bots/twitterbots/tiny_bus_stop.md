@@ -1,7 +1,7 @@
 /*
 Title: @tiny_bus_stop
 Description: Tiny people waiting for the tiny bus at the tiny bus stop.
-Thumbnail: /content/bots/bot,twitterbots/images/tiny_bus_stop.png
+Thumbnail: /content/bots/twitterbots/images/tiny_bus_stop.png
 Link: https://twitter.com/tiny_bus_stop
 Author: botsheeter.py
 Date: February 28, 2016
