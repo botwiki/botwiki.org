@@ -1,11 +1,11 @@
 /*
 Title: @thesaurusgame
 Description: A thesaurus game.
-Thumbnail: /content/bots/twitterbots/images/thesaurusgame.png
+Thumbnail: /content/bots/bot,twitterbots/images/thesaurusgame.png
 Link: http://twitter.com/thesaurusgame
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitter,twitterbot,active,game
+Tags: twitter,bot,twitterbot,active,game
 
 Nav: hidden
 Robots: index,follow

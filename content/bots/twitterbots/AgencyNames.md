@@ -1,11 +1,11 @@
 /*
 Title: @AgencyNames
 Description: Names for new design agencies.
-Thumbnail: /content/bots/twitterbots/images/AgencyNames.png
+Thumbnail: /content/bots/bot,twitterbots/images/AgencyNames.png
 Link: https://twitter.com/AgencyNames
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: twitter,twitterbot,active,generator,adcrimer
+Tags: twitter,bot,twitterbot,active,generator,adcrimer
 Nav: hidden
 Robots: index,follow
 */

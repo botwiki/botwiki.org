@@ -1,11 +1,11 @@
 /*
 Title: @mnemosynetron
 Description: A reminder bot.
-Thumbnail: /content/bots/twitterbots/images/mnemosynetron.png
+Thumbnail: /content/bots/bot,twitterbots/images/mnemosynetron.png
 Link: http://twitter.com/mnemosynetron
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,active,useful,thricedotted
+Tags: twitter,bot,twitterbot,active,useful,thricedotted
 Translations: es
 Nav: hidden
 Robots: index,follow

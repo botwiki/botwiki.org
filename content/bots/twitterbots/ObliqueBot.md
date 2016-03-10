@@ -1,11 +1,11 @@
 /*
 Title: @ObliqueBot
 Description: Disconnect from desire.
-Thumbnail: /content/bots/twitterbots/images/ObliqueBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/ObliqueBot.png
 Link: http://twitter.com/ObliqueBot
 Author: botsheeter.py
 Date: November 12, 2015
-Tags: twitter,twitterbot,active,cards,aphorisms,open source,opensource,node.js,nodejs,node,sambreed
+Tags: twitter,bot,twitterbot,active,cards,aphorisms,open source,opensource,node.js,nodejs,node,sambreed
 Nav: hidden
 Robots: index,follow
 */

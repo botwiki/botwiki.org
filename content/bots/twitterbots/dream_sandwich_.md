@@ -1,11 +1,11 @@
 /*
 Title: @dream_sandwich_
 Description: If I could have any sandwich.
-Thumbnail: /content/bots/twitterbots/images/dream_sandwich_.png
+Thumbnail: /content/bots/bot,twitterbots/images/dream_sandwich_.png
 Link: http://twitter.com/dream_sandwich_
 Author: botsheeter.py
 Date: November 12, 2015
-Tags: twitter,twitterbot,active,cheapbotsdonequick,food,jamminly
+Tags: twitter,bot,twitterbot,active,cheapbotsdonequick,food,jamminly
 Nav: hidden
 Robots: index,follow
 */

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/tumblr-bots/images/ThatForestBot.png
 Link: http://thatforestbot.tumblr.com/
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: tumblr,tumblrbot,active,art,nature,forest,image,photography,inspiring,inspiration,tinyworlds
+Tags: tumblr,bot,tumblrbot,active,art,nature,forest,image,photography,inspiring,inspiration,tinyworlds
 Nav: hidden
 Robots: index,follow
 */

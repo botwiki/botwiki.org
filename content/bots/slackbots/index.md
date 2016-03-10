@@ -22,8 +22,8 @@ Some example bots include:
 - [Oskar](/bots/slackbots/Oskar) -- tracks how happy people are at work and helps remote teams to prevent isolation
 - [shoulda-coulda](/bots/slackbots/shoulda-coulda) -- tracks how many times the word "should" is used
 
-Browse [more Slack bots](/tag/slackbot), learn how to make them with [tutorials](/tutorials/slackbots) and other botmakers at [botmakers.org](https://botmakers.org/).
+Browse [more Slack bots](/tag/bot,slackbot), learn how to make them with [tutorials](/tutorials/slackbots) and other botmakers at [botmakers.org](https://botmakers.org/).
 
-For even more bots check out [slackstack.io](http://slackstack.io/resources/slackbots/) and [slackbotlist.com](http://www.slackbotlist.com/). There is also a community of Slack developers at [dev4slack.xoxco.com](http://dev4slack.xoxco.com/).
+For even more bots check out [slackstack.io](http://slackstack.io/resources/slackbots/) and [bot,slackbotlist.com](http://www.bot,slackbotlist.com/). There is also a community of Slack developers at [dev4slack.xoxco.com](http://dev4slack.xoxco.com/).
 
 [Return to the **Bots** page](/bots)

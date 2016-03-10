@@ -5,7 +5,7 @@ Thumbnail: /content/bots/youtube-bots/images/Treasure_Column.png
 Link: https://www.youtube.com/channel/UCKNW6jeGUfPUg_UsyAsTaPA
 Author: Stefan Bohacek
 Date: October 1, 2015
-Tags: youtube,youtubebot,active,video,eerie,music,sound,webcam,opensource,open source,python,derekarnold
+Tags: youtube,bot,youtubebot,active,video,eerie,music,sound,webcam,opensource,open source,python,derekarnold
 
 Nav: hidden
 Robots: index,follow

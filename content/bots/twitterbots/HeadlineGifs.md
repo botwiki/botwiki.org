@@ -1,11 +1,11 @@
 /*
 Title: @HeadlineGifs
 Description: Random news headlines with (mostly) appropriate GIF reactions.
-Thumbnail: /content/bots/twitterbots/images/HeadlineGifs.png
+Thumbnail: /content/bots/bot,twitterbots/images/HeadlineGifs.png
 Link: https://twitter.com/HeadlineGifs
 Author: Stefan Bohacek
 Date: September 26, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,images,gif,news,Ryan_J_Smith
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,images,gif,news,Ryan_J_Smith
 
 Nav: hidden
 Robots: index,follow

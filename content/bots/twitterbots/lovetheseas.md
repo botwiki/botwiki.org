@@ -1,11 +1,11 @@
 /*
 Title: @lovetheseas
 Description: Save the seas.
-Thumbnail: /content/bots/twitterbots/images/lovetheseas.png
+Thumbnail: /content/bots/bot,twitterbots/images/lovetheseas.png
 Link: http://twitter.com/lovetheseas
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,cheapbotsdonequick,emoji,inspirational,earth,love,care,swayandsea
+Tags: twitter,bot,twitterbot,active,cheapbotsdonequick,emoji,inspirational,earth,love,care,swayandsea
 Nav: hidden
 Robots: index,follow
 */

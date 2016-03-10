@@ -1,11 +1,11 @@
 /*
 Title: @SatelliteEurope
 Description: Infrared images of Europe from the Sat24 satellite.
-Thumbnail: /content/bots/twitterbots/images/SatelliteEurope.png
+Thumbnail: /content/bots/bot,twitterbots/images/SatelliteEurope.png
 Link: http://twitter.com/SatelliteEurope
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,images,weather,satellite,europe,maps,boeeerb
+Tags: twitter,bot,twitterbot,active,images,weather,satellite,europe,maps,boeeerb
 Nav: hidden
 Robots: index,follow
 */

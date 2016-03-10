@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/wowwwbeautiful.png
 Link: http://twitter.com/wowwwbeautiful
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,interactive,selfies,autoreply,images,detection,swayandsea
+Tags: twitter,bot,twitterbot,active,interactive,selfies,autoreply,images,detection,swayandsea
 Nav: hidden
 Robots: index,follow
 */

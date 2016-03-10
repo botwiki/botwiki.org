@@ -1,11 +1,11 @@
 /*
 Title: @nmstereo
 Description: "Get yer hits out!"
-Thumbnail: /content/bots/twitterbots/images/nmstereo.png
+Thumbnail: /content/bots/bot,twitterbots/images/nmstereo.png
 Link: http://twitter.com/nmstereo
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitter,twitterbot,inactive,opensource,open source,python,NixonMcInnes,iot,raspberry pi
+Tags: twitter,bot,twitterbot,inactive,opensource,open source,python,NixonMcInnes,iot,raspberry pi
 
 Nav: hidden
 Robots: index,follow

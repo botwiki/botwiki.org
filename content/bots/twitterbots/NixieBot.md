@@ -1,11 +1,11 @@
 /*
 Title: @NixieBot
 Description: Movies of neon words can be summoned via hashtag.
-Thumbnail: /content/bots/twitterbots/images/NixieBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/NixieBot.png
 Link: https://twitter.com/NixieBot
 Author: botsheeter.py
 Date: February 18, 2016
-Tags: twitter,twitterbot,active,interactive,iot,nixie,neon,hv,retro,vintage,gif,movie,images,words,raspberry pi,open source,opensource,python,zedsquared
+Tags: twitter,bot,twitterbot,active,interactive,iot,nixie,neon,hv,retro,vintage,gif,movie,images,words,raspberry pi,open source,opensource,python,zedsquared
 Nav: hidden
 Robots: index,follow
 */

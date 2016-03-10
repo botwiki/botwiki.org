@@ -1,11 +1,11 @@
 /*
 Title: @SortingBot
 Description: "I'm the Sorting Hat and I'm here to say / I love sorting students in a major way."
-Thumbnail: /content/bots/twitterbots/images/SortingBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/SortingBot.png
 Link: http://twitter.com/SortingBot
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,active,literature,film,film and tv,rhyme,rhyming,rita,opensource,open source,node.js,nodejs,node,tinysubversions
+Tags: twitter,bot,twitterbot,active,literature,film,film and tv,rhyme,rhyming,rita,opensource,open source,node.js,nodejs,node,tinysubversions
 
 Nav: hidden
 Robots: index,follow

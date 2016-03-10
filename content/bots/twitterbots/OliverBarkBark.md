@@ -1,11 +1,11 @@
 /*
 Title: @OliverBarkBark
 Description: Bark!
-Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
+Thumbnail: /content/bots/bot,twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
 Author: Stefan Bohacek
 Date: September 15, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,iot,raspberry pi
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,iot,raspberry pi
 Translations: es
 Nav: hidden
 Robots: index,follow

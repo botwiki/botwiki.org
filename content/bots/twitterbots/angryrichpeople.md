@@ -1,11 +1,11 @@
 /*
 Title: @angryrichpeople
 Description: One star reviews by rich people who paid a lot of money and are angry about it. 
-Thumbnail: /content/bots/twitterbots/images/angryrichpeople.png
+Thumbnail: /content/bots/bot,twitterbots/images/angryrichpeople.png
 Link: https://twitter.com/angryrichpeople
 Author: botsheeter.py
 Date: October 21, 2015
-Tags: twitter,twitterbot,active,yelp,disappointed,open source,opensource,python,spine_cone
+Tags: twitter,bot,twitterbot,active,yelp,disappointed,open source,opensource,python,spine_cone
 Nav: hidden
 Robots: index,follow
 */

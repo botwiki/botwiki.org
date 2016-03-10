@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/slack-poker-bot.png
 Link: https://github.com/CharlieHess/slack-poker-bot
 Author: Stefan Bohacek
 Date: September 1, 2015
-Tags: slack,slackbot,opensource,open source,interactive,node.js,nodejs,node,game,Charlie_Hess
+Tags: slack,bot,slackbot,opensource,open source,interactive,node.js,nodejs,node,game,Charlie_Hess
 
 Nav: hidden
 Robots: index,follow

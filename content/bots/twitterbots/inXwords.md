@@ -1,11 +1,11 @@
 /*
 Title: @inXwords
-Description: #twitterBotInXwords
-Thumbnail: /content/bots/twitterbots/images/inXwords.png
+Description: #bot,twitterbotInXwords
+Thumbnail: /content/bots/bot,twitterbots/images/inXwords.png
 Link: http://twitter.com/inXwords
 Author: Stefan Bohacek
 Date: September 21, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,trending,language,literature,hugovk
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,trending,language,literature,hugovk
 
 Nav: hidden
 Robots: index,follow

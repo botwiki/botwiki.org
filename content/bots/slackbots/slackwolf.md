@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/slackwolf.png
 Link: https://github.com/stattleship/slackwolf
 Author: Stefan Bohacek
 Date: January 22, 2016
-Tags: slack,slackbot,opensource,open source,game,interactive,node.js,nodejs,node
+Tags: slack,bot,slackbot,opensource,open source,game,interactive,node.js,nodejs,node
 
 Nav: hidden
 Robots: index,follow

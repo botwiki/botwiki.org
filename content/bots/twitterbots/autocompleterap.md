@@ -1,11 +1,11 @@
 /*
 Title: @autocompleterap
 Description: Autocomplete Rap
-Thumbnail: /content/bots/twitterbots/images/autocompleterap.png
+Thumbnail: /content/bots/bot,twitterbots/images/autocompleterap.png
 Link: https://twitter.com/autocompleterap
 Author: Stefan Bohacek
 Date: September 21, 2015
-Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,language,rap,deathmtn
+Tags: twitter,bot,twitterbot,active,opensource,open source,node.js,nodejs,node,language,rap,deathmtn
 
 Nav: hidden
 Robots: index,follow

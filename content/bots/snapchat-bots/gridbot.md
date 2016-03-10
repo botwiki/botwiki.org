@@ -4,7 +4,7 @@ Description: Colorful grids, once a day!
 Thumbnail: /content/bots/snapchat-bots/images/gridbot.png
 Author: Stefan Bohacek
 Date: October 10, 2015
-Tags: snapchat,snapchatbot,inactive,images,gridbot,tinysubversions
+Tags: snapchat,bot,snapchatbot,inactive,images,gridbot,tinysubversions
 
 Nav: hidden
 Robots: index,follow

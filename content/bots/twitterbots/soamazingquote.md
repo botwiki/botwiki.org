@@ -1,11 +1,11 @@
 /*
 Title: @soamazingquote
 Description: Inspiring quotations, misattributed.
-Thumbnail: /content/bots/twitterbots/images/soamazingquote.png
+Thumbnail: /content/bots/bot,twitterbots/images/soamazingquote.png
 Link: https://twitter.com/soamazingquote
 Author: botsheeter.py
 Date: February 18, 2016
-Tags: twitter,twitterbot,active,lizadaly,quotes,pedantry,inspiring,open source,opensource,python,liza
+Tags: twitter,bot,twitterbot,active,lizadaly,quotes,pedantry,inspiring,open source,opensource,python,liza
 Nav: hidden
 Robots: index,follow
 */

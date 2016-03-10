@@ -1,11 +1,11 @@
 /*
 Title: @intensificator
 Description: [ECHOING INTENSIFIES]
-Thumbnail: /content/bots/twitterbots/images/intensificator.png
+Thumbnail: /content/bots/bot,twitterbots/images/intensificator.png
 Link: http://twitter.com/intensificator
 Author: botsheeter.py
 Date: October 19, 2015
-Tags: twitter,twitterbot,active,intense,random,boodooperson
+Tags: twitter,bot,twitterbot,active,intense,random,boodooperson
 Nav: hidden
 Robots: index,follow
 */

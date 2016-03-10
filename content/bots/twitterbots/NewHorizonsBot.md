@@ -1,11 +1,11 @@
 /*
 Title: @NewHorizonsBot
 Description: The latest data from the New Horizons spacecraft.
-Thumbnail: /content/bots/twitterbots/images/NewHorizonsBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/NewHorizonsBot.png
 Link: http://twitter.com/NewHorizonsBot
 Author: Stefan Bohacek
 Date: October 6, 2015
-Tags: twitter,twitterbot,active,open source,opensource,python,images,space,GeertHub
+Tags: twitter,bot,twitterbot,active,open source,opensource,python,images,space,GeertHub
 
 Nav: hidden
 Robots: index,follow

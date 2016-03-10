@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/slack-connect-4-bot.png
 Link: https://github.com/wgpsutherland/slack-connect-4-bot
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: slack,slackbot,active,interactive,game,open source,opensource,node.js,nodejs,node,wgpsutherland
+Tags: slack,bot,slackbot,active,interactive,game,open source,opensource,node.js,nodejs,node,wgpsutherland
 Nav: hidden
 Robots: index,follow
 */

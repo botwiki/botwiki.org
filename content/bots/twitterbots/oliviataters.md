@@ -1,11 +1,11 @@
 /*
 Title: @oliviataters
 Description: "May not always communicate in complete sentences."
-Thumbnail: /content/bots/twitterbots/images/oliviataters.png
+Thumbnail: /content/bots/bot,twitterbots/images/oliviataters.png
 Link: http://twitter.com/oliviataters
 Author: Stefan Bohacek
 Date: September 6, 2015
-Tags: twitter,twitterbot,active,markov chain,robdubbin
+Tags: twitter,bot,twitterbot,active,markov chain,robdubbin
 
 Nav: hidden
 Robots: index,follow

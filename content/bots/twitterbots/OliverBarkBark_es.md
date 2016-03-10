@@ -1,12 +1,12 @@
 /*
 Title: @OliverBarkBark (es)
 Description: ¡Guau!
-Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
+Thumbnail: /content/bots/bot,twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
 Author: hectorpalmatellez
 Language: es
 Date: 31 de Enero, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,iot,raspberry pi
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,iot,raspberry pi
 
 Nav: hidden
 Robots: index,follow

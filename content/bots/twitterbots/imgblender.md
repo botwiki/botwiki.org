@@ -1,11 +1,11 @@
 /*
 Title: @imgblender
 Description: Send me 2 images & I'll blend them.
-Thumbnail: /content/bots/twitterbots/images/imgblender.png
+Thumbnail: /content/bots/bot,twitterbots/images/imgblender.png
 Link: https://twitter.com/imgblender
 Author: botsheeter.py
 Date: November 10, 2015
-Tags: twitter,twitterbot,active,interactive,images,ronallo
+Tags: twitter,bot,twitterbot,active,interactive,images,ronallo
 Nav: hidden
 Robots: index,follow
 */

@@ -6,7 +6,7 @@ Link: https://github.com/josheverett/slack-tableflip
 Installed: yes
 Author: botsheeter.py
 Date: November 12, 2015
-Tags: slack,slackbot,active,interactive,tableflip,rage,open source,opensource,node.js,nodejs,node,josheverett
+Tags: slack,bot,slackbot,active,interactive,tableflip,rage,open source,opensource,node.js,nodejs,node,josheverett
 Nav: hidden
 Robots: index,follow
 */

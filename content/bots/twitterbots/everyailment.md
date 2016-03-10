@@ -1,11 +1,11 @@
 /*
 Title: @everyailment
 Description: Tweeting every code in the ICD-10-CM.
-Thumbnail: /content/bots/twitterbots/images/everyailment.png
+Thumbnail: /content/bots/bot,twitterbots/images/everyailment.png
 Link: https://twitter.com/everyailment
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,health,medicine,medical,diseases,everyword,open source,opensource,python,ddbeck
+Tags: twitter,bot,twitterbot,active,health,medicine,medical,diseases,everyword,open source,opensource,python,ddbeck
 Nav: hidden
 Robots: index,follow
 */

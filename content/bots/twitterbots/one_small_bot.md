@@ -1,11 +1,11 @@
 /*
 Title: @one_small_bot
 Description: One small step for random words from the dictionary, one giant leap for random words from the dictionary-kind.
-Thumbnail: /content/bots/twitterbots/images/one_small_bot.png
+Thumbnail: /content/bots/bot,twitterbots/images/one_small_bot.png
 Link: http://twitter.com/one_small_bot
 Author: botsheeter.py
 Date: January 12, 2016
-Tags: twitter,twitterbot,active,space,monthlybotchallenge,python,heroku,deer_ful,open source,opensource,python
+Tags: twitter,bot,twitterbot,active,space,monthlybotchallenge,python,heroku,deer_ful,open source,opensource,python
 Nav: hidden
 Robots: index,follow
 */

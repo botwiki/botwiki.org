@@ -1,11 +1,11 @@
 /*
 Title: @TheRiddlerBot
 Description: Solve the riddle!
-Thumbnail: /content/bots/twitterbots/images/TheRiddlerBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/TheRiddlerBot.png
 Link: http://twitter.com/TheRiddlerBot
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitter,twitterbot,active,interactive,game,verhoevenben,1vangro,fvancesco,pedrojmmartins
+Tags: twitter,bot,twitterbot,active,interactive,game,verhoevenben,1vangro,fvancesco,pedrojmmartins
 
 Nav: hidden
 Robots: index,follow

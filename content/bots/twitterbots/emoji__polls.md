@@ -1,11 +1,11 @@
 /*
 Title: @emoji__polls
 Description: Hourly emoji polls.
-Thumbnail: /content/bots/twitterbots/images/emoji__polls.png
+Thumbnail: /content/bots/bot,twitterbots/images/emoji__polls.png
 Link: https://twitter.com/emoji__polls
 Author: botsheeter.py
 Date: February 07, 2016
-Tags: twitter,twitterbot,active,emoji,poll,fourtonfish
+Tags: twitter,bot,twitterbot,active,emoji,poll,fourtonfish
 Nav: hidden
 Robots: index,follow
 */

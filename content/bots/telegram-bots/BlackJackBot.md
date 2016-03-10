@@ -5,7 +5,7 @@ Thumbnail: /content/bots/telegram-bots/images/BlackJackBot.png
 Link: https://telegram.me/BlackJackBot
 Author: botsheeter.py
 Date: January 27, 2016
-Tags: active,interactive,telegram,telegrambot,blackjack,game,cards,multilanguage,multiplayer,d_rickyy_b
+Tags: active,interactive,telegram,bot,telegrambot,blackjack,game,cards,multilanguage,multiplayer,d_rickyy_b
 Nav: hidden
 Robots: index,follow
 */

@@ -1,12 +1,12 @@
 /*
 Title: @all_in_cards (es)
 Description: "Generación de cartas para un misterioso juego."
-Thumbnail: /content/bots/twitterbots/images/all_in_cards.png
+Thumbnail: /content/bots/bot,twitterbots/images/all_in_cards.png
 Link: https://twitter.com/all_in_cards
 Author: hectorpalmatellez
 Language: es
 Date: 2 de Noviembre, 2015
-Tags: twitter,twitterbot,active,images,ckolderup
+Tags: twitter,bot,twitterbot,active,images,ckolderup
 
 Nav: hidden
 Robots: index,follow

@@ -1,11 +1,11 @@
 /*
 Title: @botwikidotorg
 Description: The official Botwiki Twitter bot.
-Thumbnail: /content/bots/twitterbots/images/botwikidotorg.png
+Thumbnail: /content/bots/bot,twitterbots/images/botwikidotorg.png
 Link: http://twitter.com/botwikidotorg
 Author: Stefan Bohacek
 Date: August 1, 2015
-Tags: twitter,twitterbot,active,node,fourtonfish,opensource,open source,node.js,nodejs,node,retweet,white list
+Tags: twitter,bot,twitterbot,active,node,fourtonfish,opensource,open source,node.js,nodejs,node,retweet,white list
 
 Nav: hidden
 Robots: index,follow

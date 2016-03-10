@@ -1,11 +1,11 @@
 /*
 Title: @NoJSBot
 Description: No JavaScript.
-Thumbnail: /content/bots/twitterbots/images/NoJSBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/NoJSBot.png
 Link: http://twitter.com/NoJSBot
 Author: botsheeter.py
 Date: November 07, 2015
-Tags: twitter,twitterbot,active,interactive,javascript,webdevelopment,screenshot,website,hanabel
+Tags: twitter,bot,twitterbot,active,interactive,javascript,webdevelopment,screenshot,website,hanabel
 Nav: hidden
 Robots: index,follow
 */

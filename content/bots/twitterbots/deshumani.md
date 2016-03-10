@@ -1,11 +1,11 @@
 /*
 Title: @deshumani
 Description: Dehumanizing art, one tuit at a time.
-Thumbnail: /content/bots/twitterbots/images/deshumani.png
+Thumbnail: /content/bots/bot,twitterbots/images/deshumani.png
 Link: http://twitter.com/deshumani
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,literature,non-english,spanish,alexsaum
+Tags: twitter,bot,twitterbot,active,literature,non-english,spanish,alexsaum
 Nav: hidden
 Robots: index,follow
 */

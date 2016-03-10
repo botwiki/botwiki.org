@@ -1,11 +1,11 @@
 /*
 Title: @playlightsout
 Description: A twitter-based port of Lights Out.
-Thumbnail: /content/bots/twitterbots/images/playlightsout.png
+Thumbnail: /content/bots/bot,twitterbots/images/playlightsout.png
 Link: http://twitter.com/playlightsout
 Author: botsheeter.py
 Date: October 19, 2015
-Tags: twitter,twitterbot,active,interactive,game,_arp
+Tags: twitter,bot,twitterbot,active,interactive,game,_arp
 Nav: hidden
 Robots: index,follow
 */

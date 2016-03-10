@@ -1,11 +1,11 @@
 /*
 Title: @pata_amiga
 Description: A ajudar todos os amiguinhos a arranjar um telhado amigável.
-Thumbnail: /content/bots/twitterbots/images/pata_amiga.png
+Thumbnail: /content/bots/bot,twitterbots/images/pata_amiga.png
 Link: http://twitter.com/pata_amiga
 Author: Stefan Bohacek
 Date: October 8, 2015
-Tags: twitter,twitterbot,active,adopt,pets,portuguese,non-english,mauro_goncalo
+Tags: twitter,bot,twitterbot,active,adopt,pets,portuguese,non-english,mauro_goncalo
 
 Nav: hidden
 Robots: index,follow

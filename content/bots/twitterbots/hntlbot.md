@@ -1,11 +1,11 @@
 /*
 Title: @hntlbot
 Description: Hacker News comments link bot.
-Thumbnail: /content/bots/twitterbots/images/hntlbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/hntlbot.png
 Link: https://twitter.com/hntlbot
 Author: botsheeter.py
 Date: January 5, 2016
-Tags: twitter,twitterbot,active,open source,opensource,python,diamondbishop
+Tags: twitter,bot,twitterbot,active,open source,opensource,python,diamondbishop
 Nav: hidden
 Robots: index,follow
 */

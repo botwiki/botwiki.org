@@ -1,11 +1,11 @@
 /*
 Title: @alltheminutes
 Description: A Twitter clock.
-Thumbnail: /content/bots/twitterbots/images/alltheminutes.png
+Thumbnail: /content/bots/bot,twitterbots/images/alltheminutes.png
 Link: https://twitter.com/alltheminutes
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,time,retweet,studiomoniker
+Tags: twitter,bot,twitterbot,active,time,retweet,studiomoniker
 Nav: hidden
 Robots: index,follow
 */

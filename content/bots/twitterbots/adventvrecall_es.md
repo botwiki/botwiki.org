@@ -1,12 +1,12 @@
 /*
 Title: @adventvrecall (es)
 Description: "¿Dónde debería ir?"
-Thumbnail: /content/bots/twitterbots/images/adventvrecall.png
+Thumbnail: /content/bots/bot,twitterbots/images/adventvrecall.png
 Link: https://twitter.com/adventvrecall
 Author: hectorpalmatellez
 Language: es
 Date: 2 de Noviembre, 2015
-Tags: twitter,twitterbot,interactive,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
+Tags: twitter,bot,twitterbot,interactive,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
 
 Nav: hidden
 Robots: index,follow

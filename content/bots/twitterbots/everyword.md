@@ -1,11 +1,11 @@
 /*
 Title: @everyword
 Description: "Twittered every word in the English language."
-Thumbnail: /content/bots/twitterbots/images/everyword.png
+Thumbnail: /content/bots/bot,twitterbots/images/everyword.png
 Link: https://twitter.com/everyword
 Author: Stefan Bohacek
 Date: September 28, 2015
-Tags: twitter,twitterbot,inactive,language,everyword,aparrish
+Tags: twitter,bot,twitterbot,inactive,language,everyword,aparrish
 
 Nav: hidden
 Robots: index,follow

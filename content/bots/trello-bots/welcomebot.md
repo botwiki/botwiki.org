@@ -5,7 +5,7 @@ Thumbnail: /content/bots/trello-bots/images/welcomebot.png
 Link: https://trello.com/welcomebot
 Author: botsheeter.py
 Date: November 06, 2015
-Tags: trello,trellobot,active,useful,board,public,join,welcome,user,open source,opensource,node,nodejs,node.js,fiatjaf
+Tags: trello,bot,trellobot,active,useful,board,public,join,welcome,user,open source,opensource,node,nodejs,node.js,fiatjaf
 Nav: hidden
 Robots: index,follow
 */

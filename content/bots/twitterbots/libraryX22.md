@@ -1,11 +1,11 @@
 /*
 Title: @libraryX22
 Description: Only the best scholarly reference from all the multiverses.
-Thumbnail: /content/bots/twitterbots/images/libraryX22.png
+Thumbnail: /content/bots/bot,twitterbots/images/libraryX22.png
 Link: http://twitter.com/libraryX22
 Author: botsheeter.py
 Date: October 17, 2015
-Tags: twitter,twitterbot,random,scholarly,science,ragekit
+Tags: twitter,bot,twitterbot,random,scholarly,science,ragekit
 Nav: hidden
 Robots: index,follow
 */

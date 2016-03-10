@@ -1,11 +1,11 @@
 /*
 Title: @usinjuries
 Description: Tweeting descriptions of emergency room visits.
-Thumbnail: /content/bots/twitterbots/images/usinjuries.png
+Thumbnail: /content/bots/bot,twitterbots/images/usinjuries.png
 Link: https://twitter.com/usinjuries
 Author: botsheeter.py
 Date: February 03, 2016
-Tags: twitter,twitterbot,active,emergency,injury,doctor,health,unknown
+Tags: twitter,bot,twitterbot,active,emergency,injury,doctor,health,unknown
 Nav: hidden
 Robots: index,follow
 */

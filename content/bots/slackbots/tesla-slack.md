@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/tesla-slack.png
 Link: https://github.com/heikkipora/tesla-slack
 Author: Stefan Bohacek
 Date: September 18, 2015
-Tags: slack,slackbot,tesla,opensource,interactive,open source,node.js,nodejs,node,heikkipora
+Tags: slack,bot,slackbot,tesla,opensource,interactive,open source,node.js,nodejs,node,heikkipora
 
 Nav: hidden
 Robots: index,follow

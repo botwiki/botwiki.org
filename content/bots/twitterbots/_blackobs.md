@@ -1,11 +1,11 @@
 /*
 Title: @_blackobs
 Description: Broadcasting live from covert surveillance cameras, one midnight observation at a time.
-Thumbnail: /content/bots/twitterbots/images/_blackobs.png
+Thumbnail: /content/bots/bot,twitterbots/images/_blackobs.png
 Link: https://twitter.com/_blackobs
 Author: botsheeter.py
 Date: February 03, 2016
-Tags: twitter,twitterbot,active,images,cameras,iot,earlmobile
+Tags: twitter,bot,twitterbot,active,images,cameras,iot,earlmobile
 Nav: hidden
 Robots: index,follow
 */

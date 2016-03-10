@@ -1,11 +1,11 @@
 /*
 Title: @godtributes
-Description: TWITTERBOTS FOR THE TWITTERBOT GOD!
-Thumbnail: /content/bots/twitterbots/images/godtributes.png
+Description: bot,twitterbotS FOR THE bot,twitterbot GOD!
+Thumbnail: /content/bots/bot,twitterbots/images/godtributes.png
 Link: http://twitter.com/godtributes
 Author: Stefan Bohacek
 Date: September 20, 2015
-Tags: twitter,twitterbot,active,opensource,open source,node.js,nodejs,node,language,deathmtn
+Tags: twitter,bot,twitterbot,active,opensource,open source,node.js,nodejs,node,language,deathmtn
 
 Nav: hidden
 Robots: index,follow

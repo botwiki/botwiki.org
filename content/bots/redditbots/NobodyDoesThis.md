@@ -5,7 +5,7 @@ Thumbnail: /content/bots/redditbots/images/NobodyDoesThis.png
 Link: https://www.reddit.com/user/NobodyDoesThis
 Author: Stefan Bohacek
 Date: September 23, 2015
-Tags: reddit,redditbot,python,opensource,open source,karangoel
+Tags: reddit,bot,redditbot,python,opensource,open source,karangoel
 
 Nav: hidden
 Robots: index,follow

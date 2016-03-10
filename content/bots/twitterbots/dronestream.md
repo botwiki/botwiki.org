@@ -1,11 +1,11 @@
 /*
 Title: @dronestream
 Description: Every reported covert US drone strike.
-Thumbnail: /content/bots/twitterbots/images/dronestream.png
+Thumbnail: /content/bots/bot,twitterbots/images/dronestream.png
 Link: http://twitter.com/dronestream
 Author: botsheeter.py
 Date: November 15, 2015
-Tags: twitter,twitterbot,active,political,war,drones,joshbegley
+Tags: twitter,bot,twitterbot,active,political,war,drones,joshbegley
 Nav: hidden
 Robots: index,follow
 */

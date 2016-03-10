@@ -1,11 +1,11 @@
 /*
 Title: @Lowpolybot
 Description: Low polygon pictures from any image.
-Thumbnail: /content/bots/twitterbots/images/Lowpolybot.png
+Thumbnail: /content/bots/bot,twitterbots/images/Lowpolybot.png
 Link: http://twitter.com/Lowpolybot
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitter,twitterbot,active,images,quasimondo
+Tags: twitter,bot,twitterbot,active,images,quasimondo
 
 Nav: hidden
 Robots: index,follow

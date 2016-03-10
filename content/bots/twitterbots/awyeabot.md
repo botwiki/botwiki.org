@@ -1,11 +1,11 @@
 /*
 Title: @awyeabot
 Description: Aw yea gonna do things! So many things! 
-Thumbnail: /content/bots/twitterbots/images/awyeabot.png
+Thumbnail: /content/bots/bot,twitterbots/images/awyeabot.png
 Link: https://twitter.com/awyeabot
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: twitter,twitterbot,active,interactive,exuberance,wordnik,google,ngrams,open source,opensource,node.js,nodejs,deathmtn
+Tags: twitter,bot,twitterbot,active,interactive,exuberance,wordnik,google,ngrams,open source,opensource,node.js,nodejs,deathmtn
 Nav: hidden
 Robots: index,follow
 */

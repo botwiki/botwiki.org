@@ -1,11 +1,11 @@
 /*
 Title: @adventvrecall
 Description: "Where should I go?"
-Thumbnail: /content/bots/twitterbots/images/adventvrecall.png
+Thumbnail: /content/bots/bot,twitterbots/images/adventvrecall.png
 Link: https://twitter.com/adventvrecall
 Author: Stefan Bohacek
 Date: October 2, 2015
-Tags: twitter,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
+Tags: twitter,bot,twitterbot,inactive,game,choose,adventure,aliceffekt,noirmirroir,neauoire
 Translations: es
 Nav: hidden
 Robots: index,follow

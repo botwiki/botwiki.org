@@ -1,11 +1,11 @@
 /*
 Title: @dungeon_junk
 Description: Useless junk from a dungeon.
-Thumbnail: /content/bots/twitterbots/images/dungeon_junk.png
+Thumbnail: /content/bots/bot,twitterbots/images/dungeon_junk.png
 Link: http://twitter.com/dungeon_junk
 Author: botsheeter.py
 Date: October 24, 2015
-Tags: twitter,twitterbot,active,dnd,fantasy,dungeon,tracery,cheapbotsdonequick,notinventedhere
+Tags: twitter,bot,twitterbot,active,dnd,fantasy,dungeon,tracery,cheapbotsdonequick,notinventedhere
 Nav: hidden
 Robots: index,follow
 */

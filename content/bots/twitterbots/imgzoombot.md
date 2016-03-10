@@ -1,11 +1,11 @@
 /*
 Title: @imgzoombot
 Description: Send me an image and I will zoom in on a section.
-Thumbnail: /content/bots/twitterbots/images/imgzoombot.png
+Thumbnail: /content/bots/bot,twitterbots/images/imgzoombot.png
 Link: http://twitter.com/imgzoombot
 Author: botsheeter.py
 Date: November 10, 2015
-Tags: twitter,twitterbot,active,interactive,images,ronallo
+Tags: twitter,bot,twitterbot,active,interactive,images,ronallo
 Nav: hidden
 Robots: index,follow
 */

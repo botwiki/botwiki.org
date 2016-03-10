@@ -1,11 +1,11 @@
 /*
 Title: @pleading_bot
 Description: These bots ain't free!
-Thumbnail: /content/bots/twitterbots/images/pleading_bot.png
+Thumbnail: /content/bots/bot,twitterbots/images/pleading_bot.png
 Link: http://twitter.com/pleading_bot
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: twitter,twitterbot,active,political,donations,lingering_llama
+Tags: twitter,bot,twitterbot,active,political,donations,lingering_llama
 Nav: hidden
 Robots: index,follow
 */

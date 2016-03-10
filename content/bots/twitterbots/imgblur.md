@@ -1,11 +1,11 @@
 /*
 Title: @imgblur
 Description: Send me images to blur/pixelate.
-Thumbnail: /content/bots/twitterbots/images/imgblur.png
+Thumbnail: /content/bots/bot,twitterbots/images/imgblur.png
 Link: https://twitter.com/imgblur
 Author: botsheeter.py
 Date: November 10, 2015
-Tags: twitter,twitterbot,active,interactive,images,effects,ronallo
+Tags: twitter,bot,twitterbot,active,interactive,images,effects,ronallo
 Nav: hidden
 Robots: index,follow
 */

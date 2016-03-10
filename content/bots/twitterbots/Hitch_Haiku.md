@@ -1,11 +1,11 @@
 /*
 Title: @Hitch_Haiku
 Description: Douglas Adams Hitchhiker's Trilogy, in Haiku.
-Thumbnail: /content/bots/twitterbots/images/Hitch_Haiku.png
+Thumbnail: /content/bots/bot,twitterbots/images/Hitch_Haiku.png
 Link: https://twitter.com/Hitch_Haiku
 Author: Jeremy Tanner
 Date: January 1, 2016
-Tags: twitter,twitterbot,active,douglas adams,poetry,haiku,penguin,prosaic
+Tags: twitter,bot,twitterbot,active,douglas adams,poetry,haiku,penguin,prosaic
 
 Nav: hidden
 Robots: index,follow

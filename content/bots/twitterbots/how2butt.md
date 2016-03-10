@@ -1,11 +1,11 @@
 /*
 Title: @how2butt
 Description: Learning how to butt from wikiHow.
-Thumbnail: /content/bots/twitterbots/images/how2butt.png
+Thumbnail: /content/bots/bot,twitterbots/images/how2butt.png
 Link: https://twitter.com/how2butt
 Author: botsheeter.py
 Date: October 21, 2015
-Tags: twitter,twitterbot,active,wikihow,butts,instructions,open source,opensource,ruby,spine_cone
+Tags: twitter,bot,twitterbot,active,wikihow,butts,instructions,open source,opensource,ruby,spine_cone
 Nav: hidden
 Robots: index,follow
 */

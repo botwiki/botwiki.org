@@ -1,11 +1,11 @@
 /*
 Title: @BotReadsComics
 Description: BOT READS COMICS
-Thumbnail: /content/bots/twitterbots/images/BotReadsComics.png
+Thumbnail: /content/bots/bot,twitterbots/images/BotReadsComics.png
 Link: http://twitter.com/BotReadsComics
 Author: botsheeter.py
 Date: October 28, 2015
-Tags: twitter,twitterbot,active,images,comics,recognition,mewo2
+Tags: twitter,bot,twitterbot,active,images,comics,recognition,mewo2
 Nav: hidden
 Robots: index,follow
 */

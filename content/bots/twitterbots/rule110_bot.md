@@ -1,11 +1,11 @@
 /*
 Title: @rule110_bot
 Description: Rule 110.
-Thumbnail: /content/bots/twitterbots/images/rule110_bot.png
+Thumbnail: /content/bots/bot,twitterbots/images/rule110_bot.png
 Link: http://twitter.com/rule110_bot
 Author: botsheeter.py
 Date: October 15, 2015
-Tags: twitter,twitterbot,ruby,math,art,rule110,turing,tahnok
+Tags: twitter,bot,twitterbot,ruby,math,art,rule110,turing,tahnok
 Nav: hidden
 Robots: index,follow
 */

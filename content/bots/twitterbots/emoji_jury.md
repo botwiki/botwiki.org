@@ -1,11 +1,11 @@
 /*
 Title: @emoji_jury
 Description: Assuming you are an emoji, this is a jury of your peers!
-Thumbnail: /content/bots/twitterbots/images/emoji_jury.png
+Thumbnail: /content/bots/bot,twitterbots/images/emoji_jury.png
 Link: https://twitter.com/emoji_jury
 Author: botsheeter.py
 Date: February 28, 2016
-Tags: twitter,twitterbot,active,interactive,monthlybotchallenge,emoji,open source,opensource,node.js,nodejs,node,deathmtn
+Tags: twitter,bot,twitterbot,active,interactive,monthlybotchallenge,emoji,open source,opensource,node.js,nodejs,node,deathmtn
 Nav: hidden
 Robots: index,follow
 */

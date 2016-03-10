@@ -1,11 +1,11 @@
 /*
 Title: @gov2dotOH
 Description: "It's basically a social network for welfare."
-Thumbnail: /content/bots/twitterbots/images/gov2dotOH.png
+Thumbnail: /content/bots/bot,twitterbots/images/gov2dotOH.png
 Link: http://twitter.com/gov2dotOH
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,political,government,hugovk,ftrain
+Tags: twitter,bot,twitterbot,active,political,government,hugovk,ftrain
 Nav: hidden
 Robots: index,follow
 */

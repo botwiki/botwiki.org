@@ -1,11 +1,11 @@
 /*
 Title: @spinnymachine
 Description: A bot that simulates a series of mechanical linkages to draw a curve.
-Thumbnail: /content/bots/twitterbots/images/spinnymachine.png
+Thumbnail: /content/bots/bot,twitterbots/images/spinnymachine.png
 Link: http://twitter.com/spinnymachine
 Author: botsheeter.py
 Date: October 28, 2015
-Tags: twitter,twitterbot,active,images,gif,tinysubversions
+Tags: twitter,bot,twitterbot,active,images,gif,tinysubversions
 Nav: hidden
 Robots: index,follow
 */

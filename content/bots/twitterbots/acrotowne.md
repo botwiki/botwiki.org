@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/acrotowne.png
 Link: https://twitter.com/acrotowne
 Author: Stefan Bohacek
 Date: October 2, 2015
-Tags: twitter,twitterbot,active,interactive,game,zhaytee
+Tags: twitter,bot,twitterbot,active,interactive,game,zhaytee
 Translations: es
 Nav: hidden
 Robots: index,follow

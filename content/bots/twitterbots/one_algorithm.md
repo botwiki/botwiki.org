@@ -1,11 +1,11 @@
 /*
 Title: @one_algorithm
 Description: Just a concise algorithm.
-Thumbnail: /content/bots/twitterbots/images/one_algorithm.png
+Thumbnail: /content/bots/bot,twitterbots/images/one_algorithm.png
 Link: http://twitter.com/one_algorithm
 Author: botsheeter.py
 Date: October 25, 2015
-Tags: twitter,twitterbot,active,memoir,nickmofo
+Tags: twitter,bot,twitterbot,active,memoir,nickmofo
 Nav: hidden
 Robots: index,follow
 */

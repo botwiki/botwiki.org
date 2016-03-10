@@ -1,11 +1,11 @@
 /*
 Title: @plaidbot
 Description: Send me an image and I'll use it to create a unique plaid.
-Thumbnail: /content/bots/twitterbots/images/plaidbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/plaidbot.png
 Link: http://twitter.com/plaidbot
 Author: botsheeter.py
 Date: November 10, 2015
-Tags: twitter,twitterbot,active,interactive,images,ronallo
+Tags: twitter,bot,twitterbot,active,interactive,images,ronallo
 Nav: hidden
 Robots: index,follow
 */

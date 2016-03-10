@@ -1,11 +1,11 @@
 /*
 Title: @roulettron
 Description: A game of chance.
-Thumbnail: /content/bots/twitterbots/images/roulettron.png
+Thumbnail: /content/bots/bot,twitterbots/images/roulettron.png
 Link: https://twitter.com/roulettron
 Author: botsheeter.py
 Date: February 18, 2016
-Tags: twitter,twitterbot,active,interactive,game,guns,czircon
+Tags: twitter,bot,twitterbot,active,interactive,game,guns,czircon
 Nav: hidden
 Robots: index,follow
 */

@@ -1,11 +1,11 @@
 /*
 Title: @eveywilliwaw
 Description: Tweeting words consisting only of straight lines.
-Thumbnail: /content/bots/twitterbots/images/eveywilliwaw.png
+Thumbnail: /content/bots/bot,twitterbots/images/eveywilliwaw.png
 Link: https://twitter.com/eveywilliwaw
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,inactive,everyword,inky
+Tags: twitter,bot,twitterbot,inactive,everyword,inky
 Nav: hidden
 Robots: index,follow
 */

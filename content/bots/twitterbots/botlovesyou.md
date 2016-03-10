@@ -1,11 +1,11 @@
 /*
 Title: @botlovesyou
 Description: A twitter bot that loves you and wants you to be happy.
-Thumbnail: /content/bots/twitterbots/images/botlovesyou.png
+Thumbnail: /content/bots/bot,twitterbots/images/botlovesyou.png
 Link: http://twitter.com/botlovesyou
 Author: botsheeter.py
 Date: January 22, 2016
-Tags: twitter,twitterbot,active,interactive,ruby,emoji,love,open source,opensource,ruby,deer_ful
+Tags: twitter,bot,twitterbot,active,interactive,ruby,emoji,love,open source,opensource,ruby,deer_ful
 Nav: hidden
 Robots: index,follow
 */

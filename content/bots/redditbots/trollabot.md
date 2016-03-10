@@ -5,7 +5,7 @@ Thumbnail: /content/bots/redditbots/images/trollabot.png
 Link: https://www.reddit.com/user/trollabot
 Author: Stefan Bohacek
 Date: September 23, 2015
-Tags: reddit,redditbot
+Tags: reddit,bot,redditbot
 
 Nav: hidden
 Robots: index,follow

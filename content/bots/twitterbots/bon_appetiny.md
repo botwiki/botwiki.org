@@ -1,11 +1,11 @@
 /*
 Title: @bon_appetiny
 Description: Tiny emoji dinners for two.
-Thumbnail: /content/bots/twitterbots/images/bon_appetiny.png
+Thumbnail: /content/bots/bot,twitterbots/images/bon_appetiny.png
 Link: https://twitter.com/bon_appetiny
 Author: botsheeter.py
 Date: January 12, 2016
-Tags: twitter,twitterbot,active,cheapbotsdonequick,tracery,emoji,food,opensource,open source,deer_ful
+Tags: twitter,bot,twitterbot,active,cheapbotsdonequick,tracery,emoji,food,opensource,open source,deer_ful
 Nav: hidden
 Robots: index,follow
 */

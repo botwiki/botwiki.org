@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/karmabot.png
 Link: https://github.com/Donohue/karmabot
 Author: botsheeter.py
 Date: November 12, 2015
-Tags: slack,slackbot,active,interactive,coffeescript,open source,opensource,javascript,donohue
+Tags: slack,bot,slackbot,active,interactive,coffeescript,open source,opensource,javascript,donohue
 Nav: hidden
 Robots: index,follow
 */

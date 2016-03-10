@@ -1,11 +1,11 @@
 /*
 Title: @storyofglitch
 Description: im @thricedotted's twittercat ok
-Thumbnail: /content/bots/twitterbots/images/storyofglitch.png
+Thumbnail: /content/bots/bot,twitterbots/images/storyofglitch.png
 Link: http://twitter.com/storyofglitch
 Author: botsheeter.py
 Date: October 19, 2015
-Tags: twitter,twitterbot,active,animal,cat,pet,interactive,thricedotted
+Tags: twitter,bot,twitterbot,active,animal,cat,pet,interactive,thricedotted
 Nav: hidden
 Robots: index,follow
 */

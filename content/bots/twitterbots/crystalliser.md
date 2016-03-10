@@ -1,11 +1,11 @@
 /*
 Title: @crystalliser
 Description: Image "crystalliser".
-Thumbnail: /content/bots/twitterbots/images/crystalliser.png
+Thumbnail: /content/bots/bot,twitterbots/images/crystalliser.png
 Link: http://twitter.com/crystalliser
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitter,twitterbot,active,images,opensource,open source,python,dead_cells
+Tags: twitter,bot,twitterbot,active,images,opensource,open source,python,dead_cells
 
 Nav: hidden
 Robots: index,follow

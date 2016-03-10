@@ -6,7 +6,7 @@ Link: https://twitter.com/accidental575
 Author: hectorpalmatellez
 Language: es
 Date: 30 de Octubre, 2015
-Tags: twitter,twitterbot,active,retweet,haiku,poetry,eusonic
+Tags: twitter,bot,twitterbot,active,retweet,haiku,poetry,eusonic
 
 Nav: hidden
 Robots: index,follow

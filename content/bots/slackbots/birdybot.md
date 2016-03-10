@@ -5,7 +5,7 @@ XThumbnail: /content/bots/slackbots/images/birdybot.png
 Link: http://www.birdybot.com/
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: slack,slackbot,active,interactive,twitter,team,channel,follow,unfollow,jlavinh
+Tags: slack,bot,slackbot,active,interactive,twitter,team,channel,follow,unfollow,jlavinh
 Nav: hidden
 Robots: index,follow
 */

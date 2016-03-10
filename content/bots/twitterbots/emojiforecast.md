@@ -1,11 +1,11 @@
 /*
 Title: @emojiforecast
 Description: weather forecast told with emoji
-Thumbnail: /content/bots/twitterbots/images/emojiforecast.png
+Thumbnail: /content/bots/bot,twitterbots/images/emojiforecast.png
 Link: https://twitter.com/emojiforecast
 Author: botsheeter.py
 Date: February 28, 2016
-Tags: twitter,twitterbot,active,emoji,follow,weather,monthlybotchallenge,twerribletweets
+Tags: twitter,bot,twitterbot,active,emoji,follow,weather,monthlybotchallenge,twerribletweets
 Nav: hidden
 Robots: index,follow
 */

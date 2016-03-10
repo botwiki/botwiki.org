@@ -1,11 +1,11 @@
 /*
 Title: @onethingplease
 Description: I'll send you a thing if you ask me politely.
-Thumbnail: /content/bots/twitterbots/images/onethingplease.png
+Thumbnail: /content/bots/bot,twitterbots/images/onethingplease.png
 Link: http://twitter.com/onethingplease
 Author: botsheeter.py
 Date: October 24, 2015
-Tags: twitter,twitterbot,active,images,reply,interactive,vasilis
+Tags: twitter,bot,twitterbot,active,images,reply,interactive,vasilis
 Nav: hidden
 Robots: index,follow
 */

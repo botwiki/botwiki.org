@@ -4,7 +4,7 @@ Description: A Hype Machine video bot on Snapchat.
 Thumbnail: /content/bots/snapchat-bots/images/hypem.png
 Author: Stefan Bohacek
 Date: October 7, 2015
-Tags: snapchat,snapchatbot,active,video,music,hypemachine,hypem,fascinated
+Tags: snapchat,bot,snapchatbot,active,video,music,hypemachine,hypem,fascinated
 
 Nav: hidden
 Robots: index,follow

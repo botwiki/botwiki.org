@@ -1,11 +1,11 @@
 /*
 Title: @irememberbot
 Description: A tribute to Georges Perec's book 'Je me souviens'.
-Thumbnail: /content/bots/twitterbots/images/irememberbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/irememberbot.png
 Link: http://twitter.com/irememberbot
 Author: botsheeter.py
 Date: October 15, 2015
-Tags: twitterbot,twitter,perec,literature,dreams,memory,memories,book,books,javier
+Tags: bot,twitterbot,twitter,perec,literature,dreams,memory,memories,book,books,javier
 Nav: hidden
 Robots: index,follow
 */

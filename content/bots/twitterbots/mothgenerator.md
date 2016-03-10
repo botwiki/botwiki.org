@@ -1,11 +1,11 @@
 /*
 Title: @mothgenerator
 Description: lepidoptera automata
-Thumbnail: /content/bots/twitterbots/images/mothgenerator.png
+Thumbnail: /content/bots/bot,twitterbots/images/mothgenerator.png
 Link: http://twitter.com/mothgenerator
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitter,twitterbot,active,art,images,random,katierosepipkin,lorenschmidt
+Tags: twitter,bot,twitterbot,active,art,images,random,katierosepipkin,lorenschmidt
 
 Nav: hidden
 Robots: index,follow

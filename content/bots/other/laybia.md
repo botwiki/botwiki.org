@@ -4,7 +4,7 @@ Description: Laybia is an extension of Cortex, the true PMG AI.
 Link: http://www.mental-escher.net/AI/index.php
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: active,interactive,chatbot,chat,cyberpunk,ai,artificial intelligence,english,defwheezer
+Tags: active,interactive,bot,chatbot,chat,cyberpunk,ai,artificial intelligence,english,defwheezer
 Nav: hidden
 Robots: index,follow
 */

@@ -1,11 +1,11 @@
 /*
 Title: @aLonelyProject (es)
 Description: "Recopilación de tweets de soledad en Twitter."
-Thumbnail: /content/bots/twitterbots/images/aLonelyProject.png
+Thumbnail: /content/bots/bot,twitterbots/images/aLonelyProject.png
 Link: https://twitter.com/aLonelyProject
 Author: hectorpalmatellez
 Date: 2 de Noviembre, 2015
-Tags: twitter,twitterbot,active,phillylauren
+Tags: twitter,bot,twitterbot,active,phillylauren
 Language: es
 
 Nav: hidden

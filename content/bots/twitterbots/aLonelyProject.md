@@ -1,11 +1,11 @@
 /*
 Title: @aLonelyProject
 Description: The Lonely Project reaches out to people who feel lonely on Twitter.
-Thumbnail: /content/bots/twitterbots/images/aLonelyProject.png
+Thumbnail: /content/bots/bot,twitterbots/images/aLonelyProject.png
 Link: https://twitter.com/aLonelyProject
 Author: Stefan Bohacek
 Date: August 5, 2015
-Tags: twitter,twitterbot,active,phillylauren
+Tags: twitter,bot,twitterbot,active,phillylauren
 Translations: es
 
 Nav: hidden

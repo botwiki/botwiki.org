@@ -5,7 +5,7 @@ Thumbnail: /content/bots/tumblr-bots/images/hellospacebot.png
 Link: http://hellospacebot.tumblr.com/
 Author: botsheeter.py
 Date: December 21, 2015
-Tags: tumblr,tumblrbot,active,space,python,opus,cassini,new horizon,voyager,images,open source,opensource,python,streetwanderer
+Tags: tumblr,bot,tumblrbot,active,space,python,opus,cassini,new horizon,voyager,images,open source,opensource,python,streetwanderer
 Nav: hidden
 Robots: index,follow
 */

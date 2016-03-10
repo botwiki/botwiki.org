@@ -1,11 +1,11 @@
 /*
 Title: @all_in_cards
 Description: "Generating cards for a mysterious card game."
-Thumbnail: /content/bots/twitterbots/images/all_in_cards.png
+Thumbnail: /content/bots/bot,twitterbots/images/all_in_cards.png
 Link: https://twitter.com/all_in_cards
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitter,twitterbot,active,images,ckolderup
+Tags: twitter,bot,twitterbot,active,images,ckolderup
 Translations: es
 
 Nav: hidden

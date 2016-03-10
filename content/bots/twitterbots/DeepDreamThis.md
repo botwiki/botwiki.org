@@ -1,11 +1,11 @@
 /*
 Title: @DeepDreamThis
 Description: #deepdream
-Thumbnail: /content/bots/twitterbots/images/DeepDreamThis.png
+Thumbnail: /content/bots/bot,twitterbots/images/DeepDreamThis.png
 Link: http://twitter.com/DeepDreamThis
 Author: Stefan Bohacek
 Date: July 26, 2015
-Tags: twitter,twitterbot,active,images,deepdream
+Tags: twitter,bot,twitterbot,active,images,deepdream
 
 Nav: hidden
 Robots: index,follow

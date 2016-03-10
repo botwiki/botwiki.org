@@ -5,7 +5,7 @@ Thumbnail: /content/bots/kik-bots/images/buzzfeed.png
 Link: http://kik.me/buzzfeed
 Author: Stefan Bohacek
 Date: October 9, 2015
-Tags: kik,kikbot,active,news,trending,buzzfeed
+Tags: kik,bot,kikbot,active,news,trending,buzzfeed
 
 Nav: hidden
 Robots: index,follow

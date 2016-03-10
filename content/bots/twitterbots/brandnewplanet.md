@@ -1,11 +1,11 @@
 /*
 Title: @brandnewplanet
 Description: Useful tool for sci-fi writers to start planet design.
-Thumbnail: /content/bots/twitterbots/images/brandnewplanet.png
+Thumbnail: /content/bots/bot,twitterbots/images/brandnewplanet.png
 Link: http://twitter.com/brandnewplanet
 Author: botsheeter.py
 Date: October 20, 2015
-Tags: twitter,twitterbot,active,space,planet,generator,hologramvron
+Tags: twitter,bot,twitterbot,active,space,planet,generator,hologramvron
 Nav: hidden
 Robots: index,follow
 */

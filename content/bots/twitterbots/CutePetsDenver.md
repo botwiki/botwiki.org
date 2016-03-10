@@ -1,11 +1,11 @@
 /*
 Title: @CutePetsDenver
 Description: We are adorable & adoptable Denver Pets!
-Thumbnail: /content/bots/twitterbots/images/CutePetsDenver.png
+Thumbnail: /content/bots/bot,twitterbots/images/CutePetsDenver.png
 Link: http://twitter.com/CutePetsDenver
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,adopt,pets,denver,open source,opensource,ruby,dviramontes_,drewSaysGoVeg
+Tags: twitter,bot,twitterbot,active,adopt,pets,denver,open source,opensource,ruby,dviramontes_,drewSaysGoVeg
 Nav: hidden
 Robots: index,follow
 */

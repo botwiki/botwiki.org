@@ -5,7 +5,7 @@ Thumbnail: /content/bots/slackbots/images/slack-meme.png
 Link: https://github.com/nicolewhite/slack-meme/
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: slack,slackbot,active,interactive,meme,images,open source,opensource,python,_nicolemargaret
+Tags: slack,bot,slackbot,active,interactive,meme,images,open source,opensource,python,_nicolemargaret
 Nav: hidden
 Robots: index,follow
 */

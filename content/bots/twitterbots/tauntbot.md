@@ -1,11 +1,11 @@
 /*
 Title: @tauntbot
 Description: A really rude conversation bot.
-Thumbnail: /content/bots/twitterbots/images/tauntbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/tauntbot.png
 Link: http://twitter.com/tauntbot
 Author: botsheeter.py
 Date: November 15, 2015
-Tags: twitter,twitterbot,active,interactive,insulting,insult,conversation,english,grammar,political,breefy
+Tags: twitter,bot,twitterbot,active,interactive,insulting,insult,conversation,english,grammar,political,breefy
 Nav: hidden
 Robots: index,follow
 */

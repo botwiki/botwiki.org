@@ -1,11 +1,11 @@
 /*
 Title: @theroboreporter
 Description: Breaking the news by stalking human journalists on Twitter, since Jan 2015.
-Thumbnail: /content/bots/twitterbots/images/theroboreporter.png
+Thumbnail: /content/bots/bot,twitterbots/images/theroboreporter.png
 Link: http://twitter.com/theroboreporter
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,news,retweet,tomroyal
+Tags: twitter,bot,twitterbot,active,news,retweet,tomroyal
 Nav: hidden
 Robots: index,follow
 */

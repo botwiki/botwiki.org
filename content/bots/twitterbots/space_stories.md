@@ -1,11 +1,11 @@
 /*
 Title: @space_stories
 Description: Just some stories happening in space.
-Thumbnail: /content/bots/twitterbots/images/space_stories.png
+Thumbnail: /content/bots/bot,twitterbots/images/space_stories.png
 Link: http://twitter.com/space_stories
 Author: botsheeter.py
 Date: October 24, 2015
-Tags: twitter,twitterbot,active,space,scifi,future,story,fiction,tracery,cheapbotsdonequick,notinventedhere
+Tags: twitter,bot,twitterbot,active,space,scifi,future,story,fiction,tracery,cheapbotsdonequick,notinventedhere
 Nav: hidden
 Robots: index,follow
 */

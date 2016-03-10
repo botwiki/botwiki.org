@@ -1,11 +1,11 @@
 /*
 Title: @tokiale
 Description: toki ale pi toki pona.
-Thumbnail: /content/bots/twitterbots/images/tokiale.png
+Thumbnail: /content/bots/bot,twitterbots/images/tokiale.png
 Link: http://twitter.com/tokiale
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,inactive,everyword,non-english,language,toki,inky
+Tags: twitter,bot,twitterbot,inactive,everyword,non-english,language,toki,inky
 Nav: hidden
 Robots: index,follow
 */

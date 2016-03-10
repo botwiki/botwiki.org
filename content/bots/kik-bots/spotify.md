@@ -5,7 +5,7 @@ Thumbnail: /content/bots/kik-bots/images/spotify.png
 Link: http://kik.me/spotify
 Author: Stefan Bohacek
 Date: October 9, 2015
-Tags: kik,kikbot,active,music,spotify
+Tags: kik,bot,kikbot,active,music,spotify
 
 Nav: hidden
 Robots: index,follow

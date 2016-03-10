@@ -6,7 +6,7 @@ Link: https://memoji.mod.bz/
 Installed: yes
 Author: Stefan Bohacek
 Date: November 16, 2015
-Tags: slack,slackbot,active,interactive,game,emoji,ryan_stevens,puglr,oscrse,alexkaraman85
+Tags: slack,bot,slackbot,active,interactive,game,emoji,ryan_stevens,puglr,oscrse,alexkaraman85
 Nav: hidden
 Robots: index,follow
 */

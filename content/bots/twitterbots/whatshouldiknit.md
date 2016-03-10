@@ -1,11 +1,11 @@
 /*
 Title: @whatshouldiknit
 Description: What should I knit?
-Thumbnail: /content/bots/twitterbots/images/whatshouldiknit.png
+Thumbnail: /content/bots/bot,twitterbots/images/whatshouldiknit.png
 Link: https://twitter.com/whatshouldiknit
 Author: botsheeter.py
 Date: November 15, 2015
-Tags: twitter,twitterbot,active,knitting,hobby,cooppress
+Tags: twitter,bot,twitterbot,active,knitting,hobby,cooppress
 Nav: hidden
 Robots: index,follow
 */

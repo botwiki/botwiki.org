@@ -1,11 +1,11 @@
 /*
 Title: @minetweeter_
 Description: Play MineSweeper on Twitter.
-Thumbnail: /content/bots/twitterbots/images/minetweeter_.png
+Thumbnail: /content/bots/bot,twitterbots/images/minetweeter_.png
 Link: http://twitter.com/minetweeter_
 Author: Stefan Bohacek
 Date: August 4, 2015
-Tags: twitter,twitterbot,active,game,opensource,open source,node.js,nodejs,node,louroboros
+Tags: twitter,bot,twitterbot,active,game,opensource,open source,node.js,nodejs,node,louroboros
 
 Nav: hidden
 Robots: index,follow

@@ -1,11 +1,11 @@
 /*
 Title: @patricktwite
 Description: And stood tweeting.
-Thumbnail: /content/bots/twitterbots/images/patricktwite.png
+Thumbnail: /content/bots/bot,twitterbots/images/patricktwite.png
 Link: http://twitter.com/patricktwite
 Author: botsheeter.py
 Date: October 19, 2015
-Tags: twitter,twitterbot,active,patrick white,austlit,modernism,literature,markov chain,a_e_lang
+Tags: twitter,bot,twitterbot,active,patrick white,austlit,modernism,literature,markov chain,a_e_lang
 Nav: hidden
 Robots: index,follow
 */

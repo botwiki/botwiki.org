@@ -1,11 +1,11 @@
 /*
 Title: @thementrends
 Description: German Wikipedia trends
-Thumbnail: /content/bots/twitterbots/images/thementrends.png
+Thumbnail: /content/bots/bot,twitterbots/images/thementrends.png
 Link: http://twitter.com/thementrends
 Author: botsheeter.py
 Date: February 07, 2016
-Tags: twitter,twitterbot,active,non-english,wikipedia,trends,ryc_m
+Tags: twitter,bot,twitterbot,active,non-english,wikipedia,trends,ryc_m
 Nav: hidden
 Robots: index,follow
 */

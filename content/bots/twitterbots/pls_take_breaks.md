@@ -1,11 +1,11 @@
 /*
 Title: @pls_take_breaks
 Description: A bot to remind you to be kind to yourself.
-Thumbnail: /content/bots/twitterbots/images/pls_take_breaks.png
+Thumbnail: /content/bots/bot,twitterbots/images/pls_take_breaks.png
 Link: http://twitter.com/pls_take_breaks
 Author: Stefan Bohacek
 Date: October 12, 2015
-Tags: twitter,twitterbot,active,selfhelp,care,love,emoji,cheapbotsdonequick,swayandsea
+Tags: twitter,bot,twitterbot,active,selfhelp,care,love,emoji,cheapbotsdonequick,swayandsea
 
 Nav: hidden
 Robots: index,follow

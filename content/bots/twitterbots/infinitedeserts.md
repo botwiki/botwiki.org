@@ -1,11 +1,11 @@
 /*
 Title: @infinitedeserts
 Description: An infinity of deserts, each more infinite than the last.
-Thumbnail: /content/bots/twitterbots/images/infinitedeserts.png
+Thumbnail: /content/bots/bot,twitterbots/images/infinitedeserts.png
 Link: http://twitter.com/infinitedeserts
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,active,nature,ascii,cheapbotsdonequick,getdizzzy
+Tags: twitter,bot,twitterbot,active,nature,ascii,cheapbotsdonequick,getdizzzy
 
 Nav: hidden
 Robots: index,follow

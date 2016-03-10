@@ -1,11 +1,11 @@
 /*
 Title: @DearAssistant
 Description: I'll try to answer your questions just like Siri, Google Now or Cortana.
-Thumbnail: /content/bots/twitterbots/images/DearAssistant.png
+Thumbnail: /content/bots/bot,twitterbots/images/DearAssistant.png
 Link: http://twitter.com/DearAssistant
 Author: Stefan Bohacek
 Date: July 21, 2015
-Tags: twitter,twitterbot,active,useful,labnol
+Tags: twitter,bot,twitterbot,active,useful,labnol
 
 Nav: hidden
 Robots: index,follow

@@ -1,11 +1,11 @@
 /*
 Title: @twilightwarmth
 Description: I'm all alone in the witching hours, loving you.
-Thumbnail: /content/bots/twitterbots/images/twilightwarmth.png
+Thumbnail: /content/bots/bot,twitterbots/images/twilightwarmth.png
 Link: http://twitter.com/twilightwarmth
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: twitter,twitterbot,active,interactive,followers,open source,opensource,ruby,wayspurrchen
+Tags: twitter,bot,twitterbot,active,interactive,followers,open source,opensource,ruby,wayspurrchen
 Nav: hidden
 Robots: index,follow
 */

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/tumblr-bots/images/deadspelunkers.png
 Link: http://deadspelunkers.tumblr.com/
 Author: Stefan Bohacek
 Date: October 10, 2015
-Tags: tumblr,tumblrbot,active,gif,videogame,death,boodooperson
+Tags: tumblr,bot,tumblrbot,active,gif,videogame,death,boodooperson
 
 Nav: hidden
 Robots: index,follow

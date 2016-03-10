@@ -1,11 +1,11 @@
 /*
 Title: @_sys_bot_ (es)
 Description: Nombres potenciales de bandas tributo a LCD Soundsystem.
-Thumbnail: /content/bots/twitterbots/images/_sys_bot_.png
+Thumbnail: /content/bots/bot,twitterbots/images/_sys_bot_.png
 Link: http://twitter.com/_sys_bot_
 Author: botsheeter.py
 Date: 29 de Octubre, 2015
-Tags: twitter,twitterbot,active,python,rhyming,rhyme,band_names,open source,opensource,python,swizzard
+Tags: twitter,bot,twitterbot,active,python,rhyming,rhyme,band_names,open source,opensource,python,swizzard
 Language: es
 Nav: hidden
 Robots: index,follow

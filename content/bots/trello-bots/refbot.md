@@ -5,7 +5,7 @@ Thumbnail: /content/bots/trello-bots/images/refbot.png
 Link: https://trello.com/refbot
 Author: botsheeter.py
 Date: November 06, 2015
-Tags: trello,trellobot,active,useful,comments,links,references,backreferences,open source,opensource,node,nodejs,node.js,fiatjaf
+Tags: trello,bot,trellobot,active,useful,comments,links,references,backreferences,open source,opensource,node,nodejs,node.js,fiatjaf
 Nav: hidden
 Robots: index,follow
 */

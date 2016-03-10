@@ -5,7 +5,7 @@ Thumbnail: /content/bots/redditbots/images/serendipity.png
 Link: https://www.reddit.com/r/serendipity/
 Author: Stefan Bohacek
 Date: September 24, 2015
-Tags: reddit,redditbot,subreddit,python,opensource,open source,umbrae
+Tags: reddit,bot,redditbot,subreddit,python,opensource,open source,umbrae
 
 Nav: hidden
 Robots: index,follow

@@ -4,7 +4,7 @@ Description:
 Thumbnail: /content/bots/aim-bots/images/SmarterChild.png
 Author: Stefan Bohacek
 Date: January 15, 2015
-Tags: aim,msn,aimbot,msnbot,chat,chatbot,inactive,ActiveBuddy
+Tags: aim,msn,bot,aimbot,msnbot,chat,chatbot,inactive,ActiveBuddy
 Nav: hidden
 Robots: index,follow
 */

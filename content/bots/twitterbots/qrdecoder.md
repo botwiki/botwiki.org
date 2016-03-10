@@ -1,11 +1,11 @@
 /*
 Title: @qrdecoder
 Description: QR code bot.
-Thumbnail: /content/bots/twitterbots/images/qrdecoder.png
+Thumbnail: /content/bots/bot,twitterbots/images/qrdecoder.png
 Link: https://twitter.com/qrdecoder
 Author: botsheeter.py
 Date: February 18, 2016
-Tags: twitter,twitterbot,active,interactive,images,qr code,theskorm
+Tags: twitter,bot,twitterbot,active,interactive,images,qr code,theskorm
 Nav: hidden
 Robots: index,follow
 */

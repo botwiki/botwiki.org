@@ -1,11 +1,11 @@
 /*
 Title: @liketocontinue
 Description: A poem in 36 tweets, told in your notifications panel.
-Thumbnail: /content/bots/twitterbots/images/liketocontinue.png
+Thumbnail: /content/bots/bot,twitterbots/images/liketocontinue.png
 Link: http://twitter.com/liketocontinue
 Author: botsheeter.py
 Date: December 21, 2015
-Tags: twitter,twitterbot,active,interactive,poetry,likes,art,experimental,genmon
+Tags: twitter,bot,twitterbot,active,interactive,poetry,likes,art,experimental,genmon
 Nav: hidden
 Robots: index,follow
 */

@@ -1,11 +1,11 @@
 /*
 Title: @pomological
 Description: Old fruit pictures.
-Thumbnail: /content/bots/twitterbots/images/pomological.png
+Thumbnail: /content/bots/bot,twitterbots/images/pomological.png
 Link: http://twitter.com/pomological
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: twitter,twitterbot,active,images,fruit,xor
+Tags: twitter,bot,twitterbot,active,images,fruit,xor
 Nav: hidden
 Robots: index,follow
 */

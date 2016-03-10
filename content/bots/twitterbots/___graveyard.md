@@ -1,11 +1,11 @@
 /*
 Title: @___graveyard
 Description: ⩍†⩍   †  ⩍⩍⩍† ⩍ ⩍⩍
-Thumbnail: /content/bots/twitterbots/images/___graveyard.png
+Thumbnail: /content/bots/bot,twitterbots/images/___graveyard.png
 Link: http://twitter.com/___graveyard
 Author: botsheeter.py
 Date: November 07, 2015
-Tags: twitter,twitterbot,active,death,ascii,grave,graveyard,voifd
+Tags: twitter,bot,twitterbot,active,death,ascii,grave,graveyard,voifd
 Nav: hidden
 Robots: index,follow
 */

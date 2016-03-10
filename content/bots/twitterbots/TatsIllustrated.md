@@ -1,11 +1,11 @@
 /*
 Title: @TatsIllustrated
 Description: SEXY YETI
-Thumbnail: /content/bots/twitterbots/images/TatsIllustrated.png
+Thumbnail: /content/bots/bot,twitterbots/images/TatsIllustrated.png
 Link: http://twitter.com/TatsIllustrated
 Author: botsheeter.py
 Date: October 18, 2015
-Tags: twitter,twitterbot,active,images,tattoos,boodooperson
+Tags: twitter,bot,twitterbot,active,images,tattoos,boodooperson
 Nav: hidden
 Robots: index,follow
 */

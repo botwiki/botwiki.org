@@ -1,11 +1,11 @@
 /*
 Title: @thetinygallery
 Description: Tiny exhibitions from a tiny emoji gallery.
-Thumbnail: /content/bots/twitterbots/images/thetinygallery.png
+Thumbnail: /content/bots/bot,twitterbots/images/thetinygallery.png
 Link: http://twitter.com/thetinygallery
 Author: botsheeter.py
 Date: February 03, 2016
-Tags: twitter,twitterbot,active,emoji,cheapbotsdonequick,ascii,art,monthlybotchallenge,open source,opensource,tracery,deer_ful
+Tags: twitter,bot,twitterbot,active,emoji,cheapbotsdonequick,ascii,art,monthlybotchallenge,open source,opensource,tracery,deer_ful
 Nav: hidden
 Robots: index,follow
 */

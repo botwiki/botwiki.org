@@ -1,11 +1,11 @@
 /*
 Title: @saladpalin
 Description: Sarah Palin word salad.
-Thumbnail: /content/bots/twitterbots/images/saladpalin.png
+Thumbnail: /content/bots/bot,twitterbots/images/saladpalin.png
 Link: Www.twitter.com/saladpalin
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: twitter,twitterbot,active,political,markov chain,twerribletweets
+Tags: twitter,bot,twitterbot,active,political,markov chain,twerribletweets
 Nav: hidden
 Robots: index,follow
 */

@@ -1,11 +1,11 @@
 /*
 Title: @TellMeAStoryBot
 Description: I'm a bot learning to tell stories!
-Thumbnail: /content/bots/twitterbots/images/TellMeAStoryBot.png
+Thumbnail: /content/bots/bot,twitterbots/images/TellMeAStoryBot.png
 Link: http://twitter.com/TellMeAStoryBot
 Author: botsheeter.py
 Date: December 02, 2015
-Tags: twitter,twitterbot,active,interactive,story,matthewguz
+Tags: twitter,bot,twitterbot,active,interactive,story,matthewguz
 Nav: hidden
 Robots: index,follow
 */

@@ -7,7 +7,7 @@ Installed: yes
 Author: hectorpalmatellez
 Language: es
 Date: 28 de Enero, 2015
-Tags: slack,slackbot,active,interactive,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
+Tags: slack,bot,slackbot,active,interactive,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
 Nav: hidden
 Robots: index,follow
 */

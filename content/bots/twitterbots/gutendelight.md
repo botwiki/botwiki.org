@@ -1,11 +1,11 @@
 /*
 Title: @gutendelight
 Description: Tweeting a mix of hip hop and classic literature.
-Thumbnail: /content/bots/twitterbots/images/gutendelight.png
+Thumbnail: /content/bots/bot,twitterbots/images/gutendelight.png
 Link: http://twitter.com/gutendelight
 Author: Stefan Bohacek
 Date: September 21, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,language,hugovk,rap,literature,wordnik
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,language,hugovk,rap,literature,wordnik
 
 Nav: hidden
 Robots: index,follow

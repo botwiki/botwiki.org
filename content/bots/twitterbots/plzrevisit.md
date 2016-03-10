@@ -1,11 +1,11 @@
 /*
 Title: @plzrevisit
 Description: "Tweet me an image and I'll glitch it using http://revisit.link"
-Thumbnail: /content/bots/twitterbots/images/plzrevisit.png
+Thumbnail: /content/bots/bot,twitterbots/images/plzrevisit.png
 Link: http://twitter.com/plzrevisit
 Author: Stefan Bohacek
 Date: July 28, 2015
-Tags: twitter,twitterbot,inactive,images,beaugunderson
+Tags: twitter,bot,twitterbot,inactive,images,beaugunderson
 
 Nav: hidden
 Robots: index,follow

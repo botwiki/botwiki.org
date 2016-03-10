@@ -1,11 +1,11 @@
 /*
 Title: @artassignbot
 Description: Random art assignments.
-Thumbnail: /content/bots/twitterbots/images/artassignbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/artassignbot.png
 Link: https://twitter.com/artassignbot
 Author: botsheeter.py
 Date: October 28, 2015
-Tags: twitter,twitterbot,active,art,assignment,jeffthompson_
+Tags: twitter,bot,twitterbot,active,art,assignment,jeffthompson_
 Nav: hidden
 Robots: index,follow
 */

@@ -1,12 +1,12 @@
 /*
 Title: @mnemosynetron (es)
 Description: Un bot recordatorio.
-Thumbnail: /content/bots/twitterbots/images/mnemosynetron.png
+Thumbnail: /content/bots/bot,twitterbots/images/mnemosynetron.png
 Link: http://twitter.com/mnemosynetron
 Author: hectorpalmatellez
 Language: es
 Date: 28 de Enero, 2015
-Tags: twitter,twitterbot,active,useful,thricedotted
+Tags: twitter,bot,twitterbot,active,useful,thricedotted
 
 Nav: hidden
 Robots: index,follow

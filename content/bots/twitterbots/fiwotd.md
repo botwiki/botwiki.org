@@ -1,11 +1,11 @@
 /*
 Title: @fiwotd
 Description: A random Finnish word of the day
-Thumbnail: /content/bots/twitterbots/images/fiwotd.png
+Thumbnail: /content/bots/bot,twitterbots/images/fiwotd.png
 Link: http://twitter.com/fiwotd
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,twitterbot,active,non-english,finnish,open source,opensource,python,hugovk
+Tags: twitter,bot,twitterbot,active,non-english,finnish,open source,opensource,python,hugovk
 Nav: hidden
 Robots: index,follow
 */

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/tumblr-bots/images/reverseocr.png
 Link: http://reverseocr.tumblr.com/
 Author: Stefan Bohacek
 Date: October 10, 2015
-Tags: tumblr,tumblrbot,active,images,ocr,open source,opensource,tinysubversions
+Tags: tumblr,bot,tumblrbot,active,images,ocr,open source,opensource,tinysubversions
 
 Nav: hidden
 Robots: index,follow

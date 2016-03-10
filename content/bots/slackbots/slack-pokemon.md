@@ -6,7 +6,7 @@ Link: https://github.com/rvinluan/slack-pokemon/
 Installed: yes
 Author: Stefan Bohacek
 Date: November 15, 2015
-Tags: slack,slackbot,active,interactive,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
+Tags: slack,bot,slackbot,active,interactive,game,pokemon,open source,opensource,node.js,node,nodejs,RobertVinluan
 Translations: es
 Nav: hidden
 Robots: index,follow

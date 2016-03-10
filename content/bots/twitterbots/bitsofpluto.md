@@ -1,11 +1,11 @@
 /*
 Title: @bitsofpluto
 Description: Bits of Pluto.
-Thumbnail: /content/bots/twitterbots/images/bitsofpluto.png
+Thumbnail: /content/bots/bot,twitterbots/images/bitsofpluto.png
 Link: https://twitter.com/bitsofpluto
 Author: Stefan Bohacek
 Date: October 6, 2015
-Tags: twitter,twitterbot,active,images,space,opensource,open source,python,hugovk,monthlybotchallenge
+Tags: twitter,bot,twitterbot,active,images,space,opensource,open source,python,hugovk,monthlybotchallenge
 
 Nav: hidden
 Robots: index,follow

@@ -5,10 +5,10 @@ Thumbnail: /content/bots/slackbots/images/large.png
 Link: http://geticecream.xyz/
 Author: Stefan Bohacek
 Date: August 23, 2015
-Tags: slack,slackbot,interactive
+Tags: slack,bot,slackbot,interactive
 
 Nav: hidden
 Robots: index,follow
 */
 
-[@large](http://geticecream.xyz/) is a Slackbot that lets your team order ice cream.
+[@large](http://geticecream.xyz/) is a bot,slackbot that lets your team order ice cream.

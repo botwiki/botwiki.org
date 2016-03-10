@@ -1,11 +1,11 @@
 /*
 Title: @permitbot
 Description: Interesting findings from Chicago building permits.
-Thumbnail: /content/bots/twitterbots/images/permitbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/permitbot.png
 Link: http://twitter.com/permitbot
 Author: Stefan Bohacek
 Date: September 6, 2015
-Tags: twitter,twitterbot,active,opensource,open source,python,chrishagan
+Tags: twitter,bot,twitterbot,active,opensource,open source,python,chrishagan
 
 Nav: hidden
 Robots: index,follow

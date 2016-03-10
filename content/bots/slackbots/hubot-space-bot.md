@@ -6,7 +6,7 @@ Link: https://www.npmjs.com/package/hubot-space-bot
 Installed: yes
 Author: botsheeter.py
 Date: February 03, 2016
-Tags: slack,slackbot,active,interactive,monthlybotchallenge,open source,opensource,node,nodejs,node.js,coffeescript,space,nodejs, coffeescript,pdples
+Tags: slack,bot,slackbot,active,interactive,monthlybotchallenge,open source,opensource,node,nodejs,node.js,coffeescript,space,nodejs, coffeescript,pdples
 Nav: hidden
 Robots: index,follow
 */

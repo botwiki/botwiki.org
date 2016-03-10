@@ -1,11 +1,11 @@
 /*
 Title: @wordnuvola
 Description: Word cloud from tweets.
-Thumbnail: /content/bots/twitterbots/images/wordnuvola.png
+Thumbnail: /content/bots/bot,twitterbots/images/wordnuvola.png
 Link: https://twitter.com/wordnuvola
 Author: botsheeter.py
 Date: November 07, 2015
-Tags: twitter,twitterbot,active,interactive,images,words,open source,opensource,python,defacto133
+Tags: twitter,bot,twitterbot,active,interactive,images,words,open source,opensource,python,defacto133
 Nav: hidden
 Robots: index,follow
 */

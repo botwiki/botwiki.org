@@ -1,11 +1,11 @@
 /*
 Title: @haveyoueverbot
 Description: I just like the sound of it.
-Thumbnail: /content/bots/twitterbots/images/haveyoueverbot.png
+Thumbnail: /content/bots/bot,twitterbots/images/haveyoueverbot.png
 Link: https://twitter.com/haveyoueverbot
 Author: botsheeter.py
 Date: October 28, 2015
-Tags: twitter,twitterbot,active,comics,batman,wordnik,open source,opensource,nodejs,node.js,node,starchy
+Tags: twitter,bot,twitterbot,active,comics,batman,wordnik,open source,opensource,nodejs,node.js,node,starchy
 Nav: hidden
 Robots: index,follow
 */

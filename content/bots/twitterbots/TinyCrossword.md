@@ -1,11 +1,11 @@
 /*
 Title: @TinyCrossword
 Description: Tweet-sized crosswords once a day.
-Thumbnail: /content/bots/twitterbots/images/TinyCrossword.png
+Thumbnail: /content/bots/bot,twitterbots/images/TinyCrossword.png
 Link: https://twitter.com/TinyCrossword
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: twitter,twitterbot,active,crosswords,game,generate,open source,opensource,python,gangles
+Tags: twitter,bot,twitterbot,active,crosswords,game,generate,open source,opensource,python,gangles
 Nav: hidden
 Robots: index,follow
 */
