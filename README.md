@@ -2,7 +2,7 @@
 
 # Botwiki.org
 
-<img style="max-width:100%;" src="content/images/botwiki-thumbnail-image-1200.png">
+<img style="max-width:100%;" src="content/images/botwiki-960x150.png">
 
 ***Note: All members of the Botwiki.org team and contributors must read, understand and follow our official [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md).***
 
