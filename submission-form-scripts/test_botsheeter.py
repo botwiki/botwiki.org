@@ -74,7 +74,7 @@ class TestIt(unittest.TestCase):
         bot['location'] = "https://twitter.com/botwikidotorg"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,political,media,corbyn,"
+            tags, "twitter,twitterbot,bot,inactive,political,media,corbyn,"
                   "headlines")
 
     def test_bot_tags_open_source(self):
@@ -84,7 +84,7 @@ class TestIt(unittest.TestCase):
         bot['is_open_source'] = True
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,political,media,corbyn,"
+            tags, "twitter,twitterbot,bot,inactive,political,media,corbyn,"
                   "headlines,open source,opensource")
 
     def test_bot_tags_open_source_language(self):
@@ -95,7 +95,7 @@ class TestIt(unittest.TestCase):
         bot['open_source_language'] = "python"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,political,media,corbyn,"
+            tags, "twitter,twitterbot,bot,inactive,political,media,corbyn,"
                   "headlines,open source,opensource,python")
 
     def test_bot_tags_nodejs(self):
@@ -106,7 +106,7 @@ class TestIt(unittest.TestCase):
         bot['open_source_language'] = "node"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,media,node,headlines,"
+            tags, "twitter,twitterbot,bot,inactive,media,node,headlines,"
                   "open source,opensource,nodejs,node.js")
 
     def test_bot_tags_authors_twitter_name(self):
@@ -116,7 +116,7 @@ class TestIt(unittest.TestCase):
         bot['creator_twitter_url'] = "https://twitter.com/fourtonfish"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,political,media,corbyn,"
+            tags, "twitter,twitterbot,bot,inactive,political,media,corbyn,"
                   "headlines,fourtonfish")
 
     def test_bot_png_filename(self):
@@ -169,7 +169,7 @@ class TestIt(unittest.TestCase):
         bot['interactive'] = "Interactive"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive,interactive")
+            tags, "twitter,twitterbot,bot,inactive,interactive")
 
     def test_bot_tags_not_interactive(self):
         bot = {}
@@ -177,7 +177,7 @@ class TestIt(unittest.TestCase):
         bot['location'] = "https://twitter.com/botwikidotorg"
         tags = botsheeter.bot_tags(bot)
         self.assertEqual(
-            tags, "twitter,bot,twitterbot,inactive")
+            tags, "twitter,twitterbot,bot,inactive")
 
     def test_make_twitter_url_http_twitter(self):
         input = "http://twitter.com/botwikidotorg"
