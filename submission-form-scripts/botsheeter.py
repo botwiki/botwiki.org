@@ -131,6 +131,8 @@ def bot_tags(bot):
     # Remove spaces after commas, but not from tags, and convert into a list
     user_tags = bot['tags'].replace(", ", ",").lower().split(",")
 
+    tags_to_add.extend(['bot'])
+
     if 'active' in bot and bot['active'] == 'Active':
         tags_to_add.extend(['active'])
     else:
