@@ -6,7 +6,7 @@ Nav: hidden
 
 ### [¶](#stefan){.pilcrow} Stefan {#stefan}
 
-[![Stefan](/content/about/images/stefan.jpg){.float-right}](https://twitter.com/fourtonfish)
+[![Stefan](/content/about/images/stefan.jpg){.float-right .photo}](https://twitter.com/fourtonfish)
 
 
 Hi!

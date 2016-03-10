@@ -48,7 +48,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 
 body {
-  line-height: 1;
+  line-height: 1.2em;
   color: black;
   background: #fff;
   padding-top: 100px;
@@ -125,7 +125,7 @@ select:focus {
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.2em 'Alegreya Sans', Helvetica, Arial, Helvetica, sans-serif;
+  font: 1.2em 'Alegreya', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
   background: #fff;
   -webkit-font-smoothing: antialiased;
@@ -148,14 +148,10 @@ a:hover{
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Bree Serif', serif;
+  font-family: 'Bree Serif', serif;  
   color: @main-color;
   line-height: 1.2em;
   margin-bottom: 0.6em;
-}
-
-h2{
-  margin-bottom: 1em;
 }
 
 a.pilcrow,
@@ -190,7 +186,7 @@ h2{
 
 h3{
   font-size: 2em;
-  margin-top: 1.4em;
+  margin-top: 0.5em;
 }
 
 h4{
@@ -345,13 +341,19 @@ div.all-tags a{
   z-index: 100;
   top: 0;
   width: 100%;
-  padding: 10px 0 20px;
+  padding: 10px 0 10px;
   background-color: @main-color;
   color: #5D9CEC;
 }
+
 #header a { 
   color: #5D9CEC; 
 }
+
+#header h1 a{
+  font-family: 'Bree Serif', serif;  
+}
+
 #header h1 a,
 #header a:hover { 
   color: #fff;
@@ -470,7 +472,7 @@ div#content-wrapper{
   padding: 0 0 100px;
   margin-bottom: 2em;
   font-size: 1.1em;
-  line-height: 1.1em;
+  line-height: 1.3em;
   position: relative;
 
   box-shadow: -10px 10px 40px -20px #ddd, 10px 10px 40px -20px #ddd;
@@ -576,6 +578,7 @@ div.search-item{
 div.note{
   font-weight: bold;
   font-style: italic;
+  margin-bottom: 2em;
   padding: 10px;
   background-color: #F7E967;
 }
@@ -613,6 +616,9 @@ p.screenshot.float-left{
   }
 }
 
+img.photo{
+  margin: 1em;
+}
 
 .lazy-load,
 .lazy-loaded {
