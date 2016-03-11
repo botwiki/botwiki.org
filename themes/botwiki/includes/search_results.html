@@ -19,6 +19,8 @@
   </div>
 {% elseif search_term_lower == 'manga' or search_term_lower == 'anime' %}
   <p class="search-instructions">Did you mean <a href="/content/images/other/mango.gif">mango</a>?</p> 
+{% elseif search_term_lower == 'markov' or search_term_lower == 'markov chain' %}
+  {% include 'includes/markov.html' %}
 {% elseif search_term_lower == 'help' %}
   <p class="search-instructions"><strong>Need help with your project? <a href="https://botmakers.org/">Join Botmakers</a>, our Slack group!</strong></p> 
 {% elseif search_term_lower == 'botmaker' or search_term_lower == 'botmakers' %}
