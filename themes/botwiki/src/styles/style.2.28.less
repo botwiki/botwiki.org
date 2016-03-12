@@ -410,6 +410,8 @@ label.cursor-pointer {
 ul#menu{
   margin-left: 0;
   padding-left: 0;
+  overflow-y: scroll;
+  height: 60vh;
 }
 #menu-toggle {
   display: none; /* hide the checkbox */
@@ -433,9 +435,11 @@ ul#menu{
   margin-left: 15px;  
 }
 #header nav li.form-wrapper {
-  margin-left: 35px;  
+  margin-left: 35px;
+  float: right;
   @media (max-width : 1040px){
-    margin-top: 25px;
+    margin-top: 15px;
+    float: none;
   }
 }
 #header nav a {
@@ -744,13 +748,11 @@ img.logo-digitalocean{
     background: #fff;
     border: 5px solid #444;
     left: -100px;
-    top: 90px;
+    top: 80px;
     width: 100%;
     z-index: 9999;
     transition: all 0.2s;
     pointer-events: none;
-    height: 60vh;
-    overflow-y: scroll;
   }
   #header nav li {
     width: 100%;

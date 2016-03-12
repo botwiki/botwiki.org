@@ -43,7 +43,7 @@
   <link href='https://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.27.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.28.min.css" type="text/css" />  
 </head>
 <body>
   <header id="header">
@@ -54,13 +54,13 @@
           <svg id="menu-icon" viewBox="0 0 36 24" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="36px" height="24px"><g id="Layer%201"><rect x="0" y="0" width="36" height="4" fill="#ffffff"/><rect x="0" y="10" width="36" height="4" fill="#ffffff"/><rect x="0" y="20" width="36" height="4" fill="#ffffff"/></g></svg>
         </label>  
         <input type="checkbox" id="menu-toggle"/>  
-        <ul id="menu">  
-          {{ nav_sort.sorted_nav }}
+        <ul id="menu">
           <li class="form-wrapper">
             <form id="search-form" action="/search">
               <input name="q" placeholder="🔎 Search..." value="{{ search_term }}">
             </form>
           </li>
+          {{ nav_sort.sorted_nav }}
         </ul>
       </nav>
     </div>
