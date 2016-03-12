@@ -20,13 +20,18 @@ Below is a list of [individuals](#individual-sponsors), [corporations and other 
 
 ## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
 
-<center>
+<div class="sponsors-corporate-organizations">
   <a href="https://www.digitalocean.com/" 
      alt="DigitalOcean logo"
      title="DigitalOcean, the sponsor of the very first Monthly Bot Challenge">
     <img src="/content/images/logos/digitalocean-logo.png">
   </a>
-</center>
+  <a href="http://www.andfestival.org.uk/" 
+     alt="Abandon Normal Devices logo"
+     title="Abandon Normal Devices, the sponsor of the March 2016 Monthly Bot Challenge">
+    <img src="/content/images/logos/and-logo.png">
+  </a>
+</div>
 
 **Huge thanks goes to everyone!**
 

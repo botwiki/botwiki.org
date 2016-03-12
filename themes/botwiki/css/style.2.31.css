@@ -587,6 +587,13 @@ aside#sidebar hr {
 #footer p {
   text-align: justify;
 }
+div.sponsors-corporate-organizations {
+  text-align: center;
+}
+div.sponsors-corporate-organizations img {
+  vertical-align: middle;
+  margin: 1em;
+}
 /* Misc Styles
 /*---------------------------------------------*/
 div.search-instructions,
