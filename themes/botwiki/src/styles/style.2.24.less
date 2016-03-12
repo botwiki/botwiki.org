@@ -6,7 +6,7 @@
   Variables
 */
 
-@site-width: 1200px;
+@site-width: 1260px;
 @sidebar-width: 275px;
 /*
 Original dark gray
@@ -45,13 +45,6 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   font-size: 100%;
   font-family: inherit;
   vertical-align: baseline;
-}
-
-body {
-  line-height: 1.2em;
-  color: black;
-  background: #fff;
-  padding-top: 100px;
 }
 
 table {
@@ -107,11 +100,11 @@ input,
 textarea,
 select {
   padding: 5px;
-  font: 400 1em Verdana, Sans-serif;
+  font-size: 0.8em;
   color: #666;
   background: #fff;
   border: 1px solid #999999;
-  margin: 0 0 1em 0;
+  margin: 0;
 }
 
 input:focus,
@@ -127,7 +120,9 @@ select:focus {
 body {
   font: 1.2em 'Alegreya', Helvetica, Arial, Helvetica, sans-serif;
   color: #444;
-  background: #fff;
+  line-height: 1.2em;
+  padding-top: 80px;
+  background: #f7f7f7;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -138,7 +133,7 @@ a, a:visited {
 
 a:hover, a:active {
   color: @main-color - #222;
-  @media (min-width : 980px){
+  @media (min-width : 990px){
     text-decoration: underline;
   }
 }
@@ -292,7 +287,7 @@ img.centered{
 }
 
 img.extra-margin{
-  @media (min-width : 980px) {
+  @media (min-width : 990px) {
     margin-top: -1.3em;
   }
 }
@@ -340,10 +335,13 @@ div.all-tags a{
   position: fixed;
   z-index: 100;
   top: 0;
-  width: 100%;
+  left: 0;
+  right: 0;
   padding: 10px 0 10px;
-  background-color: @main-color;
   color: #5D9CEC;
+  background-color: @main-color;
+  box-shadow: 0 4px 40px -15px #333;
+  border-top: 6px solid #ED5565;
 }
 
 #header a { 
@@ -388,13 +386,20 @@ div.all-tags a{
   float: left;
 }
 
+header,
+footer{
+  max-width: @site-width;
+  margin: 0 auto;
+}
+
+
 header .inner,
 footer .inner{
   max-width: @site-width + 70px;
 }
 
 li.active a{
-  @media (min-width : 980px){
+  @media (min-width : 990px){
     border-bottom: 3px solid #F5F5F5; 
   }
 }
@@ -444,7 +449,7 @@ ul#menu{
 }
 #header ul {
   list-style: none;
-  padding-top: 10px;
+  padding-top: 5px;
 }
 #header li {
   display: inline-block;
@@ -457,7 +462,7 @@ form#search-form{
 
 form#search-form input{
   padding: 0.5em 5px;
-  border-radius: 3px;
+  border-radius: 4px;
   width: 100%;
 }
 
@@ -479,10 +484,13 @@ div#content-wrapper{
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 
+  @media (max-width: 990px){
+    padding: 2em 0 100px;
+  }
 }
 
 aside#sidebar{
-  @media (min-width : 980px){
+  @media (min-width : 990px){
     display: block;
     max-width: @sidebar-width;
     position: absolute;
@@ -492,7 +500,7 @@ aside#sidebar{
     top: 10px;
   }
 
-  @media (max-width : 980px){
+  @media (max-width : 990px){
     overflow: auto;
   }
 }
@@ -509,7 +517,7 @@ aside#sidebar img{
 }
 
 div.sidebar-module{
-  @media (max-width : 980px){
+  @media (max-width : 990px){
     width: 33%;
     float: left;
   }
@@ -520,8 +528,8 @@ div.sidebar-module{
 }
 
 aside#sidebar hr{
-  max-width: 45%;
-  @media (max-width : 980px){
+  max-width: 25%;
+  @media (max-width : 990px){
     display: none;
   }
   @media (max-width : 700px){
@@ -530,29 +538,31 @@ aside#sidebar hr{
 }
 
 div.sidebar-module:not(:first-child){
-  @media (min-width : 980px){
+  @media (min-width : 990px){
     margin-top: 10px;
   }
 }
 
 div#main{
-  @media (min-width : 980px){
+  @media (min-width : 990px){
     margin-right: @sidebar-width;
     padding: 1.5em 2em 5em;
   }
 }
 
 #footer {
-  background-color: @main-color;
-  padding: 40px 0;
-  color: #C0C0C0;
+  color: @main-color;
+  line-height: 1.2em;
+  margin-bottom: 4em;
 }
+
 #footer a {
-  color: #fff;
+  color: @main-color;
   font-weight: bold;
 }
+
 #footer a:hover {
-  color: #fff;
+  color: @main-color + #333;
 }
 
 #footer p{
@@ -594,14 +604,14 @@ div.meta p.last-updated{
 
 p.screenshot{
   padding: 0 0 1.5em;
-  @media (min-width : 910px) {
+  @media (min-width : 800px) {
     max-width: 45%;
     padding: 0 0 35px;
   }
 }
 
 p.screenshot img{
-  border: 1px solid #efefef;
+  border: 1px solid #ddd;
 }
 
 p.screenshot.float-right{
@@ -618,6 +628,10 @@ p.screenshot.float-left{
 
 img.photo{
   margin: 1em;
+}
+
+img.round-borders{
+  border-radius: 5px;
 }
 
 .lazy-load,
@@ -685,7 +699,7 @@ img.logo-digitalocean{
 /*---------------------------------------------*/
 
 /* Small Devices, Tablets */
-@media (max-width : 1040px) {
+@media (max-width : 800px) {
   .float-right,
   .float-left{
     max-width: 100%;
@@ -708,6 +722,9 @@ img.logo-digitalocean{
   #header h1 a {
     font-size:1em;
   }
+}
+
+@media (max-width : 1100px) {
   #header #menu-icon {
     display:inline-block;
   }
@@ -717,7 +734,6 @@ img.logo-digitalocean{
   #header nav a:hover {
     color: #434a54; 
   }
-
 
   #header nav ul,
   nav:active ul,
