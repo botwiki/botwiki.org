@@ -44,9 +44,13 @@ gulp.task('scripts', function() {
     .pipe(jshint.reporter('default'))
     .pipe(gulp.dest('themes/botwiki/js'))
     .pipe(rename({suffix: '.min'}))
-    .pipe(sourcemaps.init())
+/*
+    TODO: Find a good way to only load source map in development. See https://knpuniversity.com/screencast/gulp/sourcemaps-only-dev
+    Commenting out for now.
+*/
+//    .pipe(sourcemaps.init())
     .pipe(uglify())
-    .pipe(sourcemaps.write())
+//    .pipe(sourcemaps.write())
     .pipe(gulp.dest('themes/botwiki/js'))
     .pipe(notify({ message: 'Scripts task complete' }));
 });

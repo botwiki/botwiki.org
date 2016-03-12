@@ -72,36 +72,20 @@ function ready(fn) {
 }
 
 ready(function(){
-if(window.location.hash) {
-  smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
-  return false;
-}
+  if(window.location.hash) {
+    smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
+    return false;
+  }
 
+  var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
 
-var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
-
-for(var i = backToTopLinks.length; a = backToTopLinks[--i];){
+  for(var i = backToTopLinks.length; a = backToTopLinks[--i];){
     a.addEventListener("click", function(ev){
       ev.preventDefault();
       smoothScroll(0, 500);      
     }, false);
-}
+  }
 
-
-
-console.log('                                                                                                                    ');
-console.log('88888888ba                                            88  88         88                                             ');
-console.log('88      "8b                ,d                         ""  88         ""                                             ');
-console.log('88      ,8P                88                             88                                                        ');
-console.log('88aaaaaa8P\'   ,adPPYba,  MM88MMM  8b      db      d8  88  88   ,d8   88        ,adPPYba,   8b,dPPYba,   ,adPPYb,d8  ');
-console.log('88""""""8b,  a8"     "8a   88     `8b    d88b    d8\'  88  88 ,a8"    88       a8"     "8a  88P\'   "Y8  a8"    `Y88  ');
-console.log('88      `8b  8b       d8   88      `8b  d8\'`8b  d8\'   88  8888[      88       8b       d8  88          8b       88  ');
-console.log('88      a8P  "8a,   ,a8"   88,      `8bd8\'  `8bd8\'    88  88`"Yba,   88  888  "8a,   ,a8"  88          "8a,   ,d88  ');
-console.log('88888888P"    `"YbbdP"\'    "Y888      YP      YP      88  88   `Y8a  88  888   `"YbbdP"\'   88           `"YbbdP"Y8  ');
-console.log('                                                                                                        aa,    ,88  ');
-console.log('                                                                                                         "Y8bbdP"   ');
-  console.log('\nHello there! Are you a #botmaker? Join us! https://botmakers.org/\n');
-  console.log('Want to get more involved? https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md\n\n');
   var articleImages = document.querySelectorAll('article img');
 
   for (var i = 0, j = articleImages.length; i < j; i++){
