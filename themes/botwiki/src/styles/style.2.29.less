@@ -410,8 +410,6 @@ label.cursor-pointer {
 ul#menu{
   margin-left: 0;
   padding-left: 0;
-  overflow-y: scroll;
-  height: 60vh;
 }
 #menu-toggle {
   display: none; /* hide the checkbox */
@@ -819,6 +817,10 @@ div.callout a{
     opacity: 1;
     left: 0;
     pointer-events: all;
+  }
+  #menu-toggle:checked + #menu{
+    overflow-y: scroll;
+    height: 60vh;
   }
   #header nav #menu-toggle:checked + #menu li {
     margin-left: 0;
