@@ -54,6 +54,11 @@ Browse [all Twitter bots](/tag/twitterbot).
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
 
+<div class="note">
+  Note: Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
+
 ### [¶](#communities){.pilcrow} Communities {#communities}
 #### [¶](#communities-botally){.pilcrow} \#botALLY {#communities-botally}
 

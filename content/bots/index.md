@@ -69,7 +69,6 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 
 #### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
 
-
 - [Poetry bots](/tag/poetry)
 - [Image bots](/tag/images) ([GIF bots](/tag/gif))
 - [Game bots](/tag/game)
@@ -90,6 +89,9 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
 
 <center><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></center>
 
