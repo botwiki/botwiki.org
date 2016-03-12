@@ -6,6 +6,11 @@ Author: Stefan Bohacek
 Weight: 4
 */
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
+
 ![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
 
 For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg).

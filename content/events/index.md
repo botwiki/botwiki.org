@@ -4,6 +4,11 @@ Description: Upcoming and past events either dedicated to botmaking or with rele
 Weight: 5
 */
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
+
 ![A botmaker gathering](/content/images/illustrations/people-evening.jpg){.float-right}
 
 Events either dedicated to botmaking or those that include relevant sessions:

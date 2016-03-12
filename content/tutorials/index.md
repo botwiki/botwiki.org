@@ -6,6 +6,10 @@ Tags: machine learning,nlp,language,processing,opencv
 Weight: 2
 */
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
 [![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
 

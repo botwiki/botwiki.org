@@ -4,6 +4,11 @@ Description: Folks behind Botwiki.org, Botmakers.org and the Bot! zine.
 Nav: hidden
 */
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
+
 ### [¶](#stefan){.pilcrow} Stefan {#stefan}
 
 [![Stefan](/content/about/images/stefan.jpg){.float-right .photo}](https://twitter.com/fourtonfish)

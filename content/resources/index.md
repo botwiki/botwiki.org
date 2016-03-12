@@ -5,6 +5,11 @@ Date: July 23, 2015
 Weight: 3
 */
 
+<div class="note">
+  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+</div>
+
+
 ![Not sure how this is related to "resources"](/content/images/illustrations/advice-hostess.png){.float-right}
 
 Below is a list of categories with useful resources, such as **libraries**, **frameworks**, **datasets**, **APIs** and **free images and other media**.
