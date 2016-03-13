@@ -2,7 +2,7 @@
 Title: Tutorials
 Description: Learn how to make your own bot!
 Date: January 12, 2016
-Tags: machine learning,nlp,language,processing,opencv
+Tags: machine learning,nlp,language,processing,opencv,deploy,deploy,deployment,digitalocean,heroku
 Weight: 2
 */
 
