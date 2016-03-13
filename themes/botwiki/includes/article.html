@@ -1,4 +1,7 @@
-{% if meta.show_donation_link == 'yes' %}
+{% if meta.show_donation_link == 'yes'
+   or "bot" in meta.tags
+   or "interview" in meta.tags
+ %}
   {% include 'includes/donations.html' %}
 {% endif %}
 <article>
