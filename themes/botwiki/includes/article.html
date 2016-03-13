@@ -49,12 +49,45 @@
   {{ content }}
   <hr/>
   <div class="meta">
-    <p>Share this page on 
-      <a href="https://twitter.com/intent/tweet?source={{current_page.url}}&amp;text={% if 'twitterbot' in meta.tags %}.{{meta.title}}{% else %}{{meta.title}}%20{{current_page.url}}{% endif %}&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a>,
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{current_page.url}}&amp;t={{meta.title}}" target="_blank" title="Share on Facebook">Facebook</a>,
-      via <a href="mailto:?subject={{meta.title}}&amp;body={{meta.description}}:%20{{current_page.url}}" target="_blank" title="Email">an email</a>,
-      or save it to your <a href="https://getpocket.com/save?url={{current_page.url}}&amp;title={{meta.title}}" target="_blank" title="Add to Pocket">Pocket</a>
-      or <a href="https://pinboard.in/popup_login/?url={{current_page.url}}&amp;title={{meta.title}}&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a> for later.
+    <p>
+    {% if meta.language == 'es' %}
+      Comparte esta página en 
+    {% else %}
+      Share this page on
+    {% endif %}
+
+    <a href="https://twitter.com/intent/tweet?source={{current_page.url}}&amp;text={% if 'twitterbot' in meta.tags %}.{{meta.title}}{% else %}{{meta.title}}%20{{current_page.url}}{% endif %}&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a>,
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{current_page.url}}&amp;t={{meta.title}}" target="_blank" title="Share on Facebook">Facebook</a>,
+    <a href="mailto:?subject={{meta.title}}&amp;body={{meta.description}}:%20{{current_page.url}}" target="_blank" title="Email">
+
+    {% if meta.language == 'es' %}
+      por correo electrónico 
+    {% else %}
+      via an email
+    {% endif %}
+    </a>,
+
+    {% if meta.language == 'es' %}
+      o guárdala en tu  
+    {% else %}
+      or save it to your 
+    {% endif %}
+
+    <a href="https://getpocket.com/save?url={{current_page.url}}&amp;title={{meta.title}}" target="_blank" title="Add to Pocket">Pocket</a>
+    
+    {% if meta.language == 'es' %}
+      o
+    {% else %}
+      or
+    {% endif %}
+
+    <a href="https://pinboard.in/popup_login/?url={{current_page.url}}&amp;title={{meta.title}}&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a>
+
+    {% if meta.language == 'es' %}
+      para leer más tarde.
+    {% else %}
+      for later.
+    {% endif %}
     </p>
 
     {% if meta.tags is not empty %}
