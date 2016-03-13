@@ -2,7 +2,7 @@
 Title: Bot Summit 2016
 Description: Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=London&zoom=15&size=900x300&maptype=roadmap
-Link: http://schedule.sxsw.com/2016/events/event_PP46960
+Link: http://tinysubversions.com/botsummit/2016/
 Date: April 9th, 2016
 Location: London
 Tags: event,upcoming,bot summit,botally
