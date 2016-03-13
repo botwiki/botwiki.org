@@ -1,14 +1,9 @@
 /*
 Title: Resources
 Description: Various libraries, frameworks, data dumps and other content for bot creators.
-Date: July 23, 2015
+Show donation link: yes
 Weight: 3
 */
-
-<div class="note">
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
-</div>
-
 
 ![Not sure how this is related to "resources"](/content/images/illustrations/advice-hostess.png){.float-right}
 

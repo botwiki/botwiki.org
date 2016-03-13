@@ -1,6 +1,7 @@
 /*
 Title: Public datasets
 Description: Free data you can use in your project.
+Show donation link: yes
 Date: July 23, 2015
 
 Nav: hidden

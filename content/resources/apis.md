@@ -2,6 +2,7 @@
 Title: APIs
 Description: If you know what APIs are, you're in the right place.
 Date: July 23, 2015
+Show donation link: yes
 
 Nav: hidden
 */

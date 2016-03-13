@@ -1,6 +1,7 @@
 /*
 Title: Resources for YouTube Bots
 Description: Useful resources for making YouTube bots!
+Show donation link: yes
 Nav: hidden
 */
 

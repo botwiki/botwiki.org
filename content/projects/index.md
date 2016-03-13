@@ -1,12 +1,11 @@
 /*
 Title: Active Projects
+Show donation link: yes
 Description: See what we are working on.
 */
 
 
-The projects we are currently focusing on are:
-
-
+Here's a list of currently active projects:
 
 ### [¶](#botwiki-org){.pilcrow} Botwiki.org {#botwiki-org}
 

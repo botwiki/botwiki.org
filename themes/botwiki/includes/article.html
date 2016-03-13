@@ -1,3 +1,6 @@
+{% if meta.show_donation_link == 'yes' %}
+  {% include 'includes/donations.html' %}
+{% endif %}
 <article>
   <div class="meta">
     {% if meta.date and 'event' not in meta.tags %}

@@ -1,6 +1,7 @@
 /*
 Title: Resources for IRC bots
 Description: Libraries and other resources specifically for IRC bots.
+Show donation link: yes
 Nav: hidden
 */
 

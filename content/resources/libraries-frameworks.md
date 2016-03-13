@@ -1,6 +1,7 @@
 /*
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
+Show donation link: yes
 Date: July 23, 2015
 Tags: web,scraping,scraper,language,rhyme,rhyming,nlp,machine learning,nodejs,python,block,offensive
 Nav: hidden

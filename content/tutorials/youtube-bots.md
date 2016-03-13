@@ -2,6 +2,7 @@
 Title: Tutorials for YouTube Bots
 Description: Learn how to make a bot for YouTube!
 Nav: hidden
+Show donation link: yes
 */
 
 <p class="screenshot float-right">

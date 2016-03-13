@@ -1,12 +1,9 @@
 /*
 Title: Tutorials for Telegram Bots
 Description: Learn how to make a Telegram bot!
+Show donation link: yes
 Nav: hidden
 */
-
-<div class="note">
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
-</div>
 
 <div class="note">
   This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?

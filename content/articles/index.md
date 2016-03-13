@@ -1,14 +1,10 @@
 /*
 Title: Articles
 Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
-Date: July 22, 2015
 Author: Stefan Bohacek
+Show donation link: yes
 Weight: 4
 */
-
-<div class="note">
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
-</div>
 
 
 ![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}

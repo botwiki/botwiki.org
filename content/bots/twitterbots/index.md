@@ -1,11 +1,11 @@
 /*
 Title: Twitter bots
 Description: Bots on Twitter.
+Show donation link: yes
 Nav: hidden
 */
 
-<div class="note">Jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
-
+***Note:** Jump straight to browsing [all Twitter bots](/tag/twitterbot).*
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 

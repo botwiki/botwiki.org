@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Reddit Bots
 Description: Learn how to make a bot for Reddit!
+Show donation link: yes
 Nav: hidden
 */
 

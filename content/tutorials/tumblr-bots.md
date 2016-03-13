@@ -1,12 +1,9 @@
 /*
 Title: Tutorials for Tumblr Bots
 Description: Learn how to make a bot for Tumblr!
+Show donation link: yes
 Nav: hidden
 */
-
-<div class="note">
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
-</div>
 
 <p class="screenshot float-right">
   <a href="/bots/tumblr-bots/deadspelunkers">

@@ -1,6 +1,7 @@
 /*
 Title: Resources for Tumblr Bots
 Description: Useful resources for making Tumblr bots!
+Show donation link: yes
 Nav: hidden
 */
 

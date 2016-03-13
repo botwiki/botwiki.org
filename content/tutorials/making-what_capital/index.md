@@ -1,6 +1,7 @@
 /*
 Title: Making a Twitter bot with node.js and Cloud9
 Description: Learn to make a simple Twitter-based game.
+Show donation link: yes
 Date: November 25, 2015
 Tags: tutorial,twitter,cloud9,node,nodejs,node.js,fourtonfish
 */
@@ -8,7 +9,7 @@ Tags: tutorial,twitter,cloud9,node,nodejs,node.js,fourtonfish
 
 ![Finished bot](/content/tutorials/making-what_capital/images/finished-bot.png)
 
-Hey there, this is [Stefan](/about/team/#stefan), the creator of **Botwiki.org**.
+Hey there, this is [Stefan](/about/team/#stefan), the creator of **Botwiki.org**!
 
 In this tutorial, I'm going to guide you through the creation of a simple Twitter bot that will randomly select and post a country flag and wait for someone to respond with the correct name of the matching country. You can [check out the finished bot on Twitter](https://twitter.com/what_capital).
 

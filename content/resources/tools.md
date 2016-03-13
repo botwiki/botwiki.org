@@ -1,6 +1,7 @@
 /*
 Title: Tools
 Description: Tools to help you make clever online bots.
+Show donation link: yes
 Date: January 13, 2016
 
 Nav: hidden

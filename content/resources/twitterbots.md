@@ -1,6 +1,7 @@
 /*
 Title: Resources for Twitter bots
 Description: Libraries and other resources specifically for Twitter bots.
+Show donation link: yes
 Nav: hidden
 */
 

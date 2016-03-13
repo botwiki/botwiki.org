@@ -1,6 +1,7 @@
 /*
 Title: Resources for Slack bots
 Description: Libraries and other resources specifically for Slack bots.
+Show donation link: yes
 Nav: hidden
 */
 

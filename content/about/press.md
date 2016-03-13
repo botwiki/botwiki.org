@@ -1,7 +1,12 @@
 /*
 Title: Press
+Show donation link: yes
 Description: Articles about Botwiki, Botmakers, and related projects.
 */
+
+If you'd like to get in touch with the [Botwiki team](/about/team/), please reach out to [stefan@botwiki.org](mailto:stefan@botwiki.org).
+
+### [¶](#articles){.pilcrow} Articles {#articles}
 
 
 - [Le monde fantastique des bots sur Twitter](http://www.laboiteverte.fr/monde-fantastique-tweetbots/) -- March 10, 2016, *[laboiteverte.fr](http://www.laboiteverte.fr/monde-fantastique-tweetbots/)*

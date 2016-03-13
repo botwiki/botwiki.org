@@ -1,19 +1,16 @@
 /*
 Title: Bots
-Date: July 25, 2015
 Description: Little virtual robots.
+Show donation link: yes
 Weight: 1
 */
 
 
-<div class="note">
-Note: Jump straight to browsing bots <a href="#browse-bots-by-category">by category</a> or <a href="#browse-bots-by-network">by the network</a> on which they operate.
-</div>
+***Note:** Jump straight to browsing bots [by category](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate.*
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
 
 So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
-
 
 
 > An Internet bot, also known as web robot, WWW robot or simply bot, is a software application that runs automated tasks over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
@@ -88,10 +85,6 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 - [Snapchat bots](/tag/snapchatbot/)
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
-
-<div class="note">
-  Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
-</div>
 
 <center><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></center>
 

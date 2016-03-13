@@ -2,6 +2,7 @@
 Title: Free media
 Description: Tons of free images, sounds and videos to fuel your bot.
 Date: July 23, 2015
+Show donation link: yes
 
 Nav: hidden
 */

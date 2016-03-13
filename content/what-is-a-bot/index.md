@@ -1,6 +1,7 @@
 /*
 Title: What is a bot?
 Description: The Botmakers.org community ponders on what a bot is. 
+Show donation link: yes
 Nav: hidden
 */
 

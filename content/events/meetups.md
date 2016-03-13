@@ -1,6 +1,7 @@
 /*
 Title: Meetup groups
 Description: Meetup groups for botmakers and bot fans.
+Show donation link: yes
 Nav: hidden
 */
 

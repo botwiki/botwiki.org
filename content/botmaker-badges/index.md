@@ -2,6 +2,7 @@
 Title: Botmaker Badges
 Thumbnail: /content/botmaker-badges/images/badges-banner.png
 Description: Digital open badges for botmakers.
+Show donation link: yes
 Nav: hidden
 */
 

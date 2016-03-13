@@ -1,6 +1,7 @@
 /*
 Title: Resources for Reddit Bots
 Description: Useful resources for Reddit bot makers!
+Show donation link: yes
 Nav: hidden
 */
 
