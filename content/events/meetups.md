@@ -20,7 +20,7 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 - [Botmakers](http://www.meetup.com/botmakers/), the official Botwiki/Botmakers [Meetup](http://www.meetup.com/) group
 - [New York Slack Meetup](http://www.meetup.com/New-York-Slack-Meetup/), created by [David Markovich](https://twitter.com/DavidMarkovich_)
 
-### [¶](#san-francisco-ca){.pilcrow} San Francisco, CA {#san-francisco-ca}
+### [¶](#san-francisco){.pilcrow} San Francisco {#san-francisco}
 
 - [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/), hosted by [Kasey](https://twitter.com/bitpixi). Follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
 - [SlackDevs](http://www.meetup.com/SlackDevs/), the official [Slack](http://slackhq.com/) meetup group.
