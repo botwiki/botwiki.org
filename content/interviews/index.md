@@ -1,6 +1,8 @@
 /*
 Title: Bot! Zine Interviews
 Description: Interviews for the "Bot! zine" newsletter.
+Thumbnail: /content/images/newsstand.png
+Show donation link: yes
 Nav: hidden
 */
 
