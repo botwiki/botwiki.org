@@ -1,13 +1,12 @@
 /*
 Title: George Buckenham
 Description: George makes games and tools for botmakers, gives talks, and "always liked broken games the best".
+Thumbnail: /content/interviews/images/george.png
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
 Tags: interview,cheapbotsdonequick,v21
 */
-
-![](/content/interviews/images/george.png)
 
 George Buckenham, as it says in his Twitter bio, "always liked broken games the best". He makes [games](http://v21.io/games.html) himself, but also works on non-game projects, like his "free and radically accessible platform for writing Twitterbots" over at [cheapbotsdonequick.com](http://cheapbotsdonequick.com/), gives [talks](http://v21.io/talks.html) and [blogs](http://v21.io/blog/).
 

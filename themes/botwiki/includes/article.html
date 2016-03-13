@@ -53,6 +53,10 @@
     </div>
   {% endif %}
   {{ content }}
+
+  {% if "interview" in meta.tags %}
+    <p class="note-alternative">This was an interview from the <a href="https://botzine.org/">Bot! zine</a> interview series. <a href="/tag/interview">Read more here.</a></p>
+  {% endif %}
   <hr/>
   <div class="meta">
     <p>
@@ -96,6 +100,7 @@
     {% endif %}
     </p>
 
+
     {% if meta.tags is not empty %}
       {% if 
         'active' in meta.tags or
@@ -118,6 +123,4 @@
       </p>
     {% endif %}
   </p>
-
-
 </article>

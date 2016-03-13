@@ -1,13 +1,12 @@
 /*
 Title: Nick Harasym 
 Description: Nick Harasym, a Platform Support Specialist at DigitalOcean.
+Thumbnail: /content/interviews/images/nick.png
 Nav: hidden
 Author: Stefan Bohacek
 Date: November 3, 2015
 Tags: interview,digitalocean
 */
-
-![](/content/interviews/images/nick.png)
 
 
 Nick Harasym is a Platform Support Specialist at [DigitalOcean](https://www.digitalocean.com/). He also works on a bot for the [DigitalOcean](https://www.digitalocean.com/)'s support team.

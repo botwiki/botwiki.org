@@ -1,13 +1,12 @@
 /*
 Title: Ash Hathaway
 Description: The IBM Watson Developer Cloud Product Manager, who likes to "think about machines that think".
+Thumbnail: /content/interviews/images/ash-header.jpg
 Nav: hidden
 Author: Stefan Bohacek
 Date: January 13, 2016
 Tags: interview,ibm,watson,ash_hathaway
 */
-
-![](/content/interviews/images/ash-header.jpg)
 
 ![Ash Hathaway](/content/interviews/images/ash.png){.float-right}
 

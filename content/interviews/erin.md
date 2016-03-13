@@ -1,13 +1,12 @@
 /*
 Title: Erin McKean
 Description: Writer, founder of Wordnik and a former editor-in-chief of American Dictionaries for Oxford University Press.
+Thumbnail: /content/interviews/images/erin.jpeg
 Nav: hidden
 Author: Stefan Bohacek
 Date: October 19, 2015
 Tags: interview,wordnik,emckean
 */
-
-![](/content/interviews/images/erin.jpeg)
 
 ![Erin McKean](/content/interviews/images/erin-photo.jpg){.float-right}
 
