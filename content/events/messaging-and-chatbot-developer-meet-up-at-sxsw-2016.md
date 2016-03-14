@@ -15,3 +15,7 @@ Tags: event,archived
 - 12:30PM - 1:30PM
 - Venue: [JW Marriott](http://schedule.sxsw.com/?lsort=venue_all_days&venue=JW+Marriott), Room 211-212, 110 E 2nd St, Austin, TX ([map](https://www.google.com/maps/dir/Current+Location/110+E+2nd+St+Austin+tx))
 - [Event page](http://schedule.sxsw.com/2016/events/event_PP46960)
+
+See also:
+
+- Chris Messina's [video from his SXSW panel](https://www.facebook.com/chrismessina/videos/10154329568986874/) on bots, AI & the future of conversational UI
