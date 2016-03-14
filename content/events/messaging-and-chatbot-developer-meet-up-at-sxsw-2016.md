@@ -5,7 +5,7 @@ Link: http://schedule.sxsw.com/2016/events/event_PP46960) {#messaging-and-chatbo
 Date: March 13, 2016
 Location: Austin, TX
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=110+E+2nd+St+Austin+tx&zoom=15&size=900x300&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
