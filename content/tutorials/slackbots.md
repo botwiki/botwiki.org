@@ -39,6 +39,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)
 - [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 - [Building Slack bots with Botkit and Visual Studio Code](https://medium.com/@csinco/botkit-visual-studio-code-3252800048ba#.qurpmnoni)
+- [Serverless Slackbots Powered by AWS](http://eng.localytics.com/serverless-slackbots-powered-by-aws/)
 
 ### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
 

@@ -9,7 +9,10 @@ Nav: hidden
   This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
 </div>
 
-Learn how to make a bot for [Telegram](https://telegram.org/):
+Learn how to make a bot for [Telegram](https://telegram.org/)!
+
+
+### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
 - [Bots: An introduction for developers](https://core.telegram.org/bots)
 - [Telegram Bot Tutorials](https://www.youtube.com/playlist?list=PLZI3P0VZBj6Hilx7Z-m1jMub2wZwxP5dO) -- a YouTube playlist
@@ -19,5 +22,10 @@ Learn how to make a bot for [Telegram](https://telegram.org/):
 - [Writing Telegram Bot with PHP using Guzzle](http://www.maastaar.net/php/telegram%20bot/2016/01/16/writing-telegram-bot-with-php-using-guzzle/)
 - [How to easily build a Telegram Bot with Hook.io](https://unnikked.ga/build-telegram-bot-hook-io)
 - [Create an automated bot on Telegram without coding, using Zapier and Paquebot](https://medium.com/chatfuel-blog/how-to-create-an-automated-bot-on-telegram-without-coding-using-zapier-and-paquebot-5a635a3b867b#.qv5t0my0q)
+
+
+### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
+
+- [Telegram Bot Using AWS API Gateway and AWS Lambda](https://lesterchan.net/blog/2016/03/11/telegram-bot-using-aws-api-gateway-and-aws-lambda/)
 
 You can also [browse all Telegram bots](/tag/telegrambot).
