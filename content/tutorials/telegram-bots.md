@@ -27,5 +27,6 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
 - [Telegram Bot Using AWS API Gateway and AWS Lambda](https://lesterchan.net/blog/2016/03/11/telegram-bot-using-aws-api-gateway-and-aws-lambda/)
+- [Exploring Telegram Bot API for Groups](https://unnikked.ga/exploring-bot-group-api)
 
 You can also [browse all Telegram bots](/tag/telegrambot).
