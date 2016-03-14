@@ -32,7 +32,12 @@ This section lists general tools and articles that discuss tools and possible ap
 
 ### [¶](#dialog-tools){.pilcrow} Dialog tools {#dialog-tools}
 
-Tools for creating dialog mockups.
+#### [¶](#dialog-tools-languages){.pilcrow} Languages and dialog systems {#dialog-tools-languages}
+
+- [RiveScript](https://www.rivescript.com/), see also [bots using RiveScript](/tag/bot+rivescript)
+- [ink](http://www.inklestudios.com/ink/) -- narrative scripting language
+
+#### [¶](#dialog-tools-mockups){.pilcrow} Tools for creating dialog mockups {#dialog-tools-mockups}
 
 - [Twine](http://twinery.org/) -- an open-source tool for telling interactive, nonlinear stories
 - [The Poor Man's Dialogue Tree](http://etodd.io/2014/05/16/the-poor-mans-dialogue-tree/) (article)
