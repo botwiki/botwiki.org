@@ -12,8 +12,8 @@ This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org
 
 - March 21, 2016
 - 6:30pm - 8pm
-- Gyro Office, 14th Floor, 115 Broadway New York, NY 10006 USA ([map](https://www.google.com/maps/dir/Current+Location/115+Broadway+New+York+NY+10006+USA))
-
+- 115 Broadway, New York ([map](https://www.google.com/maps/dir/Current+Location/115+Broadway+New+York+NY+10006+USA))
+- Gyro Office, 14th Floor
  
 
 ## [¶](#agenda){.pilcrow} Agenda {#agenda}
