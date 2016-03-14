@@ -49,7 +49,7 @@ This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td class="event-description">Founder of <a href="http://rundexter.com">Dexter</a>, a tool that lets you quickly build and share integrations of various online services, will share the story and the future vision of Dexter, a tool that lets you to build and share integrations of various online services.</td>
+    <td class="event-description">Founder of <a href="http://rundexter.com">Dexter</a>, a tool that lets you quickly build and share integrations of various online services, will share the story and the future vision of Dexter.</td>
   </tr>
   <tr>
     <td class="event-time">7:10-8:00</td>
