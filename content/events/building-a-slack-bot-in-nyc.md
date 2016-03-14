@@ -2,6 +2,7 @@
 Title: Building a Slack Bot in NYC
 Link: http://www.meetup.com/New-York-Slack-Meetup/events/227552998/
 Date: March 10, 2016
+Description: Join us for the first-ever NYC Slack meetup and get to know some of the top players in the Slack ecosystem.
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=https://www.google.com/maps/dir/Current+Location/253+W.+35th+St+New+York+NY+us&zoom=15&size=900x300&maptype=roadmap
 Tags: event,archived
 */
