@@ -68,6 +68,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 ### [¶](#chat){.pilcrow} Chat/conversational interfaces {#chat}
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details)
 - [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF)
+- [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040#.60e9wu4h6)
 
 ### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
