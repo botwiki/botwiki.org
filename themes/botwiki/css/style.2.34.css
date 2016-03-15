@@ -488,6 +488,7 @@ form#search-form input {
   padding: 0.5em 5px;
   border-radius: 4px;
   width: 100%;
+  line-height: 1.2em;
 }
 div#content-wrapper {
   margin: 0 auto;
@@ -594,6 +595,16 @@ div.sponsors-corporate-organizations img {
   vertical-align: middle;
   margin: 1em;
 }
+table.event-table td {
+  padding: 0.5em 0;
+}
+table.event-table td.event-time {
+  min-width: 5em;
+  font-weight: bold;
+}
+table.event-table td.event-speaker {
+  font-weight: bold;
+}
 /* Misc Styles
 /*---------------------------------------------*/
 div.search-instructions,
@@ -630,7 +641,7 @@ p.screenshot {
 }
 @media (min-width: 800px) {
   p.screenshot {
-    max-width: 45%;
+    max-width: 38%;
     padding: 0 0 35px;
   }
 }

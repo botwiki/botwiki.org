@@ -1,10 +1,8 @@
 /*
-Title: Welcome To Botwiki.org
+Title: Welcome To Botwiki
 Description: Botwiki.org is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots.
 Nav: hidden
 */
-
-**Botwiki.org** is a catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
 
 <p class="screenshot float-right">
@@ -12,6 +10,8 @@ Nav: hidden
     <img src="/content/bots/twitterbots/images/NixieBot.png">
   </a>
 </p>
+
+**Botwiki** is a catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
 Some examples of such bots include:
 
