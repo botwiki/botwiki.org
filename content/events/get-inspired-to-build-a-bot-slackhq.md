@@ -5,7 +5,7 @@ Link: http://schedule.sxsw.com/2016/events/event_PP46960) {#messaging-and-chatbo
 Date: March 14, 2016
 Location: 155 5th St, San Francisco, CA
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=155+5th+St+San+Francisco+CA&zoom=15&size=900x300&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
