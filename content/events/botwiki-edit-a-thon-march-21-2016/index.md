@@ -58,9 +58,20 @@ This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org
 </table>
 
 
+
 Note that the times are approximate. The idea is to give each speaker 5-10 minutes (15 minutes max) to talk about their topic. If the talks take a bit longer, the main portion of the edit-a-thon will be shortened -- but you are free to continue contributing to Botwiki any time :-)
 
 
 You can RSVP to this event on [meetup.com](http://www.meetup.com/botmakers/events/228956424/). Make sure to bring a laptop!
 
 Looking forward to seeing you there :-)
+
+
+
+## [¶](#slides){.pilcrow} Slides {#slides}
+
+- [Stefan Bohacek: Botwiki 8 Months Later](/content/events/botwiki-edit-a-thon-march-21-2016/botwiki-presentation.pdf)
+- [Justin Myers: Bots in Journalism](/content/events/botwiki-edit-a-thon-march-21-2016/Botwiki-Edit-A-Thon-Journalism.pdf)
+- [Leonard Richardson: SELECT * FROM culture ORDER BY random() LIMIT 1;](/content/events/botwiki-edit-a-thon-march-21-2016/select-from-culture.pdf)
+- [Daniel Ilkovich: Presenting Dexter](/content/events/botwiki-edit-a-thon-march-21-2016/dexter-botwiki-presentation.pdf)
+
