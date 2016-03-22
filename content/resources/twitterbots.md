@@ -82,7 +82,8 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 #### [¶](#other-unsorted){.pilcrow} Unsorted {#other-unsorted}
 
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/) -- *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
-- [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- A tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
+- [Tracery Writer](https://beaugunderson.com/tracery-writer/) -- a tool that lets you write bots for CBDQ
+- [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/) -- a tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
 - [I Will Dance The OAuth Dance For You](http://v21.io/iwilldancetheoauthdanceforyou/) -- a tool to help obtain oauth credentials for an account
 - [MikeNGarrett/twitter-blacklist](https://github.com/MikeNGarrett/twitter-blacklist) -- "100,000+ twitter account ids that are total crap, spam, or bots"
 - [a Perl command line client](http://www.floodgap.com/software/ttytter/) 
