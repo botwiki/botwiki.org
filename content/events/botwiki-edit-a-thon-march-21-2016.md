@@ -4,7 +4,7 @@ Description: Let's edit Botwiki. Together!
 Link: http://www.meetup.com/botmakers/events/228956424/
 Date: March 21, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=115+Broadway+New+York+NY+10006+USA+Brooklyn+NY&zoom=15&size=900x300&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
