@@ -32,9 +32,10 @@ Enjoy!
 
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
-- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+- [You Are The Bot: An intervention for bot developers.](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
