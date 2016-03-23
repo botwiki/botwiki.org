@@ -3,9 +3,13 @@ Title: Botwiki Edit-a-Thon, March 21 2016
 Description: Let's edit Botwiki. Together!
 Link: http://www.meetup.com/botmakers/events/228956424/
 Date: March 21, 2016
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=115+Broadway+New+York+NY+10006+USA+Brooklyn+NY&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: /content/events/botwiki-edit-a-thon-march-21-2016/photos/botwiki-edit-a-thon.jpg
 Tags: event,archived
 */
+
+
+<style type="text/css">
+</style>
 
 
 This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org/wiki/Edit-a-thon)! The space, food and drinks are generously being provided by [Gyro](https://www.gyro.com/).
@@ -14,7 +18,6 @@ This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org
 - 6:30pm - 8pm
 - 115 Broadway, New York ([map](https://www.google.com/maps/dir/Current+Location/115+Broadway+New+York+NY+10006+USA))
 - Gyro Office, 14th Floor
- 
 
 ## [¶](#agenda){.pilcrow} Agenda {#agenda}
 
@@ -75,3 +78,61 @@ Looking forward to seeing you there :-)
 - [Leonard Richardson: SELECT * FROM culture ORDER BY random() LIMIT 1;](/content/events/botwiki-edit-a-thon-march-21-2016/select-from-culture.pdf)
 - [Daniel Ilkovich: Presenting Dexter](/content/events/botwiki-edit-a-thon-march-21-2016/dexter-botwiki-presentation.pdf)
 
+
+<!-- GALERY: COMING SOON!
+
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_180501499.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_183404423.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_191717245.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_192423364.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_192849785.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_193350689.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_193519653.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_193521594.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_193816259.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_194949298.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_195122497.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_195330294.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_195727456.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_195730325.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_195830311.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_201044580.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_201046143.jpg />
+</article>
+<article>
+  <img src=/content/events/botwiki-edit-a-thon-march-21-2016/photos/IMG_20160321_202904984.jpg />
+</article>
+-->
