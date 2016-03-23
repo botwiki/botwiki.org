@@ -26,6 +26,11 @@ Below is a list of [individuals](#individual-sponsors), [corporations and other 
      title="DigitalOcean, the sponsor of the very first Monthly Bot Challenge">
     <img src="/content/images/logos/digitalocean-logo.png">
   </a>
+  <a href="https://www.gyro.com/" 
+     alt="Gyro"
+     title="Gyro, the host of the first Botwiki edit-a-thon">
+    <img src="/content/images/logos/gyro.jpg">
+  </a>
   <a href="http://www.andfestival.org.uk/" 
      alt="Abandon Normal Devices logo"
      title="Abandon Normal Devices, the sponsor of the March 2016 Monthly Bot Challenge">
