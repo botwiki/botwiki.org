@@ -80,7 +80,6 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 - [You Are The Bot: An intervention for bot developers.](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
-- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
 
 ### [¶](#other){.pilcrow} Other {#other}

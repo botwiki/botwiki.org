@@ -34,6 +34,8 @@ Enjoy!
 ***See also: [Bot ethics](/tutorials/#bot-ethics)***
 
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
+- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
+
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
