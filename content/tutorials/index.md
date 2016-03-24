@@ -76,6 +76,13 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
 
+### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
+
+- [You Are The Bot: An intervention for bot developers.](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
+- [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
+- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+
 ### [¶](#other){.pilcrow} Other {#other}
 - [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
