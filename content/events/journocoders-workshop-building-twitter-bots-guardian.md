@@ -2,7 +2,7 @@
 Title: Journocoders workshop: Building Twitter bots at the Guardian
 Link: http://www.meetup.com/Journocoders/events/225874989/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225874989
 Date: October 22, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Kings+Place,+90+York+Way,+London&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Kings+Place,+90+York+Way,+London&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

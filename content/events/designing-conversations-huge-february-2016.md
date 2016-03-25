@@ -3,7 +3,7 @@ Title: Designing Conversations: Rise of the Bots, 2016
 Description: Join us for a UX and development workshop on conversation design and AI. 
 Link: http://www.meetup.com/Huge-LA/events/228204876
 Date: February 2, 2016
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=110+E+2nd+St+Austin+tx&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=110+E+2nd+St+Austin+tx&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

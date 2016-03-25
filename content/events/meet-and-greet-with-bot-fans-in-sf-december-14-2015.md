@@ -2,7 +2,7 @@
 Title: Meet and Greet with Bot Fans in SF!
 Link: http://www.meetup.com/Bay-Area-Bot-Arts/events/226815239/
 Date: December 14, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Make+School+1547+Mission+St+San+Francisco+CA&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Make+School+1547+Mission+St+San+Francisco+CA&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

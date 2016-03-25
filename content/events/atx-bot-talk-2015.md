@@ -3,7 +3,7 @@ Title: ATX Bot Talk 2015
 Description: If you're excited about bot interactions or conversational UI, you're invited to attend the first ATX Bot Talk meetup at Seaholm Power Plant! 
 Link: http://atxbots.splashthat.com/
 Date: October 21, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=800+W.+Cesar+Chavez+St.+Austin+Tx&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=800+W.+Cesar+Chavez+St.+Austin+Tx&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

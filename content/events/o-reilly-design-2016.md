@@ -3,7 +3,7 @@ Title: O'Reilly Design 2016
 Description: Join us for a UX and development workshop on conversation design and AI. 
 Link: http://conferences.oreilly.com/design-ux-interaction-iot
 Date: January 19, 2016
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Fort+Mason+Center+2+Marina+Boulevard+San+Francisco+CA+94123&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Fort+Mason+Center+2+Marina+Boulevard+San+Francisco+CA+94123&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

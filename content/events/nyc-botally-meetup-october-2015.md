@@ -2,7 +2,7 @@
 Title: NYC #botALLY Meetup, October 2015
 Link: https://www.eventbrite.com/e/unofficial-bot-summitbotally-nyc-meetup-tickets-18942088296
 Date: October 23, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=155+Bank+St+New+York+NY&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=155+Bank+St+New+York+NY&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived,botally
 */
 

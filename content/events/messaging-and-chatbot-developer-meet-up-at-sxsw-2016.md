@@ -4,7 +4,7 @@ Description: Share what you're working on with other developers, and talk about 
 Link: http://schedule.sxsw.com/2016/events/event_PP46960) {#messaging-and-chatbot-developer-meet-up-ben-brown-2016-sxsw
 Date: March 13, 2016
 Location: Austin, TX
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=110+E+2nd+St+Austin+tx&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=110+E+2nd+St+Austin+tx&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

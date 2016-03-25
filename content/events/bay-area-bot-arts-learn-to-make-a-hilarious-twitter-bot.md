@@ -2,7 +2,7 @@
 Title: Learn To Make A Hilarious Twitter Bot, Bay Area Bot Arts Meetup
 Link: http://www.meetup.com/Bay-Area-Bot-Arts/events/226719808/
 Date: December 6, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Sophia+University,1069+East+Meadow+Circle,Palo+Alto,CA&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

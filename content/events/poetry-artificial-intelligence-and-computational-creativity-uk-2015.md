@@ -2,7 +2,7 @@
 Title: Poetry, Artificial Intelligence and Computational Creativity
 Link: https://www.eventbrite.co.uk/e/poetry-artificial-intelligence-and-computational-creativity-tickets-18530643654
 Date: November 14, 2015
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=The+Octagon+Queen+Mary+University+of+London+Mile+End+Road+E1+4NS+London+United+Kingdom&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=The+Octagon+Queen+Mary+University+of+London+Mile+End+Road+E1+4NS+London+United+Kingdom&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

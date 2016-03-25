@@ -1,7 +1,7 @@
 /*
 Title: Bot Summit 2016
 Description: Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Cromwell+Rd+London+SW7+2RL+United+Kingdom&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Cromwell+Rd+London+SW7+2RL+United+Kingdom&zoom=15&size=900x220&scale=2&scale=2&maptype=roadmap
 Link: http://tinysubversions.com/botsummit/2016/
 Date: April 9th, 2016
 Location: London

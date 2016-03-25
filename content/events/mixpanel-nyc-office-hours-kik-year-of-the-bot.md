@@ -2,7 +2,7 @@
 Title: Mixpanel NYC Office Hours: Kik Year Of The Bot
 Description: Come learn how Kik sees the future of mobile!
 Date: March 24, 2016 
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=115+West+18th+Street+New+York+NY&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=115+West+18th+Street+New+York+NY&zoom=15&size=900x220&scale=2&maptype=roadmap
 Link: https://mixpanelkiknyc.splashthat.com/
 Tags: event,upcoming
 */

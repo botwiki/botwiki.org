@@ -3,7 +3,7 @@ Title: IBM Watson + Robots = Cognitive IoT
 Description: Join us for a UX and development workshop on conversation design and AI. 
 Link: http://www.meetup.com/IBM-Watson-and-Cognitive-Computing/events/227441913/
 Date: January 25, 2016
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=1001+E.+Hillsdale+Blvd+Suite+400+Foster+City+CA&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=1001+E.+Hillsdale+Blvd+Suite+400+Foster+City+CA&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 
