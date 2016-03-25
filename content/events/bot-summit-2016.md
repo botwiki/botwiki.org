@@ -1,18 +1,19 @@
 /*
 Title: Bot Summit 2016
 Description: Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Victoria+&+Albert+Museum+London&zoom=15&size=900x300&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Cromwell+Rd+London+SW7+2RL+United+Kingdom&zoom=15&size=900x300&maptype=roadmap
 Link: http://tinysubversions.com/botsummit/2016/
 Date: April 9th, 2016
 Location: London
 Tags: event,upcoming,bot summit,botally
 */
 
+> Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
+
 - April 9th, 2016
 - 4pm - 9pm (GMT)
-- Victoria & Albert Museum, London ([map](https://www.google.com/maps/dir/Current+Location/Victoria+&+Albert+Museum+London))
+- Victoria & Albert Museum, Cromwell Rd, London, United Kingdom ([map](https://www.google.com/maps/dir/Current+Location/Cromwell+Rd+London+SW7+2RL+United+Kingdom))
 
-> Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.
 
 See also:
 
