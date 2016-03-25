@@ -39,6 +39,7 @@ Enjoy!
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+- March 10, 2016 -- [The Premise Podcast: Rise Of The Bots](http://www.forbes.com/sites/bruceupbin/2016/03/10/listen-to-the-premise-podcast-episode-2-rise-of-the-bots/#526ae55a4875) (podcast)
 - February 24, 2016 -- [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet)
 - February 23, 2016 -- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots)
 - February 18, 2016 -- [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/)
