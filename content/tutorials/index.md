@@ -66,9 +66,11 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
 
 ### [¶](#chat){.pilcrow} Chat/conversational interfaces {#chat}
+- [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/)
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details)
 - [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF)
 - [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040#.60e9wu4h6)
+- [What Installing 15+ Slack Bots Taught Me About A Great Onboarding Experience](https://medium.com/@thecoolestcool/what-installing-15-slack-bots-taught-me-about-a-great-onboarding-experience-da04288a33d6#.36j71xppk)
 
 ### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
@@ -88,6 +90,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/)
 
 ### [¶](#other){.pilcrow} Other {#other}
+- [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)
 - [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/)

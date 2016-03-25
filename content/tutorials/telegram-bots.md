@@ -22,6 +22,7 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 - [Writing Telegram Bot with PHP using Guzzle](http://www.maastaar.net/php/telegram%20bot/2016/01/16/writing-telegram-bot-with-php-using-guzzle/)
 - [How to easily build a Telegram Bot with Hook.io](https://unnikked.ga/build-telegram-bot-hook-io)
 - [Create an automated bot on Telegram without coding, using Zapier and Paquebot](https://medium.com/chatfuel-blog/how-to-create-an-automated-bot-on-telegram-without-coding-using-zapier-and-paquebot-5a635a3b867b#.qv5t0my0q)
+- [Quickly Create a Telegram Bot in Ruby](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)
 
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}

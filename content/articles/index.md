@@ -35,10 +35,16 @@ Enjoy!
 
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
+- [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (PDF)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+
+- March 24, 2016 -- [Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage](http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502)
+- March 21, 2016 -- [That weird thing Jeff Bezos said 17 years ago](https://medium.com/building-the-robot-assistant/that-weird-thing-jeff-bezos-said-17-years-ago-3d9d3596c888#.75ibpjpzv)
+- March 20, 2016 -- [What Bots May Come](https://medium.com/@_roysd/what-bots-may-come-a35b2bb9bd58#.1gycvqqgz)
+- March 17, 2016 -- [Facebook’s Messenger Bot Store could be the most important launch since the App Store](http://techcrunch.com/2016/03/17/facebooks-messenger-in-a-bot-store/)
 - March 10, 2016 -- [The Premise Podcast: Rise Of The Bots](http://www.forbes.com/sites/bruceupbin/2016/03/10/listen-to-the-premise-podcast-episode-2-rise-of-the-bots/#526ae55a4875) (podcast)
 - February 24, 2016 -- [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet)
 - February 23, 2016 -- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots)
