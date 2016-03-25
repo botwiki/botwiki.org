@@ -71,6 +71,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040#.60e9wu4h6)
 
 ### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
+- [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
