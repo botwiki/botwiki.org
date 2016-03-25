@@ -8,7 +8,7 @@ Weight: 2
 
 [![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
-***Note:* Before you start making bots, consider reading [these essays and articles](#bot-ethics).*
+**Note:* Before you start making bots, consider reading [these essays and articles](#bot-ethics).*
 
 There is a variety of tools that make creating bots very easy. From [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) (specifically for Twitter bots) and [Dexter](https://rundexter.com/), which is still in beta, but aims to make creating bots as easy as [dragging and dropping](https://twitter.com/fourtonfish/status/664130256266264576), to browser-based development environments, like [Cloud9](https://c9.io/). You can also find many [opensourced bots](/tag/opensource) that you can reuse and build on top of.
 
