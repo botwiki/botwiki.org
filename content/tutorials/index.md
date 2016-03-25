@@ -77,6 +77,8 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
+- [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
+
 
 ### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
 
