@@ -76,6 +76,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
+- [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
 ### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
 
