@@ -87,8 +87,9 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 - [You Are The Bot: An intervention for bot developers.](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
-- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+- [What Good is a Bad Bot?](https://blog.howdy.ai/what-good-is-a-bad-bot-841226281a0e#.1ef1zinl9)
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/)
+- [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
 
 ### [¶](#other){.pilcrow} Other {#other}
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)
