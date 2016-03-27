@@ -5,6 +5,10 @@ Show donation link: yes
 Nav: hidden
 */
 
+
+***Note: Before you start making bots, consider reading [these essays and articles](/tutorials/#bot-ethics). Also worth browsing: [resources for cleaning up your bot's language](/resources/libraries-frameworks/#language).***
+
+
 <p class="screenshot float-right">
   <a href="/bots/slackbots/slack-tableflip">
     <img src="/content/bots/slackbots/images/slack-tableflip.png">

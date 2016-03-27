@@ -5,6 +5,8 @@ Show donation link: yes
 Nav: hidden
 */
 
+***Note: Before you start making bots, consider reading [these essays and articles](/tutorials/#bot-ethics). Also worth browsing: [resources for cleaning up your bot's language](/resources/libraries-frameworks/#language).***
+
 > Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
 
 -- [Wikipedia](https://en.wikipedia.org/wiki/Twitter)

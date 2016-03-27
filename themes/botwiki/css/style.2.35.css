@@ -160,10 +160,22 @@ select:focus {
   background: #fff;
   border: 1px solid #666666;
 }
+::-webkit-input-placeholder {
+  font-family: 'Source Serif Pro', serif;
+}
+:-moz-placeholder {
+  font-family: 'Source Serif Pro', serif;
+}
+::-moz-placeholder {
+  font-family: 'Source Serif Pro', serif;
+}
+:-ms-input-placeholder {
+  font-family: 'Source Serif Pro', serif;
+}
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.2em 'Alegreya', Helvetica, Arial, Helvetica, sans-serif;
+  font: 1.2em 'Source Serif Pro', serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 80px;
@@ -179,7 +191,7 @@ a:hover,
 a:active {
   color: #160f18;
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   a:hover,
   a:active {
     text-decoration: underline;
@@ -222,13 +234,7 @@ a.pilcrow:hover {
 }
 h1,
 article h2 {
-  font-size: 2.5em;
-}
-@media (max-width: 800px) {
-  h1,
-  article h2 {
-    font-size: 2em;
-  }
+  font-size: 2em;
 }
 h2 {
   font-size: 1.8em;
@@ -325,7 +331,7 @@ img.centered {
   margin: 3em auto;
   max-width: 100%;
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   img.extra-margin {
     margin-top: -1.3em;
   }
@@ -369,12 +375,11 @@ div.all-tags a {
   top: 0;
   left: 0;
   right: 0;
-  padding: 10px 0 10px;
+  padding: 1em 0;
   color: #5D9CEC;
   background-color: #38313a;
   -webkit-box-shadow: 0 4px 40px -15px #333333;
   box-shadow: 0 4px 40px -15px #333333;
-  border-top: 6px solid #ED5565;
 }
 #header a {
   color: #5D9CEC;
@@ -392,7 +397,7 @@ div.all-tags a {
   padding-bottom: 8px;
 }
 @media (min-width: 912px) {
-  #header a:hover {
+  #header nav a:hover {
     border-bottom: 3px solid #F5F5F5;
   }
 }
@@ -405,21 +410,21 @@ div.all-tags a {
   text-decoration: none;
 }
 #header h1 {
-  font-size: 2em;
+  font-size: 1.6em;
   font-weight: bold;
-  margin: 10px 0;
+  margin: 5px 0;
   float: left;
 }
 header,
 footer {
-  max-width: 1260px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 header .inner,
 footer .inner {
-  max-width: 1330px;
+  max-width: 1200px;
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   li.active a {
     border-bottom: 3px solid #F5F5F5;
   }
@@ -447,7 +452,7 @@ ul#menu {
 #header nav {
   float: right;
   list-style: none;
-  margin: 0.8em 0 0;
+  margin: 0.2em 0 0;
   padding: 0;
 }
 #header nav li {
@@ -457,14 +462,14 @@ ul#menu {
   margin-left: 35px;
   float: right;
 }
-@media (max-width: 1040px) {
+@media (max-width: 940px) {
   #header nav li.form-wrapper {
     margin-top: 15px;
     float: none;
   }
 }
 #header nav a {
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #fff;
   font-weight: bold;
 }
@@ -474,7 +479,7 @@ ul#menu {
 }
 #header ul {
   list-style: none;
-  padding-top: 5px;
+  padding-top: 0.6em;
 }
 #header li {
   display: inline-block;
@@ -486,18 +491,18 @@ form#search-form {
 }
 form#search-form input {
   padding: 0.5em 5px;
-  border-radius: 4px;
+  border-radius: 2px;
   width: 100%;
   line-height: 1.2em;
 }
 div#content-wrapper {
   margin: 0 auto;
-  max-width: 1260px;
+  max-width: 1200px;
 }
 #content {
   min-height: 800px;
   background-color: #fff;
-  padding: 0 0 100px;
+  padding: 0 0 200px;
   margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.3em;
@@ -507,12 +512,12 @@ div#content-wrapper {
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
-@media (max-width: 990px) {
+@media (max-width: 940px) {
   #content {
     padding: 2em 0 100px;
   }
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   aside#sidebar {
     display: block;
     max-width: 275px;
@@ -523,21 +528,21 @@ div#content-wrapper {
     top: 10px;
   }
 }
-@media (max-width: 990px) {
+@media (max-width: 940px) {
   aside#sidebar {
     overflow: auto;
   }
 }
 aside#sidebar p {
   font-size: 0.9em;
-  margin: 0 0 1em;
+  margin: 0 0.4em 1em;
   text-align: center;
 }
 aside#sidebar img {
   display: block;
   margin: 0 auto 0.7em;
 }
-@media (max-width: 990px) {
+@media (max-width: 940px) {
   div.sidebar-module {
     width: 33%;
     float: left;
@@ -552,7 +557,7 @@ aside#sidebar img {
 aside#sidebar hr {
   max-width: 25%;
 }
-@media (max-width: 990px) {
+@media (max-width: 940px) {
   aside#sidebar hr {
     display: none;
   }
@@ -562,21 +567,21 @@ aside#sidebar hr {
     display: block;
   }
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   div.sidebar-module:not(:first-child) {
     margin-top: 10px;
   }
 }
-@media (min-width: 990px) {
+@media (min-width: 940px) {
   div#main {
     margin-right: 275px;
-    padding: 1.5em 2em 5em;
+    padding: 2em 2em 5em;
   }
 }
 #footer {
   color: #38313a;
   line-height: 1.2em;
-  margin-bottom: 4em;
+  margin: 6em auto 2em;
 }
 #footer a {
   color: #38313a;
@@ -740,7 +745,7 @@ img.logo-digitalocean {
     font-size: 1em;
   }
 }
-@media (max-width: 1100px) {
+@media (max-width: 940px) {
   #header #menu-icon {
     display: inline-block;
   }
@@ -776,7 +781,7 @@ img.logo-digitalocean {
     margin-left: 30px;
   }
   div.callout {
-    max-width: 1260px;
+    max-width: 1200px;
     margin: 0 auto;
     font-weight: bold;
     background-color: #050007;

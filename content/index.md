@@ -26,4 +26,4 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 
 
 
-***PS: [Here](/about/support)'s how you can support Botwiki!***
+***PS: Here's how you can [support Botwiki](/about/support)! And be sure to follow [@botwikidotorg](https://twitter.com/botwikidotorg) :-)***

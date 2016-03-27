@@ -40,6 +40,7 @@ Enjoy!
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+#### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 - March 24, 2016 -- [Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage](http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502)
 - March 21, 2016 -- [That weird thing Jeff Bezos said 17 years ago](https://medium.com/building-the-robot-assistant/that-weird-thing-jeff-bezos-said-17-years-ago-3d9d3596c888#.75ibpjpzv)
@@ -51,6 +52,9 @@ Enjoy!
 - February 18, 2016 -- [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/)
 - February 13, 2016 -- [The fall...and rise and rise and rise of chat networks](http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/)
 - January 5, 2016 -- [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities)
+
+#### [¶](#selected-articles-2015){.pilcrow} 2015 {#selected-articles-2015}
+
 - October 6, 2015 -- [Agent, Droid, Infobot: the texty Twitter robots Tully Hansen has known and loved](http://www.wheelercentre.com/notes/twitter-bots-tully-hansen-has-known-and-loved) by [Tully Hansen](https://twitter.com/tullyhansen)
 - September 29, 2015 -- [Forget Apps, Now The Bots Take Over](http://techcrunch.com/2015/09/29/forget-apps-now-the-bots-take-over/)
 - August 4, 2015 -- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/)
@@ -62,8 +66,14 @@ Enjoy!
 - March 23, 2015 -- [Is Twitter the Next Gaming Platform?](http://iq.intel.com/is-twitter-the-next-playground-for-gamers/)
 - March 11, 2015 -- [Bot or Not](http://www.nybooks.com/blogs/nyrblog/2015/mar/11/twitter-bot-or-not/): *Because the Twitterverse is made of text, rather than rocks and trees and bones and blood, it’s suddenly quite easy to make bots. Now there are millions, by Twitter’s own estimates—most of them short-lived and invisible nuisances.*
 - January 13, 2015 -- [A Brief History Of The Future Of Twitter Bots (pdf)](http://www.gamesbyangelina.org/talks/codecamp.pdf), by [Michael Cook](https://twitter.com/mtrc) [[mirror]](/content/articles/download/michael_cook--a_brief_history_of_the_future_of_twitter_bots.pdf)
+
+#### [¶](#selected-articles-2014){.pilcrow} 2014 {#selected-articles-2014}
+
 - May 30, 2014 -- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
+
+#### [¶](#selected-articles-2013){.pilcrow} 2013 {#selected-articles-2013}
+
 - November 14, 2013 -- [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots)
 - June 8, 2013 -- [Genre: Bot](http://iloveepoetry.com/?p=5427): reviews of various Twitter bots on [iloveepoetry.com](http://iloveepoetry.com/?p=5427)
 - March 21, 2013 -- [Beyond the GUI: It's Time for a Conversational User Interface](http://www.wired.com/2013/03/conversational-user-interface/)

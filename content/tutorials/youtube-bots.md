@@ -5,6 +5,9 @@ Nav: hidden
 Show donation link: yes
 */
 
+***Note: Before you start making bots, consider reading [these essays and articles](/tutorials/#bot-ethics). Also worth browsing: [resources for cleaning up your bot's language](/resources/libraries-frameworks/#language).***
+
+
 <p class="screenshot float-right">
   <a href="/bots/youtube-bots/treasurecolumn">
     <img src="/content/bots/youtube-bots/images/Treasure_Column.png">
