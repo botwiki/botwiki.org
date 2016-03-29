@@ -454,7 +454,8 @@ ul#menu{
   margin-left: 35px;
   float: right;
   @media (max-width : 940px){
-    margin-top: 15px;
+    margin-top: 1em;
+    margin-bottom: 1em;
     float: none;
   }
 }
@@ -787,7 +788,9 @@ img.logo-digitalocean{
     position: absolute;
     padding: 20px;
     background: #fff;
-    border: 5px solid #444;
+    border-top: 2px solid @main-color;
+    border-bottom: 2px solid @main-color;
+    box-shadow: 0 10px 100px -10px #333;
     left: -100px;
     top: 80px;
     width: 100%;
