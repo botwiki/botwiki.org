@@ -284,6 +284,11 @@ hr{
   max-width: 100%;
 }
 
+footer hr{
+  max-width: 20%;
+  margin-bottom: 4em;
+}
+
 center{
   padding: 2em 0;
 }
@@ -475,10 +480,10 @@ form#search-form{
 }
 
 form#search-form input{
-  padding: 0.5em 5px;
-  border-radius: 2px;
+  padding: 0.5em 1em;
+  border-radius: 20px;
   width: 100%;
-  line-height: 1.2em;
+  line-height: 1em;
 }
 
 div#content-wrapper{
@@ -487,15 +492,13 @@ div#content-wrapper{
 }
 
 #content{
-  min-height: 800px;
+  min-height: 900px;
   background-color: #fff;
-  padding: 0 0 200px;
+  padding: 0;
   margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.3em;
   position: relative;
-
-  box-shadow: -10px 10px 40px -20px #ddd, 10px 10px 40px -20px #ddd;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 
@@ -510,9 +513,11 @@ aside#sidebar{
     max-width: @sidebar-width;
     position: absolute;
     border-left: 1px solid #efefef;
+    background-color: #fdfdfd;
     padding: 0 10px;
     right: 0;
     top: 10px;
+    bottom: 0;
   }
 
   @media (max-width : 940px){
@@ -568,7 +573,8 @@ div#main{
 #footer {
   color: @main-color;
   line-height: 1.2em;
-  margin: 6em auto 2em;
+  font-size: 0.9em;
+  margin: 4em auto 2em;
 }
 
 #footer a {
@@ -580,9 +586,6 @@ div#main{
   color: @main-color + #333;
 }
 
-#footer p{
-  text-align: justify;
-}
 
 div.sponsors-corporate-organizations{
   text-align: center;

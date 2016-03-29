@@ -319,6 +319,10 @@ hr {
   margin: 2em auto 2em;
   max-width: 100%;
 }
+footer hr {
+  max-width: 20%;
+  margin-bottom: 4em;
+}
 center {
   padding: 2em 0;
 }
@@ -490,25 +494,23 @@ form#search-form {
   margin-top: -0.5em;
 }
 form#search-form input {
-  padding: 0.5em 5px;
-  border-radius: 2px;
+  padding: 0.5em 1em;
+  border-radius: 20px;
   width: 100%;
-  line-height: 1.2em;
+  line-height: 1em;
 }
 div#content-wrapper {
   margin: 0 auto;
   max-width: 1200px;
 }
 #content {
-  min-height: 800px;
+  min-height: 900px;
   background-color: #fff;
-  padding: 0 0 200px;
+  padding: 0;
   margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.3em;
   position: relative;
-  -webkit-box-shadow: -10px 10px 40px -20px #dddddd, 10px 10px 40px -20px #dddddd;
-  box-shadow: -10px 10px 40px -20px #dddddd, 10px 10px 40px -20px #dddddd;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
@@ -523,9 +525,11 @@ div#content-wrapper {
     max-width: 275px;
     position: absolute;
     border-left: 1px solid #efefef;
+    background-color: #fdfdfd;
     padding: 0 10px;
     right: 0;
     top: 10px;
+    bottom: 0;
   }
 }
 @media (max-width: 940px) {
@@ -581,7 +585,8 @@ aside#sidebar hr {
 #footer {
   color: #38313a;
   line-height: 1.2em;
-  margin: 6em auto 2em;
+  font-size: 0.9em;
+  margin: 4em auto 2em;
 }
 #footer a {
   color: #38313a;
@@ -589,9 +594,6 @@ aside#sidebar hr {
 }
 #footer a:hover {
   color: #6b646d;
-}
-#footer p {
-  text-align: justify;
 }
 div.sponsors-corporate-organizations {
   text-align: center;

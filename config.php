@@ -18,7 +18,7 @@
 /*
  * BASIC
  */
-$config['site_title'] = 'Botwiki';              // Site title
+$config['site_title'] = 'botwiki';              // Site title
 // $config['base_url'] = '';                    // Override base URL (e.g. http://example.com)
 
 /*
