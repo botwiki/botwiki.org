@@ -1,6 +1,6 @@
 /*
 Title: @culturereusebot
-Description: Mining Old Movies for #Content
+Description: Mining old movies for #content.
 Thumbnail: /content/bots/twitterbots/images/culturereusebot.png
 Link: https://twitter.com/culturereusebot
 Author: botsheeter.py
