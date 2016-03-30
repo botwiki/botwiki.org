@@ -31,7 +31,6 @@
         {% endif %}
       </p>
     {% endif %}
-  <h2>{{ meta.title }}</h2>
 
   {% if meta.link %}
     <a href="{{ meta.link }}">
@@ -42,6 +41,8 @@
   {% if meta.link %}
     </a>
   {% endif %}
+
+  <h2>{{ meta.title }}</h2>
 
   {% if meta.installed == 'true' or meta.installed == 'yes' %}
       <div class="note">
