@@ -12,4 +12,4 @@ Robots: index,follow
 
 [@culturereusebot](https://twitter.com/culturereusebot) is an [open source](https://github.com/inkleby/inklebyrobots) Twitter bot created by [Alex Parsons](https://twitter.com/http://www.twitter.com/alexparsons). 
 
-It downloads public domain films from [archive.org](https://archive.org/), looks for short, interesting bits and shares them on Twitter and [Tumblr](http://www.inkleby.com/blog/2016/03/culture-reuse-bot/)
+It downloads public domain films from [archive.org](https://archive.org/), looks for short, interesting bits and shares them on Twitter and [Tumblr](http://www.inkleby.com/blog/2016/03/culture-reuse-bot/).
