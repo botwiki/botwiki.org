@@ -41,7 +41,8 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 
 
 - [Game bots](/tag/twitterbot+game)
-- [Image bots](/tag/twitterbot+images)
+- [Image bots](/tag/twitterbot+images) ([GIF bots](/tag/twitterbot+gif))
+- [Emoji bots](/tag/twitterbot+emoji)
 - [Non-English bots](/tag/non-english+twitterbot)
 - [Open source bots](/tag/twitterbot+opensource)
 

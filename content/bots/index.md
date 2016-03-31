@@ -68,6 +68,7 @@ PS: If you want to add your bot, check out [this form](https://botwiki.org/submi
 
 - [Poetry bots](/tag/poetry)
 - [Image bots](/tag/images) ([GIF bots](/tag/gif))
+- [Emoji bots](/tag/emoji)
 - [Game bots](/tag/game)
 - [Non-English bots](/tag/non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
