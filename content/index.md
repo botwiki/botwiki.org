@@ -20,4 +20,4 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 
 
 
-***PS: Here's how you can [support Botwiki](/about/support)! And be sure to follow [@botwikidotorg](https://twitter.com/botwikidotorg) :-)***
+***PS: Here's how you can [support Botwiki](/about/support)! And be sure to follow [@botwikidotorg](https://twitter.com/botwikidotorg) and [subscribe to the Bot! zine](https://botzine.org/) :-)***
