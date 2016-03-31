@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/culturereusebot.png
 Link: https://twitter.com/culturereusebot
 Author: botsheeter.py
 Date: March 30, 2016
-Tags: twitter,twitterbot,bot,active,gif,python,film,open source,opensource,python,alexparsons
+Tags: twitter,twitterbot,bot,active,gif,python,film,film and tv,monthlybotchallenge,open source,opensource,python,alexparsons
 Nav: hidden
 Robots: index,follow
 */
