@@ -36,6 +36,11 @@ Below is a list of [individuals](#individual-sponsors), [corporations and other 
      title="Abandon Normal Devices, the sponsor of the March 2016 Monthly Bot Challenge">
     <img src="/content/images/logos/and-logo.png">
   </a>
+  <a href="http://botnerds.com/" 
+     alt="Botnerds logo"
+     title="Botnerds, the sponsor of the Botmakers meetup group">
+    <img src="/content/images/logos/botnerds.png">
+  </a>
 </div>
 
 **Huge thanks goes to everyone!**
