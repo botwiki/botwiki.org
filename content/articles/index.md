@@ -36,12 +36,15 @@ Enjoy!
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf)
 - [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (PDF)
+- [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- March 30, 2016 -- [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/)
+- March 29, 2016 -- [Behind Facebook Messenger's plan to be an app platform](http://www.engadget.com/2016/03/29/behind-facebook-messengers-plan-to-be-an-app-platform/)
 - March 24, 2016 -- [Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage](http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502)
 - March 21, 2016 -- [That weird thing Jeff Bezos said 17 years ago](https://medium.com/building-the-robot-assistant/that-weird-thing-jeff-bezos-said-17-years-ago-3d9d3596c888#.75ibpjpzv)
 - March 20, 2016 -- [What Bots May Come](https://medium.com/@_roysd/what-bots-may-come-a35b2bb9bd58#.1gycvqqgz)

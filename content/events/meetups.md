@@ -26,6 +26,12 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 - [SlackDevs](http://www.meetup.com/SlackDevs/), the official [Slack](http://slackhq.com/) meetup group.
 - [Messaging 2.0](http://www.meetup.com/messaging2/): this meetup "brings together thought leaders, connectors, coders and marketers from around the industry to examine and celebrate the rise of the next paradigm: Messaging".
 
+## [¶](#canada){.pilcrow} Canada {#canada}
+
+### [¶](#toronto){.pilcrow} Toronto {#toronto}
+
+- [#BotTO](http://www.meetup.com/bot-to/): a community of ambitious and curious humans who want to learn about the new era of messaging platforms
+
 
 ## [¶](#germany){.pilcrow} Germany {#germany}
 

@@ -87,9 +87,13 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Share personality insights with a cognitive Twitter bot](http://www.ibm.com/developerworks/library/cc-twitter-bot-personality-insights-nodered-bluemix-trs/index.html)
 
 
+### [¶](#twitter-api){.pilcrow} Twitter API {#twitter-api}
+
+- [Alt text support for Twitter Cards and the REST API](https://blog.twitter.com/2016/alt-text-support-for-twitter-cards-and-the-rest-api)
+- [Twitter's missing manual](https://eev.ee/blog/2016/02/20/twitters-missing-manual/)
+
 ### [¶](#unsorted-notes){.pilcrow} Unsorted and notes {#unsorted-notes}
 
-- [Twitter's missing manual](https://eev.ee/blog/2016/02/20/twitters-missing-manual/)
 - ["These emojis will work in your Twitter name and bio"](https://www.emojibase.com/emojis-on-twitter)
 - [Friendly Twitter Bots and Write Access](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/)
 

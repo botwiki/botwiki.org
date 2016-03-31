@@ -74,6 +74,8 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040#.60e9wu4h6)
 - [What Installing 15+ Slack Bots Taught Me About A Great Onboarding Experience](https://medium.com/@thecoolestcool/what-installing-15-slack-bots-taught-me-about-a-great-onboarding-experience-da04288a33d6#.36j71xppk)
 
+***See also:** [github.com/mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
+
 ### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
@@ -93,8 +95,12 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Chances are your Models are Racist, Sexist, or both](http://deliprao.com/archives/129)
 - [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot)
 - [TayAndYou - toxic before human contact](http://smerity.com/articles/2016/tayandyou.html)
+- [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8)
+- [So your AI bot went haywire, should you care?](https://www.linkedin.com/pulse/so-your-ai-bot-went-haywire-should-you-care-azeem-azhar?trk=v-feed)
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/)
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
+
+***See also:** [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)*
 
 ### [¶](#other){.pilcrow} Other {#other}
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)

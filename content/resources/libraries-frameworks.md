@@ -79,6 +79,8 @@ For libraries and frameworks for specific networks check out their corresponding
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
 - [hugovk/chroniclingamerica.py](https://github.com/hugovk/chroniclingamerica.py) -- a Python wrapper for the [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) API
+- [pteichman/quotefix](https://github.com/pteichman/quotefix) -- Insert matching punctuation for mismatched quotation marks, parentheses, etc. Good postprocessing for N-gram text synthesis.
+
 
 
 
