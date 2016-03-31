@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/famousduos.png
 Link: https://twitter.com/famousduos
 Author: botsheeter.py
 Date: March 30, 2016
-Tags: twitter,twitterbot,bot,active,hugovk,monthlybotchallenge,cheapbotsdonequick,tv,movies,xkcd,names,people,open source,opensource,tracery
+Tags: twitter,twitterbot,bot,active,hugovk,film and tv,monthlybotchallenge,cheapbotsdonequick,tv,movies,xkcd,names,people,open source,opensource,tracery
 Nav: hidden
 Robots: index,follow
 */
