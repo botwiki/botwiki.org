@@ -324,6 +324,39 @@ footer hr {
   max-width: 20%;
   margin-bottom: 4em;
 }
+section.footer-lists {
+  margin: 1em auto 3em;
+}
+footer ul.footer-list {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  margin-left: 0;
+  padding: 1em;
+  float: left;
+}
+@media (max-width: 900px) {
+  footer ul.footer-list {
+    width: 33%;
+  }
+}
+@media (max-width: 700px) {
+  footer ul.footer-list {
+    width: 50%;
+  }
+}
+footer ul.footer-list li.list-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 1.6em;
+}
+footer ul.footer-list li:not(.list-header) {
+  font-weight: normal;
+}
+footer ul.footer-list li {
+  margin: 0.5em 0;
+}
 center {
   padding: 2em 0;
 }
@@ -588,7 +621,7 @@ aside#sidebar hr {
   color: #38313a;
   line-height: 1.2em;
   font-size: 0.9em;
-  margin: 4em auto 2em;
+  margin: 2em auto 2em;
 }
 #footer a {
   color: #38313a;
