@@ -97,6 +97,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [TayAndYou - toxic before human contact](http://smerity.com/articles/2016/tayandyou.html)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8)
 - [So your AI bot went haywire, should you care?](https://www.linkedin.com/pulse/so-your-ai-bot-went-haywire-should-you-care-azeem-azhar?trk=v-feed)
+- [The Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/)
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- by [Darius Kazemi](https://twitter.com/tinysubversions), applies to *all* bots
 
