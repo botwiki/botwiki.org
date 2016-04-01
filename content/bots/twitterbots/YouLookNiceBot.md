@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/YouLookNiceBot.png
 Link: https://twitter.com/YouLookNiceBot
 Author: botsheeter.py
 Date: March 12, 2016
-Tags: twitter,twitterbot,bot,active,compliment procgen procedural poetry twitter twitterbot cheapbotsdonequick,trasevol_dog
+Tags: twitter,twitterbot,bot,active,compliment,procgen,procedural,poetry,cheapbotsdonequick,trasevol_dog
 Nav: hidden
 Robots: index,follow
 */
