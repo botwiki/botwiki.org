@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/tinypoemgen.png
 Link: https://twitter.com/tinypoemgen
 Author: botsheeter.py
 Date: March 30, 2016
-Tags: twitter,twitterbot,bot,active,#poem,#poetry,#random,open source,opensource,google script,javascript,dani9988
+Tags: twitter,twitterbot,bot,active,poem,poetry,random,open source,opensource,google script,javascript,dani9988
 Nav: hidden
 Robots: index,follow
 */

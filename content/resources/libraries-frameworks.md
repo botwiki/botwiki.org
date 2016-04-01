@@ -52,6 +52,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [cblgh/storyteller](https://github.com/cblgh/storyteller) -- a templating language and python parser for generating small stories
 - [nathanielksmith/prosaic](https://github.com/nathanielksmith/prosaic) -- cut-up poetry generation over large corpora
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- recurrent neural network for generating little stories about images
+- [mewo2/syllpos](https://github.com/mewo2/syllpos) -- a collection of wordlists
 
 #### [¶](#language-rhyme-pronunciation){.pilcrow} Rhyming and pronunciation {#language-rhyme-pronunciation}
 
