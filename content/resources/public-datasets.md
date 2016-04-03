@@ -22,6 +22,10 @@ Nav: hidden
 - [Yahoo! Datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
 
+See also:
+
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+
 ### [¶](#datasets-language){.pilcrow} News, reviews, forum data, metadata {#datasets-language}
 
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
