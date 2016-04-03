@@ -73,6 +73,9 @@ Enjoy!
 #### [¶](#selected-articles-2014){.pilcrow} 2014 {#selected-articles-2014}
 
 - May 30, 2014 -- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)
+- March 27, 2014 -- [Quakebots and Pageview Quotas: Bot or Be Botted?](https://source.opennews.org/en-US/articles/bot-or-be-botted/)
+- March 17, 2014 -- [People Think Computer Journalists Are More Trustworthy Than Human Ones](http://motherboard.vice.com/read/people-think-computers-are-more-trustworthy-journalists-than-humans)
+- March 16, 2014 -- [Could robots be the journalists of the future?](http://www.theguardian.com/media/shortcuts/2014/mar/16/could-robots-be-journalist-of-future)
 - February 24, 2014 -- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/)
 
 #### [¶](#selected-articles-2013){.pilcrow} 2013 {#selected-articles-2013}
