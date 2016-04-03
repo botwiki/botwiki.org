@@ -43,6 +43,7 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- March 30, 2016 -- [Chat bots, conversation and AI as an interface](http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface)
 - March 30, 2016 -- [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/)
 - March 29, 2016 -- [Behind Facebook Messenger's plan to be an app platform](http://www.engadget.com/2016/03/29/behind-facebook-messengers-plan-to-be-an-app-platform/)
 - March 24, 2016 -- [Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage](http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502)
