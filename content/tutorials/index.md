@@ -95,6 +95,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Chances are your Models are Racist, Sexist, or both](http://deliprao.com/archives/129)
 - [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot)
 - [TayAndYou - toxic before human contact](http://smerity.com/articles/2016/tayandyou.html)
+- [Not just Tay: A recent history of the Internet’s racist bots](https://www.washingtonpost.com/news/the-intersect/wp/2016/03/25/not-just-tay-a-recent-history-of-the-internets-racist-bots/)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8)
 - [So your AI bot went haywire, should you care?](https://www.linkedin.com/pulse/so-your-ai-bot-went-haywire-should-you-care-azeem-azhar?trk=v-feed)
 - [The Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
