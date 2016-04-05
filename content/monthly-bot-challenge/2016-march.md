@@ -41,5 +41,5 @@ The March 2016 sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.
 ### [¶](#vote){.pilcrow} Vote {#vote}
 
 
-You can vote for your favorite bot until the end of day on March 7 ([EST](https://www.google.com/search?q=est+local+time)) [using this form](https://www.surveymonkey.com/r/5ZMTFC3).
+You can vote for your favorite bot until the end of day on April 7 ([EST](https://www.google.com/search?q=est+local+time)) [using this form](https://www.surveymonkey.com/r/5ZMTFC3).
 
