@@ -23,12 +23,12 @@
   {% endif %}
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ current_page.url }}" />
-  {% if meta.thumbnail %}
+  {% if meta.thumbnail and not is_front_page %}
     <meta property="og:image" content="{{meta.thumbnail}}" /> 
     <meta property="twitter:image:src" content="{{base_url}}{{meta.thumbnail}}" /> 
   {% else %}
-    <meta property="og:image" content="{{base_url}}/content/images/botwiki-thumbnail-image-1200.png" /> 
-    <meta property="twitter:image:src" content="{{base_url}}/content/images/botwiki-thumbnail-image-1200.png" /> 
+    <meta property="og:image" content="{{base_url}}/content/images/botwiki-nixiebot-large.png" /> 
+    <meta property="twitter:image:src" content="{{base_url}}/content/images/botwiki-nixiebot-large.png" /> 
   {% endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@botwikidotorg">
