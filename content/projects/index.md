@@ -17,7 +17,7 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
-![Sidekick](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-1v3.png)
+![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-1v3.png)
 
 An ongoing monthly bot hackathon. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
@@ -44,3 +44,13 @@ We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/m
 
 **Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. Learn more about the project at [getyoursidekick.org](http://getyoursidekick.org/) and join the ongoing development at [Botmakers.org](https://botmakers.org/).
 
+
+### [¶](#detective){.pilcrow} Detective {#detective}
+
+![Detective](/content/projects/images/detective.png)
+
+Detective is an online game where players are assigned roles of a Detective or an Impostor. A third role, Robot, is handled by a chat bot (powered by [BOT libre!](https://www.botlibre.com/)).
+
+The Detective has to correctly identify the Impostor, whose goal is to convince the Detective they are speaking to the Robot.
+
+[Play the game](http://fourtonfish.com/detective/), read more about the game on [Stefan's blog](https://fourtonfish.com/tag/detective/), or [join the development](https://github.com/botwiki/detective/).
