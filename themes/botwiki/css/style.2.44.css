@@ -700,6 +700,11 @@ p.screenshot img {
 img.photo {
   margin: 1em;
 }
+@media (max-width: 900px) {
+  img.photo {
+    margin: 2em auto 0.4em;
+  }
+}
 img.round-borders {
   border-radius: 5px;
 }
