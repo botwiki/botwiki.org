@@ -42,6 +42,11 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
      title="Botnerds, the sponsor of the Botmakers meetup group">
     <img src="/content/images/logos/botnerds.png">
   </a>
+  <a href="https://opennews.org/" 
+     alt="Knight-Mozilla OpenNews logo"
+     title="Knight-Mozilla OpenNews, the sponsor of the April 2016 Monthly Bot Challenge">
+    <img src="/content/images/logos/knight-mozilla-opennews.png">
+  </a>
 </div>
 
 **Huge thanks goes to everyone!**

@@ -43,9 +43,24 @@ You could make a bot that [suggests its followers where to donate money](/bots/t
 
 ***Please follow the rules of the network your bot operates on and do not spam users -- only interact with people who [express interest or consent](https://support.twitter.com/articles/76915-automation-rules-and-best-practices).***
 
-The prize and the sponsor will be announced soon!
+### [¶](#prize){.pilcrow} Prize {#prize}
+
+<p class="float-right">
+  <a href="https://opennews.org/">
+    <img src="/content/images/logos/knight-mozilla-opennews.png">
+  </a>
+</p>
+
+
+The April 2016 Monthly Bot Challenge is sponsored by [Knight-Mozilla OpenNews](https://opennews.org/), a project that supports the growing community of people working to help journalism thrive on the open web.
+
+OpenNews publishes [Source](https://source.opennews.org), the online home for that community, and during the last week of April Source will host its [third annual #botweek](https://source.opennews.org/en-US/articles/tags/botweek/) with technical posts and commentary about how news organizations have used bots to aid their reporting.
+
+The winner will have a choice between an Amazon, Google Play and App Store $25 gift cards.
 
 Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
+
+**Big thanks to this month's sponsor!**
 
 I'm looking forward to seeing what you'll make :-)
 
