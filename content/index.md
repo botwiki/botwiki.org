@@ -18,6 +18,4 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 
 -- [Stefan](/about/team#stefan), the creator of **Botwiki**
 
-
-
-***PS: Here's how you can [support Botwiki](/about/support)! And be sure to follow [@botwikidotorg](https://twitter.com/botwikidotorg) and [subscribe to the Bot! zine](https://botzine.org/) :-)***
+***Related: [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)***
