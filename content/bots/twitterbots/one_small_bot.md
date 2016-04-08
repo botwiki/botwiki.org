@@ -5,10 +5,17 @@ Thumbnail: /content/bots/twitterbots/images/one_small_bot.png
 Link: http://twitter.com/one_small_bot
 Author: botsheeter.py
 Date: January 12, 2016
-Tags: twitter,bot,twitterbot,active,space,monthlybotchallenge,python,heroku,deer_ful,open source,opensource,python
+Tags: twitter,bot,twitterbot,active,space,monthlybotchallenge,winner,python,heroku,deer_ful,open source,opensource,python
 Nav: hidden
 Robots: index,follow
 */
+
+
+
+<div class="note">
+  This bot won the third place in the <a href="/monthly-bot-challenge/2016-january/">January 2016 Monthly Bot Challenge</a> 👏👏👏
+</div>
+
 
 [@one_small_bot](https://twitter.com/one_small_bot) is an [open source](https://github.com/emmawinston/one_small_bot) Twitter bot created by [Emma Winston](https://twitter.com/deer_ful) that selects random words and tweets them in the context of [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong)'s [most famous quote](https://en.wikipedia.org/wiki/File:Frase_de_Neil_Armstrong.ogg). _One small step for bot, one giant leap for botkind._
 

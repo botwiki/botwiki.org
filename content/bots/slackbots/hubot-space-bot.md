@@ -6,10 +6,14 @@ Link: https://www.npmjs.com/package/hubot-space-bot
 Installed: yes
 Author: botsheeter.py
 Date: February 03, 2016
-Tags: slack,bot,slackbot,active,interactive,monthlybotchallenge,open source,opensource,node,nodejs,node.js,coffeescript,space,nodejs, coffeescript,pdples
+Tags: slack,bot,slackbot,active,interactive,monthlybotchallenge,winner,open source,opensource,node,nodejs,node.js,coffeescript,space,nodejs, coffeescript,pdples
 Nav: hidden
 Robots: index,follow
 */
+
+<div class="note">
+  This bot won the second place in the <a href="/monthly-bot-challenge/2016-january/">January 2016 Monthly Bot Challenge</a> 👏👏👏
+</div>
 
 [hubot-space-bot](https://www.npmjs.com/package/hubot-space-bot) is an [open source](https://github.com/pierredup/space-bot) [Hubot](https://hubot.github.com/) script created by [pierredup](https://twitter.com/pdples). 
 
