@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@BMovieGenerator](https://twitter.com/BMovieGenerator) is an [open source](http://cheapbotsdonequick.com/source/BMovieGenerator) Twitter bot created by [cosmophagy](https://twitter.com/http://cosmophagy.tumblr.com). 
+[@BMovieGenerator](https://twitter.com/BMovieGenerator) is an [open source](http://cheapbotsdonequick.com/source/BMovieGenerator) Twitter bot created by [cosmophagy](http://cosmophagy.tumblr.com). 
 
 It is --
 
