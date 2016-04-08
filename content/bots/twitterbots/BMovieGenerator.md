@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/BMovieGenerator.png
 Link: https://twitter.com/BMovieGenerator
 Author: botsheeter.py
 Date: March 31, 2016
-Tags: twitter,twitterbot,bot,active,cheapbotsdonequick,b-movie,movies,film and tv,horror,monthlybotchallenge,film,tracery,cosmophagy,open source,opensource
+Tags: twitter,twitterbot,bot,active,cheapbotsdonequick,b-movie,movies,film and tv,horror,monthlybotchallenge,winner,film,tracery,cosmophagy,open source,opensource
 Nav: hidden
 Robots: index,follow
 */
