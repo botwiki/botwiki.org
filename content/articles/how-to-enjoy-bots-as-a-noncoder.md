@@ -29,7 +29,7 @@ Check the top site navigation to go beyond browsing bots with [articles](/articl
 
 There are many ways you can contribute to Botwiki without having to write a single line of code.
 
-1. You can [contact me](mailto:stefan@botwiki.org) so that I can add you to a dedicated Trello board where I keep a list of bots I'd like to add to Botwiki.<br/><br/>You can then help me add these bots, or other bots that you like, via a [simple online form](https://botwiki.org/submit-your-bot).
+1. You can [contact me](mailto:stefan@botwiki.org) so that I can add you to a dedicated [Trello](https://trello.com/) board where I keep a list of bots I'd like to add to Botwiki.<br/><br/>You can then help me add these bots, or other bots that you like, via a [simple online form](https://botwiki.org/submit-your-bot).<br/><br/>(Don't have a Trello account? You can [sign up with this referral link](https://trello.com/stefanbohacek/recommend)!)
 
 2. Do you speak a language other than English? Perfect! You might then be interested in helping [translate Botwiki](https://github.com/botwiki/botwiki.org/blob/master/TRANSLATING-CONTENT.md) so that even more people can enjoy it :-)
 
