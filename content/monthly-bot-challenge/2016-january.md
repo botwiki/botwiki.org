@@ -1,7 +1,7 @@
 /*
 Title: Monthly Bot Challenge January 2016
 Description: The very first Monthly Bot Challenge: space-themed, sponsored by DigitalOcean.
-Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-january-2016.png
+Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-january-2016-v2.png
 Date: January 1, 2016
 Tags: monthlybotchallenge,archive
 Nav: hidden

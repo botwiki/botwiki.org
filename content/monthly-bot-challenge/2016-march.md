@@ -1,7 +1,7 @@
 /*
 Title: Monthly Bot Challenge March 2016
 Description: The third Monthly Bot Challenge: film and TV-themed, sponsored by AND.
-Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-march-2016.png
+Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-march-2016-v2.png
 Date: March 1, 2016
 Tags: monthlybotchallenge,archive
 Nav: hidden

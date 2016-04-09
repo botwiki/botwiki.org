@@ -1,7 +1,7 @@
 /*
 Title: Monthly Bot Challenge Rules
 Description: The rules for the monthly theme-based botmaking challenge.
-Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016.png
+Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png
 Date: March 31, 2016
 Tags: monthlybotchallenge,rules
 Nav: hidden
