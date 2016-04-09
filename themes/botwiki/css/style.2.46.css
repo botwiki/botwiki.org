@@ -328,6 +328,7 @@ footer ul.footer-list {
   display: inline-block;
   vertical-align: top;
   width: 25%;
+  min-height: 245px;
   margin-left: 0;
   padding: 1em;
   float: left;
@@ -634,6 +635,7 @@ div.sponsors-corporate-organizations {
 div.sponsors-corporate-organizations img {
   vertical-align: middle;
   margin: 1em;
+  max-width: 300px;
 }
 table.event-table td {
   padding: 0.5em 0;
