@@ -5,7 +5,7 @@ Nav: hidden
 Thumbnail: /content/images/botwiki-nixiebot.jpg
 */
 
-**Botwiki** is a catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
+**Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
 Some examples of such bots include:
 
