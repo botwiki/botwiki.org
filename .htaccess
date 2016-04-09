@@ -37,3 +37,4 @@ RedirectMatch "^/survey/quick-bot-survey/*" "https://docs.google.com/forms/d/1tA
 RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
 RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
 RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
+RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
