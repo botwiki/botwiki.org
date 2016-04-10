@@ -18,6 +18,7 @@ Nav: hidden
 - [Enigma](http://enigma.io/) -- "Explore the world's public data"
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [r/datasets](https://www.reddit.com/r/datasets/)
+- [Pew Research Center Datasets](http://www.pewinternet.org/datasets/)
 - [Yahoo Webscope](http://webscope.sandbox.yahoo.com/): reference library of interesting and scientifically useful datasets for non-commercial use by academics and other scientists
 - [Yahoo! Datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
