@@ -24,6 +24,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Telegram bots](/resources/telegram-bots)
 - [YouTube bots](/resources/youtube-bots)
 - [Reddit bots](/resources/redditbots)
+- [kik bots](/resources/kik-bots)
 - [IRC bots](/resources/irc-bots)
 
 ### [¶](#other){.pilcrow} Lists and unsorted {#specificother}
