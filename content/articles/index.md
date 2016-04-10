@@ -44,6 +44,7 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [The next hot job in Silicon Valley is for poets](https://www.washingtonpost.com/news/the-switch/wp/2016/04/07/why-poets-are-flocking-to-silicon-valley/) (*washingtonpost.com*)
 - [Chat bots, conversation and AI as an interface](http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface) (*ben-evans.com*)
 - [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/) (*bloomberg.com*)
 - [Behind Facebook Messenger's plan to be an app platform](http://www.engadget.com/2016/03/29/behind-facebook-messengers-plan-to-be-an-app-platform/) (*engadget.com*)
