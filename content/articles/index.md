@@ -34,6 +34,7 @@ Enjoy!
 
 ***See also: [Bot ethics](/tutorials/#bot-ethics)***
 
+- [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (*harrygiles.org*)
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz) (sailor mercury via *medium.com*)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (*stuartgeiger.com*, PDF)
 - [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (*decontextualize.com*, PDF)
