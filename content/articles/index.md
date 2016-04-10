@@ -1,4 +1,4 @@
-/*
+*/
 Title: Articles
 Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
 Author: Stefan Bohacek
@@ -90,8 +90,9 @@ Enjoy!
 
 - [Bots Are Hot!](http://www.wired.com/1996/04/netbots/) (*wired.com*)
 
-### [¶](#videos){.pilcrow} Videos {#videos}
+### [¶](#videos){.pilcrow} Videos and slides from talks {#videos}
 
+- [Bot Summit 2016](/events/bot-summit-2016/#agenda)
 - Chris Messina's [panel on bots, AI & the future of conversational UI](https://www.facebook.com/chrismessina/videos/10154329568986874/) at [SXSW 2016](http://schedule.sxsw.com/2016/events/event_PP47130)
 - [Your Friendly Robot Companions](https://medium.com/why-not/your-friendly-robot-companions-b2d39e71dfcb#.liaqewb4p)
 - [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"

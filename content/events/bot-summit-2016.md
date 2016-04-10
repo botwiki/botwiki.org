@@ -14,6 +14,7 @@ Tags: event,archived,bot summit,botsummit
 - 4pm - 9pm (GMT)
 - Victoria & Albert Museum, Cromwell Rd, London, United Kingdom ([map](https://www.google.com/maps/dir/Current+Location/Cromwell+Rd+London+SW7+2RL+United+Kingdom))
 
+## [¶](#agenda){.pilcrow} Agenda {#agenda}
 
 You can [watch the recording of the talks on YouTube](https://www.youtube.com/watch?v=KTPih7D0Jhg). Below is a list of speakers with slides where available.
 
@@ -27,7 +28,7 @@ You can [watch the recording of the talks on YouTube](https://www.youtube.com/wa
 - Emma Winston - Performance of @GraphicScoreBot
 - [Star Simpson - Building PersonableMachines](http://cl.ly/feN1)
 - [Ariana Giorgi - Journalism bots](https://docs.google.com/presentation/d/1xh1zrFsK33PX5KapJjLfWfrliSPF3L8gtkx6XJrHhFY/edit#slide=id.p)
-- Dave Lublin - Bot TV
+- [Dave Lublin - Bot TV](http://cl.ly/3B2A052r2X1s)
 - Shardcore - What is it like to be a bot?
 - Katie Rose Pipkin - Bots and the rise of digital folk art
 
