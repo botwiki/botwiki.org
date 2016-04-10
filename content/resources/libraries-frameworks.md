@@ -20,8 +20,7 @@ For libraries and frameworks for specific networks check out their corresponding
 #### [¶](#language-filter){.pilcrow} Filtering {#language-filter}
 
 - [dariusk/wordfilter](https://github.com/dariusk/wordfilter) -- a simple Ruby module that lets you filter (bad) words (available for node.js, PHP, Python, and Ruby)
-
-
+- [Shutterstock's List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/en) -- not perfect, but it seems like it could be useful for building your own list
 
 ##### [¶](#language-filter-nodejs){.pilcrow} node.js {#language-filter-nodejs}
 
