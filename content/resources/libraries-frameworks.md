@@ -15,6 +15,11 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ![Another "machine"](/content/images/illustrations/riehle-testing-machine.jpg){.float-right}
 
+### [¶](#bot-frameworks){.pilcrow} General bot frameworks  {#bot-frameworks}
+
+- [Microsoft Bot Framework](https://dev.botframework.com/)
+
+
 ### [¶](#language){.pilcrow} Language  {#language}
 
 #### [¶](#language-filter){.pilcrow} Filtering {#language-filter}
