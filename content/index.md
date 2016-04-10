@@ -3,6 +3,7 @@ Title: Welcome To Botwiki
 Description: Botwiki.org is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots.
 Nav: hidden
 Thumbnail: /content/images/botwiki-nixiebot.jpg
+Show donation link: yes
 */
 
 **Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
