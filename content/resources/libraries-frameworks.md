@@ -73,7 +73,7 @@ For libraries and frameworks for specific networks check out their corresponding
 #### [¶](#language-other){.pilcrow} Other {#language-other}
 
 ##### [¶](#language-other-nodejs){.pilcrow} node.js {#language-other-nodejs}
-
+- [NaturalNode/natural](https://github.com/NaturalNode/natural) -- general natural language facilities for node
 - [stanford-simple-nlp](https://www.npmjs.com/package/stanford-simple-nlp) -- a simple node.js wrapper for Stanford CoreNLP
 - [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
 
