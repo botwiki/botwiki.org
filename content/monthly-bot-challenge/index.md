@@ -20,8 +20,6 @@ Nav: hidden
 [Learn about the rules](/monthly-bot-challenge/rules), continue reading below for the [current theme](#theme), or [submit your bot](https://botwiki.org/submit-your-bot) if you're ready (use the tag `monthlybotchallenge`)!
 
 
-For past challenges, you can browse the [#monthlybotchallenge+archive](/tag/monthlybotchallenge+archive) tags.
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s still not too late to complete <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>&#39;s January space-themed bot challenge <a href="https://t.co/cP7uJYNwx8">https://t.co/cP7uJYNwx8</a> <a href="https://t.co/BBXAb1aqjo">pic.twitter.com/BBXAb1aqjo</a></p>&mdash; DigitalOcean (@digitalocean) <a href="https://twitter.com/digitalocean/status/690965477875589120">January 23, 2016</a></blockquote>
 
 
@@ -63,5 +61,11 @@ Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resource
 **Big thanks to this month's sponsor!**
 
 I'm looking forward to seeing what you'll make :-)
+
+***See also:***
+
+- [Past challenges](/tag/monthlybotchallenge+archive)
+- [Past winners](/tag/monthlybotchallenge+winner)
+
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
