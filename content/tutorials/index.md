@@ -79,6 +79,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 ### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
 - [Deep Learning](http://www.deeplearningbook.org/): resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
+- [Free AI Course Materials](http://popsnip.com/topic/982/)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn"
