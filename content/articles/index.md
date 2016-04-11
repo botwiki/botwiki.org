@@ -1,4 +1,4 @@
-*/
+/*
 Title: Articles
 Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
 Author: Stefan Bohacek
@@ -33,7 +33,7 @@ Enjoy!
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 
 ***See also: [Bot ethics](/tutorials/#bot-ethics)***
-- [Bots for Beginners (interview with Emma Winston](http://www.andfestival.org.uk/blog/bots-for-beginners-emma-winston/) (*andfestival.org.uk*)
+- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (*motherboard.vice.com*)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (*harrygiles.org*)
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz) (sailor mercury via *medium.com*)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (*stuartgeiger.com*, PDF)
@@ -45,6 +45,7 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [Bots for Beginners (interview with Emma Winston](http://www.andfestival.org.uk/blog/bots-for-beginners-emma-winston/) (*andfestival.org.uk*)
 - [The next hot job in Silicon Valley is for poets](https://www.washingtonpost.com/news/the-switch/wp/2016/04/07/why-poets-are-flocking-to-silicon-valley/) (*washingtonpost.com*)
 - [Chat bots, conversation and AI as an interface](http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface) (*ben-evans.com*)
 - [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/) (*bloomberg.com*)
@@ -55,7 +56,6 @@ Enjoy!
 - [Facebook’s Messenger Bot Store could be the most important launch since the App Store](http://techcrunch.com/2016/03/17/facebooks-messenger-in-a-bot-store/) (*techcrunch.com*)
 - [The Premise Podcast: Rise Of The Bots](http://www.forbes.com/sites/bruceupbin/2016/03/10/listen-to-the-premise-podcast-episode-2-rise-of-the-bots/#526ae55a4875) (*forbes.com*, podcast)
 - [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet) (*points.datasociety.net*)
-- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (*motherboard.vice.com*)
 - [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/) (*techcrunch.com*)
 - [The fall...and rise and rise and rise of chat networks](http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/) (*arstechnica.com*)
 - [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities) (*fastcodesign.com*)
