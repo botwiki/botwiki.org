@@ -83,7 +83,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 
 - [Raspberry Pi Twitterbot](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/) -- an IoT tutorial with a [Raspberry Pi](https://www.raspberrypi.org/) and Python
 - Building a twitter bot using node, [feedparser](https://www.npmjs.com/package/feedparser) and [simple-twitter](https://www.npmjs.com/package/simple-twitter): [Part 1](https://www.hughrundle.net/2015/07/16/building-a-twitter-bot-using-node-feedparser-and-simple-twitter-part-1/) and [Part 2](https://www.hughrundle.net/2015/07/18/building-a-twitter-bot-part-2-its-aliiiive/)
-- [A video tutorial](https://vimeo.com/139794441) where [Cole Willsea](https://twitter.com/colewillsea) shows how he built [@_WE_GET_IT_BRO_](https://twitter.com/_WE_GET_IT_BRO_), a Twitter bot about weed, [source code](https://github.com/coleww/we-get-it-you-smoke-weed)
+- [A video tutorial](https://vimeo.com/139794441) where [@coleseadubs](https://twitter.com/coleseadubs) explains the process of building [@_WE_GET_IT_BRO_](https://twitter.com/_WE_GET_IT_BRO_), a Twitter bot about weed, [source code](https://github.com/coleww/we-get-it-you-smoke-weed)
 - [Share personality insights with a cognitive Twitter bot](http://www.ibm.com/developerworks/library/cc-twitter-bot-personality-insights-nodered-bluemix-trs/index.html)
 
 
