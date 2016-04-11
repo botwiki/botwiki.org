@@ -1,7 +1,7 @@
 /*
 Title: How to enjoy bots as a "noncoder"
 Author: Stefan Bohacek
-Description: Botwiki, and Botmakers are for everyone!
+Description: Botwiki and bots are for everyone!
 Thumbnail: /content/articles/images/how-to-enjoy-bots-as-a-noncoder.png
 Nav: hidden
 */
@@ -13,7 +13,7 @@ Watching people people who don't necessarily consider themselves "coders" use th
 
 I'm putting this page together as a reference for folks who might feel a little bit intimidated by what they perceive as a lack of certain kind of knowledge or skills.
 
-***Botwiki, and [Botmakers](https://botmakers.org/) are for everyone!***
+***Botwiki, and [bots](/bots/) are for everyone!***
 
 
 ## [¶](#browsing-botwiki){.pilcrow} Browsing Botwiki {#browsing-botwiki}
