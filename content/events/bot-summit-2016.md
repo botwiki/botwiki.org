@@ -18,19 +18,37 @@ Tags: event,archived,bot summit,botsummit
 
 You can [watch the recording of the talks on YouTube](https://www.youtube.com/watch?v=KTPih7D0Jhg). Below is a list of speakers with slides where available.
 
-- Doug Dodds - Computer art at the V&A
-- George Buckenham - Tools
-- [Esther Seyffarth - Bots, translation, and culture](http://enigmabrot.de/botsummit2016/slides/#/)
-- [Michael Cook - Don't be human ](http://www.gamesbyangelina.org/botsummit.pdf)
-- Matthew Plummer-Fernandez - Making the unprintable printable
-- Helen Hester - I'd rather be an iPhone than a woman
-- [Martin O'Leary Epic botmaking ](https://www.dropbox.com/s/dk541hc4u3p8g4f/Bot%20Summit%202016%20-%20Epic%20Botmaking.pdf?dl=0)
-- Emma Winston - Performance of @GraphicScoreBot
-- [Star Simpson - Building PersonableMachines](http://cl.ly/feN1)
-- [Ariana Giorgi - Journalism bots](https://docs.google.com/presentation/d/1xh1zrFsK33PX5KapJjLfWfrliSPF3L8gtkx6XJrHhFY/edit#slide=id.p)
-- [Dave Lublin - Bot TV](http://cl.ly/3B2A052r2X1s)
-- Shardcore - What is it like to be a bot?
-- Katie Rose Pipkin - Bots and the rise of digital folk art
+- [Doug Dodds](https://twitter.com/DoddsDouglas) - Computer art at the V&A
+  - video starts at [[0:08:47]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=8m47s)
+- [George Buckenham](https://twitter.com/v21) - Tools
+  - video starts at [[0:26:28]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=26m28s)
+- [Esther Seyffarth](https://twitter.com/ojahnn) - [How thinking about translation can help you think about bots](http://enigmabrot.de/botsummit2016/slides/#/)
+  - video starts at [[0:53:04]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=53m04s)
+  - see also: [related article](http://enigmabrot.de/botsummit2016/summary/)
+- [Michael Cook](https://twitter.com/mtrc) - [Don't be human](http://www.gamesbyangelina.org/botsummit.pdf)
+  - video starts at [[1:04:45]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=1h04m45s)
+- [Matthew Plummer-Fernandez](https://twitter.com/M_PF) - Making the unprintable printable
+  - video starts at [[1:19:15]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=1h19m15s)
+- [Helen Hester](https://twitter.com/HelenHester) - I'd rather be an iPhone than a woman
+  - video starts at [[1:35:43]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=1h35m43s)
+- [Martin O'Leary](https://twitter.com/mewo2) - [Epic botmaking](https://www.dropbox.com/s/dk541hc4u3p8g4f/Bot%20Summit%202016%20-%20Epic%20Botmaking.pdf?dl=0)
+  - video starts at [[1:55:14]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=1h55m14s)
+- [Emma Winston](https://twitter.com/deer_ful) - Performance of @GraphicScoreBot (no slides)
+  - video starts at [[2:22:41]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=2h22m41s)
+- [Star Simpson](https://twitter.com/starsandrobots) - [Building PersonableMachines](http://cl.ly/feN1)
+  - video starts at [[2:30:46]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=2h30m46s)
+- [Ariana Giorgi](https://twitter.com/ArianaNGiorgi) - [Journalism bots](https://docs.google.com/presentation/d/1xh1zrFsK33PX5KapJjLfWfrliSPF3L8gtkx6XJrHhFY/edit#slide=id.p)
+  - video starts at [[2:49:33]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=2h49m33s)
+- [Dave Lublin](https://twitter.com/DavidLublin) - [BOTS and The Future of Television](http://cl.ly/3B2A052r2X1s)
+  - video starts at [[3:06:05]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=3h06m05s)
+  - related videos: [TV In The Year 2003](https://vimeo.com/101825025)
+  - [TV Comment Bot Karaoke Mode Test 1](https://vimeo.com/119030586)
+  - [TV Comment Bot Karaoke Mode Test 2](https://vimeo.com/119031354)
+  - [TV Comment Bot Karaoke Mode Test 3](https://vimeo.com/119051631)
+- [Eric Drass](https://twitter.com/erocdrahs) - What is it like to be a bot?
+  - video starts at [[3:36:20]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=3h36m20s)
+- [Katie Rose Pipkin](https://twitter.com/katierosepipkin) - Bots and the rise of digital folk art (no slides)
+  - video starts at [[3:58:56]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=3h58m56s)
 
 
 See also:
