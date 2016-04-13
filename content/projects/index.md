@@ -17,7 +17,7 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
-![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-1v3.png)
+![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png)
 
 An ongoing monthly bot hackathon. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
