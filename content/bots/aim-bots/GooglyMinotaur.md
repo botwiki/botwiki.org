@@ -9,7 +9,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[GooglyMinotaur](https://en.wikipedia.org/wiki/GooglyMinotaur) is a other bot created by [ActiveBuddy](https://twitter.com/http://timkay.com/activebuddy/). 
+[GooglyMinotaur](https://en.wikipedia.org/wiki/GooglyMinotaur) is an AOL Instant Messenger bot created by [ActiveBuddy](https://twitter.com/http://timkay.com/activebuddy/). 
 
 From [Wikipedia](https://en.wikipedia.org/wiki/GooglyMinotaur):
 
@@ -17,3 +17,4 @@ From [Wikipedia](https://en.wikipedia.org/wiki/GooglyMinotaur):
 >
 > GooglyMinotaur was named for the character that appears on the Amnesiac album cover.
 
+See also: [Googly Minotaur Sucks: An Interview with Radiohead's Online Boy Toy](http://www.angelfire.com/indie/tinymixtapes/columns/11.16.01_googly_interview.htm).
