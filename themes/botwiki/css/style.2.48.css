@@ -253,8 +253,7 @@ p {
 ol,
 ul {
   padding-left: 30px;
-  margin-bottom: 1em;
-  margin-left: 1em;
+  margin: 0.2em 0;
 }
 b,
 strong {
@@ -298,10 +297,15 @@ pre {
 }
 blockquote {
   font-style: italic;
-  margin: 2em 0 0 15px;
+  margin: 2em 0 2em 2em;
   padding-left: 10px;
   padding-bottom: 0;
   border-left: 5px solid #dddddd;
+}
+@media (max-width: 900px) {
+  blockquote {
+    margin: 2em 0 2em 1em;
+  }
 }
 blockquote p {
   padding-top: 0;
@@ -369,6 +373,9 @@ img.centered {
   img.extra-margin {
     margin-top: -1.3em;
   }
+}
+p.header-image {
+  margin: 2em 0;
 }
 .float-right,
 .float-left {

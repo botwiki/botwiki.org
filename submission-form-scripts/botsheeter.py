@@ -79,6 +79,12 @@ def bot_category(bot):
         return "kik-bots"
     elif bot['network'] == 'Snapchat':
         return "snapchat-bots"
+    elif bot['network'] == 'Facebook':
+        return "facebook-bots"
+    elif bot['network'] == 'Telegram':
+        return "telegram-bots"
+    elif bot['network'] == 'Skype':
+        return "skype-bots"
     return "other"
 
 
