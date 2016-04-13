@@ -46,6 +46,7 @@ Enjoy!
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 - [We don't know how to build conversational software yet](https://medium.com/lastmile-conversations/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b#.uypkm6dxc) ([@alanmnichol](*https://twitter.com/alanmnichol) via medium.com*)
+- [Bots, explained: What is a bot, who’s making them, and why](http://recode.net/2016/04/11/what-are-bots/) (*recode.net*)
 - [Bots for Beginners (interview with Emma Winston](http://www.andfestival.org.uk/blog/bots-for-beginners-emma-winston/) (*andfestival.org.uk*)
 - [The next hot job in Silicon Valley is for poets](https://www.washingtonpost.com/news/the-switch/wp/2016/04/07/why-poets-are-flocking-to-silicon-valley/) (*washingtonpost.com*)
 - [Chat bots, conversation and AI as an interface](http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface) (*ben-evans.com*)

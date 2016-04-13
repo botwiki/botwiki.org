@@ -108,6 +108,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 ***See also:** [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)*
 
 ### [¶](#other){.pilcrow} Other {#other}
+- [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)
 - [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
