@@ -1,6 +1,7 @@
 /*
 Title: Tumblr Bots
 Description: Bots for tumblr.com.
+Show donation link: yes
 Nav: hidden
 */
 

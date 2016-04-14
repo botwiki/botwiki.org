@@ -1,6 +1,7 @@
 /*
 Title: Trello Bots
 Description: Bots for trello.com.
+Show donation link: yes
 Nav: hidden
 */
 

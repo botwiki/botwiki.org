@@ -1,6 +1,7 @@
 /*
 Title: Kik Bots
 Description: Bots for the kik messenger.
+Show donation link: yes
 Nav: hidden
 */
 

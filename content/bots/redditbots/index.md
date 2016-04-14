@@ -1,6 +1,7 @@
 /*
 Title: Reddit bots
 Description: Bots for reddit.com.
+Show donation link: yes
 Nav: hidden
 */
 

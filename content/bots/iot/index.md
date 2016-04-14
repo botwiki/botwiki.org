@@ -1,6 +1,7 @@
 /*
 Title: Internet Of Things (IoT) bots
 Description: Bots that use physical devices connected to the internet.
+Show donation link: yes
 Nav: hidden
 */
 

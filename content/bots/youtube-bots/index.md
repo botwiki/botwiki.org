@@ -1,6 +1,7 @@
 /*
 Title: YouTube Bots
 Description: Bots for youtube.com.
+Show donation link: yes
 Nav: hidden
 */
 

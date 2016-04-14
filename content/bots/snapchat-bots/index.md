@@ -1,6 +1,7 @@
 /*
 Title: Snapchat bots
 Description: Bots for Snapchat.
+Show donation link: yes
 Nav: hidden
 */
 

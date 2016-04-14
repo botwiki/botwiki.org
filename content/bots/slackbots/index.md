@@ -1,6 +1,7 @@
 /*
 Title: Slack bots
 Description: Bots for Slack.com.
+Show donation link: yes
 Nav: hidden
 */
 
