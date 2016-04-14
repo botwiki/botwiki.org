@@ -1,6 +1,6 @@
 /*
-Title: Resources for Telegram bots
-Description: Libraries and other resources specifically for Telegram bots.
+Title: Resources for Facebook Messenger bots
+Description: Libraries and other resources specifically for Facebook Messenger bots.
 Show donation link: yes
 Nav: hidden
 */
