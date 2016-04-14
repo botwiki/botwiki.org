@@ -52,7 +52,7 @@ You can [watch the recording of the talks on YouTube](https://www.youtube.com/wa
 
 
 See also:
-
+- [Notes from watching Bot Summit 2016 from my home](http://alex-charlton.com/posts/Notes_from_watching_Bot_Summit_2016_from_my_home/), by [Alexander Charlton](https://twitter.com/alexncharlton)
 - [tinysubversions.com/botsummit/2016](http://tinysubversions.com/botsummit/2016/)
 - [Event page](https://shop.vam.ac.uk/whatson/index/view/id/1980/event/Bot-Summit-2016/dt/2016-04-09/eType/1/free/2)
 - [Bot Summit 2016 Hangouts On Air](https://plus.google.com/events/c2nqo1p9t4fmgnm80vc5kv4c49c) (live stream of the event)
