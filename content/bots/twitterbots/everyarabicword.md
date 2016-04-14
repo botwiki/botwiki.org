@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@everyarabicword](https://twitter.com/everyarabicword) is an Arabic-language version of the [@everyword](https://www.botwiki.org/bots/bot,twitterbots/everyword/) Twitter bot.
+[@everyarabicword](https://twitter.com/everyarabicword) is an Arabic-language version of the [@everyword](https://www.botwiki.org/bots/everyword/) Twitter bot.
