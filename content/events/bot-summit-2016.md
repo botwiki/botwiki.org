@@ -51,7 +51,8 @@ You can [watch the recording of the talks on YouTube](https://www.youtube.com/wa
   - video starts at [[3:58:56]](https://www.youtube.com/watch?v=KTPih7D0Jhg&t=3h58m56s)
 
 
-See also:
+## [¶](#related-links){.pilcrow} Related links {#related-links}
+
 - [Notes from watching Bot Summit 2016 from my home](http://alex-charlton.com/posts/Notes_from_watching_Bot_Summit_2016_from_my_home/), by [Alexander Charlton](https://twitter.com/alexncharlton)
 - [tinysubversions.com/botsummit/2016](http://tinysubversions.com/botsummit/2016/)
 - [Event page](https://shop.vam.ac.uk/whatson/index/view/id/1980/event/Bot-Summit-2016/dt/2016-04-09/eType/1/free/2)
