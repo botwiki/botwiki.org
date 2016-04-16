@@ -18,6 +18,7 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
 - [Noah Petherbridge](https://www.kirsle.net/)
 - [@filmplane](http://matthewspencerphotography.com/)
 - [@tinyworlds](http://twitter.com/tinyworlds) ([personal website](http://tinyworlds.org))
+- [cosmophagy](http://cosmophagy.tumblr.com/)
 
 ## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
 

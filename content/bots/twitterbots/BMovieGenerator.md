@@ -18,6 +18,6 @@ Robots: index,follow
 
 It is --
 
-> A TERRIFYING bot posting a CHILLING and BLOOD-CURDLING potential b-movie title every 6 hours. Made with cheapbotsdonequick. 
+> A TERRIFYING bot posting a CHILLING and BLOOD-CURDLING potential B-movie title every 6 hours. Made with [Cheap Bots Done Quick](/tag/cheapbotsdonequick). 
 
 
