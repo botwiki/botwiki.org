@@ -91,6 +91,8 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 ### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
 
+***Note: Be sure to sign up at [botmakers.org](https://botmakers.org/) and join the conversation on [bot ethics](https://botmakers.slack.com/messages/ethics/details/).*
+
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) -- by [Leonard Richardson](http://www.crummy.com/)
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb#.cd051jijs)
