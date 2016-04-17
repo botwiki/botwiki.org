@@ -11,6 +11,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[doorbell-server](https://github.com/Lostmyname/doorbell-server) is a bot,slackbot created by the [Lost My Name](https://twitter.com/lostmynamebook) team that opens their door for them.
+[doorbell-server](https://github.com/Lostmyname/doorbell-server) is a Slack bot created by the [Lost My Name](https://twitter.com/lostmynamebook) team that opens their door for them.
 
 Read more on [their blog](https://medium.com/@makinglostmyname/buzz-c63a43fcac84).
