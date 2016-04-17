@@ -489,6 +489,7 @@ ul#menu{
 }
 #header nav li.form-wrapper {
   margin-left: 35px;
+  margin-top: -5px;
   float: right;
   @media (max-width : 940px){
     margin-top: 1em;
@@ -724,15 +725,20 @@ img.round-borders{
   border-radius: 5px;
 }
 
-.lazy-load,
-.lazy-loaded {
-  transition: all 0.3s;
+
+.lazy-load{
   opacity: 0;
+  transform: translate(0,30px);  
 }
 
 .lazy-loaded {
-  transform: translate(0,-10px);
   opacity: 1;
+  transform: translate(0,0);
+}
+
+.lazy-load,
+.lazy-loaded {
+  transition: all 0.3s;
 }
 
 div.search-thumbnail img{

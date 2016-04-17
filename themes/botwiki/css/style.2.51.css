@@ -501,6 +501,7 @@ ul#menu {
 }
 #header nav li.form-wrapper {
   margin-left: 35px;
+  margin-top: -5px;
   float: right;
 }
 @media (max-width: 940px) {
@@ -717,17 +718,22 @@ img.photo {
 img.round-borders {
   border-radius: 5px;
 }
+.lazy-load {
+  opacity: 0;
+  -webkit-transform: translate(0, 30px);
+  -ms-transform: translate(0, 30px);
+  transform: translate(0, 30px);
+}
+.lazy-loaded {
+  opacity: 1;
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
 .lazy-load,
 .lazy-loaded {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  opacity: 0;
-}
-.lazy-loaded {
-  -webkit-transform: translate(0, -10px);
-  -ms-transform: translate(0, -10px);
-  transform: translate(0, -10px);
-  opacity: 1;
 }
 div.search-thumbnail img {
   border: 1px solid #efefef;
