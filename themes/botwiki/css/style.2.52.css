@@ -252,8 +252,14 @@ p {
 }
 ol,
 ul {
-  padding-left: 30px;
+  padding-left: 35px;
   margin: 0.2em 0;
+}
+@media (min-width: 910px) {
+  ol,
+  ul {
+    padding-left: 50px;
+  }
 }
 b,
 strong {
@@ -672,7 +678,10 @@ div.search-item {
   font-style: italic;
   padding: 10px;
   background-color: #F7E967;
-  margin-bottom: 1em;
+  margin: 1em 0;
+}
+.donations {
+  margin: 0 0 1em;
 }
 .note-alternative {
   font-style: italic;
