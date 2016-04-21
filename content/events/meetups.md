@@ -30,6 +30,11 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 - [LA Chat Bot Meetup](http://www.meetup.com/LA-Chat-Bot-Meetup/): "This group is designed to bring people together from multiple disciplines to discuss conversational user interfaces."
 
+### [¶](#minneapolis){.pilcrow} Minneapolis {#minneapolis}
+
+- [MN Bot Makers](http://www.meetup.com/MN-Bot-Makers/): A group for anyone who wants to show off their new bot project, learn from others, or compare notes on the latest bot library. All skill levels are welcome!
+
+
 ## [¶](#canada){.pilcrow} Canada {#canada}
 
 ### [¶](#toronto){.pilcrow} Toronto {#toronto}
