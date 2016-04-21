@@ -21,6 +21,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 
 - [Twitter bots](/resources/twitterbots)
 - [Slack bots](/resources/slackbots)
+- [Facebook Messenger bots](/resources/facebook-messenger-bots)
 - [Telegram bots](/resources/telegram-bots)
 - [YouTube bots](/resources/youtube-bots)
 - [Reddit bots](/resources/redditbots)
