@@ -933,3 +933,25 @@ div.callout a{
     font-size:1em;
   }
 }
+
+div.back-to-top{
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+  width: 64px;
+  opacity: 0.9;
+  @media (min-width : 940px){
+    width: 48px;
+    opacity: 0.5;
+  }
+}
+
+div.back-to-top:hover{
+  opacity: 0.9;
+}
+
+div.back-to-top,
+div.back-to-top:hover{
+  transition: opacity 0.2s linear;  
+}
