@@ -9,4 +9,11 @@ Nav: hidden
 
 <br/>
 
+
+### [¶](#official-documentation){.pilcrow} Official documentation {#official-documentation}
+
+- [Product Overview - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/product-overview)
+- [Getting Started - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/quickstart)
+- [Complete Guide - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/implementation)
+
 [Back to all resources.](/resources)
