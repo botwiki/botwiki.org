@@ -15,5 +15,6 @@ Nav: hidden
 <br/>
 
 - [Building your Messenger Bot -- Facebook for Developers (video)](https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/)
+- [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892#.g6ugwvu2t) (with node.js and Heroku)
 
 See [resources](/resources/facebook-messenger-bots) for making Facebook Messenger bots.
