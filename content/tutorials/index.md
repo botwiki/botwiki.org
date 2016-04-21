@@ -23,6 +23,7 @@ If you have any questions, try asking in our [community for botmakers and bot en
 
 - [Tutorials for Twitter bots](/tutorials/twitterbots)
 - [Tutorials for Slack bots](/tutorials/slackbots)
+- [Tutorials for Facebook Messenger bots](/tutorials/facebook-messenger-bots)
 - [Tutorials for YouTube bots](/tutorials/youtube-bots)
 - [Tutorials for Reddit bots](/tutorials/redditbots)
 - [Tutorials for IRC bots](/tutorials/irc-bots)
