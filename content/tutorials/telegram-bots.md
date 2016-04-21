@@ -33,5 +33,6 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 
 - [Telegram Bot Using AWS API Gateway and AWS Lambda](https://lesterchan.net/blog/2016/03/11/telegram-bot-using-aws-api-gateway-and-aws-lambda/)
 - [Exploring Telegram Bot API for Groups](https://unnikked.ga/exploring-bot-group-api)
+- [Server-side architecture for building Telegram bots](https://medium.com/@JonathanZWhite/server-side-infrastructure-when-bots-invade-a2252e9d4bc9#.wfdbfkiwn)
 
 You can also [browse all Telegram bots](/tag/telegrambot).
