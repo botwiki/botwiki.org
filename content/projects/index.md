@@ -47,7 +47,7 @@ We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/m
 
 ### [¶](#detective){.pilcrow} Detective {#detective}
 
-![Detective](/content/projects/images/detective.png)
+![Detective](/content/projects/images/detective-2.0.png)
 
 Detective is an online game where players are assigned roles of a Detective or an Impostor. A third role, Robot, is handled by a chat bot (powered by [BOT libre!](https://www.botlibre.com/)).
 
