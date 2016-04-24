@@ -25,10 +25,13 @@ Everyone is welcome to [contribute](https://github.com/botwiki/botwiki.org) to [
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">botwiki/open-source-bots: A full list of open source bots. ★26 <a href="https://t.co/Tz9gHe5vdO">https://t.co/Tz9gHe5vdO</a></p>&mdash; Github Trending (@TrendingGithub) <a href="https://twitter.com/TrendingGithub/status/644029090345914368">September 16, 2015</a></blockquote>
 
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Feel free to also [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi at [stefan@botwiki.org](mailto:stefan@botwiki.org).
 
 Thanks -- and have an awesome day 🎸🌟!
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love that <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> is a thing</p>&mdash; Beans (@beans_py) <a href="https://twitter.com/beans_py/status/723228065061584896">April 21, 2016</a></blockquote>
+
 <center><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></center>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
