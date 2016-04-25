@@ -315,7 +315,8 @@ if __name__ == "__main__":
 
         added_col = col_to_num(ADDED_COL, zero_index=True)
         added = row[added_col]
-        if (added == "TRUE" or added == "DECLINED"  or added == "SKIP"  or added == "IGNORE" or added):
+        if (added == "TRUE" or added == "DECLINED" or 
+            added == "SKIP" or added == "IGNORE" or added):
             skipped_bots.append(username_from_url(row[1]))
             continue
 
