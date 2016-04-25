@@ -37,5 +37,7 @@ RedirectMatch "^/survey/2015-end-of-the-year/*" "https://docs.google.com/forms/d
 RedirectMatch "^/survey/quick-bot-survey/*" "https://docs.google.com/forms/d/1tASwWCIgJcd16gRJhamSNJoI8xOEwbzRsy52V2ZI9jQ/viewform"
 RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
 RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
+RedirectMatch "^/tutorials/bots-should-punch-up/*$" "https://botwiki.org/articles/bots-should-punch-up/"
+RedirectMatch "^/tutorials/basic-twitter-bot-etiquette-tiny-subversions/*$" "https://botwiki.org/articles/basic-twitter-bot-etiquette-tiny-subversions/"
 RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
 RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
