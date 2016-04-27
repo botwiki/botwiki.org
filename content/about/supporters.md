@@ -48,6 +48,11 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
      title="Knight-Mozilla OpenNews, the sponsor of the April 2016 Monthly Bot Challenge">
     <img src="/content/images/logos/knight-mozilla-opennews.png">
   </a>
+  <a href="http://botlibre.com/" 
+     alt="BOT libre! logo"
+     title="BOT libre!">
+    <img src="/content/images/logos/bot-libre.png">
+  </a>
 </div>
 
 **Huge thanks goes to everyone!**
