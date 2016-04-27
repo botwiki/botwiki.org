@@ -550,7 +550,7 @@ div#content-wrapper {
   max-width: 1200px;
 }
 #content {
-  min-height: 900px;
+  min-height: 1200px;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -595,13 +595,15 @@ aside#sidebar img {
 @media (max-width: 940px) {
   div.sidebar-module {
     margin-top: 3em;
-    width: 33%;
+    width: 50%;
+    min-height: 300px;
     float: left;
   }
 }
 @media (max-width: 700px) {
   div.sidebar-module {
     margin-top: 2em;
+    min-height: auto;
     width: 100%;
     float: none;
   }
@@ -629,6 +631,9 @@ aside#sidebar hr {
     margin-right: 275px;
     padding: 2em 2em 5em;
   }
+}
+div#main p {
+  margin: 1em 0;
 }
 #footer {
   color: #38313a;
