@@ -8,6 +8,10 @@ Nav: hidden
   Skip directly to the <a href="#donation-options">donation options</a>, or see the <a href="/about/supporters">Supporters page</a>.
 </div>
 
+<div class="note">
+  NEW: <a href="/merch">Get Botwiki swag!</a>.
+</div>
+
 
 One of the key ideas behind **Botwiki** is preserving the work of creative people -- and **Botwiki** and all the related projects are [open source](https://github.com/botwiki/) for the same reason. With [Botmakers.org](https://botmakers.org/), I am trying to create [a friendly and inviting community](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) where anyone can join and share their interest in bots.
 
