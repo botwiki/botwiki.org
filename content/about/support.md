@@ -9,7 +9,7 @@ Nav: hidden
 </div>
 
 <div class="note">
-  NEW: <a href="/merch">Get Botwiki swag!</a>.
+  NEW: <a href="/merch">Get Botwiki swag!</a>
 </div>
 
 
