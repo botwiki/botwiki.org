@@ -2,7 +2,7 @@
 Title: Monthly Bot Challenge
 Description: A monthly theme-based botmaking challenge.
 Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png
-Date: April 1, 2016
+Date: May 1, 2016
 Tags: monthlybotchallenge
 Nav: hidden
 */
@@ -10,9 +10,6 @@ Nav: hidden
 <div class="note">
   <a href="mailto:stefan@botwiki.org">Get in touch</a> if you're interested in <a href="/about/supporters/">sponsoring</a> this event! 
 </div>
-
-
-
 
 
 **Botwiki.org** is a site for showcasing friendly, useful, artistic [online bots](/bots/), and the **Monthly Bot Challenge** is a recurring [community](https://botmakers.org/) event dedicated to making these kinds of bots.
@@ -29,36 +26,44 @@ You don't need to be an experienced programmer to join this challenge; making bo
 ### [¶](#theme){.pilcrow} Theme {#theme}
 
 <p class="screenshot float-right">
-  <a href="/bots/twitterbots/donorschamps">
-    <img src="/content/bots/twitterbots/images/donorschamps.png">
+  <a href="/bots/twitterbots/menubot">
+    <img src="/content/bots/twitterbots/images/menubot.png">
   </a>
 </p>
 
 
-Your goal for the April 2016 Monthly Bot Challenge is to create a bot that **supports a good cause or raises awareness about an important issue**.
+The theme for this month's challenge is ***PUBLIC DOMAIN***, and the sponsor of this month's Monthly Bot Challenge is [NYPL Labs](https://twitter.com/nypl_labs)!
 
-You could make a bot that [suggests its followers where to donate money](/bots/twitterbots/donorschamps). Or you could make a bot that [tweets as certain events occur](https://twitter.com/gundeaths).
-
-***Please follow the rules of the network your bot operates on and do not spam users -- only interact with people who [express interest or consent](https://support.twitter.com/articles/76915-automation-rules-and-best-practices).***
-
-### [¶](#prize){.pilcrow} Prize {#prize}
-
-<p class="float-right">
-  <a href="https://opennews.org/">
-    <img src="/content/images/logos/knight-mozilla-opennews.png">
-  </a>
-</p>
+[NYPL](https://twitter.com/nypl)'s recent [public domain release](http://digitalcollections.nypl.org/) makes for a perfect source material for this challenge :-)
 
 
-The April 2016 Monthly Bot Challenge is sponsored by [Knight-Mozilla OpenNews](https://opennews.org/), a project that supports the growing community of people working to help journalism thrive on the open web.
+> [NYPL Digital Collections](http://digitalcollections.nypl.org/) contains hi-res images, metadata, and tools facilitating digital creation and reuse.
+>
+> The release represents both a simplification and an enhancement of digital access to a trove of unique and rare materials: a removal of administration fees and processes from public domain content, and also improvements to interfaces — popular and technical — to the digital assets themselves.
+>
+> Online users of the [NYPL Digital Collections](http://digitalcollections.nypl.org/) website now find more prominent download links and filters highlighting restriction-free content; while more technically inclined users benefit from updates to the [Library's collections API](http://api.repo.nypl.org/) enabling bulk use and analysis, as well as data exports and utilities posted to [NYPL's GitHub account](http://github.com/nypl-publicdomain/). These changes are intended to facilitate sharing, research and reuse by scholars, artists, educators, technologists, publishers, and Internet users of all kinds. 
 
-OpenNews publishes [Source](https://source.opennews.org), the online home for that community, and during the last week of April Source will host its [third annual #botweek](https://source.opennews.org/en-US/articles/tags/botweek/) with technical posts and commentary about how news organizations have used bots to aid their reporting.
+
+Here are the relevant links, again:
+
+- [NYPL Digital Collections landing page](http://publicdomain.nypl.org/)
+- [NYPL's GitHub account](http://github.com/nypl-publicdomain/)
+- and a link to the [Library's collections API](http://api.repo.nypl.org/)
+
+
+For your inspiration, here is a [list of Twitter bots](https://twitter.com/nypl_labs/lists/nypl-bot-family/members) that use NYPL's collections API. And here are some other useful resources:
+
+- [Learn more about the public domain on Wikipedia](https://en.wikipedia.org/wiki/Public_domain)
+- [Archive.org](https://archive.org/details/feature_films) -- feature films, shorts, silent films and trailers available for viewing and downloading
+- [The Digital Comic Museum](http://digitalcomicmuseum.com/) -- public domain Golden Age Comics
+- [Public domain images on Flickr](https://www.flickr.com/groups/publicdomain/)
+
 
 The winner will have a choice between an Amazon, Google Play and App Store $25 gift cards.
 
-Be sure to join [Botmakers.org](https://botmakers.org/) to share ideas, resources, and find collaboration partners.
+**Huge thanks to our sponsor -- and good luck to everyone interested in participating!**
 
-**Big thanks to this month's sponsor!**
+Also, be sure to join the [botmakers.org](https://botmakers.org/) Slack group to share ideas and ask for help.
 
 I'm looking forward to seeing what you'll make :-)
 
