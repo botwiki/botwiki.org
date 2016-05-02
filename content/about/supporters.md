@@ -55,7 +55,9 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
   </a>
 
   <br/>
-  and <a href="https://twitter.com/nypl_labs">NYPL Labs</a>
+  and <a
+     title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
+     href="https://twitter.com/nypl_labs">NYPL Labs</a>
 </div>
 
 **Huge thanks goes to everyone!**
