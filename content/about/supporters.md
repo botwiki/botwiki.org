@@ -54,7 +54,7 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
     <img src="/content/images/logos/bot-libre.png">
   </a>
 
-
+  <br/>
   and <a href="https://twitter.com/nypl_labs">NYPL Labs</a>
 </div>
 
