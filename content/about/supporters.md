@@ -53,6 +53,9 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
      title="BOT libre!">
     <img src="/content/images/logos/bot-libre.png">
   </a>
+
+
+  and <a href="https://twitter.com/nypl_labs">NYPL Labs</a>
 </div>
 
 **Huge thanks goes to everyone!**
