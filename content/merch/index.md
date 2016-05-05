@@ -1,6 +1,7 @@
 /*
 Title: Botwiki Merchandise
 Description: Support Botwiki through buying T-shirts, stickers, and more!
+Thumbnail: /content/merch/images/thumbnail-01.png
 Show donation link: yes
 */
 
