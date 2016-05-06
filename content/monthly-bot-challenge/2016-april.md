@@ -3,7 +3,7 @@ Title: Monthly Bot Challenge April 2016
 Description: The fourth Monthly Bot Challenge, sponsored by Knight-Mozilla OpenNews, with the goal to create a bot that supports a good cause or raises awareness about an important issue.
 Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-april-2016-v2.png
 Date: April 1, 2016
-Tags: monthlybotchallenge,archive
+Tags: monthlybotchallenge,event,archived
 Nav: hidden
 */
 

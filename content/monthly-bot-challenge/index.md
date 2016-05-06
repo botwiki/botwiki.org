@@ -3,7 +3,7 @@ Title: Monthly Bot Challenge
 Description: A monthly theme-based botmaking challenge.
 Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png
 Date: May 1, 2016
-Tags: monthlybotchallenge
+Tags: monthlybotchallenge,event
 Nav: hidden
 */
 
@@ -69,7 +69,7 @@ I'm looking forward to seeing what you'll make :-)
 
 ***See also:***
 
-- [Past challenges](/tag/monthlybotchallenge+archive)
+- [Past challenges](/tag/monthlybotchallenge+archived)
 - [Past winners](/tag/monthlybotchallenge+winner)
 
 

@@ -3,7 +3,7 @@ Title: Monthly Bot Challenge February 2016
 Description: The second Monthly Bot Challenge: emoji-themed, sponsored by Botwiki supporters.
 Thumbnail: /content/monthly-bot-challenge/images/monthly-bot-challenge-promo-february-2016-v2.png
 Date: February 1, 2016
-Tags: monthlybotchallenge,archive
+Tags: monthlybotchallenge,event,archived
 Nav: hidden
 */
 
