@@ -5,11 +5,7 @@ Nav: hidden
 */
 
 <div class="note">
-  Skip directly to the <a href="#donation-options">donation options</a>, or see the <a href="/about/supporters">Supporters page</a>.
-</div>
-
-<div class="note">
-  NEW: <a href="/merch">Get Botwiki swag!</a>
+  Skip directly to the <a href="#donation-options">donation options</a>, see our <a href="/about/supporters">supporters</a>, or visit the <a href="/merch">Botwiki store</a>.
 </div>
 
 

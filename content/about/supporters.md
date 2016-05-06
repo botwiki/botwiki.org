@@ -10,6 +10,7 @@ Nav: hidden
 
 Below is a list of [individuals](#individual-sponsors), [corporations, and other organizations](#corporate-sponsors) that supported **Botwiki** or any of the related projects via donations or [Monthly Bot Challenge](https://botwiki.org/monthly-bot-challenge) awards.
 
+See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/contributors) and the [current team members](/about/team/).
 
 ## [¶](#individual-sponsors){.pilcrow} Individual sponsors {#individual-sponsors}
 

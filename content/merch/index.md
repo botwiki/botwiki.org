@@ -2,11 +2,11 @@
 Title: Botwiki Merchandise
 Description: Support Botwiki through buying T-shirts, stickers, and more!
 Thumbnail: /content/merch/images/thumbnail-01.png
-Show donation link: yes
 */
 
 You can now support Botwiki through buying [stickers](https://www.stickermule.com/user/1070736888/stickers), [T-shirts](http://www.zazzle.com/botwiki), and other merchandise!
 
+For donation options, see [this page](/about/support#donation-options).
 
 <div class="centered-text">
 
