@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@NixieBot](https://twitter.com/NixieBot) is a Twitter bot created by [Robin Bussell](https://twitter.com/Zedsquared) that responds to tweets tagged with [#NixieBotShowMe](https://twitter.com/hashtag/NixieBotShowMe?src=hash) with GIFs that show the content of the tweet being animated on a series of vintage neon tubes.
+[@NixieBot](https://twitter.com/NixieBot) is an [open source](https://github.com/Zedsquared/NixieBot) Twitter bot created by [Robin Bussell](https://twitter.com/Zedsquared) that responds to tweets tagged with [#NixieBotShowMe](https://twitter.com/hashtag/NixieBotShowMe?src=hash) with GIFs that show the content of the tweet being animated on a series of vintage neon tubes.
 
 Author writes:
 
@@ -20,7 +20,7 @@ Author writes:
 >
 > When it's not answering bot requests it acts as a clock and realtime window onto twitter chatter in the author's workshop. new abilities are being added steadily.
 
-You can learn more about the bot at [nixiebot.tumblr.com](http://nixiebot.tumblr.com).
+You can learn more about the bot at [nixiebot.tumblr.com](http://nixiebot.tumblr.com), and [here](http://nixiebot.tumblr.com/ref) is the list of NixieBot commands.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Eh-up <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. Hey: <a href="https://twitter.com/NixieBot">@NixieBot</a> this is for you too! <a href="https://t.co/HIi2xT4oD2">pic.twitter.com/HIi2xT4oD2</a></p>&mdash; Neon Clock Tweet Bot (@NixieBot) <a href="https://twitter.com/NixieBot/status/700418685635272704">February 18, 2016</a></blockquote>
 
