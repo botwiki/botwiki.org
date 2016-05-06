@@ -46,6 +46,7 @@ See also:
 - [Old Fulton NY Post Cards](http://www.fultonhistory.com/Fulton.html) -- search over 33,100,000 historical newspaper pages (US and Canada)
 - [Apollo11GuidanceComputerVertAndNounList.txt](https://gist.github.com/jeffThompson/21a72eadf545ede99279) -- a list of "nouns" and "verbs" to control the Apollo 11 guidance computer
 - [30,000 published crossword puzzles](https://www.reddit.com/r/datasets/comments/46jol1/dataset_30000_published_crossword_puzzles/?utm_source=dlvr.it&utm_medium=twitter)
+- [Structured data from ingredient phrases using conditional random fields](https://github.com/NYTimes/ingredient-phrase-tagger)
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
