@@ -9,9 +9,9 @@ Here's a list of currently active projects:
 
 ### [¶](#botwiki-org){.pilcrow} Botwiki.org {#botwiki-org}
 
-![Botwiki.org](/content/projects/images/botwiki.png)
+![Botwiki](/content/projects/images/botwiki.png)
 
-[Botwiki.org](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
+[Botwiki](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
 
 If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https://github.com/botwiki/botwiki.org). We also have a neat [submit form](https://botwiki.org/submit-your-bot) that lets you suggests bots that you think we should include on the site.
 
@@ -22,20 +22,22 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 An ongoing monthly bot hackathon. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
 
-### [¶](#botmakers-org){.pilcrow} Botmakers.org {#botmakers-org}
+### [¶](#botmakers){.pilcrow} Botmakers {#botmakers}
 
 [![Botmakers.org](/content/projects/images/botmakers.png)](https://botmakers.org/)
 
-[Botmakers.org](https://botmakers.org/) is a friendly Slack group for botmakers and bot enthusiasts. We share ideas, resources, tips -- things that eventually end up on Botwiki.org.
+[Botmakers.org](https://botmakers.org/) is a friendly community for botmakers and bot enthusiasts on Slack and on [meetup.com](http://www.meetup.com/botmakers/). Botmakers is open to everyone regardless their level of technical knowledge. We share ideas, resources, tips -- things that might eventually end up on Botwiki.
 
-We also have a [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) -- and it applies to our bots as well!
+We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to our bots as well!
 
 
-### [¶](#botzine-org){.pilcrow} Botzine.org {#botzine-org}
+### [¶](#botzine){.pilcrow} Bot! zine {#botzine}
 
 [![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
 
-[Botzine.org](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [TinyLetter](http://tinyletter.com/). It goes out every Monday and features *Botmaker Profiles*, a series of interviews that introduce the members of the botmaking community.
+[Bot! zine](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [Revue](https://www.getrevue.co/).
+
+It goes out every Monday and features newest bots, libraries, news, and interesting articles and other resources.
 
 
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
