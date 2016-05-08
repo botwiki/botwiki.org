@@ -7,7 +7,7 @@ Description: See what we are working on.
 
 Here's a list of currently active projects:
 
-### [¶](#botwiki-org){.pilcrow} Botwiki.org {#botwiki-org}
+### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
 
 ![Botwiki](/content/projects/images/botwiki.png)
 
