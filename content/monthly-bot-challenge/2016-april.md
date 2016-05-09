@@ -36,6 +36,6 @@ OpenNews publishes [Source](https://source.opennews.org), the online home for th
 
 **Big thanks to OpenNews!**
 
-### [¶](#vote){.pilcrow} Vote {#vote}
+### [¶](#winner){.pilcrow} Winner {#winner}
 
-Here's a [link to the form](https://www.surveymonkey.com/r/C9LPQGG) where you can choose your favorite bot. The voting will close on Saturday, May 7, at midnight ([EST](https://www.google.com/search?q=est+current+time)).
+The winner of the 2016 April Monthly Bot Challenge was [@White_Fangs](https://twitter.com/White_fangs) with [@ItIsYourData](/bots/twitterbots/ItIsYourData/), congratulations! 👏👏🎉

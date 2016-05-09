@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/ItIsYourData.png
 Link: https://twitter.com/ItIsYourData
 Author: botsheeter.py
 Date: April 28, 2016
-Tags: twitter,twitterbot,bot,active,tracery,cheapbotsdonequick,monthlybotchallenge,data,political,open source,opensource,tracery,white_fangs
+Tags: twitter,twitterbot,bot,active,tracery,cheapbotsdonequick,monthlybotchallenge,winner,data,political,open source,opensource,tracery,white_fangs
 Nav: hidden
 Robots: index,follow
 */
