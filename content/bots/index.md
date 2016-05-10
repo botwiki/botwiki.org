@@ -75,6 +75,7 @@ Thanks for checking out **Botwiki**!
 - [Non-English bots](/tag/non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/opensource)
+- [Winners of the Monthly Bot Challenge](/tag/monthlybotchallenge+winner)
 
 #### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
 
