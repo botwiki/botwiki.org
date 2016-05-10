@@ -316,7 +316,8 @@ blockquote p {
 }
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
-iframe {
+iframe,
+.twitter-tweet {
   display: block;
   margin: 2.5em auto !important;
 }
