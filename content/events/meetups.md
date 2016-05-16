@@ -34,6 +34,10 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 
 - [MN Bot Makers](http://www.meetup.com/MN-Bot-Makers/): A group for anyone who wants to show off their new bot project, learn from others, or compare notes on the latest bot library. All skill levels are welcome!
 
+### [¶](#detroit){.pilcrow} Detroit {#detroit}
+
+- [BotMakers Detroit](http://www.meetup.com/BotMakers-Detroit/)
+
 
 ## [¶](#canada){.pilcrow} Canada {#canada}
 
