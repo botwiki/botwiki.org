@@ -9,6 +9,11 @@ Nav: hidden
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 
+> Twitter can be used as a device-independent, global command line that sits on top of a large user-base. This suggests several things for the future of applications that take advantage of Twitter: for example, you could create a service that takes in commands, via Twitter, from various input devices. For a business, there is a cost-saving to be had, as well as a rapid launch and the flexibility of multiple ways of interacting with people.
+>
+> -- [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots)
+
+
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
 
 <p class="screenshot float-right">
