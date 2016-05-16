@@ -28,6 +28,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
+- [Slack Developers](https://slack.com/developers)
 - [Official Slack documentation](https://api.slack.com/bot-users)
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [Easy-Peasy Bots: Getting Started](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf#.eahf06bu9) (with node.js and [Botkit](http://howdy.ai/botkit/))
