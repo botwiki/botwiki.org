@@ -54,7 +54,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 - [Bots tweeting in Spanish](https://twitter.com/isa_arch/lists/bots-en-espa-ol), maintained by [@isa_arch](https://twitter.com/isa_arch)
 
-For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list) or [bot.community](https://bot.community/).
+For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list), [bot.community](https://bot.community/), or the [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots).
 
 <div class="note">
   Note: Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
