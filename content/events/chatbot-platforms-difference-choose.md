@@ -17,7 +17,6 @@ If you would like to get involved in the discussion please contact [ramzi@dialog
 Speakers:
 
 - David Pichsenmeister - Co-founder of [Orat.io](https://orat.io/)
-- Asaf Amir - CEO of [Betterbrand.im](http://betterbrand.im/)
+- Alexander Weidauer - Co-founder of [goLastMile](http://golastmile.com/)
 - Justine Baron - Marketing at [Recast.ai](https://recast.ai/)
-- Kinda Jackson - Head of Digital Communications [MSL Group](http://www.mslgroup.com/)
-
+- Asaf Amir - CEO of [Betterbrand.im](http://betterbrand.im/)
