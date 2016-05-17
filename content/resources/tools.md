@@ -20,6 +20,7 @@ This section lists general tools and articles that discuss tools and possible ap
 - [Huginn](https://github.com/cantino/huginn) - a system for building agents that perform automated tasks for you online
 - [Flow XO](https://flowxo.com/) -- connect your cloud apps together into automated workflows
 - [Botomatic](http://www.botomatic.co/)
+- [BOT libre!](http://www.botlibre.com/) -- create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
 
 #### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
 
