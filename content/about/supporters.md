@@ -54,9 +54,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
      title="BOT libre!">
     <img src="/content/images/logos/bot-libre.png">
   </a>
-
-  <br/>
-  and <a
+  <a
      title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
      href="https://twitter.com/nypl_labs">NYPL Labs</a>
 </div>

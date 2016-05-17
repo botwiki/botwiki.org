@@ -72,5 +72,29 @@ I'm looking forward to seeing what you'll make :-)
 - [Past challenges](/tag/monthlybotchallenge+archived)
 - [Past winners](/tag/monthlybotchallenge+winner)
 
+### [¶](#past-sponsors){.pilcrow} Past sponsors {#past-sponsors}
+
+
+<div class="sponsors-corporate-organizations">
+  <a href="https://www.digitalocean.com/" 
+     alt="DigitalOcean logo"
+     title="DigitalOcean, the sponsor of the very first Monthly Bot Challenge">
+    <img src="/content/images/logos/digitalocean-logo.png">
+  </a>
+  <a href="http://www.andfestival.org.uk/" 
+     alt="Abandon Normal Devices logo"
+     title="Abandon Normal Devices, the sponsor of the March 2016 Monthly Bot Challenge">
+    <img src="/content/images/logos/and-logo.png">
+  </a>
+  <a href="https://opennews.org/" 
+     alt="Knight-Mozilla OpenNews logo"
+     title="Knight-Mozilla OpenNews, the sponsor of the April 2016 Monthly Bot Challenge">
+    <img src="/content/images/logos/knight-mozilla-opennews.png">
+  </a>
+  <a
+     title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
+     href="https://twitter.com/nypl_labs">NYPL Labs</a>
+</div>
+
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
