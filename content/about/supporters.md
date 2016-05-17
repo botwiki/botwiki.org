@@ -56,7 +56,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
   </a>
   <a
      title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
-     href="https://twitter.com/nypl_labs">NYPL Labs</a>
+     href="https://twitter.com/nypl_labs">NYPL&nbsp;Labs</a>
 </div>
 
 **Huge thanks goes to everyone!**

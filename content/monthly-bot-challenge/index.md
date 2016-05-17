@@ -93,7 +93,7 @@ I'm looking forward to seeing what you'll make :-)
   </a>
   <a
      title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
-     href="https://twitter.com/nypl_labs">NYPL Labs</a>
+     href="https://twitter.com/nypl_labs">NYPL&nbsp;Labs</a>
 </div>
 
 
