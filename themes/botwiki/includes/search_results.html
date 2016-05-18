@@ -31,6 +31,8 @@
   {% include 'includes/non-english.html' %}
 {% elseif search_term_lower == 'game' %}
   {% include 'includes/game-bots.html' %}
+{% elseif 'submit' in search_term_lower or 'add' in search_term_lower %}
+  {% include 'includes/submit-bot.html' %}
 {% elseif search_term_lower == 'rap' %}
   <center><iframe width="420" height="315" src="https://www.youtube.com/embed/8PaoLy7PHwk" frameborder="0" allowfullscreen></iframe></center>
 {% elseif search_term_lower == 'error' or search_term_lower == '404' %}
