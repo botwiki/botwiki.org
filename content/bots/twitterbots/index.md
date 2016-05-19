@@ -57,6 +57,12 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
 - [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R M Livingstone](https://twitter.com/Rmlivingstone)
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
+- [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
+- [Museum Bots](https://twitter.com/backspace/lists/museum-bots), maintained by [ John Emerson](https://twitter.com/backspace/lists/museum-bots)
+- [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery), maintained by [@hugovk](https://twitter.com/hugovk)
+- [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe), maintained by [@hugovk](https://twitter.com/hugovk)
+- [Bots tweeting in Finnish](https://twitter.com/hugovk/lists/finnish-bots), maintained by [@hugovk](https://twitter.com/hugovk)
+- [Bots tweeting in German](https://twitter.com/ojahnn/lists/deutsche-twitterbots), maintained by [Esther Seyffarth](https://twitter.com/ojahnn)
 - [Bots tweeting in Spanish](https://twitter.com/isa_arch/lists/bots-en-espa-ol), maintained by [@isa_arch](https://twitter.com/isa_arch)
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list), [bot.community](https://bot.community/), or the [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots).
