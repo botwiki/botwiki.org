@@ -26,9 +26,9 @@ There's a lot that goes into maintaining **Botwiki** and all the related side pr
   If you don't have the time to help out personally (which I completely understand!), you can support <strong>Botwiki</strong> via:
 </div>
 
-- [Patreon](https://www.patreon.com/fourtonfish)
+- [Patreon](https://www.patreon.com/botwiki)
 - [Gratipay](https://gratipay.com/botwiki-org/)
-- [PayPal](https://www.paypal.me/stefanbohacek) (this is a personal account, please include a note!)
+- [PayPal](https://www.paypal.me/stefanbohacek) (please include a note)
 - or [Bitcoin](bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&label=Botwiki).
 
 You can also sign up for the [DigitalOcean](https://www.digitalocean.com/) hosting using [this referral link](https://www.digitalocean.com/?refcode=9e279abc3337), or [buy Botwiki merchandise](/merch/)!
