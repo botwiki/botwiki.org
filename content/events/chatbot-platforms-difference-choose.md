@@ -8,11 +8,12 @@ Tags: event,archived
 
 
 > A focused online discussion with a handful of botmakers and shakers. Within the discussion we'll explore what the most prominent chatbot channels are and how integrations with each differs.
+>
+> If you would like to get involved in the discussion please contact [ramzi@dialog.london](mailto:ramzi@dialog.london).
 
 - Wednesday, May 18th at 18:30 [BST](http://www.timeanddate.com/worldclock/meeting.html?year=2016&month=5&day=18&p1=136)
 - Online!
 
-If you would like to get involved in the discussion please contact [ramzi@dialog.london](mailto:ramzi@dialog.london).
 
 Speakers:
 
