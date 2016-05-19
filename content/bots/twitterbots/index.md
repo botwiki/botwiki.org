@@ -5,13 +5,13 @@ Show donation link: yes
 Nav: hidden
 */
 
-***Note:** Jump straight to browsing [all Twitter bots](/tag/twitterbot).*
+<div class="note">Note: Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 
-> Twitter can be used as a device-independent, global command line that sits on top of a large user-base. This suggests several things for the future of applications that take advantage of Twitter: for example, you could create a service that takes in commands, via Twitter, from various input devices. For a business, there is a cost-saving to be had, as well as a rapid launch and the flexibility of multiple ways of interacting with people.
+> Twitter can be used as a device-independent, global command line that sits on top of a large user-base.
 >
-> -- [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots)
+> -- [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots), January 2008
 
 
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
@@ -54,16 +54,27 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 Browse [all Twitter bots](/tag/twitterbot).
 
 ### [¶](#lists-of-twitter-bots){.pilcrow} Lists of Twitter bots {#lists-of-twitter-bots}
-- [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
-- [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R M Livingstone](https://twitter.com/Rmlivingstone)
+
+#### [¶](#lists-of-twitter-bots-general){.pilcrow} General {#lists-of-twitter-general}
+
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
-- [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
-- [Museum Bots](https://twitter.com/backspace/lists/museum-bots), maintained by [ John Emerson](https://twitter.com/backspace/lists/museum-bots)
 - [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe), maintained by [@hugovk](https://twitter.com/hugovk)
+
+
+#### [¶](#lists-of-twitter-bots-science-education){.pilcrow} Science, education {#lists-of-twitter-science-education}
+
+- [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
+- [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R. M. Livingstone](https://twitter.com/Rmlivingstone)
+- [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
+- [Museum Bots](https://twitter.com/backspace/lists/museum-bots), maintained by [ John Emerson](https://twitter.com/backspace/lists/museum-bots)
+
+#### [¶](#lists-of-twitter-bots-non-english){.pilcrow} Non-English bots {#lists-of-twitter-non-english}
+
 - [Bots tweeting in Finnish](https://twitter.com/hugovk/lists/finnish-bots), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots tweeting in German](https://twitter.com/ojahnn/lists/deutsche-twitterbots), maintained by [Esther Seyffarth](https://twitter.com/ojahnn)
 - [Bots tweeting in Spanish](https://twitter.com/isa_arch/lists/bots-en-espa-ol), maintained by [@isa_arch](https://twitter.com/isa_arch)
+
 
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list), [bot.community](https://bot.community/), or the [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots).
 
