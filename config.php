@@ -48,7 +48,8 @@ $config['custom_meta_values'] = array(
   'language' => 'Language',
   'translations' => 'Translations',
   'installed' => 'Installed',
-  'show_donation_link' => 'Show donation link'
+  'show_donation_link' => 'Show donation link',
+  'has_code' => 'Has code'
 );
 
 /*

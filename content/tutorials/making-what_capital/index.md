@@ -2,6 +2,7 @@
 Title: Making a Twitter bot with node.js and Cloud9
 Description: Learn to make a simple Twitter-based game.
 Thumbnail: /content/tutorials/making-what_capital/images/finished-bot.png
+Has code: yes
 Show donation link: yes
 Date: November 25, 2015
 Tags: tutorial,twitter,cloud9,node,nodejs,node.js,fourtonfish

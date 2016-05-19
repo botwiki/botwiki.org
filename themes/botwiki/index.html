@@ -42,7 +42,10 @@
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.59.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.60.min.css" type="text/css" />  
+{% if meta.has_code == 'yes' %}
+  <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
+{% endif %}
 </head>
 <body>
   <header id="header">
@@ -64,7 +67,6 @@
       </nav>
     </div>
   </header>
-
   <div id="content-wrapper">
     <section id="content">
       <div id="main" class="inner">
@@ -87,7 +89,6 @@
           {% endif %}
         {% endif %}
       </div>
-
       <aside id="sidebar">
         <div class="sidebar-module">
           <a href="https://botmakers.org/"><img class="round-borders" src="/content/images/logos/hashtag-botmakers.png" title="Botmakers" alt="Botmakers.org logo"></a>
@@ -110,7 +111,7 @@
         </div>
       </aside>
     </section>
-  </div>  
+  </div>
   <footer id="footer">
     <div class="inner">
       <section class="footer-lists clearfix">
@@ -122,8 +123,6 @@
           <li><a href="/about/press/">Press</a></li>
           <li><a href="/coc/">Code of Conduct</a></li>
         </ul>
-
-
         <ul class="footer-list">
           <li class="list-header">Contact</li>
           <li><a href="mailto:stefan@botwiki.org">stefan@botwiki.org</a></li>
@@ -131,7 +130,6 @@
           <li><a href="https://twitter.com/fourtonfish">@fourtonfish</a></li>
           <li><a href="https://botmakers.org/">botmakers.org</a></li>
         </ul>
-
         <ul class="footer-list">
           <li class="list-header">Support</li>
           <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
@@ -140,7 +138,6 @@
           <li><a href="bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&amp;label=Botwiki">Bitcoin</a></li>
           <li><a href="/about/supporters">Supporters</a></li>
         </ul>
-
         <ul class="footer-list">
           <li class="list-header">Share/Save</li>
           <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fbotwiki.org%2F&amp;text=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.:%20https%3A%2F%2Fbotwiki.org%2F&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a></li>
@@ -150,14 +147,16 @@
           <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a></li>
         </ul>
       </section>
-
-
       <p>
-        This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. Images are from <a href="http://www.oldbookillustrations.com/">Old Book Illustrations</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers.org</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>. One more way to support us is to sign up using our <a href="https://www.digitalocean.com/?refcode=9e279abc3337">referral link</a>, which will also earn you a <strong>$10 starter credit</strong>.</p>
+        This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. Images are from <a href="http://www.oldbookillustrations.com/">Old Book Illustrations</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers.org</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>. One more way to support us is to sign up using our <a href="https://www.digitalocean.com/?refcode=9e279abc3337">referral link</a>, which will also earn you a <strong>$10 starter credit</strong>.
+      </p>
     </div>
   </footer>
-{% include 'includes/statcounter.html' ignore missing %}
-<div class="back-to-top"><a href="#header"><img src="/content/images/arrow-up.svg"></a></div>
-  <script src="{{ theme_url }}/js/scripts.1.17.min.js"></script>
+  {% include 'includes/statcounter.html' ignore missing %}
+  <div class="back-to-top"><a href="#header"><img src="/content/images/arrow-up.svg"></a></div>
+  <script src="{{ theme_url }}/js/scripts.1.18.min.js"></script>
+  {% if meta.has_code == 'yes' %}
+  <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
+  {% endif %}
 </body>
 </html>

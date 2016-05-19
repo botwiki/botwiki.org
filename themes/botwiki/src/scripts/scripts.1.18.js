@@ -72,6 +72,11 @@ function ready(fn) {
 }
 
 ready(function(){
+  try{
+    hljs.initHighlightingOnLoad();      
+  }
+  catch(err){/*noop*/}
+
   if(window.location.hash) {
     smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
     return false;
