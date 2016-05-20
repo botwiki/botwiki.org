@@ -6,8 +6,7 @@ Nav: hidden
 */
 
 
-***Note: Before you start making bots, consider reading [these essays and articles](/tutorials/#bot-ethics). Also worth browsing: [resources for cleaning up your bot's language](/resources/libraries-frameworks/#language).***
-
+<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
 
 <div class="note">
   This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?

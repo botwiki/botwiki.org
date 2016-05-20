@@ -5,8 +5,9 @@ Show donation link: yes
 Weight: 6
 */
 
-
-***Note:** To see who's behind Botwiki.org and [related projects](/projects/), see the [Team page](/about/team/). Also, check out the [press coverage](/about/press).*
+<div class="note">
+  To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>.
+</div>
 
 Hi!
 

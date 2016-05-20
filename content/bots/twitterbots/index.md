@@ -5,7 +5,7 @@ Show donation link: yes
 Nav: hidden
 */
 
-<div class="note">Note: Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
+<div class="note">Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 

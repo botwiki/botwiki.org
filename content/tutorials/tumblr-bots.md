@@ -6,8 +6,7 @@ Nav: hidden
 */
 
 
-***Note: Before you start making bots, consider reading [these essays and articles](/tutorials/#bot-ethics). Also worth browsing: [resources for cleaning up your bot's language](/resources/libraries-frameworks/#language).***
-
+<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
 
 <p class="screenshot float-right">
   <a href="/bots/tumblr-bots/deadspelunkers">
