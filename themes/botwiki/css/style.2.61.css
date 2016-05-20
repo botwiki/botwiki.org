@@ -381,7 +381,7 @@ img.centered {
     margin-top: -1.3em;
   }
 }
-p.header-image {
+div.header-image {
   margin: 0;
 }
 .float-right,
@@ -428,6 +428,8 @@ div.all-tags a {
   background-color: #38313a;
   -webkit-box-shadow: 0 4px 40px -15px #333333;
   box-shadow: 0 4px 40px -15px #333333;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
 }
 #header a {
   color: #5D9CEC;
@@ -522,7 +524,7 @@ ul#menu {
 #header nav a {
   font-size: 1.1em;
   color: #fff;
-  font-weight: bold;
+  font-weight: bolder;
 }
 #header a:checked#menu-icon {
   background-color: #444;
@@ -549,22 +551,18 @@ form#search-form input {
 div#content-wrapper {
   margin: 0 auto;
   max-width: 1200px;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
 }
 #content {
   min-height: 1200px;
   background-color: #fff;
   padding: 0;
+  margin-top: -5px;
   margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.3em;
   position: relative;
-  border-left: 1px solid #efefef;
-  border-right: 1px solid #efefef;
-}
-@media (max-width: 940px) {
-  #content {
-    padding: 2em 0 100px;
-  }
 }
 @media (min-width: 940px) {
   aside#sidebar {
@@ -573,9 +571,9 @@ div#content-wrapper {
     position: absolute;
     border-left: 1px solid #efefef;
     background-color: #fcfcfc;
-    padding: 0 10px;
+    padding: 1em 10px 10px;
     right: 0;
-    top: 10px;
+    top: 0;
     bottom: 0;
   }
 }
@@ -630,7 +628,7 @@ aside#sidebar hr {
 @media (min-width: 940px) {
   div#main {
     margin-right: 275px;
-    padding: 2em 2em 5em;
+    padding: 1em 1em 5em;
   }
 }
 div#main p {
@@ -688,7 +686,7 @@ div.search-item {
   margin: 1em 0;
 }
 .donations {
-  margin: 0 0 1em;
+  margin: 1em 0;
 }
 .note-alternative {
   font-style: italic;

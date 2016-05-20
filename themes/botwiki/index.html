@@ -40,9 +40,8 @@
   <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png">
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
-  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.60.min.css" type="text/css" />  
+  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Bree+Serif|Lato' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.61.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -68,6 +67,14 @@
     </div>
   </header>
   <div id="content-wrapper">
+    {% if is_front_page %}
+      <div class="header-image">
+        <a href="/bots/twitterbots/NixieBot">
+          <img src="/content/images/botwiki-nixiebot.jpg" data-src="/content/images/botwiki-nixiebot.jpg" class="lazy-load">
+        </a>
+      </div>
+    {% endif %}
+
     <section id="content">
       <div id="main" class="inner">
         {% if meta.purpose == "search_results" %}
@@ -132,9 +139,9 @@
         </ul>
         <ul class="footer-list">
           <li class="list-header">Support</li>
-          <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
           <li><a href="https://www.patreon.com/botwiki">Patreon</a></li>
           <li><a href="https://gratipay.com/botwiki-org/">Gratipay</a></li>
+          <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
           <li><a href="bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&amp;label=Botwiki">Bitcoin</a></li>
           <li><a href="/about/supporters">Supporters</a></li>
         </ul>

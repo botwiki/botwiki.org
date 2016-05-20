@@ -348,7 +348,7 @@ img.extra-margin{
   }
 }
 
-p.header-image{
+div.header-image{
   margin: 0;
 }
 
@@ -401,6 +401,8 @@ div.all-tags a{
   color: #5D9CEC;
   background-color: @main-color;
   box-shadow: 0 4px 40px -15px #333;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
 }
 
 #header a { 
@@ -505,7 +507,7 @@ ul#menu{
 #header nav a {
   font-size: 1.1em;
   color: #fff;
-  font-weight: bold;
+  font-weight: bolder;
 }
 #header a:checked#menu-icon {
   background-color: #444;
@@ -534,22 +536,20 @@ form#search-form input{
 div#content-wrapper{
   margin: 0 auto;
   max-width: @site-width;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
 }
 
 #content{
   min-height: 1200px;
   background-color: #fff;
   padding: 0;
+  margin-top: -5px;
   margin-bottom: 2em;
   font-size: 1.1em;
   line-height: 1.3em;
   position: relative;
-  border-left: 1px solid #efefef;
-  border-right: 1px solid #efefef;
 
-  @media (max-width: 940px){
-    padding: 2em 0 100px;
-  }
 }
 
 aside#sidebar{
@@ -559,9 +559,9 @@ aside#sidebar{
     position: absolute;
     border-left: 1px solid #efefef;
     background-color: #fcfcfc;
-    padding: 0 10px;
+    padding: 1em 10px 10px;
     right: 0;
-    top: 10px;
+    top: 0;
     bottom: 0;
   }
 
@@ -615,7 +615,7 @@ div.sidebar-module:not(:first-child){
 div#main{
   @media (min-width : 940px){
     margin-right: @sidebar-width;
-    padding: 2em 2em 5em;
+    padding: 1em 1em 5em;
   }
 }
 
@@ -688,7 +688,7 @@ div.search-item{
 }
 
 .donations{
-  margin: 0 0 1em;
+  margin: 1em 0;
 }
 
 .note-alternative{

@@ -1,17 +1,14 @@
-{% if meta.show_donation_link == 'yes' %}
-  {% include 'includes/donations.html' %}
-{% endif %}
 <article>
 <!--
   <div class="note">Help Botwiki grow and <a href="https://botwiki.org/submit-your-bot">submit a bot</a>!</div>
 -->
 
-  <p class="header-image">
-    <a href="/bots/twitterbots/NixieBot">
-      <img src="/content/images/botwiki-nixiebot.jpg" data-src="/content/images/botwiki-nixiebot.jpg" class="lazy-load">
-    </a>
-  </p>
 
   <h2>{{ meta.title }}</h2>
   {{ content }}
+
+  {% if meta.show_donation_link == 'yes' %}
+    {% include 'includes/donations.html' %}
+  {% endif %}
+
 </article>
