@@ -554,6 +554,11 @@ div#content-wrapper {
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
+@media (max-width: 940px) {
+  div#content-wrapper {
+    margin-top: 14px;
+  }
+}
 #content {
   min-height: 1200px;
   background-color: #fff;
