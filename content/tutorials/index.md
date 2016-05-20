@@ -6,7 +6,7 @@ Show donation link: yes
 Weight: 2
 */
 
-<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
+<div class="note">Before you start making bots, consider reading <a href="#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
 
 [![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
