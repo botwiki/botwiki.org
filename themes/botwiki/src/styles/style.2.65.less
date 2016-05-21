@@ -7,6 +7,7 @@
 */
 
 @site-width: 1200px;
+@site-width-small: 860px;
 @sidebar-width: 275px;
 /*
 Original dark gray
@@ -138,7 +139,7 @@ body {
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     padding-top: 2em;
   }
   margin-bottom: 80px;
@@ -153,7 +154,7 @@ a, a:visited {
 
 a:hover, a:active {
   color: @main-color - #222;
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     text-decoration: underline;
   }
 }
@@ -208,7 +209,7 @@ h4{
 ol, ul {
   padding-left: 35px;
   margin: 0.2em 0;
-  @media (min-width : 910px) {
+  @media (min-width : @site-width-small) {
     padding-left: 50px;
   }
 }
@@ -347,7 +348,7 @@ img.centered{
 }
 
 img.extra-margin{
-  @media (min-width : 940px) {
+  @media (min-width : @site-width-small) {
     margin-top: -1.3em;
   }
 }
@@ -390,7 +391,7 @@ div.all-tags a{
 .inner {
   margin: 0 auto;
   padding: 5px;
-  @media (min-width : 910px) {
+  @media (min-width : @site-width-small) {
     padding: 0 1em;
   }
 }
@@ -407,7 +408,7 @@ div.all-tags a{
   box-shadow: 0 4px 40px -15px #333;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     padding: 0;
   }
 }
@@ -467,7 +468,7 @@ footer .inner{
 }
 
 li.active a{
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     border-bottom: 3px solid #F5F5F5; 
   }
 }
@@ -501,11 +502,16 @@ ul#menu{
   margin-top: -5px;
   margin-left: 15px;  
 }
+#header nav li:nth-child(2){
+/*TODO: A bit hacky, maybe refactor later?*/
+  margin-left: 0;
+}
+
 #header nav li.form-wrapper {
   margin-left: 35px;
   margin-top: -5px;
   float: right;
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     margin-top: 1em;
     margin-bottom: 1em;
     float: none;
@@ -546,7 +552,7 @@ div#content-wrapper{
   max-width: @site-width;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     margin-top: 6px;    
   }
 }
@@ -563,7 +569,7 @@ div#content-wrapper{
 }
 
 aside#sidebar{
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     display: block;
     max-width: @sidebar-width;
     position: absolute;
@@ -575,7 +581,7 @@ aside#sidebar{
     bottom: 0;
   }
 
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     overflow: auto;
   }
 }
@@ -592,7 +598,7 @@ aside#sidebar img{
 }
 
 div.sidebar-module{
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small+10px){
     margin-top: 3em;
     width: 50%;
     min-height: 300px;
@@ -608,7 +614,7 @@ div.sidebar-module{
 
 aside#sidebar hr{
   max-width: 25%;
-  @media (max-width : 940px){
+  @media (max-width : @site-width-small){
     display: none;
   }
   @media (max-width : 700px){
@@ -617,13 +623,13 @@ aside#sidebar hr{
 }
 
 div.sidebar-module:not(:first-child){
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     margin-top: 10px;
   }
 }
 
 div#main{
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     margin-right: @sidebar-width;
     padding: 1em 1em 5em;
   }
@@ -729,13 +735,13 @@ p.screenshot img{
 }
 
 p.screenshot.float-right{
-  @media (min-width : 910px) {
+  @media (min-width : @site-width-small) {
     padding-left: 30px;
   }
 }
 
 p.screenshot.float-left{
-  @media (min-width : 910px) {
+  @media (min-width : @site-width-small) {
     padding-right: 30px;
   }
 }
@@ -846,7 +852,7 @@ img.logo-digitalocean{
   }
 }
 
-@media (max-width : 940px) {
+@media (max-width : @site-width-small) {
   #header #menu-icon {
     display:inline-block;
   }
@@ -883,27 +889,27 @@ img.logo-digitalocean{
     margin-left: 30px;
   }
 
-div.callout{
-  max-width: @site-width;
-  margin: 0 auto;
-  font-weight: bold;
-  color: #fff;
-  background-color: @main-color - #333;
-  color: #fff;
-  overflow: auto;
-  padding: 0.5em 0;
-}
+  div.callout{
+    max-width: @site-width;
+    margin: 0 auto;
+    font-weight: bold;
+    color: #fff;
+    background-color: @main-color - #333;
+    color: #fff;
+    overflow: auto;
+    padding: 0.5em 0;
+  }
 
-div.callout > p{
-  padding: 0;
-  margin: 0;
-  text-align: center;
-}
+  div.callout > p{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
 
-div.callout a{
-  color: #fff;
-  text-decoration: underline;
-}  
+  div.callout a{
+    color: #fff;
+    text-decoration: underline;
+  }  
 
 
   /*
@@ -960,7 +966,7 @@ div.back-to-top{
   right: 10px;
   width: 64px;
   opacity: 0.9;
-  @media (min-width : 940px){
+  @media (min-width : @site-width-small){
     width: 48px;
     opacity: 0.5;
   }
