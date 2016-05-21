@@ -23,7 +23,7 @@ There's a lot that goes into maintaining **Botwiki** and all the related side pr
 - and overall just keeping all the sites running
 
 <div id="donation-options">
-  If you don't have the time to help out personally (which I completely understand!), you can support <strong>Botwiki</strong> via:
+  <p>If you don't have the time to help out personally (which I completely understand!), you can support <strong>Botwiki</strong> via:</p>
 </div>
 
 - [Patreon](https://www.patreon.com/botwiki)

@@ -217,6 +217,7 @@ h6 {
   color: #38313a;
   line-height: 1.2em;
   margin-bottom: 0.6em;
+  padding: 1rem 1rem 0;
 }
 a.pilcrow,
 a.pilcrow:visited {
@@ -331,7 +332,7 @@ hr {
   border-top: solid 1px #dfdfdf;
   border-bottom: none;
   margin: 2em auto 2em;
-  max-width: 100%;
+  max-width: 95%;
 }
 section.footer-lists {
   margin: 1em auto 3em;
@@ -477,12 +478,12 @@ div.all-tags a {
 }
 header,
 footer {
-  max-width: 1200px;
+  max-width: 1150px;
   margin: 0 auto;
 }
 header .inner,
 footer .inner {
-  max-width: 1200px;
+  max-width: 1150px;
 }
 @media (min-width: 860px) {
   li.active a {
@@ -582,13 +583,13 @@ form#search-form input {
 }
 div#content-wrapper {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1150px;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
 @media (max-width: 860px) {
   div#content-wrapper {
-    margin-top: 6px;
+    margin-top: 1em;
   }
 }
 #content {
@@ -662,14 +663,17 @@ aside#sidebar hr {
     margin-top: 10px;
   }
 }
+div#main {
+  padding: 0;
+}
 @media (min-width: 860px) {
   div#main {
     margin-right: 275px;
-    padding: 1em 1em 5em;
   }
 }
 div#main p {
   margin: 1em 0;
+  padding: 0.5rem 1rem;
 }
 #footer {
   color: #38313a;
@@ -890,7 +894,7 @@ img.logo-digitalocean {
     margin-left: 30px;
   }
   div.callout {
-    max-width: 1200px;
+    max-width: 1150px;
     margin: 0 auto;
     font-weight: bold;
     background-color: #050007;

@@ -1,19 +1,5 @@
 <article>
   <div class="meta">
-  {% if meta.translations is not empty %}
-    <p>Also available in: 
-      {% for language in meta.translations|split(',') %}
-        <a href="{{ current_page.url }}_{{ language }}">
-          {% if language == 'es' %}
-            Spanish
-          {% else %}
-            {{ language }}
-          {% endif %}
-        </a>
-      {% endfor %}
-    </p>
-  {% endif %}
-
   {% if meta.link %}
     <a href="{{ meta.link }}">
   {% endif %}
@@ -25,6 +11,19 @@
   {% endif %}
 
   <h2>{{ meta.title }}</h2>
+  {% if meta.translations is not empty %}
+    <p><em>Also available in: 
+      {% for language in meta.translations|split(',') %}
+        <a href="{{ current_page.url }}_{{ language }}">
+          {% if language == 'es' %}
+            Spanish
+          {% else %}
+            {{ language }}
+          {% endif %}
+        </a>
+      {% endfor %}
+    </em></p>
+  {% endif %}
 
   {% if meta.installed == 'true' or meta.installed == 'yes' %}
       <div class="note">
