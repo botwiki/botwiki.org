@@ -452,7 +452,6 @@ div.all-tags a {
 #header a:hover {
   color: #fff;
   text-decoration: none;
-  margin-bottom: 1em;
 }
 #header a {
   padding-bottom: 8px;
@@ -493,14 +492,31 @@ footer .inner {
 label.cursor-pointer {
   cursor: pointer;
 }
+a#logo {
+  float: left;
+  margin: 0.3em 0.7em 0 0;
+  color: #fff !important;
+}
+a#logo:hover {
+  border-bottom: none !important;
+}
 ul#menu {
   margin-left: 0;
   padding-left: 0;
   top: 2.3em;
+  text-align: center;
+}
+@media (max-width: 860px) {
+  ul#menu {
+    float: right;
+  }
 }
 #menu-toggle {
   display: none;
   /* hide the checkbox */
+}
+#header #menu-icon-wrapper {
+  float: right;
 }
 #header #menu-icon {
   display: none;
@@ -541,7 +557,7 @@ ul#menu {
   color: #fff;
   font-weight: bolder;
 }
-#header a:checked#menu-icon {
+#header #menu-toggle:checked#menu-icon {
   background-color: #444;
   border-radius: 4px 4px 0 0;
 }
