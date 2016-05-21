@@ -16,10 +16,10 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 
 - [@swizzard](https://twitter.com/swizzard) ([GitHub](https://github.com/swizzard))
 - [@Kimik00](https://twitter.com/Kimik00)
-- [Noah Petherbridge](https://www.kirsle.net/)
-- [@filmplane](http://matthewspencerphotography.com/)
-- [@tinyworlds](http://twitter.com/tinyworlds) ([personal website](http://tinyworlds.org))
-- [cosmophagy](http://cosmophagy.tumblr.com/)
+- [Noah Petherbridge](https://www.kirsle.net/?ref=botwiki)
+- [@filmplane](http://matthewspencerphotography.com/?ref=botwiki)
+- [@tinyworlds](http://twitter.com/tinyworlds) ([personal website](http://tinyworlds.org/?ref=botwiki))
+- [cosmophagy](http://cosmophagy.tumblr.com/?ref=botwiki)
 
 ## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
 
