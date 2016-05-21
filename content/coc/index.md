@@ -4,7 +4,7 @@ Description: Botwiki.org is an open-source collection of tutorials, articles, da
 Nav: hidden
 */
 
-***Note:** You can track the changes to this page [on GitHub](https://github.com/botwiki/botwiki.org/commits/master/content/coc/index.md) (and [here](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md) for an older version of this document).*
+<div class="note">You can track changes to this document <a href="https://github.com/botwiki/botwiki.org/commits/master/content/coc/index.md">on GitHub</a> (here is <a href="https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md">an older version</a>).</div>
 
 ## [¶](#introduction){.pilcrow} Introduction {#introduction}
 
