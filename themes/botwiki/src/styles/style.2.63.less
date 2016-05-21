@@ -138,6 +138,9 @@ body {
   color: #444;
   line-height: 1.2em;
   padding-top: 80px;
+  @media (max-width : 940px){
+    padding-top: 50px;
+  }
   margin-bottom: 80px;
   background: #f7f7f7;
   -webkit-font-smoothing: antialiased;
@@ -403,6 +406,9 @@ div.all-tags a{
   box-shadow: 0 4px 40px -15px #333;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
+  @media (max-width : 940px){
+    padding: 0;
+  }
 }
 
 #header a { 
@@ -471,6 +477,7 @@ label.cursor-pointer {
 ul#menu{
   margin-left: 0;
   padding-left: 0;
+  top: 50px;  
 }
 #menu-toggle {
   display: none; /* hide the checkbox */
@@ -529,6 +536,7 @@ form#search-form{
 form#search-form input{
   padding: 0.5em 1em;
   border-radius: 20px;
+  outline: none;
   width: 100%;
   line-height: 1.5em;
 }
@@ -539,7 +547,7 @@ div#content-wrapper{
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
   @media (max-width : 940px){
-    margin-top: 14px;    
+    margin-top: 6px;    
   }
 }
 
@@ -650,6 +658,7 @@ div.sponsors-corporate-organizations img{
   vertical-align: middle;
   margin: 1em;
   max-width: 300px;
+  max-height: 130px;
 }
 
 table.event-table td{
@@ -855,11 +864,11 @@ img.logo-digitalocean{
     position: absolute;
     padding: 20px;
     background: #fff;
-    border-top: 2px solid @main-color;
-    border-bottom: 2px solid @main-color;
+    border-top: 1px solid @main-color;
+    border-bottom: 1px solid @main-color;
     box-shadow: 0 10px 100px -10px #333;
     left: -100px;
-    top: 80px;
+    top: 50px;
     width: 100%;
     z-index: 9999;
     transition: all 0.2s;

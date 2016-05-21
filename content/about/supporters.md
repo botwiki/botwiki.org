@@ -55,8 +55,14 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
     <img src="/content/images/logos/bot-libre.png">
   </a>
   <a
-     title="NYPL Labs, the sponsor of the May 2016 Monthly Bot Challenge"
-     href="https://twitter.com/nypl_labs">NYPL&nbsp;Labs</a>
+     title="NYPL Labs (no logo), the sponsor of the May 2016 Monthly Bot Challenge"
+     href="https://twitter.com/nypl_labs"><strong>NYPL&nbsp;Labs</strong>
+  </a>
+  <a href="https://www.botpages.com/" 
+     alt="BotPages logo"
+     title="BotPages">
+    <img src="/content/images/logos/botpages-logo.png">
+  </a>
 </div>
 
 **Huge thanks goes to everyone!**
