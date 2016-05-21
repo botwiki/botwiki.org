@@ -24,32 +24,32 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 ## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
 
 <div class="sponsors-corporate-organizations">
-  <a href="https://www.digitalocean.com/" 
+  <a href="https://www.digitalocean.com/?ref=botwiki" 
      alt="DigitalOcean logo"
      title="DigitalOcean, the sponsor of the very first Monthly Bot Challenge">
     <img src="/content/images/logos/digitalocean-logo.png">
   </a>
-  <a href="https://www.gyro.com/" 
+  <a href="https://www.gyro.com/?ref=botwiki" 
      alt="Gyro"
      title="Gyro, the host of the first Botwiki edit-a-thon">
     <img src="/content/images/logos/gyro.jpg">
   </a>
-  <a href="http://www.andfestival.org.uk/" 
+  <a href="http://www.andfestival.org.uk/?ref=botwiki" 
      alt="Abandon Normal Devices logo"
      title="Abandon Normal Devices, the sponsor of the March 2016 Monthly Bot Challenge">
     <img src="/content/images/logos/and-logo.png">
   </a>
-  <a href="http://botnerds.com/" 
+  <a href="http://botnerds.com/?ref=botwiki" 
      alt="Botnerds logo"
      title="Botnerds, the sponsor of the Botmakers meetup group">
     <img src="/content/images/logos/botnerds.png">
   </a>
-  <a href="https://opennews.org/" 
+  <a href="https://opennews.org/?ref=botwiki" 
      alt="Knight-Mozilla OpenNews logo"
      title="Knight-Mozilla OpenNews, the sponsor of the April 2016 Monthly Bot Challenge">
     <img src="/content/images/logos/knight-mozilla-opennews.png">
   </a>
-  <a href="http://botlibre.com/" 
+  <a href="http://botlibre.com/?ref=botwiki" 
      alt="BOT libre! logo"
      title="BOT libre!">
     <img src="/content/images/logos/bot-libre.png">
@@ -58,7 +58,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
      title="NYPL Labs (no logo), the sponsor of the May 2016 Monthly Bot Challenge"
      href="https://twitter.com/nypl_labs"><strong>NYPL&nbsp;Labs</strong>
   </a>
-  <a href="https://www.botpages.com/" 
+  <a href="https://www.botpages.com/?ref=botwiki" 
      alt="BotPages logo"
      title="BotPages">
     <img src="/content/images/logos/botpages-logo.png">
