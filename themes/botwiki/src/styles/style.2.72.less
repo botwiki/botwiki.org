@@ -16,6 +16,7 @@ Purple
 @main-color: #564d68;
 */
 @main-color: #38313a;
+@link-color: #4A89DC;
 
 /*=================================*/
 /* Pico Default Theme
@@ -148,7 +149,7 @@ body{
 }
 
 a, a:visited{
-  color: #4A89DC;
+  color: @link-color;
   text-decoration: none;
 }
 
@@ -729,6 +730,16 @@ div.search-item{
 .note-alternative{
   font-style: italic;
   margin: 2em 0;  
+}
+
+.share-prompt{
+  background-color: @link-color;
+  color: #fff;
+  font-weight: bold;
+  a{
+    color: #fff;
+    text-decoration: underline;
+  }
 }
 
 div.search-item p.meta,
