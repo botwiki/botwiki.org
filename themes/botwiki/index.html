@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html itemscope itemtype="https://schema.org/WebPage" lang="en" class="no-js">
+<html itemscope itemtype="https://schema.org/WebPage" lang="en" class="no-js" />
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   {% if meta.title %}
     <title>{{ meta.title }} | {{ site_title }} 🤖</title>
-    <meta property="og:title" content="{{ meta.title }} | {{ site_title }}" />
-    <meta name="twitter:title" content="{{ meta.title }} | {{ site_title }}">
+    <meta property="og:title" content="{{ meta.title }} | {{ site_title }} 🤖" />
+    <meta name="twitter:title" content="{{ meta.title }} | {{ site_title }} 🤖" />
   {% else %}
     <title>{{ site_title }} 🤖</title>
     <meta property="og:title" content="{{ site_title }}" />
-    <meta name="twitter:title" content="{{ site_title }}">
+    <meta name="twitter:title" content="{{ site_title }}" />
   {% endif %}
   {% if meta.description %}
-    <meta name="description" content="{{ meta.description }}"> 
+    <meta name="description" content="{{ meta.description }}" />
     <meta property="og:description" content="{{ meta.description }}" />
-    <meta name="twitter:description" content="{{ meta.description }}">
-  {% endif %}
+    <meta name="twitter:description" content="{{ meta.description }}" />
+  {% endif%}
   {% if meta.robots %}
-    <meta name="robots" content="{{ meta.robots }}">
+    <meta name="robots" content="{{ meta.robots }}" />
   {% endif %}
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ current_page.url }}" />
@@ -30,16 +30,16 @@
     <meta property="og:image" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" /> 
     <meta property="twitter:image:src" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" /> 
   {% endif %}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@botwikidotorg">
-  <meta name="twitter:domain" content="https://botwiki.org/">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@botwikidotorg" />
+  <meta name="twitter:domain" content="https://botwiki.org/" />
   <link type="text/plain" rel="author" href="https://botwiki.org/humans.txt" />
-  <meta name="msapplication-TileColor" content="#FFFFFF">
-  <meta name="msapplication-TileImage" content="https://botwiki.org/content/images/favicon-144.png">
+  <meta name="msapplication-TileColor" content="#FFFFFF" />
+  <meta name="msapplication-TileImage" content="https://botwiki.org/content/images/favicon-144.png" />
   <link rel="shortcut icon" href="/content/images/favicon.ico"/>
-  <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png">
-  <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png">
+  <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png" />
+  <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Bree+Serif|Lato' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="{{ theme_url }}/css/style.2.70.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
