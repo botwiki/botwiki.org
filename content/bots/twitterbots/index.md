@@ -68,7 +68,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
 - [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R. M. Livingstone](https://twitter.com/Rmlivingstone)
 - [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots/members), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
-- [Museum Bots](https://twitter.com/backspace/lists/museum-bots/members), maintained by [ John Emerson](https://twitter.com/backspace/lists/museum-bots)
+- [Museum Bots](https://twitter.com/backspace/lists/museum-bots/members), maintained by [John Emerson](https://twitter.com/backspace)
 
 #### [¶](#lists-of-twitter-bots-non-english){.pilcrow} Non-English bots {#lists-of-twitter-non-english}
 
