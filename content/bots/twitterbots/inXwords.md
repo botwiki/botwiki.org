@@ -1,6 +1,6 @@
 /*
 Title: @inXwords
-Description: #bot,twitterbotInXwords
+Description: Random nuggets of wisdom from Project Gutenberg in so many words
 Thumbnail: /content/bots/twitterbots/images/inXwords.png
 Link: http://twitter.com/inXwords
 Author: Stefan Bohacek
@@ -11,4 +11,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@inXwords](https://twitter.com/inXwords) is an [open source](https://github.com/hugovk/inXwords) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that finds a trending topic along the lines of *#YinXwords* and tweet a random X-word sentence from Project Gutenberg.
+[@inXwords](https://twitter.com/inXwords) is an [open source](https://github.com/hugovk/inXwords) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that finds a trending topic along the lines of *#YinXwords* and tweets a random X-word sentence from Project Gutenberg.
