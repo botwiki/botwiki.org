@@ -10,6 +10,7 @@ import datetime
 import gspread  # pip install gspread
 import json
 import os
+import re
 from oauth2client.client import SignedJwtAssertionCredentials
 from colorama import init, Fore, Style
 
@@ -134,8 +135,12 @@ def bot_tags(bot):
     elif bot['network'] == 'Snapchat':
         tags_to_add = ["snapchat", "snapchatbot"]
 
-    # Remove spaces after commas, but not from tags, and convert into a list
-    user_tags = bot['tags'].replace(", ", ",").lower().split(",")
+    # Cleanup the tags.
+    rep = {", ": ",", "#": ""}
+    rep = dict((re.escape(k), v) for k, v in rep.iteritems())
+    pattern = re.compile("|".join(rep.keys()))
+
+    user_tags = pattern.sub(lambda m: rep[re.escape(m.group(0))], bot['tags']).lower().split(",")
 
     tags_to_add.extend(['bot'])
 
