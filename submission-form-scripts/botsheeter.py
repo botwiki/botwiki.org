@@ -140,7 +140,8 @@ def bot_tags(bot):
     rep = dict((re.escape(k), v) for k, v in rep.iteritems())
     pattern = re.compile("|".join(rep.keys()))
 
-    user_tags = pattern.sub(lambda m: rep[re.escape(m.group(0))], bot['tags']).lower().split(",")
+    user_tags = pattern.sub(
+        lambda m: rep[re.escape(m.group(0))], bot['tags']).lower().split(",")
 
     tags_to_add.extend(['bot'])
 
