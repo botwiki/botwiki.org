@@ -17,7 +17,7 @@ Nav: hidden
 </p>
 
 
-Your goal for the April 2016 Monthly Bot Challenge was to create a bot that **supports a good cause or raises awareness about an important issue**.
+The goal for the April 2016 Monthly Bot Challenge was to create a bot that **supports a good cause or raises awareness about an important issue**.
 
 You could have made a bot that [suggests its followers where to donate money](/bots/twitterbots/donorschamps). Or you could have made a bot that [tweets as certain events occur](https://twitter.com/gundeaths).
 
@@ -39,3 +39,5 @@ OpenNews publishes [Source](https://source.opennews.org), the online home for th
 ### [¶](#winner){.pilcrow} Winner {#winner}
 
 The winner of the 2016 April Monthly Bot Challenge was [@White_Fangs](https://twitter.com/White_fangs) with [@ItIsYourData](/bots/twitterbots/ItIsYourData/), congratulations! 👏👏🎉
+
+***[Back to Monthly Bot Challenge main page](/monthly-bot-challenge/)

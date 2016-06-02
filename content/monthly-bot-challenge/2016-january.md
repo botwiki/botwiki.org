@@ -29,3 +29,6 @@ Visit [digitalocean.com](https://www.digitalocean.com/) to learn more about the 
 - 3rd place: [@one_small_bot](/bots/twitterbots/one_small_bot/) by [Emma Winston](https://twitter.com/deer_ful)
 
 Congratulations to the winners! 👏👏👏🎉🎉
+
+
+***[Back to Monthly Bot Challenge main page](/monthly-bot-challenge/)

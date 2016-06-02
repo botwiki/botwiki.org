@@ -41,3 +41,6 @@ The March 2016 sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.
 ### [¶](#winner){.pilcrow} Winner {#winner}
 
 The winner of the 2016 March Monthly Bot Challenge was [cosmophagy](http://cosmophagy.tumblr.com) with the [@BMovieGenerator](/bots/twitterbots/BMovieGenerator/) bot 👏👏🎉
+
+
+***[Back to Monthly Bot Challenge main page](/monthly-bot-challenge/)
