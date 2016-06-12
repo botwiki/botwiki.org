@@ -1,11 +1,10 @@
 /*
 Title: soccerfanbot
-Description: SoccerFanbot, teams, players and girls (cute ones)
-Thumbnail: /content/bots/other/images/soccerfanbot.png
+Description: SoccerFanbot, teams, and players. 
 Link: http://m.me/soccerfanbot
 Author: botsheeter.py
 Date: June 11, 2016
-Tags: bot,active,interactive,bots,messenger,soccer,euro2016,football,wags,girls,players,fun,momoh_rr
+Tags: bot,active,interactive,bots,messenger,soccer,euro2016,football,wags,players,fun,momoh_rr
 Nav: hidden
 Robots: index,follow
 */
