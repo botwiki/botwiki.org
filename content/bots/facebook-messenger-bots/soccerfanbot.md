@@ -9,7 +9,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[soccerfanbot](http://m.me/soccerfanbot) is a other bot created by [Mohus](https://twitter.com/Momoh_RR). 
+[soccerfanbot](http://m.me/soccerfanbot) is a bot for Facebook Messenger created by [Mohus](https://twitter.com/Momoh_RR). 
 
 This bot gives you : 
 - an update on the score for your selected team, just type "Update me on France" for example
