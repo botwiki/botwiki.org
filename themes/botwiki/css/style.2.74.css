@@ -735,6 +735,9 @@ div.search-item {
   font-style: italic;
   margin: 2em 0;
 }
+span.normal-text {
+  font-style: normal;
+}
 .share-prompt {
   background-color: #4a89dc;
   color: #fff;
