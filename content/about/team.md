@@ -12,7 +12,7 @@ Nav: hidden
 
 Hi!
 
-My name is Stefan *[stefn]* and I'm [@stefan](https://botmakers.slack.com/messages/@stefan/details/) on [Botmakers.org](https://botmakers.org/) and [@fourtonfish](https://twitter.com/fourtonfish) on Twitter. I am the original creator of **Botwiki.org**, the admin on [Botmakers.org](https://botmakers.org/) and I also write the [Bot! zine](https://botzine.org/).
+My name is Stefan *[stefn]* and I'm [@stefan](https://botmakers.slack.com/messages/@stefan/details/) on [Botmakers.org](https://botmakers.org/) and [@fourtonfish](https://twitter.com/fourtonfish) on Twitter. I am the original creator of **Botwiki.org**, the admin on [Botmakers.org](https://botmakers.org/) and I also wrote the first 32 issues of [Bot! zine](https://botzine.org/).
 
 I'm a "full stack" front end developer living in New York, and a [Mozillian](https://mozillians.org/en-US/u/stefan.bohacek/).
 
@@ -29,13 +29,10 @@ I'm Veronica!
 
 I'm a podcaster, writer, and bot/AI enthusiast from San Francisco. I love talking and learning about bot projects out there in the world, so tweet them to me [@veronica](https://twitter.com/veronica)!
 
-I'm also an admin at [botmakers.org](https://botmakers.org/), and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
+I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot! zine](https://botzine.org/) newsletter, and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
 
 
 <hr/>
-
-
-
 
 
  
