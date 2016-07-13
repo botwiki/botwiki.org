@@ -4,7 +4,7 @@ Link: https://botness.fuselabs.org/
 Date: June 13, 2016
 Description: A two-day gathering in San Francisco to discuss discuss "all things bots".
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=135+Mississippi+St+San+Francisco+CA+94107&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 [Botness](https://botness.fuselabs.org/) is two-day gathering in San Francisco where folks will discuss "all things bots: design, tools, and what makes for great dialog among different audiences".
