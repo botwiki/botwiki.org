@@ -593,7 +593,7 @@ div#content-wrapper {
   }
 }
 #content {
-  min-height: 1550px;
+  min-height: 78em;
   background-color: #fff;
   padding: 0;
   margin-top: -5px;
