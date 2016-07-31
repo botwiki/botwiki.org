@@ -6,9 +6,9 @@
   Variables
 */
 
-@site-width: 1150px;
-@site-width-small: 870px;
-@sidebar-width: 275px;
+@site-width: 1202px;
+@site-width-small: 1000px;
+@sidebar-width: 300px;
 /*
 Original dark gray
 @main-color: #2A2C2B;
@@ -570,12 +570,12 @@ div#content-wrapper{
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
   @media (max-width : @site-width-small){
-    margin-top: 0.5em;    
+    margin-top: 10px;    
   }
 }
 
 #content{
-  min-height: 1550px;
+  min-height: 78em;
   background-color: #fff;
   padding: 0;
   margin-top: -5px;
@@ -732,6 +732,11 @@ div.search-item{
   margin: 2em 0;  
 }
 
+.note.donations{
+  margin-top: 3rem;
+  padding: .5rem 1rem;
+}
+
 span.normal-text{
   font-style: normal;
 }
@@ -804,6 +809,10 @@ img.round-borders{
 .lazy-load,
 .lazy-loaded{
   transition: all 0.3s;
+}
+
+div.article-thumbnail{
+  text-align: center;
 }
 
 div.search-thumbnail img{
