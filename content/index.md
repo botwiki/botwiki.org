@@ -19,4 +19,7 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 
 -- [Stefan](/about/team#stefan), the creator of **Botwiki**
 
-***Related: [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)***
+***See also:***
+
+- [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
+- [One year of Botwiki 🤖🎂👏🎉 (July 12, 2016)](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/) 
