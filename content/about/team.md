@@ -43,4 +43,4 @@ I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot!
 
 ### [¶](#contact){.pilcrow} Contact {#contact}
 
-If you'd like to get in touch, feel free to email [stefan@botwiki.org](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).
+If you'd like to get in touch, feel free to email [Stefan and Veronica](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).

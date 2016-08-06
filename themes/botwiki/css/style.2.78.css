@@ -213,7 +213,7 @@ h6 {
   font-family: 'Fjalla One', serif;
   color: #38313a;
   line-height: 1.2em;
-  margin-bottom: 0.6em;
+  margin: 0.6em 0;
   padding: 1rem 1rem 0;
 }
 a.pilcrow,
@@ -234,19 +234,19 @@ a.pilcrow:hover {
   color: #160f18;
   text-decoration: none;
 }
-h1,
-article h2 {
+h1 {
   font-size: 3em;
 }
 h2 {
-  font-size: 1.8em;
+  font-size: 2.5em;
+  margin: 0.5em 0;
 }
 h3 {
-  font-size: 1.6em;
+  font-size: 2em;
   margin-top: 0.5em;
 }
 h4 {
-  font-size: 1.5em;
+  font-size: 1.7em;
 }
 ol,
 ul {
@@ -729,7 +729,7 @@ div.search-item {
   margin: 2em 0;
 }
 .note.donations {
-  margin-top: 3rem;
+  margin-top: 8px;
   padding: .5rem 1rem;
 }
 span.normal-text {
