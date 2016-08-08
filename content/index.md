@@ -11,7 +11,7 @@ Show donation link: yes
 Some examples of such bots include:
 
 - [a bot that posts holidays around the world](bots/twitterbots/holidaybot4000)
-- [a Twitter bot that posts emoji polls every hour](bots/twitterbots/emoji__polls)
+- [a bot that posts emoji polls every hour](bots/twitterbots/emoji__polls)
 - [a reminder bot](bots/twitterbots/mnemosynetron)
 - [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
