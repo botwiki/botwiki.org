@@ -12,5 +12,4 @@ Robots: index,follow
 
 [@oaisdujour](https://twitter.com/oaisdujour) is an [open source](https://github.com/exponential-decay/oais-du-jour) Twitter bot created by [Ross Spencer](https://twitter.com/beet_keeper).
 
-Half bot / half curated the bot picks up changes to the UK's Digital Preservation Coalition's OAIS ISO standard review and tweets then to foster community interaction and engagement.
-
+> Half bot / half curated the bot picks up changes to the UK's Digital Preservation Coalition's OAIS ISO standard review and tweets then to foster community interaction and engagement.

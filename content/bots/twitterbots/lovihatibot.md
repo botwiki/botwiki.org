@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@lovihatibot](https://twitter.com/lovihatibot) is an [open source](https://github.com/hugovk/word-tools) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-Tracking word use on Twitter, sourced from tweets of 'I love the word [X]' and 'I hate the word [X]'. 
-
+[@lovihatibot](https://twitter.com/lovihatibot) is an [open source](https://github.com/hugovk/word-tools) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tracks word use on Twitter, sourced from tweets of 'I love the word [X]' and 'I hate the word [X]'. 

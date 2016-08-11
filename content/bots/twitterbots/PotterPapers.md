@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@PotterPapers](https://twitter.com/PotterPapers) is an [open source](https://github.com/hugovk/cheapbotsdonequick) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-Harry Potter and the titles of scientific articles.
-
+[@PotterPapers](https://twitter.com/PotterPapers) is an [open source](https://github.com/hugovk/cheapbotsdonequick) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that posts titles of scientific articles as if they belonged to the [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) series.

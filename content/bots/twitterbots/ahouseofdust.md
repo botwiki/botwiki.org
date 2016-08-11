@@ -10,7 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@ahouseofdust](https://twitter.com/ahouseofdust) is a Twitter bot created by [hugovk](https://twitter.com/hugovk). 
+[@ahouseofdust](https://twitter.com/ahouseofdust) is a Twitter-bot version of a poetry project created by Alison Knowles and James Tenney and the Siemens 4004 computer in 1967.
 
-A poetry project created by Alison Knowles and James Tenney and the Siemens 4004 computer in 1967. Twitter version by @hugovk and SSBot for #D004x in 2015.
-
+The bot was created by [@hugovk](https://twitter.com/hugovk) and [SSBot](http://www.zachwhalen.net/tag/ssbot/) for the [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x) online course in 2015.

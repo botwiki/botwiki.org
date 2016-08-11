@@ -10,7 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@sixworderbot](https://twitter.com/sixworderbot) is an [open source](https://github.com/hugovk/randomsentencebot) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
+[@sixworderbot](https://twitter.com/sixworderbot) is an [open source](https://github.com/hugovk/randomsentencebot) Twitter bot created by [@hugovk](https://twitter.com/hugovk). 
 
-Six-word stories, four times daily, made from random sentences from Project Gutenberg.
-
+> Six-word stories, four times daily, made from random sentences from Project Gutenberg.

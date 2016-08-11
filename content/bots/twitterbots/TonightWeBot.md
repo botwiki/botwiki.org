@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@TonightWeBot](https://twitter.com/TonightWeBot) is a Twitter bot created by [TRASEVOL_DOG](https://twitter.com/TRASEVOL_DOG). 
-
-It is inspired by Richard Hawley's "Tonight The Streets Are Ours" song and it tweets procedurally generated variants of that very phrase!
-
+[@TonightWeBot](https://twitter.com/TonightWeBot) is a Twitter bot created by [TRASEVOL_DOG](https://twitter.com/TRASEVOL_DOG) inspired by [Richard Hawley](https://en.wikipedia.org/wiki/Richard_Hawley)'s "Tonight The Streets Are Ours" song -- it tweets procedurally generated variants of that very phrase.

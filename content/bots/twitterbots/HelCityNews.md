@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@HelCityNews](https://twitter.com/HelCityNews) is a Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-Feeding the latest English-language news from the City of Helsinki into Twitter.
-
+[@HelCityNews](https://twitter.com/HelCityNews) is a Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tweets the latest English-language news from the City of Helsinki.

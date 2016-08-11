@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@KiasmaBot](https://twitter.com/KiasmaBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-I am a bot that tweets one object from the collection of the Kiasma contemporary art museum four times a day.
-
+[@KiasmaBot](https://twitter.com/KiasmaBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tweets one object from the collection of the [Kiasma contemporary art museum](https://en.wikipedia.org/wiki/Kiasma) four times a day.

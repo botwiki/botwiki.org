@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@BaanaCounter](https://twitter.com/BaanaCounter) is a Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-Tweeting hourly the number of bikes using the Baana bicycle corridor in Helsinki. 
-
+[@BaanaCounter](https://twitter.com/BaanaCounter) is a bot created by [@hugovk](https://twitter.com/hugovk) that tweets hourly the number of bikes using the [Baana bicycle corridor](http://www.publicspace.org/en/works/h241-baana-pedestrian-and-bicycle-corridor) in Helsinki. 

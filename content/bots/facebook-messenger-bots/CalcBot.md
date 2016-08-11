@@ -1,7 +1,6 @@
 /*
 Title: CalcBot
-Description: I'm CalcBot. A bot that works in Facebook Messenger. I can do all sorts of calculations just by sending your query to Calcbot.
-Thumbnail: /content/bots/other/images/CalcBot.png
+Description: I'm CalcBot, I can do all sorts of calculations.
 Link: http://m.me/CalcBot
 Author: botsheeter.py
 Date: June 05, 2016
@@ -10,7 +9,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[CalcBot](http://m.me/CalcBot) is a other bot created by [GifHip Labs](https://twitter.com/http://www.gifhip.com). 
+[CalcBot](http://m.me/CalcBot) is a Facebook Messenger bot created by [GifHip Labs](https://twitter.com/http://www.gifhip.com) that does "all sorts of calculations" 
 
-A Facebook Messenger chatbot that does all sorts of calculations by sending your query to Calcbot. Math(5+5*2), conversions (convert 5cm to inches) and even calculate your tip (tip $45).
-
+> Math (*5+5*2*), conversions (*convert 5cm to inches*) and even calculate your tip (*tip $45*).

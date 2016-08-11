@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@SinebrychoffBot](https://twitter.com/SinebrychoffBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-I am a bot that tweets one object from the collection of the Sinebrychoff Art Museum four times a day.
-
+[@SinebrychoffBot](https://twitter.com/SinebrychoffBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tweets one object from the collection of the [Sinebrychoff Art Museum](https://en.wikipedia.org/wiki/Sinebrychoff_Art_Museum) four times a day.

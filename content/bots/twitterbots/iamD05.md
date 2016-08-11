@@ -1,6 +1,6 @@
 /*
 Title: @iamD05
-Description: quote
+Description: Quotes and weather.
 Thumbnail: /content/bots/twitterbots/images/iamD05.png
 Link: https://twitter.com/iamD05
 Author: botsheeter.py
@@ -10,8 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@iamD05](https://twitter.com/iamD05) is a Twitter bot created by [Akhil sai](https://twitter.com/Akhilsai0001).
-
-A simple bot which tweets inspirational quotes and also forecasts weather of any area as a reply for the tweet that mentions city name
-
-
+[@iamD05](https://twitter.com/iamD05) is a Twitter bot created by [Akhil sai](https://twitter.com/Akhilsai0001) that tweets inspirational quotes and forecasts weather of any area as a reply to tweets that mentions a city.

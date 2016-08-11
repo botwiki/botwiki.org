@@ -10,7 +10,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@nixibot](https://twitter.com/nixibot) is an [open source](https://github.com/hugovk/word-tools) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-Tracking word use on Twitter, sourced from tweets of 'X ain't a word', 'X isn't a word' and 'X is not a word'.
+[@nixibot](https://twitter.com/nixibot) is an [open source](https://github.com/hugovk/word-tools) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tracks word use on Twitter, sourced from tweets of 'X ain't a word', 'X isn't a word' and 'X is not a word'.
 

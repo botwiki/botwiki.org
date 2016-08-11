@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@botsmellslike](https://twitter.com/botsmellslike) is an [open source](http://cheapbotsdonequick.com/source/botsmellslike) Twitter bot created by [@filmplane](https://twitter.com/filmplane). 
-
-Attempts to sing the chorus to Smells Like Teen Spirit by Nirvana
-
+[@botsmellslike](https://twitter.com/botsmellslike) is an [open source](http://cheapbotsdonequick.com/source/botsmellslike) Twitter bot created by [@filmplane](https://twitter.com/filmplane) that attempts to sing the chorus to [Smells Like Teen Spirit](https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit).

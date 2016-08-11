@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@AteneumBot](https://twitter.com/AteneumBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [hugovk](https://twitter.com/hugovk). 
-
-I am a bot that tweets one object from the collection of the Ateneum Art Museum four times a day.
-
+[@AteneumBot](https://twitter.com/AteneumBot) is an [open source](https://github.com/hugovk/fngbot) Twitter bot created by [@hugovk](https://twitter.com/hugovk) that tweets one object from the collection of the [Ateneum Art Museum](http://www.ateneum.fi/?lang=en) four times a day.

@@ -1,7 +1,6 @@
 /*
 Title: MetricsBot
 Description: The bot to display your Google Analytics data in Telegram
-Thumbnail: /content/bots/other/images/MetricsBot.png
 Link: http://telegram.me/MetricsBot
 Author: botsheeter.py
 Date: June 05, 2016
@@ -10,7 +9,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[MetricsBot](http://telegram.me/MetricsBot) is a other bot created by [@alukyanov](https://twitter.com/http://telegram.me/alukyanov). 
-
-Displays your Google Analytics data
-
+[MetricsBot](http://telegram.me/MetricsBot) is a bot created by [@alukyanov](http://telegram.me/alukyanov) that displays your Google Analytics data in Telegram.
