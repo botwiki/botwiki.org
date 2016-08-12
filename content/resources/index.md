@@ -30,6 +30,5 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 
 ### [¶](#other){.pilcrow} Lists and unsorted {#specificother}
 
+- [nucl.ai: Artificial Intelligence in Creative Industries.](https://nucl.ai/) -- archives of conferences, and courses
 - [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp) -- A curated list of resources dedicated to Natural Language Processing
-
-

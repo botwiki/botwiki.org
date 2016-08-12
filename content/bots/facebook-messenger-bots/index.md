@@ -11,7 +11,9 @@ Nav: hidden
   </a>
 </p>
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 Bots for [Facebook Messenger](https://www.messenger.com/), an instant messaging service from [Facebook](https://www.facebook.com/).
 

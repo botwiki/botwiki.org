@@ -16,6 +16,7 @@ Nav: hidden
 
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [pintux/whataboutBot](https://github.com/pintux/whataboutBot)
+- [nof1000/teleapi](https://github.com/nof1000/teleapi)
 
 #### [¶](#bot-frameworks-php){.pilcrow} PHP {#bot-frameworks-php}
 
@@ -24,17 +25,21 @@ Nav: hidden
 
 #### [¶](#bot-frameworks-python){.pilcrow} Python {#bot-frameworks-python}
 
+- [nickoala/telepot](https://github.com/nickoala/telepot), also see [the documentation](http://telepot.readthedocs.io/en/latest/)
+- [bender](https://pypi.python.org/pypi/bender)
 - [jlmadurga/django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot)
 
 
 #### [¶](#bot-frameworks-ruby){.pilcrow} Ruby {#bot-frameworks-ruby}
 
 - [atipugin/telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby)
+- [odarriba/fantastic_robot](https://github.com/odarriba/fantastic_robot)
+- [telegruby](https://rubygems.org/gems/telegruby)
 
 ### [¶](#other){.pilcrow} Other {#other}
 
 - [emirn/google_sheet_reader_bot](https://github.com/emirn/google_sheet_reader_bot/) -- Telegram bot to get data from Google Sheet, checks the very first column for time (in hours) and returns rows where time matches
-
+- [staceytay/dollybot](https://github.com/staceytay/dollybot) -- a simple telegram bot in OCaml
 
 
 [Back to all resources.](/resources)

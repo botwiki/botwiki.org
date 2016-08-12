@@ -43,6 +43,7 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 
 - [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet) -- tool for setting up groups of ebooks bots that talk to one another
 - [tweet-packer](https://www.npmjs.com/package/tweet-packer) -- accepts an array of strings and appends them together into < 140 character tweets
+- [clean-this-tweet-up](https://www.npmjs.com/package/clean-this-tweet-up) -- removes all #s, usernames, phone numbers, addresses, emails, and urls from a given tweet
 
 #### [¶](#language-python){.pilcrow} Python {#language-python}
 

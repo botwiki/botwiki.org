@@ -14,7 +14,10 @@ Nav: hidden
   </a>
 </p>
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
+
 
 - [Tumblr API](https://www.tumblr.com/docs/en/api/)
 - [Tumblr API Console](https://api.tumblr.com/console/calls/user/info)

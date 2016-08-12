@@ -6,7 +6,9 @@ Nav: hidden
 */
 
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 - [Kik Bot Dashboard](https://dev.kik.com/#/home)
 

@@ -7,7 +7,10 @@ Nav: hidden
 
 ![Tweet, tweet](/content/images/illustrations/clockwork2.jpg){.float-right}
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
+
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the IRC bot tutorials](/tutorials/irc-bots).
 

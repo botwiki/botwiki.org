@@ -67,6 +67,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/) -- tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/)
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767)
+- [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/)
 
 
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}

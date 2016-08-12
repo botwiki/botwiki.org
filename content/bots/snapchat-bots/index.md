@@ -9,7 +9,9 @@ Nav: hidden
 ![PLACEHOLDER](/content/images/illustrations/taste.jpg){.float-right}
 -->
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 Bots for [Snapchat](https://snapchat.com/), a video messaging application [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Snapchat).
 

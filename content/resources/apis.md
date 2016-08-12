@@ -38,6 +38,8 @@ Nav: hidden
 - [Clarifai](http://www.clarifai.com/)
 - [Sighthound](https://www.sighthound.com/products/cloud)
 
+### [¶](#art-images){.pilcrow} Art, images {#art-images}
+- [Artsy.net Public API](https://developers.artsy.net/) -- access to images of historic artwork and related information on [artsy.net](https://www.artsy.net/)
 
 ### [¶](#location-and-weather){.pilcrow} Location and weather {#location-and-weather}
 - [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API) -- editing API for fetching and saving raw geodata from/to the [OpenStreetMap](http://www.openstreetmap.org/) database

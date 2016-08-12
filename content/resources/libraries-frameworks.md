@@ -50,6 +50,8 @@ For libraries and frameworks for specific networks check out their corresponding
 - [spewer](https://www.npmjs.com/package/spewer) -- a reverse part-of-speech tagger: give it a list of tags and it spews out matching language
 - [shariq/burgundy](https://github.com/shariq/burgundy) -- generates "aesthetically pleasing words", see [burgundy.io](http://burgundy.io/)
 - [Improv](http://segue.pw/2016/01/27/improv.html) -- a javascript library for generative text
+- [incrediblesound/story-graph](https://github.com/incrediblesound/story-graph) -- the graph that generates stories
+- [michaelpaulukonis/tagspewer](https://github.com/michaelpaulukonis/tagspewer) -- spew text based on pos-tagged-templates and associated lexicon; includes tools for parsing text and generating templates and lexicon
 
 ##### [¶](#language-generate-template-python){.pilcrow} Python {#language-generate-template-python}
 
@@ -76,6 +78,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) -- general natural language facilities for node
 - [stanford-simple-nlp](https://www.npmjs.com/package/stanford-simple-nlp) -- a simple node.js wrapper for Stanford CoreNLP
 - [doeg/toke](https://github.com/doeg/toke) -- an experimental linguistics DSL for phrase grammar
+- [nemo/natural-synaptic](https://github.com/nemo/natural-synaptic) -- natural language classifier
 
 
 ##### [¶](#language-other-python){.pilcrow} Python {#language-other-python}
@@ -85,7 +88,7 @@ For libraries and frameworks for specific networks check out their corresponding
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
 - [hugovk/chroniclingamerica.py](https://github.com/hugovk/chroniclingamerica.py) -- a Python wrapper for the [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) API
 - [pteichman/quotefix](https://github.com/pteichman/quotefix) -- Insert matching punctuation for mismatched quotation marks, parentheses, etc. Good postprocessing for N-gram text synthesis.
-
+- [interrogator/corpkit](https://github.com/interrogator/corpkit) --  a Python-based toolkit for working with linguistic corpora
 
 
 

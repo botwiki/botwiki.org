@@ -9,7 +9,11 @@ Nav: hidden
 ![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/deep-sea-diver-768.jpg){.float-left}
 -->
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
+
 
 Browse [all IoT bots](/tag/iot) or by network:
 - [Twitter IoT bots](/tag/iot+twitterbot)

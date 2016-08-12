@@ -7,7 +7,9 @@ Nav: hidden
 
 ![Hard at work, no slacking off](/content/images/illustrations/marc-press.jpg){.float-right}
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Slack bot tutorials](/tutorials/slackbots).
 

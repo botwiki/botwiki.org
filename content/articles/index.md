@@ -33,11 +33,13 @@ Enjoy!
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 
 ***See also: [Bot ethics](/tutorials/#bot-ethics)***
+
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (*motherboard.vice.com*)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (*harrygiles.org*)
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz) (sailor mercury via *medium.com*)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (*stuartgeiger.com*, PDF)
 - [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (*decontextualize.com*, PDF)
+- [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (*samplereality.com*)
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
 
 
@@ -45,6 +47,12 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
+- [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
+- [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
+- [How I turned my resume into a bot](https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.m1841rzcl) ([Esther Crawford](https://twitter.com/EstherCrawford) via *medium.com*) 
+- [Conversational User Interfaces](https://medium.com/the-mission/the-future-of-cui-isn-t-conversational-fa3d9458c2b5#.g1oz0sm6o) ([Daniel Eckler](https://twitter.com/daniel_eckler) via *medium.com*)
+- [Bots and the Future of Education](https://medium.com/synapse/bots-and-the-future-of-education-bc7c0e4b0d34#.gc1a4mc67) ([W. Ian O'Byrne](https://twitter.com/wiobyrne) via *medium.com*)
 - [We don't know how to build conversational software yet](https://medium.com/lastmile-conversations/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b#.uypkm6dxc) ([@alanmnichol](*https://twitter.com/alanmnichol) via *medium.com*)
 - [Bots, explained: What is a bot, who’s making them, and why](http://recode.net/2016/04/11/what-are-bots/) (*recode.net*)
 - [Bots for Beginners (interview with Emma Winston](http://www.andfestival.org.uk/blog/bots-for-beginners-emma-winston/) (*andfestival.org.uk*)

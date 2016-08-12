@@ -7,9 +7,10 @@ Nav: hidden
 
 ![](/content/images/illustrations/KIK.jpg){.float-right}
 
-### This page is under construction.
 
-***This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)?***
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
 
 Bots for [kik](https://www.kik.com/), *"an instant messaging application for mobile devices"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Kik_Messenger).
 
