@@ -97,6 +97,7 @@ Enjoy!
 - [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots) (*newyorker.com*)
 - [Genre: Bot](http://iloveepoetry.com/?p=5427): reviews of various Twitter bots on [iloveepoetry.com](http://iloveepoetry.com/?p=5427)
 - [Beyond the GUI: It's Time for a Conversational User Interface](http://www.wired.com/2013/03/conversational-user-interface/) (*wired.com*)
+- [Amazon’s $23,698,655.93 book about flies](http://www.michaeleisen.org/blog/?p=358) (*michaeleisen.org*)
 
 #### [¶](#selected-articles-1996){.pilcrow} 1996 {#selected-articles-1996}
 
