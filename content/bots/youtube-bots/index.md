@@ -5,18 +5,18 @@ Show donation link: yes
 Nav: hidden
 */
 
+<div class="note">
+  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+</div>
+
+Bots for [YouTube](https://www.youtube.com/), *"a video-sharing website"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/YouTube).
+
 <p class="screenshot float-right">
   <a href="/bots/youtube-bots/treasurecolumn">
     <img src="/content/bots/youtube-bots/images/Treasure_Column.png">
   </a>
 </p>
 
-
-<div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
-</div>
-
-Bots for [YouTube](https://www.youtube.com/), *"a video-sharing website"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/YouTube).
 
 Some examples include:
 
