@@ -24,7 +24,9 @@
     {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
   <p><a href="/">Back to the main page.</a>
 {% elseif current_tags != ['all-tags'] %}
-  {% if current_tags == ['twitterbot'] %}
+  {% if current_tags == ['bot'] %}
+    {% include 'includes/all-bots.html' %}
+  {% elseif current_tags == ['twitterbot'] %}
     {% include 'includes/twitterbots.html' %}
   {% elseif current_tags == ['slackbot'] %}
     {% include 'includes/slackbots.html' %}
