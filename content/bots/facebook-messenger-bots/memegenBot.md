@@ -1,6 +1,6 @@
 /*
 Title: memegenBot
-Description: Create memes within Messenger
+Description: Create memes within Facebook Messenger.
 Thumbnail: /content/bots/facebook-messenger-bots/images/memegenBot.png
 Link: https://m.me/memegenBot
 Author: botsheeter.py

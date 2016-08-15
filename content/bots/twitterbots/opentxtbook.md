@@ -1,6 +1,6 @@
 /*
 Title: @opentxtbook
-Description: a creativeLEARNINGdifferent Idea
+Description: A personal learning assistan.
 Thumbnail: /content/bots/twitterbots/images/opentxtbook.png
 Link: https://www.twitter.com/opentxtbook
 Author: botsheeter.py
@@ -18,5 +18,6 @@ You can use this bot to lookup:
 - country profiles
 - profiles of famous people
 - book reviews
+- word definitions
 
-> To start, send via direct message-  open: txtbook
+> To start, send via direct message:  `open: txtbook`.
