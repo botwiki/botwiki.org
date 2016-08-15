@@ -23,7 +23,12 @@ class Pico_Random_Bot{
     if($this->show_random_bot){
 
       function is_bot_page($page){
-        var_dump($page["tags"]);
+        if (is_array($page["tags"])){
+          $page_tags = $page["tags"];
+        }
+        else{
+          $page_tags = explode(",", $page["tags"]);
+        }
         return(in_array("bot", $page["tags"]));
       }
 
