@@ -29,7 +29,7 @@ class Pico_Random_Bot{
         else{
           $page_tags = explode(",", $page["tags"]);
         }
-        return(in_array("bot", $page["tags"]));
+        return(in_array("bot", $page_tags));
       }
 
       $bot_pages = array_filter($pages, "is_bot_page");
