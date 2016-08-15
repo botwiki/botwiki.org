@@ -1,6 +1,6 @@
 /*
 Title: @opentxtbook
-Description: A personal learning assistan.
+Description: A personal learning assistant.
 Thumbnail: /content/bots/twitterbots/images/opentxtbook.png
 Link: https://www.twitter.com/opentxtbook
 Author: botsheeter.py
