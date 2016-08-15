@@ -29,21 +29,14 @@ class Pico_Random_Bot{
         else{
           $page_tags = explode(",", $page["tags"]);
         }
-        echo "<pre><code>";
-        var_dump(in_array("bot", $page["tags"]));
-        var_dump($page_tags);
-        echo "</code></pre>";
-
         return(in_array("bot", $page["tags"]));
       }
 
       $bot_pages = array_filter($pages, "is_bot_page");
       $random_bot = array_rand($bot_pages);
 
+      header('Location: ' . $bot_pages[array_keys($bot_pages)[rand(0, count($bot_pages))]]["url"]);
       var_dump($bot_pages);
-
-      // header('Location: ' . $bot_pages[array_keys($bot_pages)[rand(0, count($bot_pages))]]["url"]);
-      // var_dump($bot_pages);
       die();
     }
   }
