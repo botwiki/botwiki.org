@@ -10,14 +10,13 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@opentxtbook](https://www.twitter.com/opentxtbook) is a "Lifelong Learning Assistant" created by [Arnold Tonderai Marunda](https://twitter.com/arnoldfungai) that communicates via direct messages on Twitter.
+[@opentxtbook](https://www.twitter.com/opentxtbook) is a "Personal Learning Assistant" created by [Arnold™Fungai©](https://twitter.com/arnoldfungai) that interacts via direct messages on Twitter.
 
 You can use this bot to lookup:
 
-- Bible verses
-- country profiles
-- profiles of famous people
-- book reviews
-- word definitions
+- !compute 
+- !lookup
+- !rephrase
+- !summarise
 
-> To start, send via direct message:  `open: txtbook`.
+> To start, send via direct message:  `!start`.
