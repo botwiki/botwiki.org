@@ -1,6 +1,6 @@
 /*
 Title: @askthephoto
-Description: Request a photo, receive a photo, ask a question
+Description: Request a photo, receive a photo, ask a question.
 Thumbnail: /content/bots/twitterbots/images/askthephoto.png
 Link: https://twitter.com/askthephoto
 Author: botsheeter.py
