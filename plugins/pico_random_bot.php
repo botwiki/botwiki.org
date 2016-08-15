@@ -14,7 +14,9 @@ class Pico_Random_Bot{
   }
 
   public function request_url(&$url){
-      if($url == 'random-bot') $this->show_random_bot = true;
+      if ($url == 'random-bot' || $url == 'random-bot/' ){
+        $this->show_random_bot = true;
+      }
   }
 
   public function get_pages(&$pages, &$current_page, &$prev_page, &$next_page){
