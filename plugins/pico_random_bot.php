@@ -30,7 +30,7 @@ class Pico_Random_Bot{
       $random_bot = array_rand($bot_pages);
 
       // header('Location: ' . $bot_pages[array_keys($bot_pages)[rand(0, count($bot_pages))]]["url"]);
-      var_dump($bot_pages[array_keys($bot_pages)[rand(0, count($bot_pages))]]["url"]);
+      var_dump($bot_pages);
       die();
     }
   }
