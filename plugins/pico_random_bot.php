@@ -29,6 +29,7 @@ class Pico_Random_Bot{
         else{
           $page_tags = explode(",", $page["tags"]);
         }
+        var_dump($page_tags);
         return(in_array("bot", $page["tags"]));
       }
 
