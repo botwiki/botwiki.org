@@ -47,6 +47,9 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
+- [The Big, Fat Myth About Bots](http://www.forbes.com/sites/parmyolson/2016/08/17/the-big-fat-myth-about-bots/#17b01c0b7b98) (*forbes.com*)
+- [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
 - [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
 - [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
@@ -105,10 +108,11 @@ Enjoy!
 
 ### [¶](#videos){.pilcrow} Videos and slides from talks {#videos}
 
+- ["Are Twitter bots the future of experimental literature?"](https://www.youtube.com/watch?v=dyTP7RM2nu8) ([Sam Sutherland](https://twitter.com/samsthrlnd) via [This Exists](https://www.youtube.com/c/thisexists))
 - [Bot Summit 2016](/events/bot-summit-2016/#agenda)
-- [Helen Hester: Technically Female: Women, Machines, and Hyperemployment](https://www.youtube.com/watch?v=ZSBefHq7C_o)
-- Chris Messina's [panel on bots, AI & the future of conversational UI](https://www.facebook.com/chrismessina/videos/10154329568986874/) at [SXSW 2016](http://schedule.sxsw.com/2016/events/event_PP47130)
+- [Technically Female: Women, Machines, and Hyperemployment](https://www.youtube.com/watch?v=ZSBefHq7C_o) ([Helen Hester](https://twitter.com/helenhester))
+- [Chris Messina](https://twitter.com/chrismessina/)'s [panel on bots, AI & the future of conversational UI](https://www.facebook.com/chrismessina/videos/10154329568986874/) at [SXSW 2016](http://schedule.sxsw.com/2016/events/event_PP47130)
 - [Your Friendly Robot Companions](https://medium.com/why-not/your-friendly-robot-companions-b2d39e71dfcb#.liaqewb4p)
 - [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"
-- Video of a [session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
-- [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM), [George Buckenham](https://twitter.com/v21)
+- [A session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
+- [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM) ([George Buckenham](https://twitter.com/v21))
