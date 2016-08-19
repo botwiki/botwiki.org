@@ -20,6 +20,8 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 ### [¶](#slack-api){.pilcrow} Selected API documentation {#slack-api}
 
+- [Slack Developers](https://slack.com/developers)
+- [Official Slack documentation](https://api.slack.com/bot-users)
 - [Attachments](https://api.slack.com/docs/attachments) -- create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders) -- create and manage reminders for users
 
@@ -27,16 +29,25 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
-- [Slack Developers](https://slack.com/developers)
-- [Official Slack documentation](https://api.slack.com/bot-users)
+#### [¶](#beginner-nodejs){.pilcrow} node.js {#beginner-nodejs}
+
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [Easy-Peasy Bots: Getting Started](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf#.eahf06bu9) (with node.js and [Botkit](http://howdy.ai/botkit/))
 - [How to Build A Slackbot (with node.js) + Deploy an App to Heroku for Absolute Beginners](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 - [Building an Intelligent Bot Using the Slack API](http://nordicapis.com/building-an-intelligent-bot-using-the-slack-api/) -- a great tutorial that uses node.js and [Wit.ai API](https://wit.ai/)
-- [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A) -- a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
 - [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
 - [How to write a Slackbot in 40 lines of code](https://medium.com/@mager/how-to-write-a-slackbot-in-40-lines-of-code-52cf0c4fcf42#.84n9mqfro) -- with node.js and the [Genius API](https://docs.genius.com/)
-- [Running Slack Bots on DigitalOcean with Dokku](http://code.dblock.org/2016/02/08/running-slack-bots-on-digital-ocean-with-dokku.html)
+
+
+#### [¶](#beginner-python){.pilcrow} Python {#beginner-python}
+
+- [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A) -- a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
+- [Slack bot with a Django backend — 101 tutorial](https://chatbotsmagazine.com/slack-bot-with-a-django-backend-101-tutorial-c1aa8ea3f15e#.zbwwivtun)
+
+#### [¶](#beginner-ruby){.pilcrow} Ruby {#beginner-ruby}
+
+- [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
+
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
@@ -44,7 +55,6 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10#.p31ox7ml1) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
 - [Slack + SuperScript — Rise of the Bots](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c)
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)
-- [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 - [Building Slack bots with Botkit and Visual Studio Code](https://medium.com/@csinco/botkit-visual-studio-code-3252800048ba#.qurpmnoni)
 - [Serverless Slackbots Powered by AWS](http://eng.localytics.com/serverless-slackbots-powered-by-aws/)
 - [Using Botkit and Aylien’s Text API to Make a Slack Bot](https://medium.com/@samhavens/building-somerset-d518ba284c49#.hvunark93)
@@ -54,6 +64,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6#.5b0vc2x46)
 - [3 Things We Learned Building a Chatbot for Slack](https://medium.com/@kipsearch/3-things-we-learned-building-a-chatbot-for-slack-2dc32321d77c#.jlekubjvh) -- via [@kipsearch](https://twitter.com/kipsearch)
 - [How We Use Bots in Slack at SparkPost](https://www.sparkpost.com/blog/using-slack-bots-sparkpost/#.VtithJMrLUo)
+- [Running Slack Bots on DigitalOcean with Dokku](http://code.dblock.org/2016/02/08/running-slack-bots-on-digital-ocean-with-dokku.html)
 
 ### [¶](#non-english-tutorials){.pilcrow} Non-English tutorials {#non-english-tutorials}
 

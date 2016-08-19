@@ -47,9 +47,12 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+
+- [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
 - [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
 - [The Big, Fat Myth About Bots](http://www.forbes.com/sites/parmyolson/2016/08/17/the-big-fat-myth-about-bots/#17b01c0b7b98) (*forbes.com*)
 - [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
+- [President Obama now has a Facebook Messenger bot](http://venturebeat.com/2016/08/10/president-obama-now-has-a-facebook-messenger-bot/) (*venturebeat.com*)
 - [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
 - [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
