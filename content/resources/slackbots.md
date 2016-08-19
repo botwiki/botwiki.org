@@ -23,6 +23,7 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client) -- official Slack client for node.js
 - [slackhq/hubot-slack](https://github.com/slackhq/hubot-slack) -- a [Hubot](https://hubot.github.com/) adapter to use with Slack
 - [mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api) -- "node.js library for easy operation with Slack API"
+- [llimllib/limbo](https://github.com/llimllib/limbo) -- "a simple, clean, easy to modify Slack chatbot"
 
 #### [¶](#libraries-frameworks-python){.pilcrow} Python {#libraries-frameworks-python}
 
