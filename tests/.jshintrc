@@ -17,7 +17,7 @@
     "dojo"          : false,
  
     "predef"        : [  // Custom globals.
-        "io"
+        "hljs"
     ],
  
     // Development.
