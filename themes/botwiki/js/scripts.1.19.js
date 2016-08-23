@@ -72,6 +72,32 @@ function ready(fn) {
 }
 
 ready(function(){
+  function getElementByIdFromNode(id, rootNode) {
+  /* Based on http://stackoverflow.com/questions/3902671/getelementbyid-doesnt-work-on-a-node */
+    var nodes = [];
+    nodes.push(rootNode);
+    while ( nodes && nodes.length > 0 ) {
+      var children = [];
+      for ( var i = 0; i<nodes.length; i++ ) {
+        var node = nodes[i];
+        if ( node && node['id'] !== undefined ) {
+          if ( node.id == id ) {
+            return node;
+          }
+        }
+
+        var childNodes = node.childNodes;
+        if ( childNodes && childNodes.length > 0 ) {
+          for ( var j = 0 ; j < childNodes.length; j++ ) {
+            children.push( childNodes[j] );
+          }
+        }
+      }
+      nodes = children;
+    }
+    return null;
+  }
+
   try{
     hljs.initHighlightingOnLoad();      
   }
@@ -79,7 +105,6 @@ ready(function(){
 
   if(window.location.hash) {
     smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
-    return false;
   }
 
   var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
@@ -99,35 +124,54 @@ ready(function(){
   }
 
   var lazyLoadedImages = document.getElementsByClassName('search-text-after-image');
-  if (lazyLoadedImages.lenght){
+  if (lazyLoadedImages.length){
     lazyLoadedImages.
       classList.remove('search-text-after-image').
       classList.add('search-text');
   }
+
+/*
+TODO: Work in progress: AJAXifying the site.
+  window.addEventListener('click', function(ev){
+    if (ev.target.tagName.toLowerCase() === 'a' && (ev.target.href.indexOf('#') === -1 && (ev.target.href.indexOf('botwiki.org') > -1 || ev.target.href.indexOf('http://localhost') > -1 ))){
+      ev.preventDefault();
+      var request = new XMLHttpRequest();
+      request.open('GET', ev.target.href, true);
+
+      request.onload = function() {
+
+        if (request.status >= 200 && request.status < 400) {
+          var el = document.createElement('div');
+          el.innerHTML = request.responseText;
+          // var elMain = el.getElementById('main');
+          var elMain = getElementByIdFromNode('main', el);
+          document.getElementById('main').innerHTML = elMain.getElementsByTagName('article')[0].innerHTML;
+        } else {
+          // TODO: Error handling.
+          return false;
+        }
+      };
+
+      request.onerror = function() {
+          // TODO: Error handling.
+          console.log(":-(");
+      };
+
+      request.send();
+      return false;
+    }
+  });
+*/
+
 });
 
-// TODO: Show back to top after user scrolls down a bit.
-//
-// window.onscroll = function() {
-//   if (window.innerWidth > 910){
-//     checkBreadcrumbsPosition();
-//   }
-// };
 
-/*!
- * Lazy Load Images without jQuery
- * http://kaizau.github.com/Lazy-Load-Images-without-jQuery/
- *
- * Original by Mike Pulaski - http://www.mikepulaski.com
- * Modified by Kai Zau - http://kaizau.com
- */
-/*!
- * Lazy Load Images without jQuery
- * http://kaizau.github.com/Lazy-Load-Images-without-jQuery/
- *
- * Original by Mike Pulaski - http://www.mikepulaski.com
- * Modified by Kai Zau - http://kaizau.com
- */
+/*
+  Lazy Load Images without jQuery
+  http://kaizau.github.com/Lazy-Load-Images-without-jQuery/
+  Original by Mike Pulaski - http://www.mikepulaski.com
+  Modified by Kai Zau - http://kaizau.com
+*/
 (function() {
   var addEventListener =  window.addEventListener || function(n,f) { window.attachEvent('on'+n, f); },
       removeEventListener = window.removeEventListener || function(n,f,b) { window.detachEvent('on'+n, f); };
@@ -216,7 +260,7 @@ ready(function(){
           styleTag.styleSheet.cssText = selector + "{x:expression(document.__qsaels.push(this))}";
           window.scrollBy(0, 0);
           return doc.__qsaels;
-        }
+        };
       }
 
       addEventListener('load', function _lazyLoaderInit() {
@@ -237,7 +281,7 @@ ready(function(){
         removeEventListener('load', _lazyLoaderInit, false);
       });
     }
-  }
+  };
 
   // For IE7 compatibility
   // Adapted from http://www.quirksmode.org/js/findpos.html
