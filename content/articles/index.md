@@ -25,6 +25,7 @@ Enjoy!
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
 - [The New York Review of Bots](http://nybots.tumblr.com/)
+- [Posts tagged #ai on oreilly.com](https://www.oreilly.com/topics/ai) (see also [O'Reilly Bots Podcast](https://itunes.apple.com/us/podcast/what-are-bots-heres-background./id1145426486?i=1000374278363))
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
