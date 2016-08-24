@@ -36,7 +36,7 @@
     {% include 'includes/game-bots.html' %}
   {% elseif current_tags == ['monthlybotchallenge'] %}
     {% include 'includes/monthly-bot-challenge.html' %}
-  {% elseif current_tags == ['cheapbotsdonequick'] %}
+  {% elseif 'cheapbotsdonequick' in current_tags %}
     {% include 'includes/cheapbotsdonequick.html' %}
   {% elseif current_tags == ['gif'] %}
     <p>You can also explore the <a href="/tag/images">#images</a> tag.</p>
