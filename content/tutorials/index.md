@@ -68,6 +68,8 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
 
 ### [¶](#chat){.pilcrow} Chat/conversational interfaces {#chat}
+
+- [Bots better smarten up ... fast](http://venturebeat.com/2016/08/20/bots-better-smarten-up-fast/)
 - [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/)
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details)
 - [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF)
