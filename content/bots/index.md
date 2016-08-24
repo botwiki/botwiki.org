@@ -89,6 +89,8 @@ Thanks for checking out **Botwiki**!
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
 
+Or check out a [random bot](/random-bot)!
+
 <center><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></center>
 
 
