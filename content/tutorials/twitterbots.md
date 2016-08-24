@@ -90,8 +90,11 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 
 ### [¶](#twitter-api){.pilcrow} Twitter API {#twitter-api}
 
+- [API support for 140 second video](https://twittercommunity.com/t/api-support-for-140-second-video/69153)
 - [Alt text support for Twitter Cards and the REST API](https://blog.twitter.com/2016/alt-text-support-for-twitter-cards-and-the-rest-api)
 - [Twitter's missing manual](https://eev.ee/blog/2016/02/20/twitters-missing-manual/)
+
+See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitter API.
 
 ### [¶](#unsorted-notes){.pilcrow} Unsorted and notes {#unsorted-notes}
 

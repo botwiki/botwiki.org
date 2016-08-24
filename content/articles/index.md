@@ -47,12 +47,13 @@ Enjoy!
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
-
+- [Bots Landscape (pdf)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes) (August 11, 2016)
 - [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
 - [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
 - [The Big, Fat Myth About Bots](http://www.forbes.com/sites/parmyolson/2016/08/17/the-big-fat-myth-about-bots/#17b01c0b7b98) (*forbes.com*)
 - [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
 - [President Obama now has a Facebook Messenger bot](http://venturebeat.com/2016/08/10/president-obama-now-has-a-facebook-messenger-bot/) (*venturebeat.com*)
+- [Robert "Botfather" Hoffer will explain the amazing success, and failure, of SmarterChild bot](http://venturebeat.com/2016/07/11/robert-botfather-hoffer-will-explain-the-amazing-success-and-failure-of-smarterchild-bot-at-mobilebeat/)
 - [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
 - [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
@@ -89,6 +90,7 @@ Enjoy!
 - [Is Twitter the Next Gaming Platform?](http://iq.intel.com/is-twitter-the-next-playground-for-gamers/) (*iq.intel.com*)
 - [Bot or Not](http://www.nybooks.com/blogs/nyrblog/2015/mar/11/twitter-bot-or-not/): *Because the Twitterverse is made of text, rather than rocks and trees and bones and blood, it’s suddenly quite easy to make bots. Now there are millions, by Twitter’s own estimates—most of them short-lived and invisible nuisances.* (*nybooks.com*)
 - [A Brief History Of The Future Of Twitter Bots (pdf)](http://www.gamesbyangelina.org/talks/codecamp.pdf), by [Michael Cook](https://twitter.com/mtrc) [[mirror]](/content/articles/download/michael_cook--a_brief_history_of_the_future_of_twitter_bots.pdf)
+
 
 #### [¶](#selected-articles-2014){.pilcrow} 2014 {#selected-articles-2014}
 
