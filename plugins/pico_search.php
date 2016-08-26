@@ -39,11 +39,17 @@ class Pico_Search
             $q = strtoupper(trim($_GET["q"]));
             while (strstr($q, "  ")) $q = str_replace("  ", " ", $q);
 
-            if (strpos($q, " AND ")){
+
+            if (strpos($q, "TAGS:") !== false){
+              // $search_type = "TAGS";
+              $search_tags = explode(" ", trim(str_replace("TAGS:", "", $q)));
+              header('Location: '  . '/tag/' . strtolower(implode('+', $search_tags)));
+            }
+            elseif (strpos($q, " AND ") !== false){
               $qs = explode(" AND ", $q);
               $search_type = "AND";
             }
-            else{            
+            else{    
               $search_type = "OR";
               $qs = explode(" ", $q);
             }
@@ -100,7 +106,7 @@ class Pico_Search
                     foreach ($words as $word) {
                       if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
                         $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
-                        // TODO:
+                        // TODO: Search snippet.
                         //
                         // if (strpos($content_stripped, $q) > -1 ){
                         //   $this->pages[$k]["search_snippet"] = substr($content_stripped, strpos($content_stripped, $q), 100);
