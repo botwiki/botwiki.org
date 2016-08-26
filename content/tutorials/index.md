@@ -112,6 +112,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/)
 - [Bots Need to Learn Some Manners, and It’s on Us to Teach Them](http://www.wired.com/2016/04/bots-emergent-behavior-deception/)
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- applies to *all* bots
+- [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/)
 
 ***See also:** [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)*
 
