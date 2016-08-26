@@ -55,6 +55,7 @@ And once you have one account verified, you can also host all your bots under th
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
 - [How to Code a Simple Twitter Bot for Complete Beginners](https://medium.com/@sarahnadia/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d)
 - [Python + BeautifulSoup + Twitter + Raspberry Pi](http://emerging.commons.gc.cuny.edu/2013/06/python-beautifulsoup-twitter-raspberry-pi/) *(note: this tutorial is from 2013)*
+- [How to Make a Twitter Bot in Under an Hour](https://medium.com/science-friday-footnotes/how-to-make-a-twitter-bot-in-under-an-hour-259597558acf#.tpd5ffg7s)
 
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 

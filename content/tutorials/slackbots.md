@@ -37,6 +37,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [Building an Intelligent Bot Using the Slack API](http://nordicapis.com/building-an-intelligent-bot-using-the-slack-api/) -- a great tutorial that uses node.js and [Wit.ai API](https://wit.ai/)
 - [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
 - [How to write a Slackbot in 40 lines of code](https://medium.com/@mager/how-to-write-a-slackbot-in-40-lines-of-code-52cf0c4fcf42#.84n9mqfro) -- with node.js and the [Genius API](https://docs.genius.com/)
+- [Create a Slack Bot That Privately Greets New Users in 5 Easy Steps](https://medium.com/@izzydoesizzy/create-a-slack-bot-that-privately-greets-new-users-in-5-easy-steps-a38eabeabcb5#.492jqk839)
 
 
 #### [¶](#beginner-python){.pilcrow} Python {#beginner-python}
