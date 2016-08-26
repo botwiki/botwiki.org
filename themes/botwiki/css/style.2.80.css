@@ -657,7 +657,7 @@ aside#sidebar hr {
   }
 }
 div#main {
-  padding: 0;
+  padding: 10px 0 0;
 }
 @media (min-width: 1000px) {
   div#main {
@@ -962,7 +962,6 @@ img.logo-digitalocean {
     opacity: 1;
   }
 }
-/* Extra Small Devices, Phones */
 @media (max-width: 480px) {
   #header h1 a {
     font-size: 1em;
@@ -988,4 +987,11 @@ div.back-to-top:hover {
 div.back-to-top,
 div.back-to-top:hover {
   transition: opacity 0.2s linear;
+}
+a#search-help {
+  position: absolute;
+  margin-left: 2px;
+}
+a#search-help:hover {
+  border: none !important;
 }

@@ -41,7 +41,7 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Source+Serif+Pro|Bree+Serif|Lato' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.79.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/style.2.80.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -60,7 +60,7 @@
         <ul id="menu">
           <li class="form-wrapper">
             <form id="search-form" action="/search">
-              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}">
+              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><a id="search-help" href="#">?</a>
             </form>
           </li>
           {{ nav_sort.sorted_nav }}
@@ -169,7 +169,7 @@
   </footer>
   {% include 'includes/statcounter.html' ignore missing %}
   <div class="back-to-top"><a href="#header"><img src="/content/images/arrow-up.svg"></a></div>
-  <script src="{{ theme_url }}/js/scripts.1.19.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.1.20.min.js"></script>
   {% if meta.has_code == 'yes' %}
   <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
   {% endif %}
