@@ -101,6 +101,10 @@ For libraries and frameworks for specific networks check out their corresponding
 - [aleju/cat-generator](https://github.com/aleju/cat-generator) -- generate cat images with neural networks
 - [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code) -- generate any image
 
+#### [¶](#images-python){.pilcrow} Python {#images-python}
+
+- [paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image) -- text to image synthesis using thought vectors
+
 #### [¶](#images-lua){.pilcrow} Lua {#images-lua}
 
 - [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask) -- Torch implementation of [DeepMask and SharpMask](https://code.facebook.com/posts/561187904071636)
