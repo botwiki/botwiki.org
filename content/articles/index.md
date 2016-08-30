@@ -49,6 +49,7 @@ Enjoy!
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 
+- [The Return of the Chatbots: Experiment, Engage, and Be Genuine](http://www.huffingtonpost.com/advertising-week/the-return-of-the-chatbot_b_11679482.html) (huffingtonpost.com)
 - [The Concept of 'Cat Face'](http://www.lrb.co.uk/v38/n16/paul-taylor/the-concept-of-cat-face)
 - [Bots Landscape (pdf)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes) (August 11, 2016)
 - [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
