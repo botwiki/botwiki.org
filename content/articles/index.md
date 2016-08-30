@@ -58,6 +58,7 @@ Enjoy!
 - [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
 - [President Obama now has a Facebook Messenger bot](http://venturebeat.com/2016/08/10/president-obama-now-has-a-facebook-messenger-bot/) (*venturebeat.com*)
 - [Robert "Botfather" Hoffer will explain the amazing success, and failure, of SmarterChild bot](http://venturebeat.com/2016/07/11/robert-botfather-hoffer-will-explain-the-amazing-success-and-failure-of-smarterchild-bot-at-mobilebeat/)
+- [As Bots Rise Up, Some Level the Playing Field](http://fortune.com/2016/05/21/bots-rise-up/) (fortune.com)
 - [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
 - [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
