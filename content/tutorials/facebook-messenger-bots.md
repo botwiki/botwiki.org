@@ -20,5 +20,6 @@ Nav: hidden
 - Developing a Facebook Messenger Bot with Ruby on Rails: [Part 1](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-1-7d8039b62f0#.79yf07vdc) and [Part 2](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-2-6ccc51430bfe#.yv08aajvk)
 - [How To Connect a Bot to Facebook Messenger](http://www.botlibre.com/forum-post?id=12742773) (with [BOT libre!](http://www.botlibre.com/)) 
 - [How to deploy a Facebook bot](https://medium.com/@igougi.ui/how-to-deploy-a-facebook-bot-2b8c4f4e7eae#.n07omhsca) -- with node.js
+- [Cheat Sheet: Chatbot Command Types for Facebook Messenger](https://www.chatbot-academy.com/chatbot-command-types-facebook-messenger/)
 
 See also [resources](/resources/facebook-messenger-bots) for making Facebook Messenger bots.

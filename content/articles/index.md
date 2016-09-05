@@ -26,6 +26,12 @@ Enjoy!
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
 - [The New York Review of Bots](http://nybots.tumblr.com/)
 - [Posts tagged #ai on oreilly.com](https://www.oreilly.com/topics/ai) (see also [O'Reilly Bots Podcast](https://itunes.apple.com/us/podcast/what-are-bots-heres-background./id1145426486?i=1000374278363))
+- [Posts tagged #bots on venturebeat.com](http://venturebeat.com/tag/bots/)
+
+See also
+
+- [r/botsrights](https://www.reddit.com/r/botsrights)
+- [BotFunded/](https://botfunded.com/)
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
@@ -42,24 +48,33 @@ Enjoy!
 - [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (*decontextualize.com*, PDF)
 - [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (*samplereality.com*)
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
+- [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
-
+- [How Driverless Cars May Interact With People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html) (nytimes.com)
+- [This AI Sees Things in Art That Humans Don't](http://motherboard.vice.com/read/this-ai-sees-things-in-art-that-humans-dont) (motherboard.vice.com)
+- [Growing up in Generation AI](https://techcrunch.com/2016/09/03/growing-up-in-generation-ai/) (techcrunch.com)
+- [Toward Automated Discovery of Artistic Influence](http://arxiv.org/abs/1408.3218)
+- [One Hundred Year Study on Artificial Intelligence](https://ai100.stanford.edu/2016-report) (stanford.edu)
+- [Four Months Into 'Chatbot Revolution,' Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo?utm_term=.qdPWaaZvl#.ospGWWOVd) (buzzfeed.com)
+- [Why Facebook Messenger doesn’t have a bot store](http://venturebeat.com/2016/09/01/why-facebook-messenger-doesnt-have-a-bot-store/) (venturebeat.com)
 - [The Return of the Chatbots: Experiment, Engage, and Be Genuine](http://www.huffingtonpost.com/advertising-week/the-return-of-the-chatbot_b_11679482.html) (huffingtonpost.com)
 - [The Concept of 'Cat Face'](http://www.lrb.co.uk/v38/n16/paul-taylor/the-concept-of-cat-face)
-- [Bots Landscape (pdf)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes) (August 11, 2016)
+- [Bots Landscape (August 2016, PDF)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes)
 - [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
 - [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
 - [The Big, Fat Myth About Bots](http://www.forbes.com/sites/parmyolson/2016/08/17/the-big-fat-myth-about-bots/#17b01c0b7b98) (*forbes.com*)
 - [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
 - [President Obama now has a Facebook Messenger bot](http://venturebeat.com/2016/08/10/president-obama-now-has-a-facebook-messenger-bot/) (*venturebeat.com*)
+- [People are already having a difficult time using Facebook's new chat bots](http://www.techinsider.io/facebook-messenger-chat-bots-disappoint-quickly-2016-4)
 - [Robert "Botfather" Hoffer will explain the amazing success, and failure, of SmarterChild bot](http://venturebeat.com/2016/07/11/robert-botfather-hoffer-will-explain-the-amazing-success-and-failure-of-smarterchild-bot-at-mobilebeat/)
 - [As Bots Rise Up, Some Level the Playing Field](http://fortune.com/2016/05/21/bots-rise-up/) (fortune.com)
 - [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
+- [The Future of Conversational UI Belongs to Hybrid Interfaces](https://medium.com/the-layer/the-future-of-conversational-ui-belongs-to-hybrid-interfaces-8a228de0bdb5#.gqwehkycs) ([Tomaz Stolfa](https://twitter.com/tomazstolfa) via medium.com)
 - [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
 - [How I turned my resume into a bot](https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.m1841rzcl) ([Esther Crawford](https://twitter.com/EstherCrawford) via *medium.com*) 

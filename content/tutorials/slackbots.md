@@ -38,7 +38,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
 - [How to write a Slackbot in 40 lines of code](https://medium.com/@mager/how-to-write-a-slackbot-in-40-lines-of-code-52cf0c4fcf42#.84n9mqfro) -- with node.js and the [Genius API](https://docs.genius.com/)
 - [Create a Slack Bot That Privately Greets New Users in 5 Easy Steps](https://medium.com/@izzydoesizzy/create-a-slack-bot-that-privately-greets-new-users-in-5-easy-steps-a38eabeabcb5#.492jqk839)
-
+- [Creating “ZoneBot” using the Microsoft Bot Framework and LUIS](https://medium.com/@ThisisZone/creating-zonebot-using-the-microsoft-bot-framework-and-luis-f88e7f34ba70#.jm2mr4fkl) and [Adding a conversational UI to “Zonebot” with the Microsoft bot framework](https://medium.com/@ThisisZone/adding-a-conversational-ui-to-zonebot-with-the-microsoft-bot-framework-ed82e5df9d69#.vg535ydfd)
 
 #### [¶](#beginner-python){.pilcrow} Python {#beginner-python}
 

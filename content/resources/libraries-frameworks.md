@@ -83,6 +83,7 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ##### [¶](#language-other-python){.pilcrow} Python {#language-other-python}
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) -- an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count
@@ -137,6 +138,9 @@ For libraries and frameworks for specific networks check out their corresponding
 #### [¶](#other-nodejs){.pilcrow} node.js {#other-nodejs}
 
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
+- [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games) -- Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
+- [baidu/Paddle](https://github.com/baidu/Paddle) -- PArallel Distributed Deep LEarning ([paddlepaddle.org](http://www.paddlepaddle.org/))
+
 
 #### [¶](#other-python){.pilcrow} Python {#other-python}
 

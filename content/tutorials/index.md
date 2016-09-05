@@ -61,6 +61,7 @@ Common ways to manage multiple bots on the same network are:
 
 For more general tutorials on hosting bots, see articles below. (Some [network specific tutorials](#network-specific-tutorials) include a step explaining how to host your bot.)
 
+- [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
 - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
 
 ### [¶](#web-apis){.pilcrow} Learn to work with web APIs {#web-apis}
@@ -80,7 +81,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 
 ***See also:** [github.com/mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
 
-### [¶](#machine-learning-nlp){.pilcrow} Machine learning, NLP {#machine-learning-nlp}
+### [¶](#machine-learning-nlp-ai){.pilcrow} Machine learning, NLP, AI {#machine-learning-nlp-ai}
 - [Deep Learning](http://www.deeplearningbook.org/): resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 - [Free AI Course Materials](http://popsnip.com/topic/982/)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
@@ -91,6 +92,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 - [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
+- [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 
 ### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
 
@@ -113,10 +115,14 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Bots Need to Learn Some Manners, and It’s on Us to Teach Them](http://www.wired.com/2016/04/bots-emergent-behavior-deception/)
 - [Basic Twitter bot etiquette](basic-twitter-bot-etiquette-tiny-subversions) -- applies to *all* bots
 - [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/)
+- [Artificial Intelligence Will Be as Biased and Prejudiced as Its Human Creators](https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.u067yviv3)
+- [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0)
 
 ***See also:** [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)*
 
 ### [¶](#other){.pilcrow} Other {#other}
+- [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2#.m5nkwagsh)
+- [How to interact with bots? Dealing with the complexity of a new design paradigm](https://chatbotsmagazine.com/how-to-interact-with-bots-dealing-with-the-complexity-of-a-new-design-paradigm-e89fd7131921#.56c4ywczd)
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)
 - [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
