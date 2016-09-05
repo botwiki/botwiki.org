@@ -657,7 +657,7 @@ aside#sidebar hr {
   }
 }
 div#main {
-  padding: 10px 0 0;
+  padding: 0;
 }
 @media (min-width: 1000px) {
   div#main {
