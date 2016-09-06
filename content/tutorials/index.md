@@ -117,6 +117,7 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/)
 - [Artificial Intelligence Will Be as Biased and Prejudiced as Its Human Creators](https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.u067yviv3)
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0)
+- [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](http://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners)
 
 ***See also:** [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)*
 
