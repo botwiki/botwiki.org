@@ -52,6 +52,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
+- [Building a Pokebot](https://blog.recast.ai/nodejs-bot-tutorial-1/): A NodeJS chatbot tutorial by [Recast.AI](https://recast.ai/) ([Part 2](https://blog.recast.ai/nodejs-bot-tutorial/), [Part 3](https://blog.recast.ai/nodejs-bot-tutorial-3/))
 - [Make a Self-Training, NLP-Driven Slack Bot](http://blog.templeton.host/self-training-nlp-enabled-slack-bot-tutorial/) -- "NLP + [Botkit](http://howdy.ai/botkit/) = Magic"
 - [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10#.p31ox7ml1) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
 - [Slack + SuperScript — Rise of the Bots](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c)
