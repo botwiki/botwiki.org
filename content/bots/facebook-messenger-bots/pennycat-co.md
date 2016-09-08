@@ -1,10 +1,11 @@
 /*
 Title: pennycat.co
 Description: Find a discount coupons with PennyCat
+Thumbnail: /content/bots/facebook-messenger-bots/images/pennycat-co.png
 Link: https://pennycat.co
 Author: botsheeter.py
 Date: June 05, 2016
-Tags: bot,active,interactive,messengerbot chatbot coupon deals,levkangin
+Tags: bot,facebook,messenger,messengerbot,active,interactive,chatbot,coupon,deals,levkangin
 Nav: hidden
 Robots: index,follow
 */

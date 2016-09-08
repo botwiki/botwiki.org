@@ -4,7 +4,7 @@ Description: "The easiest way to chat yourself into your next job!"
 Link:  http://m.me/jobpal
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,job,jobsearch,jobhunting,facebook,chatbot,hiring,human-resources,hr,recruiting,facebook-bot,jobpal,bots,lucdudler
+Tags: bot,active,interactive,facebook,messenger,messengerbot,job,jobsearch,jobhunting,chatbot,hiring,human-resources,hr,recruiting,jobpal,bots,lucdudler
 Nav: hidden
 Robots: index,follow
 */

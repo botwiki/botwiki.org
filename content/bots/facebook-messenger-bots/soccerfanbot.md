@@ -4,7 +4,7 @@ Description: SoccerFanbot, teams, and players.
 Link: http://m.me/soccerfanbot
 Author: botsheeter.py
 Date: June 11, 2016
-Tags: bot,active,interactive,bots,messenger,soccer,euro2016,football,wags,players,fun,momoh_rr
+Tags: bot,facebook,messenger,messengerbot,active,interactive,soccer,euro2016,football,wags,players,fun,momoh_rr
 Nav: hidden
 Robots: index,follow
 */

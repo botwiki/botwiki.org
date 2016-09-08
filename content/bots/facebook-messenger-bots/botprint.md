@@ -4,7 +4,7 @@ Description: Bot Print: Pickup from Walgreens
 Link: https://www.facebook.com/botprint
 Author: botsheeter.py
 Date: June 05, 2016
-Tags: bot,active,interactive,photos,walgreens,facebook,messenger,prints,america,poriruaapps
+Tags: bot,active,interactive,facebook,messenger,messengerbot,photos,walgreens,prints,america,poriruaapps
 Nav: hidden
 Robots: index,follow
 */

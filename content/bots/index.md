@@ -82,6 +82,7 @@ Thanks for checking out **Botwiki**!
 - [Twitter bots](/bots/twitterbots/)
 - [Slack bots](/bots/slackbots/)
 - [Tumblr bots](/bots/tumblr-bots/)
+- [Facebook bots](/bots/facebook-messenger-bots/)
 - [YouTube bots](/bots/youtube-bots/)
 - [Reddit bots](/bots/redditbots/)
 - [Telegram bots](/bots/telegram-bots/)

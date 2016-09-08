@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/mealoubot.png
 Link: http://m.me/mealoubot
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,restaurant,recommendation,eat,recommend,mealou,tastes,desires,restau,food,meal,lunch,dinner,localisation,geolocation,nlp,wit.ai,natural language processing,doriancamilleri
+Tags: bot,active,interactive,facebook,messenger,messengerbot,restaurant,recommendation,eat,recommend,mealou,tastes,desires,restau,food,meal,lunch,dinner,localisation,geolocation,nlp,wit.ai,natural language processing,doriancamilleri
 Nav: hidden
 Robots: index,follow
 */

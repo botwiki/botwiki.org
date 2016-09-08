@@ -4,7 +4,7 @@ Description: I'm CalcBot, I can do all sorts of calculations.
 Link: http://m.me/CalcBot
 Author: botsheeter.py
 Date: June 05, 2016
-Tags: bot,active,interactive,facebook,messenger,calcbot,calculations,conversions,tips,math,www.gifhip.com
+Tags: bot,active,interactive,facebook,messenger,messengerbot,calcbot,calculations,conversions,tips,math,gifhip.com
 Nav: hidden
 Robots: index,follow
 */

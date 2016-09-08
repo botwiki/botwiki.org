@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/hipstercatbot.png
 Link: https://hipstercatbot.com
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,hipster,cat,venues,foursquare,yelp,tripadvisor,funny,open source,opensource,java,electrobabe
+Tags: bot,active,interactive,facebook,messenger,messengerbot,hipster,cat,venues,foursquare,yelp,tripadvisor,funny,electrobabe
 Nav: hidden
 Robots: index,follow
 */

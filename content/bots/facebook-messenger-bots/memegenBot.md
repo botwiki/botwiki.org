@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/memegenBot.png
 Link: https://m.me/memegenBot
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,memes,tools,entertainment,utility,3x14159265
+Tags: bot,active,interactive,facebook,messenger,messengerbot,memes,tools,entertainment,utility,3x14159265
 Nav: hidden
 Robots: index,follow
 */

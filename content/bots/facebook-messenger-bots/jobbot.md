@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/jobbot.png
 Link: http://www.jobbot.me
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,jobs,hr,career,job search,headhunter,andre_z
+Tags: bot,facebook,messenger,messengerbot,active,interactive,jobs,hr,career,job search,headhunter,andre_z
 Nav: hidden
 Robots: index,follow
 */

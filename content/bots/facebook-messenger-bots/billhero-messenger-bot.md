@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/billhero-messenger-bot.p
 Link: https://www.producthunt.com/tech/billhero-messenger-bot
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: bot,active,interactive,messaging,bills,facebook,fintech,billhero
+Tags: bot,active,interactive,messaging,bills,facebook,messenger,messengerbot,fintech,billhero
 Nav: hidden
 Robots: index,follow
 */
