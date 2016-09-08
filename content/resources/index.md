@@ -34,3 +34,4 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp) -- A curated list of resources dedicated to Natural Language Processing
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) -- a list of popular GitHub projects related to deep learning
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) -- curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
+- [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) -- curated list of resources dedicated to recurrent neural networks
