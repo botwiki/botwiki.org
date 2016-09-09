@@ -213,8 +213,17 @@ h6 {
   font-family: 'Fjalla One', serif;
   color: #38313a;
   line-height: 1.2em;
-  margin: 0.6em 0;
-  padding: 1rem 1rem 0;
+  margin: 0.5rem;
+}
+@media (min-width: 1000px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 1em 3rem;
+  }
 }
 a.pilcrow,
 a.pilcrow:visited {
@@ -239,7 +248,11 @@ h1 {
 }
 h2 {
   font-size: 2.5em;
-  margin: 0.5em 0;
+}
+@media (min-width: 1000px) {
+  h2 {
+    margin: 3rem;
+  }
 }
 h3 {
   font-size: 2em;
@@ -251,11 +264,12 @@ h4 {
 ol,
 ul {
   padding-left: 35px;
-  margin: 0.2em 0;
+  margin: 1rem;
 }
 @media (min-width: 1000px) {
   ol,
   ul {
+    margin: 0.2em 3rem;
     padding-left: 50px;
   }
 }
@@ -602,7 +616,7 @@ div#content-wrapper {
     position: absolute;
     border-left: 1px solid #efefef;
     background-color: #fcfcfc;
-    padding: 1em 10px 10px;
+    padding: 3rem 10px 10px;
     right: 0;
     top: 0;
     bottom: 0;
@@ -666,7 +680,12 @@ div#main {
 }
 div#main p {
   margin: 1em 0;
-  padding: 0.5rem 3rem;
+  padding: 0.5rem;
+}
+@media (min-width: 1000px) {
+  div#main p {
+    padding: 0.5rem 3rem;
+  }
 }
 #footer {
   color: #38313a;
@@ -729,7 +748,7 @@ div.search-item {
   margin: 2em 0;
 }
 .note.donations {
-  margin-top: 8px;
+  margin-top: 2em;
   padding: .5rem 1rem;
 }
 body.front-page .note.donations {
