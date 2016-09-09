@@ -22,6 +22,8 @@ This section lists general tools and articles that discuss tools and possible ap
 - [Botomatic](http://www.botomatic.co/)
 - [BOT libre!](http://www.botlibre.com/) -- create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
 
+See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a#.viovoredf))
+
 #### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
 
 - [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) -- This site will help you make a Twitterbot!
