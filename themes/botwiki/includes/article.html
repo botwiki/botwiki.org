@@ -36,10 +36,13 @@
   {% endif %}
   {{ content }}
 
+  {% if "bot-workshops" in meta.tags %}
+    {% include 'includes/bot-workshops.html' %}
+  {% endif %}
+
   {% if "interview" in meta.tags %}
     <p class="note-alternative">This was an interview from the <a href="https://botzine.org/">Bot! zine</a> interview series. <a href="/tag/interview">Read more here.</a></p>
   {% endif %}
-  <hr/>
 
   {% if meta.show_donation_link == 'yes'
      or "bot" in meta.tags

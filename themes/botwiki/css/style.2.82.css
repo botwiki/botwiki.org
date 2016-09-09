@@ -569,7 +569,7 @@ form#search-form {
 }
 form#search-form input {
   padding: 0.5em 1em;
-  border-radius: 20px;
+  border-radius: 4px;
   outline: none;
   width: 100%;
   line-height: 1.5em;
@@ -990,8 +990,11 @@ div.back-to-top:hover {
 }
 a#search-help {
   position: absolute;
-  margin-left: 2px;
+  margin-left: -15px;
+  color: #dadada !important;
+  top: 30%;
 }
 a#search-help:hover {
   border: none !important;
+  color: #adadad !important;
 }
