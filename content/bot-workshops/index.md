@@ -8,4 +8,3 @@ Nav: hidden
 
 ***Coming soon!***
 
-Join the [#bot-workshops](https://botmakers.slack.com/messages/bot-workshops/details/) channel on [Botmakers.org](https://botmakers.org/) and follow the [#botworkshop](https://twitter.com/hashtag/botworkshop?f=tweets) tag on Twitter!
