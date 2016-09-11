@@ -1040,29 +1040,38 @@ img.logo-digitalocean{
   }
 }
 
-div.back-to-top{
-  cursor: pointer;
+div.bottom-page-links{
   position: fixed;
   bottom: 0;
   right: 10px;
-  width: 4em;
-  opacity: 0.7;
-  @media (min-width : @site-width-small){
-    width: 3em;
+  a{
+    display: inline-block;
+    cursor: pointer;
+    width: 4em;
+    opacity: 0.7;
+    @media (min-width : @site-width-small){
+      width: 3em;
+    }
+  }
+  a, a:hover{
+    transition: all 0.2s linear;  
+  }
+  a#random-bot-link{
+    text-decoration: none;
+    font-size: 2.5em;
+    line-height: 1.2em;
+    width: auto;
+    height: auto;
+    background-color: #362f38;
+    color: #fff;
+    vertical-align: top;
+    text-align: right;
+    @media (max-width : @site-width-small){
+      font-size: 80px;
+    }
   }
 }
 
-div.back-to-top:hover{
-}
-
-div.back-to-top,
-div.back-to-top:hover{
-  transition: opacity 0.2s linear;  
-}
-
-a#back-to-top{
-  display: block;
-}
 
 a#search-help{
   position: absolute;

@@ -135,14 +135,10 @@ ready(function(){
     smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
   }
 
-  var backToTopLinks = document.querySelectorAll('.back-to-top'), a;
-
-  for(var i = backToTopLinks.length; a = backToTopLinks[--i];){
-    a.addEventListener("click", function(ev){
-      ev.preventDefault();
-      smoothScroll(0, 500);      
-    }, false);
-  }
+  document.getElementById('back-to-top').addEventListener("click", function(ev){
+    ev.preventDefault();
+    smoothScroll(0, 500);      
+  }, false);
 
   var articleImages = document.querySelectorAll('article img');
 

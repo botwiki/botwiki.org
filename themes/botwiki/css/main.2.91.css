@@ -1023,25 +1023,41 @@ img.logo-digitalocean {
     font-size: 1em;
   }
 }
-div.back-to-top {
-  cursor: pointer;
+div.bottom-page-links {
   position: fixed;
   bottom: 0;
   right: 10px;
+}
+div.bottom-page-links a {
+  display: inline-block;
+  cursor: pointer;
   width: 4em;
   opacity: 0.7;
 }
 @media (min-width: 1030px) {
-  div.back-to-top {
+  div.bottom-page-links a {
     width: 3em;
   }
 }
-div.back-to-top,
-div.back-to-top:hover {
-  transition: opacity 0.2s linear;
+div.bottom-page-links a,
+div.bottom-page-links a:hover {
+  transition: all 0.2s linear;
 }
-a#back-to-top {
-  display: block;
+div.bottom-page-links a#random-bot-link {
+  text-decoration: none;
+  font-size: 2.5em;
+  line-height: 1.2em;
+  width: auto;
+  height: auto;
+  background-color: #362f38;
+  color: #fff;
+  vertical-align: top;
+  text-align: right;
+}
+@media (max-width: 1030px) {
+  div.bottom-page-links a#random-bot-link {
+    font-size: 80px;
+  }
 }
 a#search-help {
   position: absolute;
@@ -1092,7 +1108,7 @@ video {
 .slide-down {
   opacity: 0;
   pointer-events: none;
-  -webkit-transform: translate(0, 50px);
-      -ms-transform: translate(0, 50px);
-          transform: translate(0, 50px);
+  -webkit-transform: translate(0, 150px);
+      -ms-transform: translate(0, 150px);
+          transform: translate(0, 150px);
 }
