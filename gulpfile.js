@@ -25,7 +25,7 @@ gulp.task('browser-sync', function () {
 });
 
 gulp.task('styles', function() {
-  return gulp.src('themes/botwiki/src/styles/*.less')
+  return gulp.src('themes/botwiki/src/styles/main.*')
     .pipe(less({
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))

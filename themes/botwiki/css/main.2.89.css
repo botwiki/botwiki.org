@@ -1,14 +1,12 @@
-/*
-  This is a slightly modified default Pico theme. Needs a complete rewrite. 
-*/
-/*
-  Variables
-*/
+/* Import all the style files, make sure variables.less goes first. */
 /*
 Original dark gray
 @main-color: #2A2C2B;
 Purple
 @main-color: #564d68;
+*/
+/*
+  This is a slightly modified default Pico theme. Needs a complete rewrite. 
 */
 /*=================================*/
 /* Pico Default Theme
@@ -352,7 +350,7 @@ footer ul.footer-list {
   vertical-align: top;
   width: 25%;
   min-height: 245px;
-  margin-left: 0;
+  margin: 0;
   padding: 1em;
   float: left;
 }
