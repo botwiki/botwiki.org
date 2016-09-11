@@ -23,15 +23,13 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 - [Create A Weather Bot For Telegram Using The Weather Unlocked API](http://www.3scale.net/2016/02/create-a-weather-bot-for-telegram/)
-
+- [Step by Step Guide to Start a Telegram Bot](https://medium.com/@tcguy/step-by-step-guide-to-start-a-telegram-bot-34cd05aca71b#.ra2k4gz2o) (with deployment to Heroku)
 
 #### [¶](#tutorials-php){.pilcrow} PHP {#tutorials-php}
 - [Telegram Bot Tutorials](https://www.youtube.com/playlist?list=PLZI3P0VZBj6Hilx7Z-m1jMub2wZwxP5dO) -- a YouTube playlist
 - [Managing a Telegram bot: MyPokerBot example](https://chatbotsmagazine.com/managing-a-telegram-bot-mypokerbot-example-d864f93a03bc#.n1abc6b6b)
 - [Telegram Bot Tutorial](http://robot.onscreengroup.com/telegram-bot-tutorial/): Learn how to create a basic Telegram bot with PHP
 - [Writing Telegram Bot with PHP using Guzzle](http://www.maastaar.net/php/telegram%20bot/2016/01/16/writing-telegram-bot-with-php-using-guzzle/)
-
-
 
 
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
