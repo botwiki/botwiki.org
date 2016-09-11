@@ -687,6 +687,10 @@ div#main p {
     padding: 0.5rem 3rem;
   }
 }
+ol li p,
+ul li p {
+  padding: 0 !important;
+}
 #footer {
   color: #38313a;
   line-height: 1.2em;
