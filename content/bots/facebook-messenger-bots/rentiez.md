@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[rentiez](https://m.me/rentiez) is a other bot created by [İsmail Demirhan](https://twitter.com/Rentiezz) that lets you search rentals and vacation rentals.
+[rentiez](https://m.me/rentiez) is a Facebook Messenger bot created by [İsmail Demirhan](https://twitter.com/Rentiezz) that lets you search rentals and vacation rentals.
