@@ -124,7 +124,7 @@ body{
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     padding-top: 2em;
   }
   margin-bottom: 80px;
@@ -255,7 +255,7 @@ blockquote{
   margin: 2em 0 2em 2em;
   padding-left: 10px;
   padding-bottom: 0;
-  border-left: 5px solid #dddddd;
+  border-left: 5px solid @background-color - #0a0a0a;
   @media(max-width: 900px){
     margin: 2em 0 2em 1em;
   }
@@ -271,8 +271,11 @@ iframe.twitter-tweet,
 iframe,
 .twitter-tweet{
   display: block;
-  margin: 2.5em auto !important;
   max-width: 100%;
+}
+
+.twitter-tweet.twitter-tweet-rendered{
+  margin: 2em auto !important;
 }
 
 hr{
@@ -362,7 +365,7 @@ div.header-image{
 .float-left{
   float: left;
   margin-right: 2em;
-  padding-left: 0 !important;
+  padding-left: 0;
 }
 
 img.main-banner{
@@ -399,8 +402,9 @@ div.all-tags a{
   box-shadow: 0 4px 40px -15px #333;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
-  @media (max-width : @site-width-small){
-    padding: 0;
+  @media (max-width: @site-width-small){
+    padding: 10px;
+    font-size: 2em;
   }
 }
 
@@ -478,10 +482,11 @@ a#logo:hover{
 ul#menu{
   margin-left: 0;
   padding-left: 0;
-  top: 2.3em;
   text-align: center;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     float: right;
+    overflow: auto;
+    max-height: 85vh; /* Quick hack. */
   }
 }
 #menu-toggle{
@@ -502,7 +507,7 @@ ul#menu{
 #header nav{
   list-style: none;
   margin: 0.2em 0 0;
-  padding: 0;
+  font-family: monospace;
 }
 #header nav li{
   margin-top: -5px;
@@ -517,7 +522,7 @@ ul#menu{
   margin-left: 35px;
   margin-top: -5px;
   float: right;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     margin-top: 1em;
     margin-bottom: 1em;
     float: none;
@@ -535,6 +540,7 @@ ul#menu{
 #header ul{
   list-style: none;
   padding-top: 0.6em;
+  margin: 0;
 }
 #header li{
   display: inline-block;
@@ -558,7 +564,7 @@ div#content-wrapper{
   max-width: @site-width;
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     margin-top: 10px;    
   }
 }
@@ -572,7 +578,7 @@ div#content-wrapper{
   font-size: 1em;
   line-height: 1.3em;
   position: relative;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     padding-top: 1em;    
   }  
 }
@@ -590,7 +596,7 @@ aside#sidebar{
     bottom: 0;
   }
 
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     overflow: auto;
   }
 }
@@ -607,7 +613,7 @@ aside#sidebar img{
 }
 
 div.sidebar-module{
-  @media (max-width : @site-width-small+10px){
+  @media (max-width: @site-width-small+10px){
     margin-top: 3em;
     width: 50%;
     min-height: 300px;
@@ -623,7 +629,7 @@ div.sidebar-module{
 
 aside#sidebar hr{
   max-width: 25%;
-  @media (max-width : @site-width-small){
+  @media (max-width: @site-width-small){
     display: none;
   }
   @media (max-width : 700px){
@@ -644,13 +650,37 @@ div#main{
   }
 }
 
-div#main p{
+div#main p,
+p.screenshot{
   margin: 1em 0;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
     padding: 0.5rem 3rem;
   }
 }
+
+p.screenshot{
+  @media (min-width : 800px){
+    max-width: 50%;
+  }
+}
+
+p.screenshot img{
+  border: 1px solid #ddd;
+}
+
+p.screenshot.float-right{
+  @media (min-width : @site-width-small){
+    padding-left: 30px;
+  }
+}
+
+p.screenshot.float-left{
+  @media (min-width : @site-width-small){
+    padding-right: 30px;
+  }
+}
+
 
 ol li p,
 ul li p{
@@ -781,30 +811,6 @@ div.meta p.last-updated{
   font-size: 0.9em;
 }
 
-p.screenshot{
-  padding: 0 0 1.5em;
-  @media (min-width : 800px){
-    max-width: 38%;
-    padding: 0 0 35px;
-  }
-}
-
-p.screenshot img{
-  border: 1px solid #ddd;
-}
-
-p.screenshot.float-right{
-  @media (min-width : @site-width-small){
-    padding-left: 30px;
-  }
-}
-
-p.screenshot.float-left{
-  @media (min-width : @site-width-small){
-    padding-right: 30px;
-  }
-}
-
 img.photo{
   margin: 1em;
   @media(max-width: 900px){
@@ -915,7 +921,7 @@ img.logo-digitalocean{
   }
 }
 
-@media (max-width : @site-width-small){
+@media (max-width: @site-width-small){
   #header #menu-icon{
     display:inline-block;
   }
@@ -928,7 +934,7 @@ img.logo-digitalocean{
 
   #header nav ul,
   nav:active ul,
-  #menu{ 
+  ul#menu{ 
     opacity: 0;
     position: absolute;
     padding: 20px;
@@ -938,14 +944,26 @@ img.logo-digitalocean{
     box-shadow: 0 10px 100px -10px #333;
     left: -100px;
     top: 2.3em;
+    @media (max-width: @site-width-small){
+      top: 2em!important;
+    }
     width: 100%;
     z-index: 9999;
     transition: all 0.2s;
     pointer-events: none;
   }
+
   #header nav li{
     width: 100%;
-    padding: 10px 0;
+    padding: 20px 0;
+
+    @media (min-width : @site-width){
+      padding: 10px 0;
+    }
+
+
+
+
     margin: 0;
     opacity: 0;
     transition: all 0.2s;
@@ -1026,21 +1044,23 @@ div.back-to-top{
   position: fixed;
   bottom: 0;
   right: 10px;
-  width: 64px;
-  opacity: 0.9;
+  width: 4em;
+  opacity: 0.7;
   @media (min-width : @site-width-small){
-    width: 48px;
-    opacity: 0.5;
+    width: 3em;
   }
 }
 
 div.back-to-top:hover{
-  opacity: 0.9;
 }
 
 div.back-to-top,
 div.back-to-top:hover{
   transition: opacity 0.2s linear;  
+}
+
+a#back-to-top{
+  display: block;
 }
 
 a#search-help{

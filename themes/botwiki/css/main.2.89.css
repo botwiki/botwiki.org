@@ -179,7 +179,7 @@ body {
   background: #f7f7f7;
   -webkit-font-smoothing: antialiased;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   body {
     padding-top: 2em;
   }
@@ -193,7 +193,7 @@ a:hover,
 a:active {
   color: #160f18;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   a:hover,
   a:active {
     text-decoration: underline;
@@ -213,7 +213,7 @@ h6 {
   line-height: 1.2em;
   margin: 0.5rem;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   h1,
   h2,
   h3,
@@ -247,7 +247,7 @@ h1 {
 h2 {
   font-size: 2.5em;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   h2 {
     margin: 3rem;
   }
@@ -264,7 +264,7 @@ ul {
   padding-left: 35px;
   margin: 1rem;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   ol,
   ul {
     margin: 0.2em 3rem;
@@ -316,7 +316,7 @@ blockquote {
   margin: 2em 0 2em 2em;
   padding-left: 10px;
   padding-bottom: 0;
-  border-left: 5px solid #dddddd;
+  border-left: 5px solid #ededed;
 }
 @media (max-width: 900px) {
   blockquote {
@@ -332,8 +332,10 @@ iframe.twitter-tweet,
 iframe,
 .twitter-tweet {
   display: block;
-  margin: 2.5em auto !important;
   max-width: 100%;
+}
+.twitter-tweet.twitter-tweet-rendered {
+  margin: 2em auto !important;
 }
 hr {
   border-top: solid 1px #dfdfdf;
@@ -390,7 +392,7 @@ img.centered {
   margin: 3em auto;
   max-width: 100%;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   img.extra-margin {
     margin-top: -1.3em;
   }
@@ -409,7 +411,7 @@ div.header-image {
 .float-left {
   float: left;
   margin-right: 2em;
-  padding-left: 0 !important;
+  padding-left: 0;
 }
 img.main-banner {
   margin: 10px 0 10px 50px;
@@ -426,7 +428,7 @@ div.all-tags a {
   margin: 0 auto;
   padding: 5px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   .inner {
     padding: 0 1em;
   }
@@ -444,9 +446,10 @@ div.all-tags a {
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   #header {
-    padding: 0;
+    padding: 10px;
+    font-size: 2em;
   }
 }
 #header a {
@@ -490,7 +493,7 @@ header .inner,
 footer .inner {
   max-width: 1262px;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   li.active a {
     border-bottom: 3px solid #F5F5F5;
   }
@@ -509,12 +512,14 @@ a#logo:hover {
 ul#menu {
   margin-left: 0;
   padding-left: 0;
-  top: 2.3em;
   text-align: center;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   ul#menu {
     float: right;
+    overflow: auto;
+    max-height: 85vh;
+    /* Quick hack. */
   }
 }
 #menu-toggle {
@@ -536,7 +541,7 @@ ul#menu {
 #header nav {
   list-style: none;
   margin: 0.2em 0 0;
-  padding: 0;
+  font-family: monospace;
 }
 #header nav li {
   margin-top: -5px;
@@ -551,7 +556,7 @@ ul#menu {
   margin-top: -5px;
   float: right;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   #header nav li.form-wrapper {
     margin-top: 1em;
     margin-bottom: 1em;
@@ -570,6 +575,7 @@ ul#menu {
 #header ul {
   list-style: none;
   padding-top: 0.6em;
+  margin: 0;
 }
 #header li {
   display: inline-block;
@@ -592,7 +598,7 @@ div#content-wrapper {
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   div#content-wrapper {
     margin-top: 10px;
   }
@@ -607,12 +613,12 @@ div#content-wrapper {
   line-height: 1.3em;
   position: relative;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   #content {
     padding-top: 1em;
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   aside#sidebar {
     display: block;
     max-width: 360px;
@@ -625,7 +631,7 @@ div#content-wrapper {
     bottom: 0;
   }
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   aside#sidebar {
     overflow: auto;
   }
@@ -639,7 +645,7 @@ aside#sidebar img {
   display: block;
   margin: 0 auto 0.7em;
 }
-@media (max-width: 1000px+10px) {
+@media (max-width: 1030px+10px) {
   div.sidebar-module {
     margin-top: 3em;
     width: 50%;
@@ -658,7 +664,7 @@ aside#sidebar img {
 aside#sidebar hr {
   max-width: 25%;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   aside#sidebar hr {
     display: none;
   }
@@ -668,7 +674,7 @@ aside#sidebar hr {
     display: block;
   }
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   div.sidebar-module:not(:first-child) {
     margin-top: 10px;
   }
@@ -676,18 +682,38 @@ aside#sidebar hr {
 div#main {
   padding: 0;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   div#main {
     margin-right: 360px;
   }
 }
-div#main p {
+div#main p,
+p.screenshot {
   margin: 1em 0;
   padding: 0.5rem;
 }
-@media (min-width: 1000px) {
-  div#main p {
+@media (min-width: 1030px) {
+  div#main p,
+  p.screenshot {
     padding: 0.5rem 3rem;
+  }
+}
+@media (min-width: 800px) {
+  p.screenshot {
+    max-width: 50%;
+  }
+}
+p.screenshot img {
+  border: 1px solid #ddd;
+}
+@media (min-width: 1030px) {
+  p.screenshot.float-right {
+    padding-left: 30px;
+  }
+}
+@media (min-width: 1030px) {
+  p.screenshot.float-left {
+    padding-right: 30px;
   }
 }
 ol li p,
@@ -793,28 +819,6 @@ div.meta p.last-updated {
 div.meta p.last-updated {
   font-size: 0.9em;
 }
-p.screenshot {
-  padding: 0 0 1.5em;
-}
-@media (min-width: 800px) {
-  p.screenshot {
-    max-width: 38%;
-    padding: 0 0 35px;
-  }
-}
-p.screenshot img {
-  border: 1px solid #ddd;
-}
-@media (min-width: 1000px) {
-  p.screenshot.float-right {
-    padding-left: 30px;
-  }
-}
-@media (min-width: 1000px) {
-  p.screenshot.float-left {
-    padding-right: 30px;
-  }
-}
 img.photo {
   margin: 1em;
 }
@@ -909,7 +913,7 @@ img.logo-digitalocean {
     font-size: 1em;
   }
 }
-@media (max-width: 1000px) {
+@media (max-width: 1030px) {
   #header #menu-icon {
     display: inline-block;
   }
@@ -921,7 +925,7 @@ img.logo-digitalocean {
   }
   #header nav ul,
   nav:active ul,
-  #menu {
+  ul#menu {
     opacity: 0;
     position: absolute;
     padding: 20px;
@@ -938,7 +942,7 @@ img.logo-digitalocean {
   }
   #header nav li {
     width: 100%;
-    padding: 10px 0;
+    padding: 20px 0;
     margin: 0;
     opacity: 0;
     transition: all 0.2s;
@@ -1001,6 +1005,18 @@ img.logo-digitalocean {
     opacity: 1;
   }
 }
+@media (max-width: 1030px) and (max-width: 1030px) {
+  #header nav ul,
+  nav:active ul,
+  ul#menu {
+    top: 2em!important;
+  }
+}
+@media (max-width: 1030px) and (min-width: 1262px) {
+  #header nav li {
+    padding: 10px 0;
+  }
+}
 @media (max-width: 480px) {
   #header h1 a {
     font-size: 1em;
@@ -1011,21 +1027,20 @@ div.back-to-top {
   position: fixed;
   bottom: 0;
   right: 10px;
-  width: 64px;
-  opacity: 0.9;
+  width: 4em;
+  opacity: 0.7;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   div.back-to-top {
-    width: 48px;
-    opacity: 0.5;
+    width: 3em;
   }
-}
-div.back-to-top:hover {
-  opacity: 0.9;
 }
 div.back-to-top,
 div.back-to-top:hover {
   transition: opacity 0.2s linear;
+}
+a#back-to-top {
+  display: block;
 }
 a#search-help {
   position: absolute;
@@ -1033,7 +1048,7 @@ a#search-help {
   color: #dadada !important;
   top: 2em;
 }
-@media (min-width: 1000px) {
+@media (min-width: 1030px) {
   a#search-help {
     top: 30%;
     margin-left: -15px;
@@ -1042,4 +1057,22 @@ a#search-help {
 a#search-help:hover {
   border: none !important;
   color: #adadad !important;
+}
+.slide-up,
+.slide-down {
+  transition: all 0.5s;
+}
+.slide-up {
+  opacity: 1;
+  pointer-events: all;
+  -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+          transform: translate(0, 0);
+}
+.slide-down {
+  opacity: 0;
+  pointer-events: none;
+  -webkit-transform: translate(0, 50px);
+      -ms-transform: translate(0, 50px);
+          transform: translate(0, 50px);
 }

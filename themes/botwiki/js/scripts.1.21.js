@@ -72,6 +72,21 @@ function ready(fn) {
 }
 
 ready(function(){
+  window.onscroll=function(){
+    var backToTop = document.getElementById('back-to-top');
+
+    if (document.body.scrollTop > (screen.height/2)){
+      backToTop.classList.add('slide-up');
+      backToTop.classList.remove('slide-down');
+    }
+    else{
+      backToTop.classList.remove('slide-up');
+      backToTop.classList.add('slide-down');          
+    }
+
+
+  };
+
   document.getElementById('search-help').addEventListener("click", function(ev){
     ev.preventDefault();
     // TODO: Make this into a fancy overlay div.
