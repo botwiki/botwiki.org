@@ -1042,9 +1042,13 @@ div.back-to-top:hover{
 
 a#search-help{
   position: absolute;
-  margin-left: -15px;
+  margin-left: -1em;
   color: #dadada !important;
-  top: 30%;
+  top: 2em;
+  @media (min-width : @site-width-small){
+    top: 30%;
+    margin-left: -15px;
+  }
 }
 
 a#search-help:hover{
