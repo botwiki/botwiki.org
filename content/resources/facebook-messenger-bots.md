@@ -9,7 +9,7 @@ Nav: hidden
   This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
 </div>
 
-For a list of commercial tools that let your build bots for Facebook's Messenger, check out [this blog post from Chatbot Academy](https://www.chatbot-academy.com/chatbot-builders-facebook-messenger/).
+For a list of commercial tools that let you build bots for Facebook's Messenger, check out [this blog post from Chatbot Academy](https://www.chatbot-academy.com/chatbot-builders-facebook-messenger/).
 
 
 ### [¶](#official-documentation){.pilcrow} Official documentation {#official-documentation}
