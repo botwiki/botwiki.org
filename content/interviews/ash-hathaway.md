@@ -95,5 +95,4 @@ Last week I spoke with [Ash Hathaway](https://twitter.com/Ash_Hathaway/), an IBM
 **Ash:** Thank you so much! It's been great to chat with you as well Stefan. Major props on the initiatives you're doing. People like you make the community what it is - so thank you for everything you do!!
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SYPsj0BRyrk" frameborder="0" allowfullscreen></iframe>
-
+<div class="video-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/SYPsj0BRyrk" frameborder="0" allowfullscreen></iframe></div>

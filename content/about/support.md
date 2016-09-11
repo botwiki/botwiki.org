@@ -43,4 +43,4 @@ And you are more than welcome to join [Botmakers.org](https://botmakers.org/), r
 -- [Stefan](/about/team#stefan)
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/9UCWvcJAy6k" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/9UCWvcJAy6k" frameborder="0" allowfullscreen></iframe></div>

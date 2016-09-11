@@ -275,7 +275,7 @@ iframe,
 }
 
 .twitter-tweet.twitter-tweet-rendered{
-  margin: 2em auto !important;
+  margin: 2em auto;
 }
 
 hr{
@@ -1077,4 +1077,27 @@ a#search-help{
 a#search-help:hover{
   border: none !important;
   color: #adadad !important;
+}
+
+/* Fluid video embeds, via css-tricks.com. */
+
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.video-wrapper {
+  position: relative;
+  margin: 3em 0;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

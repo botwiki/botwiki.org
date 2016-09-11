@@ -33,6 +33,6 @@ Thanks -- and have an awesome day 🎸🌟!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love that <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> is a thing</p>&mdash; Beans (@beans_py) <a href="https://twitter.com/beans_py/status/723228065061584896">April 21, 2016</a></blockquote>
 
-<center><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></div>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

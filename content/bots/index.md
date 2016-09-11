@@ -92,7 +92,7 @@ Thanks for checking out **Botwiki**!
 
 Or check out a [random bot](/random-bot)!
 
-<center><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>
 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
