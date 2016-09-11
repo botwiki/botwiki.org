@@ -16,6 +16,7 @@ Purple
 @main-color: #564d68;
 */
 @main-color: #38313a;
+@background-color: #f7f7f7;
 @link-color: #4A89DC;
 
 /*=================================*/
@@ -144,7 +145,7 @@ body{
     padding-top: 2em;
   }
   margin-bottom: 80px;
-  background: #f7f7f7;
+  background: @background-color;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -760,13 +761,23 @@ span.normal-text{
   font-style: normal;
 }
 
-.share-prompt{
-  background-color: @link-color;
-  color: #fff;
+div.meta p.share-prompt{
   font-weight: bold;
-  a{
-    color: #fff;
-    text-decoration: underline;
+  border-top: 2px dashed @background-color - #111;
+  padding-top: 2em !important;
+  margin-top: 2em !important;
+}
+
+ul.sharing-is-caring{
+  list-style: none;
+  padding: 0;
+  li{
+    display: inline;
+    a{
+      img{
+        max-width: 1.6em;
+      }
+    }
   }
 }
 
