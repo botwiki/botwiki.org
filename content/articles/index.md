@@ -49,6 +49,7 @@ See also
 - [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (*samplereality.com*)
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
+- [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via *medium.com*)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}

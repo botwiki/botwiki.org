@@ -44,6 +44,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 
 - [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A) -- a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
 - [Slack bot with a Django backend — 101 tutorial](https://chatbotsmagazine.com/slack-bot-with-a-django-backend-101-tutorial-c1aa8ea3f15e#.zbwwivtun)
+- [Build a Slack Bot that Mimics Your Colleagues](http://hirelofty.com/blog/how-build-slack-bot-mimics-your-colleague/) (with [Markov chains](https://simple.wikipedia.org/wiki/Markov_chain))
 
 #### [¶](#beginner-ruby){.pilcrow} Ruby {#beginner-ruby}
 

@@ -35,6 +35,7 @@ Nav: hidden
 - [atipugin/telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby)
 - [odarriba/fantastic_robot](https://github.com/odarriba/fantastic_robot)
 - [telegruby](https://rubygems.org/gems/telegruby)
+- [MaximAbramchuck/ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
 
 ### [¶](#other){.pilcrow} Other {#other}
 

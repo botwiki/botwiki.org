@@ -37,6 +37,7 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 - [Quickly Create a Telegram Bot in Ruby](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)
 - [Telegram bot. Rails way.](https://medium.com/@maxmelentiev/telegram-bot-rails-way-7e050d5dddbd#.csuupkwdz)
+- [Full guide on creating stateful Telegram bot](https://medium.com/@MaximAbramchuk/full-guide-on-creating-statefull-telegram-bot-523def0a7930#.rifj0ckac)
 
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 
