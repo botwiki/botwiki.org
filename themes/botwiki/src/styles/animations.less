@@ -1,6 +1,24 @@
+/* Lazy-loading images. */
+.lazy-load{
+  opacity: 0;
+  transform: translate(0,30px);  
+}
+
+.lazy-loaded{
+  opacity: 1;
+  transform: translate(0,0);
+}
+
+.lazy-load,
+.lazy-loaded{
+  transition: all 0.3s;
+}
+
+/* Slide-up/down effect, used on the back to top buton. */
+
 .slide-up,
 .slide-down{
-  transition: all 0.5s;  
+  transition: all 0.5s;
 }
 
 .slide-up{
@@ -10,8 +28,7 @@
 }
 
 .slide-down{
-  opacity: 0;
+  opacity: 0 ;
   pointer-events: none;
   transform: translate(0, 150px);
 }
-

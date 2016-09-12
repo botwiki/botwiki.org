@@ -74,8 +74,9 @@ function ready(fn) {
 ready(function(){
   window.onscroll=function(){
     var backToTop = document.getElementById('back-to-top');
+    var documentScrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0
 
-    if (document.body.scrollTop > (screen.height/2)){
+    if (documentScrollTop > (screen.height/2)){
       backToTop.classList.add('slide-up');
       backToTop.classList.remove('slide-down');
     }

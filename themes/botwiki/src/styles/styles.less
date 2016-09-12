@@ -145,7 +145,7 @@ a:hover, a:active{
 }
 
 a:hover{
-  transition: color 0.2s linear;  
+  transition: all 0.2s linear;  
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -823,22 +823,6 @@ img.round-borders{
   border-radius: 5px;
 }
 
-
-.lazy-load{
-  opacity: 0;
-  transform: translate(0,30px);  
-}
-
-.lazy-loaded{
-  opacity: 1;
-  transform: translate(0,0);
-}
-
-.lazy-load,
-.lazy-loaded{
-  transition: all 0.3s;
-}
-
 div.article-thumbnail{
   text-align: center;
 }
@@ -846,7 +830,6 @@ div.article-thumbnail{
 div.search-thumbnail img{
   border: 1px solid #efefef;
 }
-
 
 @media (min-width : 800px){
   div.search-thumbnail,
@@ -863,9 +846,7 @@ div.search-thumbnail img{
   div.search-text{
     float: left;
   }
-
 }
-
 
 .clearfix:before,
 .clearfix:after{
@@ -957,14 +938,9 @@ img.logo-digitalocean{
   #header nav li{
     width: 100%;
     padding: 20px 0;
-
     @media (min-width : @site-width){
       padding: 10px 0;
     }
-
-
-
-
     margin: 0;
     opacity: 0;
     transition: all 0.2s;
@@ -1047,14 +1023,8 @@ div.bottom-page-links{
   a{
     display: inline-block;
     cursor: pointer;
-    width: 4em;
-    opacity: 0.7;
-    @media (min-width : @site-width-small){
-      width: 3em;
-    }
-  }
-  a, a:hover{
-    transition: all 0.2s linear;  
+    width: 1.5em;
+    font-size: 1.5em;
   }
   a#random-bot-link{
     text-decoration: none;
@@ -1066,9 +1036,7 @@ div.bottom-page-links{
     color: #fff;
     vertical-align: top;
     text-align: right;
-    @media (max-width : @site-width-small){
-      font-size: 80px;
-    }
+    font-size: 1.9em;
   }
 }
 
