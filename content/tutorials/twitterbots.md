@@ -41,6 +41,7 @@ And once you have one account verified, you can also host all your bots under th
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
+- [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5#.yan01qxl0)
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot) -- a super simple tutorial with node.js source code
