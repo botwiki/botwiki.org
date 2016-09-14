@@ -14,3 +14,4 @@ Tags: event,upcoming
 - 9am - 6pm
 - Fair Market - 1100 East 5th Street, Austin, TX 78702 ([map](https://www.google.com/maps/dir/Current+Location/Fair+Market+1100+East+5th+Street+Austin+TX+78702))
 - [Event page](https://www.eventbrite.com/e/talkabot-conference-tickets-24627590787)
+- [Talkabot schedule & interviews](https://blog.howdy.ai/talkabot-schedule-interviews-8cb8e3deb190#.4e5ydjruw)
