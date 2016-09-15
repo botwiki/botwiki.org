@@ -31,6 +31,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 
 #### [¶](#beginner-nodejs){.pilcrow} node.js {#beginner-nodejs}
 
+- [Why did the chicken cross the road?](https://botwiki.org/tutorials/why-did-the-chicken-cross-the-road-slack-bot-tutorial/): Basic intro to Slack bots with with Botkit (uses OpenShift for hosting)
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [Easy-Peasy Bots: Getting Started](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf#.eahf06bu9) (with node.js and [Botkit](http://howdy.ai/botkit/))
 - [How to Build A Slackbot (with node.js) + Deploy an App to Heroku for Absolute Beginners](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
