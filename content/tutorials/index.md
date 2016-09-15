@@ -79,6 +79,10 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.k9tze7zbb)
 - [Principles of bot design](https://blog.intercom.io/principles-bot-design/)
 
+#### [¶](#chat-python){.pilcrow} With Python {#chat-python}
+
+- [Chatbot Fundamentals: An interactive guide to writing bots in Python](https://apps.worldwritable.com/tutorials/chatbot/)
+
 ***See also:** [github.com/mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
 
 ### [¶](#machine-learning-nlp-ai){.pilcrow} Machine learning, NLP, AI {#machine-learning-nlp-ai}
