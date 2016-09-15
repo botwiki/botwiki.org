@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/alinkplease.png
 Link: https://twitter.com/alinkplease
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: twitter,twitterbot,bot,active,zelda,image,python,comedy,videogames,game,nintendo,open source,opensource,python,avyfain
+Tags: twitter,twitterbot,bot,active,zelda,image,python,comedy,videogames,nintendo,open source,opensource,python,avyfain
 Nav: hidden
 Robots: index,follow
 */
