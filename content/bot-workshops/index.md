@@ -6,5 +6,5 @@ Tags: bots,workshop,bot-workshops,event
 Nav: hidden
 */
 
-***Coming soon!***
+- [Botmaking from the Ground Up](/bot-workshops/botmaking-from-the-ground-up/) ([Bradley Momberger](https://twitter.com/air_hadoken))
 
