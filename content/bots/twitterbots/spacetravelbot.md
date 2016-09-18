@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/spacetravelbot.png
 Link: https://twitter.com/spacetravelbot
 Author: botsheeter.py
 Date: September 17, 2016
-Tags: twitter,twitterbot,bot,active,space,space travel,story,generated,twitter bot,outer space,adventure,hologramvron
+Tags: twitter,twitterbot,bot,active,space,travel,story,generated,outer space,adventure,hologramvron
 Nav: hidden
 Robots: index,follow
 */

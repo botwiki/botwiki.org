@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/clitoscope.png
 Link: https://twitter.com/clitoscope
 Author: botsheeter.py
 Date: September 17, 2016
-Tags: twitter,twitterbot,bot,active,generative,generativeart,artbot,generativedesign,clitoris,blender,python,,open source,opensource,python, bash,startuple
+Tags: twitter,twitterbot,bot,active,generative,generative art,artbot,generative design,clitoris,blender,python,open source,opensource,python,bash,startuple,fhoehl,smcdoyle
 Nav: hidden
 Robots: index,follow
 */
