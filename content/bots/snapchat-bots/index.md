@@ -10,7 +10,9 @@ Nav: hidden
 -->
 
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 Bots for [Snapchat](https://snapchat.com/), a video messaging application [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Snapchat).

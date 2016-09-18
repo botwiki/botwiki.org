@@ -19,7 +19,9 @@ Nav: hidden
 </p>
 
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 

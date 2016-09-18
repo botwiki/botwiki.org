@@ -11,7 +11,9 @@ Robots: index,follow
 */
 
 <div class="note">
-  This bot is the winner of the <a href="/monthly-bot-challenge/2016-march/">March 2016 Monthly Bot Challenge</a> 👏👏👏
+  <p>
+    This bot is the winner of the <a href="/monthly-bot-challenge/2016-march/">March 2016 Monthly Bot Challenge</a> 👏👏👏
+  </p>
 </div>
 
 [@BMovieGenerator](https://twitter.com/BMovieGenerator) is an [open source](http://cheapbotsdonequick.com/source/BMovieGenerator) Twitter bot created by [cosmophagy](http://cosmophagy.tumblr.com). 

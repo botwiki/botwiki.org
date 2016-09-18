@@ -5,7 +5,11 @@ Show donation link: yes
 Nav: hidden
 */
 
-<div class="note">Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.</div>
+<div class="note">
+  <p>
+    Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.
+  </p>
+</div>
 
 [Twitter](https://twitter.com/) is a popular social networking service that *"enables users to send and read short 140-character messages called "tweets"*. [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Twitter)
 
@@ -81,7 +85,9 @@ Browse [all Twitter bots](/tag/twitterbot).
 For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gameology.org/bot-list), [bot.community](https://bot.community/), or the [Twitter Fan Wiki](http://twitter.pbworks.com/w/page/1779741/Bots).
 
 <div class="note">
-  Note: Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+  <p>
+    Note: Here's how you can <a href="/about/support">support Botwiki</a> and the <a href="/about/supporters/">list of our supporters</a>.
+  </p>
 </div>
 
 

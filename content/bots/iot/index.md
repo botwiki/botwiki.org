@@ -5,13 +5,10 @@ Show donation link: yes
 Nav: hidden
 */
 
-<!--
-![Diving gear -- kind of looks like an old school robot](/content/images/illustrations/deep-sea-diver-768.jpg){.float-left}
--->
-
-
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 

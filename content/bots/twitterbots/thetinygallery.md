@@ -12,7 +12,9 @@ Robots: index,follow
 
 
 <div class="note">
-  This bot is the winner of the <a href="/monthly-bot-challenge/2016-february/">February 2016 Monthly Bot Challenge</a> 👏👏👏
+  <p>
+    This bot is the winner of the <a href="/monthly-bot-challenge/2016-february/">February 2016 Monthly Bot Challenge</a> 👏👏👏
+  </p>
 </div>
 
 [@thetinygallery](https://twitter.com/thetinygallery) is an [open source](https://github.com/emmawinston/thetinygallery) Twitter bot created by [Emma Winston](https://twitter.com/deer_ful) that tweets "tiny exhibitions from a tiny emoji gallery".

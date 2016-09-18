@@ -14,7 +14,9 @@ Nav: hidden
 
 
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 Bots for [Reddit](https://reddit.com/), an *"entertainment, social networking, and news website"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/Reddit).

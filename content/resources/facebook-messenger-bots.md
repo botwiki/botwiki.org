@@ -6,7 +6,9 @@ Nav: hidden
 */
 
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 For a list of commercial tools that let you build bots for Facebook's Messenger, check out [this blog post from Chatbot Academy](https://www.chatbot-academy.com/chatbot-builders-facebook-messenger/).

@@ -12,7 +12,9 @@ Robots: index,follow
 */
 
 <div class="note">
-  This bot won the first place in the <a href="/monthly-bot-challenge/2016-january/">January 2016 Monthly Bot Challenge</a> 👏👏👏
+  <p>
+    This bot won the first place in the <a href="/monthly-bot-challenge/2016-january/">January 2016 Monthly Bot Challenge</a> 👏👏👏
+  </p>
 </div>
 
 

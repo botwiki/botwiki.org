@@ -9,12 +9,16 @@ Nav: hidden
 
 <!--
 <div class="note">
-  <a href="mailto:stefan@botwiki.org">Get in touch</a> if you're interested in <a href="/about/supporters/">sponsoring</a> this event! 
+  <p>
+    <a href="mailto:stefan@botwiki.org">Get in touch</a> if you're interested in <a href="/about/supporters/">sponsoring</a> this event!
+  </p>
 </div>
 -->
 
 <div class="note">
-  This event has been put on hold! 
+  <p>
+    This event has been put on hold!
+  </p>
 </div>
 
 

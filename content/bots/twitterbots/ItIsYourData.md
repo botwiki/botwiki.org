@@ -11,7 +11,9 @@ Robots: index,follow
 */
 
 <div class="note">
-  This bot is the winner of the <a href="/monthly-bot-challenge/2016-april/">April 2016 Monthly Bot Challenge</a> 👏👏👏
+  <p>
+    This bot is the winner of the <a href="/monthly-bot-challenge/2016-april/">April 2016 Monthly Bot Challenge</a> 👏👏👏
+  </p>
 </div>
 
 [@ItIsYourData](https://twitter.com/ItIsYourData) is an [open source](http://cheapbotsdonequick.com/source/ItIsYourData) Twitter bot created by [@White_Fangs](https://twitter.com/White_fangs) that tweets how anyone's data on the internet could be used in a wrong way to raise awareness about data ownership.

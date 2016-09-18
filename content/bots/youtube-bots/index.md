@@ -6,7 +6,9 @@ Nav: hidden
 */
 
 <div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
 </div>
 
 Bots for [YouTube](https://www.youtube.com/), *"a video-sharing website"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/YouTube).
