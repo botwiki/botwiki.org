@@ -5,7 +5,9 @@ Nav: hidden
 */
 
 <div class="note">
-  See <a href="/about/support/#donation-options">donation options</a>, or <a href="mailto:stefan@botwiki.org">get in touch</a> about ways to support Botwiki and related projects.
+  <p>
+    See <a href="/about/support/#donation-options">donation options</a>, or <a href="mailto:stefan@botwiki.org">get in touch</a> about ways to support Botwiki and related projects.
+  </p>
 </div>
 
 Below is a list of [individuals](#individual-sponsors), [corporations, and other organizations](#corporate-sponsors) that supported **Botwiki** or any of the related projects via donations or [Monthly Bot Challenge](https://botwiki.org/monthly-bot-challenge) awards.
