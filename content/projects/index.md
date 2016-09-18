@@ -9,7 +9,7 @@ Here's a list of currently active projects:
 
 ### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
 
-![Botwiki](/content/projects/images/botwiki.png)
+![Botwiki](/content/projects/images/botwiki-v2.png)
 
 [Botwiki](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
 
@@ -35,10 +35,16 @@ We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to ou
 
 [![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
 
-[Bot! zine](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [Revue](https://www.getrevue.co/).
+[Bot! zine](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [Revue](https://www.getrevue.co/), and maintained by [Veronica](/about/team#veronica).
 
 It goes out every Monday and features newest bots, libraries, news, and interesting articles and other resources.
 
+
+### [¶](#bot-workshops){.pilcrow} Bot Workshops {#bot-workshops}
+
+[![Bot Workshops](/content/bot-workshops/images/bot-workshops-promo.png)](/bot-workshops)
+
+Botwiki's [Bot Workshops](/bot-workshops) are envisioned as a series of events (mostly online, possibly also offline) for botmakers of all levels of technical expertise: artists, tinkerers, enthusiasts, seasoned pros.
 
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 

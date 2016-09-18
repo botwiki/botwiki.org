@@ -1,11 +1,15 @@
 /*
 Title: Events
+Thumbnail: /content/images/illustrations/people-evening-large.png
 Description: Upcoming and past events either dedicated to botmaking or with relevant sessions.
 Show donation link: yes
 Weight: 5
 */
 
-![A botmaker gathering](/content/images/illustrations/people-evening.jpg){.float-right}
+Official Botwiki events:
+
+- [Bot Workshops](/bot-workshops)
+- [Monthly Bot Challenge](/monthly-bot-challenge). 
 
 Events either dedicated to botmaking or those that include relevant sessions:
 
@@ -16,6 +20,5 @@ Events either dedicated to botmaking or those that include relevant sessions:
 You can also browse dedicated [meetup groups](/events/meetups).
 
 
-For the **Monthly Bot Challenge**, [see the Monthly Bot Challenge page](/monthly-bot-challenge). 
 
 Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for live updates.

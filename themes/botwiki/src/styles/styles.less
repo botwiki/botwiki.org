@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6{
   font-family: 'Fjalla One', serif;  
   color: @main-color;
   line-height: 1.2em;
-  margin: 0.5rem;
+  margin: 0.8em 5px;
   @media (min-width : @site-width-small){
     margin: 1em 3rem;
   }
@@ -189,7 +189,6 @@ h2{
 
 h3{
   font-size: 2em;
-  margin-top: 0.5em;
 }
 
 h4{
@@ -197,11 +196,13 @@ h4{
 }
 
 ol, ul{
-  padding-left: 35px;
-  margin: 1rem;
+  margin: 0 0 0 2em;
   @media (min-width : @site-width-small){
     margin: 0.2em 3rem;
-    padding-left: 50px;
+    padding-left: 2em;
+  }
+  ol, ul{
+    margin: 0;
   }
 }
 
@@ -252,19 +253,19 @@ pre{
 
 blockquote{
   font-style: italic;
-  margin: 2em 0 2em 2em;
+  margin: 2em 0 2em 4em;
   padding-left: 10px;
   padding-bottom: 0;
   border-left: 5px solid @background-color - #0a0a0a;
   @media(max-width: 900px){
     margin: 2em 0 2em 1em;
   }
+  p{
+    padding: 1em !important;
+    margin: 0 !important;
+  }
 }
 
-blockquote p{
-  padding-top: 0;
-  padding-bottom: 0;
-}
 
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
@@ -275,7 +276,7 @@ iframe,
 }
 
 .twitter-tweet.twitter-tweet-rendered{
-  margin: 2em auto;
+  margin: 2em auto !important;
 }
 
 hr{
@@ -405,6 +406,7 @@ div.all-tags a{
   @media (max-width: @site-width-small){
     padding: 10px;
     font-size: 2em;
+    height: 2em;
   }
 }
 
@@ -490,7 +492,7 @@ ul#menu{
   }
 }
 #menu-toggle{
-  display: none; /* hide the checkbox */
+  display: none;
 }
 #header #menu-icon-wrapper{
   float: right;
@@ -529,7 +531,9 @@ ul#menu{
   }
 }
 #header nav a{
-  font-size: 1.1em;
+  @media (min-width: @site-width-small){
+    font-size: 1.1em;
+  }
   color: #fff;
   font-weight: bolder;
 }
@@ -565,7 +569,7 @@ div#content-wrapper{
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
   @media (max-width: @site-width-small){
-    margin-top: 10px;    
+    margin-top: 2em;    
   }
 }
 
@@ -578,9 +582,6 @@ div#content-wrapper{
   font-size: 1em;
   line-height: 1.3em;
   position: relative;
-  @media (max-width: @site-width-small){
-    padding-top: 1em;    
-  }  
 }
 
 aside#sidebar{
@@ -753,9 +754,12 @@ div.search-item{
 .note{
   font-weight: bold;
   font-style: italic;
-  padding: 10px;
   background-color: #F7E967;
-  margin: 0.5rem 0;
+  margin: 0;
+  padding: 0;
+  p{
+    padding: 0.5rem 3rem
+  }
 }
 
 .note-alternative{
@@ -977,11 +981,11 @@ img.logo-digitalocean{
   #header nav li:nth-child(1){
     transition-delay: 0s;
   }
-  #header nav li:nth-child(3){
+  #header nav li:nth-child(2){
     transition-delay: 0.05s;
   }
-  #header nav li:nth-child(2){
-    transition-delay: 0.1;
+  #header nav li:nth-child(3){
+    transition-delay: 0.1s;
   }
   #header nav li:nth-child(4){
     transition-delay: 0.15s;
@@ -1012,7 +1016,7 @@ img.logo-digitalocean{
 
 @media (max-width : 480px){
   #header h1 a{
-    font-size:1em;
+    font-size: 1em;
   }
 }
 
@@ -1024,19 +1028,24 @@ div.bottom-page-links{
     display: inline-block;
     cursor: pointer;
     width: 1.5em;
-    font-size: 1.5em;
-  }
-  a#random-bot-link{
+    height: 1.5em;
     text-decoration: none;
-    font-size: 2.5em;
-    line-height: 1.2em;
-    width: auto;
-    height: auto;
-    background-color: #362f38;
+    line-height: 1.5em;
+    background-color: @main-color;
     color: #fff;
     vertical-align: top;
     text-align: right;
-    font-size: 1.9em;
+    font-size: 2.5em;
+    border-radius: 5px;
+    @media (min-width : @site-width-small){
+      opacity: 0.8;
+      font-size: 1.9em;
+    }
+  }
+  a:hover{
+    opacity: 1;
+  }
+  a#random-bot-link{
   }
 }
 

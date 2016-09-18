@@ -1,13 +1,12 @@
 /*
 Title: Articles
 Description: Assorted selection of articles relevant to bot makers and links to relevant blogs.
+Thumbnail: /content/images/illustrations/opening-large.png
 Author: Stefan Bohacek
 Show donation link: yes
 Weight: 4
 */
 
-
-![A woman reading a WIRED magazine about Twitterbots](/content/images/illustrations/opening-768.jpg){.float-right}
 
 For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg).
 

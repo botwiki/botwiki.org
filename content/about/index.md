@@ -6,7 +6,9 @@ Weight: 6
 */
 
 <div class="note">
-  To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>.
+  <p>
+    To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>.
+  </p>
 </div>
 
 Hi!
@@ -30,8 +32,6 @@ Everyone is welcome to [contribute](https://github.com/botwiki/botwiki.org) to [
 Feel free to also [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi at [stefan@botwiki.org](mailto:stefan@botwiki.org).
 
 Thanks -- and have an awesome day 🎸🌟!
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love that <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> is a thing</p>&mdash; Beans (@beans_py) <a href="https://twitter.com/beans_py/status/723228065061584896">April 21, 2016</a></blockquote>
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></div>
 

@@ -1,11 +1,10 @@
 /*
 Title: Resources
 Description: Various libraries, frameworks, data dumps and other content for bot creators.
+Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
 Show donation link: yes
 Weight: 3
 */
-
-![Not sure how this is related to "resources"](/content/images/illustrations/advice-hostess.png){.float-right}
 
 Below is a list of categories with useful resources, such as **libraries**, **frameworks**, **datasets**, **APIs** and **free images and other media**.
 

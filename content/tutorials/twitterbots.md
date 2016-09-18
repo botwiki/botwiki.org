@@ -1,11 +1,16 @@
 /*
 Title: Tutorials for Twitter Bots
 Description: Learn how to make your own Twitter bot!
+Thumbnail: /content/images/illustrations/brambling-greenfinch-large.png
 Show donation link: yes
 Nav: hidden
 */
 
-<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
+<div class="note">
+  <p>
+    Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  </p>
+</div>
 
 > Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
 

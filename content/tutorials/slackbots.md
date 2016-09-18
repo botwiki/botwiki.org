@@ -6,7 +6,11 @@ Nav: hidden
 */
 
 
-<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
+<div class="note">
+  <p>
+    Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  </p>
+</div>
 
 <p class="screenshot float-right">
   <a href="/bots/slackbots/slack-tableflip">

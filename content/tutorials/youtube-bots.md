@@ -5,7 +5,18 @@ Nav: hidden
 Show donation link: yes
 */
 
-<div class="note">Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
+<div class="note">
+  <p>
+    Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  </p>
+</div>
+
+<div class="note">
+  <p>
+    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
+  </p>
+</div>
+
 
 <p class="screenshot float-right">
   <a href="/bots/youtube-bots/treasurecolumn">
@@ -13,10 +24,6 @@ Show donation link: yes
   </a>
 </p>
 
-
-<div class="note">
-  This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
-</div>
 
 - [Google Developers page for the YouTube API](https://developers.google.com/youtube/)
 - [YouTube for Developers - API Resources](https://www.youtube.com/yt/dev/api-resources.html)

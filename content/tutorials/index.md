@@ -1,24 +1,34 @@
 /*
 Title: Tutorials
 Description: Learn how to make your own bot!
+Thumbnail: /content/images/illustrations/man-reading-mail.png
 Tags: machine learning,nlp,language,processing,opencv,deploy,deploy,deployment,digitalocean,heroku
 Show donation link: yes
 Weight: 2
 */
 
-<div class="note">Before you start making bots, consider reading <a href="#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.</div>
+<div class="note">
+  <p>Before you start making bots, consider reading <a href="#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  </p>
+</div>
 
-[![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
-There is a variety of tools that make creating bots very easy. From [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) (specifically for Twitter bots) and [Dexter](https://rundexter.com/), which is still in beta, but aims to make creating bots as easy as [dragging and dropping](https://twitter.com/fourtonfish/status/664130256266264576), to browser-based development environments, like [Cloud9](https://c9.io/). You can also find many [opensourced bots](/tag/opensource) that you can reuse and build on top of.
+There is a variety of tools that make creating bots very easy. From [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Dexter](https://rundexter.com/), to browser-based development environments, like [Cloud9](https://c9.io/). You can also find many [open-sourced bots](/tag/opensource) that you can reuse and build on top of.
 
-Botmaking has never been easier!
+**Botmaking has never been easier!**
+
+
+- [Network-specific tutorials](#network-specific-tutorials)
+- [Bot hosting](#bot-hosting)
+- [Learn to work with web APIs](#web-apis)
+- [Chat/conversational interfaces](#chat)
+- [Machine learning, NLP, AI](#machine-learning-nlp-ai)
+- [Bot ethics](#bot-ethics)
+- [Other](#other)
 
 If you have any questions, try asking in our [community for botmakers and bot enthusiasts](https://botmakers.org/). 
 
 ### [¶](#network-specific-tutorials){.pilcrow} Network-specific tutorials {#network-specific-tutorials}
-
-![Man, presumably reading a Twitterbot tutorial](/content/images/illustrations/man-reading-mail-768.jpg){.float-right}
 
 - [Tutorials for Twitter bots](/tutorials/twitterbots)
 - [Tutorials for Slack bots](/tutorials/slackbots)
@@ -101,7 +111,9 @@ For more general tutorials on hosting bots, see articles below. (Some [network s
 ### [¶](#bot-ethics){.pilcrow} Bot ethics {#bot-ethics}
 
 <div class="note">
-  Be sure to sign up at <a href="https://botmakers.org/">botmakers.org</a> and join the conversation on <a href="https://botmakers.slack.com/messages/ethics/details/">bot ethics</a>.
+  <p>
+    Be sure to sign up at <a href="https://botmakers.org/">botmakers.org</a> and join the conversation on <a href="https://botmakers.slack.com/messages/ethics/details/">bot ethics</a>.
+  </p>
 </div>
 
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
