@@ -1,6 +1,7 @@
 /*
 Title: Resources for Facebook Messenger bots
 Description: Libraries and other resources specifically for Facebook Messenger bots.
+Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
 Show donation link: yes
 Nav: hidden
 */

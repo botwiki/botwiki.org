@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Telegram Bots
 Description: Learn how to make a Telegram bot!
+Thumbnail: /content/images/illustrations/man-reading-mail.png
 Tags: tutorials,telegram
 Show donation link: yes
 Nav: hidden

@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Facebook Messenger Bots
 Description: Learn how to make a bot for Facebook's Messenger!
+Thumbnail: /content/images/illustrations/man-reading-mail.png
 Tags: tutorials,facebook,messenger
 Show donation link: yes
 Nav: hidden

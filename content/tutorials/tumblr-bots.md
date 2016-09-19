@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Tumblr Bots
 Description: Learn how to make a bot for Tumblr!
+Thumbnail: /content/images/illustrations/man-reading-mail.png
 Tags: tutorials,tumblr
 Show donation link: yes
 Nav: hidden
