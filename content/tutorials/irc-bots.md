@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for IRC Bots
 Description: Learn how to make IRC bots!
+Thumbnail: /content/images/illustrations/clockwork2-large.jpg
 Tags: tutorials,irc
 Nav: hidden
 Show donation link: yes

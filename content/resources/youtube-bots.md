@@ -1,11 +1,10 @@
 /*
 Title: Resources for YouTube Bots
 Description: Useful resources for making YouTube bots!
+Thumbnail: /content/images/illustrations/battle-nile-large.jpg
 Show donation link: yes
 Nav: hidden
 */
-
-![This is EXACTLY what YouTube is like.](/content/images/illustrations/battle-nile.jpg){.float-right}
 
 <div class="note">
   <p>

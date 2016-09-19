@@ -1,6 +1,7 @@
 /*
 Title: Resources for Reddit Bots
 Description: Useful resources for Reddit bot makers!
+Thumbnail: /content/images/illustrations/taste-large.jpg
 Show donation link: yes
 Nav: hidden
 */
@@ -12,9 +13,7 @@ Nav: hidden
   </p>
 </div>
 
-<br/>
-
-![Hrmpf!](/content/images/illustrations/taste.jpg){.float-right}
+### [¶](#general){.pilcrow} General {#general}
 
 - [/r/redditdev](https://www.reddit.com/r/redditdev) -- a subreddit for Reddit API developers
 - [PRAW: The Python Reddit Api Wrapper](https://praw.readthedocs.org/en/stable/index.html)

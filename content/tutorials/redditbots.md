@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Reddit Bots
 Description: Learn how to make a bot for Reddit!
+Thumbnail: /content/images/illustrations/taste-large.jpg
 Tags: tutorials,reddit
 Show donation link: yes
 Nav: hidden
@@ -23,6 +24,8 @@ Nav: hidden
     <img src="/content/bots/redditbots/images/NobodyDoesThis.png">
   </a>
 </p>
+
+### [¶](#general){.pilcrow} General {#general}
 
 - [Automatically-generated documentation for the reddit API](https://www.reddit.com/dev/api)
 - How to Make a Reddit Bot -- a series of video tutorials

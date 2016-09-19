@@ -1,13 +1,13 @@
 /*
 Title: Public datasets
 Description: Free data you can use in your project.
+Thumbnail: /content/images/illustrations/hydraulics-diagrams-large.jpg
 Show donation link: yes
 Date: July 23, 2015
 
 Nav: hidden
 */
 
-![Hydraulics diagrams](/content/images/illustrations/hydraulics-diagrams.jpg){.float-right}
 
 ### [¶](#datasets-general){.pilcrow} General {#datasets-general}
 

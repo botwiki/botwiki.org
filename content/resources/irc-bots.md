@@ -1,11 +1,10 @@
 /*
 Title: Resources for IRC bots
 Description: Libraries and other resources specifically for IRC bots.
+Thumbnail: /content/images/illustrations/clockwork2-large.jpg
 Show donation link: yes
 Nav: hidden
 */
-
-![Tweet, tweet](/content/images/illustrations/clockwork2.jpg){.float-right}
 
 <div class="note">
   <p>

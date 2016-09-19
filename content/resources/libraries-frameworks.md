@@ -1,6 +1,7 @@
 /*
 Title: Libraries and frameworks
 Description: Useful libraries and frameworks in various languages
+Thumbnail: /content/images/illustrations/riehle-testing-machine-large.jpg
 Show donation link: yes
 Date: July 23, 2015
 Tags: web,scraping,scraper,language,rhyme,rhyming,nlp,machine learning,nodejs,python,block,offensive
@@ -13,10 +14,9 @@ For libraries and frameworks for specific networks check out their corresponding
 - [Slack bots](/resources/slackbots)
 - [IRC bots](/resources/irc-bots)
 
-![Another "machine"](/content/images/illustrations/riehle-testing-machine.jpg){.float-right}
-
 ### [¶](#bot-frameworks){.pilcrow} General bot frameworks  {#bot-frameworks}
 
+- [Botkit](https://github.com/howdyai/botkit)
 - [Microsoft Bot Framework](https://dev.botframework.com/)
 
 

@@ -1,11 +1,10 @@
 /*
 Title: Resources for Slack bots
 Description: Libraries and other resources specifically for Slack bots.
+Thumbnail: /content/images/illustrations/marc-press-large.jpg
 Show donation link: yes
 Nav: hidden
 */
-
-![Hard at work, no slacking off](/content/images/illustrations/marc-press.jpg){.float-right}
 
 <div class="note">
   <p>

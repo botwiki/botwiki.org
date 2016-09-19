@@ -1,11 +1,10 @@
 /*
 Title: Resources for Twitter bots
 Description: Libraries and other resources specifically for Twitter bots.
+Thumbnail: /content/images/illustrations/brambling-greenfinch-large.png
 Show donation link: yes
 Nav: hidden
 */
-
-![Tweet, tweet](/content/images/illustrations/brambling-greenfinch.jpg){.float-right}
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 

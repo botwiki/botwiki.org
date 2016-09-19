@@ -1,13 +1,12 @@
 /*
-Title: APIs
+Title: Web APIs
 Description: If you know what APIs are, you're in the right place.
+Thumbnail: /content/images/illustrations/steam-engine2-large.jpg
 Date: July 23, 2015
 Show donation link: yes
 
 Nav: hidden
 */
-
-![Steam engine](/content/images/illustrations/steam-engine2.jpg){.float-right}
 
 ### [¶](#language-text-speech-general-knowledge){.pilcrow} Language, text, speech, general knowledge {#language-text-speech-general-knowledge}
 - [Google Knowledge Graph Search API](https://developers.google.com/knowledge-graph/) -- find entities in the [Google Knowledge Graph](https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html)

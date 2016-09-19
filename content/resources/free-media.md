@@ -1,13 +1,14 @@
 /*
-Title: Free media
+Title: Images, audio, video, and other free media
 Description: Tons of free images, sounds and videos to fuel your bot.
+Thumbnail: /content/images/illustrations/studio-work-large.png
 Date: July 23, 2015
 Show donation link: yes
 
 Nav: hidden
 */
 
-![ART!](/content/images/illustrations/studio-work.png){.float-right}
+
 
 ### [¶](#free-images){.pilcrow} Free images {#free-images}
 

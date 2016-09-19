@@ -12,6 +12,8 @@ Nav: hidden
   </p>
 </div>
 
+### [¶](#general){.pilcrow} General {#general}
+
 - [Kik Bot Dashboard](https://dev.kik.com/#/home)
 
 

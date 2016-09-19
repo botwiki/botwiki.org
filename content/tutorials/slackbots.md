@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for Slack Bots
 Description: Learn how to make a Slack bot!
+Thumbnail: /content/images/illustrations/marc-press-large.jpg
 Tags: tutorials,slack
 Show donation link: yes
 Nav: hidden
