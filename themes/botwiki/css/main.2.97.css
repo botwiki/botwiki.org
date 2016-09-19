@@ -1017,7 +1017,7 @@ img.logo-digitalocean {
 }
 div.bottom-page-links {
   position: fixed;
-  bottom: 0;
+  bottom: 10px;
   right: 10px;
 }
 div.bottom-page-links a {
@@ -1042,6 +1042,9 @@ div.bottom-page-links a {
 }
 div.bottom-page-links a:hover {
   opacity: 1;
+}
+div.bottom-page-links a#back-to-top {
+  padding: 12px;
 }
 a#search-help {
   position: absolute;
