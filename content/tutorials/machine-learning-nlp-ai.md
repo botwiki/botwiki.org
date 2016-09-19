@@ -28,5 +28,13 @@ Nav: hidden
 - [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
 
 
+### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
+
+- [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
+
+### [¶](#wavenet){.pilcrow} [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) {#wavenet}
+
+- [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
+- [basveeling/wavenet/](https://github.com/basveeling/wavenet/)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!

@@ -24,12 +24,15 @@ Nav: hidden
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.k9tze7zbb)
 - [Principles of bot design](https://blog.intercom.io/principles-bot-design/)
 
+***See also:** [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
+
 ### [¶](#chat-python){.pilcrow} With Python {#chat-python}
 
 - [Chatbot Fundamentals: An interactive guide to writing bots in Python](https://apps.worldwritable.com/tutorials/chatbot/)
 
+### [¶](#chat-ibm-watson){.pilcrow} With [IBM Watson](http://www.ibm.com/watson/) {#chat-ibm-watson}
 
-***See also:** [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
+- [Conversation Patterns with IBM Watson](https://medium.com/@snrubnomis/conversation-patterns-with-ibm-watson-6c4be05e2fe5#.upxkepwyp)
 
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!

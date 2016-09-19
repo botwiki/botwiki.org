@@ -23,25 +23,32 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
 
-
-
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
+
 - [Create A Weather Bot For Telegram Using The Weather Unlocked API](http://www.3scale.net/2016/02/create-a-weather-bot-for-telegram/)
 - [Step by Step Guide to Start a Telegram Bot](https://medium.com/@tcguy/step-by-step-guide-to-start-a-telegram-bot-34cd05aca71b#.ra2k4gz2o) (with deployment to Heroku)
 
 #### [¶](#tutorials-php){.pilcrow} PHP {#tutorials-php}
+
 - [Telegram Bot Tutorials](https://www.youtube.com/playlist?list=PLZI3P0VZBj6Hilx7Z-m1jMub2wZwxP5dO) -- a YouTube playlist
 - [Managing a Telegram bot: MyPokerBot example](https://chatbotsmagazine.com/managing-a-telegram-bot-mypokerbot-example-d864f93a03bc#.n1abc6b6b)
 - [Telegram Bot Tutorial](http://robot.onscreengroup.com/telegram-bot-tutorial/): Learn how to create a basic Telegram bot with PHP
 - [Writing Telegram Bot with PHP using Guzzle](http://www.maastaar.net/php/telegram%20bot/2016/01/16/writing-telegram-bot-with-php-using-guzzle/)
 
 
+#### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
+
+- [Implementing a bot-based treasure hunt game](https://medium.com/convcomp2016/implementing-a-bot-based-treasure-hunt-game-d20199c428c4#.9toe8c2l7)
+
+
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
+
 - [Quickly Create a Telegram Bot in Ruby](http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/)
 - [Telegram bot. Rails way.](https://medium.com/@maxmelentiev/telegram-bot-rails-way-7e050d5dddbd#.csuupkwdz)
 - [Full guide on creating stateful Telegram bot](https://medium.com/@MaximAbramchuk/full-guide-on-creating-statefull-telegram-bot-523def0a7930#.rifj0ckac)
 
 #### [¶](#tutorials-go){.pilcrow} Go {#tutorials-go}
+
 - [Creating a Bot using the Telegram Bot API](https://medium.com/@IndianGuru/creating-a-bot-using-the-telegram-bot-api-5d3caed3266d#.hiahdf22j)
 
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
