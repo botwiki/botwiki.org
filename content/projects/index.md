@@ -1,11 +1,20 @@
 /*
-Title: Active Projects
+Title: Our Projects
 Show donation link: yes
 Description: See what we are working on.
 */
 
 
-Here's a list of currently active projects:
+Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us on Twitter](https://twitter.com/botwikidotorg) or [via email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)!
+
+- [Botwiki](#botwiki)
+- [Botmakers](#botmakers)
+- [Bot! zine](#bot-zine)
+- [Monthly Bot Challenge](#monthly-bot-challenge)
+- [Bot Workshops](#bot-workshops)
+- [Sidekick](#sidekick)
+- [Detective](#detective)
+
 
 ### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
 
@@ -14,13 +23,6 @@ Here's a list of currently active projects:
 [Botwiki](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
 
 If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https://github.com/botwiki/botwiki.org). We also have a neat [submit form](https://botwiki.org/submit-your-bot) that lets you suggests bots that you think we should include on the site.
-
-### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
-
-![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png)
-
-An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
-
 
 ### [¶](#botmakers){.pilcrow} Botmakers {#botmakers}
 
@@ -31,13 +33,20 @@ An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challe
 We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to our bots as well!
 
 
-### [¶](#botzine){.pilcrow} Bot! zine {#botzine}
+### [¶](#bot-zine){.pilcrow} Bot! zine {#bot-zine}
 
 [![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
 
 [Bot! zine](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [Revue](https://www.getrevue.co/), and maintained by [Veronica](/about/team#veronica).
 
 It goes out every Monday and features newest bots, libraries, news, and interesting articles and other resources.
+
+
+### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
+
+![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png)
+
+An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
 
 ### [¶](#bot-workshops){.pilcrow} Bot Workshops {#bot-workshops}
