@@ -387,7 +387,7 @@ Great, so now you have your very own tweeting bot. The final step is moving the 
 
 While there are many free options for hosting free websites, these are mostly for simple HTML/CSS/JavaScript-based projects, not so much for back-end code.
 
-For a good overview check out [this list of available hosting solutions](https://botwiki.org/tutorials/#bot-hosting), but keep in mind that almost all of them are paid, starting at $5-$7 a month. And the free options are usually quite limited (for example, Heroku only allows your app to run for a few hours every day if you're on the free plan).
+For a good overview check out [this list of available hosting solutions](https://botwiki.org/tutorials/bot-hosting), but keep in mind that almost all of them are paid, starting at $5-$7 a month. And the free options are usually quite limited (for example, Heroku only allows your app to run for a few hours every day if you're on the free plan).
 
 For this tutorial, I am going to use OpenShift, which does offer a limited free plan that shuts down your app if it doesn't receive any traffic for 24 hours, but you can lift this limit by adding your credit card information to your account and upgrade to the still free Bronze Plan.
 

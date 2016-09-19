@@ -30,7 +30,7 @@ See also
 - [r/botsrights](https://www.reddit.com/r/botsrights)
 - [BotFunded](https://botfunded.com/)
 - [what the bot?!](http://whatthebot.ai/)
-- [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter
+- [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter, by [@NoraReed](https://twitter.com/NoraReed)
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
