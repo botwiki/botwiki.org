@@ -42,6 +42,15 @@ We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to ou
 It goes out every Monday and features newest bots, libraries, news, and interesting articles and other resources.
 
 
+### [¶](#botmaker-badges){.pilcrow} Botmaker Badges {#botmaker-badges}
+
+[![Botmaker Badges](/content/botmaker-badges/images/badges-banner.png)](/botmaker-badges/)
+
+Using [Mozilla's Open Badges](https://en.wikipedia.org/wiki/Mozilla_Open_Badges) and [Badgr](http://info.badgr.io/), we are issuing Botmaker Badges to people who create bots and resources for botmakers!
+
+Learn more [here](/botmaker-badges/).
+
+
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
 ![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png)
