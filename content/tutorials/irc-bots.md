@@ -1,6 +1,7 @@
 /*
 Title: Tutorials for IRC Bots
 Description: Learn how to make IRC bots!
+Tags: tutorials,irc
 Nav: hidden
 Show donation link: yes
 */
@@ -8,7 +9,7 @@ Show donation link: yes
 
 <div class="note">
   <p>
-    Before you start making bots, consider reading <a href="/tutorials/#bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+    Before you start making bots, consider reading <a href="/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
 

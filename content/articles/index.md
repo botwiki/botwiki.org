@@ -30,7 +30,7 @@ Enjoy!
 See also
 
 - [r/botsrights](https://www.reddit.com/r/botsrights)
-- [BotFunded/](https://botfunded.com/)
+- [BotFunded](https://botfunded.com/)
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
@@ -38,7 +38,7 @@ See also
 
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 
-***See also: [Bot ethics](/tutorials/#bot-ethics)***
+***See also: [Bot ethics](/bot-ethics)***
 
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (*motherboard.vice.com*)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (*harrygiles.org*)
@@ -55,6 +55,7 @@ See also
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [Why Facebook and Microsoft say chatbots are the talk of the town](https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley) (theguardian.com)
 - [How Driverless Cars May Interact With People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html) (nytimes.com)
 - [This AI Sees Things in Art That Humans Don't](http://motherboard.vice.com/read/this-ai-sees-things-in-art-that-humans-dont) (motherboard.vice.com)
 - [Growing up in Generation AI](https://techcrunch.com/2016/09/03/growing-up-in-generation-ai/) (techcrunch.com)
@@ -63,7 +64,7 @@ See also
 - [Four Months Into 'Chatbot Revolution,' Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo?utm_term=.qdPWaaZvl#.ospGWWOVd) (buzzfeed.com)
 - [Why Facebook Messenger doesn’t have a bot store](http://venturebeat.com/2016/09/01/why-facebook-messenger-doesnt-have-a-bot-store/) (venturebeat.com)
 - [The Return of the Chatbots: Experiment, Engage, and Be Genuine](http://www.huffingtonpost.com/advertising-week/the-return-of-the-chatbot_b_11679482.html) (huffingtonpost.com)
-- [The Concept of 'Cat Face'](http://www.lrb.co.uk/v38/n16/paul-taylor/the-concept-of-cat-face)
+- [The Concept of 'Cat Face'](http://www.lrb.co.uk/v38/n16/paul-taylor/the-concept-of-cat-face) (lrb.co.uk)
 - [Bots Landscape (August 2016, PDF)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes)
 - [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
 - [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
