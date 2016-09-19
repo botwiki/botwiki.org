@@ -10,6 +10,7 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 - [Botwiki](#botwiki)
 - [Botmakers](#botmakers)
 - [Bot! zine](#bot-zine)
+- [Botmaker Badges](#botmaker-badges)
 - [Monthly Bot Challenge](#monthly-bot-challenge)
 - [Bot Workshops](#bot-workshops)
 - [Sidekick](#sidekick)
