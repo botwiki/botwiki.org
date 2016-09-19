@@ -9,7 +9,7 @@ Weight: 5
 Official Botwiki events:
 
 - [Bot Workshops](/bot-workshops)
-- [Monthly Bot Challenge](/monthly-bot-challenge). 
+- [Monthly Bot Challenge](/monthly-bot-challenge)
 
 Events either dedicated to botmaking or those that include relevant sessions:
 
