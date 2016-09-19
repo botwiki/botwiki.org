@@ -8,9 +8,7 @@ Weight: 4
 */
 
 
-For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg).
-
-Below is a [selection of blogs](#blogs), [essays](#general-essays), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
+For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg). Below is a [selection of blogs](#blogs), [essays](#general-essays), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
 
 Enjoy!
 
