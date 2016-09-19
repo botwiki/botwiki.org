@@ -2,7 +2,7 @@
 Title: Other and unsorted tutorials
 Description: ¯\_(ツ)_/¯
 Thumbnail: /content/images/illustrations/man-reading-mail.png
-Tags: rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio
+Tags: rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio,markov,markov chains
 Show donation link: yes
 Nav: hidden
 */
@@ -24,5 +24,6 @@ Nav: hidden
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/)
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
+- [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!

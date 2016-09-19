@@ -12,8 +12,17 @@ Nav: hidden
 ### [¶](#datasets-general){.pilcrow} General {#datasets-general}
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
-- [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
-- [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
+- [fivethirtyeight/data](https://github.com/fivethirtyeight/data) -- data and code behind the stories and interactives at [FiveThirtyEight](http://fivethirtyeight.com/)
+- [BuzzFeedNews](https://github.com/BuzzFeedNews)
+- [Socrata OpenData](https://opendata.socrata.com/)
+- [AWS Public Datasets](https://aws.amazon.com/datasets/?_encoding=UTF8&jiveRedirect=1)
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+- [Wikipedia Datasets](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
+- [Quandl](https://www.quandl.com/browse) -- economic and financial data
+- [The World Bank](http://data.worldbank.org/)
+- [Academic Torrents](http://academictorrents.com/browse.php?cat=6) -- datasets from scientific papers
 - [Common Crawl](http://commoncrawl.org/) -- an open repository of web crawl data
 - [Enigma](http://enigma.io/) -- "Explore the world's public data"
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
@@ -21,11 +30,13 @@ Nav: hidden
 - [Pew Research Center Datasets](http://www.pewinternet.org/datasets/)
 - [Yahoo Webscope](http://webscope.sandbox.yahoo.com/): reference library of interesting and scientifically useful datasets for non-commercial use by academics and other scientists
 - [Yahoo! Datasets](http://webscope.sandbox.yahoo.com/#datasets)
+- [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
+- [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
 
-See also:
+You can also retrieve various data [via web APIs](/resources/apis/).
 
-- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+**Hat tip to [dataquest.io](https://www.dataquest.io/blog/free-datasets-for-projects/)!**
 
 ### [¶](#datasets-language){.pilcrow} News, reviews, forum data, metadata {#datasets-language}
 

@@ -44,9 +44,14 @@ Nav: hidden
 ### [¶](#location-and-weather){.pilcrow} Location and weather {#location-and-weather}
 - [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API) -- editing API for fetching and saving raw geodata from/to the [OpenStreetMap](http://www.openstreetmap.org/) database
 - [OpenWeatherMap API](http://openweathermap.org/api) -- current and forecast weather or historical data
+- [Wunderground](https://www.wunderground.com/weather/api/) -- API for weather forecasts 
 - [Forecast.io API](https://developer.forecast.io/) -- weather API used by [The Dark Sky](http://darkskyapp.com/) app and [Forecast.io](https://forecast.io/)
 
+
 ### [¶](#other){.pilcrow} Other {#other}
+- [Twitter](https://dev.twitter.com/streaming/overview), see also [Tutorials for Twitter Bots](/tutorials/twitterbots/)
+- [Github](https://developer.github.com/)
+- [Quantopian](https://www.quantopian.com/data): "Quantopian provides a large set of financial data for free. The free data includes corporate fundamental data and minutely trade price and volume data from 2002 to present day for all major US exchanges."
 - [Catalogue of Life](http://www.catalogueoflife.org/) -- online database of the world's known species of animals, plants, fungi and micro-organisms, available [as an API](http://www.catalogueoflife.org/content/web-services) and [downloadable data set](http://www.catalogueoflife.org/content/annual-checklist-archive)
 - [Untappd API](https://untappd.com/api/docs) -- "Untappd is a social networking service that allows its users to check into beers as they drink them, and share these check-ins and their locations with their friends." [Wikipedia](https://en.wikipedia.org/wiki/Untappd)
 - [BreweryDB API](http://www.brewerydb.com/developers) -- "BreweryDB is your database of breweries, beers, beer events and guilds"

@@ -31,6 +31,8 @@ See also
 
 - [r/botsrights](https://www.reddit.com/r/botsrights)
 - [BotFunded](https://botfunded.com/)
+- [what the bot?!](http://whatthebot.ai/)
+- [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
@@ -49,6 +51,7 @@ See also
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via *medium.com*)
+- [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}

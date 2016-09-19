@@ -34,6 +34,7 @@ Nav: hidden
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
 - [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](http://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners) (motherboard.vice.com)
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
+- [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) (Amir Shevat via techcrunch.com)
 
 
 ***Also worth browsing:***

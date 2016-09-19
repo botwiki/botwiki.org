@@ -41,6 +41,9 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 - [Telegram bot. Rails way.](https://medium.com/@maxmelentiev/telegram-bot-rails-way-7e050d5dddbd#.csuupkwdz)
 - [Full guide on creating stateful Telegram bot](https://medium.com/@MaximAbramchuk/full-guide-on-creating-statefull-telegram-bot-523def0a7930#.rifj0ckac)
 
+#### [¶](#tutorials-go){.pilcrow} Go {#tutorials-go}
+- [Creating a Bot using the Telegram Bot API](https://medium.com/@IndianGuru/creating-a-bot-using-the-telegram-bot-api-5d3caed3266d#.hiahdf22j)
+
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 
 - [Telegram Bot Using AWS API Gateway and AWS Lambda](https://lesterchan.net/blog/2016/03/11/telegram-bot-using-aws-api-gateway-and-aws-lambda/)
