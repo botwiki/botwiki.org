@@ -213,6 +213,17 @@ h6 {
   font-family: 'Fjalla One', serif;
   color: #38313a;
   line-height: 1.2em;
+  padding: 0.5rem;
+}
+@media (min-width: 1030px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding: 0.5rem 2rem;
+  }
 }
 a.pilcrow,
 a.pilcrow:visited {
@@ -238,12 +249,6 @@ h1 {
 h2 {
   font-size: 2.5em;
   padding-top: 3rem;
-  margin: 0 10px;
-}
-@media (min-width: 1030px) {
-  h2 {
-    margin: 0 3rem;
-  }
 }
 h3 {
   font-size: 2em;
@@ -688,7 +693,7 @@ p.screenshot {
 @media (min-width: 1030px) {
   div#main p,
   p.screenshot {
-    padding: 0.5rem 3rem;
+    padding: 0.5rem 2rem;
   }
 }
 @media (min-width: 800px) {
@@ -771,7 +776,7 @@ div.search-item {
   padding: 0;
 }
 .note p {
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 2rem;
 }
 .note-alternative {
   font-style: italic;

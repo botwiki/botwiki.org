@@ -57,10 +57,10 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 - [hugovk/randimgbot](https://github.com/hugovk/randimgbot) -- an example of a bot that picks a random image and posts it, used by [@FlagFacts](https://twitter.com/FlagFacts)
 - [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork) -- segmentation-based image filter ("patchwork" effect)
 
-
-
-
 ### [¶](#other){.pilcrow} Tools, other {#other}
+
+- [twitter/twitter-text](https://github.com/twitter/twitter-text/) --  a collection of libraries and conformance tests to standardize parsing of tweet text
+
 
 #### [¶](#other-nodejs){.pilcrow} node.js {#other-nodejs}
 

@@ -154,6 +154,10 @@ h1, h2, h3, h4, h5, h6{
   font-family: 'Fjalla One', serif;  
   color: @main-color;
   line-height: 1.2em;
+  padding: 0.5rem;
+  @media (min-width : @site-width-small){
+    padding: 0.5rem 2rem;
+  }
 }
 
 a.pilcrow,
@@ -181,10 +185,6 @@ h1{
 h2{
   font-size: 2.5em;
   padding-top: 3rem;
-  margin: 0 10px;
-  @media (min-width : @site-width-small){
-    margin: 0 3rem;
-  }
 }
 
 h3{
@@ -653,7 +653,7 @@ p.screenshot{
   margin: 1em 0;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
-    padding: 0.5rem 3rem;
+    padding: 0.5rem 2rem;
   }
 }
 
@@ -755,7 +755,7 @@ div.search-item{
   margin: 0;
   padding: 0;
   p{
-    padding: 0.5rem 3rem
+    padding: 0.5rem 2rem
   }
 }
 

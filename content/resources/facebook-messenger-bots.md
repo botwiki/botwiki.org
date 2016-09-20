@@ -35,5 +35,6 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 - [paked/messenger](https://github.com/paked/messenger) (Go language)
 
 
+Also check out the dedicated [Bots group](https://www.facebook.com/groups/chatbot/) on Facebook. 
 
 [Back to all resources.](/resources)
