@@ -258,12 +258,12 @@ h4 {
 }
 ol,
 ul {
-  margin: 0 0 0 2em;
+  margin: 1em 3rem;
 }
 @media (min-width: 1030px) {
   ol,
   ul {
-    margin: 0.2em 3rem;
+    margin: 1em 3rem;
     padding-left: 2em;
   }
 }
@@ -353,7 +353,7 @@ footer ul.footer-list {
   display: inline-block;
   vertical-align: top;
   width: 25%;
-  min-height: 260px;
+  min-height: 265px;
   margin: 0;
   padding: 1em;
   float: left;
@@ -361,6 +361,7 @@ footer ul.footer-list {
 @media (max-width: 900px) {
   footer ul.footer-list {
     width: 50%;
+    padding: 1em 0;
   }
 }
 @media (max-width: 700px) {
@@ -489,12 +490,12 @@ div.all-tags a {
 }
 header,
 footer {
-  max-width: 1262px;
+  max-width: 1260px;
   margin: 0 auto;
 }
 header .inner,
 footer .inner {
-  max-width: 1262px;
+  max-width: 1260px;
 }
 @media (min-width: 1030px) {
   li.active a {
@@ -600,7 +601,7 @@ form#search-form input {
 }
 div#content-wrapper {
   margin: 0 auto;
-  max-width: 1262px;
+  max-width: 1260px;
 }
 @media (max-width: 1030px) {
   div#content-wrapper {
@@ -938,7 +939,7 @@ img.logo-digitalocean {
     margin-left: 30px;
   }
   div.callout {
-    max-width: 1262px;
+    max-width: 1260px;
     margin: 0 auto;
     font-weight: bold;
     background-color: #050007;
@@ -994,7 +995,7 @@ img.logo-digitalocean {
     opacity: 1;
   }
 }
-@media (max-width: 1030px) and (min-width: 1262px) {
+@media (max-width: 1030px) and (min-width: 1260px) {
   #header nav li {
     padding: 10px 0;
   }

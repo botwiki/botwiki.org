@@ -36,8 +36,6 @@ Can't wait to see you there!
 - [Twitter API](#twitter-api)
 - [Notes](#unsorted-notes)
 
-<br/>
-
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
 
