@@ -59,7 +59,9 @@ aside, nav, article, figure{
 }
 
 article{
+/*
   overflow: auto;
+*/
 }
 
 /* hand cursor on clickable input elements */
@@ -127,7 +129,7 @@ body{
   @media (max-width: @site-width-small){
     padding-top: 2em;
   }
-  margin: 0 0 80px !important;
+  margin: 0 0 80px;
   background: @background-color;
   -webkit-font-smoothing: antialiased;
 }
@@ -152,10 +154,6 @@ h1, h2, h3, h4, h5, h6{
   font-family: 'Fjalla One', serif;  
   color: @main-color;
   line-height: 1.2em;
-  margin: 0.8em 5px;
-  @media (min-width : @site-width-small){
-    margin: 1em 3rem;
-  }
 }
 
 a.pilcrow,
@@ -182,8 +180,10 @@ h1{
 
 h2{
   font-size: 2.5em;
+  padding-top: 3rem;
+  margin: 0 10px;
   @media (min-width : @site-width-small){
-    margin: 3rem;
+    margin: 0 3rem;
   }
 }
 
@@ -401,8 +401,7 @@ div.all-tags a{
   color: #5D9CEC;
   background-color: @main-color;
   box-shadow: 0 4px 40px -15px #333;
-  border-left: 1px solid #efefef;
-  border-right: 1px solid #efefef;
+  height: 4em;
   @media (max-width: @site-width-small){
     padding: 10px;
     font-size: 2em;
@@ -566,8 +565,6 @@ form#search-form input{
 div#content-wrapper{
   margin: 0 auto;
   max-width: @site-width;
-  border-left: 1px solid #efefef;
-  border-right: 1px solid #efefef;
   @media (max-width: @site-width-small){
     margin-top: 2em;    
   }
@@ -782,7 +779,7 @@ div.donations-top-fix{
 }
 
 body.front-page .note.donations{
-  margin: 3em 0 !important;
+  margin: 3em 0;
 }
 
 span.normal-text{
