@@ -175,7 +175,7 @@ body {
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
-  margin-bottom: 80px;
+  margin: 0 0 80px !important;
   background: #f7f7f7;
   -webkit-font-smoothing: antialiased;
 }
@@ -800,7 +800,7 @@ div.search-item {
   }
 }
 body.front-page .note.donations {
-  margin: 3em 0;
+  margin: 3em 0 !important;
 }
 span.normal-text {
   font-style: normal;

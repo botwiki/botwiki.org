@@ -27,7 +27,7 @@ Show donation link: yes
 
 
 
-Learn how to make IRC bots:
+### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [Build IRC Bots with Node.js](http://davidwalsh.name/nodejs-irc)
 - [Building a markov-chain IRC bot with python and Redis](https://charlesleifer.com/blog/building-markov-chain-irc-bot-python-and-redis/)
