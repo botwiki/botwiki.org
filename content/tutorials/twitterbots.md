@@ -17,25 +17,26 @@ Nav: hidden
 </div>
 
 > Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
-
--- [Wikipedia](https://en.wikipedia.org/wiki/Twitter)
+>
+> -- [Wikipedia](https://en.wikipedia.org/wiki/Twitter)
 
 Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
-And you're more then welcome to join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
+**And you're more then welcome to join us in the public [Botmakers Slack group](https://botmakers.org/) to share what you're working on, ask for advice, or just chat with fellow artists, journalists, educators, tinkerers, and bot enthusiasts.**
 
-#### [¶](#note-phone-number){.pilcrow} Note on needing a phone number {#note-phone-number}
+(Here's our [Code of Conduct](https://botwiki.org/coc/).)
 
-One tricky part of making a bot for Twitter is that if you want your bot to be able to actually post on Twitter, rather than just read from it, you will need to add a phone number to your account. 
+Can't wait to see you there!
 
-There is a few ways to solve this:
+### [¶](#page-content){.pilcrow} Page content {#page-content}
 
-- see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account
-- you can remove the phone number from your account and associate it with a new one
-- you can sign up for [Google Voice](https://www.google.com/voice) ([Skype](http://www.skype.com/) number won't work, because Skype doesn't let you receive text messages, which you will need to verify your phone number)
+- [Beginner tutorials](#beginner-tutorials)
+- [Cheap Bots Done Quick](#cheap-bots-done-quick)
+- [Intermediate tutorials](#intermediate-tutorials)
+- [Twitter API](#twitter-api)
+- [Notes](#unsorted-notes)
 
-And once you have one account verified, you can also host all your bots under the same account.
-
+<br/>
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
@@ -113,6 +114,19 @@ See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitte
 
 - ["These emojis will work in your Twitter name and bio"](https://www.emojibase.com/emojis-on-twitter)
 - [Friendly Twitter Bots and Write Access](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/)
+
+#### [¶](#note-phone-number){.pilcrow} Note on needing a phone number {#note-phone-number}
+
+One tricky part of making a bot for Twitter is that if you want your bot to be able to actually post on Twitter, rather than just read from it, you will need to add a phone number to your account. 
+
+There is a few ways to solve this:
+
+- see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account
+- you can remove the phone number from your account and associate it with a new one
+- you can sign up for [Google Voice](https://www.google.com/voice) ([Skype](http://www.skype.com/) number won't work, because Skype doesn't let you receive text messages, which you will need to verify your phone number)
+
+And once you have one account verified, you can also host all your bots under the same account.
+
 
 ### [¶](#tools-and-twitter-specific-resources){.pilcrow} Tools and Twitter-specific resources {#tools-and-twitter-specific-resources}
 See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
