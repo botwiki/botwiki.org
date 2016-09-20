@@ -22,7 +22,7 @@ Nav: hidden
 
 Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
-**And you're more then welcome to join us in the public [Botmakers Slack group](https://botmakers.org/) to share what you're working on, ask for advice, or just chat with fellow artists, journalists, educators, tinkerers, and bot enthusiasts.**
+**And you're more then welcome to join us in the public [Botmakers Slack group](https://botmakers.org/) to share what you're working on, ask for advice, or just chat with fellow artists, journalists, educators, tinkerers, and bot enthusiasts!**
 
 (Here's our [Code of Conduct](https://botwiki.org/coc/).)
 
