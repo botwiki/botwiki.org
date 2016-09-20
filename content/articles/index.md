@@ -56,6 +56,7 @@ See also
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [7 predictions from early-stage bot investors](http://venturebeat.com/2016/09/16/7-predictions-from-early-stage-bot-investors/) (venturebeat.com)
 - [Why Facebook and Microsoft say chatbots are the talk of the town](https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley) (theguardian.com)
 - [How Driverless Cars May Interact With People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html) (nytimes.com)
 - [This AI Sees Things in Art That Humans Don't](http://motherboard.vice.com/read/this-ai-sees-things-in-art-that-humans-dont) (motherboard.vice.com)
