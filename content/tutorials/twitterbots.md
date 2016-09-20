@@ -7,6 +7,9 @@ Show donation link: yes
 Nav: hidden
 */
 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">We&#39;re hosting our first <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> <a href="https://twitter.com/hashtag/botworkshop?src=hash">#botworkshop</a>! Botmaking from the Ground Up 🤖 <a href="https://t.co/d6XckYKVCe">https://t.co/d6XckYKVCe</a> <a href="https://t.co/VycUCKz728">pic.twitter.com/VycUCKz728</a></p>&mdash; Veronica Belmont (@Veronica) <a href="https://twitter.com/Veronica/status/777916844955107328">September 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="note">
   <p>
     Before you start making bots, consider reading <a href="/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
