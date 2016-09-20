@@ -295,16 +295,18 @@ footer ul.footer-list{
   display: inline-block;
   vertical-align: top;
   width: 25%;
-  min-height: 245px;
-  @media (max-width : 900px){
-    width: 33%;
-  }
-  @media (max-width : 700px){
-    width: 50%;
-  }
+  min-height: 265px;
   margin: 0;
   padding: 1em;
   float: left;
+  @media (max-width : 900px){
+    width: 50%;
+    padding: 1em 0;
+  }
+  @media (max-width : 700px){
+    width: 100%;
+    text-align: center;
+  }
 
 }
 

@@ -353,7 +353,7 @@ footer ul.footer-list {
   display: inline-block;
   vertical-align: top;
   width: 25%;
-  min-height: 260px;
+  min-height: 265px;
   margin: 0;
   padding: 1em;
   float: left;
@@ -361,6 +361,7 @@ footer ul.footer-list {
 @media (max-width: 900px) {
   footer ul.footer-list {
     width: 50%;
+    padding: 1em 0;
   }
 }
 @media (max-width: 700px) {
