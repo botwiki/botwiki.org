@@ -5,7 +5,7 @@ Thumbnail: /content/tutorials/make-an-image-posting-twitter-bot/images/posting-i
 Has code: yes
 Show donation link: yes
 Date: May 20, 2016
-Tags: tutorial,twitter,openshift,images,node,nodejs,node.js,fourtonfish
+Tags: tutorial,twitter,openshift,images,node,nodejs,node.js,fourtonfish,botwiki-original
 */
 
 

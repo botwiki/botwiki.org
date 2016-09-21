@@ -5,7 +5,7 @@ Thumbnail: /content/tutorials/why-did-the-chicken-cross-the-road-slack-bot-tutor
 Has code: yes
 Show donation link: yes
 Date: May 20, 2016
-Tags: tutorial,slack,openshift,node,nodejs,node.js,botkit,fourtonfish
+Tags: tutorial,slack,openshift,node,nodejs,node.js,botkit,fourtonfish,botwiki-original
 */
 
 

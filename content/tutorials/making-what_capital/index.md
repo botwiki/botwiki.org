@@ -5,7 +5,7 @@ Thumbnail: /content/tutorials/making-what_capital/images/finished-bot.png
 Has code: yes
 Show donation link: yes
 Date: November 25, 2015
-Tags: tutorial,twitter,cloud9,openshift,node,nodejs,node.js,fourtonfish
+Tags: tutorial,twitter,cloud9,openshift,node,nodejs,node.js,fourtonfish,botwiki-original
 */
 
 

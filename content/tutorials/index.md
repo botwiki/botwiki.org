@@ -27,6 +27,7 @@ There is a variety of tools that make creating bots very easy. From [Cheap Bots 
 - [Machine learning, NLP, AI](/tutorials/machine-learning-nlp-ai)
 - [Bot ethics](/bot-ethics)
 - [Other](/tutorials/other)
+- [Original Botwiki tutorials](/tag/tutorial+botwiki-original)
 
 
 If you have any questions, try asking in our [community for botmakers and bot enthusiasts](https://botmakers.org/)!
