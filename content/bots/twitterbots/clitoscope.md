@@ -1,6 +1,6 @@
 /*
 Title: @clitoscope
-Description: Revealing the hidden beauty of the clitoris
+Description: Revealing the hidden beauty of the clitoris.
 Thumbnail: /content/bots/twitterbots/images/clitoscope.png
 Link: https://twitter.com/clitoscope
 Author: botsheeter.py
