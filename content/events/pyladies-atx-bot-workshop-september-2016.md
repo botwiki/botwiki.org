@@ -4,7 +4,7 @@ Description: September Tech Talk: Informal Twitter Bot Workshop
 Link: http://www.meetup.com/PyLadies-ATX/events/233386315/
 Date: September 19, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=303+Colorado+St+1600+Austin+TX&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming,workshop
+Tags: event,archived,workshop
 */
 
 > We will start off the night with a short presentation on the Twitter API and the Twython Python Library by Irma Kramer.
