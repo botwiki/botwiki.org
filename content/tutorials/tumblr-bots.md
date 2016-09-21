@@ -14,17 +14,17 @@ Nav: hidden
   </p>
 </div>
 
-<p class="screenshot float-right">
-  <a href="/bots/tumblr-bots/deadspelunkers">
-    <img src="/content/bots/tumblr-bots/images/deadspelunkers.png">
-  </a>
-</p>
-
 <div class="note">
   <p>
     This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
   </p>
 </div>
+
+<p class="screenshot float-right">
+  <a href="/bots/tumblr-bots/deadspelunkers">
+    <img src="/content/bots/tumblr-bots/images/deadspelunkers.png">
+  </a>
+</p>
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
