@@ -14,4 +14,4 @@ Tags: event,archived
 - [School for Poetic Computation](http://sfpc.io/)
 - 155 Bank St, New York, NY 10014 ([map](https://www.google.com/maps/dir/Current+Location/155+Bank+St+New+York+NY+10014))
 - [Event page](http://alt-ai.net/)
-- [Livestream/recorded videos](http://livestream.com/internetsociety/alt-ai/)
+- [Livestream/recorded videos](http://livestream.com/internetsociety/alt-ai/), or [watch here](http://alt-ai.net/#watch)
