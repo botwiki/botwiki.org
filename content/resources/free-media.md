@@ -29,6 +29,7 @@ Nav: hidden
 - [Wellcome Images](http://wellcomeimages.org/) -- "a medical picture library and the world's leading source of images on medicine and its history"
 - [The Morgan Library & Museum: Rembrandt Prints](http://www.themorgan.org/rembrandt)
 - [Unsplash](https://unsplash.com/) -- free high-resolution photos, also available via [Unsplash API](https://source.unsplash.com/) (also see [documentation](https://unsplash.com/documentation))
+- [Museum of Modern Art Exhibition History](http://www.moma.org/calendar/exhibitions/history) -- from 1929 to the present 
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
