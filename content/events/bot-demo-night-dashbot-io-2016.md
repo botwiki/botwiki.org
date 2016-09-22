@@ -4,7 +4,7 @@ Description: More bots!
 Link: https://www.eventbrite.com/e/bot-demo-night-tickets-27394850736
 Date: September 20, 2016
 Thumbnail: /content/events/images/bot-demo-night-dashbot-io-2016.png
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
