@@ -10,6 +10,8 @@ Below is a list of categories with useful resources, such as **libraries**, **fr
 
 Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource). Still can't find what you're looking for? Try asking in our community for botmakers and bot enthusiasts -- you can join us at [botmakers.org](https://botmakers.org/).
 
+### [¶](#general){.pilcrow} General resources {#general}
+
 - [Public datasets](/resources/public-datasets)
 - [APIs](/resources/apis)
 - [Free images, sounds, videos](/resources/free-media)
@@ -27,7 +29,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [kik bots](/resources/kik-bots)
 - [IRC bots](/resources/irc-bots)
 
-### [¶](#other){.pilcrow} Lists and unsorted {#specificother}
+### [¶](#other){.pilcrow} Lists and unsorted {#other}
 
 - [nucl.ai: Artificial Intelligence in Creative Industries.](https://nucl.ai/) -- archives of conferences, and courses
 - [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp) -- A curated list of resources dedicated to Natural Language Processing
