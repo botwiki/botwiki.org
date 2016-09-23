@@ -178,7 +178,7 @@ body {
   line-height: 1.2em;
   padding-top: 4em;
   margin: 0 0 80px;
-  background: #f7f7f7;
+  background: #f9f9f7;
   -webkit-font-smoothing: antialiased;
 }
 @media (max-width: 1030px) {
@@ -258,12 +258,12 @@ h4 {
 }
 ol,
 ul {
-  margin: 0 0 0 2em;
+  margin: 1em 3rem;
 }
 @media (min-width: 1030px) {
   ol,
   ul {
-    margin: 0.2em 3rem;
+    margin: 1em 3rem;
     padding-left: 2em;
   }
 }
@@ -318,7 +318,7 @@ blockquote {
   margin: 2em 0 2em 4em;
   padding-left: 10px;
   padding-bottom: 0;
-  border-left: 5px solid #ededed;
+  border-left: 5px solid #efefed;
 }
 @media (max-width: 900px) {
   blockquote {
@@ -490,12 +490,12 @@ div.all-tags a {
 }
 header,
 footer {
-  max-width: 1262px;
+  max-width: 1260px;
   margin: 0 auto;
 }
 header .inner,
 footer .inner {
-  max-width: 1262px;
+  max-width: 1260px;
 }
 @media (min-width: 1030px) {
   li.active a {
@@ -601,7 +601,7 @@ form#search-form input {
 }
 div#content-wrapper {
   margin: 0 auto;
-  max-width: 1262px;
+  max-width: 1260px;
 }
 @media (max-width: 1030px) {
   div#content-wrapper {
@@ -804,7 +804,7 @@ span.normal-text {
 }
 div.meta p.share-prompt {
   font-weight: bold;
-  border-top: 2px dashed #e6e6e6;
+  border-top: 2px dashed #e8e8e6;
   padding-top: 2em !important;
   margin-top: 2em !important;
 }
@@ -939,7 +939,7 @@ img.logo-digitalocean {
     margin-left: 30px;
   }
   div.callout {
-    max-width: 1262px;
+    max-width: 1260px;
     margin: 0 auto;
     font-weight: bold;
     background-color: #050007;
@@ -995,7 +995,7 @@ img.logo-digitalocean {
     opacity: 1;
   }
 }
-@media (max-width: 1030px) and (min-width: 1262px) {
+@media (max-width: 1030px) and (min-width: 1260px) {
   #header nav li {
     padding: 10px 0;
   }
@@ -1040,12 +1040,12 @@ a#search-help {
   position: absolute;
   margin-left: -1em;
   color: #dadada !important;
-  top: 2em;
+  top: 2.3em;
 }
 @media (min-width: 1030px) {
   a#search-help {
-    top: 30%;
-    margin-left: -15px;
+    top: 1.5em;
+    margin-left: -25px;
   }
 }
 a#search-help:hover {
