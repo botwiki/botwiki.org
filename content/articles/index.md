@@ -32,6 +32,7 @@ See also
 - [BotFunded](https://botfunded.com/)
 - [what the bot?!](http://whatthebot.ai/)
 - [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter, by [@NoraReed](https://twitter.com/NoraReed)
+- [CuratedAI](http://curatedai.com/)
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
@@ -50,13 +51,21 @@ See also
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via *medium.com*)
-- [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology)
+- [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
+- [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+- [Bot is just a feature!](https://chatbotsmagazine.com/bot-is-just-a-feature-4c2d510ac194#.ak7zwvc5o) (chatbotsmagazine.com)
+- [Twitter Bots and how they can Tell History](https://thecoverpage.pushpullfork.com/twitter-bots-and-how-they-can-tell-history-46e9866bdaa#.r9iidgnmt) (thecoverpage.pushpullfork.com)
+- [Can You Clone Yourself on Twitter?](http://www.gq.com/story/can-you-clone-yourself-on-twitter) (gq.com)
+- [This Bot Tries to Empathise With Your Emotional Tweets](http://motherboard.vice.com/en_ca/read/this-bot-tries-to-empathise-with-your-emotional-tweets) (motherboard.vice.com)
+- [How to Build a Chatbot-Powered Newsroom](https://medium.com/startup-grind/bot-%EF%B8%8F-with-rebecca-harris-192c1223b8ab#.vx6klhsia) ([Sar Haribhakti](https://twitter.com/sarthakgh) via medium.com)
+- [Robot-written reviews fool academics](https://www.timeshighereducation.com/news/robot-written-reviews-fool-academics) (timeshighereducation.com)
+- [Why we are still a long way from a ‘killer’ chatbot](http://venturebeat.com/2016/09/19/why-we-are-still-a-long-way-from-a-killer-chatbot/) (venturebeat.com)
 - [7 predictions from early-stage bot investors](http://venturebeat.com/2016/09/16/7-predictions-from-early-stage-bot-investors/) (venturebeat.com)
 - [Artificial Intelligence Software Is Booming. But Why Now?](http://www.nytimes.com/2016/09/19/technology/artificial-intelligence-software-is-booming-but-why-now.html) (nytimes.com)
 - [Why Facebook and Microsoft say chatbots are the talk of the town](https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley) (theguardian.com)

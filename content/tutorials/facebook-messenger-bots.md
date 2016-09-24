@@ -31,6 +31,7 @@ Nav: hidden
 
 - [How to create a Facebook Bot in 10 minutes: The complete tutorial from Zero to Hero(ku)](https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tutorial-from-zero-to-hero-ku-352dca274046#.sfdok6fgg)
 - [How to deploy a Facebook bot](https://medium.com/@igougi.ui/how-to-deploy-a-facebook-bot-2b8c4f4e7eae#.n07omhsca)
+- [Use Facebook to control your Raspberry Pi terminal](https://medium.com/@rkieltyka/use-facebook-to-control-your-raspberry-pi-terminal-d952c15b3549#.e5uop1q30)
 
 ### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 

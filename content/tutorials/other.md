@@ -2,7 +2,7 @@
 Title: Other and unsorted tutorials
 Description: ¯\_(ツ)_/¯
 Thumbnail: /content/images/illustrations/man-reading-mail.png
-Tags: rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio,markov,markov chains
+Tags: rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio,ibm,watson,markov,markov chains
 Show donation link: yes
 Nav: hidden
 */
@@ -11,6 +11,18 @@ Nav: hidden
   <p>Before you start making bots, consider reading <a href="/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
+
+
+
+### [¶](#watson){.pilcrow} IBM Watson tutorials {#watson}
+
+- [An Adventure with Watson](https://medium.com/@snrubnomis/an-adventure-with-watson-afdebf699f91#.x6agljig2)
+- [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10#.p31ox7ml1) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
+
+### [¶](#twilio){.pilcrow} Twilio {#twilio}
+
+- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
+
 
 ### [¶](#unsorted){.pilcrow} Unsorted tutorials {#unsorted}
 
@@ -23,7 +35,6 @@ Nav: hidden
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/)
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/)
-- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!

@@ -3,7 +3,7 @@ Title: Theorizing The Web (April 2016)
 Link: http://theorizingtheweb.tumblr.com/
 Date: April 15, 2016
 Description: TtW is a DIY event run by a small volunteer committee. The event is public, accessible, concerned with social power and inequality, and highlights thoughtful, critical ideas about technology and society.
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=https://www.google.com/maps/dir/Current+Location/36-01+35th+Ave+New+York+NY+11106&zoom=15&size=900x220&scale=2&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=36-01+35th+Ave+New+York+NY+11106&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 
