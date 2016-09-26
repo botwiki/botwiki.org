@@ -7,11 +7,14 @@ Nav: hidden
 
 ![A botmaker gathering](/content/images/illustrations/people-evening.jpg){.float-right}
 
-A list of meetup groups for fans and creators of bots. See also [current events](/events/).
+A list of meetup groups for fans and creators of bots.
 
+Be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates!
 
-Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts over at [botmakers.org](https://botmakers.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates!
+See also:
 
+- [current events](/events/)
+- [all bot-related meetups on meetup.com](http://www.meetup.com/topics/bots/)
 
 ## [¶](#usa){.pilcrow} United States {#usa}
 
@@ -51,3 +54,4 @@ Also, be sure to join other [#botmakers](https://twitter.com/search?q=%23botmake
 ### [¶](#berlin){.pilcrow} Berlin {#berlin}
 
 - [Bots Berlin](http://www.meetup.com/Bots-Berlin-Slack-Messenger-WhatsApp-meets-AI-ML-NLP/): Slack, Messenger, WhatsApp meets AI, ML, NLP
+
