@@ -249,6 +249,7 @@ h1 {
 h2 {
   font-size: 2.5em;
   padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 h3 {
   font-size: 2em;
@@ -715,6 +716,17 @@ p.screenshot img {
   p.screenshot.float-left {
     padding-right: 30px;
   }
+}
+p.empty-element {
+  /* Inelegant fix for Pico wrapping images in P tags. */
+  padding: 0 20px 0 0 !important;
+  margin: 0 !important;
+  /*
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+*/
 }
 ol li p,
 ul li p {

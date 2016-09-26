@@ -72,6 +72,16 @@ function ready(fn) {
 }
 
 ready(function(){
+  var paragraphs = document.querySelectorAll('p');
+
+  for (var i = 0, j = paragraphs.length; i < j; ++i) {
+  /* Inelegant fix for Pico wrapping images in P tags. */
+    if (paragraphs[i].textContent.trim() === ''){
+      paragraphs[i].classList.add('empty-element');    
+      console.log(0);
+    }
+  }
+
   window.onscroll=function(){
     var backToTop = document.getElementById('back-to-top');
     var documentScrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0
