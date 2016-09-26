@@ -12,7 +12,6 @@ Nav: hidden
   </p>
 </div>
 
-
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [Deep Learning](http://www.deeplearningbook.org/): resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
@@ -26,7 +25,9 @@ Nav: hidden
 - [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
-
+- [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
+- [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
+- [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/)
 
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
