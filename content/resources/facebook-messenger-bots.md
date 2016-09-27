@@ -20,7 +20,7 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 - [Product Overview - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/product-overview)
 - [Getting Started - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/quickstart)
 - [Complete Guide - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/implementation)
-
+- [Messenger Platform News](https://messengerblog.com/)
 
 ### [¶](#bot-frameworks){.pilcrow} Facebook Messenger Bot Frameworks {#bot-frameworks}
 

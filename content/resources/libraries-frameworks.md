@@ -84,6 +84,7 @@ For libraries and frameworks for specific networks check out their corresponding
 ##### [¶](#language-other-python){.pilcrow} Python {#language-other-python}
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) -- an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
+- [tensorflow/models](https://github.com/tensorflow/models) -- models built with TensorFlow
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
 - [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences
 - [mewo2/syllpos](https://github.com/mewo2/syllpos) -- wordlists by part of speech and syllable count

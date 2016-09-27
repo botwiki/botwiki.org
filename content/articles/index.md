@@ -59,12 +59,16 @@ See also
 
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
+
+- [The AI revolution: 19th century redux?](http://venturebeat.com/2016/09/24/the-ai-revolution-19th-century-redux/) (venturebeat.com)
+- [Bots: What I Learned at Botcamp Day](https://medium.com/startup-grind/bots-what-i-learned-at-botcamp-day-42ea2432ed17#.h0m2m7git) ([Lylan Masterman](https://twitter.com/lylanm) via medium.com)
 - [Bot is just a feature!](https://chatbotsmagazine.com/bot-is-just-a-feature-4c2d510ac194#.ak7zwvc5o) (chatbotsmagazine.com)
 - [Twitter Bots and how they can Tell History](https://thecoverpage.pushpullfork.com/twitter-bots-and-how-they-can-tell-history-46e9866bdaa#.r9iidgnmt) (thecoverpage.pushpullfork.com)
 - [Can You Clone Yourself on Twitter?](http://www.gq.com/story/can-you-clone-yourself-on-twitter) (gq.com)
 - [This Bot Tries to Empathise With Your Emotional Tweets](http://motherboard.vice.com/en_ca/read/this-bot-tries-to-empathise-with-your-emotional-tweets) (motherboard.vice.com)
 - [How to Build a Chatbot-Powered Newsroom](https://medium.com/startup-grind/bot-%EF%B8%8F-with-rebecca-harris-192c1223b8ab#.vx6klhsia) ([Sar Haribhakti](https://twitter.com/sarthakgh) via medium.com)
 - [Robot-written reviews fool academics](https://www.timeshighereducation.com/news/robot-written-reviews-fool-academics) (timeshighereducation.com)
+- [The AI Now Report: social/economic implications of near-future AI](http://boingboing.net/2016/09/24/the-ai-now-report-socialecon.html) (boingboing.net)
 - [Why we are still a long way from a ‘killer’ chatbot](http://venturebeat.com/2016/09/19/why-we-are-still-a-long-way-from-a-killer-chatbot/) (venturebeat.com)
 - [7 predictions from early-stage bot investors](http://venturebeat.com/2016/09/16/7-predictions-from-early-stage-bot-investors/) (venturebeat.com)
 - [Artificial Intelligence Software Is Booming. But Why Now?](http://www.nytimes.com/2016/09/19/technology/artificial-intelligence-software-is-booming-but-why-now.html) (nytimes.com)
@@ -107,6 +111,7 @@ See also
 - [Facebook’s Messenger Bot Store could be the most important launch since the App Store](http://techcrunch.com/2016/03/17/facebooks-messenger-in-a-bot-store/) (*techcrunch.com*)
 - [The Premise Podcast: Rise Of The Bots](http://www.forbes.com/sites/bruceupbin/2016/03/10/listen-to-the-premise-podcast-episode-2-rise-of-the-bots/#526ae55a4875) (*forbes.com*, podcast)
 - [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet) (*points.datasociety.net*)
+- [A Brief Survey of Journalistic Twitter Bot Projects](https://points.datasociety.net/a-brief-survey-of-journalistic-twitter-bot-projects-109204a8d585#.tl6u3z6cj) (*points.datasociety.net*)
 - [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/) (*techcrunch.com*)
 - [The fall...and rise and rise and rise of chat networks](http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/) (*arstechnica.com*)
 - [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities) (*fastcodesign.com*)

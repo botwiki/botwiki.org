@@ -1,6 +1,6 @@
 /*
 Title: Bot ethics
-Description: Learn how to make ethical bots!
+Description: Going beyond "bot UX".
 Thumbnail: /content/images/illustrations/man-reading-mail.png
 Tags: tutorials,essays,bots,ethics,language
 Show donation link: yes
@@ -36,6 +36,8 @@ Nav: hidden
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
 - [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) (Amir Shevat via techcrunch.com)
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)
+- [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](http://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) (nytimes.com)
+- [A.I. Doesn't Get Black Twitter](https://www.inverse.com/article/21316-a-i-doesn-t-get-black-twitter-yet)
 
 
 ***Also worth browsing:***

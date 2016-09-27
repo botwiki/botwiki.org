@@ -90,6 +90,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) by [Zach Whalen](http://www.twitter.com/zachwhalen)
 - [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots) -- a tutorial in [Jupyter Notebooks](http://jupyter.org/)
 - [How to program a Twitter bot](https://weatherlisa.wordpress.com/2015/11/26/how-to-program-a-twitter-bot/) using the [R language](https://www.r-project.org/)
+- [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) (using [Jupyter Notebooks](http://jupyter.org/))
 
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
