@@ -28,6 +28,7 @@ Nav: hidden
 - [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 - [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/)
+- [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/%20The%20Neural%20Network%20Zoo%20-%20The%20Asimov%20Institute)
 
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
