@@ -72,14 +72,14 @@ Thanks for checking out **Botwiki**!
 
 #### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
 
-- [Poetry bots](/tag/poetry)
-- [Image bots](/tag/images) ([GIF bots](/tag/gif))
-- [Emoji bots](/tag/emoji)
-- [Game bots](/tag/game)
-- [Non-English bots](/tag/non-english)
+- [Poetry bots](/tag/bot+poetry)
+- [Image bots](/tag/bot+images) ([GIF bots](/tag/bot+gif))
+- [Emoji bots](/tag/bot+emoji)
+- [Game bots](/tag/bot+game)
+- [Non-English bots](/tag/non-bot+english)
 - [Internet of Things (IoT) bots](/bots/iot)
-- [Open source bots](/tag/opensource)
-- [Winners of the Monthly Bot Challenge](/tag/monthlybotchallenge+winner)
+- [Open source bots](/tag/bot+opensource)
+- [Winners of the Monthly Bot Challenge](/tag/bot+monthlybotchallenge+winner)
 
 #### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
 
