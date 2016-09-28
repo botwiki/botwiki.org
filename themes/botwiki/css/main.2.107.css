@@ -222,7 +222,7 @@ h6 {
   h4,
   h5,
   h6 {
-    padding: 0.5rem 2rem;
+    padding: 1rem 2rem;
   }
 }
 a.pilcrow,
@@ -245,11 +245,13 @@ a.pilcrow:hover {
 }
 h1 {
   font-size: 3em;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
 }
 h2 {
   font-size: 2.5em;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 h3 {
   font-size: 2em;
@@ -719,14 +721,10 @@ p.screenshot img {
 }
 p.empty-element {
   /* Inelegant fix for Pico wrapping images in P tags. */
-  padding: 0 20px 0 0 !important;
-  margin: 0 !important;
-  /*
   padding-top: 0 !important;
   padding-bottom: 0 !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
-*/
 }
 ol li p,
 ul li p {

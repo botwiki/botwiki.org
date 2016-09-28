@@ -19,17 +19,30 @@ There is a variety of tools that make creating bots very easy. From [Cheap Bots 
 
 [![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
+### [¶](#network-specific){.pilcrow} Network-specific tutorials {#network-specific}
 
-- [Network-specific tutorials](/tutorials/network-specific-tutorials)
+Choose the network on which you want to deploy your bot:
+
+- [Twitter](/tutorials/twitterbots)
+- [Slack](/tutorials/slackbots)
+- [Facebook Messenger](/tutorials/facebook-messenger-bots)
+- [Telegram](/tutorials/telegram-bots)
+- [YouTube](/tutorials/youtube-bots)
+- [Reddit](/tutorials/redditbots)
+- [IRC](/tutorials/irc-bots)
+
+### [¶](#general){.pilcrow} General tutorials {#general}
+
 - [Bot hosting](/tutorials/bot-hosting)
 - [Learn to work with web APIs](/tutorials/web-apis)
 - [Chat/conversational interfaces](/tutorials/chat)
 - [Machine learning, NLP, AI](/tutorials/machine-learning-nlp-ai)
 - [Bot ethics](/bot-ethics)
 - [Other](/tutorials/other)
+
+### [¶](#other){.pilcrow} See also {#other}
+
 - [Original Botwiki tutorials](/tag/tutorial+botwiki-original)
+- [Open-sourced bots](/tag/bot+opensource)
 
-
-If you have any questions, try asking in our [community for botmakers and bot enthusiasts](https://botmakers.org/)!
-
-Also, check out [the open-sourced bots](/tag/bot+opensource) :-)
+If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
