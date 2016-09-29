@@ -60,6 +60,7 @@ See also
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 
+- [Chris Messina: Bots are teaching computers how we talk](http://venturebeat.com/2016/09/28/chris-messina-bots-are-teaching-computers-how-we-talk/) (venturebeat.com)
 - [The AI revolution: 19th century redux?](http://venturebeat.com/2016/09/24/the-ai-revolution-19th-century-redux/) (venturebeat.com)
 - [Bots: What I Learned at Botcamp Day](https://medium.com/startup-grind/bots-what-i-learned-at-botcamp-day-42ea2432ed17#.h0m2m7git) ([Lylan Masterman](https://twitter.com/lylanm) via medium.com)
 - [Bot is just a feature!](https://chatbotsmagazine.com/bot-is-just-a-feature-4c2d510ac194#.ak7zwvc5o) (chatbotsmagazine.com)
