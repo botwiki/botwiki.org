@@ -103,7 +103,8 @@ ready(function(){
     // TODO: Make this into a fancy overlay div.
     alert(
             'Search quick help:\n\n' +
-            'TAGS: tag1 tag2 tag3 ...\t\tSearch several tags\n\n' +
+            '#tag1 #tag2 #tag3 ...\t\tBrowse tags\n\n' +
+            'TAGS: tag1 tag2 tag3 ...\t\tBrowse tags\n\n' +
             'word1 AND word2 AND ...\t\tSearch posts that have all listed words\n\n' +
             'word1 OR word2 OR ...\t\tSearch posts that have at least one of the listed words (default)'
          );

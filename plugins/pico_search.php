@@ -45,6 +45,13 @@ class Pico_Search
               $search_tags = explode(" ", trim(str_replace("TAGS:", "", $q)));
               header('Location: '  . '/tag/' . strtolower(implode('+', $search_tags)));
             }
+            elseif ($q[0] === "#"){
+              $q = substr($q, 1);
+              // $search_type = "TAGS";
+              $qs = explode("#", $q);
+              $search_tags = array_map('trim', explode('#', $q));
+              header('Location: '  . '/tag/' . strtolower(implode('+', $search_tags)));
+            }
             elseif (strpos($q, " AND ") !== false){
               $qs = explode(" AND ", $q);
               $search_type = "AND";
