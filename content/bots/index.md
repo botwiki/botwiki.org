@@ -76,6 +76,7 @@ Thanks for checking out **Botwiki**!
 - [Image bots](/tag/bot+images) ([GIF bots](/tag/bot+gif))
 - [Emoji bots](/tag/bot+emoji)
 - [Game bots](/tag/bot+game)
+- [Generative bots](/tag/bot+generative/)
 - [Non-English bots](/tag/bot+non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
 - [Open source bots](/tag/bot+opensource)
