@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 
-***Be sure to sign up at [botmakers.org](https://botmakers.org) and join the [#bot-ethics](https://botmakers.slack.com/messages/ethics/details/) channel!***
+***Be sure to sign up at [botmakers.org](https://botmakers.org) and join the [/bot-ethics](https://botmakers.slack.com/messages/ethics/details/) channel!***
 
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
