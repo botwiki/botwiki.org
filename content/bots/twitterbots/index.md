@@ -48,12 +48,15 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 
 ### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse by category {#browse-twitter-bots-by-category}
 
+- [Poetry bots](/tag/twitter+bot+poetry)
+- [Image bots](/tag/twitter+bot+images) ([GIF bots](/tag/twitter+bot+gif))
+- [Emoji bots](/tag/twitter+bot+emoji)
+- [Game bots](/tag/twitter+bot+game)
+- [Generative bots](/tag/twitter+bot+generative/)
+- [Non-English bots](/tag/twitter+bot+non-english)
+- [Internet of Things (IoT) bots](/tag/twitter+bot+iot)
+- [Open source bots](/tag/twitter+bot+opensource)
 
-- [Game bots](/tag/twitterbot+game)
-- [Image bots](/tag/twitterbot+images) ([GIF bots](/tag/twitterbot+gif))
-- [Emoji bots](/tag/twitterbot+emoji)
-- [Non-English bots](/tag/non-english+twitterbot)
-- [Open source bots](/tag/twitterbot+opensource)
 
 Browse [all Twitter bots](/tag/twitterbot).
 
