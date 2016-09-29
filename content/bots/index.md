@@ -97,6 +97,15 @@ Thanks for checking out **Botwiki**!
 
 Or check out a [random bot](/random-bot)!
 
+#### [¶](#bot-directories){.pilcrow} Bot directories {#bot-directories}
+
+Botwiki is mainly focused on creative examples of online bots. If you're more interested in "business bots", check out some of these bot directories:
+
+- [Botlist](https://botlist.co/)
+- [BotPages](https://www.botpages.com/)
+- [Chatbots.org](https://www.chatbots.org/)
+
+
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>
 
 
