@@ -12,8 +12,5 @@ Twitter bot maker and enthusiast [Bradley Momberger](https://twitter.com/air_had
 
 Using Twitter and freely available tools, attendees will set up their own accounts and have three bots up and running by the workshop's end.
 
-This free online workshop will be hosted on **October 1st (Saturday) at 3pm EST**, via YouTube Live. The link will be shared in the [#bot-workshops](https://botmakers.slack.com/messages/bot-workshops/details/) channel on the day of the workshop. (Be sure to join [Botmakers](https://botmakers.org/) on Slack!)
-
-Please [RSVP here](http://www.meetup.com/botmakers/events/234174402/), or [get in touch](/about/team/#contact) so we can add you as our +1.
-
-Looking forward to seeing your bot creations! 🔨🤖🔧 
+- YouTube Live: [youtube.com/watch?v=dcrY08dqvzA](https://www.youtube.com/watch?v=dcrY08dqvzA)
+- Workshop Materials: [drive.google.com/drive/folders/0B2ZVul_mTxC_bTBybjhTSGpJVEE](https://drive.google.com/drive/folders/0B2ZVul_mTxC_bTBybjhTSGpJVEE)
