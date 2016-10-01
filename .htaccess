@@ -36,6 +36,7 @@ RedirectMatch "^/survey/botmaking-01/*" "https://docs.google.com/forms/d/1MCKQSB
 RedirectMatch "^/survey/2015-end-of-the-year/*" "https://docs.google.com/forms/d/1s__aIJK14Ez_PUG4cAafUiqpfERqhVa5AiZmoER5DVE/viewform"
 RedirectMatch "^/survey/quick-bot-survey/*" "https://docs.google.com/forms/d/1tASwWCIgJcd16gRJhamSNJoI8xOEwbzRsy52V2ZI9jQ/viewform"
 RedirectMatch "^/survey/botmakers-community-survey/*" "https://docs.google.com/forms/d/1coP28xTpLZQvDeWmqcBE3TYKK403BLcrisv5tvpFP4s/viewform"
+RedirectMatch "^/survey/bot-workshop-feedback/*" "https://docs.google.com/forms/d/e/1FAIpQLSc02KEU3JEypGnCCt_xR5UGCibwlvRGBPMn9vT3Ky9bsDZaiw/viewform"
 RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
 RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
 RedirectMatch "^/tutorials/bots-should-punch-up/*$" "https://botwiki.org/articles/bots-should-punch-up/"
