@@ -12,5 +12,5 @@ Twitter bot maker and enthusiast [Bradley Momberger](https://twitter.com/air_had
 
 Using Twitter and freely available tools, attendees will set up their own accounts and have three bots up and running by the workshop's end.
 
-- YouTube Live: [youtube.com/watch?v=dcrY08dqvzA](https://www.youtube.com/watch?v=dcrY08dqvzA)
-- Workshop Materials: [drive.google.com/drive/folders/0B2ZVul_mTxC_bTBybjhTSGpJVEE](https://drive.google.com/drive/folders/0B2ZVul_mTxC_bTBybjhTSGpJVEE)
+- [YouTube Live](https://www.youtube.com/watch?v=dcrY08dqvzA)
+- [Workshop Materials](https://drive.google.com/drive/folders/0B2ZVul_mTxC_bTBybjhTSGpJVEE)
