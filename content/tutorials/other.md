@@ -26,7 +26,6 @@ Nav: hidden
 
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
 
-
 ### [¶](#unsorted){.pilcrow} Unsorted tutorials {#unsorted}
 
 - [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2#.m5nkwagsh)
