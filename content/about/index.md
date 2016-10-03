@@ -15,11 +15,11 @@ Weight: 6
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">I liked <a href="https://twitter.com/fourtonfish">@fourtonfish</a>&#39;s Botwiki, a set of resources for learning about &amp; building bots for Slack, Twitter, etc. <a href="https://t.co/uFTB6Zrr6a">https://t.co/uFTB6Zrr6a</a></p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/642120992932933632">September 10, 2015</a></blockquote>
 
 
-Botwiki was created in July 2015 by [Stefan Bohacek](/about/team#stefan) with a simple goal of preserving interesting and creative examples of online bots.
+Botwiki was created in July 2015 by [Stefan Bohacek](/about/team#stefan) with a simple goal of preserving interesting and creative examples of online bots, and providing tutorials and other resources to folks interested in making fun, whimsical, or useful bots. 
 
-Later in August, [Botmakers.org](https://botmakers.org/) was set up as a [safe](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) and friendly online space for artists, tinkerers, bot enthusiasts and seasoned developers to share ideas, resources, and their bot creations, regardless of their technical knowledge.
+Later in August, the [Botmakers](https://botmakers.org/) online group was set up as a [safe](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) and friendly online space for artists, tinkerers, bot enthusiasts and seasoned developers to share ideas, resources, and their bot creations, regardless of their technical knowledge.
 
-In June 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botmakers.org administrator and took over the [Bot! zine](https://botzine.org/) newsletter Stefan has started as a way to keep the community of bot enthusiasts updated on the latest news.
+In June 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botmakers administrator and took over the [Bot! zine](https://botzine.org/) newsletter Stefan has started as a way to keep the community of bot enthusiasts updated on the latest news.
 
 For more of Botwiki Foundation's projects and initiatives, check out the [Projects](/projects) page.
 

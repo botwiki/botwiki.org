@@ -29,10 +29,11 @@ Enjoy!
 See also
 
 - [r/botsrights](https://www.reddit.com/r/botsrights)
-- [BotFunded](https://botfunded.com/)
-- [what the bot?!](http://whatthebot.ai/)
 - [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter, by [@NoraReed](https://twitter.com/NoraReed)
 - [CuratedAI](http://curatedai.com/)
+- [Partnership on Artificial Intelligence to Benefit People and Society](http://www.partnershiponai.org/)
+- [BotFunded](https://botfunded.com/)
+- [what the bot?!](http://whatthebot.ai/)
 
 ### [¶](#books){.pilcrow} Books and other literature {#books}
 
@@ -60,6 +61,7 @@ See also
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 
+- [Google, Facebook, and Microsoft Team Up to Keep AI From Getting Out of Hand](https://www.wired.com/2016/09/google-facebook-microsoft-tackle-ethics-ai/) (wired.com)
 - [Chris Messina: Bots are teaching computers how we talk](http://venturebeat.com/2016/09/28/chris-messina-bots-are-teaching-computers-how-we-talk/) (venturebeat.com)
 - [The AI revolution: 19th century redux?](http://venturebeat.com/2016/09/24/the-ai-revolution-19th-century-redux/) (venturebeat.com)
 - [Bots: What I Learned at Botcamp Day](https://medium.com/startup-grind/bots-what-i-learned-at-botcamp-day-42ea2432ed17#.h0m2m7git) ([Lylan Masterman](https://twitter.com/lylanm) via medium.com)

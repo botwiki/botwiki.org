@@ -36,15 +36,16 @@ Nav: hidden
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8) (blog.howdy.ai)
 
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
-- [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
-- [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](http://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners) (motherboard.vice.com)
-- [A.I. Doesn't Get Black Twitter](https://www.inverse.com/article/21316-a-i-doesn-t-get-black-twitter-yet) (inverse.com)
-- [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
+- [Artificial intelligence is quickly becoming as biased as we are](http://thenextweb.com/artificial-intelligence/2016/09/30/artificial-intelligence-is-quickly-becoming-as-biased-as-we-are/) (thenextweb.com)
+- [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/) (freedom-to-tinker.com)
 - [Chances are your Models are Racist, Sexist, or both](http://deliprao.com/archives/129) (deliprao.com)
 - [The Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/) (mrmrs.io)
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/) (nytlabs.com)
-- [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/) (freedom-to-tinker.com)
 - [Artificial Intelligence Will Be as Biased and Prejudiced as Its Human Creators](https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd#.u067yviv3) (psmag.com)
+- [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](http://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners) (motherboard.vice.com)
+- [A.I. Doesn't Get Black Twitter](https://www.inverse.com/article/21316-a-i-doesn-t-get-black-twitter-yet) (inverse.com)
+- [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
+- [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
 
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
