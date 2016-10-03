@@ -62,6 +62,7 @@ See also
 #### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
 
 
+- [Some Like It Bot: Algorithms are getting better at entertaining us](http://fivethirtyeight.com/features/some-like-it-bot/?ex_cid=story-twitter&utm_content=bufferb34bc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (fivethirtyeight.com)
 - [Google, Facebook, and Microsoft Team Up to Keep AI From Getting Out of Hand](https://www.wired.com/2016/09/google-facebook-microsoft-tackle-ethics-ai/) (wired.com)
 - [Chris Messina: Bots are teaching computers how we talk](http://venturebeat.com/2016/09/28/chris-messina-bots-are-teaching-computers-how-we-talk/) (venturebeat.com)
 - [The AI revolution: 19th century redux?](http://venturebeat.com/2016/09/24/the-ai-revolution-19th-century-redux/) (venturebeat.com)
