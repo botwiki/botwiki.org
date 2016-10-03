@@ -13,6 +13,7 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 - [Botmaker Badges](#botmaker-badges)
 - [Monthly Bot Challenge](#monthly-bot-challenge)
 - [Bot Workshops](#bot-workshops)
+- [Original tutorials](#original-tutorials)
 - [Sidekick](#sidekick)
 - [Detective](#detective)
 
@@ -64,6 +65,10 @@ An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challe
 [![Bot Workshops](/content/bot-workshops/images/bot-workshops-promo.png)](/bot-workshops)
 
 Botwiki's [Bot Workshops](/bot-workshops) are envisioned as a series of events (mostly online, possibly also offline) for botmakers of all levels of technical expertise: artists, tinkerers, enthusiasts, seasoned pros.
+
+### [¶](#original-tutorials){.pilcrow} Original tutorials {#original-tutorials}
+
+The Botwiki team also produces [original tutorials](/tag/tutorial+botwiki-original).
 
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 

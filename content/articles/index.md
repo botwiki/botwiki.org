@@ -40,20 +40,20 @@ See also
 
 ### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
 
-***See also: [Bot ethics](/bot-ethics)***
-
-- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (*motherboard.vice.com*)
-- [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (*harrygiles.org*)
-- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz) (sailor mercury via *medium.com*)
-- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (*stuartgeiger.com*, PDF)
-- [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (*decontextualize.com*, PDF)
-- [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (*samplereality.com*)
-- [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (*bot.watch*)
+- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
+- [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (harrygiles.org)
+- [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (stuartgeiger.com, PDF)
+- [Twitter Bots And The Performative Critique Of Procedural Writing](http://static.decontextualize.com/bots-performative-critique.pdf) (decontextualize.com, PDF)
+- [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (samplereality.com)
+- [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (bot.watch)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
-- [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via *medium.com*)
+- [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 
+See also
+
+- [Bot ethics](/bot-ethics)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
