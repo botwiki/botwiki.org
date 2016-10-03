@@ -33,6 +33,7 @@ Nav: hidden
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
+- [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 
 ### [¶](#wavenet){.pilcrow} [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) {#wavenet}
 

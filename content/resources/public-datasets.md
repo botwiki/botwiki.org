@@ -58,6 +58,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Apollo11GuidanceComputerVertAndNounList.txt](https://gist.github.com/jeffThompson/21a72eadf545ede99279) -- a list of "nouns" and "verbs" to control the Apollo 11 guidance computer
 - [30,000 published crossword puzzles](https://www.reddit.com/r/datasets/comments/46jol1/dataset_30000_published_crossword_puzzles/?utm_source=dlvr.it&utm_medium=twitter)
 - [Structured data from ingredient phrases using conditional random fields](https://github.com/NYTimes/ingredient-phrase-tagger)
+- [Open Images Dataset by Google](https://github.com/openimages/dataset) -- dataset consisting of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories ([related blog post](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html))
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data

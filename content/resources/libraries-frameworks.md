@@ -136,6 +136,8 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ### [¶](#other){.pilcrow} Other {#other}
 
+- [antirez/neural-redis](https://github.com/antirez/neural-redis) -- neural networks module for [Redis](http://redis.io/)
+
 #### [¶](#other-nodejs){.pilcrow} node.js {#other-nodejs}
 
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
