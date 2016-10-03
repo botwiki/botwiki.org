@@ -17,7 +17,8 @@ Enjoy!
 
 ### [¶](#blogs){.pilcrow} Blogs {#blogs}
 
-- [BotWatch](http://bot.watch/)
+- [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch)
+- [@algorithm_club](https://twitter.com/algorithm_club) --  Twitter book club on the theme of critical algorithm studies 
 - [The Bot Blog](https://thebotblog.wordpress.com/)
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.

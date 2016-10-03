@@ -36,6 +36,7 @@ Nav: hidden
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8) (blog.howdy.ai)
 
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
+- [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
 - [Artificial intelligence is quickly becoming as biased as we are](http://thenextweb.com/artificial-intelligence/2016/09/30/artificial-intelligence-is-quickly-becoming-as-biased-as-we-are/) (thenextweb.com)
 - [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/) (freedom-to-tinker.com)
 - [Chances are your Models are Racist, Sexist, or both](http://deliprao.com/archives/129) (deliprao.com)
@@ -60,5 +61,6 @@ Nav: hidden
 - [General essays on Botwiki](/articles/#general-essays)
 - [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
 - [Humane Tech](https://medium.com/humane-tech)
+- [@algorithm_club](https://twitter.com/algorithm_club) -- Twitter book club on the theme of critical algorithm studies 
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 
