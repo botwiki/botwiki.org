@@ -17,3 +17,4 @@ Tags: event,archived
 - [Talkabot schedule & interviews](https://blog.howdy.ai/talkabot-schedule-interviews-8cb8e3deb190#.4e5ydjruw)
 - The official [@TalkabotConf](https://twitter.com/TalkabotConf) Twitter account
 - The [#talkabot](https://twitter.com/hashtag/talkabot?f=tweets&vertical=default) hashtag on Twitter
+- [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823#.qlpej1rcf) (chatbotsmagazine.com)
