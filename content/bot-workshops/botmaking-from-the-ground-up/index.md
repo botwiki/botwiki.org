@@ -3,7 +3,7 @@ Title: Botmaking from the Ground Up
 Description: A Beginner's Workshop on Automating Twitter with Bradley Momberger, creator of @we_didnt_start and @uber_but_for
 Thumbnail: /content/bot-workshops/images/bots-are-cool.png
 Date: October 1st, 2016
-Tags: bots,workshop,bot-workshops,event,upcoming
+Tags: bots,workshop,bot-workshops,event,archived
 Nav: hidden
 */
 
