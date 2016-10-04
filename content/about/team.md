@@ -38,6 +38,11 @@ I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot!
 
 
  
-**Botwiki** also has [very helpful volunteer contributors](https://github.com/botwiki/botwiki.org/graphs/contributors), including [Hugo](https://twitter.com/hugovk), who [automated our bot submission form](https://github.com/botwiki/botwiki.org/tree/master/submission-form-scripts), [Héctor](https://twitter.com/Zentaurus), who was the first [volunteer translator](https://github.com/botwiki/botwiki.org/blob/master/TRANSLATING-CONTENT.md), and [Kasey](https://twitter.com/bitpixi), who hosts [regular botmaking events in San Francisco, CA](http://www.meetup.com/Bay-Area-Bot-Arts/).
+**Botwiki** also has [very helpful volunteer contributors](https://github.com/botwiki/botwiki.org/graphs/contributors), including:
+
+- [Hugo](https://twitter.com/hugovk), who [automated our bot submission form](https://github.com/botwiki/botwiki.org/tree/master/submission-form-scripts),
+- [Héctor](https://twitter.com/Zentaurus), who was the first [volunteer translator](https://github.com/botwiki/botwiki.org/blob/master/TRANSLATING-CONTENT.md),
+- [Bradley](https://twitter.com/air_hadoken), who hosted the very first [Bot Workshop](/bot-workshops/),
+- and [Kasey](https://twitter.com/bitpixi), who hosts [regular botmaking events in San Francisco, CA](http://www.meetup.com/Bay-Area-Bot-Arts/).
 
 **Huge thanks goes to everyone involved on our projects!**
