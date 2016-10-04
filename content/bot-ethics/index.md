@@ -18,6 +18,7 @@ Nav: hidden
 
 - [Misbehaving bots](#misbehaving-bots)
 - [Biased algorithms](#biased-algorithms)
+- [Dangers in automation](#dangers-in-automation)
 - [General resources](#general-resources)
 - [Further reading](#see-also)
 
@@ -48,6 +49,11 @@ Nav: hidden
 - [A.I. Doesn't Get Black Twitter](https://www.inverse.com/article/21316-a-i-doesn-t-get-black-twitter-yet) (inverse.com)
 - [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
+
+
+### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
+
+- [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)
 
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
