@@ -33,7 +33,7 @@ To apply for this badge, send an email to [stefan@botwiki.org](mailto:stefan@bot
 
 Please also provide a short description that includes information on the targeted audience (beginner, advanced) and language(s) and technologies used.
 
-It is not necessary for the tutorial to be re-hosted on **Botwiki.org**, but if you'd like, this can be done :-)
+It is not necessary for the tutorial to be re-hosted on Botwiki, but if you'd like, this can be done :-)
 
 
 ### [¶](#monthly-bot-challenge-badge){.pilcrow} Monthly Bot Challenge Winner {#monthly-bot-challenge-badge}
