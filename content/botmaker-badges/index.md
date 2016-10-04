@@ -43,9 +43,7 @@ It is not necessary for the tutorial to be re-hosted on **Botwiki.org**, but if 
 This badge will be awarded to the winner of the **Monthly Bot Challenge**.
 
 
-For details, see the [Monthly Bot Challenge](/monthly-bot-challenge/) page.
-
-This badge will be for anyone who writes tutorials for botmakers.
+For details, see the [Monthly Bot Challenge](/monthly-bot-challenge/) page, or [browse the past winners](/tag/monthlybotchallenge+winner).
 
 **More badges are coming soon!** 
 
