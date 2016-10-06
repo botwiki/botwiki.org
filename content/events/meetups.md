@@ -23,6 +23,10 @@ See also:
 - [Botmakers](http://www.meetup.com/botmakers/), the official Botwiki/Botmakers [Meetup](http://www.meetup.com/) group
 - [New York Slack Meetup](http://www.meetup.com/New-York-Slack-Meetup/), created by [David Markovich](https://twitter.com/DavidMarkovich_)
 
+### [¶](#austin-tx){.pilcrow} Austin, Texas {#austin-tx}
+
+- [Talkabot ATX](https://www.meetup.com/Talkabot-ATX/): "a monthly meetup where we will explore the past, present and future of bots in commerce, journalism and entertainment"
+
 ### [¶](#san-francisco){.pilcrow} San Francisco {#san-francisco}
 
 - [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/), hosted by [Kasey](https://twitter.com/bitpixi). Follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
