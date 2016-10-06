@@ -14,6 +14,9 @@ Nav: hidden
   </p>
 </div>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Misbehaving bots](#misbehaving-bots)
