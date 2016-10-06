@@ -58,7 +58,7 @@ Nav: hidden
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
-- [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) (Amir Shevat via techcrunch.com)
+- [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) ([Amir Shevat](https://twitter.com/ashevat) via techcrunch.com)
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)
 - [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](http://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) (nytimes.com)
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
@@ -66,8 +66,9 @@ Nav: hidden
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
 - [General essays on Botwiki](/articles/#general-essays)
-- [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
-- [Humane Tech](https://medium.com/humane-tech)
+- [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
+- [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/) (socialmediacollective.org)
+- [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash))
 - [@algorithm_club](https://twitter.com/algorithm_club) -- Twitter book club on the theme of critical algorithm studies 
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 
