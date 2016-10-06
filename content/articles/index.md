@@ -7,15 +7,18 @@ Show donation link: yes
 Weight: 4
 */
 
+For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter!
 
-For the latest articles, subscribe to the [Bot! zine](http://botzine.org/) and follow [@botwikidotorg](https://twitter.com/botwikidotorg). Below is a [selection of blogs](#blogs), [essays](#general-essays), [a few hand-picked articles](#selected-articles) and [videos](#videos) of talks.
+### [¶](#page-content){.pilcrow} Page content {#page-content}
 
-Enjoy!
+- [Blogs and websites](#blogs-and-websites)
+- [Essays](#general-essays)
+- [Selected articles](#selected-articles)
+- [Books and other literature](#books)
+- [Videos](#videos)
+- [See also](#see-also)
 
-***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
-
-
-### [¶](#blogs){.pilcrow} Blogs {#blogs}
+### [¶](#blogs-and-websites){.pilcrow} Blogs and websites {#blogs-and-websites}
 
 - [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch)
 - [@algorithm_club](https://twitter.com/algorithm_club) --  Twitter book club on the theme of critical algorithm studies 
@@ -26,9 +29,6 @@ Enjoy!
 - [Posts tagged #ai on oreilly.com](https://www.oreilly.com/topics/ai) (see also [O'Reilly Bots Podcast](https://itunes.apple.com/us/podcast/what-are-bots-heres-background./id1145426486?i=1000374278363))
 - [Posts tagged #bots on venturebeat.com](http://venturebeat.com/tag/bots/)
 - [Chatbots Magazine](https://chatbotsmagazine.com/): "The #1 Place to Learn About Chatbots"
-
-See also
-
 - [r/botsrights](https://www.reddit.com/r/botsrights)
 - [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter, by [@NoraReed](https://twitter.com/NoraReed)
 - [CuratedAI](http://curatedai.com/)
@@ -40,7 +40,7 @@ See also
 
 - [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
 
-### [¶](#general-essays){.pilcrow} General, essays {#general-essays}
+### [¶](#general-essays){.pilcrow} Essays {#general-essays}
 
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (harrygiles.org)
@@ -53,107 +53,14 @@ See also
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 
-See also
-
-- [Bot ethics](/bot-ethics)
-
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
-#### [¶](#selected-articles-2016){.pilcrow} 2016 {#selected-articles-2016}
+- [2016](/articles/selected-articles/2016)
+- [2015](/articles/selected-articles/2015)
+- [2014](/articles/selected-articles/2014)
+- [2013](/articles/selected-articles/2013)
+- [1996](/articles/selected-articles/1996)
 
-
-- [Some Like It Bot: Algorithms are getting better at entertaining us](http://fivethirtyeight.com/features/some-like-it-bot/?ex_cid=story-twitter&utm_content=bufferb34bc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (fivethirtyeight.com)
-- [Google, Facebook, and Microsoft Team Up to Keep AI From Getting Out of Hand](https://www.wired.com/2016/09/google-facebook-microsoft-tackle-ethics-ai/) (wired.com)
-- [Chris Messina: Bots are teaching computers how we talk](http://venturebeat.com/2016/09/28/chris-messina-bots-are-teaching-computers-how-we-talk/) (venturebeat.com)
-- [The AI revolution: 19th century redux?](http://venturebeat.com/2016/09/24/the-ai-revolution-19th-century-redux/) (venturebeat.com)
-- [Bots: What I Learned at Botcamp Day](https://medium.com/startup-grind/bots-what-i-learned-at-botcamp-day-42ea2432ed17#.h0m2m7git) ([Lylan Masterman](https://twitter.com/lylanm) via medium.com)
-- [Bot is just a feature!](https://chatbotsmagazine.com/bot-is-just-a-feature-4c2d510ac194#.ak7zwvc5o) (chatbotsmagazine.com)
-- [Twitter Bots and how they can Tell History](https://thecoverpage.pushpullfork.com/twitter-bots-and-how-they-can-tell-history-46e9866bdaa#.r9iidgnmt) (thecoverpage.pushpullfork.com)
-- [Can You Clone Yourself on Twitter?](http://www.gq.com/story/can-you-clone-yourself-on-twitter) (gq.com)
-- [This Bot Tries to Empathise With Your Emotional Tweets](http://motherboard.vice.com/en_ca/read/this-bot-tries-to-empathise-with-your-emotional-tweets) (motherboard.vice.com)
-- [How to Build a Chatbot-Powered Newsroom](https://medium.com/startup-grind/bot-%EF%B8%8F-with-rebecca-harris-192c1223b8ab#.vx6klhsia) ([Sar Haribhakti](https://twitter.com/sarthakgh) via medium.com)
-- [Robot-written reviews fool academics](https://www.timeshighereducation.com/news/robot-written-reviews-fool-academics) (timeshighereducation.com)
-- [The AI Now Report: social/economic implications of near-future AI](http://boingboing.net/2016/09/24/the-ai-now-report-socialecon.html) (boingboing.net)
-- [Why we are still a long way from a ‘killer’ chatbot](http://venturebeat.com/2016/09/19/why-we-are-still-a-long-way-from-a-killer-chatbot/) (venturebeat.com)
-- [7 predictions from early-stage bot investors](http://venturebeat.com/2016/09/16/7-predictions-from-early-stage-bot-investors/) (venturebeat.com)
-- [Artificial Intelligence Software Is Booming. But Why Now?](http://www.nytimes.com/2016/09/19/technology/artificial-intelligence-software-is-booming-but-why-now.html) (nytimes.com)
-- [Why Facebook and Microsoft say chatbots are the talk of the town](https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley) (theguardian.com)
-- [How Driverless Cars May Interact With People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html) (nytimes.com)
-- [This AI Sees Things in Art That Humans Don't](http://motherboard.vice.com/read/this-ai-sees-things-in-art-that-humans-dont) (motherboard.vice.com)
-- [Growing up in Generation AI](https://techcrunch.com/2016/09/03/growing-up-in-generation-ai/) (techcrunch.com)
-- [Toward Automated Discovery of Artistic Influence](http://arxiv.org/abs/1408.3218)
-- [One Hundred Year Study on Artificial Intelligence](https://ai100.stanford.edu/2016-report) (stanford.edu)
-- [Four Months Into 'Chatbot Revolution,' Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo?utm_term=.qdPWaaZvl#.ospGWWOVd) (buzzfeed.com)
-- [Why Facebook Messenger doesn’t have a bot store](http://venturebeat.com/2016/09/01/why-facebook-messenger-doesnt-have-a-bot-store/) (venturebeat.com)
-- [The Return of the Chatbots: Experiment, Engage, and Be Genuine](http://www.huffingtonpost.com/advertising-week/the-return-of-the-chatbot_b_11679482.html) (huffingtonpost.com)
-- [The Concept of 'Cat Face'](http://www.lrb.co.uk/v38/n16/paul-taylor/the-concept-of-cat-face) (lrb.co.uk)
-- [Bots Landscape (August 2016, PDF)](/content/articles/download/bots-landscape-v2-final.pdf) by [Jon Cifuentes](https://twitter.com/joncifuentes)
-- [A short history of chatbots and artificial intelligence](http://venturebeat.com/2016/08/15/a-short-history-of-chatbots-and-artificial-intelligence/) (*venturebeat.com*)
-- [Checking In On Chat Bots](http://avc.com/2016/08/checking-in-on-chat-bots/) ([Fred Wilson](https://twitter.com/fredwilson) via *avc.com*)
-- [The Big, Fat Myth About Bots](http://www.forbes.com/sites/parmyolson/2016/08/17/the-big-fat-myth-about-bots/#17b01c0b7b98) (*forbes.com*)
-- [Bots are Better Without Conversation](https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.3uucne8oh) ([Ted Livingston](https://twitter.com/ted_livingston), Founder and CEO of Kik, via *medium.com*)
-- [President Obama now has a Facebook Messenger bot](http://venturebeat.com/2016/08/10/president-obama-now-has-a-facebook-messenger-bot/) (*venturebeat.com*)
-- [People are already having a difficult time using Facebook's new chat bots](http://www.techinsider.io/facebook-messenger-chat-bots-disappoint-quickly-2016-4)
-- [Robert "Botfather" Hoffer will explain the amazing success, and failure, of SmarterChild bot](http://venturebeat.com/2016/07/11/robert-botfather-hoffer-will-explain-the-amazing-success-and-failure-of-smarterchild-bot-at-mobilebeat/)
-- [As Bots Rise Up, Some Level the Playing Field](http://fortune.com/2016/05/21/bots-rise-up/) (fortune.com)
-- [Boltmade’s 31 Days of Bots in May](https://medium.com/boltmades-31-days-of-bots-in-may) ([Boltmade](https://twitter.com/boltmade) via *medium.com*)
-- [The Future of Conversational UI Belongs to Hybrid Interfaces](https://medium.com/the-layer/the-future-of-conversational-ui-belongs-to-hybrid-interfaces-8a228de0bdb5#.gqwehkycs) ([Tomaz Stolfa](https://twitter.com/tomazstolfa) via medium.com)
-- [What Chatbots Reveal About Our Own Shortcomings](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0) (*nytimes.com*)
-- [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.tpmdlmw3h) (*chatbotsmagazine.com*)
-- [How I turned my resume into a bot](https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.m1841rzcl) ([Esther Crawford](https://twitter.com/EstherCrawford) via *medium.com*) 
-- [Conversational User Interfaces](https://medium.com/the-mission/the-future-of-cui-isn-t-conversational-fa3d9458c2b5#.g1oz0sm6o) ([Daniel Eckler](https://twitter.com/daniel_eckler) via *medium.com*)
-- [Bots and the Future of Education](https://medium.com/synapse/bots-and-the-future-of-education-bc7c0e4b0d34#.gc1a4mc67) ([W. Ian O'Byrne](https://twitter.com/wiobyrne) via *medium.com*)
-- [We don't know how to build conversational software yet](https://medium.com/lastmile-conversations/we-don-t-know-how-to-build-conversational-software-yet-a18301db0e4b#.uypkm6dxc) ([@alanmnichol](*https://twitter.com/alanmnichol) via *medium.com*)
-- [Bots, explained: What is a bot, who’s making them, and why](http://recode.net/2016/04/11/what-are-bots/) (*recode.net*)
-- [Bots for Beginners (interview with Emma Winston](http://www.andfestival.org.uk/blog/bots-for-beginners-emma-winston/) (*andfestival.org.uk*)
-- [The next hot job in Silicon Valley is for poets](https://www.washingtonpost.com/news/the-switch/wp/2016/04/07/why-poets-are-flocking-to-silicon-valley/) (*washingtonpost.com*)
-- [Chat bots, conversation and AI as an interface](http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface) (*ben-evans.com*)
-- [Clippy’s Back: The Future of Microsoft Is Chatbots](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/) (*bloomberg.com*)
-- [Behind Facebook Messenger's plan to be an app platform](http://www.engadget.com/2016/03/29/behind-facebook-messengers-plan-to-be-an-app-platform/) (*engadget.com*)
-- [Microsoft Chat Bot Goes On Racist, Genocidal Twitter Rampage](http://www.huffingtonpost.com/entry/microsoft-tay-racist-tweets_us_56f3e678e4b04c4c37615502) (*huffingtonpost.com*)
-- [That weird thing Jeff Bezos said 17 years ago](https://medium.com/building-the-robot-assistant/that-weird-thing-jeff-bezos-said-17-years-ago-3d9d3596c888#.75ibpjpzv) (Matty Mariansky via *medium.com*)
-- [What Bots May Come](https://medium.com/@_roysd/what-bots-may-come-a35b2bb9bd58#.1gycvqqgz) (Suman Deb Roy via *medium.com*)
-- [Facebook’s Messenger Bot Store could be the most important launch since the App Store](http://techcrunch.com/2016/03/17/facebooks-messenger-in-a-bot-store/) (*techcrunch.com*)
-- [The Premise Podcast: Rise Of The Bots](http://www.forbes.com/sites/bruceupbin/2016/03/10/listen-to-the-premise-podcast-episode-2-rise-of-the-bots/#526ae55a4875) (*forbes.com*, podcast)
-- [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce#.2nqajjvet) (*points.datasociety.net*)
-- [A Brief Survey of Journalistic Twitter Bot Projects](https://points.datasociety.net/a-brief-survey-of-journalistic-twitter-bot-projects-109204a8d585#.tl6u3z6cj) (*points.datasociety.net*)
-- [On Chatbots](http://techcrunch.com/2016/02/16/on-chatbots/) (*techcrunch.com*)
-- [The fall...and rise and rise and rise of chat networks](http://arstechnica.com/business/2016/02/the-fall-and-rise-and-rise-and-rise-of-chat-networks/) (*arstechnica.com*)
-- [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities) (*fastcodesign.com*)
-
-#### [¶](#selected-articles-2015){.pilcrow} 2015 {#selected-articles-2015}
-
-- [Agent, Droid, Infobot: the texty Twitter robots Tully Hansen has known and loved](http://www.wheelercentre.com/notes/twitter-bots-tully-hansen-has-known-and-loved) by [Tully Hansen](https://twitter.com/tullyhansen) (*wheelercentre.com*)
-- [Forget Apps, Now The Bots Take Over](http://techcrunch.com/2015/09/29/forget-apps-now-the-bots-take-over/) (*techcrunch.com*)
-- [Twitter Contest Winning as a Service](http://www.hscott.net/twitter-contest-winning-as-a-service/) (*hscott.net*)
-- [They should have sent a Twitter bot poet](http://www.avclub.com/article/they-should-have-sent-twitter-bot-poet-222947) (*avclub.com*)
-- [Stay Woke Bot](http://feeltrain.com/blog/stay-woke/): Darius Kazemi created a Twitter bot that "helps activists handle their haters" (*feeltrain.com*)
-- [More on conversational UIs](http://interconnected.org/home/2015/06/28/more_on_conversational_uis) (*interconnected.org*)
-- [The Future of UI Design? Old-School Text Messages](http://www.wired.com/2015/06/future-ui-design-old-school-text-messages/) (*wired.com*)
-- [Slack is the Operating System](https://medium.com/@benbrown/slack-is-the-operating-system-6bae1a6c0291) ([Ben Brown](https://twitter.com/benbrown) via *medium.com*)
-- [Is Twitter the Next Gaming Platform?](http://iq.intel.com/is-twitter-the-next-playground-for-gamers/) (*iq.intel.com*)
-- [Bot or Not](http://www.nybooks.com/blogs/nyrblog/2015/mar/11/twitter-bot-or-not/): *Because the Twitterverse is made of text, rather than rocks and trees and bones and blood, it’s suddenly quite easy to make bots. Now there are millions, by Twitter’s own estimates—most of them short-lived and invisible nuisances.* (*nybooks.com*)
-- [A Brief History Of The Future Of Twitter Bots (pdf)](http://www.gamesbyangelina.org/talks/codecamp.pdf), by [Michael Cook](https://twitter.com/mtrc) [[mirror]](/content/articles/download/michael_cook--a_brief_history_of_the_future_of_twitter_bots.pdf)
-
-
-#### [¶](#selected-articles-2014){.pilcrow} 2014 {#selected-articles-2014}
-
-- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa) (Mark Sample via medium.com)
-- [Quakebots and Pageview Quotas: Bot or Be Botted?](https://source.opennews.org/en-US/articles/bot-or-be-botted/) (*opennews.org*)
-- [People Think Computer Journalists Are More Trustworthy Than Human Ones](http://motherboard.vice.com/read/people-think-computers-are-more-trustworthy-journalists-than-humans) (*motherboard.vice.com*)
-- [Could robots be the journalists of the future?](http://www.theguardian.com/media/shortcuts/2014/mar/16/could-robots-be-journalist-of-future) (*theguardian.com*)
-- [Keeping Up with the Scientific Literature using Twitterbots: The FlyPapers Experiment](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/) (*caseybergman.wordpress.com*)
-
-#### [¶](#selected-articles-2013){.pilcrow} 2013 {#selected-articles-2013}
-
-- [The Rise of Twitter Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots) (*newyorker.com*)
-- [Genre: Bot](http://iloveepoetry.com/?p=5427): reviews of various Twitter bots on [iloveepoetry.com](http://iloveepoetry.com/?p=5427)
-- [Beyond the GUI: It's Time for a Conversational User Interface](http://www.wired.com/2013/03/conversational-user-interface/) (*wired.com*)
-- [Amazon’s $23,698,655.93 book about flies](http://www.michaeleisen.org/blog/?p=358) (*michaeleisen.org*)
-
-#### [¶](#selected-articles-1996){.pilcrow} 1996 {#selected-articles-1996}
-
-- [Bots Are Hot!](http://www.wired.com/1996/04/netbots/) (*wired.com*)
 
 ### [¶](#videos){.pilcrow} Videos and slides from talks {#videos}
 
@@ -166,4 +73,11 @@ See also
 - [A session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
 - [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM) ([George Buckenham](https://twitter.com/v21))
 - [Videos from the alt-AI conference](http://alt-ai.net/#watch) (learn more about the event [here](/events/alt-ai-may-2016/))
+
+### [¶](#see-also){.pilcrow} See also {#see-also}
+
+- [Bot ethics](/bot-ethics)
+
+
+***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
 
