@@ -17,8 +17,14 @@ Tags: event,archived
 - [Talkabot schedule & interviews](https://blog.howdy.ai/talkabot-schedule-interviews-8cb8e3deb190#.4e5ydjruw)
 - The official [@TalkabotConf](https://twitter.com/TalkabotConf) Twitter account
 - The [#talkabot](https://twitter.com/hashtag/talkabot?f=tweets&vertical=default) hashtag on Twitter
+
+
+
+### [¶](#event-coverage){.pilcrow} Event coverage {#event-coverage}
+
 - [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823#.qlpej1rcf) (chatbotsmagazine.com)
-- [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023#.2qgy74oc0)
+- [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023#.2qgy74oc0) (Slack Platform Blog via medium.com)
+- [Talkabot and the current state of chatbots](https://chatbotsmagazine.com/talkabot-3-key-themes-and-takeaways-ff3a9e27f81b#.a6y50vvvj) (chatbotsmagazine.com)
 
 <!--
 - Talkabot conference liveblogging: [Part 1](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023#.2qgy74oc0), [Part 2]()
