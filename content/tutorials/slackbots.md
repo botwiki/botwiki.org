@@ -31,7 +31,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Attachments](https://api.slack.com/docs/attachments) -- create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders) -- create and manage reminders for users
 
-See also [list of all API methods](https://api.slack.com/methods) and [announcements of API changes](https://twitter.com/search?q=%23changelog%20from%3ASlackAPI).
+See also [list of all API methods](https://api.slack.com/methods) and [announcements of API changes](https://twitter.com/search?f=tweets&vertical=default&q=%23changelog%20from%3ASlackAPI) via [@SlackAPI](https://twitter.com/SlackAPI).
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
