@@ -33,8 +33,8 @@ Choose the network on which you want to deploy your bot:
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
+- [General programming](/tutorials/general-programming)
 - [Bot hosting](/tutorials/bot-hosting)
-- [Learn to work with web APIs](/tutorials/web-apis)
 - [Chat/conversational interfaces](/tutorials/chat)
 - [Machine learning, NLP, AI](/tutorials/machine-learning-nlp-ai)
 - [Bot ethics](/bot-ethics)

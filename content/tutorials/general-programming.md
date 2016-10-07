@@ -1,8 +1,8 @@
 /*
-Title: Other and unsorted tutorials
-Description: ¯\_(ツ)_/¯
+Title: General programming resources
+Description: Learn to code before you code a bot!
 Thumbnail: /content/images/illustrations/man-reading-mail.png
-Tags: rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio,ibm,watson,markov,markov chains
+Tags: tutorials,programming,api,apis,rhymes,rhyming,emoji,wikipedia,cron,sms,text,twilio,ibm,watson,markov,markov chains
 Show donation link: yes
 Nav: hidden
 */
@@ -11,6 +11,26 @@ Nav: hidden
   <p>Before you start making bots, consider reading <a href="/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
+
+
+### [¶](#page-content){.pilcrow} Page content {#page-content}
+
+- [General tutorials](#general)
+- [Web APIs](#web-apis)
+- [Microsoft Bot Framework](#microsoft-bot-framework)
+- [IBM Watson tutorials](#watson)
+- [Twilio](#twilio)
+- [Unsorted tutorials](#unsorted)
+
+### [¶](#general){.pilcrow} General tutorials {#general}
+
+- [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (uses JavaScript and node.js)
+
+### [¶](#web-apis){.pilcrow} Web APIs {#web-apis}
+
+- [Codecademy](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
+- [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
+
 
 
 ### [¶](#microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#microsoft-bot-framework}
@@ -39,4 +59,5 @@ Nav: hidden
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/)
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/)
 
-If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
+
+Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
