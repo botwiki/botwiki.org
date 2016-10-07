@@ -69,6 +69,7 @@ Nav: hidden
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
 - [General essays on Botwiki](/articles/#general-essays)
+- [Ethical Machines](http://ethicalmachines.com/) -- podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5#.zc7yorhn3)
 - [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
 - [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/) (socialmediacollective.org)
 - [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash))
