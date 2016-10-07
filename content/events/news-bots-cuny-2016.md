@@ -4,7 +4,7 @@ Link: https://newsbots.splashthat.com/
 Date: October 5, 2016
 Description: In this two-hour workshop, John Keefe, Senior Editor for Data News & Journalism Technology at WNYC, will explain what bots are, how they work and what they may mean for journalism.
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=219+W.+40th+Street+New+York&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
