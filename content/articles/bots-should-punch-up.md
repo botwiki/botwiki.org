@@ -5,7 +5,7 @@ Description: "Always punch up, never punch down!"
 Nav: hidden
 */
 
-*Originally posted on [crummy.com](http://www.crummy.com/2013/11/27/0) by [Leonard Richardson](https://twitter.com/leonardr)*
+*Originally posted on [crummy.com](http://www.crummy.com/2013/11/27/0) by [Leonard Richardson](https://twitter.com/leonardr). See also: [Bot Ethics](/bot-ethics/).*
 
 Over the weekend I went up to Boston for Darius Kazemi's ["bot summit"](http://tinysubversions.com/2013/11/bot-summit/). You can see the four-hour video if you're inclined. I talked about [@RealHumanPraise](https://twitter.com/realhumanpraise) with Rob, and I also went on a long-winded rant that suggested a model of extreme bot self-reliance. If you take your bots seriously as works of art, you should be prepared to continue or at least preserve them once you're inevitably shut off from your data sources and your platform.
 
