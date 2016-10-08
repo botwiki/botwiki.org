@@ -38,6 +38,7 @@ Nav: hidden
 - [What Good is a Bad Bot?](https://blog.howdy.ai/what-good-is-a-bad-bot-841226281a0e#.1ef1zinl9) (blog.howdy.ai)
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb#.cd051jijs) (Amir Shevat via Slack Platform Blog)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473#.2gtskxus8) (blog.howdy.ai)
+- [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
 
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
 - [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
