@@ -12,13 +12,12 @@ Nav: hidden
   </p>
 </div>
 
-
-
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Natural language processing](#natural-language-processing)
 - [Machine learning](#machine-learning)
 - [General tutorials](#general)
+- [With Julia](#with-julia)
 - [TensorFlow](#tensorflow)
 - [WaveNet](#wavenet)
 
@@ -41,7 +40,7 @@ Nav: hidden
 - [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
-
+- [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.8fdijw1xh) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
@@ -49,6 +48,10 @@ Nav: hidden
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
+
+### [¶](#with-julia){.pilcrow} [With Julia](https://www.tensorflow.org/) {#with-julia}
+
+- [An Introduction to Machine Learning in Julia](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)(juliacomputing.com)
 
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
