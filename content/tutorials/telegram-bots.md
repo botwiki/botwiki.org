@@ -64,6 +64,6 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 
 - [Exploring Telegram Bot API for Groups](https://unnikked.ga/exploring-bot-group-api)
 - [Server-side architecture for building Telegram bots](https://medium.com/@JonathanZWhite/server-side-infrastructure-when-bots-invade-a2252e9d4bc9#.wfdbfkiwn)
-- [How to create your custom Telegram bot using the long polling technique](https://unnikked.ga/how-to-create-your-custom-telegram-bot-using-the-long-polling-technique/?utm_source=twitter&utm_medium=tweet&utm_campaign=unnikked)
+- [How to create your custom Telegram bot using the long polling technique](https://unnikked.ga/how-to-create-your-custom-telegram-bot-using-the-long-polling-technique/)
 
 You can also [browse all Telegram bots](/tag/telegrambot), or check out the [Resources](/resources/telegram-bots) page.

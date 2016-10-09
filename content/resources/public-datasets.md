@@ -56,7 +56,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Full Hacker News dataset (now available on BigQuery)](https://news.ycombinator.com/item?id=10440502)
 - [Old Fulton NY Post Cards](http://www.fultonhistory.com/Fulton.html) -- search over 33,100,000 historical newspaper pages (US and Canada)
 - [Apollo11GuidanceComputerVertAndNounList.txt](https://gist.github.com/jeffThompson/21a72eadf545ede99279) -- a list of "nouns" and "verbs" to control the Apollo 11 guidance computer
-- [30,000 published crossword puzzles](https://www.reddit.com/r/datasets/comments/46jol1/dataset_30000_published_crossword_puzzles/?utm_source=dlvr.it&utm_medium=twitter)
+- [30,000 published crossword puzzles](https://www.reddit.com/r/datasets/comments/46jol1/dataset_30000_published_crossword_puzzles/)
 - [Structured data from ingredient phrases using conditional random fields](https://github.com/NYTimes/ingredient-phrase-tagger)
 - [Open Images Dataset by Google](https://github.com/openimages/dataset) -- dataset consisting of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories ([related blog post](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html))
 
@@ -64,7 +64,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
 - [openNASA](https://open.nasa.gov/) -- 30k+ data sets from NASA
 - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue) -- a database of all discovered extra-solar planets
-- [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) -- 
+- [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) --
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 - [Uber trip data](https://github.com/fivethirtyeight/uber-tlc-foil-response) from a freedom of information request to NYC's Taxi & Limousine Commission
 
@@ -73,7 +73,7 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 
 ### [¶](#datasets-movies){.pilcrow} Movies {#datasets-movies}
 - [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
-- [Movielens Data by GroupLens](http://grouplens.org/datasets/movielens/) -- rating data sets from the [MovieLens](http://movielens.org) web site 
+- [Movielens Data by GroupLens](http://grouplens.org/datasets/movielens/) -- rating data sets from the [MovieLens](http://movielens.org) web site
 - [UC Irvine Machine Learning Lab’s Movie Data Set](https://archive.ics.uci.edu/ml/datasets/Movie) -- a list of over 10000 films including many older, odd, and cult films
 - [Hadley Wickham’s Normalized IMDB Movie Data](http://had.co.nz/data/movies/)
 - [AM Stat Movie Data Set](http://www.amstat.org/publications/jse/v17n1/datasets.mclaren.html) -- weekend and daily per theater box office receipt data as well as total U.S. gross receipts
