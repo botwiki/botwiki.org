@@ -39,7 +39,7 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [Dexter](https://rundexter.com/) -- in beta, promises to make connecting third-party APIs easy (includes Slack)
 - [Beep Boop](https://beepboophq.com/) -- "a ridiculously simple hosting platform for your Slackbots", limited free accounts or $5/month
 - [Slack.Pipe](http://slack.datastack.co/) -- allows you to create custom bots from any API
-- [Natural Language Slackbots with Wit.ai and Beep Boop](https://blog.beepboophq.com/natural-language-slackbots-with-wit-ai-and-beep-boop-c007cf303c04#.vqo9vksf1) (tutorial)
+- [Natural Language Slackbots with Wit.ai and Beep Boop](https://blog.beepboophq.com/natural-language-slackbots-with-wit-ai-and-beep-boop-c007cf303c04) (tutorial)
 
 #### [¶](#tools-other){.pilcrow} Other {#tools-other}
 

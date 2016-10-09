@@ -14,4 +14,4 @@ Robots: index,follow
 
 > The bot tweets these images with a randomly assigned Latin name: a new species of clitoris to discover each day! Promoting cliteracy through art.
 
-Check out the [project page](http://startuple.works/projects/clitoris-vulgaris) and a [related blog post](https://medium.com/@startuple/clitoris-vulgaris-c5adb5264e74#.y7gbi4ikf).
+Check out the [project page](http://startuple.works/projects/clitoris-vulgaris) and a [related blog post](https://medium.com/@startuple/clitoris-vulgaris-c5adb5264e74).

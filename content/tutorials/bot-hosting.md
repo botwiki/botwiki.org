@@ -40,7 +40,7 @@ You have quite a few options when it comes to hosting your bots!
 - [Botomatic](http://www.botomatic.co/)
 - [BOT libre!](http://www.botlibre.com/) -- create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
 
-See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (and a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a#.viovoredf))
+See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (and a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a))
 
 ### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
 
@@ -68,7 +68,7 @@ See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (an
 
 
 
-See also: [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6#.5b0vc2x46) on the [Slack API Developer Blog](https://medium.com/slack-developer-blog).
+See also: [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6) on the [Slack API Developer Blog](https://medium.com/slack-developer-blog).
 
 
 ### [¶](#notes){.pilcrow} Notes {#notes}

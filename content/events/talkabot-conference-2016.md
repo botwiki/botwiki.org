@@ -14,7 +14,7 @@ Tags: event,archived
 - 9am - 6pm
 - Fair Market - 1100 East 5th Street, Austin, TX 78702 ([map](https://www.google.com/maps/dir/Current+Location/Fair+Market+1100+East+5th+Street+Austin+TX+78702))
 - [Event page](https://www.eventbrite.com/e/talkabot-conference-tickets-24627590787)
-- [Talkabot schedule & interviews](https://blog.howdy.ai/talkabot-schedule-interviews-8cb8e3deb190#.4e5ydjruw)
+- [Talkabot schedule & interviews](https://blog.howdy.ai/talkabot-schedule-interviews-8cb8e3deb190)
 - The official [@TalkabotConf](https://twitter.com/TalkabotConf) Twitter account
 - The [#talkabot](https://twitter.com/hashtag/talkabot?f=tweets&vertical=default) hashtag on Twitter
 
@@ -22,10 +22,10 @@ Tags: event,archived
 
 ### [¶](#event-coverage){.pilcrow} Event coverage {#event-coverage}
 
-- [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823#.qlpej1rcf) (chatbotsmagazine.com)
-- [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023#.2qgy74oc0) (Slack Platform Blog via medium.com)
-- [Talkabot and the current state of chatbots](https://chatbotsmagazine.com/talkabot-3-key-themes-and-takeaways-ff3a9e27f81b#.a6y50vvvj) (chatbotsmagazine.com)
+- [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823) (chatbotsmagazine.com)
+- [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023) (Slack Platform Blog via medium.com)
+- [Talkabot and the current state of chatbots](https://chatbotsmagazine.com/talkabot-3-key-themes-and-takeaways-ff3a9e27f81b) (chatbotsmagazine.com)
 
 <!--
-- Talkabot conference liveblogging: [Part 1](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023#.2qgy74oc0), [Part 2]()
+- Talkabot conference liveblogging: [Part 1](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023), [Part 2]()
 -->

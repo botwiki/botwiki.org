@@ -39,8 +39,8 @@ Nav: hidden
 
 ### [¶](#watson){.pilcrow} IBM Watson tutorials {#watson}
 
-- [An Adventure with Watson](https://medium.com/@snrubnomis/an-adventure-with-watson-afdebf699f91#.x6agljig2)
-- [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10#.p31ox7ml1) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
+- [An Adventure with Watson](https://medium.com/@snrubnomis/an-adventure-with-watson-afdebf699f91)
+- [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
 
 ### [¶](#twilio){.pilcrow} Twilio {#twilio}
 
@@ -48,10 +48,10 @@ Nav: hidden
 
 ### [¶](#unsorted){.pilcrow} Unsorted tutorials {#unsorted}
 
-- [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2#.m5nkwagsh)
-- [How to interact with bots? Dealing with the complexity of a new design paradigm](https://chatbotsmagazine.com/how-to-interact-with-bots-dealing-with-the-complexity-of-a-new-design-paradigm-e89fd7131921#.56c4ywczd)
+- [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2)
+- [How to interact with bots? Dealing with the complexity of a new design paradigm](https://chatbotsmagazine.com/how-to-interact-with-bots-dealing-with-the-complexity-of-a-new-design-paradigm-e89fd7131921)
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372)
-- [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.cbx4cb7ft)
+- [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd)
 - [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/)
