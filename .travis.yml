@@ -18,7 +18,7 @@ install:
   - npm install gulp --save-dev
   - npm install
 
-  - pip install "pip>=1.5.6"
+  - pip install -U "pip>=1.5.6"
   - pip install "pycrypto>=2.6"
   - pip install requests pyOpenSSL ndg-httpsclient pyasn1
   - pip install docutils
