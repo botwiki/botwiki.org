@@ -8,14 +8,14 @@ if(document.querySelectorAll === void 0 || window.pageYOffset === void 0 || hist
 var getTop = function(element) {
     if(element.nodeName === 'HTML'){
       return -window.pageYOffset;
-    } 
+    }
     return element.getBoundingClientRect().top + window.pageYOffset;
 };
 var easeInOutCubic = function (t) { return t<0.5 ? 4*t*t*t : (t-1)*(2*t-2)*(2*t-2)+1; };
 var position = function(start, end, elapsed, duration) {
     if (elapsed > duration){
       return end;
-    } 
+    }
     return start + (end - start) * easeInOutCubic(elapsed / duration); // <-- you can change the easing funtion there
 };
 var smoothScroll = function(el, duration, callback){
@@ -77,14 +77,14 @@ ready(function(){
   for (var i = 0, j = paragraphs.length; i < j; ++i) {
   /* Inelegant fix for Pico wrapping images in P tags. */
     if (paragraphs[i].textContent.trim() === ''){
-      paragraphs[i].classList.add('empty-element');    
+      paragraphs[i].classList.add('empty-element');
       console.log(0);
     }
   }
 
   window.onscroll=function(){
     var backToTop = document.getElementById('back-to-top');
-    var documentScrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0
+    var documentScrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
 
     if (documentScrollTop > (screen.height/2)){
       backToTop.classList.add('slide-up');
@@ -92,7 +92,7 @@ ready(function(){
     }
     else{
       backToTop.classList.remove('slide-up');
-      backToTop.classList.add('slide-down');          
+      backToTop.classList.add('slide-down');
     }
 
 
@@ -115,20 +115,21 @@ ready(function(){
   function getElementByIdFromNode(id, rootNode) {
   /* Based on http://stackoverflow.com/questions/3902671/getelementbyid-doesnt-work-on-a-node */
     var nodes = [];
+    var i, j;
     nodes.push(rootNode);
     while ( nodes && nodes.length > 0 ) {
       var children = [];
-      for ( var i = 0; i<nodes.length; i++ ) {
+      for ( i = 0; i<nodes.length; i++ ) {
         var node = nodes[i];
-        if ( node && node['id'] !== undefined ) {
-          if ( node.id == id ) {
+        if ( node && node.id !== undefined ) {
+          if ( node.id === id ) {
             return node;
           }
         }
 
         var childNodes = node.childNodes;
         if ( childNodes && childNodes.length > 0 ) {
-          for ( var j = 0 ; j < childNodes.length; j++ ) {
+          for ( j = 0 ; j < childNodes.length; j++ ) {
             children.push( childNodes[j] );
           }
         }
@@ -139,7 +140,7 @@ ready(function(){
   }
 
   try{
-    hljs.initHighlightingOnLoad();      
+    hljs.initHighlightingOnLoad();
   }
   catch(err){/*noop*/}
 
@@ -149,14 +150,14 @@ ready(function(){
 
   document.getElementById('back-to-top').addEventListener("click", function(ev){
     ev.preventDefault();
-    smoothScroll(0, 500);      
+    smoothScroll(0, 500);
   }, false);
 
   var articleImages = document.querySelectorAll('article img');
 
-  for (var i = 0, j = articleImages.length; i < j; i++){
+  for (i = 0, j = articleImages.length; i < j; i++){
     articleImages[i].dataset.src = articleImages[i].src;
-    articleImages[i].classList.add('lazy-load');    
+    articleImages[i].classList.add('lazy-load');
   }
 
   var lazyLoadedImages = document.getElementsByClassName('search-text-after-image');
