@@ -1,7 +1,7 @@
 /*
 Title: Botwiki Merchandise
 Description: Support Botwiki through buying T-shirts, stickers, and more!
-Thumbnail: /content/merch/images/thumbnail-01.png
+Thumbnail: /content/merch/images/botwiki-merch.png
 */
 
 You can now support Botwiki through buying [stickers](https://www.stickermule.com/user/1070736888/stickers), [T-shirts](http://www.zazzle.com/botwiki), and other merchandise!
@@ -21,32 +21,21 @@ For donation options, see [this page](/about/support#donation-options).
   </a>
   <a href="https://www.stickermule.com/marketplace/12101-i-robot-face-bots">"I 🤖 bots" Sticker <code>$3.01</code></a>
 
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_light-235613230296235918?rf=238041368524409010">
-    <img src="https://rlv.zcache.com/botwiki_supporter_t_shirt_light-r092657d63b0347ee984b6e8e96fff840_johy2_325.jpg?bg=0xffffff" class="centered">
+
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Asphalt/dp/B01MF4M6JL/ref=sr_1_1?s=apparel&ie=UTF8&qid=1476115417&sr=1-1&nodeID=7141123011">
+    <img src="/content/merch/images/t-shirts/botwiki-asphalt.jpg" class="centered">
   </a>
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_light-235613230296235918?rf=238041368524409010">Botwiki Supporter T-Shirt (Light) <code>$17.75</code></a>
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Asphalt/dp/B01MF4M6JL/ref=sr_1_1?s=apparel&ie=UTF8&qid=1476115417&sr=1-1&nodeID=7141123011">Botwiki Support T-Shirt (Darker colors) <code>$13.00</code></a>
 
-
-
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_premium_dark_womens-235745345730194267?rf=238041368524409010">
-    <img src="http://rlv.zcache.com/botwiki_supporter_t_shirt_premium_dark_womens-r84c66a87085f4b50a68858ff84c26cfb_jf4s8_325.jpg?bg=0xffffff" class="centered">
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Lemon/dp/B01MEBZC24/ref=sr_1_3?s=apparel&ie=UTF8&qid=1476115417&sr=1-3&nodeID=7141123011">
+    <img src="/content/merch/images/t-shirts/botwiki-yellow.jpg" class="centered">
   </a>
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_premium_dark_womens-235745345730194267?rf=238041368524409010">Botwiki Supporter T-Shirt (Premium Dark, Women's) <code>$30.95</code></a>
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Lemon/dp/B01MEBZC24/ref=sr_1_3?s=apparel&ie=UTF8&qid=1476115417&sr=1-3&nodeID=7141123011">Botwiki Support T-Shirt (Lighter colors) <code>$13.00</code></a>
 
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_premium_dark-235030638837729356?rf=238041368524409010">
-    <img src="https://rlv.zcache.com/botwiki_supporter_t_shirt_premium_dark-r5a41751d7d18400d87271ea963f55e66_jg4dk_325.jpg?bg=0xffffff" class="centered">
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Grass/dp/B01MEC8ZDF/ref=sr_1_2?s=apparel&ie=UTF8&qid=1476115417&sr=1-2&nodeID=7141123011">
+    <img src="/content/merch/images/t-shirts/bots-green.jpg" class="centered">
   </a>
-  <a href="http://www.zazzle.com/botwiki_supporter_t_shirt_premium_dark-235030638837729356?rf=238041368524409010">Botwiki Supporter T-Shirt (Premium Dark) <code>$30.85</code></a>
-
-  <a href="http://www.zazzle.com/bots_t_shirt_premium_dark_womens-235740336376279549?rf=238041368524409010">
-    <img src="http://rlv.zcache.com/bots_t_shirt_premium_dark_womens-r9f55107d2cfe44a9bb8f78866115889b_jf4s8_325.jpg?bg=0xffffff" class="centered">
-  </a>
-  <a href="http://www.zazzle.com/bots_t_shirt_premium_dark_womens-235740336376279549?rf=238041368524409010">#bots T-Shirt (Premium Dark, Women's) <code>$30.95</code></a>
-
-  <a href="http://www.zazzle.com/bots_t_shirt_premium_dark-235922236828732530?rf=238041368524409010">
-    <img src="https://rlv.zcache.com/bots_t_shirt_premium_dark-r64cdcd80081f43a9b2852a6bcd27706a_jyrs6_325.jpg?bg=0xffffff" class="centered">
-  </a>
-  <a href="http://www.zazzle.com/bots_t_shirt_premium_dark-235922236828732530?rf=238041368524409010">#bots T-Shirt (Premium Dark) <code>$31.65</code></a>
+  <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Grass/dp/B01MEC8ZDF/ref=sr_1_2?s=apparel&ie=UTF8&qid=1476115417&sr=1-2&nodeID=7141123011">#bots T-Shirt (Darker colors) <code>$13.00</code></a>
 
   <a href="http://www.zazzle.com/botwiki_button_dark-145771497461844535?rf=238041368524409010">
     <img src="https://rlv.zcache.com/botwiki_button_dark-raa2459b975304c47817eb0fb814768fc_x7j3i_8byvr_325.jpg?bg=0xffffff" class="centered">
