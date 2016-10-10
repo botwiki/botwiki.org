@@ -21,7 +21,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 ### [¶](#blogs-and-websites){.pilcrow} Blogs and websites {#blogs-and-websites}
 
 - [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch)
-- [@algorithm_club](https://twitter.com/algorithm_club) --  Twitter book club on the theme of critical algorithm studies 
+- [@algorithm_club](https://twitter.com/algorithm_club) --  Twitter book club on the theme of critical algorithm studies
 - [The Bot Blog](https://thebotblog.wordpress.com/)
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/) -- posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/) -- Short-form scholarship on born-digital poetry and poetics.
@@ -49,7 +49,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Closed Bots and Green Bots](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) (samplereality.com)
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (bot.watch)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
-- [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
+- [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Can we open the black box of AI?](http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731) (nature.com)
@@ -70,7 +70,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Bot Summit 2016](/events/bot-summit-2016/#agenda)
 - [Technically Female: Women, Machines, and Hyperemployment](https://www.youtube.com/watch?v=ZSBefHq7C_o) ([Helen Hester](https://twitter.com/helenhester))
 - [Chris Messina](https://twitter.com/chrismessina/)'s [panel on bots, AI & the future of conversational UI](https://www.facebook.com/chrismessina/videos/10154329568986874/) at [SXSW 2016](http://schedule.sxsw.com/2016/events/event_PP47130)
-- [Your Friendly Robot Companions](https://medium.com/why-not/your-friendly-robot-companions-b2d39e71dfcb#.liaqewb4p)
+- [Your Friendly Robot Companions](https://medium.com/why-not/your-friendly-robot-companions-b2d39e71dfcb)
 - [Eyeo 2014 - Darius Kazemi](https://vimeo.com/112289364) -- "A simple `for` loop can, in a few seconds, generate more information than a human being can consume in a lifetime. When we make art with code, we have to confront this fact. So how do you compose for infinity?"
 - [A session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
 - [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM) ([George Buckenham](https://twitter.com/v21))

@@ -23,7 +23,7 @@ Nav: hidden
 
 ### [¶](#natural-language-processing){.pilcrow} Natural language processing {#natural-language-processing}
 
-- [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d#.5hx71anvc)
+- [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural-language-processing and machine learning with special help from Scikit-learn"
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
 - [Applied NLP](https://github.com/utcompling/applied-nlp/wiki/Course-Project)
@@ -43,7 +43,7 @@ Nav: hidden
 - [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
-- [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.8fdijw1xh) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
+- [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 

@@ -14,9 +14,9 @@ Robots: index,follow
 >
 > Inspired by the [@apologytrump](https://twitter.com/apologytrump) Twitter account, the accumulation of "Sorry!" in this feed is a way to draw attention to many of the economic and political decisions and policies being made that are wreaking havoc on the people of North Carolina.
 
- 
+
 See also:
 
 - [Understanding HB2: North Carolina’s newest law solidifies state’s role in defining discrimination](http://www.charlotteobserver.com/news/politics-government/article68401147.html)
-- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.1k6b4hknf)
+- [A protest bot is a bot so specific you can’t mistake it for bullshit](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa)
 

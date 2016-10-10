@@ -42,7 +42,7 @@ Choose the network on which you want to deploy your bot:
 
 ### [¶](#other){.pilcrow} See also {#other}
 
-- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.oi9vdq6iz) (sailor mercury via medium.com)
+- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223) (sailor mercury via medium.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) ([Paul Ford](https://twitter.com/ftrain) via bloomberg.com)
 - [Open-sourced bots](/tag/bot+opensource)
 - [Original Botwiki tutorials](/tag/tutorial+botwiki-original)
