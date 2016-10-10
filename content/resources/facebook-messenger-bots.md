@@ -31,6 +31,10 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 - [DiegoRBaquero/node-fb-messenger](https://github.com/DiegoRBaquero/node-fb-messenger)
 - [alexindigo/fbbot](https://github.com/alexindigo/fbbot)
 
+#### [¶](#bot-frameworks-java){.pilcrow} Java {#bot-frameworks-java}
+
+- [marsbits/restfbmessenger](https://github.com/marsbits/restfbmessenger)
+
 #### [¶](#bot-frameworks-other){.pilcrow} Other {#bot-frameworks-other}
 
 - [paked/messenger](https://github.com/paked/messenger) (Go language)

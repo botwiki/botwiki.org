@@ -52,6 +52,8 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb#.kjn8ht162) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
+- [Can we open the black box of AI?](http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731) (nature.com)
+- [An AI Pattern Language](http://www.datasociety.net/pubs/ia/AI_Pattern_Language.pdf) (datasociety.net, PDF)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 

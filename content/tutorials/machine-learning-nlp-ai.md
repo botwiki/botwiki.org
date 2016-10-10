@@ -26,14 +26,17 @@ Nav: hidden
 - [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d#.5hx71anvc)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural-language-processing and machine learning with special help from Scikit-learn"
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
+- [Applied NLP](https://github.com/utcompling/applied-nlp/wiki/Course-Project)
 
 ### [¶](#machine-learning){.pilcrow} Machine learning {#machine-learning}
 
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning 101: An Intro to Utilizing Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/)
 - [Deep Learning](http://www.deeplearningbook.org/): resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
+- [Introduction to Convolutional Neural Networks](https://github.com/hoaphumanoid/sciblog_support/blob/master/A_Gentle_Introduction_to_CNN/Intro_CNN.ipynb)
 - [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/%20The%20Neural%20Network%20Zoo%20-%20The%20Asimov%20Institute)
 - [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
@@ -45,6 +48,7 @@ Nav: hidden
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [Free AI Course Materials](http://popsnip.com/topic/982/)
+- [Artificial Intelligence Lecture Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) (ocw.mit.edu)
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
