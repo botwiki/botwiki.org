@@ -62,6 +62,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [2014](/articles/selected-articles/2014)
 - [2013](/articles/selected-articles/2013)
 - [1996](/articles/selected-articles/1996)
+- [1981](/articles/selected-articles/1981)
 
 
 ### [¶](#videos){.pilcrow} Videos and slides from talks {#videos}
