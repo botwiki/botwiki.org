@@ -46,5 +46,6 @@ Choose the network on which you want to deploy your bot:
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) ([Paul Ford](https://twitter.com/ftrain) via bloomberg.com)
 - [Open-sourced bots](/tag/bot+opensource)
 - [Original Botwiki tutorials](/tag/tutorial+botwiki-original)
+- [The Long Game of Creativity](http://www.openculture.com/2015/04/the-long-game-of-creativity.html) (openculture.com)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
