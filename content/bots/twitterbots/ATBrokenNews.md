@@ -11,4 +11,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@ATBrokenNews](https://twitter.com/ATBrokenNews) is a German-language version of [TwoHeadlines](/bots/bot,twitterbots/TwoHeadlines). It was created by [@oberhamsi](https://twitter.com/oberhamsi).
+[@ATBrokenNews](https://twitter.com/ATBrokenNews) is a German-language version of [TwoHeadlines](/bots/twitterbots/TwoHeadlines). It was created by [@oberhamsi](https://twitter.com/oberhamsi).

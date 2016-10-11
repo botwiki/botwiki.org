@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@everywordIT](https://twitter.com/everywordIT) is an Italian-language version of [@everyword](https://www.botwiki.org/bots/bot,twitterbots/everyword/) created by [@_tyge](https://twitter.com/_tyge).
+[@everywordIT](https://twitter.com/everywordIT) is an Italian-language version of [@everyword](https://www.botwiki.org/bots/twitterbots/everyword/) created by [@_tyge](https://twitter.com/_tyge).

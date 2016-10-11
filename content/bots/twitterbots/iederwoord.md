@@ -10,5 +10,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@iederwoord](https://twitter.com/iederwoord) is a Dutch version of the [@everyword](https://www.botwiki.org/bots/bot,twitterbots/everyword/) Twitter bot created by [John Schop](https://twitter.com/johnschop). You can read more about this bot on the [author's blog](http://johnschop.nl/2012-08-13/iederwoord-waarom) (in Dutch).
+[@iederwoord](https://twitter.com/iederwoord) is a Dutch version of the [@everyword](https://www.botwiki.org/bots/twitterbots/everyword/) Twitter bot created by [John Schop](https://twitter.com/johnschop). You can read more about this bot on the [author's blog](http://johnschop.nl/2012-08-13/iederwoord-waarom) (in Dutch).
 

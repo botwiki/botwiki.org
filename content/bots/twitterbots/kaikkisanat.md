@@ -11,4 +11,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@kaikkisanat](https://twitter.com/kaikkisanat) is an [open source](https://github.com/hugovk/everyfinnishword) Twitter bot created by [@hugovk](https://twitter.com/hugovk) based on [@tkoola](https://twitter.com/tkoola)'s idea. As somewhat of a Finnish-language version of [@everyword](/bots/bot,twitterbots/everyword), it tweets "every Finnish word in all their forms".
+[@kaikkisanat](https://twitter.com/kaikkisanat) is an [open source](https://github.com/hugovk/everyfinnishword) Twitter bot created by [@hugovk](https://twitter.com/hugovk) based on [@tkoola](https://twitter.com/tkoola)'s idea. As somewhat of a Finnish-language version of [@everyword](/bots/twitterbots/everyword), it tweets "every Finnish word in all their forms".

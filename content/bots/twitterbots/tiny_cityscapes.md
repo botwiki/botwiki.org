@@ -12,4 +12,4 @@ Robots: index,follow
 
 [@tiny_cityscapes](https://twitter.com/tiny_cityscapes) is an [open source](https://github.com/emmawinston/tiny_cityscapes) Twitter bot created by [Emma Winston](https://twitter.com/deer_ful). 
 
-> It tweets an emoji city, with microclimate (either day or night), every six hours. Inspired by the lovely [@tiny_star_field](/bots/bot,twitterbots/tiny_star_field), [@tiny_astro_naut](/bots/bot,twitterbots/tiny_astro_naut), and [@tiny_seas](https://twitter.com/tiny_seas).
+> It tweets an emoji city, with microclimate (either day or night), every six hours. Inspired by the lovely [@tiny_star_field](/bots/twitterbots/tiny_star_field), [@tiny_astro_naut](/bots/twitterbots/tiny_astro_naut), and [@tiny_seas](https://twitter.com/tiny_seas).

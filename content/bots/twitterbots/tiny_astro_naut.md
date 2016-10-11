@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@tiny_astro_naut](https://twitter.com/tiny_astro_naut) is a Twitter bot created by [Eli Brody](https://twitter.com/elibrody). It takes [@tiny_star_field](/bots/bot,twitterbots/tiny_star_field)'s tweets and inserts an emoji of a space ship into them.
+[@tiny_astro_naut](https://twitter.com/tiny_astro_naut) is a Twitter bot created by [Eli Brody](https://twitter.com/elibrody). It takes [@tiny_star_field](/bots/twitterbots/tiny_star_field)'s tweets and inserts an emoji of a space ship into them.

@@ -10,5 +10,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@wholeearthradar](https://twitter.com/wholeearthradar) is a Twitter bot created by [Rob Dubbin](https://twitter.com/robdubbin) that posts animated GIFs created from [@dscovr_epic](/bots/bot,twitterbots/dscovr_epic/)'s feed.
+[@wholeearthradar](https://twitter.com/wholeearthradar) is a Twitter bot created by [Rob Dubbin](https://twitter.com/robdubbin) that posts animated GIFs created from [@dscovr_epic](/bots/twitterbots/dscovr_epic/)'s feed.
 

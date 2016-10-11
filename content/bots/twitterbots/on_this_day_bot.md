@@ -10,5 +10,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@on_this_day_bot](https://twitter.com/on_this_day_bot) is an [open source](https://github.com/kapari/bot,twitterbot) Twitter bot created by [Ariel Kaplan](https://twitter.com/arielhkaplan) that pulls a random event from Wikipedia for the current date.
+[@on_this_day_bot](https://twitter.com/on_this_day_bot) is an [open source](https://github.com/kapari/twitterbot) Twitter bot created by [Ariel Kaplan](https://twitter.com/arielhkaplan) that pulls a random event from Wikipedia for the current date.
 

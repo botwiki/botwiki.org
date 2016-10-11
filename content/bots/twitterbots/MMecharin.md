@@ -18,5 +18,5 @@ From the author:
 
 > [It is still] somewhat experimental. I'm not completely satisfied with the current formula used to adjust weighting of sources. And I'm not completely sure if this is a good theme. Feedback welcome.
 >
->Improved version of [@precure_screens](/bots/bot,twitterbots/precure_screens)'s code. Version 2 sort of. [@precure_screens](/bots/bot,twitterbots/precure_screens) will be switched to the new code when I feel it's done (more or less; can't resist tweaking things here and there ;)
+>Improved version of [@precure_screens](/bots/twitterbots/precure_screens)'s code. Version 2 sort of. [@precure_screens](/bots/twitterbots/precure_screens) will be switched to the new code when I feel it's done (more or less; can't resist tweaking things here and there ;)
 

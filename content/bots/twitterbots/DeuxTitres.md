@@ -11,4 +11,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@DeuxTitres](https://twitter.com/DeuxTitres) is a French-language version of [TwoHeadlines](/bots/bot,twitterbots/TwoHeadlines). It was created by [@White_Fangs](https://twitter.com/White_Fangs).
+[@DeuxTitres](https://twitter.com/DeuxTitres) is a French-language version of [TwoHeadlines](/bots/twitterbots/TwoHeadlines). It was created by [@White_Fangs](https://twitter.com/White_Fangs).
