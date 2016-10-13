@@ -69,6 +69,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [Building Slack bots with Botkit and Visual Studio Code](https://medium.com/@csinco/botkit-visual-studio-code-3252800048ba)
 - [Serverless Slackbots Powered by AWS](http://eng.localytics.com/serverless-slackbots-powered-by-aws/)
 - [Using Botkit and Aylien’s Text API to Make a Slack Bot](https://medium.com/@samhavens/building-somerset-d518ba284c49)
+- [How to make a Slack bot speak Kubernetes](https://medium.com/@janetkuo/how-to-make-a-slack-bot-speak-kubernetes-e7929f51c741#.6w2l2mtn5)
 
 ### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
 
