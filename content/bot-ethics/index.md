@@ -42,6 +42,7 @@ Nav: hidden
 
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
 - [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
+  - [How Machines Learn to Be Racist](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
 - [Artificial Intelligence's White Guy Problem](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=0) (nytimes.com)
 - [Artificial intelligence is quickly becoming as biased as we are](http://thenextweb.com/artificial-intelligence/2016/09/30/artificial-intelligence-is-quickly-becoming-as-biased-as-we-are/) (thenextweb.com)
 - [Language necessarily contains human biases, and so will machines trained on language corpora](https://freedom-to-tinker.com/blog/randomwalker/language-necessarily-contains-human-biases-and-so-will-machines-trained-on-language-corpora/) (freedom-to-tinker.com)
