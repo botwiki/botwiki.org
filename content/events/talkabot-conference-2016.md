@@ -25,6 +25,7 @@ Tags: event,archived
 - [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823) (chatbotsmagazine.com)
 - [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023) (Slack Platform Blog via medium.com)
 - [Talkabot and the current state of chatbots](https://chatbotsmagazine.com/talkabot-3-key-themes-and-takeaways-ff3a9e27f81b) (chatbotsmagazine.com)
+- [What Talkabot 2016 tells us about the present and future of computer conversation](https://medium.com/@PullStringInc/what-talkabot-2016-tells-us-about-the-present-and-future-of-computer-conversation-5b51d7116087) ([PullString](https://twitter.com/PullStringInc) via medium.com)
 
 <!--
 - Talkabot conference liveblogging: [Part 1](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023), [Part 2]()
