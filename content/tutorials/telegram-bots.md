@@ -52,6 +52,10 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 
 - [Creating a Bot using the Telegram Bot API](https://medium.com/@IndianGuru/creating-a-bot-using-the-telegram-bot-api-5d3caed3266d)
 
+#### [¶](#tutorials-java){.pilcrow} Java {#tutorials-java}
+
+- [How to create a game bot and publish your HTML5 games on Telegram](https://blog.ludei.com/how-to-create-a-game-bot-and-publish-your-html5-games-on-telegram/)
+
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 
 - [Telegram Bot Using AWS API Gateway and AWS Lambda](https://lesterchan.net/blog/2016/03/11/telegram-bot-using-aws-api-gateway-and-aws-lambda/)
