@@ -49,7 +49,7 @@ All of our work is [open](https://github.com/botwiki/), and everyone is invited 
 - October 20: The [botzine.org](https://botzine.org) domain was bought.
 - October 8: The [botmakers.org](https://botmakers.org) domain was bought.
 - September 17: [Publicly announced the Botmakers Slack group](https://twitter.com/botwikidotorg/status/644517400738709504).
-- September 3: [First tweet by @botwikidotorg](https://twitter.com/botwikidotorg/status/639459648580489216)
+- September 3: [First tweet by @botwikidotorg](https://twitter.com/botwikidotorg/status/639459648580489216).
 - July 15: First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
 - July ??: The [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 - July 12: The [botwiki.org](https://botwiki.org) domain was bought.
