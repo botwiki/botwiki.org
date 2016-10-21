@@ -1,10 +1,12 @@
+# Use the Trusty beta, contains updated Node in Python images
+# https://docs.travis-ci.com/user/trusty-ci-environment#Using-the-Trusty-beta
+sudo: required
+dist: trusty
+
 language: python
 
 python:
   - 2.7
-
-# Use container-based infrastructure
-sudo: false
 
 env:
   - DISABLE_NOTIFIER=true
@@ -17,6 +19,7 @@ install:
   - npm install gulp --global
   - npm install gulp --save-dev
   - npm install
+  - npm install -g markdown-link-check
 
   - pip install -U "pip>=1.5.6"
   - pip install "pycrypto>=2.6"
@@ -33,3 +36,7 @@ script:
   - python submission-form-scripts/test_botsheeter.py
   # Error and style-checker
   - flake8 submission-form-scripts/*.py
+
+  # Cat all the .md files into a single, big file and then check links
+  - find content/ -name '*.md' -exec cat {} \; > /tmp/all-the-markdown.md
+  - markdown-link-check /tmp/all-the-markdown.md
