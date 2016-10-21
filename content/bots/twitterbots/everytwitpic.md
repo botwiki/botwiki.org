@@ -10,5 +10,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@everytwitpic](https://twitter.com/everytwitpic) is an [open source](https://github.com/NiciusB/everytwitpic) Twitter bot created by [Nuno Balbona](https://twitter.com/https://github.com/NiciusB) that posts every word in the Spanish language in the form of a [Twitpic](http://twitpic.com/) link. (The links don't always point to existing images.)
+[@everytwitpic](https://twitter.com/everytwitpic) is an [open source](https://github.com/NiciusB/everytwitpic) Twitter bot created by [Nuno Balbona](https://github.com/NiciusB) that posts every word in the Spanish language in the form of a [Twitpic](http://twitpic.com/) link. (The links don't always point to existing images.)
 

@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[GooglyMinotaur](https://en.wikipedia.org/wiki/GooglyMinotaur) is an AOL Instant Messenger bot created by [ActiveBuddy](https://twitter.com/http://timkay.com/activebuddy/). 
+[GooglyMinotaur](https://en.wikipedia.org/wiki/GooglyMinotaur) is an AOL Instant Messenger bot created by [ActiveBuddy](http://timkay.com/activebuddy/).
 
 From [Wikipedia](https://en.wikipedia.org/wiki/GooglyMinotaur):
 

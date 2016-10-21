@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@invandringgarna](http://twitter.com/invandringgarna) is an [open source](https://github.com/ArVID220u/invandringsbot) Twitter bot created by [ArVID220u](https://twitter.com/http://twitter.com/arvid220u). 
+[@invandringgarna](http://twitter.com/invandringgarna) is an [open source](https://github.com/ArVID220u/invandringsbot) Twitter bot created by [ArVID220u](https://twitter.com/arvid220u).
 
 When people post ignorant tweets about immigration, this bot replies with a rant about the moral responsibility we all have to welcome refugees.
 
