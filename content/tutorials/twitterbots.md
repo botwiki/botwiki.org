@@ -13,11 +13,9 @@ Nav: hidden
   </p>
 </div>
 
-> Twitter (/ˈtwɪtər/) is an online social networking service that enables users to send and read short 140-character messages called "tweets".
->
-> -- [Wikipedia](https://en.wikipedia.org/wiki/Twitter)
+Learn how to make bots for [Twitter](https://twitter.com/) ([Wikipedia link](https://en.wikipedia.org/wiki/Twitter)) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
-Learn how to make bots for [Twitter](https://twitter.com/) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
+[![XKCD: Twitter Bot](/content/tutorials/images/twitter_bot_xkcd.png "PYTHON FLAG ENABLE THREE LAWS")](https://xkcd.com/1646/) {.centered .centered-text}
 
 **And you're more then welcome to join us in the public [Botmakers Slack group](https://botmakers.org/) to share what you're working on, ask for advice, or just chat with fellow artists, journalists, educators, tinkerers, and bot enthusiasts!**
 
