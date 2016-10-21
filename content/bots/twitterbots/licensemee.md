@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@licensemee](https://twitter.com/licensemee) is a Twitter bot created by [Audrey Eschright](https://twitter.com/http://lifeofaudrey.com/) that generates "creative licenses".
+[@licensemee](https://twitter.com/licensemee) is a Twitter bot created by [Audrey Eschright](http://lifeofaudrey.com/) that generates "creative licenses".

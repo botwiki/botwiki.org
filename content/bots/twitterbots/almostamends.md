@@ -10,6 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@almostamends](https://twitter.com/almostamends) is an [open source](https://github.com/inkleby/inklebyrobots/blob/master/robots/amendments.py) Twitter bot created by [Alex Parsons](https://twitter.com/http://www.twitter.com/alexparsons). 
+[@almostamends](https://twitter.com/almostamends) is an [open source](https://github.com/inkleby/inklebyrobots/blob/master/robots/amendments.py) Twitter bot created by [Alex Parsons](https://twitter.com/alexparsons).
 
 Almost Amends is a historical dataset tweeter - using the data from the US National Archive's [Amending America](https://www.archives.gov/amending-america/) collection to tweet random attempted amendments to the US Constitution (from a set of 11,000) - adding links to more information where available.

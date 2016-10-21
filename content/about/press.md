@@ -21,7 +21,7 @@ Below is a list of articles that talk about Botwiki and related projects, or tha
 
 > Developed by BotWiki, The Monthly Bot Challenge started as a community event with a simple concept: on the first day of each month, a new challenge topic – and prize – is announced online. 
 
-- [BotWiki / Monthly Bot Challenge](http://www.andfestival.org.uk/events/botwiki-monthly-bot-challenge/) -- March 2016, *[andfestival.org](http://andfestival.org/)*
+- [BotWiki / Monthly Bot Challenge](http://www.andfestival.org.uk/events/botwiki-monthly-bot-challenge/) -- March 2016, *[andfestival.org.uk](http://andfestival.org.uk/)*
 
 
 > Le site botwiki.org a commencé à les cataloguer, en plus d’offrir des tutoriaux pour en créer et plein d’informations, et comme Twitter est un des réseaux les plus accueillants je vous ai fait une petite sélection de mes préférés :

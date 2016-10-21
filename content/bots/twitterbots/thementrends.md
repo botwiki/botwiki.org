@@ -10,6 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@thementrends](http://www.twitter.com/thementrends) is a Twitter bot created by [Martin](https://twitter.com/http://www.twitter.com/ryc_m) that tweets the most read articles on German language Wikipedia.
+[@thementrends](http://www.twitter.com/thementrends) is a Twitter bot created by [Martin](http://www.twitter.com/ryc_m) that tweets the most read articles on German language Wikipedia.
 
-Detailed hourly updated page view statistics for German and other languages are available on [trending.eu](http://www.trending.eu). 
+Detailed hourly updated page view statistics for German and other languages are available on [trending.eu](http://www.trending.eu).

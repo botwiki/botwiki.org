@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@bayareabotarts](https://www.twitter.com/bayareabotarts) is a Twitter bot created by [Kasey Robinson](https://twitter.com/www.twitter.com/bitpixi) that tweets the picture of the day from NASA, on top of updates for the [Bay Area Bot Arts Meetup group](http://www.meetup.com/Bay-Area-Bot-Arts/).
+[@bayareabotarts](https://www.twitter.com/bayareabotarts) is a Twitter bot created by [Kasey Robinson](https://twitter.com/bitpixi) that tweets the picture of the day from NASA, on top of updates for the [Bay Area Bot Arts Meetup group](http://www.meetup.com/Bay-Area-Bot-Arts/).

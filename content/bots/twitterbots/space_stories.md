@@ -10,6 +10,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@space_stories](http://twitter.com/space_stories) is a Twitter bot created by [@notinventedhere](https://twitter.com/http://twitter.com/notinventedhere) that generates short stories about things happening in space.
+[@space_stories](http://twitter.com/space_stories) is a Twitter bot created by [@notinventedhere](https://twitter.com/notinventedhere) that generates short stories about things happening in space.
 
 It was made in collaboration with [Thom](http://twitter.com/thos_thom) of [TACS Games](http://tacsgames.com/).
