@@ -15,7 +15,6 @@ Nav: hidden
 </div>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
@@ -67,6 +66,11 @@ Nav: hidden
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)
 - [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](http://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) (nytimes.com)
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
