@@ -13,3 +13,4 @@ Tags: event,upcoming
 - October 19, 2016
 - [Robertson Auditorium at the Mission Bay Conference Center in Fan Francisco](http://www.acc-missionbayconferencecenter.com/planning-a-meeting/floor-plans/robertson-auditorium.aspx), 1675 Owens St #251, San Francisco, CA ([map](https://www.google.com/maps/dir/Current+Location/1675-owens-st-#251-san-francisco-ca))
 - [Event page](http://conferences.oreilly.com/artificial-intelligence/bot-ca)
+- [7 Takeaways from O'Reilly Bot Day](http://botnerds.com/oreilly-bot-day/) (botnerds.com)
