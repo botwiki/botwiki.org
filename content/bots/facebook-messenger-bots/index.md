@@ -14,8 +14,4 @@ Nav: hidden
 
 Bots for [Facebook Messenger](https://www.messenger.com/), an instant messaging service from [Facebook](https://www.facebook.com/).
 
-You can browse all Facebook bots [here](/tag/facebook+bot).
-
-See also: [list of all known Facebook Messenger bots](https://docs.google.com/spreadsheets/d/1t2L4CjHgjtvtz2xXJnFJ1TCwy1H0dAVLeSVvv0y6GGs/edit?usp=sharing).
-
-Check out [the tutorials section](/tutorials/facebook-messenger-bots), or [return to the **Bots** page](/bots).
+You can browse all Facebook bots [here](/tag/facebook+bot). Also check out [the tutorials section](/tutorials/facebook-messenger-bots), or [return to the **Bots** page](/bots).
