@@ -1,6 +1,7 @@
 /*
 Title: Facebook Messenger Bots
 Description: Bots for Facebook's Messenger.
+Thumbnail: /content/bots/facebook-messenger-bots/images/facebook-messenger-platform.png
 Show donation link: yes
 Nav: hidden
 */
@@ -10,12 +11,6 @@ Nav: hidden
     This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
   </p>
 </div>
-
-<p class="screenshot float-right">
-  <a href="https://messengerplatform.fb.com/">
-    <img src="/content/bots/facebook-messenger-bots/images/facebook-messenger-platform.png">
-  </a>
-</p>
 
 Bots for [Facebook Messenger](https://www.messenger.com/), an instant messaging service from [Facebook](https://www.facebook.com/).
 
