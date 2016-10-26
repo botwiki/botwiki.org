@@ -1,5 +1,6 @@
 /*
 Title: Our Projects
+Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Show donation link: yes
 Description: See what we are working on.
 */
