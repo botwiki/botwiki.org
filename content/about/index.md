@@ -1,6 +1,7 @@
 /*
 Title: About
 Description: Learn a bit more about Botwiki and related projects!
+Thumbnail: /content/images/botwiki-thumbnail-image-700.png
 Show donation link: yes
 Weight: 6
 */

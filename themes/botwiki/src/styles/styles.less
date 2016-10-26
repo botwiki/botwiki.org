@@ -647,7 +647,7 @@ div.sidebar-module:not(:first-child){
 }
 
 div#main{
-  padding: 0;
+  padding: 0 0 2em;
   @media (min-width : @site-width-small){
     margin-right: @sidebar-width;
   }
@@ -807,14 +807,24 @@ div.meta p.share-prompt{
 }
 
 ul.sharing-is-caring{
-  list-style: none;
+  @media (max-width: @site-width-small){
+    margin: 10px;
+  }
+
   padding: 0;
+  list-style: none;
   li{
     display: inline;
     a{
       img{
-        max-width: 1.6em;
+        max-width: 1.8em;
+        border-radius: 50%;
       }
+      transition: opacity 0.4s;
+    }
+    a:hover{
+      opacity: 0.8;
+      transition: opacity 0.4s;
     }
   }
 }
@@ -841,7 +851,10 @@ img.round-borders{
 
 div.article-thumbnail{
   text-align: center;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+  @media (min-width : @site-width-small){
+    padding-bottom: 2em;
+  }
 }
 
 div.search-thumbnail img{
