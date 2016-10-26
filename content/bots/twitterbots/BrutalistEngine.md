@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@BrutalistEngine](https://twitter.com/BrutalistEngine) is a Twitter bot created by [@nicolastilly](https://twitter.com/nicolastilly). 
-
-A bot about brutalist architecture and weird urban landscapes.
-
+[@BrutalistEngine](https://twitter.com/BrutalistEngine) is a Twitter bot created by [@nicolastilly](https://twitter.com/nicolastilly) that tweets about brutalist architecture and weird urban landscapes.
