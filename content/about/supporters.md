@@ -1,6 +1,7 @@
 /*
 Title: Individual and corporate sponsors
 Description: List of people, corporations, and other organizations supporting Botwiki and Botmakers.
+Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Nav: hidden
 */
 

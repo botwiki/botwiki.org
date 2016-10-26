@@ -1,5 +1,6 @@
 /*
 Title: Press
+Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Show donation link: yes
 Description: Articles about Botwiki, Botmakers, and related projects.
 */

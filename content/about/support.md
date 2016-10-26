@@ -1,6 +1,7 @@
 /*
 Title: Support Botwiki projects
 Description: Thank you in advance!
+Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Nav: hidden
 */
 

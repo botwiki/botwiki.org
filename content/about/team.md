@@ -1,6 +1,7 @@
 /*
 Title: The Botwiki Team
 Description: Folks behind Botwiki.org, Botmakers.org and the Bot! zine.
+Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Show donation link: yes
 Nav: hidden
 */
