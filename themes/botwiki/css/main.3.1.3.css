@@ -873,12 +873,11 @@ img.round-borders {
 }
 div.article-thumbnail {
   text-align: center;
-  padding-bottom: 1em;
+  padding-bottom: 0;
 }
-@media (min-width: 860px) {
-  div.article-thumbnail {
-    padding-bottom: 2em;
-  }
+div.article-thumbnail img {
+  margin-bottom: -10px;
+  /* ??? */
 }
 div.search-thumbnail img {
   border: 1px solid #efefef;
