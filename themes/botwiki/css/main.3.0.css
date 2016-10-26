@@ -615,7 +615,6 @@ div#content-wrapper {
   min-height: 90em;
   background-color: #fff;
   padding: 0;
-  margin-top: -5px;
   margin-bottom: 2em;
   font-size: 1em;
   line-height: 1.3em;
@@ -848,6 +847,7 @@ img.round-borders {
 }
 div.article-thumbnail {
   text-align: center;
+  padding-bottom: 2em;
 }
 div.search-thumbnail img {
   border: 1px solid #efefef;

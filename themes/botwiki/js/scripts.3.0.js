@@ -78,7 +78,6 @@ ready(function(){
   /* Inelegant fix for Pico wrapping images in P tags. */
     if (paragraphs[i].textContent.trim() === ''){
       paragraphs[i].classList.add('empty-element');
-      console.log(0);
     }
   }
 

@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    $baseDir . '/lib/pico.php',
+    '3ecc4a07edca7ed01241d3acda7d8169' => $baseDir . '/lib/pico.php',
 );
