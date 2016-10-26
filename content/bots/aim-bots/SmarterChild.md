@@ -18,3 +18,6 @@ Robots: index,follow
 >
 > -- [internetnews.com](http://www.internetnews.com/ent-news/article.php/1381631/ActiveBuddy+Retires+SmarterChild+on+AIM.htm)
 
+> You could do many useful things when pinging the SmarterChild robot. Technically, I could ask him for stock quotes, movie times, weather, or other useful information.
+
+> -- [motherboard.vice.com](http://motherboard.vice.com/read/a-history-of-smarterchild)
