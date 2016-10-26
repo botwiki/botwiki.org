@@ -178,7 +178,7 @@ body {
   line-height: 1.2em;
   padding-top: 4em;
   margin: 0 0 80px;
-  background: #f9f9f7;
+  background: #EDEDE8;
   -webkit-font-smoothing: antialiased;
 }
 @media (max-width: 1030px) {
@@ -321,7 +321,7 @@ blockquote {
   margin: 2em 0 2em 4em;
   padding-left: 10px;
   padding-bottom: 0;
-  border-left: 5px solid #efefed;
+  border-left: 5px solid #e3e3de;
 }
 @media (max-width: 900px) {
   blockquote {
@@ -405,7 +405,8 @@ img.centered {
   }
 }
 div.header-image {
-  margin: 0;
+  margin: 0 0 -5px;
+  /* ??? */
 }
 .float-right,
 .float-left {
@@ -625,8 +626,8 @@ div#content-wrapper {
     display: block;
     max-width: 360px;
     position: absolute;
-    border-left: 1px solid #efefef;
-    background-color: #fcfcfc;
+    border-left: 1px solid #f3f3f2;
+    background-color: #f9f9f7;
     padding: 3rem 10px 10px;
     right: 0;
     top: 0;
@@ -813,7 +814,7 @@ span.normal-text {
 }
 div.meta p.share-prompt {
   font-weight: bold;
-  border-top: 2px dashed #e8e8e6;
+  border-top: 2px dashed #dcdcd7;
   padding-top: 2em !important;
   margin-top: 2em !important;
 }
