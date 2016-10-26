@@ -526,17 +526,18 @@ ul#menu{
 }
 
 #header nav li.form-wrapper{
-  margin-left: 35px;
+  margin-left: 0;
   margin-top: -5px;
   float: right;
-  @media (max-width: @site-width-small){
+  width: 310px;
+  @media (max-width: @site-width-medium){
     margin-top: 1em;
     margin-bottom: 1em;
     float: none;
   }
 }
 #header nav a{
-  @media (min-width: @site-width-small){
+  @media (min-width: @site-width-medium){
     font-size: 1.1em;
   }
   color: #fff;
@@ -589,7 +590,7 @@ div#content-wrapper{
 aside#sidebar{
   @media (min-width : @site-width-small){
     display: block;
-    max-width: @sidebar-width;
+    max-width: @sidebar-width-small;
     position: absolute;
     border-left: 1px solid #f3f3f2;
     background-color: #f9f9f7;
@@ -598,7 +599,9 @@ aside#sidebar{
     top: 0;
     bottom: 0;
   }
-
+  @media (min-width : @site-width-medium){
+    max-width: @sidebar-width;
+  }
   @media (max-width: @site-width-small){
     overflow: auto;
   }
@@ -650,6 +653,9 @@ div.sidebar-module:not(:first-child){
 div#main{
   padding: 0 0 2em;
   @media (min-width : @site-width-small){
+    margin-right: @sidebar-width-small;
+  }
+  @media (min-width : @site-width-medium){
     margin-right: @sidebar-width;
   }
 }
@@ -934,7 +940,7 @@ img.logo-digitalocean{
   }
 }
 
-@media (max-width: @site-width-small){
+@media (max-width: @site-width-medium){
   #header #menu-icon{
     display:inline-block;
   }
@@ -957,7 +963,7 @@ img.logo-digitalocean{
     box-shadow: 0 10px 100px -10px #333;
     left: -100px;
     top: 2.3em;
-    @media (max-width: @site-width-small){
+    @media (max-width: @site-width-medium){
     }
     width: 100%;
     z-index: 9999;
