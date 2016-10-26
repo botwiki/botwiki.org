@@ -1,6 +1,6 @@
 /*
 Title: YouTube Bots
-Thumbnail: /content/images/illustrations/marc-press-large.jpg
+Thumbnail: /content/images/illustrations/battle-nile-large.jpg
 Description: Bots for youtube.com.
 Show donation link: yes
 Nav: hidden

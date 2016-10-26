@@ -1,5 +1,6 @@
 /*
 Title: Twitter bots
+Thumbnail: /content/images/illustrations/brambling-greenfinch-large.png
 Description: Bots on Twitter.
 Show donation link: yes
 Nav: hidden
