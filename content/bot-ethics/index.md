@@ -22,6 +22,7 @@ Nav: hidden
 - [Biased algorithms](#biased-algorithms)
 - [Dangers in automation](#dangers-in-automation)
 - [General resources](#general-resources)
+- [Life of a bot](#life-of-a-bot)
 - [Further reading](#see-also)
 
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
