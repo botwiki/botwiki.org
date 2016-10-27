@@ -33,6 +33,7 @@ All of our work is [open](https://github.com/botwiki/), and everyone is invited 
 
 ### [¶](#timeline){.pilcrow} Timeline {#timeline}
 
+Below is a timeline of major events in the history of the Botwiki project.
 
 #### [¶](#2016){.pilcrow} 2016 {#2016}
 
