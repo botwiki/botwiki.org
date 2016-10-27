@@ -55,7 +55,7 @@ Nav: hidden
 
 ### [¶](#with-julia){.pilcrow} With [Julia](http://julialang.org/) {#with-julia}
 
-- [An Introduction to Machine Learning in Julia](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)(juliacomputing.com)
+- [An Introduction to Machine Learning in Julia](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html) (juliacomputing.com)
 
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
