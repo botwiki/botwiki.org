@@ -58,6 +58,8 @@ Nav: hidden
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
 - [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)
+- [As Artificial Intelligence Evolves, So Does Its Criminal Potential](http://www.nytimes.com/2016/10/24/technology/artificial-intelligence-evolves-with-its-criminal-potential.html) (nytimes.com)
+- [The Pentagon's "Terminator Conundrum: Robots That Could Kill on Their Own](http://www.nytimes.com/2016/10/26/us/pentagon-artificial-intelligence-terminator.html) (nytimes.com)
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
@@ -69,6 +71,7 @@ Nav: hidden
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)
 - [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](http://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) (nytimes.com)
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
+- [Sure, A.I. Is Powerful—But Can We Make It Accountable?](https://www.wired.com/2016/10/understanding-artificial-intelligence-decisions/) (wired.com)
 
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>

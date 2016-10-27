@@ -62,6 +62,7 @@ Nav: hidden
 - [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=wmw8Bbb_eIE&feature=youtu.be)
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
 ### [¶](#wavenet){.pilcrow} [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) {#wavenet}
 
