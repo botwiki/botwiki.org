@@ -59,6 +59,9 @@ Nav: hidden
 
 - [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)
 
+### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
+
+- [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
