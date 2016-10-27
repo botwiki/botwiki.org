@@ -4,7 +4,7 @@ Description: Bot Day offers the strategic and technical insight you need to star
 Link: http://conferences.oreilly.com/artificial-intelligence/bot-ca
 Date: October 19, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=1675-owens-st-251-san-francisco-ca&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 > Bot Day offers the strategic and technical insight you need to start implementing AI-driven conversational interfaces that can talk to your customers, make your employees more productive, and streamline your business.
