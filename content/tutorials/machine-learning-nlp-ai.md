@@ -53,7 +53,7 @@ Nav: hidden
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
 
-### [¶](#with-julia){.pilcrow} [With Julia](https://www.tensorflow.org/) {#with-julia}
+### [¶](#with-julia){.pilcrow} With [Julia](http://julialang.org/) {#with-julia}
 
 - [An Introduction to Machine Learning in Julia](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html)(juliacomputing.com)
 
