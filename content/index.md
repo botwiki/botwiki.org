@@ -18,7 +18,9 @@ Some examples of such bots include:
 
 There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add!
 
--- [Stefan](/about/team#stefan), the creator of **Botwiki**
+<div class="note"><p><a href="/about/">Botwiki</a> is a personal side project that's made possible through <a href="/about/support">donations</a> and <a href="/about/team/">hard work and dedication</a>. Huge thanks to everyone who helped us out! <span class="normal-text">🙌</span></p>
+</div>
+
 
 ***See also:***
 
