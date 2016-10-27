@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/nyplemoji.png
 Link: https://twitter.com/nyplemoji
 Author: botsheeter.py
 Date: September 07, 2016
-Tags: bot,active,interactive,emoji,images,non-english,open source,opensource,lolibrarian
+Tags: bot,active,interactive,emoji,images,open source,opensource,lolibrarian
 Nav: hidden
 Robots: index,follow
 */
