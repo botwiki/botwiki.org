@@ -15,24 +15,25 @@ Nav: hidden
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
-- [Bots better smarten up ... fast](http://venturebeat.com/2016/08/20/bots-better-smarten-up-fast/)
-- [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/)
-- [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details)
-- [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF)
-- [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040)
-- [What Installing 15+ Slack Bots Taught Me About A Great Onboarding Experience](https://medium.com/@thecoolestcool/what-installing-15-slack-bots-taught-me-about-a-great-onboarding-experience-da04288a33d6)
-- [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd)
-- [Principles of bot design](https://blog.intercom.io/principles-bot-design/)
+- [Bots better smarten up ... fast](http://venturebeat.com/2016/08/20/bots-better-smarten-up-fast/) (venturebeat.com)
+- [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/) (berglondon.com)
+- [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details) (Tow Center for Digital Journalism via gitbook.com)
+- [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF, jellyvisionlab.com)
+- [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040) (Kip via medium.com)
+- [What Installing 15+ Slack Bots Taught Me About A Great Onboarding Experience](https://medium.com/@thecoolestcool/what-installing-15-slack-bots-taught-me-about-a-great-onboarding-experience-da04288a33d6) (Ross Simmonds via medium.com)
+- [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd) (freecodecamp.com)
+- [Principles of bot design](https://blog.intercom.io/principles-bot-design/) (blog.intercom.io)
+- [3 simple AI tricks to make your chatbot more responsive (and 1 non-AI one)](https://medium.com/@davidwright_68835/3-simple-ai-tricks-to-make-your-chatbot-more-responsive-and-1-non-ai-one-24e94d45caa1) (David Wright via medium.com)
 
 ***See also:** [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
 
 ### [¶](#chat-python){.pilcrow} With Python {#chat-python}
 
-- [Chatbot Fundamentals: An interactive guide to writing bots in Python](https://apps.worldwritable.com/tutorials/chatbot/)
+- [Chatbot Fundamentals: An interactive guide to writing bots in Python](https://apps.worldwritable.com/tutorials/chatbot/) (worldwritable.com)
 
 ### [¶](#chat-ibm-watson){.pilcrow} With [IBM Watson](http://www.ibm.com/watson/) {#chat-ibm-watson}
 
-- [Conversation Patterns with IBM Watson](https://medium.com/@snrubnomis/conversation-patterns-with-ibm-watson-6c4be05e2fe5)
+- [Conversation Patterns with IBM Watson](https://medium.com/@snrubnomis/conversation-patterns-with-ibm-watson-6c4be05e2fe5) (Simon Burns via medium.com)
 
 
-If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
+Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
