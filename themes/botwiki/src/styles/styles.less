@@ -356,6 +356,16 @@ img.extra-margin{
 
 div.header-image{
   margin: 0 0 -5px; /* ??? */
+  img.header-image-small{
+    @media (min-width: @site-width-small){
+      display: none;
+    }
+  }
+  img.header-image-large{
+    @media (max-width: @site-width-small){
+      display: none;
+    }
+  }
 }
 
 .float-right,
@@ -859,8 +869,13 @@ img.round-borders{
 div.article-thumbnail{
   text-align: center;
   padding-bottom: 0;
+  margin-bottom: 1.5em;
   img{
     margin-bottom: -10px; /* ??? */
+    @media (max-width: @site-width-medium){
+      object-fit: cover;
+      min-height: 450px;
+    }
   }
 }
 

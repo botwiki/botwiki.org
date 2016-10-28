@@ -408,6 +408,16 @@ div.header-image {
   margin: 0 0 -5px;
   /* ??? */
 }
+@media (min-width: 860px) {
+  div.header-image img.header-image-small {
+    display: none;
+  }
+}
+@media (max-width: 860px) {
+  div.header-image img.header-image-large {
+    display: none;
+  }
+}
 .float-right,
 .float-left {
   max-width: 410px;
@@ -874,10 +884,17 @@ img.round-borders {
 div.article-thumbnail {
   text-align: center;
   padding-bottom: 0;
+  margin-bottom: 1.5em;
 }
 div.article-thumbnail img {
   margin-bottom: -10px;
   /* ??? */
+}
+@media (max-width: 1040px) {
+  div.article-thumbnail img {
+    object-fit: cover;
+    min-height: 450px;
+  }
 }
 div.search-thumbnail img {
   border: 1px solid #efefef;
