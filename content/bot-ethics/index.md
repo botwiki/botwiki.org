@@ -28,7 +28,7 @@ Nav: hidden
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) (crummy.com)
-- [Basic Twitter bot etiquette](/articles/basic-twitter-bot-etiquette-tiny-subversions) -- applies to *all* bots (Darius Kazemi)
+- [Basic Twitter bot etiquette](/articles/basic-twitter-bot-etiquette-tiny-subversions): applies to *all* bots (Darius Kazemi)
 - [Bots Need to Learn Some Manners, and It’s on Us to Teach Them](http://www.wired.com/2016/04/bots-emergent-behavior-deception/) (wired.com)
 - [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot) (motherboard.vice.com)
 - [TayAndYou - toxic before human contact](http://smerity.com/articles/2016/tayandyou.html) (smerity.com)
@@ -85,11 +85,12 @@ Nav: hidden
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
 - [General essays on Botwiki](/articles/#general-essays)
-- [Ethical Machines](http://ethicalmachines.com/) -- podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5)
+- [Ethical Machines](http://ethicalmachines.com/): podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5)
 - [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
 - [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/) (socialmediacollective.org)
 - [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash))
-- [@algorithm_club](https://twitter.com/algorithm_club) -- Twitter book club on the theme of critical algorithm studies
+- [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
+- [Concerning AI](https://concerning.ai/): a podcast that explores "concerns about intelligent machines"
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
