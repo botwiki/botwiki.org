@@ -171,7 +171,16 @@ class Pico
             'author' => 'Author',
             'date' => 'Date',
             'robots' => 'Robots',
-            'template' => 'Template'
+            'template' => 'Template',
+            'nav' => 'Nav',
+            'thumbnail' => 'Thumbnail',
+            'smallthumbnail' => 'Small thumbnail',
+            'link' => 'Link',
+            'language' => 'Language',
+            'translations' => 'Translations',
+            'installed' => 'Installed',
+            'show_donation_link' => 'Show donation link',
+            'has_code' => 'Has code'
         );
 
         // Add support for custom headers by hooking into the headers array

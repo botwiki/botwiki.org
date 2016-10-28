@@ -41,18 +41,6 @@ $config['pages_order'] = 'desc';                // Order pages "asc" or "desc"
 $config['content_dir'] = 'content/';    // Content directory
 $config['ptags_template'] = 'index';
 
-$config['custom_meta_values'] = array(
-  'nav' => 'Nav',
-  'thumbnail' => 'Thumbnail',
-  'smallthumbnail' => 'Small thumbnail',
-  'link' => 'Link',
-  'language' => 'Language',
-  'translations' => 'Translations',
-  'installed' => 'Installed',
-  'show_donation_link' => 'Show donation link',
-  'has_code' => 'Has code'
-);
-
 /*
  * TIMEZONE
  */

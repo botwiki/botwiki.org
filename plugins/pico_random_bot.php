@@ -14,7 +14,7 @@ class Pico_Random_Bot{
   }
 
   public function request_url(&$url){
-    if ($url == 'random-bot' || $url == 'random-bot/' ){
+    if ($url === 'random-bot' || $url === 'random-bot/' ){
       $this->show_random_bot = true;
     }
   }
