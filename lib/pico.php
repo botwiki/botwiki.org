@@ -269,6 +269,8 @@ class Pico
             $data = array(
                 'title' => isset($page_meta['title']) ? $page_meta['title'] : '',
                 'url' => $url,
+                'thumbnail' => isset($page_meta['thumbnail']) ? $page_meta['thumbnail'] : '',
+                'smallthumbnail' => isset($page_meta['smallthumbnail']) ? $page_meta['smallthumbnail'] : '',
                 'author' => isset($page_meta['author']) ? $page_meta['author'] : '',
                 'date' => isset($page_meta['date']) ? $page_meta['date'] : '',
                 'date_formatted' => isset($page_meta['date']) ? utf8_encode(strftime($config['date_format'],

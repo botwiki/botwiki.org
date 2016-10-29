@@ -1,5 +1,5 @@
 <div class="search-item clearfix">
-  {% if page.thumbnail %}
+  {% if ('bot' in page.tags or 'event' in page.tags) and page.thumbnail %}
     <div class="search-thumbnail">
       <a href="{{ page.url }}">
         <img data-src="{{ page.thumbnail }}" class="lazy-load">
@@ -9,7 +9,6 @@
   {% else %}
     <div class="search-text-full">      
   {% endif %}
-
     <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
     <p class="excerpt">{{ page.description }}</p>
     {% if page.date %}
@@ -28,7 +27,6 @@
         {% set page_tags = page.tags|split(',') %}
       {% endif %}
         <p class="meta">
-
           {% for tag in page_tags %}
             <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
           {% endfor %}
