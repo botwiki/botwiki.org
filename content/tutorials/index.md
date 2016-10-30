@@ -38,7 +38,6 @@ Choose the network on which you want to deploy your bot:
 - [Chat/conversational interfaces](/tutorials/chat)
 - [Machine learning, NLP, AI](/tutorials/machine-learning-nlp-ai)
 - [Bot ethics](/bot-ethics)
-- [Other](/tutorials/other)
 
 ### [¶](#other){.pilcrow} See also {#other}
 
