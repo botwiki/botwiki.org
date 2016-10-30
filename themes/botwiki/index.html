@@ -193,7 +193,7 @@
   {% if meta.has_code == 'yes' %}
   <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
   {% endif %}
-  {% if meta.thumbnail %}
+  {% if is_front_page and meta.thumbnail %}
   <script type="text/javascript">
 
     var request = new XMLHttpRequest();
