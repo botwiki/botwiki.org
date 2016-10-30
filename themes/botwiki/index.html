@@ -195,34 +195,18 @@
   {% endif %}
   {% if not is_front_page and meta.thumbnail %}
   <script type="text/javascript">
-
     var request = new XMLHttpRequest();
     request.open('GET', 'https://fourtonfish.com/api/dominant-color/?img=https://botwiki.org{{ meta.thumbnail }}', true);
-
     request.onload = function() {
       if (request.status >= 200 && request.status < 400) {
-        var data = JSON.parse(request.responseText);
-        var bkgColor = data.data;
-        console.log(data.data);
-        var articleThumbnail = document.getElementsByClassName('article-thumbnail')[0];
-
+        var data = JSON.parse(request.responseText),
+            bkgColor = data.data,
+            articleThumbnail = document.getElementsByClassName('article-thumbnail')[0];
         articleThumbnail.classList.add('color-fade');
         articleThumbnail.style.backgroundColor = 'rgb(' + bkgColor[0] + ',' + bkgColor[1] + ',' + bkgColor[2] + ')';
       }
-      else{
-        console.log('error?');
-        console.log(request);
-      }
     };
-
-    request.onerror = function() {
-      // There was a connection error of some sort
-    };
-
     request.send();
-
-
-    
   </script>
   {% endif %}
 </body>
