@@ -1,4 +1,4 @@
-"strict";
+"use strict";
 /*
   https://github.com/alicelieutier/smoothScroll
   Modified by Stefan Bohacek to use the HTML5 History API.

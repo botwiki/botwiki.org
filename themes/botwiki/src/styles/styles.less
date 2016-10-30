@@ -867,6 +867,7 @@ img.round-borders{
 }
 
 div.article-thumbnail{
+  transition: background-color 0.2s;
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
@@ -877,6 +878,10 @@ div.article-thumbnail{
       min-height: 450px;
     }
   }
+}
+
+div.article-thumbnail.color-fade{
+  transition: background-color 0.1s;  
 }
 
 div.search-thumbnail img{
