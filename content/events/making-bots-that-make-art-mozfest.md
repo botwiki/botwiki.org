@@ -4,7 +4,7 @@ Description: In this practical workshop you will learn how to make a bot that tw
 Link: https://app.mozillafestival.org/#_session-223
 Date: October 30, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=6-penrose-way-london-se10-0ew-u&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 > Can a computer make art? Sure. Can you make art with a computer? Absolutely!
