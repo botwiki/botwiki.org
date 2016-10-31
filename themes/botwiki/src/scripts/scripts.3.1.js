@@ -4,6 +4,22 @@
   Modified by Stefan Bohacek to use the HTML5 History API.
 */
 window.smoothScroll = (function(){
+
+// Generate a link to a random bot.
+var request = new XMLHttpRequest();
+request.open('GET', '/api/bot-list', true);
+
+request.onload = function() {
+  if (request.status >= 200 && request.status < 400) {
+    var bots = JSON.parse(request.responseText);
+    document.getElementById('random-bot-link').href = bots[Math.floor(Math.random()*bots.length)];
+  }
+};
+
+request.send();
+
+//
+
 if(document.querySelectorAll === void 0 || window.pageYOffset === void 0 || history.pushState === void 0) { return; }
 var getTop = function(element) {
     if(element.nodeName === 'HTML'){
