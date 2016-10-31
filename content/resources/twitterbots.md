@@ -18,6 +18,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 #### [¶](#twitterbot-frameworks-python){.pilcrow} Python {#twitterbot-frameworks-python}
 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy): "Twitter for Python!" (see also [tweepy.github.com](http://www.tweepy.org/))
+- [ryanmcgrath/twython](https://github.com/ryanmcgrath/twython): Python wrapper for the Twitter API
 - [sixohsix/twitter](https://github.com/sixohsix/twitter): Python Twitter API
 - [bear/python-twitter](https://github.com/bear/python-twitter): a Python wrapper around the Twitter API
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot): a Python framework for creating interactive Twitter bots
