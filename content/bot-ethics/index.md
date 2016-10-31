@@ -62,6 +62,7 @@ Nav: hidden
 - [As Artificial Intelligence Evolves, So Does Its Criminal Potential](http://www.nytimes.com/2016/10/24/technology/artificial-intelligence-evolves-with-its-criminal-potential.html) (nytimes.com)
 - [The Pentagon's "Terminator Conundrum: Robots That Could Kill on Their Own](http://www.nytimes.com/2016/10/26/us/pentagon-artificial-intelligence-terminator.html) (nytimes.com)
 - [The darker side of machine learning](https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/) (techcrunch.com)
+- [Self-Driving Mercedes Will Be Programmed To Sacrifice Pedestrians To Save The Driver](https://www.fastcoexist.com/3064539/self-driving-mercedes-will-be-programmed-to-sacrifice-pedestrians-to-save-the-driver) (fastcoexist.com)
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
