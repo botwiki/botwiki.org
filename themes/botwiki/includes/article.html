@@ -1,15 +1,15 @@
 <article>
-  <div class="article-thumbnail" style="background-color: {{meta.dominant_color}}">
-  {% if meta.link %}
-    <a href="{{ meta.link }}">
-  {% endif %}
   {% if meta.thumbnail %}
-    <img src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}" class="lazy-load">
+    <div class="article-thumbnail" style="background-color: {{meta.dominant_color}}">
+    {% if meta.link %}
+      <a href="{{ meta.link }}">
+    {% endif %}
+      <img src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}" class="lazy-load">
+    {% if meta.link %}
+      </a>
+    {% endif %}
+    </div>
   {% endif %}
-  {% if meta.link %}
-    </a>
-  {% endif %}
-  </div>
   <h2>{{ meta.title }}</h2>
   {% if meta.translations is not empty %}
     <p><em>Also available in: 
