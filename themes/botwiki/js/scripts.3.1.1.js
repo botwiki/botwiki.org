@@ -7,7 +7,8 @@ window.smoothScroll = (function(){
 
 // Generate a link to a random bot.
 var request = new XMLHttpRequest();
-request.open('GET', '/api/bot-list', true);
+// request.open('GET', '/api/bot-list', true);
+request.open('GET', 'https://botwiki.org/api/bot-list/', true);
 
 request.onload = function() {
   if (request.status >= 200 && request.status < 400) {
