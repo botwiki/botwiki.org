@@ -83,6 +83,7 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 
 Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For example bots, see the [#cheapbotsdonequick](/tag/cheapbotsdonequick) tag.
 
+- [Making My First Twitter Bot with CheapBotsDoneQuick](https://medium.com/@brindelle/making-my-first-twitter-bot-with-cheapbotsdonequick-4ae03862daba) ([Bonnie Eisenman](https://twitter.com/brindelle) via medium.com)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/) -- tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots)
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767)
