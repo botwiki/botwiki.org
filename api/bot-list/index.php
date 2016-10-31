@@ -1,7 +1,5 @@
 <?php
-// Work in progress. Might need refactoring.
 
-global $bot_list;
 $bot_list = array();
 
 function endsWith($haystack, $needle){
@@ -17,9 +15,9 @@ function getBots($dir){
   $ffs = scandir($dir);
   foreach($ffs as $ff){
     if($ff != '.' && $ff != '..'){
-      if (!endsWith($ff, '/index.md') && endsWith($ff, '.md')){
+      if (endsWith($ff, '.md')){
         $bot_url =  $dir . '/' . $ff ;
-        array_push($bot_list, '"' . substr($bot_url, 7, strlen($bot_url) - 10) . '"');
+        array_push($bot_list, '"' . substr($bot_url, 6, strlen($bot_url) - 9) . '"');
       }
       if (is_dir($dir.'/'.$ff)){
         getBots($dir.'/'.$ff);
@@ -28,7 +26,7 @@ function getBots($dir){
   }
 }
 
-getBots('content/bots');
+getBots('../../content/bots');
 
 header('Content-type: application/json');
 echo '[' . implode(',', $bot_list) . ']';
