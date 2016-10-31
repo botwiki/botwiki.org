@@ -31,6 +31,7 @@ Nav: hidden
 ### [¶](#machine-learning){.pilcrow} Machine learning {#machine-learning}
 
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+- [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
 - [Machine Learning 101: An Intro to Utilizing Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
