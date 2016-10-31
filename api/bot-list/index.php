@@ -15,9 +15,9 @@ function getBots($dir){
   $ffs = scandir($dir);
   foreach($ffs as $ff){
     if($ff != '.' && $ff != '..'){
-      if (endsWith($ff, '.md')){
+      if (!endsWith($ff, 'index.md') && endsWith($ff, '.md')){
         $bot_url =  $dir . '/' . $ff ;
-        array_push($bot_list, '"' . substr($bot_url, 6, strlen($bot_url) - 9) . '"');
+        array_push($bot_list, '"' . substr($bot_url, 13, strlen($bot_url) - 16) . '"');
       }
       if (is_dir($dir.'/'.$ff)){
         getBots($dir.'/'.$ff);
