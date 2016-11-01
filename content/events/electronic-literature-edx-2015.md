@@ -1,9 +1,8 @@
 /*
 Title: Electronic Literature EDX (Online)
 Description: Self-paced online course at edx.org, started on October 12 (2015).
-Date: permanent
-Location: 
-Tags: event,permanent,online
+Date: October 12, 2015
+Tags: event,ongoing,online
 */
 
 

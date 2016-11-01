@@ -13,8 +13,7 @@ Official Botwiki events:
 
 Events either dedicated to botmaking or those that include relevant sessions:
 
-- [Upcoming events](/tag/event+upcoming)
-- [Permanently ongoing events](/tag/event+permanent)
+- [Upcoming](/tag/event+upcoming) and [ongoing](/tag/event+ongoing) events
 - [Past events](/tag/event+archived)
 
 You can also browse dedicated [meetup groups](/events/meetups).
