@@ -81,7 +81,7 @@ The Botwiki team also produces [original tutorials](/tag/tutorial+botwiki-origin
 
 [![Botwiki Corpora API](/content/projects/corpora/images/corpora-api-thumbnail.png?)](/projects/corpora)
 
-Botwiki Corpora API provides free access to the [Corpora](https://github.com/dariusk/corpora) data.
+[Botwiki Corpora API](/projects/corpora/) provides free access to the [Corpora](https://github.com/dariusk/corpora) data.
 
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 
