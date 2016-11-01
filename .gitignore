@@ -2,6 +2,9 @@ node_modules
 cache
 vendor
 
+# Hosted version of github.com/dariusk/corpora
+api/corpora
+
 # StatCounter (visitor statistics) snippet
 statcounter.html
 

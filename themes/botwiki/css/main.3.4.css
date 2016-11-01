@@ -312,9 +312,14 @@ code {
 }
 pre {
   background: #eee;
-  padding: 0;
+  padding: 0.5rem;
   margin-bottom: 1em;
   overflow: auto;
+}
+@media (min-width: 860px) {
+  pre {
+    padding: 0.5rem 2rem;
+  }
 }
 blockquote {
   font-style: italic;
