@@ -14,7 +14,8 @@ Nav: hidden
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
@@ -24,6 +25,9 @@ Nav: hidden
 - [General resources](#general-resources)
 - [Life of a bot](#life-of-a-bot)
 - [Further reading](#see-also)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
+
 
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
