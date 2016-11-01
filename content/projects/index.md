@@ -17,6 +17,7 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 - [Original tutorials](#original-tutorials)
 - [Sidekick](#sidekick)
 - [Detective](#detective)
+- [Corpora Hosted by Botwiki](#corpora-hosted-by-botwiki)
 
 
 ### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
@@ -87,3 +88,10 @@ Detective is an online game where players are assigned roles of a Detective or a
 The Detective has to correctly identify the Impostor, whose goal is to convince the Detective they are speaking to the Robot.
 
 [Play the game](http://fourtonfish.com/detective/), read more about the game on [Stefan's blog](https://fourtonfish.com/tag/detective/), or [join the development](https://github.com/botwiki/detective/).
+
+
+### [¶](#corpora-hosted-by-botwiki){.pilcrow} Corpora Hosted by Botwiki {#corpora-hosted-by-botwiki}
+
+[![Corpora Hosted by Botwiki](/content/projects/corpora/images/corpora-hosted-by-botwiki.png)](/projects/corpora)
+
+The Botwiki team is proud to be hosting the [Corpora repository](https://github.com/dariusk/corpora) to help creative folks fulfill their text-generating needs.
