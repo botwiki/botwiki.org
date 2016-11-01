@@ -50,3 +50,5 @@ The data is refreshed every hour, but feel free to [reach out](mailto:stefan@bot
 Please note that Botwiki only hosts the Corpora project, any issues with the data should be reported [to the original project](https://github.com/dariusk/corpora).
 
 And if you make a fun bot using Corpora Hosted by Botwiki, [be sure to submit it](https://botwiki.org/submit-your-bot) :-)
+
+[**See other Botwiki projects.**](/projects/)
