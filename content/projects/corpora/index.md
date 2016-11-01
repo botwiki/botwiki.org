@@ -13,7 +13,7 @@ Botwiki Corpora API provides free access to the [Corpora](https://github.com/dar
 
 ### [¶](#how-to-use){.pilcrow} How to use {#how-to-use}
 
-Currently, only the `api/corpora/data` endpoint is accessible. You can [browse the original Corpora repository](https://github.com/dariusk/corpora) to find the corpus you'd like to use, for example [animals/birds_antarctica.json](https://github.com/dariusk/corpora/blob/master/data/animals/birds_antarctica.json).
+Currently, only the `/corpora/data` endpoint is accessible. You can [browse the original Corpora repository](https://github.com/dariusk/corpora) to find the corpus you'd like to use, for example [animals/birds_antarctica.json](https://github.com/dariusk/corpora/blob/master/data/animals/birds_antarctica.json).
 
 Copy the URL and replace
 
