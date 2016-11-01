@@ -77,6 +77,12 @@ Botwiki's [Bot Workshops](/bot-workshops) are envisioned as a series of events (
 
 The Botwiki team also produces [original tutorials](/tag/tutorial+botwiki-original).
 
+### [¶](#botwiki-corpora-api){.pilcrow} Botwiki Corpora API {#botwiki-corpora-api}
+
+[![Botwiki Corpora API](/content/projects/corpora/images/corpora-api-thumbnail.png?)](/projects/corpora)
+
+Botwiki Corpora API provides free access to the [Corpora](https://github.com/dariusk/corpora) data.
+
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 
 ![Sidekick](/content/projects/images/botwikibot.png)
@@ -93,10 +99,3 @@ Detective is an online game where players are assigned roles of a Detective or a
 The Detective has to correctly identify the Impostor, whose goal is to convince the Detective they are speaking to the Robot.
 
 [Play the game](http://fourtonfish.com/detective/), read more about the game on [Stefan's blog](https://fourtonfish.com/tag/detective/), or [join the development](https://github.com/botwiki/detective/).
-
-
-### [¶](#botwiki-corpora-api){.pilcrow} Corpora Hosted by Botwiki {#botwiki-corpora-api}
-
-[![Corpora Hosted by Botwiki](/content/projects/corpora/images/corpora-api-thumbnail.png?)](/projects/corpora)
-
-Botwiki Corpora API provides free access to the [Corpora](https://github.com/dariusk/corpora) data, with more advanced features coming soon.
