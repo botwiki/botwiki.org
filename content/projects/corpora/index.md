@@ -1,29 +1,21 @@
 /*
-Title: Corpora Hosted by Botwiki
-Thumbnail: /content/projects/corpora/images/corpora-hosted-by-botwiki.png
+Title: Botwiki Corpora API
+Thumbnail: /content/projects/corpora/images/corpora-api-thumbnail.png
 Show donation link: yes
-Description: A hosted version of the Corpora repository.
+Description: A free Corpora API.
 */
 
+<div class="note"><p>If you're new to web APIs, <a href="/tutorials/general-programming/#web-apis">check out these tutorials</a>.</p></div>
 
 ### [¶](#about){.pilcrow} About the project {#about}
 
-
-[Corpora](https://github.com/dariusk/corpora) is a "collection of static corpora (plural of [corpus](https://en.wikipedia.org/wiki/Text_corpus)) that are potentially useful in the creation of weird internet stuff".
-
-The Botwiki team is proud to be hosting the Corpora repository to help creative folks fulfill their text-generating needs.
-
+Botwiki Corpora API provides free access to the [Corpora](https://github.com/dariusk/corpora) data, with more advanced features coming soon.
 
 ### [¶](#how-to-use){.pilcrow} How to use {#how-to-use}
 
+Currently, only the `api/corpora/data` endpoint is accessible. You can [browse the original Corpora repository](https://github.com/dariusk/corpora) to find the corpus you'd like to use, for example [animals/birds_antarctica.json](https://github.com/dariusk/corpora/blob/master/data/animals/birds_antarctica.json).
 
-The usage is completely free and very simple. [Browse the original repository](https://github.com/dariusk/corpora) and find the corpus you'd like to use, for example:
-
-```
-https://github.com/dariusk/corpora/blob/master/data/animals/birds_antarctica.json
-``` 
-
-Then simply replace
+Copy the URL and replace
 
 ```
 https://github.com/dariusk/corpora/blob/master
@@ -47,8 +39,9 @@ https://botwiki.org/api/corpora/data/animals/birds_antarctica.json
 
 The data is refreshed every hour, but feel free to [reach out](mailto:stefan@botwiki.org) (or [@botwikidotorg](https://twitter.com/botwikidotorg)) if you need a more immediate update, or want to report any issues.
 
-Please note that Botwiki only hosts the Corpora project, any issues with the data should be reported [to the original project](https://github.com/dariusk/corpora).
 
-And if you make a fun bot using Corpora Hosted by Botwiki, [be sure to submit it](https://botwiki.org/submit-your-bot) :-)
+Any issues with the data (typos, other inaccuracies) should be reported [to the original project](https://github.com/dariusk/corpora).
+
+And [be sure to submit your bot](https://botwiki.org/submit-your-bot) :-)
 
 [**See other Botwiki projects.**](/projects/)
