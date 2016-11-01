@@ -47,6 +47,12 @@
     {% include 'includes/opensource.html' %}
   {% elseif current_tags == ['markov'] or current_tags == ['markov chain'] %}
     {% include 'includes/markov.html' %}
+  {% elseif current_tags == ['event', 'archived'] %}
+    <p>You are browsing past events. <a href="/events/">See all events.</a></p>
+  {% elseif current_tags == ['event', 'upcoming'] %}
+    <p>You are browsing upcoming events. <a href="/events/">See all events.</a></p>
+  {% elseif current_tags == ['event', 'ongoing'] %}
+    <p>These are currently ongoing events. <a href="/events/">See all events.</a></p>
   {% elseif current_tags == ['opensource', 'twitterbot'] or current_tags == ['open source', 'twitterbot'] 
          or current_tags == ['twitterbot', 'opensource'] or current_tags == ['twitterbot', 'open source']
   %}
