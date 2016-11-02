@@ -48,13 +48,13 @@
   <p>Feel free to reach out to our <a href="https://botmakers.org/">Botmakers.org community</a>, or directly to <a href="mailto:stefan@botwiki.org">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</p>
   <p><a href="/">Back to the main page.</a>
 {% else %}
-  <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, or reach out directly to <a href="mailto:stefan@botwiki.org">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</em></p>
+  <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, <a href="mailto:stefan@botwiki.org">send an email</a>, <a href="https://twitter.com/botwikidotorg">or a tweet</a>.</em></p>
 
   <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
 
 
   {% for page in search_results %}
-    {% if not page.language %}
+    {% if not page.language and page.title != 'Search results' %}
       {% include 'includes/search_item.html' %}
     {% endif %}
   {% endfor %}
