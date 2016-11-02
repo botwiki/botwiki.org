@@ -11,3 +11,4 @@ Tags: event,ongoing
 
 - November 1-30, 2016
 - [Event page](https://tullyhansen.github.io/NaBoMaMo/)
+- [#NaBoMaMo](https://twitter.com/hashtag/nabomamo?f=tweets&vertical=default) on Twitter
