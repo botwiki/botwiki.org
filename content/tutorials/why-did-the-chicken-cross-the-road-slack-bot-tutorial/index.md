@@ -8,6 +8,9 @@ Date: May 20, 2016
 Tags: tutorial,slack,openshift,node,nodejs,node.js,botkit,fourtonfish,botwiki-original
 */
 
+<div class="note">
+  <p>Need help with this tutorial? Join <a href="https://botmakers.org/">the Botmakers community</a>!</p>
+</div>
 
 [Slack](https://slack.com/is) is a very popular communication tool for teams. It's a bit like [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), but improved with better design and more features. And much like IRC, Slack also supports bots.
 

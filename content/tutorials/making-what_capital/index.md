@@ -8,6 +8,9 @@ Date: November 25, 2015
 Tags: tutorial,twitter,cloud9,openshift,node,nodejs,node.js,fourtonfish,botwiki-original
 */
 
+<div class="note">
+  <p>Need help with this tutorial? Join <a href="https://botmakers.org/">the Botmakers community</a>!</p>
+</div>
 
 Hey there, this is [Stefan](/about/team/#stefan), the creator of **Botwiki.org**!
 

@@ -8,6 +8,10 @@ Date: May 20, 2016
 Tags: tutorial,twitter,openshift,images,node,nodejs,node.js,fourtonfish,botwiki-original
 */
 
+<div class="note">
+  <p>Need help with this tutorial? Join <a href="https://botmakers.org/">the Botmakers community</a>!</p>
+</div>
+
 
 ### [¶](#what-is-a-bot){.pilcrow} What is a bot? {#what-is-a-bot}
 
