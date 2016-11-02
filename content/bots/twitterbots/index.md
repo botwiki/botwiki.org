@@ -109,6 +109,10 @@ Darius notes on the purpose of #botALLY:
 > \#botALLY is ​primarily​ here to provide emotional support and camaraderie and to celebrate people's work and encourage participation. It is only secondarily about discussion of the art and craft of making bots, and that is a far, far, FAR second-place priority.
 
 
+### [¶](#further-reading){.pilcrow} Further reading {#further-reading}
+
+- [The Best of Bot Worlds](http://bestofbotworlds.com/): "Everything you need to know about Creative Twitterbots" (bestofbotworlds.com)
+  - [Anatomy of a Creative Twitterbot](http://robotcomix.com/comix/Twitterbots/mobile/) (robotcomix.com)
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 
