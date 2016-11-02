@@ -38,7 +38,7 @@
 {% elseif search_term_lower == 'error' or search_term_lower == '404' %}
   <p class="search-instructions">Very funny :-)</p>
 {% elseif ' AND ' not in search_term %}
-  <p class="search-instructions">Psst, you can also use the <code>AND</code> operator, for example <a href="/search?q=language+AND+machine">"language AND machine"</a>.</p>
+  <p class="search-instructions">Psst, you can also use the <code>AND</code> operator, for example <a href="/search?q=language+AND+machine">"language AND machine"</a>, or <code>TAGS</code>, for example <a href="/search?q=TAGS: twitter bot emoji">"TAGS: twitter bot emoji"</a>.</p>
 {% endif %}
 
 {% if search_num_results == 0 %}

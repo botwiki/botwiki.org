@@ -1,5 +1,5 @@
 <div class="search-item clearfix">
-  {% if ('bot' in page.tags or 'event' in page.tags) and page.thumbnail %}
+  {% if page.thumbnail %}
     <div class="search-thumbnail">
       <a href="{{ page.url }}">
         <img data-src="{{ page.thumbnail }}" class="lazy-load">
