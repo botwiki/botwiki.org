@@ -15,4 +15,4 @@ The prize was a choice between a **$20 Amazon *and* Google Play gift card**, cou
 
 Congratulations! 👏👏👏🎉🎉
 
-***[Back to Monthly Bot Challenge main page](/monthly-bot-challenge/)
+***[Back to Monthly Bot Challenge main page](/monthly-bot-challenge/)***
