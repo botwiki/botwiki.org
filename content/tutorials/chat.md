@@ -20,6 +20,7 @@ Nav: hidden
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details) (Tow Center for Digital Journalism via gitbook.com)
 - [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF, jellyvisionlab.com)
 - [Read This Before You Build That Chatbot](http://www.hugeinc.com/ideas/perspective/read-this-before-you-build-that-chatbot) (hugeinc.com)
+- [How to write convincing bots and computer conversations using fallbacks, interjections, and believability credit](https://www.pullstring.com/blog/how-to-use-fallbacks-interjections-and-believability-credit-to-write-convincing-computer-conversations) (pullstring.com)
 - [Designing Chat for Commerce](https://medium.com/@kipsearch/designing-chat-for-commerce-9faf1e36c040) (Kip via medium.com)
 - [What Installing 15+ Slack Bots Taught Me About A Great Onboarding Experience](https://medium.com/@thecoolestcool/what-installing-15-slack-bots-taught-me-about-a-great-onboarding-experience-da04288a33d6) (Ross Simmonds via medium.com)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd) (freecodecamp.com)
