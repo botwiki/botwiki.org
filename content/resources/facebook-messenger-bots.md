@@ -30,6 +30,7 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 - [howdyai/botkit](https://github.com/howdyai/botkit) (also supports Slack)
 - [DiegoRBaquero/node-fb-messenger](https://github.com/DiegoRBaquero/node-fb-messenger)
 - [alexindigo/fbbot](https://github.com/alexindigo/fbbot)
+- [olegakbarov/facebook-messenger-devkit](https://github.com/olegakbarov/facebook-messenger-devkit)
 
 #### [¶](#bot-frameworks-java){.pilcrow} Java {#bot-frameworks-java}
 

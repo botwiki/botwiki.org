@@ -55,13 +55,16 @@ Nav: hidden
 - [Mechanomorphs and the politeness of machines](http://nytlabs.com/blog/2016/03/24/mechanomorphism/) (nytlabs.com)
 - [Artificial Intelligence Will Be as Biased and Prejudiced as Its Human Creators](https://psmag.com/artificial-intelligence-will-be-as-biased-and-prejudiced-as-its-human-creators-38fe415f86dd) (psmag.com)
 - [Why An AI-Judged Beauty Contest Picked Nearly All White Winners](http://motherboard.vice.com/read/why-an-ai-judged-beauty-contest-picked-nearly-all-white-winners) (motherboard.vice.com)
+- [Can AI really be ethical and unbiased?](http://www.zdnet.com/article/can-ai-really-be-ethical-and-unbiased/) (zdnet.com)
 - [A.I. Doesn't Get Black Twitter](https://www.inverse.com/article/21316-a-i-doesn-t-get-black-twitter-yet) (inverse.com)
+- [There is a blind spot in AI research](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805) (nature.com)
 - [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
 
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
+- [Technically Female: Women, Machines, and Hyperemployment](http://salvage.zone/in-print/technically-female-women-machines-and-hyperemployment/) (salvage.zone)
 - [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)
 - [As Artificial Intelligence Evolves, So Does Its Criminal Potential](http://www.nytimes.com/2016/10/24/technology/artificial-intelligence-evolves-with-its-criminal-potential.html) (nytimes.com)
 - [The Pentagon's "Terminator Conundrum: Robots That Could Kill on Their Own](http://www.nytimes.com/2016/10/26/us/pentagon-artificial-intelligence-terminator.html) (nytimes.com)

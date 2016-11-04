@@ -24,6 +24,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [thricedotted/twitterbot](https://github.com/thricedotted/twitterbot): a Python framework for creating interactive Twitter bots
 - [hmason/botomatic](https://github.com/hmason/botomatic): easily create twitter bots in Python
 - [swizzard/botmaster](https://github.com/swizzard/botmaster): making Twitter bots easier
+- [bgporter/nanobot](https://github.com/bgporter/nanobot): a tiny little Python twitterbot framework (see [related blog post](https://artandlogic.com/2016/06/nanobot-tiny-little-twitterbot-framework/))
+
 
 #### [¶](#twitterbot-frameworks-ruby){.pilcrow} Ruby {#twitterbot-frameworks-ruby}
 
@@ -36,6 +38,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 - [zhaytee/botville](https://github.com/zhaytee/botville): a simple package for bootstrapping a Twitter bot in Go
 - [matteoredaelli/twitterBot](https://github.com/matteoredaelli/twitterBot): a simple Twitter bot written in Elixir
+- [Literal Twitter Bot Kit](https://www.adafruit.com/product/3281) (adafruit.com)
 
 ### [¶](#language){.pilcrow} Language {#language}
 

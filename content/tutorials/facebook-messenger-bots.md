@@ -26,6 +26,7 @@ Nav: hidden
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
 - [Quickstart Bots for Messenger from Localhost](https://medium.com/@ThomasBrd/in-this-quick-post-we-will-see-how-to-configure-and-quickstart-a-facebook-messenger-bot-plateform-86dcc013741d)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
+- [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) (smashingmagazine.com)
 
 
 ### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
@@ -37,6 +38,11 @@ Nav: hidden
 ### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 
 - Developing a Facebook Messenger Bot with Ruby on Rails: [Part 1](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-1-7d8039b62f0) and [Part 2](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-2-6ccc51430bfe)
+- [How to Create a Facebook Messenger Bot with Ruby on Rails](https://chatbotslife.com/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135#.npfve7zbf) (chatbotslife.com)
+
+### [¶](#tutorials-microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#tutorials-microsoft-bot-framework}
+
+- [A Step By Step Guide To Develop A Conversational Facebook ChatBot Using Microsoft Bot Framework](https://www.netsolutionsindia.com/blog/a-step-by-step-guide-to-develop-a-conversational-facebook-chatbot-using-microsoft-bot-framework/)
 
 ### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 
