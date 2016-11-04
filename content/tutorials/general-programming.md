@@ -16,6 +16,7 @@ Nav: hidden
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [General tutorials](#general)
+- [Creative programming](#creative-programming)
 - [Web APIs](#web-apis)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [IBM Watson tutorials](#watson)
@@ -32,6 +33,10 @@ Nav: hidden
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
 
 
+### [¶](#creative-programming){.pilcrow} Creative programming {#creative-programming}
+
+- [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class."
+- [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 
 ### [¶](#microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#microsoft-bot-framework}
 
