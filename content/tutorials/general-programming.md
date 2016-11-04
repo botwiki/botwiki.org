@@ -38,6 +38,10 @@ Nav: hidden
 - [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class."
 - [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 
+***See also:***
+
+- [CreativeAI: On the Democratisation & Escalation of Creativity](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3) (ArtificialExperience via medium.com)
+
 ### [¶](#microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#microsoft-bot-framework}
 
 - [Getting Started with Bots](https://mva.microsoft.com/en-US/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)

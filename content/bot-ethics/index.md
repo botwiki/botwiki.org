@@ -100,5 +100,6 @@ Nav: hidden
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
 - [Concerning AI](https://concerning.ai/): a podcast that explores "concerns about intelligent machines"
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
+- [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) (wikipedia.org)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
