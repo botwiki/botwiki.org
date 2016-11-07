@@ -11,4 +11,5 @@ Tags: event,ongoing
 
 - November 1-30, 2016
 - [Event page](https://tullyhansen.github.io/NaBoMaMo/)
+- [List of bots made for #NaBoMaMo](https://twitter.com/tullyhansen/lists/nabomamo-master/members) (maintaned by [Tully Hansen](https://twitter.com/tullyhansen))
 - [#NaBoMaMo](https://twitter.com/hashtag/nabomamo?f=tweets&vertical=default) on Twitter
