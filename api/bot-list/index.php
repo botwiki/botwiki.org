@@ -26,7 +26,12 @@ function getBots($dir){
   }
 }
 
-getBots('../../content/bots');
+if (isset($_GET['filter'])){
+  getBots('../../content/bots/' . $_GET['filter']);
+}
+else{
+  getBots('../../content/bots');
+}
 
 header('Content-type: application/json');
 echo '[' . implode(',', $bot_list) . ']';
