@@ -13,7 +13,7 @@
     RewriteRule . index.php [L]
 
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^(.*)([^/])$        /$1$2/ [L,R=301]
+    RewriteRule ^(.*)([^/])$        /$1$2 [L,R=301]
 
 
 ##  ???
