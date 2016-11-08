@@ -48,3 +48,7 @@ RedirectMatch "^/tutorials/basic-twitter-bot-etiquette-tiny-subversions/*$" "htt
 RedirectMatch "^/bot-workshops/workshop-01/*$" "https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/"
 RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
 RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
+
+# Redirect old event pages
+RedirectMatch "^/events/bot-summit-2016/*" "https://botwiki.org/events/2016/bot-summit-2016"
+RedirectMatch "^/events/nanogenmo-2015/*" "https://botwiki.org/events/2015/nanogenmo-2015"
