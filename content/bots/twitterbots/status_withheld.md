@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@status_withheld](https://twitter.com/status_withheld) is an [open source](http://cheapbotsdonequick.com/source/status_withheld) Twitter bot created by [Stefan Bohacek](https://twitter.com/fourtonfish) that monitors the `status_withheld` event on Twitter.
+[@status_withheld](https://twitter.com/status_withheld) is an [open source](https://github.com/botwiki/status_withheld) Twitter bot created by [Stefan Bohacek](https://twitter.com/fourtonfish) that monitors the `status_withheld` event on Twitter.
 
 From the [Twitter API documentation](https://dev.twitter.com/streaming/overview/messages-types#withheld-content-notices-status-withheld-user-withheld):
 
