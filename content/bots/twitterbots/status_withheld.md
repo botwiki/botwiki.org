@@ -1,7 +1,7 @@
 /*
 Title: @status_withheld
 Description: Monitors the status_withheld event on Twitter. In theory.
-Thumbnail: /content/bots/twitterbots/images/status_withheld.png
+Thumbnail: /content/bots/twitterbots/images/status_withheld.png?
 Link: https://twitter.com/status_withheld
 Author: Stefan Bohacek
 Date: November 8, 2016
