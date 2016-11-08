@@ -70,6 +70,9 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members), maintained by [the Botwiki team](https://twitter.com/botwikidotorg)
 
+See also:
+
+- [Interactive Fiction's Twitter Bots](https://farfarfutures.wordpress.com/2016/05/31/interactive-fictions-twitter-bots/) (farfarfutures.wordpress.com)
 
 #### [¶](#lists-of-twitter-bots-science-education){.pilcrow} Science, education {#lists-of-twitter-science-education}
 
