@@ -13,3 +13,9 @@ Tags: event,ongoing
 - [Event page](https://tullyhansen.github.io/NaBoMaMo/)
 - [List of bots made for #NaBoMaMo](https://twitter.com/tullyhansen/lists/nabomamo-master/members) (maintaned by [Tully Hansen](https://twitter.com/tullyhansen))
 - [#NaBoMaMo](https://twitter.com/hashtag/nabomamo?f=tweets&vertical=default) on Twitter
+
+
+
+### [¶](#related-blog-posts-and-articles){.pilcrow} Related blog posts and articles {#related-blog-posts-and-articles}
+
+- [#NaBoMaMo 2016](http://mikewatson.me/NaBoMaMo/2016) (mikewatson.me)

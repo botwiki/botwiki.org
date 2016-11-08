@@ -6,12 +6,16 @@ Show donation link: yes
 Weight: 5
 */
 
-Official Botwiki events:
+
+### [¶](#official-botwiki-events){.pilcrow} Official Botwiki events {#official-botwiki-events}
 
 - [Bot Workshops](/bot-workshops)
 - [Monthly Bot Challenge](/monthly-bot-challenge)
 
-Events either dedicated to botmaking or those that include relevant sessions:
+
+### [¶](#events){.pilcrow} Events {#events}
+
+Events either dedicated to botmaking or those that include relevant sessions.
 
 - [Upcoming](/tag/event+upcoming) and [ongoing](/tag/event+ongoing) events
 - [Past events](/tag/event+archived)
