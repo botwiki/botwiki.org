@@ -52,3 +52,4 @@ RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
 # Redirect old event pages
 RedirectMatch "^/events/bot-summit-2016/*" "https://botwiki.org/events/2016/bot-summit-2016"
 RedirectMatch "^/events/nanogenmo-2015/*" "https://botwiki.org/events/2015/nanogenmo-2015"
+RedirectMatch "^/events/nabomamo-2016/*" "https://botwiki.org/events/2015/nabomamo-2016"
