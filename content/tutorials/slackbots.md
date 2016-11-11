@@ -75,6 +75,7 @@ For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorial
 
 ### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
 
+- [State of the Slack Platform](https://blog.howdy.ai/talkabot-talks-state-of-the-slack-platform-amir-shevat-slack-1eee5b056e07) (blog.howdy.ai)
 - [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6)
 - [3 Things We Learned Building a Chatbot for Slack](https://medium.com/@kipsearch/3-things-we-learned-building-a-chatbot-for-slack-2dc32321d77c) -- via [@kipsearch](https://twitter.com/kipsearch)
 - [How We Use Bots in Slack at SparkPost](https://www.sparkpost.com/blog/using-slack-bots-sparkpost/)
