@@ -24,11 +24,11 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ current_page.url }}" />
   {% if meta.thumbnail and not is_front_page %}
-    <meta property="og:image" content="{{meta.thumbnail}}" /> 
-    <meta property="twitter:image:src" content="{{base_url}}{{meta.thumbnail}}" /> 
+    <meta property="og:image" content="{{meta.thumbnail}}" />
+    <meta property="twitter:image:src" content="{{base_url}}{{meta.thumbnail}}" />
   {% else %}
-    <meta property="og:image" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" /> 
-    <meta property="twitter:image:src" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" /> 
+    <meta property="og:image" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" />
+    <meta property="twitter:image:src" content="{{base_url}}/content/images/botwiki-nixiebot-thumbnail.png" />
   {% endif %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@botwikidotorg" />
@@ -43,7 +43,7 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Source+Serif+Pro|Bree+Serif|Lato' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.4.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.4.min.css" type="text/css" />
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -56,9 +56,9 @@
       <nav>
         <label id="menu-icon-wrapper" class="cursor-pointer" for="menu-toggle">
           <svg id="menu-icon" viewBox="0 0 36 24" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="36px" height="24px"><g id="Layer%201"><rect x="0" y="0" width="36" height="4" fill="#ffffff"/><rect x="0" y="10" width="36" height="4" fill="#ffffff"/><rect x="0" y="20" width="36" height="4" fill="#ffffff"/></g></svg>
-        </label>  
+        </label>
         <a class="h-card u-url" href="{{ base_url }}" id="logo" title="Hello!"><span class="robot-face">🤖</span></a>
-        <input type="checkbox" id="menu-toggle"/>  
+        <input type="checkbox" id="menu-toggle"/>
         <ul id="menu">
           <li class="form-wrapper">
             <form id="search-form" action="/search">
@@ -209,5 +209,6 @@
     request.send();
   </script>
   {% endif %}
+  <script src="{{ theme_url }}/js/welcome.js"></script>
 </body>
 </html>
