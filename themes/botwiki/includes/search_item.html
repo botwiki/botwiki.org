@@ -18,6 +18,26 @@
       {% else %}
         Last updated on {{ page.date }}
       {% endif %}
+
+
+    {% if page.translations|length > 0 %}
+      {% if page.translations is iterable %}
+        {% set page_languages = page.translations %}
+      {% else %}
+        {% set page_languages = page.translations|split(',') %}
+      {% endif %}
+        <br/>
+          Available translations: 
+          {% for language in page_languages %}
+            <a href="{{ page.url }}_{{ language }}">{{ language }}</a>
+          {% endfor %}
+    {% endif %}
+
+
+
+
+
+
     </p>
     {% endif %}
     {% if page.tags|length > 0 %}
