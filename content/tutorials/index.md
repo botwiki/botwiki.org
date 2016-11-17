@@ -13,9 +13,12 @@ Weight: 2
 </div>
 
 
+
 There is a variety of tools that make creating bots very easy. From [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Dexter](https://rundexter.com/), to browser-based development environments, like [Cloud9](https://c9.io/). You can also find many [open-sourced bots](/tag/opensource) that you can reuse and build on top of.
 
 **Botmaking has never been easier!**
+
+***PS: Also check out [our workshops](/bot-workshops/) and [original tutorials](/tag/tutorial+botwiki-original).***
 
 [![Making Bots with Dexter](/content/tutorials/images/making-bots-dexter.png)](https://twitter.com/fourtonfish/status/664130256266264576){.float-right}
 
@@ -45,7 +48,6 @@ Choose the network on which you want to deploy your bot:
 - [Bots as art, games as teaching tools](https://medium.com/mozilla-festival/bots-as-art-games-as-teaching-tools-d4593e8f7b73) (Stevie Benton via medium.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) ([Paul Ford](https://twitter.com/ftrain) via bloomberg.com)
 - [Open-sourced bots](/tag/bot+opensource)
-- [Original Botwiki tutorials](/tag/tutorial+botwiki-original)
 - [The Long Game of Creativity](http://www.openculture.com/2015/04/the-long-game-of-creativity.html) (openculture.com)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
