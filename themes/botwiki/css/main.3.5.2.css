@@ -305,14 +305,14 @@ sup {
   font-size: smaller;
 }
 code {
+  background: #eee;
+  padding: 0 2px !important;
+}
+pre code {
   font-family: Courier, "Courier New", Monaco, Tahoma;
   background: #23241f;
   color: #333;
-  padding: 0 !important;
-}
-p > code {
-  background: #eee;
-  padding: 0 2px !important;
+  padding: 1em 0 !important;
 }
 pre {
   background: #23241f;
