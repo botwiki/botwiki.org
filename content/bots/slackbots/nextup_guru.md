@@ -10,7 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[nextup.guru](nextup.guru) is a Slack bot created by [Nextup.guru](https://twitter.com/nextupguru). 
-
-Listens for Jira ticket mentions and automatically gets the jira info via API
-
+[nextup.guru](nextup.guru) is a Slack bot created by [Nextup.guru](https://twitter.com/nextupguru) that tistens for [Jira](https://en.wikipedia.org/wiki/Jira_(software)) ticket mentions and automatically gets the Jira info via [API](https://simple.wikipedia.org/wiki/Application_programming_interface).
