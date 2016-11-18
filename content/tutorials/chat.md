@@ -28,6 +28,7 @@ Nav: hidden
 - [3 simple AI tricks to make your chatbot more responsive (and 1 non-AI one)](https://medium.com/@davidwright_68835/3-simple-ai-tricks-to-make-your-chatbot-more-responsive-and-1-non-ai-one-24e94d45caa1) (David Wright via medium.com)
 - [What 10 Billion Messages can Teach us About Making Chatbots](https://chatbotslife.com/what-10-billion-messages-can-teach-us-about-making-chatbots-fb796781bb4a) (chatbotslife.com)
 - [The Ultimate Guide to Chatbots: Why they're disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682)
+- [Open Design Standards for Chat UX](https://medium.com/@kipsearch/open-design-standards-for-chat-ux-f9f786b3a68e) (Kip via medium.com)
 
 ***See also:** [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)*
 
