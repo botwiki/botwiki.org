@@ -32,6 +32,12 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [andrewthetechie/slack_rtmbot](https://github.com/andrewthetechie/slack_rtmbot) -- A Python-based bot framework, created by [@andrewthetechie](https://twitter.com/andrewthetechie), that lets you use [Slack's RTM API](https://api.slack.com/rtm). It's extensible via [plugins](https://github.com/andrewthetechie/slack_rtmbot/tree/master/doc/plugins#creating-plugins).
 
 
+#### [¶](#libraries-frameworks-php){.pilcrow} PHP {#libraries-frameworks-php}
+
+- [mpociot/slackbot](https://github.com/mpociot/slackbot): "a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for Slack"
+  - [Build your own Slack Bot with this PHP library](https://laravel-news.com/2016/11/slack-bot) (laravel-news.com)
+
+
 ### [¶](#tools){.pilcrow} Tools {#tools}
 
 #### [¶](#tools-hosting){.pilcrow} Hosting {#tools-hosting}

@@ -38,6 +38,7 @@ Nav: hidden
 - [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class."
 - [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/)
+- [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 
 ***See also:***
 
