@@ -11,76 +11,78 @@
     </div>
   {% endif %}
   <h2>{{ meta.title }}</h2>
-  {% if meta.translations is not empty %}
-    <p><em>Also available in: 
-      {% for language in meta.translations|split(',') %}
-        <a href="{{ current_page.url }}_{{ language }}">
-          {% if language == 'es' %}
-            Spanish
-          {% else %}
-            {{ language }}
-          {% endif %}
-        </a>
-      {% endfor %}
-    </em></p>
-  {% endif %}
-
-  {% if meta.installed == 'true' or meta.installed == 'yes' %}
-      <div class="note"><p>
-    {% if meta.language == 'es' %}
-        Nota: Únete a <a href="https://botmakers.org/">Botmakers.org</a> y podrás <a href="https://github.com/botwiki/botmakers.org/blob/master/BOTS.md">probar este bot por ti mismo</a> :-)
-    {% else %}
-        Note: Come join <a href="https://botmakers.org/">Botmakers.org</a> and you can <a href="https://github.com/botwiki/botmakers.org/blob/master/BOTS.md">try this bot yourself</a> :-)
+  <div class="content-wrapper">
+    {% if meta.translations is not empty %}
+      <p><em>Also available in: 
+        {% for language in meta.translations|split(',') %}
+          <a href="{{ current_page.url }}_{{ language }}">
+            {% if language == 'es' %}
+              Spanish
+            {% else %}
+              {{ language }}
+            {% endif %}
+          </a>
+        {% endfor %}
+      </em></p>
     {% endif %}
-    </p></div>
-  {% endif %}
-  {{ content }}
 
-  {% if "bot-workshops" in meta.tags %}
-    {% include 'includes/bot-workshops.html' %}
-  {% endif %}
-
-  {% if "interview" in meta.tags %}
-    <p class="note-alternative">This was an interview from the <a href="https://botzine.org/">Bot! zine</a> interview series. <a href="/tag/interview">Read more here.</a></p>
-  {% endif %}
-
-  {% if meta.show_donation_link == 'yes'
-     or "bot" in meta.tags
-     or "event" in meta.tags
-     or "interview" in meta.tags
-   %}
-    {% include 'includes/donations.html' %}
-  {% endif %}
-
-  <div class="meta">
-    <p class="share-prompt">
-    {% if meta.language == 'es' %}
-      Comparte esta página
-    {% else %}
-      Share this page
-    {% endif %}
-    </p>
-    {% include 'includes/sharing-is-caring.html' %}
-
-    {% if meta.tags is not empty %}
-      {% if 'bot' in meta.tags %}
-        <p class="tags">
-          {% if meta.language == 'es'%}
-            Puedes ver otros bots similares en:
-          {% else %}
-            Browse more bots like this:
-          {% endif %}
+    {% if meta.installed == 'true' or meta.installed == 'yes' %}
+        <div class="note"><p>
+      {% if meta.language == 'es' %}
+          Nota: Únete a <a href="https://botmakers.org/">Botmakers.org</a> y podrás <a href="https://github.com/botwiki/botmakers.org/blob/master/BOTS.md">probar este bot por ti mismo</a> :-)
       {% else %}
-        <p class="tags">Tags:
+          Note: Come join <a href="https://botmakers.org/">Botmakers.org</a> and you can <a href="https://github.com/botwiki/botmakers.org/blob/master/BOTS.md">try this bot yourself</a> :-)
       {% endif %}
-
-      {% for tag in meta.tags %}
-          <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
-      {% endfor %}
-      </p>
-      {% if 'bot' in meta.tags %}
-        <p>Or check out <a href="/random-bot">a random bot</a>!</p>
-      {% endif %}
+      </p></div>
     {% endif %}
-  </p>
+    {{ content }}
+
+    {% if "bot-workshops" in meta.tags %}
+      {% include 'includes/bot-workshops.html' %}
+    {% endif %}
+
+    {% if "interview" in meta.tags %}
+      <p class="note-alternative">This was an interview from the <a href="https://botzine.org/">Bot! zine</a> interview series. <a href="/tag/interview">Read more here.</a></p>
+    {% endif %}
+
+    {% if meta.show_donation_link == 'yes'
+       or "bot" in meta.tags
+       or "event" in meta.tags
+       or "interview" in meta.tags
+     %}
+      {% include 'includes/donations.html' %}
+    {% endif %}
+
+    <div class="meta">
+      <p class="share-prompt">
+      {% if meta.language == 'es' %}
+        Comparte esta página
+      {% else %}
+        Share this page
+      {% endif %}
+      </p>
+      {% include 'includes/sharing-is-caring.html' %}
+
+      {% if meta.tags is not empty %}
+        {% if 'bot' in meta.tags %}
+          <p class="tags">
+            {% if meta.language == 'es'%}
+              Puedes ver otros bots similares en:
+            {% else %}
+              Browse more bots like this:
+            {% endif %}
+        {% else %}
+          <p class="tags">Tags:
+        {% endif %}
+
+        {% for tag in meta.tags %}
+            <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
+        {% endfor %}
+        </p>
+        {% if 'bot' in meta.tags %}
+          <p>Or check out <a href="/random-bot">a random bot</a>!</p>
+        {% endif %}
+      {% endif %}
+    </p>
+  </div>
 </article>

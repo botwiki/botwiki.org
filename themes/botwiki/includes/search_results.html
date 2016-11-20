@@ -1,3 +1,4 @@
+<div class="search-results-intro">
 {% set search_term_lower = search_term|lower %}
 {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' or search_term_lower == 'contact' or search_term_lower == 'email' %}
   {% include 'includes/contact.html' %}
@@ -42,20 +43,23 @@
 {% endif %}
 
 {% if search_num_results == 0 %}
-  <p>Bummer, nothing found for "{{ search_term }}"!</p>
-  <p>This site is open source, so you can <a href="https://github.com/botwiki/botwiki.org">add more content</a> yourself! You can also <a href="https://botwiki.org/submit-your-bot">use this form</a> to suggest a bot to add to <strong>Botwiki</strong>.</p>
-  <p><em><strong>Note:</strong> If you recently submitted a bot, please wait patiently, adding it is a manual process for us!</em>
-  <p>Feel free to reach out to our <a href="https://botmakers.org/">Botmakers.org community</a>, or directly to <a href="mailto:stefan@botwiki.org">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</p>
-  <p><a href="/">Back to the main page.</a>
+    <h2>Bummer, nothing found for "{{ search_term }}"!</h2>
+    <p>This site is open source, so you can <a href="https://github.com/botwiki/botwiki.org">add more content</a> yourself! You can also <a href="https://botwiki.org/submit-your-bot">use this form</a> to suggest a bot to add to <strong>Botwiki</strong>.</p>
+  </div>
+  <div class="content-wrapper">
+    <p><em><strong>Note:</strong> If you recently submitted a bot, please wait patiently, adding it is a manual process for us!</em></p>
+    <p>Feel free to reach out to our <a href="https://botmakers.org/">Botmakers.org community</a>, or directly to <a href="mailto:stefan@botwiki.org">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</p>
+    <p><a href="/">Back to the main page.</a></p>
+  </div>
 {% else %}
-  <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, <a href="mailto:stefan@botwiki.org">send an email</a>, <a href="https://twitter.com/botwikidotorg">or a tweet</a>.</em></p>
-
-  <p class="meta">{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}":</p>
-
-
-  {% for page in search_results %}
-    {% if not page.language and page.title != 'Search results' %}
-      {% include 'includes/search_item.html' %}
-    {% endif %}
-  {% endfor %}
+    <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, <a href="mailto:stefan@botwiki.org">send an email</a>, <a href="https://twitter.com/botwikidotorg">or a tweet</a>.</em></p>
+    <h2>{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}"</h2>
+  </div>
+  <div class="content-wrapper">
+    {% for page in search_results %}
+      {% if not page.language and page.title != 'Search results' %}
+        {% include 'includes/search_item.html' %}
+      {% endif %}
+    {% endfor %}
+  </div>
 {% endif %}

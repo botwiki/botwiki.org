@@ -64,6 +64,21 @@ article{
 */
 }
 
+div.search-results-intro{
+  padding-bottom: 2em;
+}
+
+article h1, 
+article h2,
+div.search-results-intro{
+  animation: reveal 0.4s normal forwards ease-in-out;
+}
+
+div.content-wrapper{
+  animation: reveal 0.6s normal forwards ease-in-out;
+}
+
+
 /* hand cursor on clickable input elements */
 label, input[type=button], input[type=submit], button{
   cursor: pointer;
@@ -587,7 +602,12 @@ form#search-form input{
   width: 100%;
   line-height: 1.5em;
 }
+div.search-results-intro{
+  h2{
+    text-align: center;
 
+  }
+}
 div#content-wrapper{
   margin: 0 auto;
   max-width: @site-width;

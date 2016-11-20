@@ -1,10 +1,11 @@
+<div class="search-results-intro">
 <div class="donations-top-fix">
   {% include 'includes/donations.html' %}
 </div>
 
 
 {% if current_tags == ['all-tags'] %}
-  <h1>Browse all existing tags</h1>
+  <h1>Brofwse all existing tags</h1>
   <div class="all-tags">
     {% for tag in tag_list %}
       <a href="/tag/{{ tag }}">#{{ tag }}</a></li>
@@ -19,11 +20,14 @@
 
 
 {% if pagestags|length == 0 and current_tags != ['all-tags'] %}
-  <p>No posts tagged 
+  <h2>No posts tagged 
     {% for tag in current_tags %}
       <a href="/tag/{{ tag}}">#{{ tag }}</a>
-    {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</p>
-  <p><a href="/">Back to the main page.</a>
+    {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</h2>
+  </div>
+  <div class="content-wrapper">
+    <p><a href="/">Back to the main page.</a></p>
+  </div>
 {% elseif current_tags != ['all-tags'] %}
   {% if current_tags == ['bot'] %}
     {% include 'includes/all-bots.html' %}
@@ -58,17 +62,18 @@
   %}
     {% include 'includes/opensource-twitterbots.html' %}
   {% endif %}
+  </div>
+  <div class="content-wrapper">
+    <h2>Posts tagged 
+      {% for tag in current_tags %}
+        <a href="/tag/{{ tag}}">#{{ tag }}</a>
+      {% endfor %}
+    </h2>
 
-
-  <p>Posts tagged 
-    {% for tag in current_tags %}
-      <a href="/tag/{{ tag}}">#{{ tag }}</a>
+    {% for page in pagestags %}
+      {% if page.date and not page.language %}
+        {% include 'includes/search_item.html' %}
+      {% endif %}
     {% endfor %}
-  </p>
-
-  {% for page in pagestags %}
-    {% if page.date and not page.language %}
-      {% include 'includes/search_item.html' %}
-    {% endif %}
-  {% endfor %}
+  </div>
 {% endif %}
