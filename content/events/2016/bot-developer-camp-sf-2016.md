@@ -4,7 +4,7 @@ Description: A 48-hour collaborative event, featuring superstar hackers and desi
 Link: https://www.eventbrite.com/e/developer-camp-tickets-28616228911
 Date: November 18–20, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=301-howard-street-san-francisco-ca-94105&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 > A 48-hour collaborative event, featuring superstar hackers and designers to help everyone learn to code, build custom hardware, and generally make ideas come to life.

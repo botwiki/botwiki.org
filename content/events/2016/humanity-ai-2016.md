@@ -25,3 +25,4 @@ Tags: event,upcoming
 - 9:00 AM – 5:00 PM
 - [Bespoke](http://www.bespokesf.co/), 845 Market Street, San Francisco ([map](https://www.google.com/maps/dir/Current+Location/845+Market+Street+San+Francisco))
 - [Event page](https://www.eventbrite.com/e/humanityai-tickets-27038920138)
+- [humanity.ai](http://www.humanity.ai/)
