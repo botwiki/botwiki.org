@@ -41,6 +41,10 @@ $config['pages_order'] = 'desc';                // Order pages "asc" or "desc"
 $config['content_dir'] = 'content/';    // Content directory
 $config['ptags_template'] = 'index';
 
+
+$detect = new Mobile_Detect;
+$config['is_mobile'] = $detect->isMobile();
+
 /*
  * TIMEZONE
  */

@@ -49,6 +49,14 @@
 {% endif %}
   <link rel="pingback" href="https://webmention.io/botwiki.org/xmlrpc" />
   <link rel="webmention" href="https://webmention.io/botwiki.org/webmention" />
+{% if not current_page.is_mobile %}
+  <link rel="prerender" href="{{base_url}}/bots">
+  <link rel="prerender" href="{{base_url}}/tutorials">
+  <link rel="prerender" href="{{base_url}}/resources">
+  <link rel="prerender" href="{{base_url}}/articles">
+  <link rel="prerender" href="{{base_url}}/events">
+  <link rel="prerender" href="{{base_url}}/about">
+{% endif %}
 </head>
 <body{% if is_front_page %} class="front-page"{% endif %}>
   <header id="header">

@@ -9,5 +9,6 @@ return array(
     'Twig_' => array($vendorDir . '/twig/twig/lib'),
     'ParsedownExtra' => array($vendorDir . '/erusev/parsedown-extra'),
     'Parsedown' => array($vendorDir . '/erusev/parsedown'),
+    'Detection' => array($vendorDir . '/mobiledetect/mobiledetectlib/namespaced'),
     'ColorThief' => array($vendorDir . '/ksubileau/color-thief-php/lib'),
 );
