@@ -69,6 +69,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members), maintained by [the Botwiki team](https://twitter.com/botwikidotorg)
+- [Music bots](https://twitter.com/ASchoenbot/lists/music-bots/members), maintaned by [@ASchoenbot](https://twitter.com/ASchoenbot)
 
 See also:
 

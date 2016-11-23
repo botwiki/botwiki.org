@@ -61,6 +61,7 @@ Nav: hidden
 - [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
 - [Troubling Study Says Artificial Intelligence Can Predict Who Will Be Criminals Based on Facial Features](https://theintercept.com/2016/11/18/troubling-study-says-artificial-intelligence-can-predict-who-will-be-criminals-based-on-facial-features/) (theintercept.com)
+- [How to Fix Silicon Valley’s Sexist Algorithms](https://www.technologyreview.com/s/602950/how-to-fix-silicon-valleys-sexist-algorithms/) (technologyreview.com)
 
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
