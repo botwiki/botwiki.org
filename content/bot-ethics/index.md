@@ -60,6 +60,7 @@ Nav: hidden
 - [There is a blind spot in AI research](http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805) (nature.com)
 - [Deep-Fried Data](http://idlewords.com/talks/deep_fried_data.htm) (idlewords.com)
 - [The Real Bias Built In at Facebook](http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html?_r=0) (nytimes.com)
+- [Troubling Study Says Artificial Intelligence Can Predict Who Will Be Criminals Based on Facial Features](https://theintercept.com/2016/11/18/troubling-study-says-artificial-intelligence-can-predict-who-will-be-criminals-based-on-facial-features/) (theintercept.com)
 
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
@@ -77,6 +78,7 @@ Nav: hidden
 
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
 - [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
+- [Humans 'will bully robot cars', Mercedes chief warns](http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/) (telegraph.co.uk)
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
