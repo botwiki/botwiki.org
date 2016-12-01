@@ -33,6 +33,7 @@ Nav: hidden
 - [data.gov](http://www.data.gov/) -- "the home of the U.S. Governments open data" (data, tools, and resources)
 - [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
+- [Text & metadata from fake & biased news sources around the web](https://www.kaggle.com/mrisdal/fake-news)
 
 You can also retrieve various data [via web APIs](/resources/apis/).
 
