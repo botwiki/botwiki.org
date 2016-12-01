@@ -89,7 +89,7 @@ Nav: hidden
 - [The Real Reason You Should Be Nice to Robots](http://www.inc.com/tess-townsend/jerry-kaplan-artificial-intelligence-new-book.html) (inc.com)
 - [Sure, A.I. Is Powerful—But Can We Make It Accountable?](https://www.wired.com/2016/10/understanding-artificial-intelligence-decisions/) (wired.com)
 - [How to Hold Algorithms Accountable](https://www.technologyreview.com/s/602933/how-to-hold-algorithms-accountable/) (technologyreview.com)
-
+- [How to Force Our Machines to Play Fair](https://www.quantamagazine.org/20161123-privacy-and-fairness-an-interview-with-cynthia-dwork/) (quantamagazine.org)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
 
