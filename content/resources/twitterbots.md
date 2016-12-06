@@ -8,6 +8,9 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/xCdcWF7D9x">https://t.co/xCdcWF7D9x</a> Cool stuff.</p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806229344876134400">December 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### [¶](#twitterbot-frameworks){.pilcrow} Twitterbot frameworks {#twitterbot-frameworks}
 
