@@ -18,35 +18,36 @@ You have quite a few options when it comes to hosting your bots!
 
 
 ### [¶](#botmaking-self-hosted){.pilcrow} Self-hosted {#botmaking-self-hosted}
-- [DigitalOcean](https://digitalocean.com/) -- a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
+- [DigitalOcean](https://digitalocean.com/): a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
   - [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
   - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
-- [OpenShift](https://www.openshift.com/) -- a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
+- [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
-- [Cloud9](https://c9.io/) -- browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
+- [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
   - see [tutorials on Botwiki that use Cloud9](/tag/tutorial+cloud9)
-- [Heroku](https://www.heroku.com) -- similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)), useful tutorials include:
+- [Heroku](https://www.heroku.com): similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)), useful tutorials include:
  - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
-- [Linode](https://www.linode.com/) -- another VPS, starts at $10/mo
-- [Dreamhost](https://www.dreamhost.com/) -- web hosting and domain name registrar, their VPS starts at $15/month
-- [PythonAnywhere](https://www.pythonanywhere.com/) -- "Host, run, and code Python in the cloud!"
+- [Linode](https://www.linode.com/): another VPS, starts at $10/mo
+- [Dreamhost](https://www.dreamhost.com/): web hosting and domain name registrar, their VPS starts at $15/month
+- [PythonAnywhere](https://www.pythonanywhere.com/): "Host, run, and code Python in the cloud!"
 
 ### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
 
-- [Dexter](https://rundexter.com/) -- a platform that makes connecting third-party APIs easy
-- [Hubot](https://hubot.github.com/) -- a customizable, life embetterment robot
+- [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
+- [Dexter](https://rundexter.com/): a platform that makes connecting third-party APIs easy
+- [Hubot](https://hubot.github.com/): a customizable, life embetterment robot
 - [Huginn](https://github.com/cantino/huginn) - a system for building agents that perform automated tasks for you online
-- [Flow XO](https://flowxo.com/) -- connect your cloud apps together into automated workflows
+- [Flow XO](https://flowxo.com/): connect your cloud apps together into automated workflows
 - [Botomatic](http://www.botomatic.co/)
-- [BOT libre!](http://www.botlibre.com/) -- create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
+- [BOT libre!](http://www.botlibre.com/): create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
 
 See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (and a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a))
 
 ### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
 
-- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) -- see [tutorials](/tutorials/twitterbots/#cheap-bots-done-quick) and [examples](/tag/cheapbotsdonequick) of bots created with CBDQ
+- [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/): see [tutorials](/tutorials/twitterbots/#cheap-bots-done-quick) and [examples](/tag/cheapbotsdonequick) of bots created with CBDQ
 - [PythonAnywhere](https://www.pythonanywhere.com/), which was mentioned above, see also slides from the [Build A Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop
-- [Google Apps Script](https://script.google.com/d/11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7/edit?usp=sharing) -- see [Bradley Momberger](https://twitter.com/air_hadoken)'s [blog](http://airhadoken.github.io/2015/06/29/twitter-lib-explained.html) for more details
+- [Google Apps Script](https://script.google.com/d/11dB74uW9VLpgvy1Ax3eBZ8J7as0ZrGtx4BPw7RKK-JQXyAJHBx98pY-7/edit?usp=sharing): see [Bradley Momberger](https://twitter.com/air_hadoken)'s [blog](http://airhadoken.github.io/2015/06/29/twitter-lib-explained.html) for more details
 - [tilde.town](http://tilde.town/) (Twitter and IRC bots)
 - [@beaugunderson](https://twitter.com/beaugunderson) is offering to let people host bots on his [Linode](https://www.linode.com/) account
 - you can even use your [Raspberry Pi](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/)
@@ -54,8 +55,8 @@ See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (an
 
 ### [¶](#botmaking-slack){.pilcrow} Slack bots {#botmaking-slack}
 
-- [Beep Boop](https://beepboophq.com) -- Slack bot hosting platform
-- [Slack.Pipe](http://slack.datastack.co/) -- allows you to create custom bots from any API
+- [Beep Boop](https://beepboophq.com): Slack bot hosting platform
+- [Slack.Pipe](http://slack.datastack.co/): allows you to create custom bots from any API
 
 
 
