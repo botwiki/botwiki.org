@@ -34,7 +34,7 @@ You have quite a few options when it comes to hosting your bots!
 ### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
 
 - [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
-  - [Gomix Twitter bot template](https://gomix.com/#!/project/tasteful-suede)
+  - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot)
 - [Dexter](https://rundexter.com/): a platform that makes connecting third-party APIs easy
 - [Hubot](https://hubot.github.com/): a customizable, life embetterment robot
 - [Huginn](https://github.com/cantino/huginn): a system for building agents that perform automated tasks for you online

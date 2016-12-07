@@ -48,7 +48,7 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/xCdcWF7D9x">https://t.co/xCdcWF7D9x</a> Cool stuff.</p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806229344876134400">December 6, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
