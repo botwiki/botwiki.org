@@ -100,7 +100,7 @@ As for config, we are going to need to make another detour.
 ### [¶](#creating-a-twitter-app){.pilcrow} Creating a Twitter app {#creating-a-twitter-app}
 
 
-Before you can write a lot of code, you will need something called API keys. These will let you make API calls, or in other words, interact with the data on Twitter's website.
+Before you can start writing any code, you will need something called API keys. These will let you make API calls, or in other words, interact with the data on Twitter's website.
 
 To get your API keys, you need to first create a Twitter app. Let's start by [signing up for a new Twitter account](https://twitter.com/signup), which will be controlled by our new bot. We also need to [add a phone number to our account](https://support.twitter.com/articles/110250-adding-your-mobile-number-to-your-account-via-web). (You will get an error at the next step if you don't do this.)
 
