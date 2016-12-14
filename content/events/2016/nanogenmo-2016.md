@@ -3,7 +3,7 @@ Title: NaNoGenMo 2016
 Description: Spend the month of November writing code that generates a novel of 50k+ words. 
 Link: https://github.com/NaNoGenMo/2016
 Date: November 1-30, 2016
-Tags: event,ongoing
+Tags: event,archived
 */
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey y&#39;all. National Novel Generation Month has begun! Spend November writing code that writes a novel! <a href="https://twitter.com/hashtag/NaNoGenMo?src=hash">#NaNoGenMo</a><a href="https://t.co/rIg8IZab58">https://t.co/rIg8IZab58</a></p>&mdash; Darius Kazemi (@tinysubversions) <a href="https://twitter.com/tinysubversions/status/793467217413152768">November 1, 2016</a></blockquote>

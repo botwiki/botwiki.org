@@ -1,9 +1,9 @@
 /*
-Title: Humanity.AI 2016
+Title: Humanity.AI 2017
 Link: https://www.eventbrite.com/e/humanityai-tickets-27038920138
-Date: November 10, 2016
+Date: February 28, 2017
 Description: Behind every new bot, conversational UI, or AI system are people working at the intersection of design, data, and technology.  This day is all about them.
-Thumbnail: /content/events/images/humanity-ai-2016.png
+Thumbnail: /content/events/images/humanity-ai-2017.png
 Tags: event,upcoming
 */
 
@@ -21,7 +21,7 @@ Tags: event,upcoming
 
 
 
-- November 10, 2016
+- February 28, 2017
 - 9:00 AM – 5:00 PM
 - [Bespoke](http://www.bespokesf.co/), 845 Market Street, San Francisco ([map](https://www.google.com/maps/dir/Current+Location/845+Market+Street+San+Francisco))
 - [Event page](https://www.eventbrite.com/e/humanityai-tickets-27038920138)
