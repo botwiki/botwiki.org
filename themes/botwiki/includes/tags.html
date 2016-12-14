@@ -57,6 +57,9 @@
     <p>You are browsing upcoming events. <a href="/events/">See all events.</a></p>
   {% elseif current_tags == ['event', 'ongoing'] %}
     <p>These are currently ongoing events. <a href="/events/">See all events.</a></p>
+  {% elseif current_tags == ['tutorial', 'fourtonfish']
+            or  current_tags == ['fourtonfish', 'tutorial'] %}
+    <p><strong>See also:</strong></p><ul><li><a href="https://gomix.com/#!/project/twitterbot">Gomix Twitter bot template</a></li></ul>
   {% elseif current_tags == ['opensource', 'twitterbot'] or current_tags == ['open source', 'twitterbot'] 
          or current_tags == ['twitterbot', 'opensource'] or current_tags == ['twitterbot', 'open source']
   %}
