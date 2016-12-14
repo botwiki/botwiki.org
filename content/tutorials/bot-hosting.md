@@ -21,6 +21,8 @@ You have quite a few options when it comes to hosting your bots!
 - [DigitalOcean](https://digitalocean.com/): a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
   - [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
   - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
+- [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
+  - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot)
 - [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
@@ -33,8 +35,6 @@ You have quite a few options when it comes to hosting your bots!
 
 ### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
 
-- [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
-  - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot)
 - [Dexter](https://rundexter.com/): a platform that makes connecting third-party APIs easy
 - [Hubot](https://hubot.github.com/): a customizable, life embetterment robot
 - [Huginn](https://github.com/cantino/huginn): a system for building agents that perform automated tasks for you online
