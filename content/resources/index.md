@@ -17,6 +17,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Free images, sounds, videos](/resources/free-media)
 - [Libraries and frameworks](/resources/libraries-frameworks)
 - [Tools](/resources/tools)
+- [Machine learning and AI resources](/resources/machine-learning-nlp-ai)
 
 ### [¶](#specific-resources){.pilcrow} Network-specific resources {#specific-resources}
 

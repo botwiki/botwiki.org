@@ -25,9 +25,17 @@ Nav: hidden
 
 ### [¶](#frameworks-and-libraries){.pilcrow} Frameworks and libraries {#frameworks-and-libraries}
 
-#### [¶](#frameworks-and-libraries-python){.pilcrow} Python {#frameworks-and-libraries-python}
+***See also the [general libraries and frameworks page](/resources/libraries-frameworks/).***
 
-- [phillipi/pix2pix](https://github.com/phillipi/pix2pix): image-to-image translation using conditional adversarial nets
+#### [¶](#frameworks-and-libraries-nodejs){.pilcrow} node.js {#frameworks-and-libraries-nodejs}
+
+- [baidu/Paddle](https://github.com/baidu/Paddle) -- PArallel Distributed Deep LEarning ([paddlepaddle.org](http://www.paddlepaddle.org/))
+- [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games) -- Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
+
+
+#### [¶](#frameworks-and-libraries-other){.pilcrow} Other {#frameworks-and-libraries-other}
+
+- [antirez/neural-redis](https://github.com/antirez/neural-redis) -- neural networks module for [Redis](http://redis.io/)
 
 
 ### [¶](#other){.pilcrow} Lists and unsorted {#other}

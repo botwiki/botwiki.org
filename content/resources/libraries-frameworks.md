@@ -102,10 +102,12 @@ For libraries and frameworks for specific networks check out their corresponding
 
 - [aleju/cat-generator](https://github.com/aleju/cat-generator) -- generate cat images with neural networks
 - [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code) -- generate any image
+- [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
 
 #### [¶](#images-python){.pilcrow} Python {#images-python}
 
 - [paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image) -- text to image synthesis using thought vectors
+- [phillipi/pix2pix](https://github.com/phillipi/pix2pix): image-to-image translation using conditional adversarial nets
 
 #### [¶](#images-lua){.pilcrow} Lua {#images-lua}
 
@@ -131,18 +133,6 @@ For libraries and frameworks for specific networks check out their corresponding
 #### [¶](#web-scraping-parsing-python){.pilcrow} Python {#web-scraping-parsing-python}
 
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) -- "a Python library for pulling data out of HTML and XML files"
-
-
-
-### [¶](#other){.pilcrow} Other {#other}
-
-- [antirez/neural-redis](https://github.com/antirez/neural-redis) -- neural networks module for [Redis](http://redis.io/)
-
-#### [¶](#other-nodejs){.pilcrow} node.js {#other-nodejs}
-
-- [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) -- OpenCV Bindings for node.js
-- [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games) -- Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
-- [baidu/Paddle](https://github.com/baidu/Paddle) -- PArallel Distributed Deep LEarning ([paddlepaddle.org](http://www.paddlepaddle.org/))
 
 
 #### [¶](#other-python){.pilcrow} Python {#other-python}
