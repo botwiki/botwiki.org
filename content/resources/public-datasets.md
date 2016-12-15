@@ -20,6 +20,7 @@ Nav: hidden
 - [Wikipedia Datasets](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
+- [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0) (Google Doc)
 - [Quandl](https://www.quandl.com/browse) -- economic and financial data
 - [The World Bank](http://data.worldbank.org/)
 - [Academic Torrents](http://academictorrents.com/browse.php?cat=6) -- datasets from scientific papers

@@ -27,6 +27,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [hmason/botomatic](https://github.com/hmason/botomatic): easily create twitter bots in Python
 - [swizzard/botmaster](https://github.com/swizzard/botmaster): making Twitter bots easier
 - [bgporter/nanobot](https://github.com/bgporter/nanobot): a tiny little Python twitterbot framework (see [related blog post](https://artandlogic.com/2016/06/nanobot-tiny-little-twitterbot-framework/))
+- [kootenpv/twitterqa](https://github.com/kootenpv/twitterqa): a Deep learning-based chatbot
 
 
 #### [¶](#twitterbot-frameworks-ruby){.pilcrow} Ruby {#twitterbot-frameworks-ruby}

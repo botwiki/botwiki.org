@@ -116,7 +116,8 @@ Darius notes on the purpose of #botALLY:
 ### [¶](#further-reading){.pilcrow} Further reading {#further-reading}
 
 - [The Best of Bot Worlds](http://bestofbotworlds.com/): "Everything you need to know about Creative Twitterbots" (bestofbotworlds.com)
-  - [Anatomy of a Creative Twitterbot](http://robotcomix.com/comix/Twitterbots/mobile/) (robotcomix.com)
+- [Anatomy of a Creative Twitterbot](http://robotcomix.com/comix/Twitterbots/mobile/) (robotcomix.com)
+- [How Twitter bots paved the way for today's chatbots](https://medium.com/ddouble/how-twitter-bots-paved-the-way-for-todays-chatbots-2fa103020d3e) (Sandi MacPherson via medium.com)
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 

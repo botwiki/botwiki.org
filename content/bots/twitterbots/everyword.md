@@ -11,7 +11,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@everyword](https://twitter.com/everyword), a Twitter bot created by [Allison Parrish](https://twitter.com/aparrish), began its mission to tweet every word in the English language in 2007 and completed it in 2014.
+[@everyword](https://twitter.com/everyword), an [open source](https://github.com/aparrish/everywordbot) Twitter bot created by [Allison Parrish](https://twitter.com/aparrish), began its mission to tweet every word in the English language in 2007 and completed it in 2014.
 
 It is one of the most well-known Twitter bots with over 78,000 followers (as of September 2015) and is an [inspiration](https://twitter.com/everyword/following) to several other bots that tweet in the so-called "everyword style".
 
