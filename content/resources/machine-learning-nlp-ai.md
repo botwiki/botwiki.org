@@ -17,6 +17,7 @@ Nav: hidden
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [General tools](#general-tools)
+- [Frameworks and libraries](#frameworks-and-libraries)
 - [See also](#see-also)
 
 ### [¶](#general-tools){.pilcrow} General tools {#general-tools}
