@@ -34,11 +34,3 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 See also: [non-English open source bots](/tag/bot+opensource+non-english).
 
 - [janteuni/french-bots-ecosystem](https://github.com/janteuni/french-bots-ecosystem): resources for making bots in French
-
-### [¶](#other){.pilcrow} Lists and unsorted {#other}
-
-- [nucl.ai: Artificial Intelligence in Creative Industries.](https://nucl.ai/): archives of conferences, and courses
-- [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing
-- [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning): a list of popular GitHub projects related to deep learning
-- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
-- [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn): curated list of resources dedicated to recurrent neural networks
