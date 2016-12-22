@@ -27,3 +27,4 @@ Tags: event,archived
 - [Talkabot conference liveblogging](https://medium.com/slack-developer-blog/part-1-talkabot-conference-liveblogging-bcaba3968023) (Slack Platform Blog via medium.com)
 - [Talkabot and the current state of chatbots](https://chatbotsmagazine.com/talkabot-3-key-themes-and-takeaways-ff3a9e27f81b) (chatbotsmagazine.com)
 - [What Talkabot 2016 tells us about the present and future of computer conversation](https://medium.com/@PullStringInc/what-talkabot-2016-tells-us-about-the-present-and-future-of-computer-conversation-5b51d7116087) ([PullString](https://twitter.com/PullStringInc) via medium.com)
+- [Talkabot Talks: What we built](https://blog.howdy.ai/talkabot-talks-what-we-built-197e0db47e4a)
