@@ -36,11 +36,12 @@ You have quite a few options when it comes to hosting your bots!
 ### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
 
 - [Dexter](https://rundexter.com/): a platform that makes connecting third-party APIs easy
+- [BOT libre!](http://www.botlibre.com/): create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
+- [QnA Maker](https://qnamaker.ai/): "From FAQ to Bot in minutes"
 - [Hubot](https://hubot.github.com/): a customizable, life embetterment robot
 - [Huginn](https://github.com/cantino/huginn): a system for building agents that perform automated tasks for you online
 - [Flow XO](https://flowxo.com/): connect your cloud apps together into automated workflows
 - [Botomatic](http://www.botomatic.co/)
-- [BOT libre!](http://www.botlibre.com/): create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
 
 See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (and a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a))
 
