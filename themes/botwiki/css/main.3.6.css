@@ -190,7 +190,7 @@ body {
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
-  margin: 0 0 80px;
+  margin: 0;
   background: #EDEDE8;
   -webkit-font-smoothing: antialiased;
 }
@@ -394,20 +394,6 @@ footer ul.footer-list {
     width: 100%;
     text-align: center;
   }
-}
-footer p {
-  margin: 1em auto;
-}
-footer ul.footer-list li.list-header {
-  text-transform: uppercase;
-  font-weight: bold;
-  margin-bottom: 1.6em;
-}
-footer ul.footer-list li:not(.list-header) {
-  font-weight: normal;
-}
-footer ul.footer-list li {
-  margin: 0.5em 0;
 }
 .centered {
   display: block;
@@ -649,7 +635,7 @@ div#content-wrapper {
   }
 }
 #content {
-  min-height: 90em;
+  min-height: 92em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -664,7 +650,7 @@ div#content-wrapper {
     position: absolute;
     border-left: 1px solid #f3f3f2;
     background-color: #f9f9f7;
-    padding: 3rem 10px 10px;
+    padding: 2rem 0 10px;
     right: 0;
     top: 0;
     bottom: 0;
@@ -672,13 +658,16 @@ div#content-wrapper {
 }
 @media (min-width: 1040px) {
   aside#sidebar {
-    max-width: 360px;
+    max-width: 350px;
   }
 }
 @media (max-width: 860px) {
   aside#sidebar {
     overflow: auto;
   }
+}
+aside#sidebar hr {
+  margin: 0 auto 1em;
 }
 aside#sidebar p {
   font-size: 0.9em;
@@ -689,6 +678,9 @@ aside#sidebar p {
 aside#sidebar img {
   display: block;
   margin: 0 auto 0.7em;
+}
+div.sidebar-module {
+  padding: 1em;
 }
 @media (max-width: 860px+10px) {
   div.sidebar-module {
@@ -734,7 +726,7 @@ div#main {
 }
 @media (min-width: 1040px) {
   div#main {
-    margin-right: 360px;
+    margin-right: 350px;
   }
 }
 div#main p,
@@ -777,19 +769,35 @@ ol li p,
 ul li p {
   padding: 0 !important;
 }
-#footer {
+footer#footer {
   color: #38313a;
+  background-color: #f3f3f3;
   line-height: 1.2em;
   font-size: 0.9em;
-  margin: 2em auto 2em;
+  margin: -2em auto 0;
+  padding: 2em 0;
 }
-#footer a {
+footer#footer a {
   color: #38313a;
   font-weight: bold;
   text-decoration: underline;
 }
-#footer a:hover {
+footer#footer a:hover {
   color: #6b646d;
+}
+footer#footer p {
+  margin: 1em auto;
+}
+footer#footer ul.footer-list li {
+  margin: 0.5em 0;
+}
+footer#footer ul.footer-list li.list-header {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 1.6em;
+}
+footer#footer ul.footer-list li:not(.list-header) {
+  font-weight: normal;
 }
 div.sponsors-corporate-organizations {
   text-align: center;
@@ -812,6 +820,9 @@ table.event-table td.event-speaker {
 }
 /* Misc Styles
 /*---------------------------------------------*/
+.no-pad {
+  padding: 0 !important;
+}
 div.search-instructions,
 p.search-instructions {
   font-style: italic;
