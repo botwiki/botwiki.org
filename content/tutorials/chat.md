@@ -15,6 +15,7 @@ Nav: hidden
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
+- [It’s not about bots](https://chatbotsmagazine.com/its-not-about-bots-146a90f3360b#.6w8zy5g3i) (Danny Freed via medium.com)
 - [Bots better smarten up ... fast](http://venturebeat.com/2016/08/20/bots-better-smarten-up-fast/) (venturebeat.com)
 - [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/) (berglondon.com)
 - [Guide to Chat Apps](https://www.gitbook.com/book/towcenter/guide-to-chat-apps/details) (Tow Center for Digital Journalism via gitbook.com)
