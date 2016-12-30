@@ -20,7 +20,7 @@ Botwiki was created in July 2015 by [Stefan Bohacek](/about/team#stefan) with th
 
 Later in August, the [Botmakers](https://botmakers.org/) online group was set up as a [safe](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md) and friendly online space for artists, tinkerers, bot enthusiasts and seasoned developers to share ideas, resources, and their bot creations, regardless of their technical knowledge.
 
-In June 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botmakers administrator and took over the [Bot! zine](https://botzine.org/) newsletter Stefan has started as a way to keep the community of bot enthusiasts updated on the latest news.
+In March 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botmakers administrator and took over the [Bot! zine](https://botzine.org/) newsletter Stefan has started as a way to keep the community of bot enthusiasts updated on the latest news.
 
 For more of Botwiki Foundation's projects and initiatives, check out the [Projects](/projects) page.
 
