@@ -19,10 +19,11 @@ You have quite a few options when it comes to hosting your bots!
 
 ### [¶](#botmaking-self-hosted){.pilcrow} Self-hosted {#botmaking-self-hosted}
 - [DigitalOcean](https://digitalocean.com/): a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
+  - [How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04) (digitalocean.com)
   - [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
-  - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron)
+  - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron) (youtube.com)
 - [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
-  - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot)
+  - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot) (gomix.com)
 - [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
