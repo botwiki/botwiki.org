@@ -61,6 +61,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
+- [2017](/articles/selected-articles/2017)
 - [2016](/articles/selected-articles/2016)
 - [2015](/articles/selected-articles/2015)
 - [2014](/articles/selected-articles/2014)
