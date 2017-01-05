@@ -40,6 +40,7 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 - [Why did the chicken cross the road?](https://botwiki.org/tutorials/why-did-the-chicken-cross-the-road-slack-bot-tutorial/): Basic intro to Slack bots with with Botkit (uses OpenShift for hosting)
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [Easy-Peasy Bots: Getting Started](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf) (with node.js and [Botkit](http://howdy.ai/botkit/))
+- [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591) (with node.js, Botkit, and [Gomix](https://gomix.com))
 - [How to Build A Slackbot (with node.js) + Deploy an App to Heroku for Absolute Beginners](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 - [Building an Intelligent Bot Using the Slack API](http://nordicapis.com/building-an-intelligent-bot-using-the-slack-api/) -- a great tutorial that uses node.js and [Wit.ai API](https://wit.ai/)
 - [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/) -- a tutorial by [devdactic.com](http://devdactic.com/)
