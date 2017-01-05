@@ -63,6 +63,7 @@ Nav: hidden
 - [Troubling Study Says Artificial Intelligence Can Predict Who Will Be Criminals Based on Facial Features](https://theintercept.com/2016/11/18/troubling-study-says-artificial-intelligence-can-predict-who-will-be-criminals-based-on-facial-features/) (theintercept.com)
 - [How to Fix Silicon Valley’s Sexist Algorithms](https://www.technologyreview.com/s/602950/how-to-fix-silicon-valleys-sexist-algorithms/) (technologyreview.com)
 - [5 unexpected sources of bias in artificial intelligence](https://techcrunch.com/2016/12/10/5-unexpected-sources-of-bias-in-artificial-intelligence/) (techcrunch.com)
+- [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/) (scientificamerican.com)
 - [Attractive, slavish and at your command: Is AI sexist?](http://www.bbc.com/news/business-38207334) (bbc.com)
 - [What Enron's emails tell us about artificial intelligence](http://technical.ly/brooklyn/2016/11/22/enron-emails-good-life-art/) (technical.ly)
 
