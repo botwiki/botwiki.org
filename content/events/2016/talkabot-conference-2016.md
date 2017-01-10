@@ -21,6 +21,7 @@ Tags: event,archived
 
 ### [¶](#event-coverage){.pilcrow} Event coverage {#event-coverage}
 
+- [Talkabot 2016: All videos](https://www.youtube.com/playlist?list=PLD3JNfKLDs7WsEHSal2cfwG0Fex7A6aok) (youtube.com)
 - [Talking about Talkabot, talking bots and taco bots](https://blog.howdy.ai/talking-about-talkabot-talking-bots-and-taco-bots-21cb90ac86) (blog.howdy.ai)
 - [Talkabot: Conversation with Ted Livingston, CEO Kik](https://blog.howdy.ai/talkabot-conversation-with-ted-livingston-ceo-kik-38955988669e) (blog.howdy.ai)
 - [2 Days of Global Chatbot Experts at Talkabot in 12 Minutes](https://chatbotsmagazine.com/2-days-of-global-chatbot-experts-at-talkabot-in-12-minutes-f1d7a218823) (chatbotsmagazine.com)
