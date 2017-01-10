@@ -29,33 +29,35 @@ def clean_path(path):
 def do_one_account(driver, url_or_username, outdir, headless):
     """ Process a single bot account """
     url = get_url(url_or_username)
+    url = url.rstrip('/')
 
-    outfile = username_from_url(url) + ".png"
-    if outdir:
-        outfile = os.path.join(outdir, outfile)
-    if os.path.isfile(outfile):
-        print(Fore.RED + clean_path(outfile) +
-              " already exists, skipping" +
-              Style.RESET_ALL)
-        return  # Don't overwrite existing
+    if "twitter" in url:
+        outfile = username_from_url(url) + ".png"
+        if outdir:
+            outfile = os.path.join(outdir, outfile)
+        if os.path.isfile(outfile):
+            print(Fore.RED + clean_path(outfile) +
+                  " already exists, skipping" +
+                  Style.RESET_ALL)
+            return  # Don't overwrite existing
 
-    im = take_shot(driver, url, headless)
-    im = crop_image(im, headless, url_or_username)
-    im.save(outfile)
+        im = take_shot(driver, url, headless)
+        im = crop_image(im, headless, url_or_username)
+        im.save(outfile)
 
-    # For Windows, need correct directory slashes for os.system calls
-    abs_outfile = os.path.abspath(outfile)
+        # For Windows, need correct directory slashes for os.system calls
+        abs_outfile = os.path.abspath(outfile)
 
-    # Optimise with optipng (if binary in path)
-    cmd = "optipng -force -o7 {0}".format(abs_outfile)
-    print(cmd)
-    os.system(cmd)
+        # Optimise with optipng (if binary in path)
+        # cmd = "optipng -force -o7 {0}".format(abs_outfile)
+        # print(cmd)
+        # os.system(cmd)
 
-    # Optimise with pngcrush (if binary in path)
-    cmd = ("pngcrush -ow -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB "
-           "-rem time {0}").format(abs_outfile)
-    print(cmd)
-    os.system(cmd)
+        # Optimise with pngcrush (if binary in path)
+        # cmd = ("pngcrush -ow -rem gAMA -rem alla -rem cHRM -rem iCCP -rem sRGB "
+        #        "-rem time {0}").format(abs_outfile)
+        # print(cmd)
+        # os.system(cmd)
 
 
 def get_url(url_or_username):
