@@ -40,7 +40,7 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 #### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
 
 - [Implementing a bot-based treasure hunt game](https://medium.com/convcomp2016/implementing-a-bot-based-treasure-hunt-game-d20199c428c4)
-
+- [Host a python Telegram bot on Azure in < 30 minutes](https://medium.com/@miszu/host-a-python-telegram-bot-using-azure-in-30-minutes-58f246cedf23) (Michał Żołnieruk via medium.com)
 
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 
