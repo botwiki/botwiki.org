@@ -17,6 +17,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 
 ## [¶](#individual-sponsors){.pilcrow} Individual sponsors {#individual-sponsors}
 
+- [Greg Leuch](https://poncho.is) ([@gleuch](https://twitter.com/gleuch))
 - [@swizzard](https://twitter.com/swizzard) ([GitHub](https://github.com/swizzard))
 - [@Kimik00](https://twitter.com/Kimik00)
 - [Noah Petherbridge](https://www.kirsle.net/?ref=botwiki)
