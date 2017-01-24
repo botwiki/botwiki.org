@@ -39,6 +39,8 @@ Nav: hidden
 - [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
+- [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
+
 
 ***See also:***
 

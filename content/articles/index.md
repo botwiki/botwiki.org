@@ -58,6 +58,8 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Can we open the black box of AI?](http://www.nature.com/news/can-we-open-the-black-box-of-ai-1.20731) (nature.com)
 - [An AI Pattern Language](http://www.datasociety.net/pubs/ia/AI_Pattern_Language.pdf) (datasociety.net, PDF)
+- [A Historical Lens For Machine Vision](https://thesocietypages.org/cyborgology/2016/12/21/22042/) (thesocietypages.org)
+- [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 

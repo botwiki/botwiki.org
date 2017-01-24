@@ -90,5 +90,7 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 - [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
 - [Open Payments Dataset](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) -- payments made by healthcare manufacturers (pharmaceutical companies, medical device manufacturers) to any doctor they work with
 - [CERN Open Data Portal](http://opendata.cern.ch/)
+- [CREST (CIA Records Search Tool)](https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive): Declassified CIA documents
+- [Uber Movement](https://movement.uber.com/cities): anonymized data from over 2 billion trips to help improve urban planning around the world (requires to request access) (movement.uber.com)
 
 [Back to all resources.](/resources)
