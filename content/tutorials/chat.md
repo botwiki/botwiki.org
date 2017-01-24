@@ -22,6 +22,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Content Mapping for Chatbots](https://chatbotsmagazine.com/content-mapping-for-chatbots-cdb55dc51aa6)
 - [Designing Conversational UI with Information Architecture](https://chatbotslife.com/design-a-conversational-ui-with-information-architecture-5c6ac9576ba3)
 - [Animatronic Elephants and Other Bot Design Revelations](https://chatbotsmagazine.com/animatronic-elephants-and-other-bot-design-revelations-a1a297ae2941)
+- [How Artists Can Leverage Bots In 2017](https://chatbotsmagazine.com/how-artists-can-utilize-bots-in-2017-192554ac3df3)
 
 #### [¶](#convincing-conversations){.pilcrow} Convincing conversations {#convincing-conversations}
 

@@ -36,6 +36,8 @@ You have quite a few options when it comes to hosting your bots!
 - [Linode](https://www.linode.com/): another VPS, starts at $10/mo
 - [Dreamhost](https://www.dreamhost.com/): web hosting and domain name registrar, their VPS starts at $15/month
 - [PythonAnywhere](https://www.pythonanywhere.com/): "Host, run, and code Python in the cloud!"
+- [AWS Lambda](https://aws.amazon.com/lambda/)
+  - [Claudia Bot Builder](https://claudiajs.com/claudia-bot-builder.html) ([GitHub](https://github.com/claudiajs/claudia-bot-builder)): Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 
 ### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
 
