@@ -22,6 +22,10 @@ Author writes:
 
 You can learn more about the bot at [nixiebot.tumblr.com](http://nixiebot.tumblr.com), and [here](http://nixiebot.tumblr.com/ref) is the list of NixieBot commands.
 
+See also:
+
+- [BlinkenLights added](https://hackaday.io/project/9155-nixiebot/log/50904-blinkenlights-added) (hackaday.io)
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Eh-up <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. Hey: <a href="https://twitter.com/NixieBot">@NixieBot</a> this is for you too! <a href="https://t.co/HIi2xT4oD2">pic.twitter.com/HIi2xT4oD2</a></p>&mdash; Neon Clock Tweet Bot (@NixieBot) <a href="https://twitter.com/NixieBot/status/700418685635272704">February 18, 2016</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

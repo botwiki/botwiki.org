@@ -43,6 +43,8 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [matteoredaelli/twitterBot](https://github.com/matteoredaelli/twitterBot): a simple Twitter bot written in Elixir
 - [Literal Twitter Bot Kit](https://www.adafruit.com/product/3281) (adafruit.com)
 
+For more frameworks and libraries built for the Twitter platform, check out [Twitter Libraries](https://dev.twitter.com/resources/twitter-libraries) at dev.twitter.com.
+
 ### [¶](#language){.pilcrow} Language {#language}
 
 See also the [Language section](/resources/libraries-frameworks#language) of ***Libraries and frameworks***.

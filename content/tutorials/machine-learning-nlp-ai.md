@@ -32,10 +32,12 @@ Nav: hidden
 
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
+- [Machine Learning Crash Course]: [Part one](http://ml.berkeley.edu/blog/2016/11/06/tutorial-1/), and [part two](http://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) (ml.berkeley.edu)
 - [Machine Learning 101: An Intro to Utilizing Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [The Simple + Practical Path to Machine Learning Capability: Models with Learned Parameters](https://indico.io/blog/simple-practical-path-to-machine-learning-capability-part3/)
+- [A Guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) (yerevann.com)
 - [Deep Learning](http://www.deeplearningbook.org/): resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular
 - [Introduction to Convolutional Neural Networks](https://github.com/hoaphumanoid/sciblog_support/blob/master/A_Gentle_Introduction_to_CNN/Intro_CNN.ipynb)
 - [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
@@ -45,12 +47,20 @@ Nav: hidden
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
+- [Practical Deep Learning For Coders](http://course.fast.ai/): 18 hours of lessons for free (course.fast.ai)
+- [Metadata: Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html) (muratbuffalo.blogspot.com)
+- [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
+
+See also
+
+- [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [Free AI Course Materials](http://popsnip.com/topic/982/)
 - [Artificial Intelligence Lecture Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) (ocw.mit.edu)
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
+  - [OpenCV tutorial: Computer vision with Node.js](https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 
 

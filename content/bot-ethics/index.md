@@ -66,10 +66,12 @@ Nav: hidden
 - [How a Machine Learns Prejudice](https://www.scientificamerican.com/article/how-a-machine-learns-prejudice/) (scientificamerican.com)
 - [Attractive, slavish and at your command: Is AI sexist?](http://www.bbc.com/news/business-38207334) (bbc.com)
 - [What Enron's emails tell us about artificial intelligence](http://technical.ly/brooklyn/2016/11/22/enron-emails-good-life-art/) (technical.ly)
-
+- [Algorithms might be everywhere, but like us, they're deeply flawed](http://theconversation.com/algorithms-might-be-everywhere-but-like-us-theyre-deeply-flawed-66838) (theconversation.com)
+- [Investigating the algorithms that govern our lives](http://www.cjr.org/innovations/investigating_algorithms.php) (cjr.org)
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
+- [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
 - [Technically Female: Women, Machines, and Hyperemployment](http://salvage.zone/in-print/technically-female-women-machines-and-hyperemployment/) (salvage.zone)
 - [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)
 - [As Artificial Intelligence Evolves, So Does Its Criminal Potential](http://www.nytimes.com/2016/10/24/technology/artificial-intelligence-evolves-with-its-criminal-potential.html) (nytimes.com)

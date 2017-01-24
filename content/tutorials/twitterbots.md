@@ -60,8 +60,8 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
-- [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
 - [Creating a basic Twitter Bot in Node.js](http://techknights.org/workshops/nodejs-twitterbot/) (techknights.org)
+- [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot) -- a super simple tutorial with node.js source code
@@ -71,12 +71,13 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 - [Molly White](https://twitter.com/molly0x57)'s *[What is a Twitter bot?](http://blog.mollywhite.net/twitter-bots-pt1/)* and *[How to create a Twitter bot](http://blog.mollywhite.net/twitter-bots-pt2/)* (in Python); this tutorial also shows how to [handle the need for multiple phone numbers](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp)
 - [Build A Bot Workshop](https://www.youtube.com/watch?v=77DjocIDqWs) -- video from a workshop at the [PyDX 2015](/events/#pydx2015) Python conference, presented by [Terian Koscik](https://twitter.com/spine_cone), slides available [here](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html)
 - [How To Create a Twitterbot with Python 3 and the Tweepy Library](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library) (Lisa Tagliaferri via digitalocean.com)
-- [Build A Twitter Bot With Python](http://marydickson.com/build-a-twitter-bot-with-python/)
-- [Making a Twitter bot in Python](http://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/)
-- [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
 - [Five Steps To Build Your Own Random Non-Sequitur Twitter Bot](http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions?_escaped_fragment_=) -- with Python and [Heroku](https://www.heroku.com/)
 - [How To Write a Twitter Bot with Python and tweepy](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
 - [How to Code a Simple Twitter Bot for Complete Beginners](https://medium.com/@sarahnadia/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d)
+- [Coding a simple Twitter bot](https://medium.com/@agladman/coding-a-simple-twitter-bot-66041d1d2b83): a tutorial from the creator of the [@futuremash](https://twitter.com/futuremash) Markov chain bot
+- [Build A Twitter Bot With Python](http://marydickson.com/build-a-twitter-bot-with-python/)
+- [Making a Twitter bot in Python](http://emerging.commons.gc.cuny.edu/2013/10/making-twitter-bot-python-tutorial/)
+- [Creating a Twitterbot in Python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
 - [A Total Beginner’s Guide to (Literary) Twitter Bots](http://www.adamhammond.com/botguide/) (adamhammond.com)
 - [Python + BeautifulSoup + Twitter + Raspberry Pi](http://emerging.commons.gc.cuny.edu/2013/06/python-beautifulsoup-twitter-raspberry-pi/) *(note: this tutorial is from 2013)*
 - [How to Make a Twitter Bot in Under an Hour](https://medium.com/science-friday-footnotes/how-to-make-a-twitter-bot-in-under-an-hour-259597558acf)
@@ -103,10 +104,10 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Build Your Own Topic Bot](http://blog.hatnote.com/post/124917412833/build-your-own-topic-bot) -- a tutorial with [IFTTT](https://ifttt.com/) and [Wikipedia](https://www.wikipedia.org/)
 - [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
 - [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) by [Zach Whalen](http://www.twitter.com/zachwhalen)
+- [Hook, bait and camouflage: making a honeybot](https://medium.com/@NoraReed/hook-bait-and-camouflage-making-a-honeybot-28a9ccfe0bed): uses Zach Whalen's Google Spreadsheets-to-Twitterbot tool
 - [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots) -- a tutorial in [Jupyter Notebooks](http://jupyter.org/)
 - [How to program a Twitter bot](https://weatherlisa.wordpress.com/2015/11/26/how-to-program-a-twitter-bot/) using the [R language](https://www.r-project.org/)
 - [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) (using [Jupyter Notebooks](http://jupyter.org/))
-
 
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 

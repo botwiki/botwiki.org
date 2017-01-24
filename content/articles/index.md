@@ -60,6 +60,8 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [An AI Pattern Language](http://www.datasociety.net/pubs/ia/AI_Pattern_Language.pdf) (datasociety.net, PDF)
 - [A Historical Lens For Machine Vision](https://thesocietypages.org/cyborgology/2016/12/21/22042/) (thesocietypages.org)
 - [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
+- [Bots as social utilities and persuaders](https://twitter.com/i/moments/803330718722048001), a Twitter essay by [@wayspurrchen](https://twitter.com/wayspurrchen)
+- [My friend, the bot](https://medium.com/@hautepop/my-friend-the-bot-373e3b7dac60) (Jay Owens via medium.com)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 

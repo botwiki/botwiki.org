@@ -18,6 +18,8 @@ This section lists general tools and articles that discuss tools and possible ap
 
 - [RiveScript](https://www.rivescript.com/), see also [bots using RiveScript](/tag/bot+rivescript)
 - [SuperScript](http://superscriptjs.com/): a dialog system and bot engine for conversational UI's
+- [ChatScript](https://github.com/bwilcox-1234/ChatScript)
+  - [How to build your first chatbot using ChatScript](https://medium.freecodecamp.com/chatscript-for-beginners-chatbots-developers-c58bb591da8#.wlhmakmk5) (Giorgio Robino via freecodecamp.com)
 - [ink](http://www.inklestudios.com/ink/): narrative scripting language
 
 #### [¶](#dialog-tools-mockups){.pilcrow} Tools for creating dialog mockups {#dialog-tools-mockups}
