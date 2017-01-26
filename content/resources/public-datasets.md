@@ -64,6 +64,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Retired Comedy Phrases](https://github.com/bluechoochoo/retired_comedy_phrases)
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
+- [Climate datasets](https://github.com/climate-mirror/datasets)
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
 - [openNASA](https://open.nasa.gov/) -- 30k+ data sets from NASA
 - [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue) -- a database of all discovered extra-solar planets
