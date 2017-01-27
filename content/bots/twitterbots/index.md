@@ -70,6 +70,8 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members), maintained by [the Botwiki team](https://twitter.com/botwikidotorg)
 - [Music bots](https://twitter.com/ASchoenbot/lists/music-bots/members), maintaned by [@ASchoenbot](https://twitter.com/ASchoenbot)
+- [The Botsistance](https://twitter.com/EthanBeihl/lists/the-botsistance/members), maintained by [@EthanBeihl](https://twitter.com/EthanBeihl): Bots aligned toward making hell for the powers that be. Some serious, some frivolous. #resist
+
 
 See also:
 
