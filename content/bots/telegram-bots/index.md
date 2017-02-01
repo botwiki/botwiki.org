@@ -16,4 +16,4 @@ Bots for [Telegram](https://reddit.com/), a *"cloud-based instant messaging serv
 
 Browse [Telegram bots](/tag/telegrambot), learn [how to make one](/tutorials/telegram-bots), check out [resources for Telegram bots](/resources/telegram-bots), or [return to the **Bots** page](/bots). 
 
-For more bots, see [/r/TelegramBots - Master Bot List](https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY/edit#gid=2104461983), [storebot.me](https://storebot.me/), or [botfamily.com](http://botfamily.com/).
+For more bots, see [/r/TelegramBots - Master Bot List](https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY/edit#gid=2104461983), [storebot.me](https://storebot.me/), or [50bots.com](http://50bots.com/).
