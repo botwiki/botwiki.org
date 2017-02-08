@@ -32,6 +32,7 @@ Nav: hidden
 - [Unsplash](https://unsplash.com/): free high-resolution photos, also available via [Unsplash API](https://source.unsplash.com/) (also see [documentation](https://unsplash.com/documentation))
 - [Public Domain Pictures](http://www.publicdomainpictures.net/) (publicdomainpictures.net)
 - [Museum of Modern Art Exhibition History](http://www.moma.org/calendar/exhibitions/history): from 1929 to the present 
+- [The Metropolitan Museum of Art Collection](http://metmuseum.org/art/collection/)
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car): image frames from car-mounted cameras, and information about latitude, longitude, gear, brake, throttle, steering angles and speed
 
 ### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
