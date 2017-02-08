@@ -37,6 +37,7 @@ Nav: hidden
  - [Part 2 - Writing ReplyBot](https://www.youtube.com/watch?v=keiATJcZE8g)
  - [Part 3 - OAuth 2](https://www.youtube.com/watch?v=Uvxu2efXuiY)
 - [Build Marvin the Depressed Reddit Bot in Python](http://pythonforengineers.com/build-marvin-the-depressed-reddit-bot-in-python/)
+- [Writing a simple Reddit Bot to check common grammatical mistakes](https://chatbotslife.com/writing-a-simple-reddit-bot-to-check-common-grammatical-mistakes-586c1e298878)
 
 
 
