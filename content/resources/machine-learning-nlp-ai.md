@@ -13,6 +13,7 @@ Nav: hidden
   </p>
 </div>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You say: &quot;We added AI to our product&quot;<br>I hear: &quot;We added a bunch more IF statements to our codebase&quot;</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/830070592611172357">February 10, 2017</a></blockquote>
 
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
@@ -55,3 +56,5 @@ Nav: hidden
 - [General resources](/resources/)
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
