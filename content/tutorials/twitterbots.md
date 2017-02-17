@@ -47,10 +47,8 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-- A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
+- [A quick template/mini-tutorial for making Twitter bots with Gomix](https://gomix.com/#!/project/twitterbot) (gomix.com)
+- A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing]((http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Learn how to make an image posting Twitter bot with node.js and host it on OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
@@ -59,6 +57,8 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
+- [Why you should have your own Twitter bot, and how to build one in less than 30 minutes](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f) (medium.freecodecamp.com) (hosting on Cloud9)
+ - [github.com/spences10/twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 - [Creating a basic Twitter Bot in Node.js](http://techknights.org/workshops/nodejs-twitterbot/) (techknights.org)
 - [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
