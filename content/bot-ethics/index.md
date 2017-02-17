@@ -78,6 +78,7 @@ Nav: hidden
 - [The Pentagon's "Terminator Conundrum: Robots That Could Kill on Their Own](http://www.nytimes.com/2016/10/26/us/pentagon-artificial-intelligence-terminator.html) (nytimes.com)
 - [The darker side of machine learning](https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/) (techcrunch.com)
 - [Self-Driving Mercedes Will Be Programmed To Sacrifice Pedestrians To Save The Driver](https://www.fastcoexist.com/3064539/self-driving-mercedes-will-be-programmed-to-sacrifice-pedestrians-to-save-the-driver) (fastcoexist.com)
+- [Attacking machine learning with adversarial examples](https://openai.com/blog/adversarial-example-research/) (openai.com)
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
@@ -97,6 +98,7 @@ Nav: hidden
 - [How to Hold Algorithms Accountable](https://www.technologyreview.com/s/602933/how-to-hold-algorithms-accountable/) (technologyreview.com)
 - [How to Force Our Machines to Play Fair](https://www.quantamagazine.org/20161123-privacy-and-fairness-an-interview-with-cynthia-dwork/) (quantamagazine.org)
 - [Ethically Aligned Design](http://standards.ieee.org/develop/indconn/ec/ead_v1.pdf) (PDF, standards.ieee.org)
+- [Ethical imperatives in AI and generative art](https://worldwritable.com/ethical-imperatives-in-ai-and-generative-art-b8cf51af4c5)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
 

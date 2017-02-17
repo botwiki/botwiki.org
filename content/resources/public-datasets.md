@@ -62,6 +62,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Structured data from ingredient phrases using conditional random fields](https://github.com/NYTimes/ingredient-phrase-tagger)
 - [Open Images Dataset by Google](https://github.com/openimages/dataset) -- dataset consisting of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories ([related blog post](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html))
 - [Retired Comedy Phrases](https://github.com/bluechoochoo/retired_comedy_phrases)
+- [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 
 ### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
 - [Climate datasets](https://github.com/climate-mirror/datasets)

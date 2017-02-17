@@ -62,7 +62,7 @@ See also
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
   - [OpenCV tutorial: Computer vision with Node.js](https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
-
+- [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/blog/what-does-machine-learning-look-like) (graphcore.ai)
 
 ### [¶](#with-julia){.pilcrow} With [Julia](http://julialang.org/) {#with-julia}
 
@@ -75,6 +75,7 @@ See also
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (cloud.google.com)
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+- [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) (svds.com)
 
 ### [¶](#wavenet){.pilcrow} [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) {#wavenet}
 

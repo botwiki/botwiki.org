@@ -27,6 +27,7 @@ Can't wait to see you there!
 
 - [Beginner tutorials](#beginner-tutorials)
 - [Cheap Bots Done Quick](#cheap-bots-done-quick)
+- [SSBot (Google Spreadsheets)](#ssbot)
 - [Intermediate tutorials](#intermediate-tutorials)
 - [Twitter API](#twitter-api)
 - [Notes](#unsorted-notes)
@@ -43,8 +44,6 @@ Can't wait to see you there!
 [Botmaking from the Ground Up](/bot-workshops/botmaking-from-the-ground-up) is a fun and informative [workshop](/bot-workshops/) on how to get started writing Twitter bots.
 
 With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will create three bots with the barest minimum of programming required.
-
-
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
@@ -98,13 +97,22 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b)
 
 
+#### [¶](#ssbot){.pilcrow} SSBot (Google Spreadsheets) {#ssbot}
+
+Tutorials that use [Zach Whalen](http://www.twitter.com/zachwhalen)'s Google Spreadsheets-to-Twitterbot tool.
+
+- [Tiny Flashing Thumbs: How to Bot your way to Fake News Success](https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4)
+- [Hook, bait and camouflage: making a honeybot](https://medium.com/@NoraReed/hook-bait-and-camouflage-making-a-honeybot-28a9ccfe0bed)
+- [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) (SSBot 0.4)
+
+
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 - [Polyglot Twitter Bot](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-1-nodejs/) -- a six-part series on making Twitter bots with node.js, Python, Purescript and Amazon AWS by [Joel Grus](https://twitter.com/joelgrus)
 - [Fake It ‘Til You Make It: A Basic Bot Primer For The Aprogrammatic](http://blog.tullyhansen.com/post/62774813528/fake-it-til-you-make-it-a-basic-bot-primer-for) -- a tutorial by [Tully Hansen](https://twitter.com/tullyhansen) for non-programmers, using [twittbot.net](http://twittbot.net/) and [RoundTeam](https://roundteam.co/)
 - [Build Your Own Topic Bot](http://blog.hatnote.com/post/124917412833/build-your-own-topic-bot) -- a tutorial with [IFTTT](https://ifttt.com/) and [Wikipedia](https://www.wikipedia.org/)
 - [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
-- [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) by [Zach Whalen](http://www.twitter.com/zachwhalen)
-- [Hook, bait and camouflage: making a honeybot](https://medium.com/@NoraReed/hook-bait-and-camouflage-making-a-honeybot-28a9ccfe0bed): uses Zach Whalen's Google Spreadsheets-to-Twitterbot tool
+
+
 - [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots) -- a tutorial in [Jupyter Notebooks](http://jupyter.org/)
 - [How to program a Twitter bot](https://weatherlisa.wordpress.com/2015/11/26/how-to-program-a-twitter-bot/) using the [R language](https://www.r-project.org/)
 - [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) (using [Jupyter Notebooks](http://jupyter.org/))

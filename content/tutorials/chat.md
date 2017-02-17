@@ -23,6 +23,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Designing Conversational UI with Information Architecture](https://chatbotslife.com/design-a-conversational-ui-with-information-architecture-5c6ac9576ba3)
 - [Animatronic Elephants and Other Bot Design Revelations](https://chatbotsmagazine.com/animatronic-elephants-and-other-bot-design-revelations-a1a297ae2941)
 - [How Artists Can Leverage Bots In 2017](https://chatbotsmagazine.com/how-artists-can-utilize-bots-in-2017-192554ac3df3)
+- [Do you want your chatbot converse in foreign languages? My learnings from bot devs.](https://chatbotsmagazine.com/do-you-want-your-chatbot-converse-in-foreign-languages-my-learnings-from-bot-devs-9b608f685f5b)
 
 #### [¶](#convincing-conversations){.pilcrow} Convincing conversations {#convincing-conversations}
 
@@ -49,6 +50,8 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Can a Bot make you laugh?](https://medium.com/@iamjdeleon/can-a-bot-make-you-laugh-b68f753189f3) (Jeronimo De Leon via medium.com)
 - [6 things I learned creating my own Messenger chatbot](https://kilianvalkhof.com/2017/chatbots/6-things-i-learned-creating-my-own-messenger-chatbot/) (kilianvalkhof.com)
   - [Comments on Hacker News](https://news.ycombinator.com/item?id=13434275) (news.ycombinator.com)
+- [What we can learn from Alexa’s mistakes](https://uxdesign.cc/what-we-can-learn-from-alexas-mistakes-a4670a9e6c3e) (uxdesign.cc)
+- [We need to talk about Accessibility on Chatbots](https://uxdesign.cc/we-need-to-talk-about-accessibility-on-chatbots-98cf93c54963) (uxdesign.cc)
 
 
 
@@ -57,6 +60,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - the general [Tools](/resources/tools) section
 - [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)
 - [10 links to get started with Conversational UI and chatbots](https://uxdesign.cc/10-links-to-get-started-with-conversational-ui-and-chatbots-3c0920ef4723) (uxdesign.cc)
+- [BotSpeak: 1 human, 200+ bots, 892 bot dialogs](https://keyreply.com/botspeak/) (keyreply.com/botspeak)
 
 
 ### [¶](#technical){.pilcrow} Technical {#technical}

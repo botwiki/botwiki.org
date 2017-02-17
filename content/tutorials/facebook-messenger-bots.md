@@ -27,6 +27,7 @@ Nav: hidden
 - [Quickstart Bots for Messenger from Localhost](https://medium.com/@ThomasBrd/in-this-quick-post-we-will-see-how-to-configure-and-quickstart-a-facebook-messenger-bot-plateform-86dcc013741d)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
 - [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) (smashingmagazine.com)
+- [Building a Facebook Chat Bot with Node and Heroku](https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/) (sitepoint.com)
 
 
 ### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
@@ -49,13 +50,10 @@ Nav: hidden
 ### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 
 - [Cheat Sheet: Chatbot Command Types for Facebook Messenger](https://www.chatbot-academy.com/chatbot-command-types-facebook-messenger/)
-- [Building your Messenger Bot -- Facebook for Developers (video, uses wit.ai)](https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/)
+- [Cheat Sheet: All Facebook Chatbot Interactions](https://chatbotsmagazine.com/cheat-sheet-all-facebook-chatbot-interactions-4b14e4e00178)
+- [Building your Messenger Bot: Facebook for Developers (video, uses wit.ai)](https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/)
 - [How To Connect a Bot to Facebook Messenger](http://www.botlibre.com/forum-post?id=12742773) (with [BOT libre!](http://www.botlibre.com/))
 - [Deploying a Facebook Messenger bot on Beep Boop](https://blog.beepboophq.com/welcome-to-beep-boop-facebook-messenger-bots-9fd28f8ef934)
-
-
-
-
 
 
 See also [resources](/resources/facebook-messenger-bots) for making Facebook Messenger bots.

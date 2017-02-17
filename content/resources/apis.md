@@ -50,6 +50,7 @@ Nav: hidden
 
 ### [¶](#other){.pilcrow} Other {#other}
 - [Twitter](https://dev.twitter.com/streaming/overview), see also [Tutorials for Twitter Bots](/tutorials/twitterbots/)
+- [Wikimedia REST API](https://en.wikipedia.org/api/rest_v1/): "coherent and low-latency access to Wikimedia content and services"
 - [Github](https://developer.github.com/)
 - [Quantopian](https://www.quantopian.com/data): "Quantopian provides a large set of financial data for free. The free data includes corporate fundamental data and minutely trade price and volume data from 2002 to present day for all major US exchanges."
 - [Catalogue of Life](http://www.catalogueoflife.org/): online database of the world's known species of animals, plants, fungi and micro-organisms, available [as an API](http://www.catalogueoflife.org/content/web-services) and [downloadable data set](http://www.catalogueoflife.org/content/annual-checklist-archive)
