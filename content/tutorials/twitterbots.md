@@ -57,7 +57,7 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
-- [Why you should have your own Twitter bot, and how to build one in less than 30 minutes](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f) (medium.freecodecamp.com) (hosting on Cloud9)
+- [Why you should have your own Twitter bot, and how to build one in less than 30 minutes](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f) (medium.freecodecamp.com) (uses Cloud9 and Heroku)
  - [github.com/spences10/twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 - [Creating a basic Twitter Bot in Node.js](http://techknights.org/workshops/nodejs-twitterbot/) (techknights.org)
 - [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
