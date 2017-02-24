@@ -87,6 +87,7 @@ Nav: hidden
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
 - [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
 - [Humans 'will bully robot cars', Mercedes chief warns](http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/) (telegraph.co.uk)
+- [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/) (qz.com)
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
