@@ -32,6 +32,9 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [3 simple AI tricks to make your chatbot more responsive (and 1 non-AI one)](https://medium.com/@davidwright_68835/3-simple-ai-tricks-to-make-your-chatbot-more-responsive-and-1-non-ai-one-24e94d45caa1) (David Wright via medium.com)
 - [Conversational Design Essentials: Tips For Building A Chatbot](https://www.smashingmagazine.com/2016/12/conversational-design-essentials-tips-for-building-a-chatbot/)
 - [6 tricks to make your chatbot appear more human](http://www.techworld.com/tutorial/ux/6-tricks-make-your-chatbot-appear-more-human-3651691/) (techworld.com)
+- [UX for conversational interfaces](https://chatbotnewsdaily.com/ux-for-conversational-interfaces-fb838c83eb8e) (chatbotnewsdaily.com)
+- [Looking at how people text](https://medium.com/assist/looking-at-how-people-text-8cbac575f774) (Stéphane Nguyen H T via medium.com)
+- [Making Chatbots Talk — Writing Conversational UI Scripts Step by Step](https://uxdesign.cc/making-chatbots-talk-writing-conversational-ui-scripts-step-by-step-62622abfb5cf) (uxdesign.cc)
 
 ### [¶](#unsorted){.pilcrow} Other/unsorted {#unsorted}
 
@@ -52,7 +55,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
   - [Comments on Hacker News](https://news.ycombinator.com/item?id=13434275) (news.ycombinator.com)
 - [What we can learn from Alexa’s mistakes](https://uxdesign.cc/what-we-can-learn-from-alexas-mistakes-a4670a9e6c3e) (uxdesign.cc)
 - [We need to talk about Accessibility on Chatbots](https://uxdesign.cc/we-need-to-talk-about-accessibility-on-chatbots-98cf93c54963) (uxdesign.cc)
-
+- [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
 
 
 ***See also:**

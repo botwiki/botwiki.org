@@ -68,9 +68,11 @@ Nav: hidden
 - [What Enron's emails tell us about artificial intelligence](http://technical.ly/brooklyn/2016/11/22/enron-emails-good-life-art/) (technical.ly)
 - [Algorithms might be everywhere, but like us, they're deeply flawed](http://theconversation.com/algorithms-might-be-everywhere-but-like-us-theyre-deeply-flawed-66838) (theconversation.com)
 - [Investigating the algorithms that govern our lives](http://www.cjr.org/innovations/investigating_algorithms.php) (cjr.org)
+- ["Programming and Prejudice: Can Computers Be Racist?" (Talks at Google)](https://www.youtube.com/watch?v=4fNx8XxToBA) (youtube.com)
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
+- [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
 - [Technically Female: Women, Machines, and Hyperemployment](http://salvage.zone/in-print/technically-female-women-machines-and-hyperemployment/) (salvage.zone)
 - [Designing News Apps for Humanity](https://source.opennews.org/en-US/articles/designing-news-apps-humanity/) (source.opennews.org)

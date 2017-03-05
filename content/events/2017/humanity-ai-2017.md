@@ -4,7 +4,7 @@ Link: https://www.eventbrite.com/e/humanityai-tickets-27038920138
 Date: February 28, 2017
 Description: Behind every new bot, conversational UI, or AI system are people working at the intersection of design, data, and technology.  This day is all about them.
 Thumbnail: /content/events/images/humanity-ai-2017.png
-Tags: event,upcoming
+Tags: event,archived
 */
 
 
@@ -26,3 +26,4 @@ Tags: event,upcoming
 - [Bespoke](http://www.bespokesf.co/), 845 Market Street, San Francisco ([map](https://www.google.com/maps/dir/Current+Location/845+Market+Street+San+Francisco))
 - [Event page](https://www.eventbrite.com/e/humanityai-tickets-27038920138)
 - [humanity.ai](http://www.humanity.ai/)
+- [10 Takeaways from Humanity.AI](https://ladyin.tech/10-takeaways-from-humanity-ai-404ab01104da#.8b57a95sm) (ladyin.tech)

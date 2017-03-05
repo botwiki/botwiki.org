@@ -35,3 +35,6 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 ***See also: [non-English open source bots](/tag/bot+opensource+non-english).***
 
 - [janteuni/french-bots-ecosystem](https://github.com/janteuni/french-bots-ecosystem): resources for making bots in French
+
+
+For chatbots, check out [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots).

@@ -20,3 +20,4 @@ Tags: event,archived
 
 - [#NaBoMaMo 2016](http://mikewatson.me/NaBoMaMo/2016) (mikewatson.me)
 - [#NaBoMaMo: 30 Bot Victory](https://harrygiles.org/2016/12/03/nabomamo-30-bot-victory/) (harrygiles.org)
+- [NaBoMaMo 2016 writeup by Etienne Millon](http://blog.emillon.org/posts/2017-02-01-nabomamo-2016-writeup.html) (blog.emillon.org)

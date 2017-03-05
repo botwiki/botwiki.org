@@ -84,12 +84,15 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 
 - [Civ V Random Game Generator Twitterbot](http://www.katelyndinkgrave.com/ruby/2016/01/31/civ-game-generator-twitterbot.html)
+- [Your Own @Horse_ebooks](https://medium.com/@nulljosh/your-own-horse-ebooks-84e9b87c5af6) (hosted on Heroku)
 
 
 #### [¶](#cheap-bots-done-quick){.pilcrow} Cheap Bots Done Quick {#cheap-bots-done-quick}
 
 Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For example bots, see the [#cheapbotsdonequick](/tag/cheapbotsdonequick) tag.
 
+- [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai)
+  - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/) -- tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots)
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767)
@@ -156,3 +159,4 @@ And once you have one account verified, you can also host all your bots under th
 See [Resources for Twitter bots](/resources/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).
+

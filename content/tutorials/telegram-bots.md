@@ -42,6 +42,7 @@ Learn how to make a bot for [Telegram](https://telegram.org/)!
 - [Implementing a bot-based treasure hunt game](https://medium.com/convcomp2016/implementing-a-bot-based-treasure-hunt-game-d20199c428c4)
 - [Creating a Telegram bot using Python](https://medium.com/@ngrjs/creating-a-telegram-bot-using-python-9d11a43a8d2) (Nagaraj Hegde via medium.com)
 - [Host a python Telegram bot on Azure in < 30 minutes](https://medium.com/@miszu/host-a-python-telegram-bot-using-azure-in-30-minutes-58f246cedf23) (Michał Żołnieruk via medium.com)
+- [How to build a Telegram chatbot](https://chatbotsmagazine.com/how-to-build-a-telegram-chatbot-3e0bc810f5c6) (chatbotsmagazine.com)
 
 #### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
 

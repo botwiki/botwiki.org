@@ -65,7 +65,9 @@ See also [list of all API methods](https://api.slack.com/methods) and [announcem
 ### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
 
 - [Building a Pokebot](https://blog.recast.ai/nodejs-bot-tutorial-1/): A NodeJS chatbot tutorial by [Recast.AI](https://recast.ai/) ([Part 2](https://blog.recast.ai/nodejs-bot-tutorial/), [Part 3](https://blog.recast.ai/nodejs-bot-tutorial-3/))
+- [How I Ruined Office Productivity With a Face-Replacing Slack Bot](http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/): tutorial with Go (blog.zikes.me)
 - [Make a Self-Training, NLP-Driven Slack Bot](http://blog.templeton.host/self-training-nlp-enabled-slack-bot-tutorial/): "NLP + [Botkit](http://howdy.ai/botkit/) = Magic"
+- [Hacker News bot with Slack’s Events API and StdLib](https://hackernoon.com/hacker-news-bot-with-slacks-events-api-and-stdlib-33e28cea1b18)
 - [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10): a tutorial using [Botkit](http://howdy.ai/botkit/)
 - [Slack + SuperScript — Rise of the Bots](https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c)
 - [Writing a Slack Bot Service for Multiple Teams](http://code.dblock.org/2015/11/14/writing-a-slack-bot-service-for-multiple-teams.html)

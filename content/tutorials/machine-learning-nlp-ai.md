@@ -12,6 +12,8 @@ Nav: hidden
   </p>
 </div>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting really worried now.  (Thx Roz Chast, <a href="https://twitter.com/NewYorker">@newyorker</a>) <a href="https://t.co/6oZs7xNX08">pic.twitter.com/6oZs7xNX08</a></p>&mdash; Mitch Kapor (@mkapor) <a href="https://twitter.com/mkapor/status/836092968951918592">February 27, 2017</a></blockquote>
+
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Natural language processing](#natural-language-processing)
@@ -20,6 +22,7 @@ Nav: hidden
 - [With Julia](#with-julia)
 - [TensorFlow](#tensorflow)
 - [WaveNet](#wavenet)
+- [Demos and interesting projects](#demos-projects)
 
 ### [¶](#natural-language-processing){.pilcrow} Natural language processing {#natural-language-processing}
 
@@ -43,17 +46,15 @@ Nav: hidden
 - [Neural Networks Demystified](http://lumiverse.io/series/neural-networks-demystified)
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/%20The%20Neural%20Network%20Zoo%20-%20The%20Asimov%20Institute)
 - [Neural Network Architectures](https://culurciello.github.io/tech/2016/06/04/nets.html)
+- [Introduction to Neural Nets (Without the Brain Metaphor)](https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0) (Mark Riedl via medium.com)
 - [How do Convolutional Neural Networks work?](http://brohrer.github.io/how_convolutional_neural_networks_work.html)
 - [Training a Recurrent Neural Network to Compose Music](https://maraoz.com/2016/02/02/abc-rnn/)
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
 - [Practical Deep Learning For Coders](http://course.fast.ai/): 18 hours of lessons for free (course.fast.ai)
 - [Metadata: Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html) (muratbuffalo.blogspot.com)
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of some of the foundational Machine Learning models and algorithms
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
-
-See also
-
-- [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
@@ -82,4 +83,16 @@ See also
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
 - [basveeling/wavenet/](https://github.com/basveeling/wavenet/)
 
-If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
+### [¶](#demos-projects){.pilcrow} Demos and interesting projects {#demos-projects}
+
+- [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
+- [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
+- [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow)
+- [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
+- [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
+- [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
+
+
+Be sure to join us at [botmakers.org](https://botmakers.org/)!
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

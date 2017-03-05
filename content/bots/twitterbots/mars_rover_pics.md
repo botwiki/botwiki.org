@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/mars_rover_pics.png
 Link: https://twitter.com/mars_rover_pics
 Author: botsheeter.py
 Date: January 10, 2017
-Tags: twitter,twitterbot,bot,active,images,space,mars,rover,planet,go,golang,nasa,open source,opensource,https://github.com/odeke-em/mars-rover-twitter-bot/,
+Tags: twitter,twitterbot,bot,active,images,space,mars,rover,planet,go,golang,nasa,open source,opensource
 Nav: hidden
 Robots: index,follow
 */
