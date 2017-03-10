@@ -1117,7 +1117,6 @@ div.bottom-page-links a {
   vertical-align: top;
   text-align: right;
   font-size: 2.5em;
-  border-radius: 5px;
 }
 @media (min-width: 860px) {
   div.bottom-page-links a {

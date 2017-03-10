@@ -31,6 +31,7 @@ You have quite a few options when it comes to hosting your bots!
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
   - see [tutorials on Botwiki that use Cloud9](/tag/tutorial+cloud9)
+- [Google Cloud Platform](https://cloud.google.com/) ([Free Tier](https://cloud.google.com/free/))
 - [Heroku](https://www.heroku.com): similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)), useful tutorials include:
  - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
 - [Linode](https://www.linode.com/): another VPS, starts at $10/mo
@@ -65,16 +66,6 @@ See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (an
 
 - [Beep Boop](https://beepboophq.com): Slack bot hosting platform
 - [Slack.Pipe](http://slack.datastack.co/): allows you to create custom bots from any API
-
-
-
-
-
-
-
-
-
-
 
 
 See also: [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6) on the [Slack API Developer Blog](https://medium.com/slack-developer-blog).
