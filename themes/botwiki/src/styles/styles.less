@@ -421,7 +421,6 @@ div.all-tags a{
   padding: 1em 0;
   color: #5D9CEC;
   background-color: @main-color;
-  box-shadow: 0 4px 40px -15px #333;
   height: 4em;
   @media (max-width: @site-width-small){
     padding: 10px;
@@ -821,13 +820,14 @@ div.search-item{
 }
 
 .note{
+  border-left: 6px solid #F7E967 - #333;
   font-weight: bold;
   font-style: italic;
   background-color: #F7E967;
   margin: 0;
   padding: 0;
   p{
-    padding: 0.5rem 2rem
+    padding: 1.5rem !important;
   }
 }
 
@@ -1006,11 +1006,31 @@ img.logo-digitalocean{
   #header #menu-icon{
     display:inline-block;
   }
-  #header nav a{
-    color: @main-color - #222; 
-  }
-  #header nav a:hover{
-    color: #434a54; 
+  #header{
+    nav{
+      ul{
+        overflow-x: hidden;        
+      }
+
+      li{
+        width: 100%;
+        padding: 20px 0;
+        @media (min-width : @site-width){
+          padding: 10px 0;
+        }
+        margin: 0;
+        opacity: 0;
+        transition: all 0.2s;
+        margin-left: 30px;
+      }
+
+      a{
+        color: @main-color - #222; 
+        &:hover{
+          color: #434a54; 
+        }
+      }
+    }
   }
 
   #header nav ul,
@@ -1022,27 +1042,13 @@ img.logo-digitalocean{
     background: #fff;
     border-top: 1px solid @main-color;
     border-bottom: 1px solid @main-color;
-    box-shadow: 0 10px 100px -10px #333;
+    box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
     left: -100px;
     top: 2.3em;
-    @media (max-width: @site-width-medium){
-    }
     width: 100%;
     z-index: 9999;
     transition: all 0.2s;
     pointer-events: none;
-  }
-
-  #header nav li{
-    width: 100%;
-    padding: 20px 0;
-    @media (min-width : @site-width){
-      padding: 10px 0;
-    }
-    margin: 0;
-    opacity: 0;
-    transition: all 0.2s;
-    margin-left: 30px;
   }
 
   div.callout{
