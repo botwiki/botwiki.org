@@ -1,5 +1,5 @@
 /*
-  This is a slightly modified default Pico theme. Needs a complete rewrite. 
+  TODO: This is a slightly modified default Pico theme, needs to be better organized and rewritten using LESS.
 */
 
 /*=================================*/
@@ -78,7 +78,6 @@ div.content-wrapper{
   animation: reveal 0.6s normal forwards ease-in-out;
 }
 
-
 /* hand cursor on clickable input elements */
 label, input[type=button], input[type=submit], button{
   cursor: pointer;
@@ -149,20 +148,19 @@ body{
   -webkit-font-smoothing: antialiased;
 }
 
-a, a:visited{
-  color: @link-color;
-  text-decoration: none;
-}
-
-a:hover, a:active{
-  color: @main-color - #222;
-  @media (min-width : @site-width-small){
-    text-decoration: underline;
+a{
+  &, &:visited{
+    color: @link-color;
+    @media (min-width : @site-width-small){
+      text-decoration: none;
+    }
   }
-}
 
-a:hover{
-  transition: all 0.2s linear;  
+  &:hover, &:active{
+    color: @link-color - #333;
+    text-decoration: underline;
+    transition: all 0.2s linear;  
+  }
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -181,7 +179,6 @@ a.pilcrow:visited{
   transition: color 0.3s;
 }
 
-
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
   text-decoration: none;
 }
@@ -191,7 +188,6 @@ a.pilcrow:hover{
   color: @main-color - #222;
   text-decoration: none;
 }
-
 
 h1{
   font-size: 3em;
@@ -268,7 +264,6 @@ pre code{
   padding: 1em 0 !important;
 }
 
-
 pre{
   background: #23241f;
   padding: 0.5rem;
@@ -293,7 +288,6 @@ blockquote{
     margin: 0 !important;
   }
 }
-
 
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
@@ -335,7 +329,6 @@ footer ul.footer-list{
     width: 100%;
     text-align: center;
   }
-
 }
 
 .centered{
@@ -361,14 +354,17 @@ img.extra-margin{
 
 div.header-image{
   margin: 0 0 -5px; /* ??? */
-  img.header-image-small{
-    @media (min-width: @site-width-small){
-      display: none;
+  img{
+    min-height: 300px;
+    &.header-image-small{
+      @media (min-width: @site-width-small){
+        display: none;
+      }
     }
-  }
-  img.header-image-large{
-    @media (max-width: @site-width-small){
-      display: none;
+    &.header-image-large{
+      @media (max-width: @site-width-small){
+        display: none;
+      }
     }
   }
 }
@@ -396,11 +392,12 @@ img.main-banner{
 
 div.all-tags{
   text-align: justify;
+
+  a{
+    padding: 0 0.2em;
+  }
 }
 
-div.all-tags a{
-  padding: 0 0.2em;
-}
 
 /* Structure Styles
 /*---------------------------------------------*/
@@ -429,12 +426,15 @@ div.all-tags a{
   }
 }
 
-#header a{ 
-  color: #5D9CEC; 
-}
+#header{
+  a{ 
+    color: #5D9CEC; 
+    padding-bottom: 8px;
+  }
 
-#header h1 a{
-  font-family: 'Fjalla One', serif;  
+  h1 a{
+    font-family: 'Fjalla One', serif;  
+  }
 }
 
 #header h1 a,
@@ -443,16 +443,11 @@ div.all-tags a{
   text-decoration: none;
 }
 
-#header a{ 
-  padding-bottom: 8px;
-}
-
 #header nav a:hover{ 
   @media (min-width : 912px){
     border-bottom: 3px solid #F5F5F5; 
   }
 }
-
 
 #header a,
 #header a:hover{ 
@@ -491,13 +486,15 @@ li.active a{
 label.cursor-pointer{  
   cursor: pointer;
 }
+
 a#logo{
   float: left;
   margin: 0.3em 0.7em 0 0;
   color: #fff !important;
-}
-a#logo:hover{
-  border-bottom: none !important;
+
+  &:hover{
+    border-bottom: none !important;
+  }
 }
 
 ul#menu{
@@ -510,12 +507,15 @@ ul#menu{
     max-height: 85vh; /* Quick hack. */
   }
 }
+
 #menu-toggle{
   display: none;
 }
+
 #header #menu-icon-wrapper{
   float: right;
 }
+
 #header #menu-icon{
   display: none;
   color: #fff;
@@ -525,15 +525,18 @@ ul#menu{
   width: 36px;
   height: 24px;
 }
+
 #header nav{
   list-style: none;
   margin: 0.2em 0 0;
-  font-family: monospace;
+  font-family: 'Source Serif Pro', serif;
 }
+
 #header nav li{
   margin-top: -5px;
   margin-left: 15px;  
 }
+
 #header nav li:nth-child(2){
 /*TODO: A bit hacky, maybe refactor later?*/
   margin-left: 0;
@@ -550,6 +553,7 @@ ul#menu{
     float: none;
   }
 }
+
 #header nav a{
   @media (min-width: @site-width-medium){
     font-size: 1.1em;
@@ -557,19 +561,23 @@ ul#menu{
   color: #fff;
   font-weight: bolder;
 }
+
 #header #menu-toggle:checked#menu-icon{
   background-color: #444;
   border-radius: 4px 4px 0 0;
 }
+
 #header ul{
   list-style: none;
   padding-top: 0.6em;
   margin: 0;
 }
+
 #header li{
   display: inline-block;
   float: left;
 }
+
 form#search-form{
   width: 100%;
   margin-top: -0.5em;
@@ -582,12 +590,14 @@ form#search-form input{
   width: 100%;
   line-height: 1.5em;
 }
+
 div.search-results-intro{
   h2{
     text-align: center;
 
   }
 }
+
 div#content-wrapper{
   margin: 0 auto;
   max-width: @site-width;
@@ -597,7 +607,7 @@ div#content-wrapper{
 }
 
 #content{
-  min-height: 92em;
+  min-height: 70em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -913,8 +923,12 @@ div.article-thumbnail{
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
+  min-height: 330px;
+  a{
+    display: block;
+    line-height: 0;
+  }
   img{
-    // margin-bottom: -10px; /* ??? */
     @media (max-width: @site-width-medium){
       object-fit: contain;
     }

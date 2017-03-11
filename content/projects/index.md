@@ -23,7 +23,9 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 
 ### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
 
+<div class="centered-text" markdown='1'>
 ![Botwiki](/content/projects/images/botwiki-v2.png)
+</div>
 
 [Botwiki](https://botwiki.org/) is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots -- *smart software agents that do fun or useful stuff* -- for Twitter, Slack, IRC and other online networks.
 
@@ -31,7 +33,9 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 
 ### [¶](#botmakers){.pilcrow} Botmakers {#botmakers}
 
+<div class="centered-text" markdown='1'>
 [![Botmakers.org](/content/projects/images/botmakers.png)](https://botmakers.org/)
+</div>
 
 [Botmakers.org](https://botmakers.org/) is a friendly community for botmakers and bot enthusiasts on Slack and on [meetup.com](http://www.meetup.com/botmakers/). Botmakers is open to everyone regardless their level of technical knowledge. We share ideas, resources, tips -- things that might eventually end up on Botwiki.
 
@@ -44,7 +48,9 @@ We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to ou
 
 ### [¶](#bot-zine){.pilcrow} Bot! zine {#bot-zine}
 
+<div class="centered-text" markdown='1'>
 [![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
+</div>
 
 [Bot! zine](https://botzine.org/) is an online newsletter for botmakers and bot enthusiasts, powered by [Revue](https://www.getrevue.co/), and maintained by [Veronica](/about/team#veronica).
 
@@ -53,7 +59,9 @@ It goes out every Monday and features newest bots, libraries, news, and interest
 
 ### [¶](#botmaker-badges){.pilcrow} Botmaker Badges {#botmaker-badges}
 
+<div class="centered-text" markdown='1'>
 [![Botmaker Badges](/content/botmaker-badges/images/badges-banner.png)](/botmaker-badges/)
+</div>
 
 Using [Mozilla's Open Badges](https://en.wikipedia.org/wiki/Mozilla_Open_Badges) and [Badgr](http://info.badgr.io/), we are issuing Botmaker Badges to people who create bots and resources for botmakers!
 
@@ -62,37 +70,47 @@ Learn more [here](/botmaker-badges/).
 
 ### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
 
-![Monthly Bot Challenge](/content/monthly-bot-challenge/images/monthly-bot-challenge-promo-2016-v2.png)
+<div class="centered-text" markdown='1'>
+![Monthly Bot Challenge](/content/projects/images/mbc.png)
+</div>
 
 An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
 
 ### [¶](#bot-workshops){.pilcrow} Bot Workshops {#bot-workshops}
 
-[![Bot Workshops](/content/bot-workshops/images/bot-workshops-promo.png)](/bot-workshops)
+<div class="centered-text" markdown='1'>
+[![Bot Workshops](/content/projects/images/bot-workshops.png)](/bot-workshops)
+</div>
 
 Botwiki's [Bot Workshops](/bot-workshops) are envisioned as a series of events (mostly online, possibly also offline) for botmakers of all levels of technical expertise: artists, tinkerers, enthusiasts, seasoned pros.
 
 ### [¶](#original-tutorials){.pilcrow} Original tutorials {#original-tutorials}
 
-The Botwiki team also produces [original tutorials](/tag/tutorial+botwiki-original).
+The Botwiki team produces [original tutorials](/tag/tutorial+botwiki-original).
 
 ### [¶](#botwiki-corpora-api){.pilcrow} Botwiki Corpora API {#botwiki-corpora-api}
 
-[![Botwiki Corpora API](/content/projects/corpora/images/corpora-api-thumbnail.png?)](/projects/corpora)
+<div class="centered-text" markdown='1'>
+[![Botwiki Corpora API](/content/projects/images/corpora-api.png?)](/projects/corpora)
+</div>
 
 [Botwiki Corpora API](/projects/corpora/) provides free access to the [Corpora](https://github.com/dariusk/corpora) data.
 
 ### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
 
+<div class="centered-text" markdown='1'>
 ![Sidekick](/content/projects/images/botwikibot.png)
+</div>
 
 **Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. Learn more about the project at [getyoursidekick.org](http://getyoursidekick.org/) and join the ongoing development at [Botmakers.org](https://botmakers.org/).
 
 
 ### [¶](#detective){.pilcrow} Detective {#detective}
 
+<div class="centered-text" markdown='1'>
 ![Detective](/content/projects/images/detective-2.0.png)
+</div>
 
 Detective is an online game where players are assigned roles of a Detective or an Impostor. A third role, Robot, is handled by a chat bot (powered by [BOT libre!](https://www.botlibre.com/)).
 

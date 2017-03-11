@@ -6,7 +6,7 @@ Purple
 @main-color: #564d68;
 */
 /*
-  This is a slightly modified default Pico theme. Needs a complete rewrite. 
+  TODO: This is a slightly modified default Pico theme, needs to be better organized and rewritten using LESS.
 */
 /*=================================*/
 /* Pico Default Theme
@@ -202,19 +202,17 @@ body {
 a,
 a:visited {
   color: #4A89DC;
-  text-decoration: none;
+}
+@media (min-width: 860px) {
+  a,
+  a:visited {
+    text-decoration: none;
+  }
 }
 a:hover,
 a:active {
-  color: #160f18;
-}
-@media (min-width: 860px) {
-  a:hover,
-  a:active {
-    text-decoration: underline;
-  }
-}
-a:hover {
+  color: #1756a9;
+  text-decoration: underline;
   transition: all 0.2s linear;
 }
 h1,
@@ -416,6 +414,9 @@ div.header-image {
   margin: 0 0 -5px;
   /* ??? */
 }
+div.header-image img {
+  min-height: 300px;
+}
 @media (min-width: 860px) {
   div.header-image img.header-image-small {
     display: none;
@@ -479,6 +480,7 @@ div.all-tags a {
 }
 #header a {
   color: #5D9CEC;
+  padding-bottom: 8px;
 }
 #header h1 a {
   font-family: 'Fjalla One', serif;
@@ -487,9 +489,6 @@ div.all-tags a {
 #header a:hover {
   color: #fff;
   text-decoration: none;
-}
-#header a {
-  padding-bottom: 8px;
 }
 @media (min-width: 912px) {
   #header nav a:hover {
@@ -565,7 +564,7 @@ ul#menu {
 #header nav {
   list-style: none;
   margin: 0.2em 0 0;
-  font-family: monospace;
+  font-family: 'Source Serif Pro', serif;
 }
 #header nav li {
   margin-top: -5px;
@@ -634,7 +633,7 @@ div#content-wrapper {
   }
 }
 #content {
-  min-height: 92em;
+  min-height: 70em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -922,10 +921,11 @@ div.article-thumbnail {
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
+  min-height: 330px;
 }
-div.article-thumbnail img {
-  margin-bottom: -10px;
-  /* ??? */
+div.article-thumbnail a {
+  display: block;
+  line-height: 0;
 }
 @media (max-width: 1040px) {
   div.article-thumbnail img {
@@ -1121,7 +1121,6 @@ div.bottom-page-links a {
   vertical-align: top;
   text-align: right;
   font-size: 2.5em;
-  border-radius: 5px;
 }
 @media (min-width: 860px) {
   div.bottom-page-links a {
