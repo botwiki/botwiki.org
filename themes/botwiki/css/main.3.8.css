@@ -500,7 +500,7 @@ div.all-tags a {
   transition: border 0.1s;
 }
 #header h1 a:hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 #header h1 {
   font-size: 1.6em;
