@@ -500,7 +500,7 @@ div.all-tags a {
   transition: border 0.1s;
 }
 #header h1 a:hover {
-  text-decoration: none !important;
+  text-decoration: none;
 }
 #header h1 {
   font-size: 1.6em;
@@ -529,6 +529,7 @@ a#logo {
   float: left;
   margin: 0.3em 0.7em 0 0;
   color: #fff !important;
+  text-decoration: none !important;
 }
 a#logo:hover {
   border-bottom: none !important;
