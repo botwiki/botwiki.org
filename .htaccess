@@ -22,9 +22,9 @@
 
 </IfModule>
 
-# <IfModule mod_env.c>
-#    SetEnv HTTPS on
-# </IfModule>
+<IfModule mod_env.c>
+   SetEnv HTTPS on
+</IfModule>
 
 # Prevent file browsing
 Options -Indexes
