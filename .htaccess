@@ -6,7 +6,6 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_URI} !(.*)/$
     RewriteCond %{REQUEST_URI} !^/search$
-    RewriteCond %{REQUEST_URI} !(\.gif|\.jpg|\.png)$ [NC]
     RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [L,R=301]
 
     RewriteCond %{REQUEST_FILENAME} !-f
@@ -20,6 +19,11 @@
 ##  ???
 #    RewriteCond %{HTTP_HOST} ^(www\.)?botwiki\.org$ [NC]
 #    RewriteRule ^submit-your-bot/?$ https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform [L,R=301,NC]
+
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} /$ [NC]
+    RewriteCond %{REQUEST_FILENAME} .*\.(png|jpg|gif|jpeg)$ [NC]
+    RewriteRule ^(.*)/$ $1 [R=301,L]
 
 </IfModule>
 
