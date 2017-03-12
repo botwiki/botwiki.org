@@ -71,6 +71,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members), maintained by [the Botwiki team](https://twitter.com/botwikidotorg)
 - [Music bots](https://twitter.com/ASchoenbot/lists/music-bots/members), maintaned by [@ASchoenbot](https://twitter.com/ASchoenbot)
 - [The Botsistance](https://twitter.com/EthanBeihl/lists/the-botsistance/members), maintained by [@EthanBeihl](https://twitter.com/EthanBeihl): Bots aligned toward making hell for the powers that be. Some serious, some frivolous. #resist
+- [Activist bots](https://twitter.com/leonardo_uprm/lists/activist-bots), created by [Leonardo Flores](https://twitter.com/Leonardo_UPRM)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I give a Twitter bot as a wedding gift?</p>&mdash; Byron Hulcher (@hypirlink) <a href="https://twitter.com/hypirlink/status/773881183662923780">September 8, 2016</a></blockquote>
 
