@@ -6,6 +6,7 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_URI} !(.*)/$
     RewriteCond %{REQUEST_URI} !^/search$
+    RewriteCond %{REQUEST_URI} !(\.gif|\.jpg|\.png)$ [NC]
     RewriteRule ^(.*)$ http://%{HTTP_HOST}/$1/ [L,R=301]
 
     RewriteCond %{REQUEST_FILENAME} !-f
