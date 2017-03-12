@@ -81,6 +81,8 @@ Nav: hidden
 - [The darker side of machine learning](https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/) (techcrunch.com)
 - [Self-Driving Mercedes Will Be Programmed To Sacrifice Pedestrians To Save The Driver](https://www.fastcoexist.com/3064539/self-driving-mercedes-will-be-programmed-to-sacrifice-pedestrians-to-save-the-driver) (fastcoexist.com)
 - [Attacking machine learning with adversarial examples](https://openai.com/blog/adversarial-example-research/) (openai.com)
+- [Machine Learning and Misinformation](http://paulsoulos.com/editorial/2017/03/07/machine-learning-and-misinformation.html) (paulsoulos.com)
+- [The Art Of Manipulating Algorithms](https://www.fastcodesign.com/3068556/reminder-you-can-manipulate-algorithms-too) (fastcodesign.com)
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
@@ -90,6 +92,8 @@ Nav: hidden
 - [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
 - [Humans 'will bully robot cars', Mercedes chief warns](http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/) (telegraph.co.uk)
 - [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/) (qz.com)
+- [Why Amazon’s Alexa is a feminist](http://venturebeat.com/2017/03/09/botbeat-weekly-why-amazons-alexa-is-a-feminist/) (venturebeat.com)
+- [The truth about gender-neutral bots](https://medium.com/@HealthinarE/the-truth-about-gender-neutral-bots-448bc0cab6dc) (Healthinar Engagement via medium.com)
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
@@ -102,6 +106,7 @@ Nav: hidden
 - [How to Force Our Machines to Play Fair](https://www.quantamagazine.org/20161123-privacy-and-fairness-an-interview-with-cynthia-dwork/) (quantamagazine.org)
 - [Ethically Aligned Design](http://standards.ieee.org/develop/indconn/ec/ead_v1.pdf) (PDF, standards.ieee.org)
 - [Ethical imperatives in AI and generative art](https://worldwritable.com/ethical-imperatives-in-ai-and-generative-art-b8cf51af4c5)
+- [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html) (blog.fastforwardlabs.com)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
 

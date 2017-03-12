@@ -25,7 +25,6 @@ Nav: hidden
 
 - [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) -- supports [Laravel](https://laravel.com/) out of the box
 
-
 #### [¶](#bot-frameworks-python){.pilcrow} Python {#bot-frameworks-python}
 
 - [nickoala/telepot](https://github.com/nickoala/telepot), also see [the documentation](http://telepot.readthedocs.io/en/latest/)
@@ -39,6 +38,7 @@ Nav: hidden
 - [odarriba/fantastic_robot](https://github.com/odarriba/fantastic_robot)
 - [telegruby](https://rubygems.org/gems/telegruby)
 - [MaximAbramchuck/ruby-telegram-bot-starter-kit](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
+- [barbaramartina/ruby-telegram-bot](https://github.com/barbaramartina/ruby-telegram-bot): A Simple Telegram Bot written in Ruby to search for nearby restaurants
 
 ### [¶](#other){.pilcrow} Other {#other}
 

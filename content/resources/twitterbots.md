@@ -8,8 +8,22 @@ Nav: hidden
 
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
+
+### [¶](#page-content){.pilcrow} Page content {#page-content}
+
+- [Twitterbot frameworks](#twitterbot-frameworks)
+  - [node.js](#twitterbot-frameworks-nodejs)
+  - [Python](#twitterbot-frameworks-python)
+  - [Ruby](#twitterbot-frameworks-ruby)
+  - [Java](#twitterbot-frameworks-java)
+  - [Other languages](#twitterbot-frameworks-other)
+- [Language](#language)
+- [Working with images](#images)
+- [Other](#other) and [Unsorted](#other-unsorted)
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### [¶](#twitterbot-frameworks){.pilcrow} Twitterbot frameworks {#twitterbot-frameworks}
 
@@ -37,6 +51,11 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [negatendo/rubybottools](https://github.com/negatendo/rubybottools): a collection of tools for writing Twitter bots with Ruby
 
 
+#### [¶](#twitterbot-frameworks-java){.pilcrow} Java {#twitterbot-frameworks-java}
+
+- [joesondow/markov](https://github.com/joesondow/markov): a template for [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) Twitter bots
+- [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base: template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
+
 #### [¶](#twitterbot-frameworks-other){.pilcrow} Other languages {#twitterbot-frameworks-other}
 
 - [zhaytee/botville](https://github.com/zhaytee/botville): a simple package for bootstrapping a Twitter bot in Go
@@ -58,7 +77,7 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 #### [¶](#language-python){.pilcrow} Python {#language-python}
 
 - [hugovk/word-tools](https://github.com/hugovk/word-tools): a collection of tools/mini-bots that do various language-related things, used by [@favibot](https://twitter.com/favibot), [@lovihatibot](https://twitter.com/lovihatibot) and [@nixibot](https://twitter.com/nixibot)
-- [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov): create markov chain ("_ebooks") accounts
+- [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov): create [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) ("_ebooks") accounts
 
 
 ### [¶](#images){.pilcrow} Working with images {#images}
@@ -77,8 +96,6 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 
 - [mkproj](https://www.npmjs.com/package/mkproj): tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
 - [filtered-followback](https://www.npmjs.com/package/filtered-followback): make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
-
-
 
 
 #### [¶](#other-python){.pilcrow} Python {#other-python}
@@ -102,6 +119,9 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 - [dariusk/grunt-init-twitter-bot](https://github.com/dariusk/grunt-init-twitter-bot): a [grunt init](http://gruntjs.com/project-scaffolding) template for making Twitter bots
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Never ceases to amaze, stun me that a significant number of the &quot;people&quot; on Twitter are programs.</p>&mdash; Josh Marshall (@joshtpm) <a href="https://twitter.com/joshtpm/status/840019038185103360">March 10, 2017</a></blockquote>
+
+
 See also:
 
 - [@tullyhansen](https://twitter.com/tullyhansen)'s collection of links on [bots](https://pinboard.in/u:tullyhansen/t:bots/) and [bot making](https://pinboard.in/u:tullyhansen/t:botmaking/)
@@ -109,3 +129,6 @@ See also:
 - [botpad.org](http://botpad.org/p/bot_resources): same as above, but the site is often inaccessible
 
 [Back to all resources.](/resources)
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

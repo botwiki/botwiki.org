@@ -42,7 +42,8 @@ Nav: hidden
 
 - Developing a Facebook Messenger Bot with Ruby on Rails: [Part 1](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-1-7d8039b62f0) and [Part 2](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-2-6ccc51430bfe)
 - [Build your first Facebook Messenger bot in Ruby with Sinatra and `facebook-messenger` gem](https://hackernoon.com/smooth-coordinator-1427dce17f00) ([Part 2](https://hackernoon.com/build-your-first-facebook-messenger-bot-in-ruby-with-sinatra-part-2-3-b3d929a4606d), [Part 3](https://hackernoon.com/build-your-first-facebook-messenger-bot-in-ruby-with-sinatra-part-3-3-c1b9f55ae121))
-- [How to Create a Facebook Messenger Bot with Ruby on Rails](https://chatbotslife.com/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135#.npfve7zbf) (chatbotslife.com)
+- [How to Create a Facebook Messenger Bot with Ruby on Rails](https://chatbotslife.com/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135) (chatbotslife.com)
+- [Creating a fully functional Weather Chatbot — A technical tutorial](https://chatbotslife.com/creating-a-fully-functional-weather-chatbot-a-technical-tutorial-9f2d8273ae2c) (chatbotslife.com)
 
 ### [¶](#tutorials-microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#tutorials-microsoft-bot-framework}
 

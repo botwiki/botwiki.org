@@ -55,6 +55,7 @@ Nav: hidden
 - [Metadata: Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html) (muratbuffalo.blogspot.com)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of some of the foundational Machine Learning models and algorithms
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
+- [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) (Thomas Johnson via github.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
@@ -72,6 +73,7 @@ Nav: hidden
 ### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
 
 - [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=wmw8Bbb_eIE&feature=youtu.be)
+- [TensorFlow for Poets](https://petewarden.com/2016/02/28/tensorflow-for-poets/) (petewarden.com)
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (cloud.google.com)
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)

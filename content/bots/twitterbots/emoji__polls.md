@@ -16,4 +16,11 @@ Robots: index,follow
 
 For more Twitter bots posting polls check out [a list managed by the Botwiki team](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members).
 
+## Technical notes
+
+As of March 2017, Twitter API does not support polls. Some starting points on how to create a poll-posting bot:
+
+- [twitter-poll.py](https://gist.github.com/fourtonfish/5ac885e5e13e6ca33dca9f8c2ef1c46e)
+- []
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

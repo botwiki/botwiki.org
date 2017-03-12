@@ -32,7 +32,11 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
 - [Threading messages together](https://api.slack.com/docs/message-threading)
 
-See also [list of all API methods](https://api.slack.com/methods) and [announcements of API changes](https://twitter.com/search?f=tweets&vertical=default&q=%23changelog%20from%3ASlackAPI) via [@SlackAPI](https://twitter.com/SlackAPI).
+See also:
+
+- [list of all API methods](https://api.slack.com/methods)
+- [announcements of API changes](https://twitter.com/search?f=tweets&vertical=default&q=%23changelog%20from%3ASlackAPI) via [@SlackAPI](https://twitter.com/SlackAPI)
+- [documentation of undocumented Slack API methods](https://github.com/ErikKalkoken/slackApiDoc)
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
