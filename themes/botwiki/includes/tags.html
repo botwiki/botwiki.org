@@ -20,10 +20,10 @@
 
 
 {% if pagestags|length == 0 and current_tags != ['all-tags'] %}
-  <h2>No posts tagged 
+  <h3>No posts tagged 
     {% for tag in current_tags %}
       <a href="/tag/{{ tag}}">#{{ tag }}</a>
-    {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</h2>
+    {% endfor %}. Would you like to <a href="https://github.com/botwiki/botwiki.org">create one</a>?</h3>
   </div>
   <div class="content-wrapper">
     <p><a href="/">Back to the main page.</a></p>
@@ -52,11 +52,11 @@
   {% elseif current_tags == ['markov'] or current_tags == ['markov chain'] %}
     {% include 'includes/markov.html' %}
   {% elseif current_tags == ['event', 'archived'] %}
-    <p>You are browsing past events. <a href="/events/">See all events.</a></p>
+    <p>You are browsing <strong>past events</strong>. See also <a href="/tag/event+ongoing">ongoing</a> and <a href="/tag/event+upcoming">upcoming</a> events, or <a href="/events/">go back to the Events page</a></p>
   {% elseif current_tags == ['event', 'upcoming'] %}
-    <p>You are browsing upcoming events. <a href="/events/">See all events.</a></p>
+    <p>You are browsing <strong>upcoming events</strong>. See also <a href="/tag/event+ongoing">ongoing</a> and <a href="/tag/event+archived">past</a> events, or <a href="/events/">go back to the Events page</a>.</p>
   {% elseif current_tags == ['event', 'ongoing'] %}
-    <p>These are currently ongoing events. <a href="/events/">See all events.</a></p>
+    <p>These are <strong>currently ongoing events</strong>. See also <a href="/tag/event+upcoming">upcoming</a> and <a href="/tag/event+archived">past</a> events, or  <a href="/events/">go back to the Events page</a></p>
   {% elseif current_tags == ['tutorial', 'fourtonfish']
             or  current_tags == ['fourtonfish', 'tutorial'] %}
     <p><strong>See also:</strong></p><ul><li><a href="https://gomix.com/#!/project/twitterbot">Gomix Twitter bot template</a></li></ul>
@@ -67,11 +67,11 @@
   {% endif %}
   </div>
   <div class="content-wrapper">
-    <h2>Posts tagged 
+    <h3>Posts tagged 
       {% for tag in current_tags %}
         <a href="/tag/{{ tag}}">#{{ tag }}</a>
       {% endfor %}
-    </h2>
+    </h3>
 
     {% for page in pagestags %}
       {% if page.date and not page.language %}

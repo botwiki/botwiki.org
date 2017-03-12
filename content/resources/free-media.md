@@ -48,6 +48,7 @@ These are not always downloadable, but you can at least freely link to them.
 
 ### [¶](#free-audio){.pilcrow} Free audio {#free-audio}
 
+- [AudioSet](https://research.google.com/audioset/): A large-scale dataset of manually annotated audio events
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series
 
 

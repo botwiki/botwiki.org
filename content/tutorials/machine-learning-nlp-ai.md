@@ -92,6 +92,7 @@ Nav: hidden
 - [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow)
 - [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
 - [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
+- [Comment.ai](http://comment.ai/): Make a comment, get a comment
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
 
 
