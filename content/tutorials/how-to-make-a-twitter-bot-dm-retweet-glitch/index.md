@@ -35,7 +35,7 @@ Once you take care of that, go ahead and remix the [Glitch Twitter bot template]
 
 ![Remix time!](/content/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/images/remix-this.png){.centered}
 
-You will put your API keys inside your `.env` file (look for it in the sidebar), so that it looks something like this:
+You can put your API keys inside your `.env` file (look for it in the sidebar), so that it looks something like this:
 
 ```
 CONSUMER_KEY='1234gibberish'
