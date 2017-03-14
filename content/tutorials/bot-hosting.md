@@ -23,9 +23,9 @@ You have quite a few options when it comes to hosting your bots!
   - [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.youtube.com/watch?v=Jsmeh7q9Qv4) (DigitalOcean via youtube.com)
   - [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
   - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron) (youtube.com)
-- [Gomix](https://gomix.com/): the easiest way to [build the app or bot of your dreams](https://gomix.com/community/handy-bots)
-  - [Handy bots](https://gomix.com/community/handy-bots): collection of starter bot projects
-    - [Gomix Twitter bot template](https://gomix.com/#!/project/twitterbot)
+- [Glitch](https://glitch.com/): the easiest way to build the app or bot of your dreams
+  - [Handy bots](https://glitch.com/handy-bots): collection of starter bot projects
+    - [Glitch Twitter bot template](https://glitch.com/edit/#!/project/twitterbot)
   - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591)
 - [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
