@@ -63,12 +63,18 @@ Browse [all Twitter bots](/tag/twitterbot).
 
 ### [¶](#lists-of-twitter-bots){.pilcrow} Lists of Twitter bots {#lists-of-twitter-bots}
 
+
+#### [¶](#lists-of-twitter-bots-botwiki){.pilcrow} Lists managed by the Botwiki team {#lists-of-twitter-bots-botwiki}
+
+
+- [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members)
+- [XKCD Bots](https://twitter.com/botwikidotorg/lists/xkcd-bots): bots inspired by the [xkcd webcomic](https://xkcd.com/)
+
 #### [¶](#lists-of-twitter-bots-general){.pilcrow} General {#lists-of-twitter-general}
 
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 - [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots in the tiny_universe](https://twitter.com/hugovk/lists/tiny-universe/members), maintained by [@hugovk](https://twitter.com/hugovk)
-- [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members), maintained by [the Botwiki team](https://twitter.com/botwikidotorg)
 - [Music bots](https://twitter.com/ASchoenbot/lists/music-bots/members), maintaned by [@ASchoenbot](https://twitter.com/ASchoenbot)
 - [The Botsistance](https://twitter.com/EthanBeihl/lists/the-botsistance/members), maintained by [@EthanBeihl](https://twitter.com/EthanBeihl): Bots aligned toward making hell for the powers that be. Some serious, some frivolous. #resist
 - [Activist bots](https://twitter.com/leonardo_uprm/lists/activist-bots), created by [Leonardo Flores](https://twitter.com/Leonardo_UPRM)
