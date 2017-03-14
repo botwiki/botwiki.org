@@ -49,6 +49,7 @@ Nav: hidden
 
 - [Getting Started with Bots](https://mva.microsoft.com/en-US/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
 - [Bot Framework Starter](https://glitch.com/edit/#!/project/botframework-starter) (glitch.com)
+- [Microsoft Bot Framework Tutorial: Hello World Bot!](https://coursetro.com/posts/code/45/Microsoft-Bot-Framework-Tutorial:-Hello-World-Bot!)
 
 ### [¶](#watson){.pilcrow} IBM Watson tutorials {#watson}
 
