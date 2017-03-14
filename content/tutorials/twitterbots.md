@@ -26,8 +26,12 @@ Can't wait to see you there!
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Beginner tutorials](#beginner-tutorials)
-- [Cheap Bots Done Quick](#cheap-bots-done-quick)
-- [SSBot (Google Spreadsheets)](#ssbot)
+  - [node.js](#tutorials-nodejs)
+  - [Python](#tutorials-python)
+  - [Ruby](#tutorials-ruby)
+  - [Cheap Bots Done Quick](#cheap-bots-done-quick)
+  - [SSBot (Google Spreadsheets)](#ssbot)
+  - [Other](#tutorials-other)
 - [Intermediate tutorials](#intermediate-tutorials)
 - [Twitter API](#twitter-api)
 - [Notes](#unsorted-notes)
@@ -102,6 +106,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b)
 
+See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
 
 #### [¶](#ssbot){.pilcrow} SSBot (Google Spreadsheets) {#ssbot}
 
@@ -111,6 +116,7 @@ Tutorials that use [Zach Whalen](http://www.twitter.com/zachwhalen)'s Google Spr
 - [Hook, bait and camouflage: making a honeybot](https://medium.com/@NoraReed/hook-bait-and-camouflage-making-a-honeybot-28a9ccfe0bed)
 - [How to make a Twitter Bot with Google Spreadsheets](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) (SSBot 0.4)
 
+See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
 
 #### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
 - [Polyglot Twitter Bot](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-1-nodejs/) -- a six-part series on making Twitter bots with node.js, Python, Purescript and Amazon AWS by [Joel Grus](https://twitter.com/joelgrus)
