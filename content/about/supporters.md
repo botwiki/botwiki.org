@@ -24,6 +24,8 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 - [@filmplane](http://matthewspencerphotography.com/?ref=botwiki)
 - [@tinyworlds](http://twitter.com/tinyworlds) ([personal website](http://tinyworlds.org/?ref=botwiki))
 - [cosmophagy](http://cosmophagy.tumblr.com/?ref=botwiki)
+- [revdancatt](http://revdancatt.com/?ref=botwiki)
+
 
 ## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
 
