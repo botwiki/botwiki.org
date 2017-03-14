@@ -15,7 +15,7 @@ Nav: hidden
 </div>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
@@ -72,6 +72,8 @@ Nav: hidden
 - ["Programming and Prejudice: Can Computers Be Racist?" (Talks at Google)](https://www.youtube.com/watch?v=4fNx8XxToBA) (youtube.com)
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
 - [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
