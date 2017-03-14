@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/DoSomethingBot.png
 Link: https://twitter.com/DoSomethingBot
 Author: botsheeter.py
 Date: March 12, 2017
-Tags: twitter,twitterbot,bot,active,political,protest,usa,cheapbotsdonequick,tracery,open source,opensource,tracery,ethanbeihl
+Tags: twitter,twitterbot,bot,active,political,protest,usa,cheapbotsdonequick,tracery,open source,opensource,ethanbeihl
 Nav: hidden
 Robots: index,follow
 */
