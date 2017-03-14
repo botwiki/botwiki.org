@@ -1,7 +1,7 @@
 /*
 Title: How to make a retweet-via-DM Twitter bot using Glitch and node.js 
 Description: No server setup necessary!
-Thumbnail: /content/tutorials/make-an-image-posting-twitter-bot/images/share-to-retweet.png
+Thumbnail: /content/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/images/share-to-retweet.png
 Has code: yes
 Show donation link: yes
 Date: March 13, 2017
