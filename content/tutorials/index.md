@@ -33,6 +33,7 @@ Choose the network on which you want to deploy your bot:
 - [YouTube](/tutorials/youtube-bots)
 - [Reddit](/tutorials/redditbots)
 - [IRC](/tutorials/irc-bots)
+- [SMS](/tutorials/sms-bots)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 

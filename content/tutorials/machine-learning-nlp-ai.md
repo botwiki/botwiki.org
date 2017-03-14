@@ -52,6 +52,7 @@ Nav: hidden
 - [Generating Faces with Deconvolution Networks](https://zo7.github.io/blog/2016/09/25/generating-faces.html)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb) ([Kyle McDonald](https://twitter.com/kcimc) via medium.com)
 - [Practical Deep Learning For Coders](http://course.fast.ai/): 18 hours of lessons for free (course.fast.ai)
+- [Practical Deep Learning](http://micha.codes/2017-qcon-deeplearning/) (micha.codes)
 - [Metadata: Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html) (muratbuffalo.blogspot.com)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of some of the foundational Machine Learning models and algorithms
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
@@ -93,6 +94,8 @@ Nav: hidden
 - [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
 - [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
 - [Comment.ai](http://comment.ai/): Make a comment, get a comment
+- [DeepWarp Demo Page](http://163.172.78.19/): a demo for [DeepWarp](http://sites.skoltech.ru/compvision/projects/deepwarp/): Photorealistic Image
+Resynthesis for Gaze Manipulation
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
 
 

@@ -84,6 +84,10 @@ Nav: hidden
 - [Attacking machine learning with adversarial examples](https://openai.com/blog/adversarial-example-research/) (openai.com)
 - [Machine Learning and Misinformation](http://paulsoulos.com/editorial/2017/03/07/machine-learning-and-misinformation.html) (paulsoulos.com)
 - [The Art Of Manipulating Algorithms](https://www.fastcodesign.com/3068556/reminder-you-can-manipulate-algorithms-too) (fastcodesign.com)
+- [Automate This! Delivering Resistance in the Gig Economy](http://www.metamute.org/editorial/articles/automate-delivering-resistance-gig-economy) (metamute.org)
+- [Artificial intelligence is ripe for abuse, tech executive warns: 'a fascist's dream'](https://www.theguardian.com/technology/2017/mar/13/artificial-intelligence-ai-abuses-fascism-donald-trump) (theguardian.com)
+
+
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
@@ -115,12 +119,14 @@ Nav: hidden
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
 - [General essays on Botwiki](/articles/#general-essays)
-- [Ethical Machines](http://ethicalmachines.com/): podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5)
+- [Ethical Machines](http://ethicalmachines.com/): podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5) (ethicalmachines.com)
 - [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
 - [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/) (socialmediacollective.org)
-- [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash))
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
-- [Concerning AI](https://concerning.ai/): a podcast that explores "concerns about intelligent machines"
+- [Partnership on Artificial Intelligence to Benefit People and Society](http://www.partnershiponai.org/) (partnershiponai.org)
+- [Artificial Intelligence Now](https://artificialintelligencenow.com/): Researching the social impacts of artificial intelligence now to ensure a more equitable future (artificialintelligencenow.com)
+- [Concerning AI](https://concerning.ai/): a podcast that explores "concerns about intelligent machines" (concerning.ai)
+- [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash)) (via medium.com)
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 - [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) (wikipedia.org)
 

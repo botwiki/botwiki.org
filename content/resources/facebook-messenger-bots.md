@@ -39,6 +39,7 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 #### [¶](#bot-frameworks-ruby){.pilcrow} ruby {#bot-frameworks-ruby}
 
 - [hyperoslo/facebook-messenger](https://github.com/hyperoslo/facebook-messenger)
+- [messenger-bot-bgta/bot-starter](https://github.com/messenger-bot-bgta/bot-starter)
 
 #### [¶](#bot-frameworks-other){.pilcrow} Other {#bot-frameworks-other}
 
