@@ -20,7 +20,6 @@ Nav: hidden
 - [Web APIs](#web-apis)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [IBM Watson tutorials](#watson)
-- [Twilio](#twilio)
 - [Unsorted tutorials](#unsorted)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
@@ -56,9 +55,6 @@ Nav: hidden
 - [An Adventure with Watson](https://medium.com/@snrubnomis/an-adventure-with-watson-afdebf699f91)
 - [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
 
-### [¶](#twilio){.pilcrow} Twilio {#twilio}
-
-- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
 
 ### [¶](#unsorted){.pilcrow} Unsorted tutorials {#unsorted}
 

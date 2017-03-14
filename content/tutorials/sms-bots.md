@@ -26,7 +26,13 @@ Show donation link: yes
 -- [Wikipedia](https://en.wikipedia.org/wiki/Short_Message_Service)
 
 
+### [¶](#twilio){.pilcrow} Twilio {#twilio}
+
+- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
+
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [LobbyPhone](http://backspace.com/notes/2016/12/lobbyphone.php): "text your US postal address to (520) 200-2223 and get a text back with your state & federal legislative rep phone numbers"
+
+
