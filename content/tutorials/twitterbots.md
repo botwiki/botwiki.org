@@ -48,7 +48,7 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
 - [A quick template/mini-tutorial for making Twitter bots with Glitch](https://glitch.com/edit/#!/project/twitterbot) (glitch.com)
-- A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing]((http://learningprocessing.com/)
+- A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Learn how to make an image posting Twitter bot with node.js and host it on OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
