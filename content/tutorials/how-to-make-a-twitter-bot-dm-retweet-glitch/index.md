@@ -31,7 +31,11 @@ Sounds good? **Let's do this!**
 
 First, you will need to [create a new Twitter app](/tutorials/how-to-create-a-twitter-app); each comes with a set of free API keys which we will need to bring our Twitter bot to life.
 
-You will put those inside your `.env` file (look for it in the sidebar), so that it looks something like this:
+Once you take care of that, go ahead and remix the [Glitch Twitter bot template](https://glitch.com/edit/index.html#!/project/twitterbot).
+
+![Remix time!](/content/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/images/remix-this.png){.centered}
+
+You will put your API keys inside your `.env` file (look for it in the sidebar), so that it looks something like this:
 
 ```
 CONSUMER_KEY='1234gibberish'
@@ -42,11 +46,6 @@ BOT_USERNAME='username'
 ```
 
 Make sure to also update `BOT_USERNAME` to your bot's actual username, without the `@` sign.
-
-
-Once you take care of that, go ahead and remix the [Glitch Twitter bot template](https://glitch.com/edit/index.html#!/project/twitterbot).
-
-![Remix time!](/content/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/images/remix-this.png){.centered}
 
 
 To make our code easier to manage -- and remix in the future, we are going to create separate functions, each handling a part of the bot's behavior:
