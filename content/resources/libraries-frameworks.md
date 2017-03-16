@@ -83,6 +83,7 @@ For libraries and frameworks for specific networks check out their corresponding
 
 ##### [¶](#language-other-python){.pilcrow} Python {#language-other-python}
 
+- [NLTK](http://www.nltk.org/): platform for building Python programs to work with human language data
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) -- an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
 - [tensorflow/models](https://github.com/tensorflow/models) -- models built with TensorFlow
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) -- fuzzy string matching in Python, read more on [chairnerd.seatgeek.com](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)

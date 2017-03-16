@@ -31,6 +31,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Attachments](https://api.slack.com/docs/attachments): create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
 - [Threading messages together](https://api.slack.com/docs/message-threading)
+- [Slack app unfurling](https://api.slack.com/docs/message-link-unfurling#slack_app_unfurling) ([announcements](https://medium.com/slack-developer-blog/all-will-be-revealed-ebcad7c531f0))
 
 See also:
 
@@ -79,6 +80,7 @@ See also:
 - [Serverless Slackbots Powered by AWS](http://eng.localytics.com/serverless-slackbots-powered-by-aws/)
 - [Using Botkit and Aylien’s Text API to Make a Slack Bot](https://medium.com/@samhavens/building-somerset-d518ba284c49)
 - [How to make a Slack bot speak Kubernetes](https://medium.com/@janetkuo/how-to-make-a-slack-bot-speak-kubernetes-e7929f51c741)
+- [Slack meet Hue](https://joffcom.net/slack-meet-hue/) (joffcom.net)
 
 For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorials).
 
