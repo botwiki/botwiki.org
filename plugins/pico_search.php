@@ -36,9 +36,7 @@ class Pico_Search
     public function before_render(&$twig_vars, &$twig)
     {
         if (isset($_GET["q"])){
-            $q = strtoupper(trim($_GET["q"]));
-            while (strstr($q, "  ")) $q = str_replace("  ", " ", $q);
-
+            $q = preg_replace('!\s+!', ' ', strtoupper(trim($_GET["q"])));
 
             if (strpos($q, "TAGS:") !== false){
               // $search_type = "TAGS";
@@ -66,13 +64,11 @@ class Pico_Search
               $this->pages[$k]["score"] = 0;
               $title = strtoupper($page["title"]);
               $content = strtoupper($page["content"]);
+              $description = strtoupper($page["description"]);
               $content_stripped = strip_tags($page["content"]);
 
-              $tags = strtoupper($page["tags"]);
+              $tags = array_change_key_case($page['tags'], CASE_UPPER);
 
-              if (strstr($title, $q)) $this->pages[$k]["score"]+= 10;
-              if (strstr($content, $q)) $this->pages[$k]["score"]+= 10;
-              if (strstr($tags, $q)) $this->pages[$k]["score"]+= 10;
 
               switch ($search_type) {
                 case 'AND':
@@ -89,58 +85,13 @@ class Pico_Search
                   }
                 break;
                 case 'OR':
+                  $title_words = preg_split('/\s+/', $title);
+                  $this->pages[$k]["score"] += 50 * count(array_intersect($qs, $title_words));
 
-                  // TODO: Rewrite the loops below (DRY).
+                  $this->pages[$k]["score"] += 10 * count(array_intersect(array_map('strtolower', $qs), array_map('strtolower', $tags)));
 
-                  // $this->search_loop($title, $qs, 10, $this->pages[$k]["score"]);
-                  // $this->search_loop($content, $qs, 5, $this->pages[$k]["score"]);
-                  // $this->search_loop($tags, $qs, 5, $this->pages[$k]["score"]);
-
-                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $title));
-
-                  foreach ($qs as $q) {                    
-                    foreach ($words as $word) {
-                      if (levenshtein($q, $word)/strlen($word) < 10/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 5 - levenshtein($q, $word);
-                      }
-                    }
-                  }
-
-
-                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $content));
-
-                  foreach ($qs as $q) {                    
-                    foreach ($words as $word) {
-                      if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
-                        // TODO: Search snippet.
-                        //
-                        // if (strpos($content_stripped, $q) > -1 ){
-                        //   $this->pages[$k]["search_snippet"] = substr($content_stripped, strpos($content_stripped, $q), 100);
-                        // }
-                        //
-                        // Once the search snippet is set up to work, update
-                        // search_results.html as below:
-                        //
-                        // {% if page.search_snippet|length > 0 %}
-                        //   <p class="excerpt"><em>{{ page.search_snippet }} ...</em></p>
-                        // {% else %}
-                        //   <p class="excerpt">{{ page.description }}</p>
-                        // {% endif %}
-                      }
-                    }
-                  }
-
-                  $words = explode(" ", preg_replace('/[^a-zA-Z0-9]+/', ' ', $tags));
-
-                  foreach ($qs as $q) {
-                    foreach ($words as $word) {
-                      if (levenshtein($q, $word)/strlen($word) < 3/strlen($word) ) {
-                        $this->pages[$k]["score"]+= 3 - levenshtein($q, $word);
-                      }
-                    }
-                  }
-
+                  $words = preg_split('/\s+/', $content);
+                  $this->pages[$k]["score"] += count(array_intersect(array_map('strtolower', $qs), array_map('strtolower', $words)));
                 break;
               }
 
