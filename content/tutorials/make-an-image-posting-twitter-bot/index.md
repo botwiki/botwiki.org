@@ -12,6 +12,9 @@ Tags: tutorial,twitter,openshift,images,node,nodejs,node.js,fourtonfish,botwiki-
   <p>Need help with this tutorial? Join <a href="https://botmakers.org/">the Botmakers community</a>!</p>
 </div>
 
+<div class="note" markdown="1">
+  Note: There is a [newer version of this tutorial](/tutorials/random-image-tweet/).
+</div>
 
 ### [¶](#what-is-a-bot){.pilcrow} What is a bot? {#what-is-a-bot}
 

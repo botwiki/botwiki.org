@@ -55,7 +55,8 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 - [How to make a retweet-via-DM Twitter bot using Glitch and node.js](https://botwiki.org/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/)
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
-- [Learn how to make an image posting Twitter bot with node.js and host it on OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
+- [Make a Twitter bot that tweets random images](/tutorials/random-image-tweet/)
+  - [Original version of the tutorial with OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
 - [Building Twitter Bots in Node.js](https://www.youtube.com/watch?v=xkNOKSNSoVI): a video tutorial by [Philip James](https://twitter.com/phildini)
 - A three-part in-depth tutorial by [@ursooperduper](https://twitter.com/ursooperduper)
