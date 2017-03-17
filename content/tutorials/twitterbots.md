@@ -56,6 +56,7 @@ With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will c
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Make a Twitter bot that tweets random images](/tutorials/random-image-tweet/)
+  - [Import this bot project to Glitch](/tutorials/importing-github-glitch/)
   - [Original version of the tutorial with OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
 - [Building Twitter Bots in Node.js](https://www.youtube.com/watch?v=xkNOKSNSoVI): a video tutorial by [Philip James](https://twitter.com/phildini)
