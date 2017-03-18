@@ -212,7 +212,13 @@ Alright, I am a bit disappointed by this site. It's overall very nice, but the b
 
 Here I'm just going to select everything under **Days**, **Months**, **Hours**, and 0 under **Minutes** so that my bot tweets once every hour.
 
+Be sure to use the URL for your app here, in my case that would be `https://random-image-twitterbot.glitch.me/`.
 
+Notice that I commented out the timer I used to trigger the image upload. Since our bot will go to sleep after five minutes of the app not getting any traffic, the function will only run a few times before the bot stops posting.
+
+Instead we can just run the function once, and it will be executed every time cron-job.org pings our app.
+
+And there you go, this is how you import a project from GitHub to Glitch.
 
 
 ### [¶](#conclusion){.pilcrow} In conclusion {#conclusion}
