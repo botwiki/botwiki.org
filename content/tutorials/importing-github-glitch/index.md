@@ -195,28 +195,34 @@ Hey, you can't complain, cause it's all free.
 
 ### [¶](#step-5){.pilcrow} Step 5: Staying awake {#step-5}
 
-Now for the final step. Glitch will automatically put your app to sleep after five minutes of no interaction. One of the Glitch engineers (do they call themselves *glitchers*?) [confirmed](https://support.glitch.com/t/a-simple-twitter-bot-template/747/16) that it's okay to use a web service to regularly ping your app every 25 minutes to wake it up.
+Now for the final step.
 
-It would be better if you could use [cron](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800), but hey, we'll take whatever we can.
+Glitch will automatically put your app to sleep after five minutes of not getting any traffic.
+
+What this means, your app needs to be getting actual http requests in order to stay awake, otherwise it will sleep, and only wake up once it receives traffic.
+
+One of the Glitch engineers (do they call themselves *glitchers*?) [confirmed](https://support.glitch.com/t/a-simple-twitter-bot-template/747/16) that it's okay to use a web service to regularly ping your app every 25 minutes to wake it up.
+
+It would be better if you could directly use [cron](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800), but hey, we'll take whatever we can.
 
 There seems to be several [`free web cron`](https://www.google.com/search?q=free+web+cron) services. I am going to go with [cron-job.org](https://cron-job.org/en/), because they're free and open souce. And they're the first result.
 
 
 ![cron-job.org](/content/tutorials/importing-github-glitch/images/cron-job-org.png){.centered}
 
+Be sure to use the URL for your app here, in my case that would be `https://random-image-twitterbot.glitch.me/`.
 
-Alright, I am a bit disappointed by this site. It's overall very nice, but the basic scheduling only goes up to every 30 minutes. So if you want to ping your bot every hour, you have to go with the custom setup.
+![Basic info](/content/tutorials/importing-github-glitch/images/cron-basics.png){.centered}
 
+On this particular site, the basic scheduling only goes up to every 30 minutes, so I have to go with the custom setup.
 
 ![Cron it up](/content/tutorials/importing-github-glitch/images/cron-it-up.png){.centered}
 
 Here I'm just going to select everything under **Days**, **Months**, **Hours**, and 0 under **Minutes** so that my bot tweets once every hour.
 
-Be sure to use the URL for your app here, in my case that would be `https://random-image-twitterbot.glitch.me/`.
+Notice that back in the `server.js` file I commented out the timer I used to trigger the image upload every 10 seconds. Since our bot will go to sleep after five minutes, the function will only run a few times before the bot stops posting.
 
-Notice that I commented out the timer I used to trigger the image upload. Since our bot will go to sleep after five minutes of the app not getting any traffic, the function will only run a few times before the bot stops posting.
-
-Instead we can just run the function once, and it will be executed every time cron-job.org pings our app.
+Instead we can just run the function once, and it will be executed every time cron-job.org pings our app and wakes up the bot.
 
 And there you go, this is how you import a project from GitHub to Glitch.
 
