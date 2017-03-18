@@ -1,44 +1,54 @@
 /*
-Title: Importing a bot project from GitHub to Glitch
+Title: Importing a node.js bot from GitHub to Glitch
 Description: A quick guide on importing a GitHub project to Glitch
 Thumbnail: /content/tutorials/importing-github-glitch/images/import-from-github.png
 Has code: yes
 Show donation link: yes
 Date: March 16, 2017
-Tags: tutorial,guide,import,github,glitch,gomix,hyperdev,fourtonfish,botwiki-original
+Tags: tutorial,guide,import,github,glitch,hyperdev,fourtonfish,botwiki-original
 */
 
-<div class="note">
-  <p>Need help with this tutorial? Join <a href="https://botmakers.org/">the Botmakers community</a>!</p>
+<div class="note" markdown="1">
+  Need help with this tutorial? [Ask in the Botmakers community!](https://botmakers.org/)
 </div>
 
 
-### [¶](#what-is-glitch){.pilcrow} Artist formerly known as Gomix. And HyperDev. {#what-is-glitch}
+### [¶](#glitch){.pilcrow} Artist formerly known as HyperDev {#glitch}
 
 
 [Glitch](https://glitch.com) is a really awesome and free app/website that lets you [create and remix all kinds of fun apps](https://glitch.com/about/), including [bots](https://glitch.com/handy-bots).
 
-I already wrote one tutorial that shows you [how to start a new bot project on Glitch](/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/). But what if you want to take one of the [open source node.js bots](/tag/bot+opensource+nodejs/) and import it from GitHub to Glitch?
+I already wrote one tutorial that shows you [how to start a new bot project on Glitch](/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/), and I put together a [Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot). But what if you want to take one of the [open source node.js bots](/tag/bot+opensource+nodejs/) and import it from GitHub to Glitch?
 
 My friend, did you open just the right tutorial.
 
-### [¶](#step-1){.pilcrow} Step 1: Sign in {#step-1}
+We are going to use my [random-image-twitterbot](https://github.com/fourtonfish/random-image-twitterbot) template ([find a tutorial for it here](/tutorials/random-image-tweet/)). 
+Note that this tutorial may be a bit more advanced due to how certain things in Glitch work. For example, the `random-image-twitterbot` source code contains an `images` folder that will become invisible after you import it from GitHub, and while the bot will happily tweet the images from it, you will not be able to add or remove them.
 
-Let's start by [opening up Glitch](https://glitch.com/).
+Yes, you can upload your images to the `assets` folder, but it turns out that Glitch doesn't actually store the files in that folder. Instead, it uploads the images to a CDN and only keeps a list with URLs inside a file called `.glitch-assets`.
 
-![Sign in](/content/tutorials/importing-github-glitch/images/sign-in.png){.centered}
+Oh, and your bot will go to sleep after running for five minutes.
 
-You have two options here: use your GitHub account, or Facebook.
+Don't fret, there's a solution for all of this.
+
+Before we embark on this journey together, [feel free to check out the refactored code here](https://glitch.com/edit/#!/random-image-twitterbot).
 
 
-### [¶](#step-2){.pilcrow} Step 2: Create a new project {#step-2}
+This guide will be specific to this one bot, but you will learn quite a bit about how Glitch works, and hopefully be able to apply this knowledge when importing other open source bots, or open source projects in general into Glitch.
+
+
+Yep, there's quite a bit of work ahead of us. We'll start whenever you're ready!
+
+
+### [¶](#step-1){.pilcrow} Step 1: Importing a project {#step-1}
+
+
+Welcome back!
+
+Alright, let's [open up Glitch](https://glitch.com/) and create a new project.
+
 
 ![New Glitch project](/content/tutorials/importing-github-glitch/images/new-project.png){.centered}
-
-If you already have a few projects, create a new one. If this is your first time signing in, you can use the one that was just created for you.
-
-
-### [¶](#step-3){.pilcrow} Step 3: Import a project from GitHub {#step-3}
 
 
 Click the name of your project in the top left corner. This will bring up a menu. Click the **Advanced Options** button at the bottom.
@@ -53,26 +63,29 @@ Now, back on Glitch, click **Import from GitHub**. Use the text you copied above
 
 
 
-### [¶](#step-4){.pilcrow} Step 4: API keys {#step-4}
+### [¶](#step-2){.pilcrow} Step 2: API keys {#step-2}
 
 
-Great, we have a copy of the [random-image-tweet](https://github.com/fourtonfish/random-image-twitterbot) bot ([find a tutorial for it here](/tutorials/random-image-tweet/)). Go ahead and elete the `config-example.js` file.
+Go ahead and delete the `config-example.js` file.
 
 
 ![Delete config-example.js](/content/tutorials/importing-github-glitch/images/delete-config-example.png){.centered}
 
-Click the `.env` file in the sidebar on the left side.
-
-![Default .env](/content/tutorials/importing-github-glitch/images/env-default.png){.centered}
-
-[Follow this tutorial](/tutorials/how-to-create-a-twitter-app/) to create a new Twitter app. At the end, you should have the following information:
+[You can follow this tutorial](/tutorials/how-to-create-a-twitter-app/) to create a new Twitter app. At the end, you should have the following information:
 
 - **Consumer Key**
 - **Consumer Secret**
 - **Access Token**
 - **Access Token Secret**
 
-Go back to your `.env` file and update it with the following code:
+
+Switch to your `.env` file, -- 
+
+
+![Default .env](/content/tutorials/importing-github-glitch/images/env-default.png){.centered}
+
+
+-- and update it with the following code:
 
 
 ```
@@ -82,6 +95,7 @@ ACCESS_TOKEN='123456789'
 ACCESS_TOKEN_SECRET='123456789'
 
 ```
+
 
 (Naturally, use your own API keys/secrets instead of `123456789`.)
 
@@ -97,7 +111,10 @@ config = {
 
 ```
 
-Now, update the `package.json` file to look like this:
+This part may differ slightly across various codebases, but the bottom line is that you have to save your API keys into the `.env` file (the actual API keys will be hidden when another user looks at your source code).
+
+
+Next, update the `package.json` file to look like this:
 
 
 ```
@@ -121,7 +138,8 @@ Now, update the `package.json` file to look like this:
   },
   "keywords": [
     "node",
-    "gomix",
+    "glitch",
+    "hyperdev",
     "twitter",
     "twitterbot",
     "bot"
@@ -129,28 +147,78 @@ Now, update the `package.json` file to look like this:
 }
 ```
 
-(Feel free to change the `name` and `description`.)
+You can add more modules/libraries under `dependencies`, change the `name` and `description`, but the important part is that you include this:
 
-Your bot will start tweeting at this point, and while it would be nice to say we're done, hold your proverbial horses. Glitch has a few limitations we need to talk about here.
+```
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+```
 
-First, the folder with images is there in your project, and your bot is posting them as we speak, unless anything changed since I wrote this guide, you can't actually see those files, and what's worse, you can't upload your own images.
+And, of course, your main script file should be called `server.js`.
 
-Don't fret, there's always a solution.
+(I *think* you just need to match the name of the file with the `node ***` command, but I'm just sticking to the default `server.js` name here.)
 
-We can upload the images to the `assets` folder and update our bot to use that one instead.
+If you did everything correctly, your bot will start tweeting at this point.
 
-Whenever you're ready!
 
-### [¶](#step-5){.pilcrow} Step 5: Oh {#step-5}
+### [¶](#step-3){.pilcrow} Step 3: Images {#step-3}
 
-Welcome back!
+As mentioned earlier, the original source code comes with a folder called `images`. But after you import the project into Glitch, it appears to have disappeared.
 
-Alright, so as I was writing what was supposed to be a short guide where we mainly rename files and move some code around, I run into a few roadbloacks.
+This folder is still present, but we need to download the images separately [from the GitHub repo](https://github.com/fourtonfish/random-image-twitterbot) and upload them into the `assets` folder.
 
-First of all, it turns out Glitch doesn't actually store the files you upload to the `assets` folder. Instead, it uploads them to a CDN and keeps the list of uploaded files inside a file called `.glitch-assets`. While interesting, this makes adapting some open source bots a bit tricky.
 
-I would like to write more about what I learned on the way, but until then, check out the refactored code [here on Glitch](https://glitch.com/edit/#!/random-image-twitterbot), mainly the updated `server.js`.
+### [¶](#step-4){.pilcrow} Step 4: The big refactor {#step-4}
 
-The main difference is that we're now using `upload_random_image_remote()` to load the images from CDN into memory, and sending them directly to Twitter for upload. And to get the list of uploaded images we read the `.glitch-assets` file.
+This part might differ with other bots, but in our case, we just need to load the images from CDN instead of the `images` folder.
 
-Thanks for following along, stay tuned for updates to this guide -- and be sure to [say hi in the Botmakers community](https://botmakers.org/) :-)
+Here, again, [is the refactored code](https://glitch.com/edit/#!/random-image-twitterbot) (see the `server.js` file).
+
+Notice the `upload_random_image_remote` function. I am using the [`request`](http://stackabuse.com/the-node-js-request-module/) module to fetch an image from the CDN.
+
+The part where we upload the image and post it to Twitter is essentially the same. ([Read here](https://dev.twitter.com/rest/reference/post/media/upload), in case you're wondering about the `base64` thing.)
+
+I also added the `extension_check` function, which filters out any non-image uploads.
+
+We're kicking it all off by reading the `.glitch-assets` file, which, like I said, has references to all the uploaded files.
+
+Now, if you're working with a bot that uses other types of files, it might be a bit tricky. Let's say your bot works with text files, for example.
+
+All the files and folders will be imported from the original repo, and the bot should work without any updates to the actual source code (just follow the steps one and two above). The only problem will be if you want to add, remove, or update some of the files.
+
+
+Also, note that apparently you can create folders by creating new files with names like `folder/folder/filename.txt`, which creates the folders, but you will not be able to easily browse them or add easily add more files -- only using this "trick".
+
+Hey, you can't complain, cause it's all free.
+
+### [¶](#step-5){.pilcrow} Step 5: Staying awake {#step-5}
+
+Now for the final step. Glitch will automatically put your app to sleep after five minutes of no interaction. One of the Glitch engineers (do they call themselves *glitchers*?) [confirmed](https://support.glitch.com/t/a-simple-twitter-bot-template/747/16) that it's okay to use a web service to regularly ping your app every 25 minutes to wake it up.
+
+It would be better if you could use [cron](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800), but hey, we'll take whatever we can.
+
+There seems to be several [`free web cron`](https://www.google.com/search?q=free+web+cron) services. I am going to go with [cron-job.org](https://cron-job.org/en/), because they're free and open souce. And they're the first result.
+
+
+![cron-job.org](/content/tutorials/importing-github-glitch/images/cron-job-org.png){.centered}
+
+
+Alright, I am a bit disappointed by this site. It's overall very nice, but the basic scheduling only goes up to every 30 minutes. So if you want to ping your bot every hour, you have to go with the custom setup.
+
+
+![Cron it up](/content/tutorials/importing-github-glitch/images/cron-it-up.png){.centered}
+
+Here I'm just going to select everything under **Days**, **Months**, **Hours**, and 0 under **Minutes** so that my bot tweets once every hour.
+
+
+
+
+### [¶](#conclusion){.pilcrow} In conclusion {#conclusion}
+
+
+I'd be happy to add more steps here, if anyone wants to share their experience importing open source code from GitHub; you can email me at [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com), or [stop by in the Botmakers community](https://botmakers.org/) :-)
+
+
+Thanks for following along, and keep making cool stuff!
