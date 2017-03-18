@@ -189,7 +189,7 @@ Now, if you're working with a bot that uses other types of files, it might be a 
 All the files and folders will be imported from the original repo, and the bot should work without any updates to the actual source code (just follow the steps one and two above). The only problem will be if you want to add, remove, or update some of the files.
 
 
-Also, note that apparently you can create folders by creating new files with names like `folder/folder/filename.txt`, which creates the folders, but you will not be able to easily browse them or add easily add more files -- only using this "trick".
+Also, note that apparently you can create folders by creating new files with names like `folder/folder/filename.txt`, which creates the folders, but you will not be able to browse them or easily add more files -- only using this "trick".
 
 Hey, you can't complain, cause it's all free.
 
