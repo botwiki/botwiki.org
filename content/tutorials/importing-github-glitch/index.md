@@ -210,7 +210,7 @@ There seems to be several [`free web cron`](https://www.google.com/search?q=free
 
 ![cron-job.org](/content/tutorials/importing-github-glitch/images/cron-job-org.png){.centered}
 
-Be sure to use the URL for your app here, in my case that would be `https://random-image-twitterbot.glitch.me/`.
+Be sure to use the URL for your app here, in my case that would be `https://random-image-twitterbot.glitch.me`.
 
 ![Basic info](/content/tutorials/importing-github-glitch/images/cron-basics.png){.centered}
 
