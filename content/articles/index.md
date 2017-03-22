@@ -62,6 +62,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Bots as social utilities and persuaders](https://twitter.com/i/moments/803330718722048001), a Twitter essay by [@wayspurrchen](https://twitter.com/wayspurrchen)
 - [My friend, the bot](https://medium.com/@hautepop/my-friend-the-bot-373e3b7dac60) (Jay Owens via medium.com)
 - [Towards a sustainable bot ecosystem](https://medium.com/@katierosepipkin/towards-a-sustainable-bot-ecosystem-31c849b7ab93) (Katie Rose Pipkin via medium.com)
+- [I Automated My Friends and Nobody Could Tell the Difference](https://latenightcoding.co/i-automated-my-friends/) (latenightcoding.co)
 
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 

@@ -35,6 +35,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [UX for conversational interfaces](https://chatbotnewsdaily.com/ux-for-conversational-interfaces-fb838c83eb8e) (chatbotnewsdaily.com)
 - [Looking at how people text](https://medium.com/assist/looking-at-how-people-text-8cbac575f774) (Stéphane Nguyen H T via medium.com)
 - [Making Chatbots Talk — Writing Conversational UI Scripts Step by Step](https://uxdesign.cc/making-chatbots-talk-writing-conversational-ui-scripts-step-by-step-62622abfb5cf) (uxdesign.cc)
+- [Understanding How Conversations Work: The Key to a Better Voice UI](https://developers.google.com/actions/design/how-conversations-work) (developers.google.com)
 
 ### [¶](#unsorted){.pilcrow} Other/unsorted {#unsorted}
 

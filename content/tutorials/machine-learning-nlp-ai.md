@@ -33,6 +33,7 @@ Nav: hidden
 
 ### [¶](#machine-learning){.pilcrow} Machine learning {#machine-learning}
 
+- [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
 - [Machine Learning Crash Course]: [Part one](http://ml.berkeley.edu/blog/2016/11/06/tutorial-1/), and [part two](http://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) (ml.berkeley.edu)
@@ -99,6 +100,10 @@ Nav: hidden
 Resynthesis for Gaze Manipulation
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
 
+
+### [¶](#see-also){.pilcrow} See also {#see-also}
+
+- [Distill](http://distill.pub/): Latest articles about machine learning (distill.pub)
 
 Be sure to join us at [botmakers.org](https://botmakers.org/)!
 
