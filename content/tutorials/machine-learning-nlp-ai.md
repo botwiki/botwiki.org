@@ -90,6 +90,7 @@ Nav: hidden
 
 - [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 - [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
+- [Pix2Pix image translation using conditional adversarial network - sketch to face](https://richliao.github.io/2017/02/17/pix2pix-image-translation-using-conditional-adversarial-network-sketch-to-face/) (richliao.github.io)
 - [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow)
 - [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
 - [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
