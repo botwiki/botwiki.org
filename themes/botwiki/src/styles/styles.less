@@ -59,10 +59,10 @@ aside, nav, article, figure{
 }
 
 article{
-/*
-  overflow: auto;
-*/
+/* overflow: auto; */
 }
+
+
 
 div.search-results-intro{
   padding-bottom: 2em;
@@ -71,10 +71,14 @@ div.search-results-intro{
 article h1, 
 article h2,
 div.search-results-intro{
+  max-width: 1200px;
+  margin: 0 auto;
   animation: reveal 0.4s normal forwards ease-in-out;
 }
 
 div.content-wrapper{
+  max-width: 1200px;
+  margin: 0 auto;
   animation: reveal 0.6s normal forwards ease-in-out;
 }
 
@@ -164,9 +168,13 @@ a{
 }
 
 h1, h2, h3, h4, h5, h6{
+  max-width: 1200px;
+  margin: 0 auto;
   font-family: 'Fjalla One', serif;  
   color: @main-color;
   line-height: 1.2em;
+  max-width: site-width;
+  margin: 0 auto;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
     padding: 1rem 2rem;
@@ -312,24 +320,32 @@ section.footer-lists{
   margin: 1em auto 3em;
 }
 
-footer ul.footer-list{
-  list-style-type: none;
-  display: inline-block;
-  vertical-align: top;
-  width: 25%;
-  min-height: 265px;
-  margin: 0;
-  padding: 1em;
-  float: left;
-  @media (max-width : 900px){
-    width: 50%;
-    padding: 1em 0;
+footer{
+  div.inner{
+    max-width: @site-width;
+    margin: 0 auto;    
   }
-  @media (max-width : 700px){
-    width: 100%;
-    text-align: center;
+
+  ul.footer-list{
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    min-height: 265px;
+    margin: 0;
+    padding: 1em;
+    float: left;
+    @media (max-width : 900px){
+      width: 50%;
+      padding: 1em 0;
+    }
+    @media (max-width : 700px){
+      width: 100%;
+      text-align: center;
+    }
   }
 }
+
 
 .centered{
   display: block;
@@ -354,13 +370,22 @@ img.extra-margin{
 
 div.header-image{
   margin: 0 0 -5px; /* ??? */
+  text-align: center;
+
   img{
-    min-height: 300px;
+    width: 100%;
+    min-height: 50px;
+
+    @media (min-width: @site-width-small){
+      min-height: 300px;
+    }
+
     &.header-image-small{
       @media (min-width: @site-width-small){
         display: none;
       }
     }
+
     &.header-image-large{
       @media (max-width: @site-width-small){
         display: none;
@@ -430,51 +455,40 @@ div.all-tags{
   a{ 
     color: #5D9CEC; 
     padding-bottom: 8px;
+
+    &, &:hover{
+      transition: border 0.1s;
+    }
   }
 
-  h1 a{
-    font-family: 'Fjalla One', serif;  
+
+  h1{ 
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 5px 0; 
+    float: left;
+
+    a{
+      font-family: 'Fjalla One', serif;  
+    }
   }
-}
 
-#header h1 a,
-#header a:hover{ 
-  color: #fff;
-  text-decoration: none;
-}
 
-#header nav a:hover{ 
-  @media (min-width : 912px){
-    border-bottom: 3px solid #F5F5F5; 
+  h1 a,
+  a:hover{ 
+    color: #fff;
+    text-decoration: none;
   }
-}
 
-#header a,
-#header a:hover{ 
-  transition: border 0.1s;
-}
+  h1 a:hover{ 
+    text-decoration: none;
+  }
 
-#header h1 a:hover{ 
-  text-decoration: none;
-}
-
-#header h1{ 
-  font-size: 1.6em;
-  font-weight: bold;
-  margin: 5px 0; 
-  float: left;
-}
-
-header,
-footer{
-  max-width: @site-width;
-  margin: 0 auto;
-}
-
-
-header .inner,
-footer .inner{
-  max-width: @site-width;
+  nav a:hover{ 
+    @media (min-width : 912px){
+      border-bottom: 3px solid #F5F5F5; 
+    }
+  }
 }
 
 li.active a{
@@ -601,7 +615,6 @@ div.search-results-intro{
 
 div#content-wrapper{
   margin: 0 auto;
-  max-width: @site-width;
   @media (max-width: @site-width-small){
     margin-top: 2em;    
   }
@@ -835,7 +848,7 @@ div.search-item{
   font-weight: bold;
   font-style: italic;
   background-color: #F7E967;
-  margin: 0;
+  margin: 2em 0;
   padding: 0;
   p{
     padding: 1.5rem !important;

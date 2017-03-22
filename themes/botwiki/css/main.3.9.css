@@ -1619,9 +1619,7 @@ figure {
   display: block;
 }
 article {
-  /*
-  overflow: auto;
-*/
+  /* overflow: auto; */
 }
 div.search-results-intro {
   padding-bottom: 2em;
@@ -1629,10 +1627,14 @@ div.search-results-intro {
 article h1,
 article h2,
 div.search-results-intro {
+  max-width: 1200px;
+  margin: 0 auto;
   -webkit-animation: reveal 0.4s normal forwards ease-in-out;
           animation: reveal 0.4s normal forwards ease-in-out;
 }
 div.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
   -webkit-animation: reveal 0.6s normal forwards ease-in-out;
           animation: reveal 0.6s normal forwards ease-in-out;
 }
@@ -1723,9 +1725,12 @@ h3,
 h4,
 h5,
 h6 {
+  max-width: 1200px;
   font-family: 'Fjalla One', serif;
   color: #38313a;
   line-height: 1.2em;
+  max-width: site-width;
+  margin: 0 auto;
   padding: 0.5rem;
 }
 @media (min-width: 860px) {
@@ -1873,6 +1878,10 @@ hr {
 section.footer-lists {
   margin: 1em auto 3em;
 }
+footer div.inner {
+  max-width: 1500px;
+  margin: 0 auto;
+}
 footer ul.footer-list {
   list-style-type: none;
   display: inline-block;
@@ -1915,9 +1924,16 @@ img.centered {
 div.header-image {
   margin: 0 0 -5px;
   /* ??? */
+  text-align: center;
 }
 div.header-image img {
-  min-height: 300px;
+  width: 100%;
+  min-height: 50px;
+}
+@media (min-width: 860px) {
+  div.header-image img {
+    min-height: 300px;
+  }
 }
 @media (min-width: 860px) {
   div.header-image img.header-image-small {
@@ -1984,6 +2000,16 @@ div.all-tags a {
   color: #5D9CEC;
   padding-bottom: 8px;
 }
+#header a,
+#header a:hover {
+  transition: border 0.1s;
+}
+#header h1 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin: 5px 0;
+  float: left;
+}
 #header h1 a {
   font-family: 'Fjalla One', serif;
 }
@@ -1992,32 +2018,13 @@ div.all-tags a {
   color: #fff;
   text-decoration: none;
 }
+#header h1 a:hover {
+  text-decoration: none;
+}
 @media (min-width: 912px) {
   #header nav a:hover {
     border-bottom: 3px solid #F5F5F5;
   }
-}
-#header a,
-#header a:hover {
-  transition: border 0.1s;
-}
-#header h1 a:hover {
-  text-decoration: none;
-}
-#header h1 {
-  font-size: 1.6em;
-  font-weight: bold;
-  margin: 5px 0;
-  float: left;
-}
-header,
-footer {
-  max-width: 1500px;
-  margin: 0 auto;
-}
-header .inner,
-footer .inner {
-  max-width: 1500px;
 }
 @media (min-width: 860px) {
   li.active a {
@@ -2128,7 +2135,6 @@ div.search-results-intro h2 {
 }
 div#content-wrapper {
   margin: 0 auto;
-  max-width: 1500px;
 }
 @media (max-width: 860px) {
   div#content-wrapper {
@@ -2344,7 +2350,7 @@ div.search-item {
   font-weight: bold;
   font-style: italic;
   background-color: #F7E967;
-  margin: 0;
+  margin: 2em 0;
   padding: 0;
 }
 .note p {
