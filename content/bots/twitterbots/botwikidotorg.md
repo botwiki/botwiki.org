@@ -14,4 +14,4 @@ Robots: index,follow
 [@botwikidotorg](https://twitter.com/botwikidotorg) is the official, semi-automated Botwiki Twitter account created by [@fourtonfish](https://twitter.com/fourtonfish).
 
 
-An [older version](https://github.com/botwiki/community-retweet-bot) of this bot would @ mentions from the whitelisted accounts of Botwiki maintainers (the current version [works with DMs](https://botwiki.org/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/)).
+An [older version](https://github.com/botwiki/community-retweet-bot) of this bot would retweet @ mentions from the whitelisted accounts of Botwiki maintainers (the current version [works with DMs](https://botwiki.org/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/)).
