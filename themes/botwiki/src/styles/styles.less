@@ -376,7 +376,7 @@ div.header-image{
     width: 100%;
     min-height: 50px;
 
-    @media (min-width: @site-width-small){
+    @media (min-width: @site-width-medium){
       min-height: 300px;
     }
 
@@ -937,7 +937,13 @@ div.article-thumbnail{
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
-  min-height: 330px;
+  min-height: 50px;
+
+  @media (min-width: @site-width-small){
+    min-height: 250px;
+  }
+
+
   a{
     display: block;
     line-height: 0;

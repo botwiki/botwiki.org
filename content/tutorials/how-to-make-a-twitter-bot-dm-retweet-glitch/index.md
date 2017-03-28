@@ -14,7 +14,9 @@ Tags: tutorial,twitter,glitch,gomix,node,nodejs,twit,node.js,fourtonfish,botwiki
 
 ### Update
 
-Due to how Twitter API works, Glitch is not a suitable platform for hosting this kind of a bot. Feel free to follow the tutorial below to learn about how Twitter bots work. Alternatively, you can take your finished code and [find a hosting platform](https://botwiki.org/tutorials/bot-hosting) that lets you run your app non-stop. You could also rewrite the bot to work with @ mentions, similar to the original version of [@botwikidotorg](/bots/twitterbots/botwikidotorg/); [this Glitch project](https://glitch.com/edit/#!/twitterbot-mentions) will give you some hints on how to do this.
+Due to how Twitter API works, Glitch is not a suitable platform for hosting this kind of a bot. Feel free to follow the tutorial below to learn about how Twitter bots work. Alternatively, you can take your finished code and [find a hosting platform](https://botwiki.org/tutorials/bot-hosting) that lets you run your app non-stop.
+
+You could also use [this Glitch project](https://glitch.com/edit/#!/twitterbot-autorespond) that shows how to properly handle responding to @ mentions and DMs.
 
 The original tutorial continues below.
 

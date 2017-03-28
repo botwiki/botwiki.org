@@ -1930,7 +1930,7 @@ div.header-image img {
   width: 100%;
   min-height: 50px;
 }
-@media (min-width: 860px) {
+@media (min-width: 1040px) {
   div.header-image img {
     min-height: 300px;
   }
@@ -2430,7 +2430,12 @@ div.article-thumbnail {
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
-  min-height: 330px;
+  min-height: 50px;
+}
+@media (min-width: 860px) {
+  div.article-thumbnail {
+    min-height: 250px;
+  }
 }
 div.article-thumbnail a {
   display: block;
