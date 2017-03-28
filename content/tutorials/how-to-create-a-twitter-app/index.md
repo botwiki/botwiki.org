@@ -48,7 +48,7 @@ We are going to need four things from this page:
 
 (You need to click the button in the **Your Access Token** section to generate the last two.)
 
-Also, if necessary, change the permissions to allow access to DMs.
+Also, if necessary, change the permissions to allow access to DMs. (You will need to re-generate your tokens after changing permissions.)
 
 ![Permissions](/content/tutorials/how-to-create-a-twitter-app/images/permissions.png){.centered}
 
