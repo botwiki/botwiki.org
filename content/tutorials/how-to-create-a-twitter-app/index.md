@@ -48,6 +48,10 @@ We are going to need four things from this page:
 
 (You need to click the button in the **Your Access Token** section to generate the last two.)
 
+Also, if necessary, change the permissions to allow access to DMs.
+
+![Permissions](/content/tutorials/make-an-image-posting-twitter-bot/images/permissions.png){.centered}
+
 There you go, these are the magical API keys you are going to need to breathe life into your shiny new bot. 
 
 Now, go check out some [Twitter bot tutorials](/tutorials/twitterbots) -- and be sure to share your creations with the [Botmakers community](https://botmakers.org/)!
