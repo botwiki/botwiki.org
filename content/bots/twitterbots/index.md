@@ -70,7 +70,7 @@ Browse [all Twitter bots](/tag/twitterbot).
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members)
 - [XKCD Bots](https://twitter.com/botwikidotorg/lists/xkcd-bots): bots inspired by the [xkcd webcomic](https://xkcd.com/)
 
-#### [¶](#lists-of-twitter-bots-general){.pilcrow} General {#lists-of-twitter-general}
+#### [¶](#lists-of-twitter-bots-general){.pilcrow} General {#lists-of-twitter-bots-general}
 
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 - [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery/members), maintained by [@hugovk](https://twitter.com/hugovk)
@@ -85,14 +85,14 @@ See also:
 
 - [Interactive Fiction's Twitter Bots](https://farfarfutures.wordpress.com/2016/05/31/interactive-fictions-twitter-bots/) (farfarfutures.wordpress.com)
 
-#### [¶](#lists-of-twitter-bots-science-education){.pilcrow} Science, education {#lists-of-twitter-science-education}
+#### [¶](#lists-of-twitter-bots-science-education){.pilcrow} Science, education {#lists-of-twitter-bots-science-education}
 
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
 - [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R. M. Livingstone](https://twitter.com/Rmlivingstone)
 - [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots/members), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
 - [Museum Bots](https://twitter.com/backspace/lists/museum-bots/members), maintained by [John Emerson](https://twitter.com/backspace)
 
-#### [¶](#lists-of-twitter-bots-non-english){.pilcrow} Non-English bots {#lists-of-twitter-non-english}
+#### [¶](#lists-of-twitter-bots-non-english){.pilcrow} Non-English bots {#lists-of-twitter-bots-non-english}
 
 - [Bots tweeting in Finnish](https://twitter.com/hugovk/lists/finnish-bots/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots tweeting in German](https://twitter.com/ojahnn/lists/deutsche-twitterbots/members), maintained by [Esther Seyffarth](https://twitter.com/ojahnn)
