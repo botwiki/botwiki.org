@@ -2,6 +2,8 @@
 
 <img style="max-width:100%;" src="content/images/botwiki-960x150.png">
 
+![Botwiki](/content/images/botwiki-nixiebot-1500px.jpg)
+
 ***Note: All members of the Botwiki.org team and contributors must read, understand and follow our official [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md).***
 
 ***Note: If you want to join the official Botwiki.org and/or Botmakers.org team, [read this](https://github.com/botwiki/botwiki.org/blob/master/HELP-WANTED.md).***
