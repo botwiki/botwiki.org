@@ -23,6 +23,7 @@ Nav: hidden
 
 ### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
+- [Facebook Messenger ChatBot in Node.js - Weather Lookup](https://glitch.com/edit/#!/fb-messenger-weather-bot) ([Tomomi Imura](https://twitter.com/girlie_mac) via glitch.com)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
 - [Quickstart Bots for Messenger from Localhost](https://medium.com/@ThomasBrd/in-this-quick-post-we-will-see-how-to-configure-and-quickstart-a-facebook-messenger-bot-plateform-86dcc013741d)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)

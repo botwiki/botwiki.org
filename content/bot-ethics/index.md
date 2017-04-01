@@ -95,6 +95,7 @@ Nav: hidden
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
+- [Why Humans Love Robots Like People](http://www.thedailybeast.com/articles/2017/03/25/why-humans-are-primed-to-love-robots.html)
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
 - [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
 - [Humans 'will bully robot cars', Mercedes chief warns](http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/) (telegraph.co.uk)
@@ -104,6 +105,7 @@ Nav: hidden
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
+- [What do we talk about when we talk about AI ethics?](https://www.linkedin.com/pulse/what-do-we-talk-when-ai-ethics-virginia-dignum) (Virginia Dignum via linkedin.com)
 - [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) ([Amir Shevat](https://twitter.com/ashevat) via techcrunch.com)
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)
 - [How Tech Giants Are Devising Real Ethics for Artificial Intelligence](http://www.nytimes.com/2016/09/02/technology/artificial-intelligence-ethics.html) (nytimes.com)
