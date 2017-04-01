@@ -56,6 +56,7 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [Generative bots](/tag/twitter+bot+generative/)
 - [Non-English bots](/tag/twitter+bot+non-english)
 - [Internet of Things (IoT) bots](/tag/twitter+bot+iot)
+- [Interactive bots](/tag/twitter+bot+interactive)
 - [Open source bots](/tag/twitter+bot+opensource)
 
 

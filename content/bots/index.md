@@ -79,6 +79,7 @@ Thanks for checking out **Botwiki**!
 - [Generative bots](/tag/bot+generative/)
 - [Non-English bots](/tag/bot+non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
+- [Interactive bots](/tag/bot+interactive)
 - [Open source bots](/tag/bot+opensource)
 - [Winners of the Monthly Bot Challenge](/tag/bot+monthlybotchallenge+winner)
 
