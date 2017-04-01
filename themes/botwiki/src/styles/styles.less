@@ -311,7 +311,6 @@ iframe.twitter-tweet,
 iframe,
 .twitter-tweet{
   display: block;
-  max-width: 100%;
 }
 
 .twitter-tweet.twitter-tweet-rendered{
@@ -719,7 +718,6 @@ div#main{
 
 div#main p,
 p.screenshot{
-  max-width: @max-content-width;
   margin: 1em auto;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
@@ -727,9 +725,13 @@ p.screenshot{
   }
 }
 
+div#main p{
+  max-width: @max-content-width;  
+}
+
 p.screenshot{
-  @media (min-width : 800px){
-    max-width: 50%;
+  @media (min-width: 800px){
+    max-width: 50% !important;
   }
 }
 
