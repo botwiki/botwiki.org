@@ -16,7 +16,6 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Selected articles](#selected-articles)
 - [Books and other literature](#books)
 - [Videos](#videos)
-- [See also](#see-also)
 
 ### [¶](#blogs-and-websites){.pilcrow} Blogs and websites {#blogs-and-websites}
 
@@ -64,6 +63,12 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Towards a sustainable bot ecosystem](https://medium.com/@katierosepipkin/towards-a-sustainable-bot-ecosystem-31c849b7ab93) (Katie Rose Pipkin via medium.com)
 - [I Automated My Friends and Nobody Could Tell the Difference](https://latenightcoding.co/i-automated-my-friends/) (latenightcoding.co)
 
+#### See also
+
+- [Bot ethics](/bot-ethics)
+- [Bot Summit](/tag/event+botsummit/)
+
+
 ### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
 
 - [2017](/articles/selected-articles/2017)
@@ -86,10 +91,6 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [A session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
 - [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM) ([George Buckenham](https://twitter.com/v21))
 - [Videos from the alt-AI conference](http://alt-ai.net/#watch) (learn more about the event [here](/events/alt-ai-may-2016/))
-
-### [¶](#see-also){.pilcrow} See also {#see-also}
-
-- [Bot ethics](/bot-ethics)
 
 
 ***Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or [Tweet at us](https://twitter.com/botwikidotorg) (or directly [@fourtonfish](https://twitter.com/fourtonfish)).***
