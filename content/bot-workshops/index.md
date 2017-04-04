@@ -8,7 +8,7 @@ Nav: hidden
 
 Botwiki's Bot Workshops are envisioned as a series of events (mostly online, possibly also offline) for botmakers of all levels of technical expertise: artists, tinkerers, enthusiasts, seasoned pros.
 
-Watch out first workshop [below](#botmaking-from-the-ground-up), and follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates on future events!
+Watch our first workshop [below](#botmaking-from-the-ground-up), and follow [@botwikidotorg](https://twitter.com/botwikidotorg) for updates on future events!
 
 
 <!--
