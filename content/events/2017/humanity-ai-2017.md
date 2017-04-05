@@ -26,3 +26,4 @@ Tags: event,archived
 - [humanity.ai](http://www.humanity.ai/)
 - [10 Takeaways from Humanity.AI](https://ladyin.tech/10-takeaways-from-humanity-ai-404ab01104da#.8b57a95sm) (ladyin.tech)
 - [So You Missed the Humanity.ai Conference—Is Your FOMO Founded?](https://medium.com/capitalonedesign/so-you-missed-the-humanity-ai-conference-is-your-fomo-founded-99eaaf3717ca)
+- [Humanity.ai 2017 Videos](https://medium.com/capitalonedesign/humanity-ai-2017-videos-all-things-chatbots-757f5848e412)

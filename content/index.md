@@ -12,7 +12,7 @@ Show donation link: yes
 
 
 <div class="row">
-  <div class="col-sm-12 col-md-6" markdown=1>
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 
 Some examples of such bots include:
 

@@ -71,13 +71,16 @@ div.search-results-intro{
 article h1, 
 article h2,
 div.search-results-intro{
-  max-width: 1200px;
-  margin: 0 auto;
   animation: reveal 0.4s normal forwards ease-in-out;
 }
 
+article h1, 
+article h2{
+  max-width: @max-content-width;
+  margin: 0 auto;
+}
+
 div.content-wrapper{
-  max-width: 1200px;
   margin: 0 auto;
   animation: reveal 0.6s normal forwards ease-in-out;
 }
@@ -168,12 +171,11 @@ a{
 }
 
 h1, h2, h3, h4, h5, h6{
-  max-width: 1200px;
+  max-width: @max-content-width;
   margin: 0 auto;
   font-family: 'Fjalla One', serif;  
   color: @main-color;
   line-height: 1.2em;
-  max-width: site-width;
   margin: 0 auto;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
@@ -218,14 +220,20 @@ h4{
 }
 
 ol, ul{
-  margin: 1em 3rem;
+  max-width: @max-content-width;
+  margin: 1em auto;
+
+  padding-left: 2em;
 
   @media (min-width : @site-width-small){
-    margin: 1em 3rem;
-    padding-left: 2em;
+    padding-left: 4em;
   }
   ol, ul{
     margin: 0;
+    padding-left: 1em;
+    @media (min-width : @site-width-small){
+      padding-left: 2em;
+    }
   }
 }
 
@@ -284,10 +292,11 @@ pre{
 
 blockquote{
   font-style: italic;
-  margin: 2em 0 2em 4em;
+  max-width: @max-content-width;
+  margin: 2em auto 2em auto;
   padding-left: 10px;
   padding-bottom: 0;
-  border-left: 5px solid @background-color - #0a0a0a;
+  border-left: 8px solid @background-color - #333;
   @media(max-width: 900px){
     margin: 2em 0 2em 1em;
   }
@@ -302,7 +311,6 @@ iframe.twitter-tweet,
 iframe,
 .twitter-tweet{
   display: block;
-  max-width: 100%;
 }
 
 .twitter-tweet.twitter-tweet-rendered{
@@ -376,7 +384,7 @@ div.header-image{
     width: 100%;
     min-height: 50px;
 
-    @media (min-width: @site-width-small){
+    @media (min-width: @site-width-medium){
       min-height: 300px;
     }
 
@@ -516,6 +524,7 @@ ul#menu{
   margin-left: 0;
   padding-left: 0;
   text-align: center;
+  max-width: 100%;
   @media (max-width: @site-width-small){
     float: right;
     overflow: auto;
@@ -709,16 +718,20 @@ div#main{
 
 div#main p,
 p.screenshot{
-  margin: 1em 0;
+  margin: 1em auto;
   padding: 0.5rem;
   @media (min-width : @site-width-small){
     padding: 0.5rem 2rem;
   }
 }
 
+div#main p{
+  max-width: @max-content-width;  
+}
+
 p.screenshot{
-  @media (min-width : 800px){
-    max-width: 50%;
+  @media (min-width: 800px){
+    max-width: 50% !important;
   }
 }
 
@@ -796,6 +809,8 @@ footer#footer{
 
 div.sponsors-corporate-organizations{
   text-align: center;
+  max-width: @max-content-width;
+  margin: 0 auto;
 }
 
 div.sponsors-corporate-organizations img{
@@ -839,6 +854,8 @@ p.search-instructions code{
 }
 
 div.search-item{
+  max-width: @max-content-width;
+  margin: 0 auto;
   border-top: 1px solid #eee;
   padding: 2em 0 1em;
 }
@@ -894,7 +911,10 @@ ul.sharing-is-caring{
     margin: 10px;
   }
 
-  padding: 0;
+  @media (min-width: @site-width-small){
+    padding: 0 3em;
+  }
+
   list-style: none;
   li{
     display: inline;
@@ -937,7 +957,13 @@ div.article-thumbnail{
   text-align: center;
   padding-bottom: 0;
   margin-bottom: 1.5em;
-  min-height: 330px;
+  min-height: 50px;
+
+  @media (min-width: @site-width-small){
+    min-height: 250px;
+  }
+
+
   a{
     display: block;
     line-height: 0;
@@ -1215,4 +1241,12 @@ video {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* Grid system tweaks */
+
+div.row{
+  max-width: @max-content-width;
+  margin-left: auto;
+  margin-right: auto;
 }

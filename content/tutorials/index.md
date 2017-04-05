@@ -45,8 +45,9 @@ Choose the network on which you want to deploy your bot:
 
 ### [¶](#other){.pilcrow} See also {#other}
 
-- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223) (sailor mercury via medium.com)
+- [Bot Poetics](https://dl.dropboxusercontent.com/u/3116524/botpoetics.pdf) by [@galaxykate](https://twitter.com/galaxykate)
 - [Bots as art, games as teaching tools](https://medium.com/mozilla-festival/bots-as-art-games-as-teaching-tools-d4593e8f7b73) (Stevie Benton via medium.com)
+- [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223) (sailor mercury via medium.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) ([Paul Ford](https://twitter.com/ftrain) via bloomberg.com)
 - [Open-sourced bots](/tag/bot+opensource)
 - [The Long Game of Creativity](http://www.openculture.com/2015/04/the-long-game-of-creativity.html) (openculture.com)

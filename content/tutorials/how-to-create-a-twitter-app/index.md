@@ -1,7 +1,7 @@
 /*
 Title: How to create a Twitter app
 Description: First step before making a Twitter bot.
-Thumbnail: /content/tutorials/make-an-image-posting-twitter-bot/images/new-twitter-app.png
+Thumbnail: /content/tutorials/how-to-create-a-twitter-app/images/new-twitter-app.png
 Has code: yes
 Show donation link: yes
 Date: May 20, 2016
@@ -35,7 +35,7 @@ Once you have your phone number verified, go to [apps.twitter.com](https://apps.
 
 After that, fill in some basic information about your new app. You can leave the Callback URL field empty.
 
-![New Twitter app](/content/tutorials/make-an-image-posting-twitter-bot/images/new-twitter-app.png){.centered}
+![New Twitter app](/content/tutorials/how-to-create-a-twitter-app/images/new-twitter-app.png){.centered}
 
 Once you do that, switch to the **Keys and Access Tokens** tab. Under **Application Settings**, make sure that it says **Read and write** for your app's **Access level**.
 
@@ -47,6 +47,10 @@ We are going to need four things from this page:
 - **Access Token Secret**
 
 (You need to click the button in the **Your Access Token** section to generate the last two.)
+
+Also, if necessary, change the permissions to allow access to DMs. (You will need to re-generate your tokens after changing permissions.)
+
+![Permissions](/content/tutorials/how-to-create-a-twitter-app/images/permissions.png){.centered}
 
 There you go, these are the magical API keys you are going to need to breathe life into your shiny new bot. 
 
