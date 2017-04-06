@@ -14,12 +14,9 @@ Show donation link: yes
   </p>
 </div>
 
-<div class="note">
-  <p>
-    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
-  </p>
+<div class="note" markdown="1">
+This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)? Also, you can join the `#gnu-social-bots` channel on [Botmakers](https://botmakers.org/).
 </div>
-
 
 > GNU social (previously known as StatusNet and once known as Laconica) is a Free and open source software microblogging server written in PHP that implements the OStatus standard for interoperation between installations. While offering functionality similar to Twitter, GNU social seeks to provide the potential for open, inter-service and distributed communications between microblogging communities. Enterprises and individuals can install and control their own services and data.
 >

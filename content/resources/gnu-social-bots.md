@@ -7,11 +7,12 @@ Nav: hidden
 */
 
 
-<div class="note">
-  <p>
-    This is a fairly new section: <a href="https://github.com/botwiki/botwiki.org">would you like to contribute</a>?
-  </p>
+<div class="note" markdown="1">
+This is a fairly new section: [would you like to contribute](https://github.com/botwiki/botwiki.org)? Also, you can join the `#gnu-social-bots` channel on [Botmakers](https://botmakers.org/).
 </div>
+
+
+
 
 
 ### [¶](#mastodon){.pilcrow} Mastodon {#mastodon}
