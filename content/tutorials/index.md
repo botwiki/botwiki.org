@@ -27,9 +27,10 @@ There is a variety of tools that make creating bots very easy. From [Cheap Bots 
 Choose the network on which you want to deploy your bot:
 
 - [Twitter](/tutorials/twitterbots)
-- [Slack](/tutorials/slackbots)
 - [Facebook Messenger](/tutorials/facebook-messenger-bots)
+- [Slack](/tutorials/slackbots)
 - [Telegram](/tutorials/telegram-bots)
+- [GNU Social](/tutorials/gnu-social-bots)
 - [YouTube](/tutorials/youtube-bots)
 - [Reddit](/tutorials/redditbots)
 - [IRC](/tutorials/irc-bots)
