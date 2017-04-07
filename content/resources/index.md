@@ -22,9 +22,10 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 ### [¶](#specific-resources){.pilcrow} Network-specific resources {#specific-resources}
 
 - [Twitter bots](/resources/twitterbots)
-- [Slack bots](/resources/slackbots)
 - [Facebook Messenger bots](/resources/facebook-messenger-bots)
+- [Slack bots](/resources/slackbots)
 - [Telegram bots](/resources/telegram-bots)
+- [GNU Social](/resources/gnu-social-bots)
 - [YouTube bots](/resources/youtube-bots)
 - [Reddit bots](/resources/redditbots)
 - [kik bots](/resources/kik-bots)

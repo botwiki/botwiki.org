@@ -49,6 +49,8 @@ These are not always downloadable, but you can at least freely link to them.
 ### [¶](#free-audio){.pilcrow} Free audio {#free-audio}
 
 - [AudioSet](https://research.google.com/audioset/): A large-scale dataset of manually annotated audio events
+- [freesound4s](https://archive.org/details/freesound4s): 126,900 sounds on [Freesound](https://freesound.org/) less than 4 seconds long
+  - see also: [Fingerprints and Labels to Classifier.ipynb](https://github.com/kylemcdonald/AudioNotebooks/blob/master/Fingerprints%20and%20Labels%20to%20Classifier.ipynb)
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series
 
 
