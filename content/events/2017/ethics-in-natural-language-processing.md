@@ -4,7 +4,7 @@ Link: http://www.ethicsinnlp.org/
 Date: April 4, 2017
 Description: A Workshop at EACL 2017
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=avda-cortes-valencianas-60-46015-valencia-spain&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming
+Tags: event,archived
 */
 
 ### Sessions include
