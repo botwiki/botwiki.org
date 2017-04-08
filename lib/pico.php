@@ -217,7 +217,7 @@ class Pico
             'base_url' => $this->base_url(),
             'theme' => 'default',
             'date_format' => '%D %T',
-            'twig_config' => array('cache' => false, 'autoescape' => false, 'debug' => false),
+            'twig_config' => array('cache' => true, 'autoescape' => false, 'debug' => false),
             'pages_order_by' => 'alpha',
             'pages_order' => 'asc',
             'excerpt_length' => 50,
@@ -246,62 +246,71 @@ class Pico
         $config = $this->config;
 
         $pages = $this->get_files($config['content_dir'], CONTENT_EXT);
-        $sorted_pages = array();
-        $date_id = 0;
-        foreach ($pages as $key => $page) {
-            // Skip 404
-            if (basename($page) == '404' . CONTENT_EXT) {
-                unset($pages[$key]);
-                continue;
+        $file_count = count($pages);
+        $last_file_count = file_get_contents("data/count.txt");
+        if ($file_count == $last_file_count){
+            return unserialize(file_get_contents("data/data.txt"));
+        }
+        else{
+            file_put_contents("data/count.txt", $file_count);
+            $sorted_pages = array();
+            $date_id = 0;
+            foreach ($pages as $key => $page) {
+                // Skip 404
+                if (basename($page) == '404' . CONTENT_EXT) {
+                    unset($pages[$key]);
+                    continue;
+                }
+
+                // Ignore Emacs (and Nano) temp files
+                if (in_array(substr($page, -1), array('~', '#'))) {
+                    unset($pages[$key]);
+                    continue;
+                }
+                // Get title and format $page
+                $page_content = file_get_contents($page);
+                $page_meta = $this->read_file_meta($page_content);
+                $page_content = $this->parse_content($page_content);
+                $url = str_replace($config['content_dir'], $base_url . '/', $page);
+                $url = str_replace('index' . CONTENT_EXT, '', $url);
+                $url = str_replace(CONTENT_EXT, '', $url);
+                $data = array(
+                    'title' => isset($page_meta['title']) ? $page_meta['title'] : '',
+                    'url' => $url,
+                    'thumbnail' => isset($page_meta['thumbnail']) ? $page_meta['thumbnail'] : '',
+                    'language' => isset($page_meta['language']) ? $page_meta['language'] : '',
+                    'translations' => isset($page_meta['translations']) ? $page_meta['translations'] : '',
+                    'smallthumbnail' => isset($page_meta['smallthumbnail']) ? $page_meta['smallthumbnail'] : '',
+                    'author' => isset($page_meta['author']) ? $page_meta['author'] : '',
+                    'date' => isset($page_meta['date']) ? $page_meta['date'] : '',
+                    'date_formatted' => isset($page_meta['date']) ? utf8_encode(strftime($config['date_format'],
+                        strtotime($page_meta['date']))) : '',
+                    'content' => $page_content,
+                    'excerpt' => $this->limit_words(strip_tags($page_content), $excerpt_length),
+                    //this addition allows the 'description' meta to be picked up in content areas... specifically to replace 'excerpt'
+                    'description' => isset($page_meta['description']) ? $page_meta['description'] : ''
+                );
+
+                // Extend the data provided with each page by hooking into the data array
+                $this->run_hooks('get_page_data', array(&$data, $page_meta));
+
+                if ($order_by == 'date' && isset($page_meta['date'])) {
+                    $sorted_pages[$page_meta['date_formatted'] . $date_id] = $data;
+                    $date_id++;
+                } else {
+                    $sorted_pages[$page] = $data;
+                }
             }
 
-            // Ignore Emacs (and Nano) temp files
-            if (in_array(substr($page, -1), array('~', '#'))) {
-                unset($pages[$key]);
-                continue;
-            }
-            // Get title and format $page
-            $page_content = file_get_contents($page);
-            $page_meta = $this->read_file_meta($page_content);
-            $page_content = $this->parse_content($page_content);
-            $url = str_replace($config['content_dir'], $base_url . '/', $page);
-            $url = str_replace('index' . CONTENT_EXT, '', $url);
-            $url = str_replace(CONTENT_EXT, '', $url);
-            $data = array(
-                'title' => isset($page_meta['title']) ? $page_meta['title'] : '',
-                'url' => $url,
-                'thumbnail' => isset($page_meta['thumbnail']) ? $page_meta['thumbnail'] : '',
-                'language' => isset($page_meta['language']) ? $page_meta['language'] : '',
-                'translations' => isset($page_meta['translations']) ? $page_meta['translations'] : '',
-                'smallthumbnail' => isset($page_meta['smallthumbnail']) ? $page_meta['smallthumbnail'] : '',
-                'author' => isset($page_meta['author']) ? $page_meta['author'] : '',
-                'date' => isset($page_meta['date']) ? $page_meta['date'] : '',
-                'date_formatted' => isset($page_meta['date']) ? utf8_encode(strftime($config['date_format'],
-                    strtotime($page_meta['date']))) : '',
-                'content' => $page_content,
-                'excerpt' => $this->limit_words(strip_tags($page_content), $excerpt_length),
-                //this addition allows the 'description' meta to be picked up in content areas... specifically to replace 'excerpt'
-                'description' => isset($page_meta['description']) ? $page_meta['description'] : ''
-            );
-
-            // Extend the data provided with each page by hooking into the data array
-            $this->run_hooks('get_page_data', array(&$data, $page_meta));
-
-            if ($order_by == 'date' && isset($page_meta['date'])) {
-                $sorted_pages[$page_meta['date_formatted'] . $date_id] = $data;
-                $date_id++;
+            if ($order == 'desc') {
+                krsort($sorted_pages);
             } else {
-                $sorted_pages[$page] = $data;
+                ksort($sorted_pages);
             }
-        }
+            file_put_contents("data/data.txt", serialize($sorted_pages));
+            return $sorted_pages;
 
-        if ($order == 'desc') {
-            krsort($sorted_pages);
-        } else {
-            ksort($sorted_pages);
         }
-
-        return $sorted_pages;
     }
 
     /**
