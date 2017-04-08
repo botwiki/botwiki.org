@@ -309,7 +309,6 @@ class Pico
             }
             file_put_contents("data/data.txt", serialize($sorted_pages));
             return $sorted_pages;
-
         }
     }
 
