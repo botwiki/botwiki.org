@@ -1508,7 +1508,7 @@ html {
   }
 }
 /*
-  TODO: This is a slightly modified default Pico theme, needs to be better organized and rewritten using LESS.
+  TODO: This is a slightly modified default Pico theme, needs to be heavily re-organized and rewritten.
 */
 /*=================================*/
 /* Pico Default Theme
@@ -1598,16 +1598,6 @@ td {
   text-align: left;
   font-weight: normal;
 }
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: "";
-}
-blockquote,
-q {
-  quotes: "" "";
-}
 /* HTML5 tags */
 header,
 section,
@@ -1664,7 +1654,7 @@ input,
 textarea,
 select {
   padding: 5px;
-  font-size: 0.8em;
+  font-size: 0.9em;
   color: #666;
   background: #fff;
   border: 1px solid #999999;
@@ -1678,21 +1668,21 @@ select:focus {
   border: 1px solid #666666;
 }
 ::-webkit-input-placeholder {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Merriweather Sans', serif;
 }
 :-moz-placeholder {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Merriweather Sans', serif;
 }
 ::-moz-placeholder {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Merriweather Sans', serif;
 }
 :-ms-input-placeholder {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Merriweather Sans', serif;
 }
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.2em 'Source Serif Pro', serif;
+  font: 1.2em 'Merriweather Sans', serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -1727,8 +1717,9 @@ h3,
 h4,
 h5,
 h6 {
+  text-transform: uppercase;
   max-width: 1150px;
-  font-family: 'Fjalla One', serif;
+  font-family: 'Anton', serif;
   color: #38313a;
   line-height: 1.2em;
   margin: 0 auto;
@@ -1773,10 +1764,10 @@ h2 {
   padding-bottom: 1rem;
 }
 h3 {
-  font-size: 2em;
+  font-size: 2.3em;
 }
 h4 {
-  font-size: 1.7em;
+  font-size: 2em;
 }
 ol,
 ul {
@@ -1855,21 +1846,25 @@ pre {
   }
 }
 blockquote {
-  font-style: italic;
+  /* Courtesy of css-tricks.com. */
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C" "\201D" "\2018" "\2019";
   max-width: 1150px;
-  margin: 2em auto 2em auto;
-  padding-left: 10px;
-  padding-bottom: 0;
-  border-left: 8px solid #babab5;
+  margin: 0 auto;
 }
-@media (max-width: 900px) {
-  blockquote {
-    margin: 2em 0 2em 1em;
-  }
+blockquote:before {
+  color: #ccc;
+  content: '“';
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
 }
 blockquote p {
-  padding: 1em !important;
-  margin: 0 !important;
+  line-height: 1.5em;
 }
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
@@ -1899,14 +1894,13 @@ footer ul.footer-list {
   vertical-align: top;
   width: 25%;
   min-height: 265px;
-  margin: 0;
-  padding: 1em;
+  margin: 1em auto;
+  padding: .5rem;
   float: left;
 }
 @media (max-width: 900px) {
   footer ul.footer-list {
     width: 50%;
-    padding: 1em 0;
   }
 }
 @media (max-width: 700px) {
@@ -1941,7 +1935,7 @@ div.header-image img {
   width: 100%;
   min-height: 50px;
 }
-@media (min-width: 1040px) {
+@media (min-width: 900px) {
   div.header-image img {
     min-height: 300px;
   }
@@ -2007,36 +2001,6 @@ div.all-tags a {
     height: 2em;
   }
 }
-#header a {
-  color: #5D9CEC;
-  padding-bottom: 8px;
-}
-#header a,
-#header a:hover {
-  transition: border 0.1s;
-}
-#header h1 {
-  font-size: 1.6em;
-  font-weight: bold;
-  margin: 5px 0;
-  float: left;
-}
-#header h1 a {
-  font-family: 'Fjalla One', serif;
-}
-#header h1 a,
-#header a:hover {
-  color: #fff;
-  text-decoration: none;
-}
-#header h1 a:hover {
-  text-decoration: none;
-}
-@media (min-width: 912px) {
-  #header nav a:hover {
-    border-bottom: 3px solid #F5F5F5;
-  }
-}
 @media (min-width: 860px) {
   li.active a {
     border-bottom: 3px solid #F5F5F5;
@@ -2047,7 +2011,7 @@ label.cursor-pointer {
 }
 a#logo {
   float: left;
-  margin: 0.3em 0.7em 0 0;
+  margin: 0.1em 0.7em 0 0;
   color: #fff !important;
   text-decoration: none !important;
 }
@@ -2068,17 +2032,49 @@ ul#menu {
     /* Quick hack. */
   }
 }
-#menu-toggle {
-  display: none;
+#header a {
+  color: #5D9CEC;
+  padding-bottom: 8px;
+}
+#header a,
+#header a:hover {
+  transition: border 0.1s;
+}
+#header h1 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin: 5px 0;
+  float: left;
+}
+#header h1 a,
+#header h1 a:hover {
+  font-family: 'Fjalla One', serif;
+  color: #fff;
+  text-decoration: none;
+}
+#header ul {
+  list-style: none;
+  padding-top: 0.6em;
+  margin: 0;
+}
+#header li {
+  display: inline-block;
+  float: left;
 }
 #header #menu-icon-wrapper {
   float: right;
+}
+#header #menu-toggle {
+  display: none;
+}
+#header #menu-toggle:checked#menu-icon {
+  background-color: #444;
+  border-radius: 4px 4px 0 0;
 }
 #header #menu-icon {
   display: none;
   color: #fff;
   font-size: 2em;
-  margin-top: 0.1em;
   padding-top: 5px;
   width: 36px;
   height: 24px;
@@ -2086,11 +2082,27 @@ ul#menu {
 #header nav {
   list-style: none;
   margin: 0.2em 0 0;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Anton', serif;
+  font-weight: 100;
 }
 #header nav li {
   margin-top: -5px;
   margin-left: 15px;
+}
+#header nav li a {
+  text-transform: uppercase;
+}
+@media (min-width: 900px) {
+  #header nav li a {
+    font-size: 1.1em;
+    color: #fff;
+    text-transform: none;
+  }
+}
+@media (min-width: 912px) {
+  #header nav li a:hover {
+    border-bottom: 3px solid #F5F5F5;
+  }
 }
 #header nav li:nth-child(2) {
   /*TODO: A bit hacky, maybe refactor later?*/
@@ -2102,38 +2114,17 @@ ul#menu {
   float: right;
   width: 310px;
 }
-@media (max-width: 1040px) {
+@media (max-width: 900px) {
   #header nav li.form-wrapper {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
     float: none;
+    width: 100%;
   }
-}
-#header nav a {
-  color: #fff;
-  font-weight: bolder;
-}
-@media (min-width: 1040px) {
-  #header nav a {
-    font-size: 1.1em;
-  }
-}
-#header #menu-toggle:checked#menu-icon {
-  background-color: #444;
-  border-radius: 4px 4px 0 0;
-}
-#header ul {
-  list-style: none;
-  padding-top: 0.6em;
-  margin: 0;
-}
-#header li {
-  display: inline-block;
-  float: left;
 }
 form#search-form {
   width: 100%;
-  margin-top: -0.5em;
+  margin-top: -0.6em;
 }
 form#search-form input {
   padding: 0.5em 1em;
@@ -2141,6 +2132,11 @@ form#search-form input {
   outline: none;
   width: 100%;
   line-height: 1.5em;
+}
+@media (max-width: 860px) {
+  form#search-form input {
+    padding: 0.3em 1em;
+  }
 }
 div.search-results-intro h2 {
   text-align: center;
@@ -2158,7 +2154,7 @@ div#content-wrapper {
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 1.3em;
   position: relative;
 }
@@ -2175,7 +2171,7 @@ div#content-wrapper {
     bottom: 0;
   }
 }
-@media (min-width: 1040px) {
+@media (min-width: 900px) {
   aside#sidebar {
     max-width: 350px;
   }
@@ -2243,7 +2239,7 @@ div#main {
     margin-right: 300px;
   }
 }
-@media (min-width: 1040px) {
+@media (min-width: 900px) {
   div#main {
     margin-right: 350px;
   }
@@ -2314,12 +2310,14 @@ footer#footer ul.footer-list li {
   margin: 0.5em 0;
 }
 footer#footer ul.footer-list li.list-header {
+  font-family: Anton;
+  font-size: 1.8em;
   text-transform: uppercase;
-  font-weight: bold;
   margin-bottom: 1.6em;
 }
-footer#footer ul.footer-list li:not(.list-header) {
-  font-weight: normal;
+footer#footer ul.footer-list li a {
+  text-decoration: none;
+  text-transform: uppercase;
 }
 div.sponsors-corporate-organizations {
   text-align: center;
@@ -2365,9 +2363,8 @@ div.search-item {
   padding: 2em 0 1em;
 }
 .note {
-  border-left: 6px solid #c4b634;
+  border-left: 10px solid #c4b634;
   font-weight: bold;
-  font-style: italic;
   background-color: #F7E967;
   margin: 2em 0;
   padding: 0;
@@ -2398,12 +2395,14 @@ span.normal-text {
   font-style: normal;
 }
 div.meta p.share-prompt {
+  text-transform: uppercase;
   font-weight: bold;
-  border-top: 2px dashed #dcdcd7;
+  border-top: 6px dashed rgba(220, 220, 215, 0.4);
   padding-top: 2em !important;
   margin-top: 2em !important;
 }
 ul.sharing-is-caring {
+  padding-left: 1.5em;
   list-style: none;
 }
 @media (max-width: 860px) {
@@ -2411,9 +2410,9 @@ ul.sharing-is-caring {
     margin: 10px;
   }
 }
-@media (min-width: 860px) {
+@media (max-width: 860px) {
   ul.sharing-is-caring {
-    padding: 0 3em;
+    padding-left: 0;
   }
 }
 ul.sharing-is-caring li {
@@ -2424,11 +2423,17 @@ ul.sharing-is-caring li a {
 }
 ul.sharing-is-caring li a img {
   max-width: 1.8em;
-  border-radius: 50%;
 }
 ul.sharing-is-caring li a:hover {
   opacity: 0.8;
   transition: opacity 0.4s;
+}
+p.ssbg-attribution {
+  font-size: 0.7em;
+  color: #aaa;
+}
+p.ssbg-attribution a {
+  color: #5b9aed;
 }
 div.search-item p.meta,
 div.meta p.last-updated {
@@ -2464,7 +2469,7 @@ div.article-thumbnail a {
   display: block;
   line-height: 0;
 }
-@media (max-width: 1040px) {
+@media (max-width: 900px) {
   div.article-thumbnail img {
     object-fit: contain;
   }
@@ -2536,7 +2541,7 @@ img.logo-digitalocean {
     font-size: 1em;
   }
 }
-@media (max-width: 1040px) {
+@media (max-width: 900px) {
   #header #menu-icon {
     display: inline-block;
   }
@@ -2548,11 +2553,12 @@ img.logo-digitalocean {
     padding: 20px 0;
     margin: 0;
     opacity: 0;
-    transition: all 0.2s;
+    transition: all 0.1s;
     margin-left: 30px;
   }
   #header nav a {
     color: #160f18;
+    text-decoration: none;
   }
   #header nav a:hover {
     color: #434a54;
@@ -2564,11 +2570,9 @@ img.logo-digitalocean {
     position: absolute;
     padding: 20px;
     background: #fff;
-    border-top: 1px solid #38313a;
-    border-bottom: 1px solid #38313a;
     box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-    left: -100px;
-    top: 2.3em;
+    right: -100px;
+    top: 2em;
     width: 100%;
     z-index: 9999;
     transition: all 0.2s;
@@ -2623,7 +2627,7 @@ img.logo-digitalocean {
   #header nav #menu-toggle:checked ul,
   #menu-toggle:checked + #menu {
     opacity: 1;
-    left: 0;
+    right: 0;
     pointer-events: all;
   }
   #header nav #menu-toggle:checked + #menu li {
@@ -2631,7 +2635,7 @@ img.logo-digitalocean {
     opacity: 1;
   }
 }
-@media (max-width: 1040px) and (min-width: 1500px) {
+@media (max-width: 900px) and (min-width: 1500px) {
   #header nav li {
     padding: 10px 0;
   }
@@ -2656,12 +2660,12 @@ div.bottom-page-links a {
   background-color: #38313a;
   color: #fff;
   vertical-align: top;
-  text-align: right;
+  text-align: center;
   font-size: 2.5em;
 }
 @media (min-width: 860px) {
   div.bottom-page-links a {
-    opacity: 0.8;
+    opacity: 0.95;
     font-size: 1.9em;
   }
 }
@@ -2676,11 +2680,11 @@ a#search-help {
   position: absolute;
   margin-left: -1em;
   color: #dadada !important;
-  top: 2.3em;
+  top: 1.1em;
 }
 @media (min-width: 860px) {
   a#search-help {
-    top: 1.5em;
+    top: 1.4em;
     margin-left: -25px;
   }
 }

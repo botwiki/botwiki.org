@@ -35,7 +35,7 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 </div>
 
 
-***See also:***
+**SEE ALSO**
 
 - [List of all Botwiki projects](/projects/)
 - [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
