@@ -23,7 +23,7 @@ Some examples of such bots include:
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
   </div>
   <div class="col-sm-12 col-md-6" markdown=1>
-[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls.png)](/bots/twitterbots/emoji__polls){.screenshot}
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
   </div>
 </div>
 
