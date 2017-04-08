@@ -2098,6 +2098,9 @@ ul#menu {
     text-transform: none;
   }
 }
+#header nav li a:hover {
+  text-decoration: none;
+}
 @media (min-width: 912px) {
   #header nav li a:hover {
     border-bottom: 3px solid #F5F5F5;
