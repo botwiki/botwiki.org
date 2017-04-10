@@ -14,9 +14,8 @@ Nav: hidden
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
-
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Misbehaving bots](#misbehaving-bots)
@@ -25,6 +24,12 @@ Nav: hidden
 - [General resources](#general-resources)
 - [Life of a bot](#life-of-a-bot)
 - [Further reading](#see-also)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
+  </div>
+</div>
+
 
 
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
