@@ -73,8 +73,6 @@ Nav: hidden
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
-
 - [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
 - [Technically Female: Women, Machines, and Hyperemployment](http://salvage.zone/in-print/technically-female-women-machines-and-hyperemployment/) (salvage.zone)
@@ -88,6 +86,8 @@ Nav: hidden
 - [The Art Of Manipulating Algorithms](https://www.fastcodesign.com/3068556/reminder-you-can-manipulate-algorithms-too) (fastcodesign.com)
 - [Automate This! Delivering Resistance in the Gig Economy](http://www.metamute.org/editorial/articles/automate-delivering-resistance-gig-economy) (metamute.org)
 - [Artificial intelligence is ripe for abuse, tech executive warns: 'a fascist's dream'](https://www.theguardian.com/technology/2017/mar/13/artificial-intelligence-ai-abuses-fascism-donald-trump) (theguardian.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
 
 
