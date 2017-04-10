@@ -26,8 +26,6 @@ Nav: hidden
 - [Life of a bot](#life-of-a-bot)
 - [Further reading](#see-also)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
-
 
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
@@ -93,8 +91,6 @@ Nav: hidden
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
-
 - [Why Humans Love Robots Like People](http://www.thedailybeast.com/articles/2017/03/25/why-humans-are-primed-to-love-robots.html)
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
 - [Virtual assistant bots like Siri, Alexa, and Cortana spend much of their time fending off sexual harassment](http://qz.com/818151/virtual-assistant-bots-like-siri-alexa-and-cortana-spend-much-of-their-time-fending-off-sexual-harassment/) (qz.com)
@@ -102,6 +98,8 @@ Nav: hidden
 - [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/) (qz.com)
 - [Why Amazon’s Alexa is a feminist](http://venturebeat.com/2017/03/09/botbeat-weekly-why-amazons-alexa-is-a-feminist/) (venturebeat.com)
 - [The truth about gender-neutral bots](https://medium.com/@HealthinarE/the-truth-about-gender-neutral-bots-448bc0cab6dc) (Healthinar Engagement via medium.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
@@ -133,5 +131,8 @@ Nav: hidden
 - [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash)) (via medium.com)
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 - [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) (wikipedia.org)
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
