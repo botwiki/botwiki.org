@@ -73,5 +73,3 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 </div>
 
 **Huge thanks goes to everyone!** 🙌
-
--- [Stefan](/about/team#stefan)

@@ -9,7 +9,7 @@ Weight: 6
 
 <div class="note">
   <p>
-    To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>, and the <a href="#timeline">timeline of important events in Botwiki's history below</a>.
+    To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>, and the <a href="#timeline">timeline of important milestones in Botwiki's history below</a>.
   </p>
 </div>
 
