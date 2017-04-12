@@ -18,6 +18,8 @@ Nav: hidden
 - [General tutorials](#general)
 - [Creative programming](#creative-programming)
 - [Web APIs](#web-apis)
+- [Glitch](#glitch)
+- [Botkit Studio](#botkit-studio)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [IBM Watson tutorials](#watson)
 - [Unsorted tutorials](#unsorted)
@@ -25,12 +27,6 @@ Nav: hidden
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
 - [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (uses JavaScript and node.js)
-
-### [¶](#web-apis){.pilcrow} Web APIs {#web-apis}
-
-- [Codecademy](https://www.codecademy.com/apis) -- "learn how to use popular APIs to make your own applications"
-- [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis) -- by [Stefan](https://twitter.com/fourtonfish)
-
 
 ### [¶](#creative-programming){.pilcrow} Creative programming {#creative-programming}
 
@@ -40,12 +36,34 @@ Nav: hidden
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
 
-
-***See also:***
+#### See also
 
 - [CreativeAI: On the Democratisation & Escalation of Creativity](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3) (ArtificialExperience via medium.com)
 
+### [¶](#web-apis){.pilcrow} Web APIs {#web-apis}
+
+- [Codecademy](https://www.codecademy.com/apis): "learn how to use popular APIs to make your own applications"
+- [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis): by [Stefan](https://twitter.com/fourtonfish)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am a Software Engineer using serious Software Engineering Analogies <a href="https://t.co/a7iZmjWRah">pic.twitter.com/a7iZmjWRah</a></p>&mdash; Terian 💀💾🌸 (@spine_cone) <a href="https://twitter.com/spine_cone/status/848799127513083905">April 3, 2017</a></blockquote>
+
+### [¶](#glitch){.pilcrow} Glitch {#glitch}
+
+[Glitch](https://glitch.com) is a "community [and an online tool] that helps you build the app or bot of your dreams".
+
+- [Importing a node.js bot from GitHub to Glitch](/tutorials/importing-github-glitch)
+
+### [¶](#botkit-studio){.pilcrow} Botkit Studio {#botkit-studio}
+
+[Botkit Studio](https://www.botkit.ai/) is an "innovative web-based environment that provides everything you need to create powerful bots".
+
+- [Build a Bot: Store data for your users](https://blog.howdy.ai/build-a-bot-store-data-for-your-users-2e91fe7023d7) (blog.howdy.ai)
+- [Build a Bot: Data-powered conversations](https://blog.howdy.ai/build-a-bot-data-powered-conversations-d14991714ac1) (blog.howdy.ai)
+
+
 ### [¶](#microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#microsoft-bot-framework}
+
+[Microsoft Bot Framework](https://dev.botframework.com/) is a "comprehensive offering to build and deploy high quality bots for your users to enjoy in their favorite conversation experiences".
 
 - [Bot Framework Starter](https://glitch.com/~botframework-starter) (glitch.com)
 - [Getting Started with Bots](https://mva.microsoft.com/en-US/training-courses/getting-started-with-bots-16759?l=2zTAb2HyC_3504668937)
@@ -54,8 +72,10 @@ Nav: hidden
 
 ### [¶](#watson){.pilcrow} IBM Watson tutorials {#watson}
 
+[IBM Watson](https://www.ibm.com/watson/) is a "cognitive system enabling a new partnership between people and computers".
+
 - [An Adventure with Watson](https://medium.com/@snrubnomis/an-adventure-with-watson-afdebf699f91)
-- [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10) -- a tutorial using [Botkit](http://howdy.ai/botkit/)
+- [IBM Watson’s Personality Insights and Howdy.AI's Slackbot tutorial](https://medium.com/@ash_hathaway/ibm-watson-s-personality-insights-and-howdy-ai-s-slackbot-tutorial-be68da6cfa10): a tutorial using [Botkit](http://howdy.ai/botkit/)
 
 
 ### [¶](#unsorted){.pilcrow} Unsorted tutorials {#unsorted}
@@ -65,7 +85,7 @@ Nav: hidden
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372)
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd)
-- [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) -- by [Ben Brown](https://twitter.com/benbrown)
+- [The Bot Stack](https://medium.com/why-not/the-bot-stack-a44bca123ce6) by [Ben Brown](https://twitter.com/benbrown)
 - [Finding Rhymes with Python](https://docs.google.com/presentation/d/1SxfHEdN8DGliH-Qa4zVsWtCcx5BZAQITXcd1OuDBz_U/edit?pli=1#slide=id.p) by [@nate_smith](https://twitter.com/nate_smith)
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/)
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
@@ -73,4 +93,6 @@ Nav: hidden
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/)
 
 
-Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!
+Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join the [Botmakers](https://botmakers.org/) community!
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

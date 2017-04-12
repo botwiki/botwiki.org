@@ -176,21 +176,26 @@ h1, h2, h3, h4, h5, h6{
   }
 }
 
-a.pilcrow,
-a.pilcrow:visited{
-  color: @main-color+#888;
-  transition: color 0.3s;
+a.pilcrow{
+  &{
+    float: right;
+  }
+  &, &:visited{
+    color: @main-color + #aaa;
+    transition: color 0.2s;    
+  }
+  &:hover{
+    transition: color 0.3s;
+    color: @main-color + #222;
+    text-decoration: none;
+  }
 }
+
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
   text-decoration: none;
 }
 
-a.pilcrow:hover{
-  transition: color 0.3s;
-  color: @main-color - #222;
-  text-decoration: none;
-}
 
 h1{
   font-size: 3em;
