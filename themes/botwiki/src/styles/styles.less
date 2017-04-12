@@ -458,6 +458,7 @@ div.all-tags{
 }
 
 li.active a{
+  border-bottom: 8px solid @main-color; 
   @media (min-width : @site-width-small){
     border-bottom: 3px solid #F5F5F5; 
   }
@@ -493,8 +494,9 @@ ul#menu{
 #header{
   a{ 
     color: #5D9CEC; 
-    padding-bottom: 8px;
-
+    @media (min-width: @site-width-small){
+      padding-bottom: 8px;
+    }
     &, &:hover{
       transition: border 0.1s;
     }
