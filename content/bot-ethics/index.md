@@ -108,6 +108,8 @@ Nav: hidden
 - [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/) (qz.com)
 - [Why Amazon’s Alexa is a feminist](http://venturebeat.com/2017/03/09/botbeat-weekly-why-amazons-alexa-is-a-feminist/) (venturebeat.com)
 - [The truth about gender-neutral bots](https://medium.com/@HealthinarE/the-truth-about-gender-neutral-bots-448bc0cab6dc) (Healthinar Engagement via medium.com)
+- [REPORT: 1 in 4 people have fantasised about Alexa, Siri, and other AI assistants](http://www.businessinsider.com/jwt-speak-easy-study-people-fantasised-about-alexa-2017-4)
+- [Why People Treat Bots Like People](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8) (chatbotsmagazine.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 

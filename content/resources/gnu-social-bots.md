@@ -25,11 +25,12 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 #### [¶](#mastodon-python){.pilcrow} Python {#mastodon-python}
 
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py)
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API
+- [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster
 
 #### [¶](#mastodon-ruby){.pilcrow} Ruby {#mastodon-ruby}
 
-- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api)
+- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api): Ruby interface for the Mastodon API
 
 #### [¶](#tools){.pilcrow} Tools {#tools}
 
