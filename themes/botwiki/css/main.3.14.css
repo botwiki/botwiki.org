@@ -1865,6 +1865,11 @@ blockquote:before {
 blockquote p {
   line-height: 1.5em;
 }
+blockquote.instagram-media,
+iframe.instagram-media {
+  display: block;
+  margin: 0 auto !important;
+}
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
 iframe,

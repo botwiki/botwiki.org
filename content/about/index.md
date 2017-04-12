@@ -61,11 +61,6 @@ Below is a timeline of major events in the history of the Botwiki project.
 - July 12: The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 
 
-
-
-
-
-
 <!-- TODO: Find new video.
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></div>
 -->

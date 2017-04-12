@@ -19,6 +19,7 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 #### [¶](#mastodon-nodejs){.pilcrow} node.js {#mastodon-nodejs}
 
+- [tracery-mastodon-bot](https://glitch.com/~tracery-mastodon-bot): generative Mastodon bot starter project using [Tracery](http://tracery.io/)
 - [jessicahayley/node-mastodon](https://github.com/jessicahayley/node-mastodon), a fork of the [twit](https://github.com/ttezel/twit) library for the [Mastodon](https://github.com/tootsuite/mastodon) API
   - see [DEFAULT_REST_ROOT](https://github.com/jessicahayley/node-mastodon/blob/master/lib/mastodon.js#L11) to enable other GNU Social platforms
 

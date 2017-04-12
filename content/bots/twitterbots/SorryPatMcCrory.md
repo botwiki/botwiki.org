@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/SorryPatMcCrory.png
 Link: https://twitter.com/SorryPatMcCrory
 Author: botsheeter.py
 Date: May 01, 2016
-Tags: twitter,twitterbot,bot,active,monthlybotchallenge,botally,protest,political
+Tags: twitter,twitterbot,bot,active,monthlybotchallenge,protest,political
 Nav: hidden
 Robots: index,follow
 */
