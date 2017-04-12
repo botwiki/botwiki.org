@@ -58,8 +58,7 @@ Below is a timeline of major events in the history of the Botwiki project.
 - September 17: [Publicly announced the Botmakers Slack group](https://twitter.com/botwikidotorg/status/644517400738709504).
 - September 3: [First tweet by @botwikidotorg](https://twitter.com/botwikidotorg/status/639459648580489216).
 - July 15: First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
-- July 12: The [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
-- July 12: The [botwiki.org](https://botwiki.org) domain was bought.
+- July 12: The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 
 
 
