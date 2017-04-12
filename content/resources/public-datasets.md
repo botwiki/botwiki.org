@@ -2,6 +2,7 @@
 Title: Public datasets
 Description: Free data you can use in your project.
 Thumbnail: /content/images/illustrations/hydraulics-diagrams-large.jpg
+Tags: resources,public,data,dataset
 Show donation link: yes
 Date: July 23, 2015
 

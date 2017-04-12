@@ -2,6 +2,7 @@
 Title: Resources for YouTube Bots
 Description: Useful resources for making YouTube bots!
 Thumbnail: /content/images/illustrations/battle-nile-large.jpg
+Tags: resources,youtube
 Show donation link: yes
 Nav: hidden
 */

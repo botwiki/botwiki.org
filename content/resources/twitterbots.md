@@ -2,6 +2,7 @@
 Title: Resources for Twitter bots
 Description: Libraries and other resources specifically for Twitter bots.
 Thumbnail: /content/images/illustrations/brambling-greenfinch-large.png
+Tags: resources,twitter
 Show donation link: yes
 Nav: hidden
 */

@@ -2,6 +2,7 @@
 Title: Resources for GNU Social bots
 Description: Libraries and other resources for GNU Social bots.
 Thumbnail: /content/images/illustrations/clockwork2-large.jpg
+Tags: resources,gnu,social,mastodon
 Show donation link: yes
 Nav: hidden
 */

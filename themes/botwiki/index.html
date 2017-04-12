@@ -73,12 +73,36 @@
               <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><a id="search-help" href="#">?</a>
             </form>
           </li>
-        <li><a href="/bots/" title="Bots">Bots</a></li>
-        <li><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
-        <li><a href="/resources/" title="Resources">Resources</a></li>
-        <li><a href="/articles/" title="Articles">Articles</a></li>
-        <li><a href="/events/" title="Events">Events</a></li>
-        <li><a href="/about/" title="About">About</a></li>
+          <li 
+            {% if meta.title == "Bots" or 'bot' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/bots/" title="Bots">Bots</a></li>
+          <li 
+            {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
+          <li 
+            {% if meta.title == "Resources" or 'resources' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/resources/" title="Resources">Resources</a></li>
+          <li 
+            {% if meta.title == "Articles" or 'articles' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/articles/" title="Articles">Articles</a></li>
+          <li 
+            {% if meta.title == "Events" or 'event' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/events/" title="Events">Events</a></li>
+          <li 
+            {% if meta.title == "About" %}
+              class="active"
+            {% endif %}
+              ><a href="/about/" title="About">About</a></li>
         </ul>
       </nav>
     </div>

@@ -2,6 +2,7 @@
 Title: Resources
 Description: Various libraries, frameworks, data dumps and other content for bot creators.
 Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
+Tags: resources
 Show donation link: yes
 Weight: 3
 */

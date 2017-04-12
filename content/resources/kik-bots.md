@@ -2,6 +2,7 @@
 Title: Resources for kik bots
 Description: Libraries and other resources specifically for kik messenger bots.
 Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
+Tags: resources,kik
 Show donation link: yes
 Nav: hidden
 */

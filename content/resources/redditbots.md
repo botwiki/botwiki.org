@@ -2,6 +2,7 @@
 Title: Resources for Reddit Bots
 Description: Useful resources for Reddit bot makers!
 Thumbnail: /content/images/illustrations/taste-large.jpg
+Tags: resources,reddit
 Show donation link: yes
 Nav: hidden
 */

@@ -4,7 +4,7 @@ Description: Useful libraries and frameworks in various languages
 Thumbnail: /content/images/illustrations/riehle-testing-machine-large.jpg
 Show donation link: yes
 Date: July 23, 2015
-Tags: web,scraping,scraper,language,rhyme,rhyming,nlp,machine learning,nodejs,python,block,offensive
+Tags: resources,libraries,frameworks,web,scraping,scraper,language,rhyme,rhyming,nlp,machine learning,nodejs,python,block,offensive
 Nav: hidden
 */
 

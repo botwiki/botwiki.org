@@ -2,6 +2,7 @@
 Title: Resources for Slack bots
 Description: Libraries and other resources specifically for Slack bots.
 Thumbnail: /content/images/illustrations/marc-press-large.jpg
+Tags: resources,slack
 Show donation link: yes
 Nav: hidden
 */

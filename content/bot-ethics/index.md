@@ -47,6 +47,8 @@ Nav: hidden
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I spent 10 minutes discussing the <a href="https://twitter.com/hashtag/Ethics?src=hash">#Ethics</a> of <a href="https://twitter.com/hashtag/AI?src=hash">#AI</a> &amp; <a href="https://twitter.com/hashtag/Robots?src=hash">#Robots</a> with my 5 &amp; 7 year old kids. They have produced their own <a href="https://twitter.com/hashtag/RobotRules?src=hash">#RobotRules</a>! <a href="https://twitter.com/hashtag/ProudDad?src=hash">#ProudDad</a> <a href="https://t.co/gC1o8yRct5">pic.twitter.com/gC1o8yRct5</a></p>&mdash; Rob McCargow (@robmccargow) <a href="https://twitter.com/robmccargow/status/843740450397835266">March 20, 2017</a></blockquote>
+
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
 - [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
   - [How Machines Learn to Be Racist](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
@@ -73,6 +75,9 @@ Nav: hidden
 - [Algorithms might be everywhere, but like us, they're deeply flawed](http://theconversation.com/algorithms-might-be-everywhere-but-like-us-theyre-deeply-flawed-66838) (theconversation.com)
 - [Investigating the algorithms that govern our lives](http://www.cjr.org/innovations/investigating_algorithms.php) (cjr.org)
 - ["Programming and Prejudice: Can Computers Be Racist?" (Talks at Google)](https://www.youtube.com/watch?v=4fNx8XxToBA) (youtube.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
+
 
 ### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
@@ -125,6 +130,7 @@ Nav: hidden
 
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
+- [Machine ethics on Wikipedia](https://en.wikipedia.org/wiki/Machine_ethics)
 - [General essays on Botwiki](/articles/#general-essays)
 - [Ethical Machines](http://ethicalmachines.com/): podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5) (ethicalmachines.com)
 - [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
