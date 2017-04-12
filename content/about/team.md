@@ -2,6 +2,7 @@
 Title: The Botwiki Team
 Description: Folks behind Botwiki.org, Botmakers.org and the Bot! zine.
 Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
+Tags: about,botwiki,stefan,veronica,botwiki-foundation
 Show donation link: yes
 Nav: hidden
 */

@@ -2,6 +2,7 @@
 Title: About
 Description: Learn a bit more about Botwiki and related projects!
 Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
+Tags: about,botwiki,botwiki-foundation
 Show donation link: yes
 Weight: 6
 */

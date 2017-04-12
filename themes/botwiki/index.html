@@ -99,7 +99,7 @@
             {% endif %}
               ><a href="/events/" title="Events">Events</a></li>
           <li 
-            {% if meta.title == "About" %}
+            {% if meta.title == "About" or 'about' in meta.tags %}
               class="active"
             {% endif %}
               ><a href="/about/" title="About">About</a></li>
