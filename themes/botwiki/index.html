@@ -42,8 +42,8 @@
   <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png" />
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
-  <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Source+Serif+Pro|Bree+Serif|Lato' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.10.min.css" type="text/css" />  
+  <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Source+Serif+Pro|Anton|Merriweather+Sans' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.16.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -73,12 +73,36 @@
               <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><a id="search-help" href="#">?</a>
             </form>
           </li>
-        <li><a href="/bots/" title="Bots">Bots</a></li>
-        <li><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
-        <li><a href="/resources/" title="Resources">Resources</a></li>
-        <li><a href="/articles/" title="Articles">Articles</a></li>
-        <li><a href="/events/" title="Events">Events</a></li>
-        <li><a href="/about/" title="About">About</a></li>
+          <li 
+            {% if meta.title == "Bots" or 'bot' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/bots/" title="Bots">Bots</a></li>
+          <li 
+            {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
+          <li 
+            {% if meta.title == "Resources" or 'resources' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/resources/" title="Resources">Resources</a></li>
+          <li 
+            {% if meta.title == "Articles" or 'articles' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/articles/" title="Articles">Articles</a></li>
+          <li 
+            {% if meta.title == "Events" or 'event' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/events/" title="Events">Events</a></li>
+          <li 
+            {% if meta.title == "About" or 'about' in meta.tags %}
+              class="active"
+            {% endif %}
+              ><a href="/about/" title="About">About</a></li>
         </ul>
       </nav>
     </div>
@@ -87,8 +111,11 @@
     {% if is_front_page %}
       <div class="header-image">
         <a href="/bots/twitterbots/NixieBot">
-          <img class="header-image-large u-photo lazy-load" src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}">
+        {% if current_page.is_mobile %}
           <img class="header-image-small u-photo lazy-load" src="{{ meta.smallthumbnail }}" data-src="{{ meta.smallthumbnail }}">
+        {% else %}
+          <img class="header-image-large u-photo lazy-load" src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}">
+        {% endif %}
         </a>
       </div>
     {% endif %}
@@ -167,8 +194,7 @@
           <li class="list-header">Contact</li>
           <li><a class="u-email" rel="me" href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">stefan@botwiki.org</a></li>
           <li><a class="h-card" rel="me" href="https://twitter.com/botwikidotorg">@botwikidotorg</a></li>
-          <li><a href="https://twitter.com/fourtonfish">@fourtonfish</a></li>
-          <li><a href="https://botmakers.org/">botmakers.org</a></li>
+          <li><a href="https://botmakers.org/">Botmakers</a></li>
         </ul>
         <ul class="footer-list">
           <li class="list-header">Support</li>
@@ -188,7 +214,7 @@
         </ul>
       </section>
       <p>
-        This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers.org</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, a generous supporter and the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>.</p>
+        This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, a generous supporter and the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>.</p>
         <p>One more way to support us is to sign up using our <strong>DigitalOcean</strong> <a href="https://www.digitalocean.com/?refcode=9e279abc3337">referral link</a>, which will also earn you a <strong>$10 starter credit</strong>.
       </p>
       <p>

@@ -2,6 +2,7 @@
 Title: Individual and corporate sponsors
 Description: List of people, corporations, and other organizations supporting Botwiki and Botmakers.
 Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
+Tags: about,botwiki,support,supporters,funding,money,contribute
 Nav: hidden
 */
 
@@ -72,5 +73,3 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 </div>
 
 **Huge thanks goes to everyone!** 🙌
-
--- [Stefan](/about/team#stefan)

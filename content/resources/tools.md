@@ -2,6 +2,7 @@
 Title: Tools
 Description: Tools to help you make clever online bots.
 Thumbnail: /content/images/illustrations/riehle-testing-machine-large.jpg
+Tags: resources,tools
 Show donation link: yes
 Date: January 13, 2016
 

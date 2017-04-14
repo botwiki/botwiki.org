@@ -2,6 +2,7 @@
 Title: Resources for IRC bots
 Description: Libraries and other resources specifically for IRC bots.
 Thumbnail: /content/images/illustrations/clockwork2-large.jpg
+Tags: resources,irc
 Show donation link: yes
 Nav: hidden
 */

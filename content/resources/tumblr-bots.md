@@ -2,6 +2,7 @@
 Title: Resources for Tumblr Bots
 Description: Useful resources for making Tumblr bots!
 Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
+Tags: resources,tumblr
 Show donation link: yes
 Nav: hidden
 */

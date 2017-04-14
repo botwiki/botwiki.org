@@ -28,10 +28,13 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 - [Slack Developers](https://slack.com/developers)
 - [Official Slack documentation](https://api.slack.com/bot-users)
+- [OAuth Scopes](https://api.slack.com/docs/oauth-scopes)
 - [Attachments](https://api.slack.com/docs/attachments): create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
 - [Threading messages together](https://api.slack.com/docs/message-threading)
 - [Slack app unfurling](https://api.slack.com/docs/message-link-unfurling#slack_app_unfurling) ([announcements](https://medium.com/slack-developer-blog/all-will-be-revealed-ebcad7c531f0))
+- [Message menus](https://api.slack.com/docs/message-menus)
+  - [Build an interactive Slack app with message menus](https://medium.com/slack-developer-blog/build-an-interactive-slack-app-with-message-menus-1fb2c6298308)
 
 See also:
 

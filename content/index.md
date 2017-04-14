@@ -23,7 +23,7 @@ Some examples of such bots include:
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
   </div>
   <div class="col-sm-12 col-md-6" markdown=1>
-[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls.png)](/bots/twitterbots/emoji__polls){.screenshot}
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
   </div>
 </div>
 
@@ -35,7 +35,7 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 </div>
 
 
-***See also:***
+**SEE ALSO**
 
 - [List of all Botwiki projects](/projects/)
 - [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)

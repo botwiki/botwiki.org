@@ -1,4 +1,29 @@
 <IfModule mod_rewrite.c>
+    ExpiresActive On
+    ExpiresByType image/gif "access plus 1 months"
+    ExpiresByType image/jpg "access plus 1 months"
+    ExpiresByType image/jpeg "access plus 1 months"
+    ExpiresByType image/png "access plus 1 months"
+    ExpiresByType image/svg+xml "access plus 1 months"
+    ExpiresByType image/vnd.microsoft.icon "access plus 1 months"
+    ExpiresByType image/x-icon "access plus 1 months"
+    ExpiresByType image/ico "access plus 1 months"
+    ExpiresByType application/javascript "now plus 1 months"
+    ExpiresByType application/x-javascript "now plus 1 months"
+    ExpiresByType text/javascript "now plus 1 week"
+    ExpiresByType text/css "now plus 1 week"
+    ExpiresDefault "access plus 3 days"
+
+    SetOutputFilter DEFLATE
+    AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript application/x-httpd-php
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+    BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+    SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+    SetEnv DB_PASSWORD go1984bb
+    Header append Vary User-Agent env=!dont-vary
+
     RewriteEngine On
     #May be required to access sub-directories
     RewriteBase /
@@ -16,42 +41,42 @@
     RewriteRule ^(.*)([^/])$        /$1$2/ [L,R=301]
 
 
-##  ???
-#    RewriteCond %{HTTP_HOST} ^(www\.)?botwiki\.org$ [NC]
-#    RewriteRule ^submit-your-bot/?$ https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform [L,R=301,NC]
+    ##  ???
+    #    RewriteCond %{HTTP_HOST} ^(www\.)?botwiki\.org$ [NC]
+    #    RewriteRule ^submit-your-bot/?$ https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform [L,R=301,NC]
 
-</IfModule>
+    </IfModule>
 
-<IfModule mod_env.c>
-   SetEnv HTTPS on
-</IfModule>
+    <IfModule mod_env.c>
+       SetEnv HTTPS on
+    </IfModule>
 
-# Prevent file browsing
-Options -Indexes
+    # Prevent file browsing
+    Options -Indexes
 
-Redirect "/ph" "/"
-RedirectMatch "^/submit-your-bot/*" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
+    Redirect "/ph" "/"
+    RedirectMatch "^/submit-your-bot/*" "https://docs.google.com/forms/d/1IZGM4AIUye_bp4e_8i1zXGcBqGxGAsLk61L4OeWJ5co/viewform"
 
-# Surveys
-RedirectMatch "^/survey/bot-workshop-ideas/*" "https://docs.google.com/forms/d/13iqCihIBHWKgktZ6_w3dbRh5Oj6xtvs-cbukSyBG-5o/viewform"
-RedirectMatch "^/survey/botmaking-01/*" "https://docs.google.com/forms/d/1MCKQSB2CCHUy7z-IDtNS-eSXQzXJWLEYGInF-Yd2CT4/viewform"
-RedirectMatch "^/survey/2015-end-of-the-year/*" "https://docs.google.com/forms/d/1s__aIJK14Ez_PUG4cAafUiqpfERqhVa5AiZmoER5DVE/viewform"
-RedirectMatch "^/survey/quick-bot-survey/*" "https://docs.google.com/forms/d/1tASwWCIgJcd16gRJhamSNJoI8xOEwbzRsy52V2ZI9jQ/viewform"
-RedirectMatch "^/survey/botmakers-community-survey/*" "https://docs.google.com/forms/d/1coP28xTpLZQvDeWmqcBE3TYKK403BLcrisv5tvpFP4s/viewform"
-RedirectMatch "^/survey/bot-workshop-feedback/*" "https://docs.google.com/forms/d/e/1FAIpQLSc02KEU3JEypGnCCt_xR5UGCibwlvRGBPMn9vT3Ky9bsDZaiw/viewform"
-RedirectMatch "^/survey/opensource/*" "https://docs.google.com/forms/d/e/1FAIpQLSepU-v4M7Za0FKgcJqSvKTsBWov8RouDiFBmzwp9YSDjz0JVA/viewform"
+    # Surveys
+    RedirectMatch "^/survey/bot-workshop-ideas/*" "https://docs.google.com/forms/d/13iqCihIBHWKgktZ6_w3dbRh5Oj6xtvs-cbukSyBG-5o/viewform"
+    RedirectMatch "^/survey/botmaking-01/*" "https://docs.google.com/forms/d/1MCKQSB2CCHUy7z-IDtNS-eSXQzXJWLEYGInF-Yd2CT4/viewform"
+    RedirectMatch "^/survey/2015-end-of-the-year/*" "https://docs.google.com/forms/d/1s__aIJK14Ez_PUG4cAafUiqpfERqhVa5AiZmoER5DVE/viewform"
+    RedirectMatch "^/survey/quick-bot-survey/*" "https://docs.google.com/forms/d/1tASwWCIgJcd16gRJhamSNJoI8xOEwbzRsy52V2ZI9jQ/viewform"
+    RedirectMatch "^/survey/botmakers-community-survey/*" "https://docs.google.com/forms/d/1coP28xTpLZQvDeWmqcBE3TYKK403BLcrisv5tvpFP4s/viewform"
+    RedirectMatch "^/survey/bot-workshop-feedback/*" "https://docs.google.com/forms/d/e/1FAIpQLSc02KEU3JEypGnCCt_xR5UGCibwlvRGBPMn9vT3Ky9bsDZaiw/viewform"
+    RedirectMatch "^/survey/opensource/*" "https://docs.google.com/forms/d/e/1FAIpQLSepU-v4M7Za0FKgcJqSvKTsBWov8RouDiFBmzwp9YSDjz0JVA/viewform"
 
-RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
-RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
-RedirectMatch "^/tutorials/bots-should-punch-up/*$" "https://botwiki.org/articles/bots-should-punch-up/"
-RedirectMatch "^/tutorials/basic-twitter-bot-etiquette-tiny-subversions/*$" "https://botwiki.org/articles/basic-twitter-bot-etiquette-tiny-subversions/"
-RedirectMatch "^/bot-workshops/workshop-01/*$" "https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/"
-RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
-RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
+    RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
+    RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"
+    RedirectMatch "^/tutorials/bots-should-punch-up/*$" "https://botwiki.org/articles/bots-should-punch-up/"
+    RedirectMatch "^/tutorials/basic-twitter-bot-etiquette-tiny-subversions/*$" "https://botwiki.org/articles/basic-twitter-bot-etiquette-tiny-subversions/"
+    RedirectMatch "^/bot-workshops/workshop-01/*$" "https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/"
+    RedirectMatch "^/tag/*$" "https://botwiki.org/tag/all-tags"
+    RedirectMatch "^/mbc/*$" "https://botwiki.org/monthly-bot-challenge"
 
-# Redirect old event pages
-RedirectMatch "^/events/bot-summit-2016/*" "https://botwiki.org/events/2016/bot-summit-2016"
-RedirectMatch "^/events/nanogenmo-2015/*" "https://botwiki.org/events/2015/nanogenmo-2015"
-RedirectMatch "^/events/nanogenmo-2016/*" "https://botwiki.org/events/2016/nanogenmo-2016"
-RedirectMatch "^/events/nabomamo-2016/*" "https://botwiki.org/events/2016/nabomamo-2016"
-RedirectMatch "^/events/ibm-watson-robots-cognitive-iot-january-2016/*" "https://botwiki.org/events/2016/ibm-watson-robots-cognitive-iot-january-2016/"
+    # Redirect old event pages
+    RedirectMatch "^/events/bot-summit-2016/*" "https://botwiki.org/events/2016/bot-summit-2016"
+    RedirectMatch "^/events/nanogenmo-2015/*" "https://botwiki.org/events/2015/nanogenmo-2015"
+    RedirectMatch "^/events/nanogenmo-2016/*" "https://botwiki.org/events/2016/nanogenmo-2016"
+    RedirectMatch "^/events/nabomamo-2016/*" "https://botwiki.org/events/2016/nabomamo-2016"
+    RedirectMatch "^/events/ibm-watson-robots-cognitive-iot-january-2016/*" "https://botwiki.org/events/2016/ibm-watson-robots-cognitive-iot-january-2016/"

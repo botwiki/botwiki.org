@@ -17,16 +17,21 @@ Weight: 1
 So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
 
 
-> An Internet bot, also known as web robot, WWW robot or simply bot, is a software application that runs automated tasks over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.
->
-> -- [Wikipedia](https://en.wikipedia.org/wiki/Internet_bot)
 
+<blockquote>
+  <div class="row">
+    <div class="col-sm-12 col-md-6 no-pad">
+      <p>An Internet bot, also known as web robot, WWW robot or simply bot, is a software application that runs automated tasks over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.</p>
+      <p>
+        -- <a href="https://en.wikipedia.org/wiki/Internet_bot">Wikipedia</a>
+      </p>
+    </div>
+    <div class="col-sm-12 col-md-6" markdown=1>
+[![Congress edits Wikipedia](/content/bots/twitterbots/images/congressedits.png)](/bots/twitterbots/congressedits){.screenshot}
+  </div>
+</div>
+</blockquote>
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/congressedits">
-    <img src="/content/bots/twitterbots/images/congressedits.png">
-  </a>
-</p>
 
 
 

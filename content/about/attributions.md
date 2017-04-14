@@ -1,6 +1,7 @@
 /*
 Title: Attributions
 Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
+Tags: about,botwiki
 Show donation link: yes
 Description: Credit where credit's due!
 */

@@ -149,6 +149,7 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [API support for 140 second video](https://twittercommunity.com/t/api-support-for-140-second-video/69153)
 - [Alt text support for Twitter Cards and the REST API](https://blog.twitter.com/2016/alt-text-support-for-twitter-cards-and-the-rest-api)
 - [Twitter's missing manual](https://eev.ee/blog/2016/02/20/twitters-missing-manual/)
+- [Twitter API Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-api-platform-roadmap)
 
 See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitter API.
 

@@ -2,6 +2,7 @@
 Title: Images, audio, video, and other free media
 Description: Tons of free images, sounds and videos to fuel your bot.
 Thumbnail: /content/images/illustrations/studio-work-large.png
+Tags: resources,free,images,sounds,videos,media
 Date: July 23, 2015
 Show donation link: yes
 
@@ -49,6 +50,7 @@ These are not always downloadable, but you can at least freely link to them.
 ### [¶](#free-audio){.pilcrow} Free audio {#free-audio}
 
 - [AudioSet](https://research.google.com/audioset/): A large-scale dataset of manually annotated audio events
+- [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth): Large-scale and high-quality dataset of annotated musical notes
 - [freesound4s](https://archive.org/details/freesound4s): 126,900 sounds on [Freesound](https://freesound.org/) less than 4 seconds long
   - see also: [Fingerprints and Labels to Classifier.ipynb](https://github.com/kylemcdonald/AudioNotebooks/blob/master/Fingerprints%20and%20Labels%20to%20Classifier.ipynb)
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series

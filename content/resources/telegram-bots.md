@@ -2,6 +2,7 @@
 Title: Resources for Telegram bots
 Description: Libraries and other resources specifically for Telegram bots.
 Thumbnail: /content/images/illustrations/advice-hostess-large.jpg
+Tags: resources,telegram
 Show donation link: yes
 Nav: hidden
 */

@@ -2,6 +2,7 @@
 Title: Web APIs
 Description: If you know what APIs are, you're in the right place.
 Thumbnail: /content/images/illustrations/steam-engine2-large.jpg
+Tags: resources,apis
 Date: July 23, 2015
 Show donation link: yes
 

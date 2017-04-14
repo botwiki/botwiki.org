@@ -28,8 +28,8 @@ Show donation link: yes
 
 ### [¶](#twilio){.pilcrow} Twilio {#twilio}
 
-- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio.com](https://www.twilio.com/)
-
+- [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio](https://www.twilio.com/)
+- [Playing a Twitter adventure game using SMS and Twilio on Glitch](https://www.twilio.com/blog/2017/04/playing-a-twitter-adventure-game-using-sms-and-twilio-on-glitch.html) (twilio.com)
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 

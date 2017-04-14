@@ -2,6 +2,7 @@
 Title: Resources for GNU Social bots
 Description: Libraries and other resources for GNU Social bots.
 Thumbnail: /content/images/illustrations/clockwork2-large.jpg
+Tags: resources,gnu,social,mastodon
 Show donation link: yes
 Nav: hidden
 */
@@ -19,16 +20,17 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 #### [¶](#mastodon-nodejs){.pilcrow} node.js {#mastodon-nodejs}
 
+- [tracery-mastodon-bot](https://glitch.com/~tracery-mastodon-bot): generative Mastodon bot starter project using [Tracery](http://tracery.io/)
 - [jessicahayley/node-mastodon](https://github.com/jessicahayley/node-mastodon), a fork of the [twit](https://github.com/ttezel/twit) library for the [Mastodon](https://github.com/tootsuite/mastodon) API
-  - see [DEFAULT_REST_ROOT](https://github.com/jessicahayley/node-mastodon/blob/master/lib/mastodon.js#L11) to enable other GNU Social platforms
 
 #### [¶](#mastodon-python){.pilcrow} Python {#mastodon-python}
 
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py)
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API
+- [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster
 
 #### [¶](#mastodon-ruby){.pilcrow} Ruby {#mastodon-ruby}
 
-- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api)
+- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api): Ruby interface for the Mastodon API
 
 #### [¶](#tools){.pilcrow} Tools {#tools}
 

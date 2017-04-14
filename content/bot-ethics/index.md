@@ -14,9 +14,8 @@ Nav: hidden
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
-
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Misbehaving bots](#misbehaving-bots)
@@ -25,8 +24,12 @@ Nav: hidden
 - [General resources](#general-resources)
 - [Life of a bot](#life-of-a-bot)
 - [Further reading](#see-also)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not a crisis: not everybody can code.<br><br>Actually a crisis: programmers don&#39;t know ethics, history, sociology, psychology, or the law.</p>&mdash; Brian Mastenbrook (@bmastenbrook) <a href="https://twitter.com/bmastenbrook/status/793104148732469248">October 31, 2016</a></blockquote>
+  </div>
+</div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
 
 
 ### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
@@ -43,6 +46,8 @@ Nav: hidden
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb) (Amir Shevat via Slack Platform Blog)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I spent 10 minutes discussing the <a href="https://twitter.com/hashtag/Ethics?src=hash">#Ethics</a> of <a href="https://twitter.com/hashtag/AI?src=hash">#AI</a> &amp; <a href="https://twitter.com/hashtag/Robots?src=hash">#Robots</a> with my 5 &amp; 7 year old kids. They have produced their own <a href="https://twitter.com/hashtag/RobotRules?src=hash">#RobotRules</a>! <a href="https://twitter.com/hashtag/ProudDad?src=hash">#ProudDad</a> <a href="https://t.co/gC1o8yRct5">pic.twitter.com/gC1o8yRct5</a></p>&mdash; Rob McCargow (@robmccargow) <a href="https://twitter.com/robmccargow/status/843740450397835266">March 20, 2017</a></blockquote>
 
 ### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
 - [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
@@ -71,9 +76,10 @@ Nav: hidden
 - [Investigating the algorithms that govern our lives](http://www.cjr.org/innovations/investigating_algorithms.php) (cjr.org)
 - ["Programming and Prejudice: Can Computers Be Racist?" (Talks at Google)](https://www.youtube.com/watch?v=4fNx8XxToBA) (youtube.com)
 
-### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
+
+### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
 
 - [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
@@ -89,11 +95,11 @@ Nav: hidden
 - [Automate This! Delivering Resistance in the Gig Economy](http://www.metamute.org/editorial/articles/automate-delivering-resistance-gig-economy) (metamute.org)
 - [Artificial intelligence is ripe for abuse, tech executive warns: 'a fascist's dream'](https://www.theguardian.com/technology/2017/mar/13/artificial-intelligence-ai-abuses-fascism-donald-trump) (theguardian.com)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
+
 
 
 ### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
 - [Why Humans Love Robots Like People](http://www.thedailybeast.com/articles/2017/03/25/why-humans-are-primed-to-love-robots.html)
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
@@ -102,6 +108,10 @@ Nav: hidden
 - [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/) (qz.com)
 - [Why Amazon’s Alexa is a feminist](http://venturebeat.com/2017/03/09/botbeat-weekly-why-amazons-alexa-is-a-feminist/) (venturebeat.com)
 - [The truth about gender-neutral bots](https://medium.com/@HealthinarE/the-truth-about-gender-neutral-bots-448bc0cab6dc) (Healthinar Engagement via medium.com)
+- [REPORT: 1 in 4 people have fantasised about Alexa, Siri, and other AI assistants](http://www.businessinsider.com/jwt-speak-easy-study-people-fantasised-about-alexa-2017-4)
+- [Why People Treat Bots Like People](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8) (chatbotsmagazine.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
@@ -122,6 +132,7 @@ Nav: hidden
 
 ### [¶](#see-also){.pilcrow} See also {#see-also}
 
+- [Machine ethics on Wikipedia](https://en.wikipedia.org/wiki/Machine_ethics)
 - [General essays on Botwiki](/articles/#general-essays)
 - [Ethical Machines](http://ethicalmachines.com/): podcast, a "series of conversations about humans, machines & ethics", see [related blog post on medium.com](https://medium.com/@samim/ethicalmachines-b7c63aaceda5) (ethicalmachines.com)
 - [Moral Machines](http://moralmachine.mit.edu/) (moralmachine.mit.edu)
@@ -134,4 +145,12 @@ Nav: hidden
 - [Resources for cleaning up your bot's language](/resources/libraries-frameworks/#language)
 - [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) (wikipedia.org)
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
+
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BPp8LemBnik/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Advice</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Matt W (@genmon) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-01-24T17:21:52+00:00">Jan 24, 2017 at 9:21am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

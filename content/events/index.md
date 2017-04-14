@@ -20,8 +20,4 @@ Events either dedicated to botmaking or those that include relevant sessions.
 - [Upcoming](/tag/event+upcoming) and [ongoing](/tag/event+ongoing) events
 - [Past events](/tag/event+archived)
 
-You can also browse dedicated [meetup groups](/events/meetups).
-
-
-
-Follow [@botwikidotorg](https://twitter.com/botwikidotorg) for live updates.
+You can also browse dedicated [meetup groups](/events/meetups) and follow [@botwikidotorg](https://twitter.com/botwikidotorg) for live updates.
