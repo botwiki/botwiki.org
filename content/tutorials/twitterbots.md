@@ -23,6 +23,9 @@ Learn how to make bots for [Twitter](https://twitter.com/) ([Wikipedia link](htt
 
 Can't wait to see you there!
 
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Beginner tutorials](#beginner-tutorials)
@@ -35,19 +38,23 @@ Can't wait to see you there!
 - [Intermediate tutorials](#intermediate-tutorials)
 - [Twitter API](#twitter-api)
 - [Notes](#unsorted-notes)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <p>
+      <a href="/bot-workshops/botmaking-from-the-ground-up">
+        <img class="screenshot" src="/content/bot-workshops/images/bots-are-cool.png">
+      </a>
+    </p>
+    <div markdown=1>
+*[Botmaking from the Ground Up](/bot-workshops/botmaking-from-the-ground-up) is a fun and informative [workshop](/bot-workshops/) on how to get started writing Twitter bots.*
+    </div>
+  </div>
+</div>
+
+
 
 ### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
 
-<p class="screenshot float-right">
-  <a href="/bot-workshops/botmaking-from-the-ground-up">
-    <img src="/content/bot-workshops/images/bots-are-cool.png">
-  </a>
-</p>
-
-
-[Botmaking from the Ground Up](/bot-workshops/botmaking-from-the-ground-up) is a fun and informative [workshop](/bot-workshops/) on how to get started writing Twitter bots.
-
-With [Bradley Momberger](https://twitter.com/air_hadoken)'s guidance, you will create three bots with the barest minimum of programming required.
 
 #### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
 
