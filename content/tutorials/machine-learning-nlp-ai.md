@@ -61,6 +61,7 @@ Nav: hidden
 
 ### [¶](#general){.pilcrow} General tutorials {#general}
 
+- [Learning AI if You Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037) (hackernoon.com)
 - [Free AI Course Materials](http://popsnip.com/topic/982/)
 - [Artificial Intelligence Lecture Videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) (ocw.mit.edu)
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
