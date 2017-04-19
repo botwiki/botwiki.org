@@ -54,15 +54,6 @@
     {% endif %}
 
     <div class="meta">
-      <p class="share-prompt">
-      {% if meta.language == 'es' %}
-        Comparte esta página
-      {% else %}
-        Share this page
-      {% endif %}
-      </p>
-      {% include 'includes/sharing-is-caring.html' %}
-
       {% if meta.tags is not empty %}
         {% if 'bot' in meta.tags %}
           <p class="tags">
@@ -84,5 +75,15 @@
         {% endif %}
       {% endif %}
     </p>
+    <div class="share-prompt">
+        <h4>
+        {% if meta.language == 'es' %}
+          Comparte esta página
+        {% else %}
+          Share this page
+        {% endif %}
+        </h4>
+        {% include 'includes/sharing-is-caring.html' %}
+      </div>
   </div>
 </article>

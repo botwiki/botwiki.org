@@ -166,7 +166,7 @@ a{
 h1, h2, h3, h4, h5, h6{
   text-transform: uppercase;
   max-width: @max-content-width;
-  margin: 0 auto;
+  margin: 0 auto !important;
   font-family: 'Anton', serif;  
   color: @main-color;
   line-height: 1.2em;
@@ -293,7 +293,7 @@ blockquote{
   /* Courtesy of css-tricks.com. */
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  max-width: @max-content-width;
+  // max-width: @max-content-width;
   margin: 1.5em auto;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -630,7 +630,7 @@ div#content-wrapper{
 
 #content{
   position: relative;
-  min-height: 70em;
+  min-height: 60em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -710,7 +710,7 @@ div.sidebar-module:not(:first-child){
 }
 
 div#main{
-  padding: 0 0 2em;
+  padding: 0;
   @media (min-width : @site-width-small){
     margin-right: @sidebar-width-small;
   }
@@ -915,13 +915,28 @@ span.normal-text{
   font-style: normal;
 }
 
-div.meta p.share-prompt{
-  text-transform: uppercase;
-  font-weight: bold;
-  border-top: 6px dashed rgba(220, 220, 215, 0.4);
-  padding-top: 2em !important;
-  margin-top: 2em !important;
+div.meta{
+  .share-prompt{
+    background-color: #f9f9f9;
+    border-left: 10px solid #ccc;
+    text-transform: uppercase;
+    padding-top: 2em !important;
+    padding-bottom: 2em;
+    margin-top: 2em !important;
+    h4{
+      font-size: 1.5em;
+      padding: .5rem 2rem;
+      max-width: @max-content-width;
+      margin: 0 auto;
+    }
+  }
+
+
+  p{
+    padding: .1rem 2rem;
+  }
 }
+
 
 ul.sharing-is-caring{
   @media (max-width: @site-width-small){
