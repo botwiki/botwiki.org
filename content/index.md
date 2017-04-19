@@ -27,6 +27,27 @@ Some examples of such bots include:
   </div>
 </div>
 
+<!--
+<div class="container-fluid no-pad">
+  <div class="row no-pad">
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+  </div>
+</div>
+-->
 
 There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add!
 

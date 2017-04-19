@@ -145,6 +145,7 @@ body{
   margin: 0;
   background: @background-color;
   -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
 }
 
 a{
@@ -628,13 +629,17 @@ div#content-wrapper{
 }
 
 #content{
+  position: relative;
   min-height: 70em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
-  font-size: 1.1em;
-  line-height: 1.3em;
-  position: relative;
+  font-size: 1em;
+  line-height: 1.2em;
+  @media (min-width : @site-width-small){
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
 }
 
 aside#sidebar{
@@ -755,7 +760,15 @@ p.empty-element{
   padding-bottom: 0 !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+
+  .no-pad &{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
+
 
 
 ol li p,
@@ -1258,4 +1271,8 @@ div.row{
   max-width: @max-content-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+.w-100{
+  max-width: 100% !important;
 }
