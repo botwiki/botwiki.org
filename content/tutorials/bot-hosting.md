@@ -2,7 +2,7 @@
 Title: Bot hosting
 Description: Learn how to host your bot!
 Thumbnail: /content/images/illustrations/man-reading-mail.png
-Tags: bots,hosting,deploy,deployment,digitalocean,heroku,dexter,cron,hubot,beep boop
+Tags: tutorials,bots,hosting,deploy,deployment,digitalocean,heroku,dexter,cron,hubot,beep boop
 Show donation link: yes
 Nav: hidden
 */

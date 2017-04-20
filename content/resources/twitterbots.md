@@ -62,6 +62,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda): Go client library for the Twitter API
 - [zhaytee/botville](https://github.com/zhaytee/botville): a simple package for bootstrapping a Twitter bot in Go
 - [matteoredaelli/twitterBot](https://github.com/matteoredaelli/twitterBot): a simple Twitter bot written in Elixir
+- [StrongLoop-Evangelists/openwhisk-twitterbot-template](https://github.com/StrongLoop-Evangelists/openwhisk-twitterbot-template): a blank template to use to make simple text-driven Twitterbots with [OpenWhisk](http://openwhisk.org/)
 - [Literal Twitter Bot Kit](https://www.adafruit.com/product/3281) (adafruit.com)
 
 For more frameworks and libraries built for the Twitter platform, check out [Twitter Libraries](https://dev.twitter.com/resources/twitter-libraries) at dev.twitter.com.

@@ -7,7 +7,7 @@ Small thumbnail: /content/images/botwiki-nixiebot-small-thumbnail.jpg
 Show donation link: yes
 */
 
-**Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** [online bots](/bots/), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
+**Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** online bots ([what is a bot?](/bots/)), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
 
 
@@ -27,6 +27,27 @@ Some examples of such bots include:
   </div>
 </div>
 
+<!--
+<div class="container-fluid no-pad">
+  <div class="row no-pad">
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+    <div class="col no-pad" markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
+    </div>
+  </div>
+</div>
+-->
 
 There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add!
 
@@ -35,8 +56,7 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 </div>
 
 
-**SEE ALSO**
+#### SEE ALSO
 
-- [List of all Botwiki projects](/projects/)
 - [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
-- [One year of Botwiki 🤖🎂👏🎉 (July 2016)](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/) 
+- [One year of Botwiki 🤖🎂👏🎉](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/) 

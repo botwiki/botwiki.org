@@ -1689,6 +1689,7 @@ body {
   margin: 0;
   background: #EDEDE8;
   -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
 }
 @media (max-width: 860px) {
   body {
@@ -1735,10 +1736,18 @@ h6 {
     padding: 1rem 2rem;
   }
 }
+a.pilcrow {
+  float: right;
+}
 a.pilcrow,
 a.pilcrow:visited {
-  color: #c0b9c2;
+  color: #e2dbe4;
+  transition: color 0.2s;
+}
+a.pilcrow:hover {
   transition: color 0.3s;
+  color: #5a535c;
+  text-decoration: none;
 }
 h1 a,
 h2 a,
@@ -1746,11 +1755,6 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  text-decoration: none;
-}
-a.pilcrow:hover {
-  transition: color 0.3s;
-  color: #160f18;
   text-decoration: none;
 }
 h1 {
@@ -1995,6 +1999,9 @@ div.all-tags a {
     height: 2em;
   }
 }
+li.active a {
+  border-bottom: 8px solid #38313a;
+}
 @media (min-width: 860px) {
   li.active a {
     border-bottom: 3px solid #F5F5F5;
@@ -2028,7 +2035,11 @@ ul#menu {
 }
 #header a {
   color: #5D9CEC;
-  padding-bottom: 8px;
+}
+@media (min-width: 860px) {
+  #header a {
+    padding-bottom: 8px;
+  }
 }
 #header a,
 #header a:hover {
@@ -2147,13 +2158,19 @@ div#content-wrapper {
   }
 }
 #content {
+  position: relative;
   min-height: 70em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
-  font-size: 1.1em;
-  line-height: 1.3em;
-  position: relative;
+  font-size: 1em;
+  line-height: 1.2em;
+}
+@media (min-width: 860px) {
+  #content {
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
 }
 @media (min-width: 860px) {
   aside#sidebar {
@@ -2260,8 +2277,11 @@ div#main p {
     max-width: 50% !important;
   }
 }
-p.screenshot img {
+p.screenshot img,
+a.screenshot img,
+img.screenshot {
   border: 1px solid #ddd;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
 }
 @media (min-width: 860px) {
   p.screenshot.float-right {
@@ -2279,6 +2299,12 @@ p.empty-element {
   padding-bottom: 0 !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+}
+.no-pad p.empty-element {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 ol li p,
 ul li p {
@@ -2713,6 +2739,9 @@ div.row {
   max-width: 1150px;
   margin-left: auto;
   margin-right: auto;
+}
+.w-100 {
+  max-width: 100% !important;
 }
 /* Lazy-loading images. */
 .lazy-load {

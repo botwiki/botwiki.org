@@ -296,6 +296,21 @@ And once again, looking at our bot's Twitter page, we see it was indeed posting.
 
 You can press `CTRL+C` while using the command line to end the script.
 
+Also, if you want to delete the image after posting it, you can use [`fs.unlink`](https://nodejs.org/api/fs.html#fs_fs_unlink_path_callback) for that, so add this to the `upload_random_image` function, after you successfully post an image to Twitter:
+
+```
+fs.unlink(image_path, function(err){
+  if (err){
+    console.log('ERROR: unable to delete image ' + image_path);
+  }
+  else{
+    console.log('image ' + image_path + ' was deleted');
+  }
+}
+```
+
+This way you can choose whether you want to cycle through all the images or only use each image once. You could also keep a list of images you already posted to avoid posting the same one twice in a row, or too many times. Or you could [move the images to a different folder](http://stackoverflow.com/questions/38285546/how-can-i-move-files-to-a-directory-using-node-js) after posting them, and once your original folder is empty, move them back. 
+
 ### [¶](#hosting-your-bot){.pilcrow} Hosting your bot {#hosting-your-bot}
 
 Great, so now you have your very own image-tweeting bot. The final step is moving the code to a server that will host the bot for you.

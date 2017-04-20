@@ -145,6 +145,7 @@ body{
   margin: 0;
   background: @background-color;
   -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
 }
 
 a{
@@ -165,7 +166,7 @@ a{
 h1, h2, h3, h4, h5, h6{
   text-transform: uppercase;
   max-width: @max-content-width;
-  margin: 0 auto;
+  margin: 0 auto !important;
   font-family: 'Anton', serif;  
   color: @main-color;
   line-height: 1.2em;
@@ -292,7 +293,7 @@ blockquote{
   /* Courtesy of css-tricks.com. */
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  max-width: @max-content-width;
+  // max-width: @max-content-width;
   margin: 1.5em auto;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -584,7 +585,7 @@ ul#menu{
         margin-left: 0;
         margin-top: -5px;
         float: right;
-        width: 310px;
+        width: 265px;
         @media (max-width: @site-width-medium){
           margin-top: 0;
           margin-bottom: 0;
@@ -628,13 +629,17 @@ div#content-wrapper{
 }
 
 #content{
-  min-height: 70em;
+  position: relative;
+  min-height: 60em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
-  font-size: 1.1em;
-  line-height: 1.3em;
-  position: relative;
+  font-size: 1em;
+  line-height: 1.2em;
+  // @media (min-width : @site-width-small){
+  //   font-size: 1.1em;
+  //   line-height: 1.3em;
+  // }
 }
 
 aside#sidebar{
@@ -705,7 +710,7 @@ div.sidebar-module:not(:first-child){
 }
 
 div#main{
-  padding: 0 0 2em;
+  padding: 0;
   @media (min-width : @site-width-small){
     margin-right: @sidebar-width-small;
   }
@@ -733,8 +738,11 @@ p.screenshot{
   }
 }
 
-p.screenshot img{
+p.screenshot img,
+a.screenshot img,
+img.screenshot{
   border: 1px solid #ddd;
+  box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
 }
 
 p.screenshot.float-right{
@@ -755,7 +763,15 @@ p.empty-element{
   padding-bottom: 0 !important;
   margin-top: 0 !important;
   margin-bottom: 0 !important;
+
+  .no-pad &{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
+
 
 
 ol li p,
@@ -899,13 +915,28 @@ span.normal-text{
   font-style: normal;
 }
 
-div.meta p.share-prompt{
-  text-transform: uppercase;
-  font-weight: bold;
-  border-top: 6px dashed rgba(220, 220, 215, 0.4);
-  padding-top: 2em !important;
-  margin-top: 2em !important;
+div.meta{
+  .share-prompt{
+    background-color: #f9f9f9;
+    border-left: 10px solid #ccc;
+    text-transform: uppercase;
+    padding-top: 2em !important;
+    padding-bottom: 2em;
+    margin-top: 2em !important;
+    h4{
+      font-size: 1.5em;
+      padding: .5rem 2rem;
+      max-width: @max-content-width;
+      margin: 0 auto;
+    }
+  }
+
+
+  p{
+    padding: .1rem 2rem;
+  }
 }
+
 
 ul.sharing-is-caring{
   @media (max-width: @site-width-small){
@@ -1258,4 +1289,8 @@ div.row{
   max-width: @max-content-width;
   margin-left: auto;
   margin-right: auto;
+}
+
+.w-100{
+  max-width: 100% !important;
 }

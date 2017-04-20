@@ -2,7 +2,7 @@
 Title: Bot ethics
 Description: Going beyond 'bot UX'.
 Thumbnail: /content/images/illustrations/man-reading-mail.png
-Tags: tutorials,essays,bots,ethics,language
+Tags: articles,essays,bots,ethics,language
 Show donation link: yes
 Nav: hidden
 */

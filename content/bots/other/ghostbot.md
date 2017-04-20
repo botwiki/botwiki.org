@@ -20,12 +20,12 @@ Robots: index,follow
 >
 > 3. Wait for a message. When Ghostbot sees incoming texts from a person who has been “ghosted,” it runs a Natural Language Processing (NLP) engine to reply. After a variable delay, it replies to the message with one of many possible scripted responses: For example, “nope,” “I just have no time right now,” “sorry, I’m just completely overwhelmed with work,” or “sorry, just me and 🍕 tonight.” This continues until the conversation peters out and the texter gets the hint.
 >
-> Release blog post here: http://www.burnerapp.com/blog/2016/6/21/say-hello-to-ghostbot-a-smart-bot-that-can-handle-your-unwanted-texts
+> See [release blog post here](http://www.burnerapp.com/blog/2016/6/21/say-hello-to-ghostbot-a-smart-bot-that-can-handle-your-unwanted-texts).
 
 The bot was also covered in the press:
 
-[theverge.com/2016/6/21/11975700/ghostbot-texting-dating-bot-app-mean-texts](http://www.theverge.com/2016/6/21/11975700/ghostbot-texting-dating-bot-app-mean-texts)
-[dailydot.com/lifestyle/ghostbot-dumps-dates/](http://www.dailydot.com/lifestyle/ghostbot-dumps-dates/)
-[thrillist.com/news/nation/ghostbot-app-automatically-responds-to-your-unwanted-texts](https://www.thrillist.com/news/nation/ghostbot-app-automatically-responds-to-your-unwanted-texts)
-[yahoo.com/tech/dont-breakup-in-person-there-is-an-app-for-that-193137833.html](https://www.yahoo.com/tech/dont-breakup-in-person-there-is-an-app-for-that-193137833.html)
-[techcrunch.com/2016/06/21/burner-a-service-that-generates-temporary-phone-numbers-makes-it-easier-to-ghost-conversations/](https://techcrunch.com/2016/06/21/burner-a-service-that-generates-temporary-phone-numbers-makes-it-easier-to-ghost-conversations/)
+- [theverge.com](http://www.theverge.com/2016/6/21/11975700/ghostbot-texting-dating-bot-app-mean-texts)
+- [dailydot.com](http://www.dailydot.com/lifestyle/ghostbot-dumps-dates/)
+- [thrillist.com](https://www.thrillist.com/news/nation/ghostbot-app-automatically-responds-to-your-unwanted-texts)
+- [yahoo.com](https://www.yahoo.com/tech/dont-breakup-in-person-there-is-an-app-for-that-193137833.html)
+- [techcrunch.com](https://techcrunch.com/2016/06/21/burner-a-service-that-generates-temporary-phone-numbers-makes-it-easier-to-ghost-conversations/)

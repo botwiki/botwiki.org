@@ -30,8 +30,6 @@ For more of Botwiki Foundation's projects and initiatives, check out the [Projec
 
 All of our work is [open](https://github.com/botwiki/), and everyone is invited to contribute. Feel free to [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi [via email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)!
 
-
-
 ### [¶](#timeline){.pilcrow} Timeline {#timeline}
 
 Below is a timeline of major events in the history of the Botwiki project.
@@ -62,8 +60,6 @@ Below is a timeline of major events in the history of the Botwiki project.
 - **July 12:** The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 
 
-<!-- TODO: Find new video.
-<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/8XhQRFO4M7A" frameborder="0" allowfullscreen></iframe></div>
--->
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want to learn how to make fun/weird/artsy bots? Join <a href="https://t.co/4FH6Ohd5ue">https://t.co/4FH6Ohd5ue</a>  and check out our tutorials <a href="https://t.co/52klQ1dEml">https://t.co/52klQ1dEml</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/799687419259797504">November 18, 2016</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

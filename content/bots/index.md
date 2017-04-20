@@ -69,11 +69,6 @@ Thanks for checking out **Botwiki**!
 
 **PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/buoypix">
-    <img src="/content/bots/twitterbots/images/buoypix.png">
-  </a>
-</p>
 
 #### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
 
@@ -106,7 +101,7 @@ Or check out a [random bot](/random-bot)!
 
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. BTW: No need to @ mention me, just use the tag Hey: <a href="https://t.co/ZsgiAa6IVB">pic.twitter.com/ZsgiAa6IVB</a></p>&mdash; Your Words In Neon (@NixieBot) <a href="https://twitter.com/NixieBot/status/839493822103044096">March 8, 2017</a></blockquote>
-
+    
 #### [¶](#bot-directories){.pilcrow} Bot directories {#bot-directories}
 
 Botwiki is mainly focused on creative examples of online bots. If you're more interested in "business bots", check out some of these bot directories:
