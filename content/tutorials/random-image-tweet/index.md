@@ -174,7 +174,7 @@ There are two more steps left now. Making your bot do something interesting, and
 
 Here's an idea: maybe our bot could post cute pictures of puppies, kittens, panda bears, and other animals! 
 
-First, download a few pictures of animals that you think look cute. Create a folder called `cute-animals` and add these images here.
+First, download a few pictures of animals that you think look cute. Create a folder called `images` and add these images here.
 
 Next, remove the code that posted your first tweet:
 
