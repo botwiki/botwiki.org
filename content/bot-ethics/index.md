@@ -21,8 +21,8 @@ Nav: hidden
 - [Misbehaving bots](#misbehaving-bots)
 - [Biased algorithms](#biased-algorithms)
 - [Dangers in automation](#dangers-in-automation)
-- [General resources](#general-resources)
 - [Life of a bot](#life-of-a-bot)
+- [General resources](#general-resources)
 - [Further reading](#see-also)
   </div>
   <div class="col-sm-12 col-md-6">
