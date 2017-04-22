@@ -306,8 +306,10 @@ fs.unlink(image_path, function(err){
   else{
     console.log('image ' + image_path + ' was deleted');
   }
-}
+});
 ```
+
+(See [`server-delete-images.js` on GitHub](https://github.com/fourtonfish/random-image-twitterbot/blob/master/server-delete-images.js).)
 
 This way you can choose whether you want to cycle through all the images or only use each image once. You could also keep a list of images you already posted to avoid posting the same one twice in a row, or too many times. Or you could [move the images to a different folder](http://stackoverflow.com/questions/38285546/how-can-i-move-files-to-a-directory-using-node-js) after posting them, and once your original folder is empty, move them back. 
 
