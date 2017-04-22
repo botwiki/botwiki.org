@@ -188,7 +188,7 @@ T.post('statuses/update', { status: 'Look, I am tweeting!' }, function(err, data
 
 We are going to write these two functions:
 
-- `pick_random_image` will pick a random image
+- `random_from_array` will pick a random image from a group of images (you can also use this function to [pick random text to be posted with your image](https://github.com/fourtonfish/random-image-twitterbot/blob/master/server.js#L32))
 - `upload_random_image` will handle the actual image upload
 
 We will read all the files in our `images` folder and use the above two functions to pick one random image, upload it to Twitter, and post it.
@@ -196,7 +196,7 @@ We will read all the files in our `images` folder and use the above two function
 Here is the first function:
 
 ```
-function pick_random_image(images){
+function random_from_array(images){
   return images[Math.floor(Math.random() * images.length)];
 }
 ```
@@ -207,12 +207,12 @@ In my case, `images.length` will be 5. So `Math.random() * images.length` will a
 
 To avoid picking a number like 3.202108, we are using the `Math.floor()` function, which rounds the number down to the nearest whole number.
 
-With the `pick_random_image()` function in place, we can now start uploading the images. Here is the function, with a few console logs for easier understanding of the code.
+With the `random_from_array()` function in place, we can now start uploading the images. Here is the function, with a few console logs for easier understanding of the code.
 
 ```
 function upload_random_image(images){
   console.log('Opening an image...');
-  var image_path = path.join(__dirname, '/images/' + pick_random_image(images)),
+  var image_path = path.join(__dirname, '/images/' + random_from_array(images)),
       b64content = fs.readFileSync(image_path, { encoding: 'base64' });
 
   console.log('Uploading an image...');
@@ -244,7 +244,7 @@ function upload_random_image(images){
 }
 ```
 
-There are some technical parts to this, but in essence, we pick a random image from our folder (using the `pick_random_image` function), and then load the file into a variable `b64content`.
+There are some more technical parts to this, but in essence, we pick a random image from our folder (using the `random_from_array` function), and then load the file into a variable `b64content`.
 
 The `b64` refers to Twitter requiring the uploaded media files to be "base64-encoded" (see [this StackOverflow thread](http://stackoverflow.com/questions/3538021/why-do-we-use-base64) for a more technical explanation of what this means).
 
@@ -318,6 +318,8 @@ This way you can choose whether you want to cycle through all the images or only
 Great, so now you have your very own image-tweeting bot. The final step is moving the code to a server that will host the bot for you.
 
 I put the [finished code on GitHub](https://github.com/fourtonfish/random-image-tweet) and I also wrote a [tutorial on importing GitHub projects to Glitch](/tutorials/importing-github-glitch), which is a really awesome and free app that lets you [create and remix all kinds of fun apps](https://glitch.com/about/), including [bots](https://glitch.com/handy-bots).
+
+(Note: I made a [Glitch version](https://glitch.com/edit/#!/random-image-twitterbot) as well, but this one doesn't let you delete images.)
 
 For a good overview of all your bot-hosting options, check out [this list of available hosting solutions](https://botwiki.org/tutorials/bot-hosting), but keep in mind that almost all of them are paid, starting at $5-7 a month. And the free options are usually quite limited (for example, [Heroku](https://www.heroku.com/) only allows your app to run for a few hours every day if you're on the free plan).
 
