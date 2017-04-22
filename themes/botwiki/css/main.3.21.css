@@ -1621,7 +1621,8 @@ div.search-results-intro {
           animation: reveal 0.4s normal forwards ease-in-out;
 }
 article h1,
-article h2 {
+article h2,
+pre code {
   max-width: 1150px;
   margin: 0 auto;
 }
@@ -1720,6 +1721,7 @@ h5,
 h6 {
   text-transform: uppercase;
   max-width: 1150px;
+  margin: 0 auto !important;
   font-family: 'Anton', serif;
   color: #38313a;
   line-height: 1.2em;
@@ -1840,20 +1842,21 @@ pre code {
 }
 pre {
   background: #23241f;
-  padding: 0.5rem;
   margin-bottom: 1em;
   overflow: auto;
 }
+pre code {
+  padding: 2rem 0.5rem !important;
+}
 @media (min-width: 860px) {
-  pre {
-    padding: 0.5rem 2rem;
+  pre code {
+    padding: 2rem !important;
   }
 }
 blockquote {
   /* Courtesy of css-tricks.com. */
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  max-width: 1150px;
   margin: 1.5em auto;
   padding: 0.5em 10px;
   quotes: "\201C" "\201D" "\2018" "\2019";
@@ -2159,7 +2162,7 @@ div#content-wrapper {
 }
 #content {
   position: relative;
-  min-height: 70em;
+  min-height: 60em;
   background-color: #fff;
   padding: 0;
   margin-bottom: 2em;
@@ -2240,7 +2243,7 @@ aside#sidebar hr {
   }
 }
 div#main {
-  padding: 0 0 2em;
+  padding: 0;
 }
 @media (min-width: 860px) {
   div#main {
@@ -2411,12 +2414,22 @@ body.front-page .note.donations {
 span.normal-text {
   font-style: normal;
 }
-div.meta p.share-prompt {
+div.meta .share-prompt {
+  background-color: #f9f9f9;
+  border-left: 10px solid #ccc;
   text-transform: uppercase;
-  font-weight: bold;
-  border-top: 6px dashed rgba(220, 220, 215, 0.4);
   padding-top: 2em !important;
+  padding-bottom: 2em;
   margin-top: 2em !important;
+}
+div.meta .share-prompt h4 {
+  font-size: 1.5em;
+  padding: .5rem 2rem;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+div.meta p {
+  padding: .1rem 2rem;
 }
 ul.sharing-is-caring {
   padding-left: 1.5em;

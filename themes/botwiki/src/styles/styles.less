@@ -67,7 +67,8 @@ div.search-results-intro{
 }
 
 article h1, 
-article h2{
+article h2,
+pre code{
   max-width: @max-content-width;
   margin: 0 auto;
 }
@@ -281,11 +282,14 @@ pre code{
 
 pre{
   background: #23241f;
-  padding: 0.5rem;
   margin-bottom: 1em;
   overflow: auto;
-  @media (min-width : @site-width-small){
-    padding: 0.5rem 2rem;
+
+  code{
+    padding: 2rem 0.5rem !important;
+    @media (min-width : @site-width-small){
+      padding: 2rem !important;
+    }    
   }
 }
 
