@@ -111,7 +111,7 @@
     {% if is_front_page %}
       <div class="header-image">
         <a href="/bots/twitterbots/NixieBot">
-        {% if current_page.is_mobile %}
+        {% if config.is_mobile %}
           <img class="header-image-small u-photo lazy-load" src="{{ meta.smallthumbnail }}" data-src="{{ meta.smallthumbnail }}">
         {% else %}
           <img class="header-image-large u-photo lazy-load" src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}">
