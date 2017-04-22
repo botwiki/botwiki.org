@@ -1892,9 +1892,6 @@ hr {
   margin: 2em auto 2em;
   max-width: 95%;
 }
-footer .row {
-  padding: 0 1.5rem;
-}
 footer div.inner {
   max-width: 1500px;
   margin: 0 auto;
@@ -1913,7 +1910,11 @@ footer p {
 footer .footer-lists {
   margin: 0 auto;
   max-width: 1150px;
-  padding: 0 1.5rem;
+}
+@media (min-width: 900px) {
+  footer .footer-lists {
+    padding: 0 1.5rem;
+  }
 }
 footer .footer-lists ul.footer-list {
   list-style-type: none;

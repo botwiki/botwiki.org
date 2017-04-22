@@ -43,7 +43,7 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Fjalla+One|Source+Serif+Pro|Anton|Merriweather+Sans' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.24.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.25.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -144,51 +144,64 @@
     </section>
   </div>
   <footer id="footer">
-    <div class="inner">
-      <section class="footer-lists clearfix">
-        <ul class="footer-list">
-          <li class="list-header">About</li>
-          <li><a href="/about/">About Botwiki</a></li>
-          <li><a href="/about/team/">Team</a></li>
-          <li><a href="/projects/">Our projects</a></li>
-          <li><a href="/about/press/">Press</a></li>
-          <li><a href="/coc/">Code of Conduct</a></li>
-        </ul>
-        <ul class="footer-list">
-          <li class="list-header">Contact</li>
-          <li><a class="u-email" rel="me" href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">stefan@botwiki.org</a></li>
-          <li><a class="h-card" rel="me" href="https://twitter.com/botwikidotorg">@botwikidotorg</a></li>
-          <li><a href="https://botmakers.org/">Botmakers</a></li>
-        </ul>
-        <ul class="footer-list">
-          <li class="list-header">Support</li>
-          <li><a href="https://www.patreon.com/botwiki">Patreon</a></li>
-          <li><a href="https://gratipay.com/botwiki-org/">Gratipay</a></li>
-          <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
-          <li><a href="bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&amp;label=Botwiki">Bitcoin</a></li>
-          <li><a href="/about/supporters">Supporters</a></li>
-        </ul>
-        <ul class="footer-list">
-          <li class="list-header">Share/Save</li>
-          <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fbotwiki.org%2F&amp;text=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.:%20https%3A%2F%2Fbotwiki.org%2F&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a></li>
-          <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbotwiki.org%2F&amp;t=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Share on Facebook">Facebook</a></li>
-          <li><a href="mailto:?subject=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;body=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks.:%20https%3A%2F%2Fbotwiki.org%2F" target="_blank" title="Email">Email</a></li>
-          <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Add to Pocket">Pocket</a></li>
-          <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a></li>
-        </ul>
-      </section>
-      <p>
-        This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, a generous supporter and the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>.</p>
-        <p>One more way to support us is to sign up using our <strong>DigitalOcean</strong> <a href="https://www.digitalocean.com/?refcode=9e279abc3337">referral link</a>, which will also earn you a <strong>$10 starter credit</strong>.
-      </p>
-      <p>
-        For attributions, see the <a href="/about/attributions">Attributions page</a>.
-      </p>
+    <div class="container-fluid footer-modules">
+      <div class="row footer-lists">
+        <div class="col-sm-12 col-md-6 col-lg-3">
+          <ul class="footer-list">
+            <li class="list-header">About</li>
+            <li><a href="/about/">About Botwiki</a></li>
+            <li><a href="/about/team/">Team</a></li>
+            <li><a href="/projects/">Our projects</a></li>
+            <li><a href="/about/press/">Press</a></li>
+            <li><a href="/coc/">Code of Conduct</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+          <ul class="footer-list">
+            <li class="list-header">Contact</li>
+            <li><a class="u-email" rel="me" href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">stefan@botwiki.org</a></li>
+            <li><a class="h-card" rel="me" href="https://twitter.com/botwikidotorg">@botwikidotorg</a></li>
+            <li><a href="https://botmakers.org/">Botmakers</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-lg-3">
+          <ul class="footer-list">
+            <li class="list-header">Support</li>
+            <li><a href="https://www.patreon.com/botwiki">Patreon</a></li>
+            <li><a href="https://gratipay.com/botwiki-org/">Gratipay</a></li>
+            <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
+            <li><a href="bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&amp;label=Botwiki">Bitcoin</a></li>
+            <li><a href="/about/supporters">Supporters</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+          <ul class="footer-list">
+            <li class="list-header">Share/Save</li>
+            <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fbotwiki.org%2F&amp;text=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.:%20https%3A%2F%2Fbotwiki.org%2F&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a></li>
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbotwiki.org%2F&amp;t=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Share on Facebook">Facebook</a></li>
+            <li><a href="mailto:?subject=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;body=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks.:%20https%3A%2F%2Fbotwiki.org%2F" target="_blank" title="Email">Email</a></li>
+            <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Add to Pocket">Pocket</a></li>
+            <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <p>
+          This website is <a href="https://github.com/botwiki/botwiki.org">open source</a> and powered by <a href="http://picocms.org/">Pico</a>. <strong>Botwiki</strong> and the <a href="http://botzine.org/">Bot! zine</a> and <a href="https://botmakers.org/">Botmakers</a> landing pages are all proudly hosted by <a href="https://digitalocean.com/"><img class="logo-digitalocean" src="/content/images/logos/digitalocean-logo-horizontal.svg" title="DigitalOcean" alt="DigitalOcean company logo"></a>, a generous supporter and the sponsor of the very first <a href="https://botwiki.org/monthly-bot-challenge/">Monthly Bot Challenge</a>.</p>
+          <p>One more way to support us is to sign up using our <strong>DigitalOcean</strong> <a href="https://www.digitalocean.com/?refcode=9e279abc3337">referral link</a>, which will also earn you a <strong>$10 starter credit</strong>.
+        </p>
+        <p>
+          For attributions, see the <a href="/about/attributions">Attributions page</a>.
+        </p>
+      </div>      
     </div>
   </footer>
+
   {% include 'includes/statcounter.html' ignore missing %}
   <div class="bottom-page-links">
     <a id="back-to-top" title="Go back all the way to the top of this page!" href="#header" class="slide-down"><img src="/content/images/arrow-up.svg"></a>
+    <a id="submit-bot-link" title="Submit your bot!" href="https://botwiki.org/submit-your-bot/">📋</a>
     <a id="random-bot-link" title="Explore the wonderful world of online bots, one random bot at a time." href="/random-bot">🤖</a>
   </div>
   <script src="{{ theme_url }}/js/scripts.3.2.min.js"></script>
