@@ -1892,32 +1892,45 @@ hr {
   margin: 2em auto 2em;
   max-width: 95%;
 }
-section.footer-lists {
-  margin: 1em auto 3em;
+footer .row {
+  padding: 0 1.5rem;
 }
 footer div.inner {
   max-width: 1500px;
   margin: 0 auto;
 }
-footer ul.footer-list {
+footer p {
+  margin: 1em auto 3em;
+  max-width: 1150px;
+  padding: 0 1.5rem;
+}
+footer section.footer-lists {
+  margin: 0 auto;
+  max-width: 1150px;
+  padding: 0 1.5rem;
+}
+footer section.footer-lists ul.footer-list {
   list-style-type: none;
   display: inline-block;
   vertical-align: top;
   width: 25%;
-  min-height: 265px;
   margin: 1em auto;
   padding: .5rem;
   float: left;
 }
+@media (min-width: 900px) {
+  footer section.footer-lists ul.footer-list {
+    min-height: 265px;
+  }
+}
 @media (max-width: 900px) {
-  footer ul.footer-list {
+  footer section.footer-lists ul.footer-list {
     width: 50%;
   }
 }
 @media (max-width: 700px) {
-  footer ul.footer-list {
+  footer section.footer-lists ul.footer-list {
     width: 100%;
-    text-align: center;
   }
 }
 .centered {
@@ -2170,17 +2183,6 @@ div#content-wrapper {
   line-height: 1.2em;
 }
 @media (min-width: 860px) {
-  aside#sidebar {
-    display: block;
-    max-width: 280px;
-    position: absolute;
-    border-left: 1px solid #f3f3f2;
-    background-color: #f9f9f7;
-    padding: 2rem 0 10px;
-    right: 0;
-    top: 0;
-    bottom: 0;
-  }
 }
 @media (min-width: 900px) {
   aside#sidebar {
@@ -2204,6 +2206,23 @@ aside#sidebar p {
 aside#sidebar img {
   display: block;
   margin: 0 auto 0.7em;
+}
+.footer-modules {
+  background-color: #f9f9f9;
+  font-size: 0.9em;
+  padding: 2em 0 1em;
+}
+.footer-modules .footer-module {
+  max-width: 300px;
+  margin: 0 auto;
+  text-transform: none;
+}
+.footer-modules .footer-module p {
+  padding: 1em 5px !important;
+}
+.footer-modules .footer-module img {
+  margin: 0 auto;
+  display: block;
 }
 div.sidebar-module {
   padding: 1em;
@@ -2245,16 +2264,6 @@ aside#sidebar hr {
 div#main {
   padding: 0;
 }
-@media (min-width: 860px) {
-  div#main {
-    margin-right: 280px;
-  }
-}
-@media (min-width: 900px) {
-  div#main {
-    margin-right: 300px;
-  }
-}
 div#main p,
 p.screenshot {
   margin: 1em auto;
@@ -2279,6 +2288,7 @@ a.screenshot img,
 img.screenshot {
   border: 1px solid #ddd;
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5em;
 }
 @media (min-width: 860px) {
   p.screenshot.float-right {
@@ -2383,21 +2393,25 @@ div.search-item {
   padding: 2em 0 1em;
 }
 .note {
-  border-left: 10px solid #c4b634;
   font-weight: bold;
   background-color: #F7E967;
   margin: 2em 0;
   padding: 0;
 }
+@media (min-width: 860px) {
+  .note {
+    margin: 3em 0;
+  }
+}
 .note p {
-  padding: 1.5rem !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 .note-alternative {
   font-style: italic;
   margin: 2em 0;
 }
 .note.donations {
-  margin-top: 2em;
   padding: 0;
 }
 @media (min-width: 860px) {
@@ -2416,17 +2430,20 @@ span.normal-text {
 }
 div.meta .share-prompt {
   background-color: #f9f9f9;
-  border-left: 10px solid #ccc;
   text-transform: uppercase;
   padding-top: 2em !important;
   padding-bottom: 2em;
-  margin-top: 2em !important;
+  margin-top: 3em !important;
 }
 div.meta .share-prompt h4 {
   font-size: 1.5em;
-  padding: .5rem 2rem;
   max-width: 1150px;
   margin: 0 auto;
+}
+@media (min-width: 860px) {
+  div.meta .share-prompt h4 {
+    padding: 0.5rem 2rem;
+  }
 }
 div.meta p {
   padding: .1rem 2rem;

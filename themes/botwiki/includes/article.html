@@ -53,8 +53,22 @@
       {% include 'includes/donations.html' %}
     {% endif %}
 
+    <!--
+            <hr/>
+            <div class="footer-module">
+              <a href="/bot-workshops"><img class="round-borders" src="/content/images/logos/bot-workshops.png" title="Bot workshops" alt="Bot workshops"></a>
+              <p><a href="/bot-workshops">Learn how to make bots!</a></p>
+            </div>
+    -->
+    <!-- 
+            <hr/>
+            <div class="footer-module">
+              <a href="/monthly-bot-challenge/"><img src="/content/botmaker-badges/images/monthly-bot-challenge-2016.png" title="Monthly Bot Challenge" alt="A badge for the Monthly Bot Challenge winner"></a>
+              <p>Enter the <a href="/monthly-bot-challenge/">Monthly Bot Challenge</a>!</p>
+            </div>
+     -->
     <div class="meta">
-      {% if meta.tags is not empty %}
+        {% if meta.tags is not empty %}
         {% if 'bot' in meta.tags %}
           <p class="tags">
             {% if meta.language == 'es'%}
@@ -84,6 +98,7 @@
         {% endif %}
         </h4>
         {% include 'includes/sharing-is-caring.html' %}
-      </div>
+    </div>
+    {% include 'includes/footer-modules.html' %}
   </div>
 </article>
