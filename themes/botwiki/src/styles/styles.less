@@ -342,12 +342,16 @@ hr{
 
 footer{
   .row{
-    padding: 0 1.5rem
+    padding: 0 1.5rem 
   }
 
   div.inner{
     max-width: @site-width;
-    margin: 0 auto;    
+    margin: 0 auto;
+    padding-bottom: 4em;
+    @media (min-width: @site-width-medium){
+      padding-bottom: 2em;    
+    }
   }
 
   p{
@@ -379,9 +383,6 @@ footer{
         width: 100%;
       }
     }
-
-
-
   }
 }
 
