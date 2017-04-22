@@ -2208,7 +2208,7 @@ aside#sidebar img {
 }
 @media (max-width: 860px) {
   .footer-modules {
-    padding: 2em 0 5em;
+    padding: 4em 0;
   }
 }
 .footer-modules .footer-module {
