@@ -86,7 +86,13 @@ class Pico_Search
                 break;
                 case 'OR':
                   $title_words = preg_split('/\s+/', $title);
-                  $this->pages[$k]["score"] += 50 * count(array_intersect($qs, $title_words));
+
+                  if (strpos($title, $q) !== false) {
+                    $this->pages[$k]["score"] = 500;
+                  }
+                  else{
+                    $this->pages[$k]["score"] += 50 * count(array_intersect($qs, $title_words));                  
+                  }
 
                   $this->pages[$k]["score"] += 10 * count(array_intersect(array_map('strtolower', $qs), array_map('strtolower', $tags)));
 
