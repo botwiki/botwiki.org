@@ -743,13 +743,19 @@ div.sidebar-module:not(:first-child){
 }
 
 div#main{
-  padding: 1em 0 0;
+  padding: 0;
   // @media (min-width : @site-width-small){
   //   margin-right: @sidebar-width-small;
   // }
   // @media (min-width : @site-width-medium){
   //   margin-right: @sidebar-width;
   // }
+}
+
+div#main p:first-of-type{
+  /* TODO: Fix this ugly hack. */
+  padding-top: 3em;
+  margin-top: -1em;
 }
 
 div#main p,
