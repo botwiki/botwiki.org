@@ -1,6 +1,6 @@
 /*
 Title: @mothgenerator
-Description: lepidoptera automata
+Description: Lepidoptera automata.
 Thumbnail: /content/bots/twitterbots/images/mothgenerator.png
 Link: http://twitter.com/mothgenerator
 Author: Stefan Bohacek
