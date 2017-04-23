@@ -72,17 +72,28 @@ class Pico_Search
 
               switch ($search_type) {
                 case 'AND':
+
+                  foreach($qs as $qs_query){
+                    if (strpos($title, $qs_query) !== false) {
+                      $this->pages[$k]["score"] += 3;
+                    }
+                    else{
+                      break;
+                    }
+                  }
+
                   if (count(array_intersect($qs, explode(" ", $title))) == count($qs)){
-                    $this->pages[$k]["score"]+= 3;
+                    $this->pages[$k]["score"]+= 5;
+                  }
+
+                  if (count(array_intersect($qs, explode(",", $tags))) == count($qs)){
+                    $this->pages[$k]["score"]+= 4;
                   }
 
                   if (count(array_intersect($qs, explode(" ", $content))) == count($qs)){
                     $this->pages[$k]["score"]+= 3;
                   }
 
-                  if (count(array_intersect($qs, explode(",", $tags))) == count($qs)){
-                    $this->pages[$k]["score"]+= 3;
-                  }
                 break;
                 case 'OR':
                   $title_words = preg_split('/\s+/', $title);
