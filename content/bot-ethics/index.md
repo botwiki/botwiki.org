@@ -113,6 +113,8 @@ Nav: hidden
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">this story just keeps on getting better and better <a href="https://t.co/vw9BHZ1MBe">pic.twitter.com/vw9BHZ1MBe</a></p>&mdash; James Vincent (@jjvincent) <a href="https://twitter.com/jjvincent/status/857131596318728192">April 26, 2017</a></blockquote>
+
 ### [¶](#general-resources){.pilcrow} General resources {#general-resources}
 
 - [What do we talk about when we talk about AI ethics?](https://www.linkedin.com/pulse/what-do-we-talk-when-ai-ethics-virginia-dignum) (Virginia Dignum via linkedin.com)

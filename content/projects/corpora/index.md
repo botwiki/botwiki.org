@@ -2,6 +2,7 @@
 Title: Botwiki Corpora API
 Thumbnail: /content/projects/corpora/images/corpora-api-thumbnail.png?
 Show donation link: yes
+Has code: yes
 Description: A free Corpora API.
 */
 
