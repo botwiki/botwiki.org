@@ -18,7 +18,6 @@ class Corpora_API {
         $results[] = $path;
       } else if($value != "." && $value != "..") {
         $this->getDirContents($path, $results);
-        // $results[] = $path;
       }
     }
     return $results;
@@ -30,7 +29,7 @@ class Corpora_API {
 
 	public function request_url(&$url)
 	{
-		if($url == 'corpora-api') $this->is_corpora_api = true;
+		if(rtrim($url, '/') == 'corpora-api') $this->is_corpora_api = true;
 	}
 	
 	public function get_pages(&$pages, &$current_page, &$prev_page, &$next_page){
