@@ -1,7 +1,7 @@
 /*
 Title: Importing a Python Slack bot from GitHub to Glitch
 Description: A quick guide on importing an open source Python project to Glitch
-Thumbnail: /content/tutorials/importing-github-glitch-slackbot-python/images/thumbnail.png
+Thumbnail: /content/tutorials/importing-github-glitch-slackbot-python/images/thumbnail.png/?
 Has code: yes
 Show donation link: yes
 Date: April 26, 2017
