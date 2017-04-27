@@ -52,6 +52,9 @@ aside, nav, article, figure{
 
 article{
 /* overflow: auto; */
+  h2{
+    padding-top: 1em;
+  }
 }
 
 
@@ -118,25 +121,25 @@ select:focus{
 }
 
 ::-webkit-input-placeholder{
-   font-family: 'Merriweather Sans', serif
+   font-family: 'Open Sans', sans-serif;
 }
 
 :-moz-placeholder{
-   font-family: 'Merriweather Sans', serif
+   font-family: 'Open Sans', sans-serif;
 }
 
 ::-moz-placeholder{
-   font-family: 'Merriweather Sans', serif  
+   font-family: 'Open Sans', sans-serif;  
 }
 
 :-ms-input-placeholder{  
-   font-family: 'Merriweather Sans', serif  
+   font-family: 'Open Sans', sans-serif; 
 }
 
 /* Main Styles
 /*---------------------------------------------*/
 body{
-  font: 1.2em 'Merriweather Sans', serif;
+  font: 1.2em 'Open Sans', sans-serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -223,17 +226,14 @@ ol, ul{
   max-width: @max-content-width;
   margin: 1em auto;
 
-  padding-left: 2em;
+  padding-left: 1.5em;
 
   @media (min-width : @site-width-small){
-    padding-left: 4em;
+    padding-left: 3em;
   }
   ol, ul{
     margin: 0;
     padding-left: 1em;
-    @media (min-width : @site-width-small){
-      padding-left: 2em;
-    }
   }
 }
 
@@ -298,8 +298,8 @@ blockquote{
   background: #f9f9f9;
   border-left: 10px solid #ccc;
   // max-width: @max-content-width;
-  margin: 1.5em auto;
-  padding: 0.5em 10px;
+  margin: 2em auto;
+  padding: 0.5em 0 1em;
   quotes: "\201C""\201D""\2018""\2019";
 
   &:before {
@@ -313,6 +313,9 @@ blockquote{
 
   p {
     line-height: 1.5em;
+    @media (min-width: @site-width-medium){
+      transform: translate(-10px, 0);
+    }
   }
 }
 
@@ -359,9 +362,6 @@ footer{
   .footer-lists{
     margin: 0 auto;
     max-width: @max-content-width;
-    @media (min-width: @site-width-medium){
-      padding: 0 1.5rem;
-    }
 
     ul.footer-list{
       list-style-type: none;
@@ -522,7 +522,6 @@ ul#menu{
     float: left;
 
     a, a:hover{
-      font-family: 'Fjalla One', serif;  
       color: #fff;
       text-decoration: none;
     }
@@ -643,7 +642,7 @@ div#content-wrapper{
   position: relative;
   min-height: 60em;
   background-color: #fff;
-  padding: 0;
+  padding: 0 0 2em;
   margin-bottom: 2em;
   font-size: 1em;
   line-height: 1.2em;
@@ -689,7 +688,7 @@ aside#sidebar img{
 
 .footer-modules{
   font-size: 0.9em;
-  padding: 7em 0;
+  padding: 5em 0;
 
   @media (min-width: @site-width-small){
     padding: 4em 0;
@@ -701,7 +700,7 @@ aside#sidebar img{
 
     text-transform: none;
     p{
-      padding: 1em 5px !important;
+      padding: 2.5em 0 !important;
     }
     img{
       margin: 0 auto;
@@ -754,8 +753,8 @@ div#main{
 
 div#main p:first-of-type{
   /* TODO: Fix this ugly hack. */
-  padding-top: 3em;
-  margin-top: -1em;
+  // padding-top: 3em;
+  // margin-top: -1em;
 }
 
 div#main p,
@@ -922,9 +921,6 @@ div.search-item{
   font-weight: bold;
   background-color: #F7E967;
   margin: 2em 0;
-  @media (min-width: @site-width-small){
-    margin: 3em 0;
-  }
   padding: 0;
   p{
     padding-top: 1.5rem !important;
@@ -960,12 +956,12 @@ span.normal-text{
 
 div.meta{
   .share-prompt{
-    background-color: #f9f9f9;
+    background-color: #f3f3f3;
     // border-left: 10px solid #ccc;
     text-transform: uppercase;
     padding-top: 2em !important;
     padding-bottom: 2em;
-    margin-top: 3em !important;
+    margin-top: 2em !important;
     h4{
       font-size: 1.5em;
       @media (min-width : @site-width-small){
@@ -1014,6 +1010,8 @@ p.ssbg-attribution{
   a{
     color: @link-color + #111;
   }
+  padding: .5rem 2rem 0 !important;
+  margin-bottom: 0 !important;
 }
 
 div.search-item p.meta,
@@ -1040,7 +1038,6 @@ div.article-thumbnail{
   transition: background-color 0.2s;
   text-align: center;
   padding-bottom: 0;
-  margin-bottom: 1.5em;
   min-height: 50px;
 
   @media (min-width: @site-width-small){

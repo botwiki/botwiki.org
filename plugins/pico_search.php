@@ -131,7 +131,6 @@ class Pico_Search
             }
             $twig_vars['search_term'] = trim($_GET["q"]);            
         }
-
     }
 }
 ?>
