@@ -136,8 +136,6 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [Build Your Own Topic Bot](http://blog.hatnote.com/post/124917412833/build-your-own-topic-bot) -- a tutorial with [IFTTT](https://ifttt.com/) and [Wikipedia](https://www.wikipedia.org/)
 - [How to Write a Twitter Bot in 5 Minutes](http://www.labnol.org/internet/write-twitter-bot/27902/) with [Wolfram Alpha](http://products.wolframalpha.com/api/) and [Google Drive](https://www.google.com/drive/)
 - [Tutorial on Creative Twitterbots](https://www.slideshare.net/kimveale/tutorial-on-creative-twitterbots) (Tony Veale via slideshare.net)
-
-
 - [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots) -- a tutorial in [Jupyter Notebooks](http://jupyter.org/)
 - [How to program a Twitter bot](https://weatherlisa.wordpress.com/2015/11/26/how-to-program-a-twitter-bot/) using the [R language](https://www.r-project.org/)
 - [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) (using [Jupyter Notebooks](http://jupyter.org/))

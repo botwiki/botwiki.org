@@ -51,7 +51,8 @@ Nav: hidden
 
 [Glitch](https://glitch.com) is a "community [and an online tool] that helps you build the app or bot of your dreams".
 
-- [Importing a node.js bot from GitHub to Glitch](/tutorials/importing-github-glitch)
+- [Importing a node.js Twitter bot from GitHub to Glitch](/tutorials/importing-github-glitch)
+- [Importing a Python Slack bot from GitHub to Glitch](tutorials/importing-github-glitch-slackbot-python)
 
 ### [¶](#botkit-studio){.pilcrow} Botkit Studio {#botkit-studio}
 

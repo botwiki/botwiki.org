@@ -5,7 +5,7 @@ Thumbnail: /content/tutorials/importing-github-glitch/images/import-from-github.
 Has code: yes
 Show donation link: yes
 Date: March 16, 2017
-Tags: tutorial,guide,import,github,glitch,hyperdev,fourtonfish,botwiki-original
+Tags: tutorial,guide,import,node,nodejs,node.js,github,glitch,hyperdev,fourtonfish,botwiki-original
 */
 
 <div class="note" markdown="1">
