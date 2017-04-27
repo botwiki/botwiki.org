@@ -52,6 +52,13 @@ python server.py
 
 Next few steps will depend on the bot project you are importing (here is the [Setup section for the meme bot project](https://github.com/nicolewhite/slack-meme/#setup)), but generally you will need to create a Slack app or [set up an API token](https://api.slack.com/custom-integrations/legacy-tokens), add a slash command, or set up an incoming webhook.
 
+Quick tip, to get your app's URL, so that you can use it when setting up your Slack app, click the **Show** button next to your project's name
+
+![Slack app URL](/content/tutorials/importing-github-glitch-slackbot-python/images/app-url-2.png){.centered}
+
+![Slack app URL](/content/tutorials/importing-github-glitch-slackbot-python/images/app-url-1.png){.centered}
+
+
 Note that Glitch uses a `.env` file to manage private data, like API keys, so you will have to save them into this file.
 
 
