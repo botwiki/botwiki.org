@@ -61,7 +61,6 @@ Nav: hidden
 - [Build a Bot: Store data for your users](https://blog.howdy.ai/build-a-bot-store-data-for-your-users-2e91fe7023d7) (blog.howdy.ai)
 - [Build a Bot: Data-powered conversations](https://blog.howdy.ai/build-a-bot-data-powered-conversations-d14991714ac1) (blog.howdy.ai)
 
-
 ### [¶](#microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#microsoft-bot-framework}
 
 [Microsoft Bot Framework](https://dev.botframework.com/) is a "comprehensive offering to build and deploy high quality bots for your users to enjoy in their favorite conversation experiences".
