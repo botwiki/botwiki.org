@@ -7,7 +7,7 @@ Small thumbnail: /content/images/botwiki-nixiebot-small-thumbnail.jpg
 Show donation link: yes
 */
 
-**Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** online bots ([what is a bot?](/bots/)), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
+**Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** online bots ([*What is a bot?*](/bots/)), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
 
 
