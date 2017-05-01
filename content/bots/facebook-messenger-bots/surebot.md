@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/surebot.png
 Link: m.me/surebot
 Author: botsheeter.py
 Date: May 01, 2017
-Tags: bot,active,interactive,facebookmessenger,messenger,chatbot,food,travel,lifestyle,jurajpal
+Tags: bot,active,interactive,facebook,messenger,chatbot,food,travel,lifestyle,jurajpal
 Nav: hidden
 Robots: index,follow
 */

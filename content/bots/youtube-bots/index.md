@@ -12,18 +12,17 @@ Nav: hidden
   </p>
 </div>
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 Bots for [YouTube](https://www.youtube.com/), *"a video-sharing website"* [<sup>[Wikipedia]</sup>](https://en.wikipedia.org/wiki/YouTube).
 
-<p class="screenshot float-right">
-  <a href="/bots/youtube-bots/treasurecolumn">
-    <img src="/content/bots/youtube-bots/images/Treasure_Column.png">
-  </a>
-</p>
+Browse [YouTube bots](/tag/youtubebot), learn [how to make one](/tutorials/youtube-bots), or [return to the **Bots** page](/bots).
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/youtube-bots/treasurecolumn">
+      <img class="screenshot" src="/content/bots/youtube-bots/images/Treasure_Column.png">
+    </a>
+  </div>
+</div>
 
-
-Some examples include:
-
-- [Treasure Column](/bots/youtube-bots/treasurecolumn) -- footage from unsecured network cameras presented as aesthetic, rather than intrusive
-
-Browse [more YouTube bots](/tag/youtubebot), learn [how to make one](/tutorials/youtube-bots), or [return to the **Bots** page](/bots).
 

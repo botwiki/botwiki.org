@@ -21,12 +21,9 @@ Nav: hidden
 
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/TheRiddlerBot">
-    <img src="/content/bots/twitterbots/images/TheRiddlerBot.png">
-  </a>
-</p>
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+Some example bots include:
 
 - [@censusAmericans](/bots/twitterbots/censusAmericans) -- tweeting the census one real American at a time
 - [@congressedits](/bots/twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
@@ -38,17 +35,19 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - [@holidaybot4000](/bots/twitterbots/holidaybot4000) -- holidays, every day
 - [@riverlevel_1867](/bots/twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
-
-
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/FireworksBot">
-    <img src="/content/bots/twitterbots/images/FireworksBot.png">
-  </a>
-</p>
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/twitterbots/TheRiddlerBot">
+      <img class="screenshot" src="/content/bots/twitterbots/images/TheRiddlerBot.png">
+    </a>
+  </div>
+</div>
 
 
 ### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse by category {#browse-twitter-bots-by-category}
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [Poetry bots](/tag/twitter+bot+poetry)
 - [Image bots](/tag/twitter+bot+images) ([GIF bots](/tag/twitter+bot+gif))
 - [Emoji bots](/tag/twitter+bot+emoji)
@@ -58,6 +57,17 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [Internet of Things (IoT) bots](/tag/twitter+bot+iot)
 - [Interactive bots](/tag/twitter+bot+interactive)
 - [Open source bots](/tag/twitter+bot+opensource)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/twitterbots/FireworksBot">
+      <img class="screenshot" src="/content/bots/twitterbots/images/FireworksBot.png">
+    </a>
+  </div>
+</div>
+
+
+
+
 
 
 Browse [all Twitter bots](/tag/twitterbot).
