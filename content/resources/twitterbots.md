@@ -10,6 +10,8 @@ Nav: hidden
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### [¶](#page-content){.pilcrow} Page content {#page-content}
 
 - [Twitterbot frameworks](#twitterbot-frameworks)
@@ -21,10 +23,11 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [Language](#language)
 - [Working with images](#images)
 - [Other](#other) and [Unsorted](#other-unsorted)
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
-
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
+  </div>
+</div>
 
 ### [¶](#twitterbot-frameworks){.pilcrow} Twitterbot frameworks {#twitterbot-frameworks}
 

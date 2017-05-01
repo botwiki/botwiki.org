@@ -12,11 +12,7 @@ Weight: 1
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
-
 So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
-
-
 
 <blockquote>
   <div class="row">
@@ -109,6 +105,9 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 - [Botlist](https://botlist.co/)
 - [BotPages](https://www.botpages.com/)
 - [Chatbots.org](https://www.chatbots.org/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
+
 
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>
