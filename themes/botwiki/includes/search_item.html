@@ -1,14 +1,16 @@
-<div class="search-item clearfix">
+<div class="row search-item">
   {% if page.thumbnail %}
-    <div class="search-thumbnail">
-      <a href="{{ page.url }}">
-        <img data-src="{{ page.thumbnail }}" class="lazy-load">
-      </a>
-    </div>
-    <div class="search-text-after-image">
+  <div class="col-sm-12 col-md-4">
+    <a href="{{ page.url }}">
+      <img data-src="{{ page.thumbnail }}" class="screenshot lazy-load">
+    </a>
+  </div>
+  <div class="col-sm-12 col-md-8">
+
   {% else %}
-    <div class="search-text-full">      
+  <div class="col-sm-12">
   {% endif %}
+
     <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
     <p class="excerpt">{{ page.description }}</p>
     {% if page.date %}
@@ -58,5 +60,8 @@
           {% endfor %}
         </p>
     {% endif %}
+
+
+
   </div>
 </div>
