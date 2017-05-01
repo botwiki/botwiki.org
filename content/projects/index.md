@@ -104,7 +104,7 @@ The Botwiki team produces [original tutorials](/tag/tutorial+botwiki-original).
 ![Sidekick](/content/projects/images/botwikibot.png)
 </div>
 
-**Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. Learn more about the project at [getyoursidekick.org](http://getyoursidekick.org/) and join the ongoing development at [Botmakers.org](https://botmakers.org/).
+**Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. [Learn more about the project](/projects/sidekick/) and join the development [in the Botmakers Slack group](https://botmakers.org/).
 
 
 ### [¶](#detective){.pilcrow} Detective {#detective}

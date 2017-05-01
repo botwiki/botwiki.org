@@ -59,7 +59,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
 
 
-***See also:**
+#### See also
 
 - the general [Tools](/resources/tools) section
 - [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)
