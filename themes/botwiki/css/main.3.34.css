@@ -2219,12 +2219,7 @@ aside#sidebar img {
 }
 .footer-modules {
   font-size: 0.9em;
-  padding: 5em 0;
-}
-@media (min-width: 860px) {
-  .footer-modules {
-    padding: 5em 0 0;
-  }
+  padding: 5em 0 0;
 }
 .footer-modules .footer-module {
   max-width: 300px;
@@ -2237,6 +2232,9 @@ aside#sidebar img {
 .footer-modules .footer-module img {
   margin: 0 auto;
   display: block;
+}
+.footer-text {
+  padding-bottom: 6em;
 }
 div.sidebar-module {
   padding: 1em;
