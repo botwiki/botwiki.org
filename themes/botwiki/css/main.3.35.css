@@ -2504,6 +2504,7 @@ div.meta p.last-updated {
 }
 img.photo {
   margin: 1em;
+  padding: 0;
 }
 @media (max-width: 900px) {
   img.photo {
