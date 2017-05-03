@@ -28,7 +28,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 - [revdancatt](http://revdancatt.com/?ref=botwiki)
 
 
-## Corporation & organizations [¶](#corporate-sponsors){.pilcrow} {#corporate-sponsors}
+## Corporations & organizations [¶](#corporate-sponsors){.pilcrow} {#corporate-sponsors}
 
 <div class="sponsors-corporate-organizations">
   <a href="https://www.digitalocean.com/?ref=botwiki" 
