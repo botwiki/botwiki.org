@@ -10,7 +10,7 @@ Nav: hidden
   </p>
 </div>
 
-## [¶](#introduction){.pilcrow} Introduction {#introduction}
+## Introduction [¶](#introduction){.pilcrow} {#introduction}
 
 
 By contributing to [Botwiki](https://botwiki.org/) and participating in the [Botmakers](https://botmakers.org/) community you agree to our **Code of Conduct**. This is a living document and will be amended as necessary. Any updates will be immediately communicated on the [#announcements](https://botmakers.slack.com/messages/announcements/) channel in the [Botmakers](https://botmakers.org/) Slack group. You can also view [the history of changes](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md). 
@@ -27,7 +27,7 @@ The admins reserve the right to exclude people from the [Botwiki](https://botwik
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of members of the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities or the general public. We will not name harassment victims without their affirmative consent.
 
-## [¶](#code-of-conduct){.pilcrow} Code of Conduct {#code-of-conduct}
+## Code of Conduct [¶](#code-of-conduct){.pilcrow} {#code-of-conduct}
 
 - **Be kind, respectful and considerate to others.** Not all of us will agree all the time, but disagreement is **no excuse** for poor behaviour and poor manners.
 - **Be careful in the words that you choose.** Remember that **sexist, racist, and other exclusionary jokes** can be offensive to those around you.  Do not **insult or put down** other participants. Harassment and other exclusionary behavior **aren't acceptable**. See the [What is considered harassment?](#what-is-considered-harassment) section below.
@@ -44,7 +44,7 @@ Lastly, we are a community for sharing ideas. If someone comes up with something
 
 If you do need some ideas to work on, have a look at the [Bot Summit 2014 document](https://docs.google.com/document/d/1bka4o1RE9RPUeoUzgpTIKRWsgWHzZEKEADialnv7haQ/edit?pli=1) or browse the [#botIDEA](https://twitter.com/search?f=tweets&q=%23botIDEA) hashtag on Twitter.
 
-## [¶](#what-is-considered-harassment){.pilcrow} What is considered harassment? {#what-is-considered-harassment}
+## What is considered harassment? [¶](#what-is-considered-harassment){.pilcrow} {#what-is-considered-harassment}
 
   - Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, immigration status, religion, or other identity marker. This includes anti-indigenous/nativeness and anti-blackness.
   - Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
@@ -65,7 +65,7 @@ If you do need some ideas to work on, have a look at the [Bot Summit 2014 docume
   - Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically. See [this article](http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/) for background. 
 
 
-## [¶](#language-and-communication){.pilcrow} Language and communication {#language-and-communication}
+## Language and communication [¶](#language-and-communication){.pilcrow} {#language-and-communication}
 
 One of the main goals of [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) is to create a safe online space where everyone is welcome. Making this happen will require effort from everyone participating in our project and our community.
 
@@ -92,21 +92,21 @@ If you see anyone using terms you find offensive or you believe would be offensi
 **Always contact the person you feel is being offensive** and try to talk it out, **then contact the moderator**, if necessary.
 
 
-## [¶](#on-using-slack){.pilcrow} On using Slack {#on-using-slack}
+## On using Slack [¶](#on-using-slack){.pilcrow} {#on-using-slack}
 
 If you're new to Slack, be sure to check out [slack.com/is](https://slack.com/is) and for more advanced users, there is [Using slash commands](https://slack.zendesk.com/hc/en-us/articles/201259356-Using-slash-commands).
 
-## [¶](#am-i-posting-in-the-right-channel){.pilcrow} Am I posting in the right channel? {#am-i-posting-in-the-right-channel}
+## Am I posting in the right channel? [¶](#am-i-posting-in-the-right-channel){.pilcrow} {#am-i-posting-in-the-right-channel}
 
 In our Slack group, we're trying to keep the number of channels low and avoid spending time discussing how appropriate a channel is for the current topic. We have a [dedicated website](https://botwiki.org/) to keep the important information permanent and organized. And if the need arises, we're more than happy to create a separate channel if the [#general](https://botmakers.slack.com/messages/general/details/) channel gets too cluttered.
 
-## [¶](#can-i-test-my-bot-here){.pilcrow} Can I test my bot here? {#can-i-test-my-bot-here}
+## Can I test my bot here? [¶](#can-i-test-my-bot-here){.pilcrow} {#can-i-test-my-bot-here}
 
 Yes! Contact [@stefan](https://botmakers.slack.com/messages/@stefan/details/) to set you up. Just make sure to check that your bot follows our Code of Conduct and neither you or your bot enage in spammy/harassing behavior (for example, don't mass DM people, rather use the [#general](https://botmakers.slack.com/messages/general/details/) channel to ask people to participate).
 
 Here's a [list of bots](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) we're playing with right now.
 
-## [¶](#notes){.pilcrow} Notes {#notes}
+## Notes [¶](#notes){.pilcrow} {#notes}
 
 This **Code of Conduct** is based on and inspired by:
 

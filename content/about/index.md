@@ -30,25 +30,24 @@ For more of Botwiki Foundation's projects and initiatives, check out the [Projec
 
 All of our work is [open](https://github.com/botwiki/), and everyone is invited to contribute. Feel free to [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi [via email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)!
 
-### [¶](#timeline){.pilcrow} Timeline {#timeline}
+### Timeline [¶](#timeline){.pilcrow} {#timeline}
 
 Below is a timeline of major events in the history of the Botwiki project.
 
-#### [¶](#2017){.pilcrow} 2017 {#2017}
+#### 2017 [¶](#2017){.pilcrow} {#2017}
 
 - **March:** Botwiki had more than 20,000 unique visitors.
 
-#### [¶](#2016){.pilcrow} 2016 {#2016}
+#### 2016 [¶](#2016){.pilcrow} {#2016}
 
 - **October 1:** Hosted [the first online Bot Workshop](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/).
-- **July:** First time Botwiki was visited by over 10,000 people in one month.
+- **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/).
 - **March 31:** [Veronica](/about/team/#veronica) [joined the Botwiki team](https://github.com/botwiki/botwiki.org/commit/ba19c71042bdb8c7b36fc6a8c214f6d874dab543).
 - **March 21:** Hosted [the first Botmakers in-person event](http://www.meetup.com/botmakers/events/228956424/).
 - **February 18:** Created the [Botmakers Meetup group](http://www.meetup.com/botmakers/).
 - **January 1:** The first [Monthly Bot Challenge](https://botwiki.org/monthly-bot-challenge/) was announced.
 
-#### [¶](#2015){.pilcrow} 2015 {#2015}
-
+#### 2015 [¶](#2015){.pilcrow} {#2015}
 
 - **November 16:** Announced the [Botmaker Badges](/botmaker-badges) in [Bot! zine #4](http://tinyletter.com/botzine/letters/the-bot-zine-issue-4).
 - **October 26:** The first issue of the the [Bot! zine](http://tinyletter.com/botzine/letters/the-bot-zine-issue-1) newsletter was sent out.

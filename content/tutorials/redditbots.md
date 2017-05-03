@@ -25,12 +25,12 @@ Nav: hidden
   </a>
 </p>
 
-### [¶](#general){.pilcrow} General {#general}
+### General [¶](#general){.pilcrow} {#general}
 
 - [Automatically-generated documentation for the reddit API](https://www.reddit.com/dev/api)
 
 
-### [¶](#python){.pilcrow} Python {#python}
+### Python [¶](#python){.pilcrow} {#python}
 
 - How to Make a Reddit Bot -- a series of video tutorials
  - [Part 1 - Installing Python + PRAW (The Python Reddit Api Wrapper)](https://www.youtube.com/watch?v=xHes-Cdmfzc)

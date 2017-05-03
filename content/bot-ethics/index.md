@@ -16,7 +16,7 @@ Nav: hidden
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [Misbehaving bots](#misbehaving-bots)
 - [Biased algorithms](#biased-algorithms)
@@ -32,7 +32,7 @@ Nav: hidden
 
 
 
-### [¶](#misbehaving-bots){.pilcrow} Misbehaving bots {#misbehaving-bots}
+### Misbehaving bots [¶](#misbehaving-bots){.pilcrow} {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
 - [Bots Should Punch Up](bots-should-punch-up) (crummy.com)
 - [Basic Twitter bot etiquette](/articles/basic-twitter-bot-etiquette-tiny-subversions): applies to *all* bots (Darius Kazemi)
@@ -49,7 +49,7 @@ Nav: hidden
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I spent 10 minutes discussing the <a href="https://twitter.com/hashtag/Ethics?src=hash">#Ethics</a> of <a href="https://twitter.com/hashtag/AI?src=hash">#AI</a> &amp; <a href="https://twitter.com/hashtag/Robots?src=hash">#Robots</a> with my 5 &amp; 7 year old kids. They have produced their own <a href="https://twitter.com/hashtag/RobotRules?src=hash">#RobotRules</a>! <a href="https://twitter.com/hashtag/ProudDad?src=hash">#ProudDad</a> <a href="https://t.co/gC1o8yRct5">pic.twitter.com/gC1o8yRct5</a></p>&mdash; Rob McCargow (@robmccargow) <a href="https://twitter.com/robmccargow/status/843740450397835266">March 20, 2017</a></blockquote>
 
-### [¶](#biased-algorithms){.pilcrow} Biased algorithms {#biased-algorithms}
+### Biased algorithms [¶](#biased-algorithms){.pilcrow} {#biased-algorithms}
 - [Collection of Machine Bias Articles](https://www.propublica.org/series/machine-bias) (propublica.org)
   - [How Machines Learn to Be Racist](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist?word=Trump)
 - [Digital Consequences](https://www.technologyreview.com/collection/digital-consequences/) (technologyreview.com)
@@ -75,11 +75,17 @@ Nav: hidden
 - [Algorithms might be everywhere, but like us, they're deeply flawed](http://theconversation.com/algorithms-might-be-everywhere-but-like-us-theyre-deeply-flawed-66838) (theconversation.com)
 - [Investigating the algorithms that govern our lives](http://www.cjr.org/innovations/investigating_algorithms.php) (cjr.org)
 - ["Programming and Prejudice: Can Computers Be Racist?" (Talks at Google)](https://www.youtube.com/watch?v=4fNx8XxToBA) (youtube.com)
+- [Joy Buolamwini: How I'm fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) (video, ted.com)
+- [Artificial intelligence: How to avoid racist algorithms](http://www.bbc.com/news/technology-39533308) (bbc.com)
+- [AI programs exhibit racial and gender biases, research reveals](https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals) (theguardian.com)
+- [A cautionary tale about humans creating biased AI models](https://techcrunch.com/2016/09/11/a-cautionary-tale-about-humans-creating-biased-ai-models/) (techcrunch.com)
+- [How artificial intelligence learns to be racist](https://www.vox.com/science-and-health/2017/4/17/15322378/how-artificial-intelligence-learns-how-to-be-racist) (vox.com)
+- [The Guardian view on computers and language: reproducing bias](https://www.theguardian.com/commentisfree/2017/apr/14/the-guardian-view-on-computers-and-language-reproducing-bias) (theguardian.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
 
-### [¶](#dangers-in-automation){.pilcrow} Dangers in automation {#dangers-in-automation}
+### Dangers in automation [¶](#dangers-in-automation){.pilcrow} {#dangers-in-automation}
 
 - [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
@@ -94,12 +100,16 @@ Nav: hidden
 - [The Art Of Manipulating Algorithms](https://www.fastcodesign.com/3068556/reminder-you-can-manipulate-algorithms-too) (fastcodesign.com)
 - [Automate This! Delivering Resistance in the Gig Economy](http://www.metamute.org/editorial/articles/automate-delivering-resistance-gig-economy) (metamute.org)
 - [Artificial intelligence is ripe for abuse, tech executive warns: 'a fascist's dream'](https://www.theguardian.com/technology/2017/mar/13/artificial-intelligence-ai-abuses-fascism-donald-trump) (theguardian.com)
+- [Accident Tourist: Driverless car crashes, ethics, machine learning](https://thesocietypages.org/cyborgology/2017/03/24/accident-tourist-1/) (thesocietypages.org)
+- [AI Can Be Fooled With One Misspelled Word](https://motherboard.vice.com/en_us/article/ai-can-be-fooled-with-one-misspelled-word) (motherboard.vice.com)
+- [The Ethics of Crash Optimisation Algorithms](http://philosophicaldisquisitions.blogspot.nl/2017/04/the-ethics-of-crash-optimisation.html?m=1) (philosophicaldisquisitions.blogspot.nl)
+- [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/) (techcrunch.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
 
 
-### [¶](#life-of-a-bot){.pilcrow} Life of a bot {#life-of-a-bot}
+### Life of a bot [¶](#life-of-a-bot){.pilcrow} {#life-of-a-bot}
 
 - [Why Humans Love Robots Like People](http://www.thedailybeast.com/articles/2017/03/25/why-humans-are-primed-to-love-robots.html)
 - [Bots and Gender](https://chatbotsmagazine.com/bots-and-gender-4ed9865fe2f2) ([Veronica Belmont](https://twitter.com/veronica) via medium.com)
@@ -115,7 +125,7 @@ Nav: hidden
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">this story just keeps on getting better and better <a href="https://t.co/vw9BHZ1MBe">pic.twitter.com/vw9BHZ1MBe</a></p>&mdash; James Vincent (@jjvincent) <a href="https://twitter.com/jjvincent/status/857131596318728192">April 26, 2017</a></blockquote>
 
-### [¶](#general-resources){.pilcrow} General resources {#general-resources}
+### General resources [¶](#general-resources){.pilcrow} {#general-resources}
 
 - [What do we talk about when we talk about AI ethics?](https://www.linkedin.com/pulse/what-do-we-talk-when-ai-ethics-virginia-dignum) (Virginia Dignum via linkedin.com)
 - [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) ([Amir Shevat](https://twitter.com/ashevat) via techcrunch.com)
@@ -132,7 +142,7 @@ Nav: hidden
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
 
 
-### [¶](#see-also){.pilcrow} See also {#see-also}
+### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Machine ethics on Wikipedia](https://en.wikipedia.org/wiki/Machine_ethics)
 - [General essays on Botwiki](/articles/#general-essays)

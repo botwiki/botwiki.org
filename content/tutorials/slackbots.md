@@ -24,7 +24,7 @@ Nav: hidden
 Learn how to make your own [Slack](https://slack.com/) bot with these tutorials and join us at [**Botmakers.org**](https://botmakers.org/) to share what you're working on, ask for advice or just chat with fellow [#botmakers](https://twitter.com/search?q=%23botmakers) and bot enthusiasts.
 
 
-### [¶](#slack-api){.pilcrow} Selected API documentation {#slack-api}
+### Selected API documentation [¶](#slack-api){.pilcrow} {#slack-api}
 
 - [Slack Developers](https://slack.com/developers)
 - [Official Slack documentation](https://api.slack.com/bot-users)
@@ -33,8 +33,10 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
 - [Threading messages together](https://api.slack.com/docs/message-threading)
 - [Slack app unfurling](https://api.slack.com/docs/message-link-unfurling#slack_app_unfurling) ([announcements](https://medium.com/slack-developer-blog/all-will-be-revealed-ebcad7c531f0))
-- [Message menus](https://api.slack.com/docs/message-menus)
-  - [Build an interactive Slack app with message menus](https://medium.com/slack-developer-blog/build-an-interactive-slack-app-with-message-menus-1fb2c6298308)
+- [Making messages interactive](https://api.slack.com/interactive-messages)
+  - [Message menus](https://api.slack.com/docs/message-menus)
+    - [Build an interactive Slack app with message menus](https://medium.com/slack-developer-blog/build-an-interactive-slack-app-with-message-menus-1fb2c6298308)
+
 
 See also:
 
@@ -42,9 +44,9 @@ See also:
 - [announcements of API changes](https://twitter.com/search?f=tweets&vertical=default&q=%23changelog%20from%3ASlackAPI) via [@SlackAPI](https://twitter.com/SlackAPI)
 - [documentation of undocumented Slack API methods](https://github.com/ErikKalkoken/slackApiDoc)
 
-### [¶](#beginner-tutorials){.pilcrow} Beginner tutorials {#beginner-tutorials}
+### Beginner tutorials [¶](#beginner-tutorials){.pilcrow} {#beginner-tutorials}
 
-#### [¶](#beginner-nodejs){.pilcrow} node.js {#beginner-nodejs}
+#### node.js [¶](#beginner-nodejs){.pilcrow} {#beginner-nodejs}
 
 - [Why did the chicken cross the road?](https://botwiki.org/tutorials/why-did-the-chicken-cross-the-road-slack-bot-tutorial/): Basic intro to Slack bots with with Botkit (uses OpenShift for hosting)
 - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591): create a Slack app using Botkit and [Glitch](https://glitch.com) (Eric Soelzer via medium.com)
@@ -57,20 +59,21 @@ See also:
 - [How to write a Slackbot in 40 lines of code](https://medium.com/@mager/how-to-write-a-slackbot-in-40-lines-of-code-52cf0c4fcf42): with node.js and the [Genius API](https://docs.genius.com/)
 - [Create a Slack Bot That Privately Greets New Users in 5 Easy Steps](https://medium.com/@izzydoesizzy/create-a-slack-bot-that-privately-greets-new-users-in-5-easy-steps-a38eabeabcb5)
 - [Creating “ZoneBot” using the Microsoft Bot Framework and LUIS](https://medium.com/@ThisisZone/creating-zonebot-using-the-microsoft-bot-framework-and-luis-f88e7f34ba70) and [Adding a conversational UI to “Zonebot” with the Microsoft bot framework](https://medium.com/@ThisisZone/adding-a-conversational-ui-to-zonebot-with-the-microsoft-bot-framework-ed82e5df9d69)
+- [Magic Rock Tutorials](https://nelsonam.github.io/foodme/): learn about the Slack API and slash commands (nelsonam.github.io)
 
-#### [¶](#beginner-python){.pilcrow} Python {#beginner-python}
+#### Python [¶](#beginner-python){.pilcrow} {#beginner-python}
 
 - [Hello PyBot - Python Chat Bots for Slack](https://www.youtube.com/watch?v=7jwwhk5W56A): a 20 minute talk by [Jeff Kramer](https://twitter.com/jeffk)
 - [How to Build Your First Slack Bot with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 - [Slack bot with a Django backend — 101 tutorial](https://chatbotsmagazine.com/slack-bot-with-a-django-backend-101-tutorial-c1aa8ea3f15e)
 - [Build a Slack Bot that Mimics Your Colleagues](http://hirelofty.com/blog/how-build-slack-bot-mimics-your-colleague/) (with [Markov chains](https://simple.wikipedia.org/wiki/Markov_chain))
 
-#### [¶](#beginner-ruby){.pilcrow} Ruby {#beginner-ruby}
+#### Ruby [¶](#beginner-ruby){.pilcrow} {#beginner-ruby}
 
 - [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 
 
-### [¶](#intermediate-tutorials){.pilcrow} Intermediate tutorials {#intermediate-tutorials}
+### Intermediate tutorials [¶](#intermediate-tutorials){.pilcrow} {#intermediate-tutorials}
 
 - [Building a Pokebot](https://blog.recast.ai/nodejs-bot-tutorial-1/): A NodeJS chatbot tutorial by [Recast.AI](https://recast.ai/) ([Part 2](https://blog.recast.ai/nodejs-bot-tutorial/), [Part 3](https://blog.recast.ai/nodejs-bot-tutorial-3/))
 - [How I Ruined Office Productivity With a Face-Replacing Slack Bot](http://blog.zikes.me/post/how-i-ruined-office-productivity-with-a-slack-bot/): tutorial with Go (blog.zikes.me)
@@ -84,10 +87,11 @@ See also:
 - [Using Botkit and Aylien’s Text API to Make a Slack Bot](https://medium.com/@samhavens/building-somerset-d518ba284c49)
 - [How to make a Slack bot speak Kubernetes](https://medium.com/@janetkuo/how-to-make-a-slack-bot-speak-kubernetes-e7929f51c741)
 - [Slack meet Hue](https://joffcom.net/slack-meet-hue/) (joffcom.net)
+- [Build a hybrid human + AI messaging experience on Slack](https://medium.com/slack-developer-blog/build-a-hybrid-human-ai-messaging-experience-on-slack-dd670a5f0d0f) (Slack Platform Blog via medium.com)
 
 For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorials).
 
-### [¶](#general-tutorials){.pilcrow} General tutorials and articles {#general-tutorials}
+### General tutorials and articles [¶](#general-tutorials){.pilcrow} {#general-tutorials}
 
 - [State of the Slack Platform](https://blog.howdy.ai/talkabot-talks-state-of-the-slack-platform-amir-shevat-slack-1eee5b056e07) (blog.howdy.ai)
 - [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6)
@@ -95,7 +99,7 @@ For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorial
 - [How We Use Bots in Slack at SparkPost](https://www.sparkpost.com/blog/using-slack-bots-sparkpost/)
 - [Running Slack Bots on DigitalOcean with Dokku](http://code.dblock.org/2016/02/08/running-slack-bots-on-digital-ocean-with-dokku.html)
 
-### [¶](#non-english-tutorials){.pilcrow} Non-English tutorials {#non-english-tutorials}
+### Non-English tutorials [¶](#non-english-tutorials){.pilcrow} {#non-english-tutorials}
 
 - [Botkit tutorial in Japanese](http://toach.click/2016/01/16/botkit-conversation/)
 

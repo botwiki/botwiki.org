@@ -17,7 +17,7 @@ You have quite a few options when it comes to hosting your bots!
 ***Note:** Some [network specific tutorials](/tutorials/network-specific-tutorials) include a step explaining how to host your bot.*
 
 
-### [¶](#botmaking-self-hosted){.pilcrow} Self-hosted {#botmaking-self-hosted}
+### Self-hosted [¶](#botmaking-self-hosted){.pilcrow} {#botmaking-self-hosted}
 - [DigitalOcean](https://digitalocean.com/): a popular VPS (Virtual Private Server), starts at $5/month (it's also used to host this site; our [referral link](https://www.digitalocean.com/?refcode=9e279abc3337) gets you $10 starter credit)
   - [How To Set Up a Node.js Application for Production on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04) (digitalocean.com)
   - [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.youtube.com/watch?v=Jsmeh7q9Qv4) (DigitalOcean via youtube.com)
@@ -42,7 +42,7 @@ You have quite a few options when it comes to hosting your bots!
 - [AWS Lambda](https://aws.amazon.com/lambda/)
   - [Claudia Bot Builder](https://claudiajs.com/claudia-bot-builder.html) ([GitHub](https://github.com/claudiajs/claudia-bot-builder)): Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 
-### [¶](#botmaking-platforms){.pilcrow} Botmaking platforms {#botmaking-platforms}
+### Botmaking platforms [¶](#botmaking-platforms){.pilcrow} {#botmaking-platforms}
 
 - [Dexter](https://rundexter.com/): a platform that makes connecting third-party APIs easy
 - [BOT libre!](http://www.botlibre.com/): create your own chat bot with real artificial intelligence, share it, embed it, connect it to the world
@@ -54,7 +54,7 @@ You have quite a few options when it comes to hosting your bots!
 
 See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (and a related [blog post](https://medium.com/ddouble/how-to-build-your-best-bot-the-bot-stack-compendium-90a90660167a))
 
-### [¶](#botmaking-twitter){.pilcrow} Twitter bots {#botmaking-twitter}
+### Twitter bots [¶](#botmaking-twitter){.pilcrow} {#botmaking-twitter}
 
 - [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/): see [tutorials](/tutorials/twitterbots/#cheap-bots-done-quick) and [examples](/tag/cheapbotsdonequick) of bots created with CBDQ
 - [PythonAnywhere](https://www.pythonanywhere.com/), which was mentioned above, see also slides from the [Build A Bot](https://tpinecone.gitbooks.io/build-a-bot-workshop/content/index.html) workshop
@@ -64,7 +64,7 @@ See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (an
 - you can even use your [Raspberry Pi](http://www.instructables.com/id/Raspberry-Pi-Twitterbot/)
 
 
-### [¶](#botmaking-slack){.pilcrow} Slack bots {#botmaking-slack}
+### Slack bots [¶](#botmaking-slack){.pilcrow} {#botmaking-slack}
 
 - [Beep Boop](https://beepboophq.com): Slack bot hosting platform
 - [Slack.Pipe](http://slack.datastack.co/): allows you to create custom bots from any API
@@ -73,7 +73,7 @@ See also: [The Bot Stack Compendium](https://airtable.com/shrozHdLLjfpqh8SR) (an
 See also: [Hosting Slack Integrations](https://medium.com/slack-developer-blog/hosting-slack-integrations-79f3d4b04dd6) on the [Slack API Developer Blog](https://medium.com/slack-developer-blog).
 
 
-### [¶](#notes){.pilcrow} Notes {#notes}
+### Notes [¶](#notes){.pilcrow} {#notes}
 
 Common ways to manage multiple bots on the same network are (mostly applies to Twitter bots):
 

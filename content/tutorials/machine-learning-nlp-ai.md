@@ -12,9 +12,11 @@ Nav: hidden
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting really worried now.  (Thx Roz Chast, <a href="https://twitter.com/NewYorker">@newyorker</a>) <a href="https://t.co/6oZs7xNX08">pic.twitter.com/6oZs7xNX08</a></p>&mdash; Mitch Kapor (@mkapor) <a href="https://twitter.com/mkapor/status/836092968951918592">February 27, 2017</a></blockquote>
 
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [Natural language processing](#natural-language-processing)
 - [Machine learning](#machine-learning)
@@ -24,14 +26,24 @@ Nav: hidden
 - [WaveNet](#wavenet)
 - [Demos and interesting projects](#demos-projects)
 
-### [¶](#natural-language-processing){.pilcrow} Natural language processing {#natural-language-processing}
+See also [Machine learning and AI libraries and frameworks on the Resources page](/resources/libraries-frameworks#machine-learning-ai).
+
+
+### Natural language processing [¶](#natural-language-processing){.pilcrow} {#natural-language-processing}
 
 - [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
 - [Intro to NLP with spaCy](http://nicschrading.com/project/Intro-to-NLP-with-spaCy/) -- "an introduction to spaCy for natural-language-processing and machine learning with special help from Scikit-learn"
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/DL4NLP/)
 - [Applied NLP](https://github.com/utcompling/applied-nlp/wiki/Course-Project)
 
-### [¶](#machine-learning){.pilcrow} Machine learning {#machine-learning}
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting really worried now.  (Thx Roz Chast, <a href="https://twitter.com/NewYorker">@newyorker</a>) <a href="https://t.co/6oZs7xNX08">pic.twitter.com/6oZs7xNX08</a></p>&mdash; Mitch Kapor (@mkapor) <a href="https://twitter.com/mkapor/status/836092968951918592">February 27, 2017</a></blockquote>
+  </div>
+</div>
+
+
+### Machine learning [¶](#machine-learning){.pilcrow} {#machine-learning}
 
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
@@ -59,7 +71,7 @@ Nav: hidden
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
 - [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) (Thomas Johnson via github.com)
 
-### [¶](#general){.pilcrow} General tutorials {#general}
+### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [Learning AI if You Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037) (hackernoon.com)
 - [Free AI Course Materials](http://popsnip.com/topic/982/)
@@ -69,11 +81,11 @@ Nav: hidden
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/blog/what-does-machine-learning-look-like) (graphcore.ai)
 
-### [¶](#with-julia){.pilcrow} With [Julia](http://julialang.org/) {#with-julia}
+### With [Julia](http://julialang.org/) [¶](#with-julia){.pilcrow} {#with-julia}
 
 - [An Introduction to Machine Learning in Julia](http://juliacomputing.com/blog/2016/09/28/knn-char-recognition.html) (juliacomputing.com)
 
-### [¶](#tensorflow){.pilcrow} [TensorFlow](https://www.tensorflow.org/) {#tensorflow}
+### [TensorFlow](https://www.tensorflow.org/) [¶](#tensorflow){.pilcrow} {#tensorflow}
 
 - [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=wmw8Bbb_eIE&feature=youtu.be)
 - [TensorFlow for Poets](https://petewarden.com/2016/02/28/tensorflow-for-poets/) (petewarden.com)
@@ -82,13 +94,15 @@ Nav: hidden
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 - [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) (svds.com)
+- [Recurrent Neural Networks - A Short TensorFlow Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial) (Silicon Valley Data Science via github.com)
+- [Build a TensorFlow Image Classifier in 5 Min](https://www.youtube.com/watch?v=QfNvhPx5Px8) (Siraj Raval via youtube.com)
 
-### [¶](#wavenet){.pilcrow} [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) {#wavenet}
+### [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) [¶](#wavenet){.pilcrow} {#wavenet}
 
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
 - [basveeling/wavenet/](https://github.com/basveeling/wavenet/)
 
-### [¶](#demos-projects){.pilcrow} Demos and interesting projects {#demos-projects}
+### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
 
 - [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 - [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
@@ -102,7 +116,7 @@ Resynthesis for Gaze Manipulation
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
 
 
-### [¶](#see-also){.pilcrow} See also {#see-also}
+### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Distill](http://distill.pub/): Latest articles about machine learning (distill.pub)
 

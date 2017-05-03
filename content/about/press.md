@@ -11,7 +11,7 @@ If you'd like to get in touch with the [Botwiki team](/about/team/), please reac
 Below is a list of articles that talk about Botwiki and related projects, or that feature the Botwiki team members.
 
 
-### [¶](#articles){.pilcrow} Articles {#articles}
+### Articles [¶](#articles){.pilcrow} {#articles}
 
 
 > Botmakers.org provides a list of tools and resources for developers to create ethical bots, and the organization has a Code of Conduct that applies to all bots its more than 700 members create. 

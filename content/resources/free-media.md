@@ -11,7 +11,7 @@ Nav: hidden
 
 
 
-### [¶](#free-images){.pilcrow} Free images {#free-images}
+### Free images [¶](#free-images){.pilcrow} {#free-images}
 
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/): illustrations from old books; this very site uses it extensively!
@@ -36,7 +36,7 @@ Nav: hidden
 - [The Metropolitan Museum of Art Collection](http://metmuseum.org/art/collection/)
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car): image frames from car-mounted cameras, and information about latitude, longitude, gear, brake, throttle, steering angles and speed
 
-### [¶](#free-videos){.pilcrow} Free videos {#free-videos}
+### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
 
 - [British Pathé](https://www.youtube.com/user/britishpathe/videos): historical footage
@@ -47,7 +47,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [coverr.co](http://www.coverr.co/): more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/): archive of wildlife sounds and videos
 
-### [¶](#free-audio){.pilcrow} Free audio {#free-audio}
+### Free audio [¶](#free-audio){.pilcrow} {#free-audio}
 
 - [AudioSet](https://research.google.com/audioset/): A large-scale dataset of manually annotated audio events
 - [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth): Large-scale and high-quality dataset of annotated musical notes
@@ -56,7 +56,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series
 
 
-### [¶](#general-lists){.pilcrow} General websites and lists {#general-lists}
+### General websites and lists [¶](#general-lists){.pilcrow} {#general-lists}
 
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources): a curated list of stock photography, video and illustration websites
 

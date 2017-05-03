@@ -22,7 +22,7 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 - [Detective](#detective)
 
 
-### [¶](#botwiki){.pilcrow} Botwiki {#botwiki}
+### Botwiki [¶](#botwiki){.pilcrow} {#botwiki}
 
 <div class="centered-text" markdown='1'>
 ![Botwiki](/content/projects/images/botwiki-v2.png)
@@ -32,7 +32,7 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 
 If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https://github.com/botwiki/botwiki.org). We also have a neat [submit form](https://botwiki.org/submit-your-bot) that lets you suggests bots that you think we should include on the site.
 
-### [¶](#botmakers){.pilcrow} Botmakers {#botmakers}
+### Botmakers [¶](#botmakers){.pilcrow} {#botmakers}
 
 <div class="centered-text" markdown='1'>
 [![Botmakers.org](/content/projects/images/botmakers.png)](https://botmakers.org/)
@@ -43,11 +43,11 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to our bots as well!
 
 
-### [¶](#bot-ethics){.pilcrow} Bot Ethics {#bot-ethics}
+### Bot Ethics [¶](#bot-ethics){.pilcrow} {#bot-ethics}
 
 [Bot Ethics](/bot-ethics/) is a growing collections of essays and articles that help you understand the ever increasing role of automation and algorithms in human society, and if you are a botmaker, provide resources to avoid the common pitfalls.
 
-### [¶](#bot-zine){.pilcrow} Bot! zine {#bot-zine}
+### Bot! zine [¶](#bot-zine){.pilcrow} {#bot-zine}
 
 <div class="centered-text" markdown='1'>
 [![Botzine.org](/content/projects/images/botzine.png)](http://botzine.org/)
@@ -58,7 +58,7 @@ We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to ou
 It goes out every Monday and features newest bots, libraries, news, and interesting articles and other resources.
 
 
-### [¶](#botmaker-badges){.pilcrow} Botmaker Badges {#botmaker-badges}
+### Botmaker Badges [¶](#botmaker-badges){.pilcrow} {#botmaker-badges}
 
 <div class="centered-text" markdown='1'>
 [![Botmaker Badges](/content/botmaker-badges/images/badges-banner.png)](/botmaker-badges/)
@@ -69,7 +69,7 @@ Using [Mozilla's Open Badges](https://en.wikipedia.org/wiki/Mozilla_Open_Badges)
 Learn more [here](/botmaker-badges/).
 
 
-### [¶](#monthly-bot-challenge){.pilcrow} Monthly Bot Challenge {#monthly-bot-challenge}
+### Monthly Bot Challenge [¶](#monthly-bot-challenge){.pilcrow} {#monthly-bot-challenge}
 
 <div class="centered-text" markdown='1'>
 ![Monthly Bot Challenge](/content/projects/images/mbc.png)
@@ -78,7 +78,7 @@ Learn more [here](/botmaker-badges/).
 An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challenge](/monthly-bot-challenge/) page for details!
 
 
-### [¶](#bot-workshops){.pilcrow} Bot Workshops {#bot-workshops}
+### Bot Workshops [¶](#bot-workshops){.pilcrow} {#bot-workshops}
 
 <div class="centered-text" markdown='1'>
 [![Bot Workshops](/content/projects/images/bot-workshops.png)](/bot-workshops)
@@ -86,11 +86,11 @@ An ongoing monthly bot hackathon, currently on hold. See the [Monthly Bot Challe
 
 Botwiki's [Bot Workshops](/bot-workshops) are envisioned as a series of events (mostly online, possibly also offline) for botmakers of all levels of technical expertise: artists, tinkerers, enthusiasts, seasoned pros.
 
-### [¶](#original-tutorials){.pilcrow} Original tutorials {#original-tutorials}
+### Original tutorials [¶](#original-tutorials){.pilcrow} {#original-tutorials}
 
 The Botwiki team produces [original tutorials](/tag/tutorial+botwiki-original).
 
-### [¶](#botwiki-corpora-api){.pilcrow} Botwiki Corpora API {#botwiki-corpora-api}
+### Botwiki Corpora API [¶](#botwiki-corpora-api){.pilcrow} {#botwiki-corpora-api}
 
 <div class="centered-text" markdown='1'>
 [![Botwiki Corpora API](/content/projects/images/corpora-api.png?)](/projects/corpora)
@@ -98,7 +98,7 @@ The Botwiki team produces [original tutorials](/tag/tutorial+botwiki-original).
 
 [Botwiki Corpora API](/projects/corpora/) provides free access to the [Corpora](https://github.com/dariusk/corpora) data.
 
-### [¶](#sidekick){.pilcrow} Sidekick {#sidekick}
+### Sidekick [¶](#sidekick){.pilcrow} {#sidekick}
 
 <div class="centered-text" markdown='1'>
 ![Sidekick](/content/projects/images/botwikibot.png)
@@ -107,7 +107,7 @@ The Botwiki team produces [original tutorials](/tag/tutorial+botwiki-original).
 **Sidekick** is a multi-network bot that helps you manage your Slack-based hobby and non-profit online groups. [Learn more about the project](/projects/sidekick/) and join the development [in the Botmakers Slack group](https://botmakers.org/).
 
 
-### [¶](#detective){.pilcrow} Detective {#detective}
+### Detective [¶](#detective){.pilcrow} {#detective}
 
 <div class="centered-text" markdown='1'>
 ![Detective](/content/projects/images/detective-2.0.png)

@@ -9,7 +9,7 @@ Show donation link: yes
 Nav: hidden
 */
 
-### [¶](#language-text-speech-general-knowledge){.pilcrow} Language, text, speech, general knowledge {#language-text-speech-general-knowledge}
+### Language, text, speech, general knowledge [¶](#language-text-speech-general-knowledge){.pilcrow} {#language-text-speech-general-knowledge}
 - [Botwiki Corpora API](/projects/corpora/): free API access to [Corpora](https://github.com/dariusk/corpora)
 - [Google Knowledge Graph Search API](https://developers.google.com/knowledge-graph/): find entities in the [Google Knowledge Graph](https://www.google.com/intl/bn/insidesearch/features/search/knowledge.html)
 - [The New York Times Semantic API](http://developer.nytimes.com/docs/read/semantic_API): "list of people, places, organizations and other locations, entities and descriptors that make up the controlled vocabulary used as metadata by The New York Times"
@@ -31,25 +31,26 @@ Nav: hidden
   - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
 - [Chronicling America](http://chroniclingamerica.loc.gov/about/api/): historic newspapers and select digitized newspaper pages
 - [RhymeBrain.com: Rhyming and Word Information API](http://rhymebrain.com/api.html)
+- [Perspective](https://www.perspectiveapi.com/): "API that makes it easier to host better conversations", requires access request
 
-### [¶](#face-and-object-recognition){.pilcrow} Face and object recognition {#face-and-object-recognition}
+### Face and object recognition [¶](#face-and-object-recognition){.pilcrow} {#face-and-object-recognition}
 - [OpenFace API](http://openfaceapi.com/)
 - [Betaface](http://www.betafaceapi.com/)
 - [AlchemyVision](http://www.alchemyapi.com/products/alchemyvision)
 - [Clarifai](http://www.clarifai.com/)
 - [Sighthound](https://www.sighthound.com/products/cloud)
 
-### [¶](#art-images){.pilcrow} Art, images {#art-images}
+### Art, images [¶](#art-images){.pilcrow} {#art-images}
 - [Artsy.net Public API](https://developers.artsy.net/): access to images of historic artwork and related information on [artsy.net](https://www.artsy.net/)
 
-### [¶](#location-and-weather){.pilcrow} Location and weather {#location-and-weather}
+### Location and weather [¶](#location-and-weather){.pilcrow} {#location-and-weather}
 - [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API): editing API for fetching and saving raw geodata from/to the [OpenStreetMap](http://www.openstreetmap.org/) database
 - [OpenWeatherMap API](http://openweathermap.org/api): current and forecast weather or historical data
 - [Wunderground](https://www.wunderground.com/weather/api/): API for weather forecasts 
 - [Forecast.io API](https://developer.forecast.io/): weather API used by [The Dark Sky](http://darkskyapp.com/) app and [Forecast.io](https://forecast.io/)
 
 
-### [¶](#other){.pilcrow} Other {#other}
+### Other [¶](#other){.pilcrow} {#other}
 - [Twitter](https://dev.twitter.com/streaming/overview), see also [Tutorials for Twitter Bots](/tutorials/twitterbots/)
 - [Wikimedia REST API](https://en.wikipedia.org/api/rest_v1/): "coherent and low-latency access to Wikimedia content and services"
 - [Github](https://developer.github.com/)
@@ -58,14 +59,14 @@ Nav: hidden
 - [Untappd API](https://untappd.com/api/docs): "Untappd is a social networking service that allows its users to check into beers as they drink them, and share these check-ins and their locations with their friends." [Wikipedia](https://en.wikipedia.org/wiki/Untappd)
 - [BreweryDB API](http://www.brewerydb.com/developers): "BreweryDB is your database of breweries, beers, beer events and guilds"
 
-### [¶](#api-directories){.pilcrow} API directories {#api-directories}
+### API directories [¶](#api-directories){.pilcrow} {#api-directories}
 - [ProgrammableWeb](http://www.programmableweb.com/)
 - [apis.io](http://apis.io/)
 
-### [¶](#media){.pilcrow} Media {#media}
+### Media [¶](#media){.pilcrow} {#media}
 - [Unsplash API](https://source.unsplash.com/): free high-resolution photos, see documentation [here](https://unsplash.com/documentation) (also available for direct download at [unsplash.com](https://unsplash.com/))
 
-### [¶](#unsorted){.pilcrow} Unsorted {#unsorted}
+### Unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis): a collective list of free JSON APIs
 - [A list of APIs that don't require authentication](http://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
 - [NASA's API Catalog](https://data.nasa.gov/developer)/[NASA Open APIs](https://api.nasa.gov/index.html)

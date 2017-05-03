@@ -16,29 +16,29 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 
 
-### [¶](#mastodon){.pilcrow} Mastodon {#mastodon}
+### Mastodon [¶](#mastodon){.pilcrow} {#mastodon}
 
-#### [¶](#mastodon-nodejs){.pilcrow} node.js {#mastodon-nodejs}
+#### node.js [¶](#mastodon-nodejs){.pilcrow} {#mastodon-nodejs}
 
 - [tracery-mastodon-bot](https://glitch.com/~tracery-mastodon-bot): generative Mastodon bot starter project using [Tracery](http://tracery.io/)
 - [jessicahayley/node-mastodon](https://github.com/jessicahayley/node-mastodon), a fork of the [twit](https://github.com/ttezel/twit) library for the [Mastodon](https://github.com/tootsuite/mastodon) API
 
-#### [¶](#mastodon-python){.pilcrow} Python {#mastodon-python}
+#### Python [¶](#mastodon-python){.pilcrow} {#mastodon-python}
 
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API
 - [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster
 
-#### [¶](#mastodon-ruby){.pilcrow} Ruby {#mastodon-ruby}
+#### Ruby [¶](#mastodon-ruby){.pilcrow} {#mastodon-ruby}
 
 - [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api): Ruby interface for the Mastodon API
 
-#### [¶](#tools){.pilcrow} Tools {#tools}
+#### Tools [¶](#tools){.pilcrow} {#tools}
 
 - [Register a Mastodon App](https://tinysubversions.com/notes/mastodon-bot/index.html)
 
-#### [¶](#open-source-bots){.pilcrow} Open source bots {#open-source-bots}
+#### Open source bots [¶](#open-source-bots){.pilcrow} {#open-source-bots}
 
-##### [¶](#open-source-python){.pilcrow} Python {#open-source-python}
+##### Python [¶](#open-source-python){.pilcrow} {#open-source-python}
 
 - [Icebox Breakfast Bot](https://github.com/aparrish/iceboxbreakfast): A [William Carlos Williams](https://en.wikipedia.org/wiki/William_Carlos_Williams)-parodizing Mastodon bot
 

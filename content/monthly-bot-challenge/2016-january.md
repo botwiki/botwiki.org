@@ -21,7 +21,7 @@ The very first Monthly Bot Challenge sponsor, [DigitalOcean](https://www.digital
 
 Visit [digitalocean.com](https://www.digitalocean.com/) to learn more about the company and their offerings and follow [@digitalocean](https://twitter.com/digitalocean) for updates and occasional friendly banter.
 
-### [¶](#winners){.pilcrow} Winners {#winners}
+### Winners [¶](#winners){.pilcrow} {#winners}
 
 
 - **1st place**: [@bitsofpluto](/bots/twitterbots/bitsofpluto/) by [Hugo](https://twitter.com/hugovk)

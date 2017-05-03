@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 
-### [¶](#theme){.pilcrow} Theme {#theme}
+### Theme [¶](#theme){.pilcrow} {#theme}
 
 <p class="screenshot float-right">
   <a href="/bots/twitterbots/donorschamps">
@@ -21,7 +21,7 @@ The goal for the April 2016 Monthly Bot Challenge was to create a bot that **sup
 
 You could have made a bot that [suggests its followers where to donate money](/bots/twitterbots/donorschamps). Or you could have made a bot that [tweets as certain events occur](https://twitter.com/gundeaths).
 
-### [¶](#prize){.pilcrow} Prize {#prize}
+### Prize [¶](#prize){.pilcrow} {#prize}
 
 
 The April 2016 Monthly Bot Challenge was sponsored by [Knight-Mozilla OpenNews](https://opennews.org/), a project that supports the growing community of people working to help journalism thrive on the open web.
@@ -36,7 +36,7 @@ OpenNews publishes [Source](https://source.opennews.org), the online home for th
 
 **Big thanks to OpenNews!**
 
-### [¶](#winner){.pilcrow} Winner {#winner}
+### Winner [¶](#winner){.pilcrow} {#winner}
 
 The winner of the 2016 April Monthly Bot Challenge was [@White_Fangs](https://twitter.com/White_fangs) with [@ItIsYourData](/bots/twitterbots/ItIsYourData/), congratulations! 👏👏🎉
 

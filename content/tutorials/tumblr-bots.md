@@ -26,7 +26,7 @@ Nav: hidden
   </a>
 </p>
 
-### [¶](#general){.pilcrow} General {#general}
+### General [¶](#general){.pilcrow} {#general}
 
 - [Tumblr API](https://www.tumblr.com/docs/en/api/)
 - [Tumblr API Console](https://api.tumblr.com/console/calls/user/info)

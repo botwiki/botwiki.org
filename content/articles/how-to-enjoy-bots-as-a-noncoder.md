@@ -16,7 +16,7 @@ I'm putting this page together as a reference for folks who might feel a little 
 ***Botwiki, and [bots](/bots/) are for everyone!***
 
 
-## [¶](#browsing-botwiki){.pilcrow} Browsing Botwiki {#browsing-botwiki}
+## Browsing Botwiki [¶](#browsing-botwiki){.pilcrow} {#browsing-botwiki}
 
 You can start on the [Bots](/bots/) page and work your way around the site by clicking on whatever looks interesting to you.
 
@@ -24,7 +24,7 @@ Botwiki is very easy to navigate thanks to curated lists of links that let you b
 
 Check the top site navigation to go beyond browsing bots with [articles](/articles/), [events](/events/), or [learn more about Botwiki](/about/) and [related projects](/projects/).
 
-## [¶](#contributing-to-botwiki){.pilcrow} Contributing to Botwiki {#contributing-to-botwiki}
+## Contributing to Botwiki [¶](#contributing-to-botwiki){.pilcrow} {#contributing-to-botwiki}
 
 
 There are many ways you can contribute to Botwiki without having to write a single line of code.

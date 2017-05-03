@@ -8,7 +8,6 @@ Description: Credit where credit's due!
 
 Following resources have been used to create Botwiki:
 
-
 - Illustrations from [Old Book Illustrations](http://www.oldbookillustrations.com/)
 - Emoji by [Emoji One](http://emojione.com/)
 - Social media icons by [Aha-Soft](http://www.aha-soft.com/free-icons/)

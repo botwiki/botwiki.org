@@ -21,7 +21,7 @@ Nav: hidden
 
 
 
-### [¶](#tutorials-nodejs){.pilcrow} node.js {#tutorials-nodejs}
+### node.js [¶](#tutorials-nodejs){.pilcrow} {#tutorials-nodejs}
 
 - [Facebook Messenger ChatBot in Node.js - Weather Lookup](https://glitch.com/edit/#!/fb-messenger-weather-bot) ([Tomomi Imura](https://twitter.com/girlie_mac) via glitch.com)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
@@ -31,7 +31,7 @@ Nav: hidden
 - [Building a Facebook Chat Bot with Node and Heroku](https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/) (sitepoint.com)
 
 
-### [¶](#tutorials-python){.pilcrow} Python {#tutorials-python}
+### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}
 
 - [How to create a Facebook Bot in 10 minutes: The complete tutorial from Zero to Hero(ku)](https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tutorial-from-zero-to-hero-ku-352dca274046)
 - [New FB Messenger Bot Port to Python Based on Quickstart Guide](http://www.seanshadmand.com/2016/04/15/new-fb-messenger-bot-port-to-python-based-on-quickstart-guide/) (seanshadmand.com)
@@ -39,18 +39,18 @@ Nav: hidden
 - [How to deploy a Facebook bot](https://medium.com/@igougi.ui/how-to-deploy-a-facebook-bot-2b8c4f4e7eae)
 - [Use Facebook to control your Raspberry Pi terminal](https://medium.com/@rkieltyka/use-facebook-to-control-your-raspberry-pi-terminal-d952c15b3549)
 
-### [¶](#tutorials-ruby){.pilcrow} Ruby {#tutorials-ruby}
+### Ruby [¶](#tutorials-ruby){.pilcrow} {#tutorials-ruby}
 
 - Developing a Facebook Messenger Bot with Ruby on Rails: [Part 1](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-1-7d8039b62f0) and [Part 2](https://medium.com/@morgler/developing-a-facebook-messenger-bot-part-2-6ccc51430bfe)
 - [Build your first Facebook Messenger bot in Ruby with Sinatra and `facebook-messenger` gem](https://hackernoon.com/smooth-coordinator-1427dce17f00) ([Part 2](https://hackernoon.com/build-your-first-facebook-messenger-bot-in-ruby-with-sinatra-part-2-3-b3d929a4606d), [Part 3](https://hackernoon.com/build-your-first-facebook-messenger-bot-in-ruby-with-sinatra-part-3-3-c1b9f55ae121))
 - [How to Create a Facebook Messenger Bot with Ruby on Rails](https://chatbotslife.com/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135) (chatbotslife.com)
 - [Creating a fully functional Weather Chatbot — A technical tutorial](https://chatbotslife.com/creating-a-fully-functional-weather-chatbot-a-technical-tutorial-9f2d8273ae2c) (chatbotslife.com)
 
-### [¶](#tutorials-microsoft-bot-framework){.pilcrow} Microsoft Bot Framework {#tutorials-microsoft-bot-framework}
+### Microsoft Bot Framework [¶](#tutorials-microsoft-bot-framework){.pilcrow} {#tutorials-microsoft-bot-framework}
 
 - [A Step By Step Guide To Develop A Conversational Facebook ChatBot Using Microsoft Bot Framework](https://www.netsolutionsindia.com/blog/a-step-by-step-guide-to-develop-a-conversational-facebook-chatbot-using-microsoft-bot-framework/)
 
-### [¶](#tutorials-other){.pilcrow} Other {#tutorials-other}
+### Other [¶](#tutorials-other){.pilcrow} {#tutorials-other}
 
 - [Cheat Sheet: Chatbot Command Types for Facebook Messenger](https://www.chatbot-academy.com/chatbot-command-types-facebook-messenger/)
 - [Cheat Sheet: All Facebook Chatbot Interactions](https://chatbotsmagazine.com/cheat-sheet-all-facebook-chatbot-interactions-4b14e4e00178)

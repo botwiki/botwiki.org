@@ -1741,9 +1741,6 @@ h6 {
     padding: 1rem 2rem;
   }
 }
-a.pilcrow {
-  float: right;
-}
 a.pilcrow,
 a.pilcrow:visited {
   color: #e2dbe4;
@@ -1777,6 +1774,10 @@ h3 {
 }
 h4 {
   font-size: 2em;
+}
+h5 {
+  font-size: 1.8em;
+  text-transform: none;
 }
 ol,
 ul {
@@ -1964,10 +1965,28 @@ div.header-image img {
   float: right;
   padding-left: 30px;
 }
+.float-right.screenshot {
+  padding-left: 1em !important;
+}
+@media (min-width: 900px) {
+  .float-right.screenshot {
+    padding-top: 2em !important;
+    padding-left: 3em !important;
+  }
+}
 .float-left {
   float: left;
   margin-right: 2em;
   padding-left: 0;
+}
+.float-left.screenshot {
+  padding-right: 1em !important;
+}
+@media (min-width: 900px) {
+  .float-left.screenshot {
+    padding-top: 2em !important;
+    padding-right: 3em !important;
+  }
 }
 img.main-banner {
   margin: 10px 0 10px 50px;
@@ -2204,7 +2223,7 @@ aside#sidebar img {
 }
 @media (min-width: 860px) {
   .footer-modules {
-    padding: 4em 0;
+    padding: 5em 0 0;
   }
 }
 .footer-modules .footer-module {
@@ -2213,7 +2232,7 @@ aside#sidebar img {
   text-transform: none;
 }
 .footer-modules .footer-module p {
-  padding: 2.5em 0 !important;
+  padding: 1em 0 !important;
 }
 .footer-modules .footer-module img {
   margin: 0 auto;

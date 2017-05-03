@@ -26,7 +26,7 @@ We are going to use the following tools:
 
 ***Also: I wrote this tutorial to help beginner coders join our [Monthly Bot Challenge](/monthly-bot-challenge). Be sure to join the [Botmakers.org](https://botmakers.org/) community to share ideas and ask for help, and follow [@botwikidotorg](https://twitter.com/botwikidotorg/) for updates!***
 
-### [¶](#step-1){.pilcrow} Creating a Twitter app {#step-1}
+### Creating a Twitter app [¶](#step-1){.pilcrow} {#step-1}
 
 The way you make bots on Twitter is that you first create a new account, which is going to be the actual bot, and a Twitter app, through which you will control this bot.
 
@@ -48,7 +48,7 @@ In a moment, we are going to need four things from this page:
 You need to click the button in the **Your Access Token** section to generate the last two. Done? Perfect, let's keep this page open for now.
 
 
-### [¶](#step-2){.pilcrow} Signing up for Cloud9 {#step-2}
+### Signing up for Cloud9 [¶](#step-2){.pilcrow} {#step-2}
 
 ![Cloud9](/content/tutorials/making-what_capital/images/cloud9-logo.png){.float-right}
 
@@ -60,7 +60,7 @@ Cloud9 offers a [free plan](https://c9.io/pricing/public), which gives us more t
 So let's [sign up for our free account](https://c9.io/web/sign-up/free). After we fill out all the necessary information, we should land in our Workspaces view. 
 
 
-### [¶](#step-3){.pilcrow} Creating a Cloud9 project {#step-3}
+### Creating a Cloud9 project [¶](#step-3){.pilcrow} {#step-3}
 
 Click [Create a new workspace](https://c9.io/new) and fill out your app's information.
 
@@ -77,7 +77,7 @@ I will add [links that go into more details](#further-reading), but for now, I'm
 The most important things to know are: you can see your files and folders on the left. `server.js` is where you will write your Twitter bot code. The tab at the bottom where it says "bash" is the *command line*, and we will use that to install the Twit module.
 
 
-### [¶](#step-4){.pilcrow} Installing Twit {#step-4}
+### Installing Twit [¶](#step-4){.pilcrow} {#step-4}
 
 We're going to use our command line to install Twit, which, as I mentioned, is a node.js module for interacting with Twitter through their API ([Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface). Simply put, Twit is a sort of a gateway between Twitter and your bot.
 
@@ -88,7 +88,7 @@ Go to the *bash* tab and type `npm install twit`. This command asks *npm* to *in
 Now for the fun part!
 
 
-### [¶](#step-5){.pilcrow} Writing code {#step-5}
+### Writing code [¶](#step-5){.pilcrow} {#step-5}
 
 Right-click into the area with files and folders on the left and click *New file*. Name it `config.js`. This will be your *configuration* file and we'll put your Twitter API keys here. (Note that you can easily right-click the file and click **Rename** if you make a mistake.)
 
@@ -181,7 +181,7 @@ If something went wrong, you will see an error message, for example, if you don'
 ![It's an error!](/content/tutorials/making-what_capital/images/error.png){.centered}
 
 
-### [¶](#step-6){.pilcrow} Adding images {#step-6}
+### Adding images [¶](#step-6){.pilcrow} {#step-6}
 
 So we decided that our bot will upload a flag of a country and wait until someone responds to our tweet with the name of the capital of the matching country.
 
@@ -289,14 +289,14 @@ Some more ideas to explore:
 This bot can also be "repurposed" and turned into similar games, for example, you could make a bot that posts outlines of countries and the players need to identify them. You could post images of famous people, landmarks, animals, etc. You could even make the game fully text-based and create something like [@TheRiddlerBot](https://botwiki.org/bots/twitterbots/TheRiddlerBot/).
 
 
-### [¶](#further-reading){.pilcrow} Further reading {#further-reading}
+### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 
 - [Getting Started with Cloud9](https://docs.c9.io/docs/): Useful links and tips for learning how to use our cloud IDE
 - [JavaScript Fundamentals](http://thenewcode.com/1027/Web-Developer-Reading-List-JavaScript-Fundamentals)
 - [The Absolute Beginner’s Guide to Node.js](http://blog.codeship.com/node-js-tutorial/)
 - [Twitter Bot Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) video tutorial series by [Daniel Shiffman](https://twitter.com/shiffman) 
 
-### [¶](#notes){.pilcrow} Notes {#notes}
+### Notes [¶](#notes){.pilcrow} {#notes}
 
 Earlier I mentioned the need for making your workspace "private". This is mainly so that you don't expose your private Twitter API keys. Anyone who can see those could easily take over your bot and use it to spam people.
 
@@ -304,7 +304,7 @@ Using the free plan, Cloud9 only allows you to have [one private workspace](http
 
 Another complication comes from the fact that on the free Cloud9 plan, your app will become idle if it doesn't get any web traffic for a while. You have two options here: you can subscribe to the [$19/month plan](https://c9.io/pricing/webide), or you could use [OpenShift](https://www.openshift.com/) to actually host and run your app, while you'd still edit the code using Cloud9. Note that you will have to ["upgrade" to the free Bronze plan](https://www.openshift.com/pricing/index.html), which, again, is free, but it does require you to add your credit card information anyway.
 
-### [¶](#step-openshift){.pilcrow} Deploying to OpenShift {#step-openshift}
+### Deploying to OpenShift [¶](#step-openshift){.pilcrow} {#step-openshift}
 
 ***This section is work in progress.***
 

@@ -182,9 +182,6 @@ h1, h2, h3, h4, h5, h6{
 }
 
 a.pilcrow{
-  &{
-    float: right;
-  }
   &, &:visited{
     color: @main-color + #aaa;
     transition: color 0.2s;    
@@ -220,6 +217,11 @@ h3{
 
 h4{
   font-size: 2em;
+}
+
+h5{
+  font-size: 1.8em;
+  text-transform: none;
 }
 
 ol, ul{
@@ -421,12 +423,28 @@ div.header-image{
 .float-right{
   float: right;
   padding-left: 30px;
+
+  &.screenshot{
+    padding-left: 1em !important;
+    @media (min-width: @site-width-medium){
+      padding-top: 2em !important;
+      padding-left: 3em !important;
+    }
+  }
 }
 
 .float-left{
   float: left;
   margin-right: 2em;
   padding-left: 0;
+
+  &.screenshot{
+    padding-right: 1em !important;
+    @media (min-width: @site-width-medium){
+      padding-top: 2em !important;
+      padding-right: 3em !important;
+    }
+  }
 }
 
 img.main-banner{
@@ -691,7 +709,7 @@ aside#sidebar img{
   padding: 5em 0;
 
   @media (min-width: @site-width-small){
-    padding: 4em 0;
+    padding: 5em 0 0;
   }
 
   .footer-module{
@@ -700,7 +718,7 @@ aside#sidebar img{
 
     text-transform: none;
     p{
-      padding: 2.5em 0 !important;
+      padding: 1em 0 !important;
     }
     img{
       margin: 0 auto;

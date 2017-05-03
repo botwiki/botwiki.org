@@ -19,7 +19,7 @@ Show donation link: yes
   </p>
 </div>
 
-### [¶](#general){.pilcrow} General {#general}
+### General [¶](#general){.pilcrow} {#general}
 
 
 - [Google Developers page for the YouTube API](https://developers.google.com/youtube/)

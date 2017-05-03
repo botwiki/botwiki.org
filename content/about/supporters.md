@@ -16,7 +16,7 @@ Below is a list of [individuals](#individual-sponsors), [corporations, and other
 
 See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/contributors) and the [current team members](/about/team/).
 
-## [¶](#individual-sponsors){.pilcrow} Individual sponsors {#individual-sponsors}
+## Individual sponsors [¶](#individual-sponsors){.pilcrow} {#individual-sponsors}
 
 - [Greg Leuch](https://poncho.is) ([@gleuch](https://twitter.com/gleuch))
 - [@swizzard](https://twitter.com/swizzard) ([GitHub](https://github.com/swizzard))
@@ -28,7 +28,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 - [revdancatt](http://revdancatt.com/?ref=botwiki)
 
 
-## [¶](#corporate-sponsors){.pilcrow} Corporatations & organizations {#corporate-sponsors}
+## Corporatations & organizations [¶](#corporate-sponsors){.pilcrow} {#corporate-sponsors}
 
 <div class="sponsors-corporate-organizations">
   <a href="https://www.digitalocean.com/?ref=botwiki" 

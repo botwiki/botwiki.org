@@ -27,23 +27,23 @@ GNU social implementations include [Mastodon](https://mastodon.social/) and [bot
 
 
 <!--
-### [¶](#general){.pilcrow} General tutorials {#general}
+### General tutorials [¶](#general){.pilcrow} {#general}
 -->
 
-### [¶](#mastodon){.pilcrow} Mastodon {#mastodon}
+### Mastodon [¶](#mastodon){.pilcrow} {#mastodon}
 
 [Mastodon](https://mastodon.social/) is a GNU Social-compatible microblogging server.
 
 - [GitHub repo](https://github.com/tootsuite/mastodon/)
-- [API overview](https://github.com/tootsuite/mastodon/blob/master/docs/Using-the-API/API.md)
+- [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
 
 
-### [¶](#botsinspace){.pilcrow} botsin.space {#botsinspace}
+### botsin.space [¶](#botsinspace){.pilcrow} {#botsinspace}
 
 [botsin.space](https://botsin.space/) is specifically dedicated to running bots and is managed by [@muffinista](https://twitter.com/muffinista).
 
 
 
-### [¶](#see-also){.pilcrow} See also {#see-also}
+### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Resources for GNU Social bots](/resources/gnu-social-bots).

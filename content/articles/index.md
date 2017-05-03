@@ -12,7 +12,7 @@ Weight: 4
 
 For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.
 
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [Blogs and websites](#blogs-and-websites)
 - [Essays](#general-essays)
@@ -20,7 +20,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Books and other literature](#books)
 - [Audio, video, slides](#audio-video-slides)
 
-### [¶](#blogs-and-websites){.pilcrow} Blogs and websites {#blogs-and-websites}
+### Blogs and websites [¶](#blogs-and-websites){.pilcrow} {#blogs-and-websites}
 
 - [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch) (retired?)
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
@@ -40,11 +40,11 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Chatbots Magazine](https://chatbotsmagazine.com/): *The #1 Place to Learn About Chatbots*
 - [BotFunded](https://botfunded.com/): Track which chatbots are getting the most funding
 
-### [¶](#books){.pilcrow} Books and other literature {#books}
+### Books and other literature [¶](#books){.pilcrow} {#books}
 
 - [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
 
-### [¶](#general-essays){.pilcrow} Essays {#general-essays}
+### Essays [¶](#general-essays){.pilcrow} {#general-essays}
 
 - [Bot ethics](/bot-ethics): Misbehaving bots, biased algorithms, and more
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
@@ -67,8 +67,10 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [My friend, the bot](https://medium.com/@hautepop/my-friend-the-bot-373e3b7dac60) (Jay Owens via medium.com)
 - [Towards a sustainable bot ecosystem](https://medium.com/@katierosepipkin/towards-a-sustainable-bot-ecosystem-31c849b7ab93) (Katie Rose Pipkin via medium.com)
 - [I Automated My Friends and Nobody Could Tell the Difference](https://latenightcoding.co/i-automated-my-friends/) (latenightcoding.co)
+- [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm) (idlewords.com)
+- [AI: Process v Output](https://medium.com/@peterbihr/ai-process-v-output-56af9ee67bd2) (Peter Bihr via medium.com)
 
-### [¶](#selected-articles){.pilcrow} Selected articles {#selected-articles}
+### Selected articles [¶](#selected-articles){.pilcrow} {#selected-articles}
 
 - [2017: Chatbot crisis](/articles/selected-articles/2017)
 - [2016: Bots ruining everything](/articles/selected-articles/2016)
@@ -79,8 +81,9 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [1981: AI](/articles/selected-articles/1981)
 
 
-### [¶](#audio-video-slides){.pilcrow} Audio, video, and slides from talks {#audio-video-slides}
+### Audio, video, and slides from talks [¶](#audio-video-slides){.pilcrow} {#audio-video-slides}
 
+- [Creativity and AI: Deep Neural Nets "Going Wild"](https://www.youtube.com/watch?v=VH8dvaxI9j8) (Roelof Pieters)
 - [Are Twitter bots the future of experimental literature?](https://www.youtube.com/watch?v=dyTP7RM2nu8) ([Sam Sutherland](https://twitter.com/samsthrlnd) via [This Exists](https://www.youtube.com/c/thisexists))
 - [Technically Female: Women, Machines, and Hyperemployment](https://www.youtube.com/watch?v=ZSBefHq7C_o) ([Helen Hester](https://twitter.com/helenhester))
 - [Chris Messina](https://twitter.com/chrismessina/)'s [panel on bots, AI & the future of conversational UI](https://www.facebook.com/chrismessina/videos/10154329568986874/) at [SXSW 2016](http://schedule.sxsw.com/2016/events/event_PP47130)
@@ -90,6 +93,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 - [Stop Making Video Games, Make Bots Instead](https://www.youtube.com/watch?v=WYXOpfE7UxM) ([George Buckenham](https://twitter.com/v21))
 - [Videos from the alt-AI conference](http://alt-ai.net/#watch) (learn more about the event [here](/events/alt-ai-may-2016/))
 - [Tim Hwang on bots that cause chaos](https://www.oreilly.com/ideas/tim-hwang-on-bots-that-cause-chaos?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+oreilly%2Fradar%2Fatom+%28O%27Reilly+Radar%29) (oreilly.com)
+- [A Brief History of Our Robotic Future](https://www.youtube.com/watch?v=nlrr5b1XWoY) (Wired via youtube.com)
 - [Bot Summit](/tag/event+botsummit/): a series of events centered around "art" bots
 
 #### See also

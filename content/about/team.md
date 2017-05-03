@@ -7,12 +7,12 @@ Show donation link: yes
 Nav: hidden
 */
 
-### [¶](#contact){.pilcrow} Contact {#contact}
+### Contact us [¶](#contact){.pilcrow} {#contact}
 
 If you'd like to get in touch, feel free to email [Stefan and Veronica](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).
 
 
-### [¶](#stefan){.pilcrow} Stefan {#stefan}
+### Stefan [¶](#stefan){.pilcrow} {#stefan}
 
 [![Stefan](/content/about/images/stefan.png){.float-right .photo}](https://twitter.com/fourtonfish)
 
@@ -25,7 +25,7 @@ You can reach me at [stefan@botwiki.org](mailto:stefan@botwiki.org), or visit [f
 
 
 
-### [¶](#veronica){.pilcrow} Veronica {#veronica}
+### Veronica [¶](#veronica){.pilcrow} {#veronica}
 
 [![Veronica](/content/about/images/veronica.jpg){.float-right .photo}](https://twitter.com/Veronica)
 
@@ -36,7 +36,7 @@ I'm a podcaster, writer, and bot/AI enthusiast from San Francisco. I love talkin
 I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot! zine](https://botzine.org/) newsletter, and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
 
 
-### [¶](#contributors){.pilcrow} Contributors {#contributors}
+### Contributors [¶](#contributors){.pilcrow} {#contributors}
 
 
  
