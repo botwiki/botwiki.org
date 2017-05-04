@@ -16,38 +16,38 @@ Nav: hidden
 For a list of commercial tools that let you build bots for Facebook's Messenger, check out [this blog post from Chatbot Academy](https://www.chatbot-academy.com/chatbot-builders-facebook-messenger/).
 
 
-### [¶](#official-documentation){.pilcrow} Official documentation {#official-documentation}
+### Official documentation [¶](#official-documentation){.pilcrow} {#official-documentation}
 
 - [Product Overview - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/product-overview)
 - [Getting Started - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/quickstart)
 - [Complete Guide - Messenger Platform](https://developers.facebook.com/docs/messenger-platform/implementation)
 - [Messenger Platform News](https://messengerblog.com/)
 
-### [¶](#bot-frameworks){.pilcrow} Facebook Messenger Bot Frameworks {#bot-frameworks}
+### Facebook Messenger Bot Frameworks [¶](#bot-frameworks){.pilcrow} {#bot-frameworks}
 
+#### node.js [¶](#bot-frameworks-nodejs){.pilcrow} {#bot-frameworks-nodejs}
 
-#### [¶](#bot-frameworks-nodejs){.pilcrow} node.js {#bot-frameworks-nodejs}
-
+- [Facebook Messenger Bot project on Glitch](https://glitch.com/edit/#!/messenger-bot) (glitch.com)
 - [howdyai/botkit](https://github.com/howdyai/botkit) (also supports Slack)
 - [DiegoRBaquero/node-fb-messenger](https://github.com/DiegoRBaquero/node-fb-messenger)
 - [alexindigo/fbbot](https://github.com/alexindigo/fbbot)
 - [olegakbarov/facebook-messenger-devkit](https://github.com/olegakbarov/facebook-messenger-devkit)
 
-#### [¶](#bot-frameworks-java){.pilcrow} Java {#bot-frameworks-java}
+#### Java [¶](#bot-frameworks-java){.pilcrow} {#bot-frameworks-java}
 
 - [marsbits/restfbmessenger](https://github.com/marsbits/restfbmessenger)
 
-#### [¶](#bot-frameworks-ruby){.pilcrow} ruby {#bot-frameworks-ruby}
+#### ruby [¶](#bot-frameworks-ruby){.pilcrow} {#bot-frameworks-ruby}
 
 - [hyperoslo/facebook-messenger](https://github.com/hyperoslo/facebook-messenger)
 - [messenger-bot-bgta/bot-starter](https://github.com/messenger-bot-bgta/bot-starter)
 
-#### [¶](#bot-frameworks-other){.pilcrow} Other {#bot-frameworks-other}
+#### Other [¶](#bot-frameworks-other){.pilcrow} {#bot-frameworks-other}
 
 - [paked/messenger](https://github.com/paked/messenger) (Go language)
 
 
-### [¶](#other){.pilcrow} Other tools {#other}
+### Other tools [¶](#other){.pilcrow} {#other}
 
 - [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com): "Demo (bot) interactions without showing personal chats"
 

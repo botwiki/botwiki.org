@@ -18,7 +18,7 @@ Tags: tutorial,twitter,glitch,gomix,node,nodejs,twit,node.js,fourtonfish,botwiki
 
 Due to how Twitter API works, Glitch is not a suitable platform for hosting this kind of a bot. Feel free to follow the tutorial below to learn about how Twitter bots work. Alternatively, you can take your finished code and [find a hosting platform](https://botwiki.org/tutorials/bot-hosting) that lets you run your app non-stop.
 
-### [¶](#intro){.pilcrow} Introduction {#intro}
+### Introduction [¶](#intro){.pilcrow} {#intro}
 
 Hey there, [Stefan](https://botwiki.org/about/team#stefan) here, back with another Twitter bot tutorial.
 
@@ -32,7 +32,7 @@ If you'd like, you can have a [quick look the finished code](https://glitch.com/
 
 Sounds good? **Let's do this!**
 
-### [¶](#remix){.pilcrow} Everything is a remix {#remix}
+### Everything is a remix [¶](#remix){.pilcrow} {#remix}
 
 First, you will need to [create a new Twitter app](/tutorials/how-to-create-a-twitter-app); each comes with a set of free API keys which we will need to bring our Twitter bot to life.
 
@@ -83,7 +83,7 @@ var path = require('path'),
 Notice that I added one extra module called `request`, which will be used to figure out the ID of the tweet shared via DM. I am also listening to the `user` stream, instead of reading a sample of status updates (`statuses/sample`).
 
 
-### [¶](#getting-tweet-id){.pilcrow} Getting the tweet ID {#getting-tweet-id}
+### Getting the tweet ID [¶](#getting-tweet-id){.pilcrow} {#getting-tweet-id}
 
 When you share a tweet via DM, you are basically just sending the tweet's URL. On Twitter, all URLs are shortened in the format of `https://t.co/abcd1234`. We need to figure out the original URL (something like `https://twitter.com/username/status/123456789`), extract the ID, and then find a tweet with that ID and retweet it.            
 
@@ -100,7 +100,7 @@ function get_tweet_id(url){
 }
 ```
 
-### [¶](#sending-dm){.pilcrow} Sending a message {#sending-dm}
+### Sending a message [¶](#sending-dm){.pilcrow} {#sending-dm}
 
 Next, we will give our bot the ability to speak by adding a generic function for sending direct messages. We can then use this function to respond with confirmation messages, or error messages if something breaks.
 
@@ -119,7 +119,7 @@ function send_twitter_dm(username, message){
 }
 ```
 
-### [¶](#retweeting){.pilcrow} Retweeting {#retweeting}
+### Retweeting [¶](#retweeting){.pilcrow} {#retweeting}
 
 And now, the retweeting function.
 
@@ -145,7 +145,7 @@ Pretty straightforward.
 Our function will accept the ID of the tweet, which we will extract using the `get_tweet_id` function, and also the `user_name` of the person sharing the tweet, so we can either confirm that the tweet was successfully retweeted, or respond with an error message.
 
 
-### [¶](#tying-it-together){.pilcrow} Tying it all together {#tying-it-together}
+### Tying it all together [¶](#tying-it-together){.pilcrow} {#tying-it-together}
 
 We are going to listen to [User Streams](https://dev.twitter.com/streaming/userstreams), which is *a stream of data and events specific to the authenticated user*.
 
@@ -197,7 +197,7 @@ The code above might seem a bit more complicated, if you're not familiar with [c
 The bottom line is, we need to first fetch the list of accounts the bot is following, and then check if the sender of the DM is on that list. This is done *asynchronously*, meaning, the app won't just wait while we load the list, and without going into too much detail, a *closure* is a way to deal with asynchronous events in JavaScript.
 
 
-### [¶](#sharing-tweets){.pilcrow} Sharing tweets {#sharing-tweets}
+### Sharing tweets [¶](#sharing-tweets){.pilcrow} {#sharing-tweets}
 
 Moving on, we are now ready to test our bot. Make sure the bot follows you, then try sharing a tweet through a DM --
 

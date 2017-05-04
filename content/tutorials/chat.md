@@ -13,7 +13,7 @@ Nav: hidden
 </div>
 
 
-### [¶](#general){.pilcrow} General tutorials {#general}
+### General tutorials [¶](#general){.pilcrow} {#general}
 
 A great resource for making online chatbots is [Chatbots Magazine](https://chatbotsmagazine.com/). Some of their articles include:
 
@@ -25,7 +25,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [How Artists Can Leverage Bots In 2017](https://chatbotsmagazine.com/how-artists-can-utilize-bots-in-2017-192554ac3df3)
 - [Do you want your chatbot converse in foreign languages? My learnings from bot devs.](https://chatbotsmagazine.com/do-you-want-your-chatbot-converse-in-foreign-languages-my-learnings-from-bot-devs-9b608f685f5b)
 
-#### [¶](#convincing-conversations){.pilcrow} Convincing conversations {#convincing-conversations}
+#### Convincing conversations [¶](#convincing-conversations){.pilcrow} {#convincing-conversations}
 
 - [The Jack Principles of The Interactive Conversational Interface](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf) (PDF, jellyvisionlab.com)
 - [How to write convincing bots and computer conversations using fallbacks, interjections, and believability credit](https://www.pullstring.com/blog/how-to-use-fallbacks-interjections-and-believability-credit-to-write-convincing-computer-conversations) (pullstring.com)
@@ -36,8 +36,10 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Looking at how people text](https://medium.com/assist/looking-at-how-people-text-8cbac575f774) (Stéphane Nguyen H T via medium.com)
 - [Making Chatbots Talk — Writing Conversational UI Scripts Step by Step](https://uxdesign.cc/making-chatbots-talk-writing-conversational-ui-scripts-step-by-step-62622abfb5cf) (uxdesign.cc)
 - [Understanding How Conversations Work: The Key to a Better Voice UI](https://developers.google.com/actions/design/how-conversations-work) (developers.google.com)
+- [A Beginner’s Guide to Designing Conversational Interfaces](https://www.webdesignerdepot.com/2017/03/a-beginners-guide-to-designing-conversational-interfaces/) (webdesignerdepot.com)
+- [Conversational Design Essentials: Tips For Building A Chatbot](https://www.smashingmagazine.com/2016/12/conversational-design-essentials-tips-for-building-a-chatbot/) (smashingmagazine.com)
 
-### [¶](#unsorted){.pilcrow} Other/unsorted {#unsorted}
+### Other/unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 
 - [Bots better smarten up ... fast](http://venturebeat.com/2016/08/20/bots-better-smarten-up-fast/) (venturebeat.com)
 - [B.A.S.A.A.P. (Be As Smart As A Puppy)](http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/) (berglondon.com)
@@ -59,7 +61,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
 
 
-***See also:**
+#### See also
 
 - the general [Tools](/resources/tools) section
 - [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)
@@ -67,15 +69,15 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [BotSpeak: 1 human, 200+ bots, 892 bot dialogs](https://keyreply.com/botspeak/) (keyreply.com/botspeak)
 
 
-### [¶](#technical){.pilcrow} Technical {#technical}
+### Technical [¶](#technical){.pilcrow} {#technical}
 
 For technical tutorials that do not specifically focus on chatbots, see the [Tutorials](/tutorials/) section.
 
-#### [¶](#chat-python){.pilcrow} With Python {#chat-python}
+#### With Python [¶](#chat-python){.pilcrow} {#chat-python}
 
 - [Chatbot Fundamentals: An interactive guide to writing bots in Python](https://apps.worldwritable.com/tutorials/chatbot/) (worldwritable.com)
 
-#### [¶](#chat-ibm-watson){.pilcrow} With [IBM Watson](http://www.ibm.com/watson/) {#chat-ibm-watson}
+#### With [IBM Watson](http://www.ibm.com/watson/) [¶](#chat-ibm-watson){.pilcrow} {#chat-ibm-watson}
 
 - [Conversation Patterns with IBM Watson](https://medium.com/@snrubnomis/conversation-patterns-with-ibm-watson-6c4be05e2fe5) (Simon Burns via medium.com)
 

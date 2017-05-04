@@ -53,7 +53,7 @@ TODO: Uncomment once MBC is resumed.
 
 -->
 
-### [¶](#past-sponsors){.pilcrow} Past sponsors {#past-sponsors}
+### Past sponsors [¶](#past-sponsors){.pilcrow} {#past-sponsors}
 
 
 <div class="sponsors-corporate-organizations">

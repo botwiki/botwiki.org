@@ -7,13 +7,13 @@ Weight: 5
 */
 
 
-### [¶](#official-botwiki-events){.pilcrow} Official Botwiki events {#official-botwiki-events}
+### Official Botwiki events [¶](#official-botwiki-events){.pilcrow} {#official-botwiki-events}
 
 - [Bot Workshops](/bot-workshops)
 - [Monthly Bot Challenge](/monthly-bot-challenge)
 
 
-### [¶](#events){.pilcrow} Events {#events}
+### Events [¶](#events){.pilcrow} {#events}
 
 Events either dedicated to botmaking or those that include relevant sessions.
 

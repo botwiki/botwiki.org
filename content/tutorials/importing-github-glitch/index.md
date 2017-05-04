@@ -5,7 +5,7 @@ Thumbnail: /content/tutorials/importing-github-glitch/images/import-from-github.
 Has code: yes
 Show donation link: yes
 Date: March 16, 2017
-Tags: tutorial,guide,import,github,glitch,hyperdev,fourtonfish,botwiki-original
+Tags: tutorial,guide,import,node,nodejs,node.js,github,glitch,hyperdev,fourtonfish,botwiki-original
 */
 
 <div class="note" markdown="1">
@@ -13,7 +13,7 @@ Tags: tutorial,guide,import,github,glitch,hyperdev,fourtonfish,botwiki-original
 </div>
 
 
-### [¶](#glitch){.pilcrow} Artist formerly known as HyperDev {#glitch}
+### Artist formerly known as HyperDev [¶](#glitch){.pilcrow} {#glitch}
 
 
 [Glitch](https://glitch.com) is a really awesome and free app/website that lets you [create and remix all kinds of fun apps](https://glitch.com/about/), including [bots](https://glitch.com/handy-bots).
@@ -40,7 +40,7 @@ This guide will be specific to this one bot, but you will learn quite a bit abou
 Yep, there's quite a bit of work ahead of us. We'll start whenever you're ready!
 
 
-### [¶](#step-1){.pilcrow} Step 1: Importing a project {#step-1}
+### Step 1: Importing a project [¶](#step-1){.pilcrow} {#step-1}
 
 
 Welcome back!
@@ -63,7 +63,7 @@ Now, back on Glitch, click **Import from GitHub**. Use the text you copied above
 
 
 
-### [¶](#step-2){.pilcrow} Step 2: API keys {#step-2}
+### Step 2: API keys [¶](#step-2){.pilcrow} {#step-2}
 
 
 Go ahead and delete the `config-example.js` file.
@@ -163,14 +163,14 @@ And, of course, your main script file should be called `server.js`.
 If you did everything correctly, your bot will start tweeting at this point.
 
 
-### [¶](#step-3){.pilcrow} Step 3: Images {#step-3}
+### Step 3: Images [¶](#step-3){.pilcrow} {#step-3}
 
 As mentioned earlier, the original source code comes with a folder called `images`. But after you import the project into Glitch, it appears to have disappeared.
 
 This folder is still present, but we need to download the images separately [from the GitHub repo](https://github.com/fourtonfish/random-image-twitterbot) and upload them into the `assets` folder.
 
 
-### [¶](#step-4){.pilcrow} Step 4: The big refactor {#step-4}
+### Step 4: The big refactor [¶](#step-4){.pilcrow} {#step-4}
 
 This part might differ with other bots, but in our case, we just need to load the images from CDN instead of the `images` folder.
 
@@ -193,7 +193,7 @@ Also, note that apparently you can create folders by creating new files with nam
 
 Hey, you can't complain, cause it's all free.
 
-### [¶](#step-5){.pilcrow} Step 5: Staying awake {#step-5}
+### Step 5: Staying awake [¶](#step-5){.pilcrow} {#step-5}
 
 Now for the final step.
 
@@ -227,7 +227,7 @@ Instead we can just run the function once, and it will be executed every time cr
 And there you go, this is how you import a project from GitHub to Glitch.
 
 
-### [¶](#conclusion){.pilcrow} In conclusion {#conclusion}
+### In conclusion [¶](#conclusion){.pilcrow} {#conclusion}
 
 
 I'd be happy to add more steps here, if anyone wants to share their experience importing open source code from GitHub; you can email me at [stefan@fourtonfish.com](mailto:stefan@fourtonfish.com), or [stop by in the Botmakers community](https://botmakers.org/) :-)

@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 
-### [¶](#theme){.pilcrow} Theme {#theme}
+### Theme [¶](#theme){.pilcrow} {#theme}
 
 <p class="screenshot float-right">
   <a href="/bots/twitterbots/SortingBot">
@@ -30,7 +30,7 @@ You could have made a bot that [tweets think pieces as a movie icon or TV show c
 - [Word Wars](http://algopop.tumblr.com/post/124318458893/word-wars-julien-deswaef-word-wars-a-new)
 - [more bots tagged film and TV](/tag/film%20and%20tv)
 
-### [¶](#prize){.pilcrow} Prize {#prize}
+### Prize [¶](#prize){.pilcrow} {#prize}
 
 The March 2016 sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.org.uk/), a catalyst for new approaches to art-making and digital invention, commissioning ground breaking projects which challenge the definitions of art and moving image.
 
@@ -38,7 +38,7 @@ The March 2016 sponsor is [Abandon Normal Devices (AND)](http://www.andfestival.
 
 **Huge thanks to AND!**
 
-### [¶](#winner){.pilcrow} Winner {#winner}
+### Winner [¶](#winner){.pilcrow} {#winner}
 
 The winner of the 2016 March Monthly Bot Challenge was [cosmophagy](http://cosmophagy.tumblr.com) with the [@BMovieGenerator](/bots/twitterbots/BMovieGenerator/) bot 👏👏🎉
 

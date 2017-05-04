@@ -19,7 +19,7 @@ This is the first official Botwiki meetup/[edit-a-thon](https://en.wikipedia.org
 - 115 Broadway, New York ([map](https://www.google.com/maps/dir/Current+Location/115+Broadway+New+York+NY+10006+USA))
 - Gyro Office, 14th Floor
 
-## [¶](#agenda){.pilcrow} Agenda {#agenda}
+## Agenda [¶](#agenda){.pilcrow} {#agenda}
 
 <table class="event-table">
   <tr>
@@ -71,7 +71,7 @@ Looking forward to seeing you there :-)
 
 
 
-## [¶](#slides){.pilcrow} Slides {#slides}
+## Slides [¶](#slides){.pilcrow} {#slides}
 
 - [Stefan Bohacek: Botwiki 8 Months Later](/content/events/botwiki-edit-a-thon-march-21-2016/botwiki-presentation.pdf)
 - [Justin Myers: Bots in Journalism](/content/events/botwiki-edit-a-thon-march-21-2016/Botwiki-Edit-A-Thon-Journalism.pdf)

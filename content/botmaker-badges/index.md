@@ -17,7 +17,7 @@ Once you get your badge, you can add it to your [Mozilla Backpack](https://backp
 
 
 
-### [¶](#botmaker-badge){.pilcrow} Botmaker {#botmaker-badge}
+### Botmaker [¶](#botmaker-badge){.pilcrow} {#botmaker-badge}
 
 ![Botmaker Badge](/content/botmaker-badges/images/botmaker-badge.png){.float-right .extra-margin}
 
@@ -25,7 +25,7 @@ To apply, add your bot to Botwiki using our [submit form](http://botwiki.org/sub
 
 You can either include your email in the description, so we can send you your badge (the email will **not**, of course, be published), or you can send a separate email to [stefan@botwiki.org](mailto:stefan@botwiki.org) (or a [DM on Twitter](https://twitter.com/fourtonfish)) with your email address and a link to your bot.
 
-### [¶](#bot-teacher-badge){.pilcrow} Bot Teacher {#bot-teacher-badge}
+### Bot Teacher [¶](#bot-teacher-badge){.pilcrow} {#bot-teacher-badge}
 
 ![Bot Teacher Badge](/content/botmaker-badges/images/badge-teacher.png){.float-right .extra-margin}
 
@@ -36,7 +36,7 @@ Please also provide a short description that includes information on the targete
 It is not necessary for the tutorial to be re-hosted on Botwiki, but if you'd like, this can be done :-)
 
 
-### [¶](#monthly-bot-challenge-badge){.pilcrow} Monthly Bot Challenge Winner {#monthly-bot-challenge-badge}
+### Monthly Bot Challenge Winner [¶](#monthly-bot-challenge-badge){.pilcrow} {#monthly-bot-challenge-badge}
 
 ![Monthly Bot Challenge Badge](/content/botmaker-badges/images/monthly-bot-challenge-winner-february.png){.float-right .extra-margin}
 

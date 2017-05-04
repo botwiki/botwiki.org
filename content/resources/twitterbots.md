@@ -10,7 +10,9 @@ Nav: hidden
 This is a suplementary page to the [general **Resources** section](/resources). Also check out [the Twitter bot tutorials](/tutorials/twitterbots) and [open source code for Twitter bots](/tag/twitter+opensource).
 
 
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [Twitterbot frameworks](#twitterbot-frameworks)
   - [node.js](#twitterbot-frameworks-nodejs)
@@ -21,18 +23,19 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [Language](#language)
 - [Working with images](#images)
 - [Other](#other) and [Unsorted](#other-unsorted)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
+  </div>
+</div>
 
+### Twitterbot frameworks [¶](#twitterbot-frameworks){.pilcrow} {#twitterbot-frameworks}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I threw together a quick template/mini-tutorial for making Twitter bots with <a href="https://twitter.com/gomixme">@gomixme</a>: <a href="https://t.co/YOz0Vt2g9a">https://t.co/YOz0Vt2g9a</a> <a href="https://t.co/XWcNnaNYFt">pic.twitter.com/XWcNnaNYFt</a></p>&mdash; Stefan Bohacek (@fourtonfish) <a href="https://twitter.com/fourtonfish/status/806537666443546624">December 7, 2016</a></blockquote>
-
-
-### [¶](#twitterbot-frameworks){.pilcrow} Twitterbot frameworks {#twitterbot-frameworks}
-
-#### [¶](#twitterbot-frameworks-nodejs){.pilcrow} node.js {#twitterbot-frameworks-nodejs}
+#### node.js [¶](#twitterbot-frameworks-nodejs){.pilcrow} {#twitterbot-frameworks-nodejs}
 
 - [ttezel/twit](https://github.com/ttezel/twit): a very good and simple node.js twitterbot module
 
-#### [¶](#twitterbot-frameworks-python){.pilcrow} Python {#twitterbot-frameworks-python}
+#### Python [¶](#twitterbot-frameworks-python){.pilcrow} {#twitterbot-frameworks-python}
 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy): "Twitter for Python!" (see also [tweepy.github.com](http://www.tweepy.org/))
 - [ryanmcgrath/twython](https://github.com/ryanmcgrath/twython): Python wrapper for the Twitter API
@@ -45,19 +48,19 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [kootenpv/twitterqa](https://github.com/kootenpv/twitterqa): a Deep learning-based chatbot
 
 
-#### [¶](#twitterbot-frameworks-ruby){.pilcrow} Ruby {#twitterbot-frameworks-ruby}
+#### Ruby [¶](#twitterbot-frameworks-ruby){.pilcrow} {#twitterbot-frameworks-ruby}
 
 - [muffinista/chatterbot](https://github.com/muffinista/chatterbot): Ruby-based Twitter Bot Framework, using OAuth to authenticate
 - [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks): a framework for building interactive twitterbots which respond to mentions/DMs
 - [negatendo/rubybottools](https://github.com/negatendo/rubybottools): a collection of tools for writing Twitter bots with Ruby
 
 
-#### [¶](#twitterbot-frameworks-java){.pilcrow} Java {#twitterbot-frameworks-java}
+#### Java [¶](#twitterbot-frameworks-java){.pilcrow} {#twitterbot-frameworks-java}
 
 - [joesondow/markov](https://github.com/joesondow/markov): a template for [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) Twitter bots
 - [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base: template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
 
-#### [¶](#twitterbot-frameworks-other){.pilcrow} Other languages {#twitterbot-frameworks-other}
+#### Other languages [¶](#twitterbot-frameworks-other){.pilcrow} {#twitterbot-frameworks-other}
 
 - [ChimeraCoder/anaconda](https://github.com/ChimeraCoder/anaconda): Go client library for the Twitter API
 - [zhaytee/botville](https://github.com/zhaytee/botville): a simple package for bootstrapping a Twitter bot in Go
@@ -67,41 +70,41 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 
 For more frameworks and libraries built for the Twitter platform, check out [Twitter Libraries](https://dev.twitter.com/resources/twitter-libraries) at dev.twitter.com.
 
-### [¶](#language){.pilcrow} Language {#language}
+### Language [¶](#language){.pilcrow} {#language}
 
 See also the [Language section](/resources/libraries-frameworks#language) of ***Libraries and frameworks***.
 
-#### [¶](#language-nodejs){.pilcrow} node.js {#language-nodejs}
+#### node.js [¶](#language-nodejs){.pilcrow} {#language-nodejs}
 
 - [twitter-fanfiction-botnet](https://www.npmjs.com/package/twitter-fanfic-botnet): tool for setting up groups of ebooks bots that talk to one another
 - [tweet-packer](https://www.npmjs.com/package/tweet-packer): accepts an array of strings and appends them together into < 140 character tweets
 - [clean-this-tweet-up](https://www.npmjs.com/package/clean-this-tweet-up): removes all #s, usernames, phone numbers, addresses, emails, and urls from a given tweet
 
-#### [¶](#language-python){.pilcrow} Python {#language-python}
+#### Python [¶](#language-python){.pilcrow} {#language-python}
 
 - [hugovk/word-tools](https://github.com/hugovk/word-tools): a collection of tools/mini-bots that do various language-related things, used by [@favibot](https://twitter.com/favibot), [@lovihatibot](https://twitter.com/lovihatibot) and [@nixibot](https://twitter.com/nixibot)
 - [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov): create [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) ("_ebooks") accounts
 
 
-### [¶](#images){.pilcrow} Working with images {#images}
+### Working with images [¶](#images){.pilcrow} {#images}
 
-#### [¶](#images-python){.pilcrow} Python {#images-python}
+#### Python [¶](#images-python){.pilcrow} {#images-python}
 
 - [hugovk/randimgbot](https://github.com/hugovk/randimgbot): an example of a bot that picks a random image and posts it, used by [@FlagFacts](https://twitter.com/FlagFacts)
 - [bobpoekert/spatchwork](https://github.com/bobpoekert/spatchwork): segmentation-based image filter ("patchwork" effect)
 
-### [¶](#other){.pilcrow} Tools, other {#other}
+### Tools, other [¶](#other){.pilcrow} {#other}
 
 - [twitter/twitter-text](https://github.com/twitter/twitter-text/):  a collection of libraries and conformance tests to standardize parsing of tweet text
 
 
-#### [¶](#other-nodejs){.pilcrow} node.js {#other-nodejs}
+#### node.js [¶](#other-nodejs){.pilcrow} {#other-nodejs}
 
 - [mkproj](https://www.npmjs.com/package/mkproj): tool for scaffolding node.js projects, includes an option for generating twitter bot boilerplate using the [ttezel/twit](https://github.com/ttezel/twit) module. 
 - [filtered-followback](https://www.npmjs.com/package/filtered-followback): make your bot automatically follow people back, as long as they don't appear to be a malicious spam bot.
 
 
-#### [¶](#other-python){.pilcrow} Python {#other-python}
+#### Python [¶](#other-python){.pilcrow} {#other-python}
 
 - [OpenFuego](http://niemanlab.github.io/openfuego/): "watching Twitter all day—so you don’t have to"
 - [araile/python-botutil](https://github.com/araile/python-botutil): small libraries for Python botmakers
@@ -110,7 +113,7 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 
 
 
-#### [¶](#other-unsorted){.pilcrow} Unsorted {#other-unsorted}
+#### Unsorted [¶](#other-unsorted){.pilcrow} {#other-unsorted}
 
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/): *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
 - [Tracery Writer](https://beaugunderson.com/tracery-writer/): a tool that lets you write bots for CBDQ

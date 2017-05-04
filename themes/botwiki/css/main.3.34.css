@@ -1611,6 +1611,9 @@ figure {
 article {
   /* overflow: auto; */
 }
+article h2 {
+  padding-top: 1em;
+}
 div.search-results-intro {
   padding-bottom: 2em;
 }
@@ -1621,7 +1624,8 @@ div.search-results-intro {
           animation: reveal 0.4s normal forwards ease-in-out;
 }
 article h1,
-article h2 {
+article h2,
+pre code {
   max-width: 1150px;
   margin: 0 auto;
 }
@@ -1668,21 +1672,21 @@ select:focus {
   border: 1px solid #666666;
 }
 ::-webkit-input-placeholder {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 :-moz-placeholder {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 ::-moz-placeholder {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 :-ms-input-placeholder {
-  font-family: 'Merriweather Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.2em 'Merriweather Sans', serif;
+  font: 1.2em 'Open Sans', sans-serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -1720,6 +1724,7 @@ h5,
 h6 {
   text-transform: uppercase;
   max-width: 1150px;
+  margin: 0 auto !important;
   font-family: 'Anton', serif;
   color: #38313a;
   line-height: 1.2em;
@@ -1735,9 +1740,6 @@ h6 {
   h6 {
     padding: 1rem 2rem;
   }
-}
-a.pilcrow {
-  float: right;
 }
 a.pilcrow,
 a.pilcrow:visited {
@@ -1773,16 +1775,20 @@ h3 {
 h4 {
   font-size: 2em;
 }
+h5 {
+  font-size: 1.8em;
+  text-transform: none;
+}
 ol,
 ul {
   max-width: 1150px;
   margin: 1em auto;
-  padding-left: 2em;
+  padding-left: 1.5em;
 }
 @media (min-width: 860px) {
   ol,
   ul {
-    padding-left: 4em;
+    padding-left: 3em;
   }
 }
 ol ol,
@@ -1791,14 +1797,6 @@ ol ul,
 ul ul {
   margin: 0;
   padding-left: 1em;
-}
-@media (min-width: 860px) {
-  ol ol,
-  ul ol,
-  ol ul,
-  ul ul {
-    padding-left: 2em;
-  }
 }
 b,
 strong {
@@ -1840,22 +1838,23 @@ pre code {
 }
 pre {
   background: #23241f;
-  padding: 0.5rem;
   margin-bottom: 1em;
   overflow: auto;
 }
+pre code {
+  padding: 2rem 0.5rem !important;
+}
 @media (min-width: 860px) {
-  pre {
-    padding: 0.5rem 2rem;
+  pre code {
+    padding: 2rem !important;
   }
 }
 blockquote {
   /* Courtesy of css-tricks.com. */
   background: #f9f9f9;
   border-left: 10px solid #ccc;
-  max-width: 1150px;
-  margin: 1.5em auto;
-  padding: 0.5em 10px;
+  margin: 2em auto;
+  padding: 0.5em 0 1em;
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
 blockquote:before {
@@ -1868,6 +1867,13 @@ blockquote:before {
 }
 blockquote p {
   line-height: 1.5em;
+}
+@media (min-width: 900px) {
+  blockquote p {
+    -webkit-transform: translate(-10px, 0);
+        -ms-transform: translate(-10px, 0);
+            transform: translate(-10px, 0);
+  }
 }
 blockquote.instagram-media,
 iframe.instagram-media {
@@ -1889,32 +1895,35 @@ hr {
   margin: 2em auto 2em;
   max-width: 95%;
 }
-section.footer-lists {
-  margin: 1em auto 3em;
-}
 footer div.inner {
   max-width: 1500px;
   margin: 0 auto;
+  padding-bottom: 4em;
 }
-footer ul.footer-list {
+@media (min-width: 900px) {
+  footer div.inner {
+    padding-bottom: 2em;
+  }
+}
+footer p {
+  margin: 1em auto 3em;
+  max-width: 1150px;
+  padding: 0 1.5rem;
+}
+footer .footer-lists {
+  margin: 0 auto;
+  max-width: 1150px;
+}
+footer .footer-lists ul.footer-list {
   list-style-type: none;
   display: inline-block;
   vertical-align: top;
-  width: 25%;
-  min-height: 265px;
   margin: 1em auto;
   padding: .5rem;
-  float: left;
 }
-@media (max-width: 900px) {
-  footer ul.footer-list {
-    width: 50%;
-  }
-}
-@media (max-width: 700px) {
-  footer ul.footer-list {
-    width: 100%;
-    text-align: center;
+@media (min-width: 900px) {
+  footer .footer-lists ul.footer-list {
+    min-height: 265px;
   }
 }
 .centered {
@@ -1956,10 +1965,28 @@ div.header-image img {
   float: right;
   padding-left: 30px;
 }
+.float-right.screenshot {
+  padding-left: 1em !important;
+}
+@media (min-width: 900px) {
+  .float-right.screenshot {
+    padding-top: 2em !important;
+    padding-left: 3em !important;
+  }
+}
 .float-left {
   float: left;
   margin-right: 2em;
   padding-left: 0;
+}
+.float-left.screenshot {
+  padding-right: 1em !important;
+}
+@media (min-width: 900px) {
+  .float-left.screenshot {
+    padding-top: 2em !important;
+    padding-right: 3em !important;
+  }
 }
 img.main-banner {
   margin: 10px 0 10px 50px;
@@ -2053,7 +2080,6 @@ ul#menu {
 }
 #header h1 a,
 #header h1 a:hover {
-  font-family: 'Fjalla One', serif;
   color: #fff;
   text-decoration: none;
 }
@@ -2120,7 +2146,7 @@ ul#menu {
   margin-left: 0;
   margin-top: -5px;
   float: right;
-  width: 310px;
+  width: 265px;
 }
 @media (max-width: 900px) {
   #header nav li.form-wrapper {
@@ -2159,35 +2185,18 @@ div#content-wrapper {
 }
 #content {
   position: relative;
-  min-height: 70em;
+  min-height: 60em;
   background-color: #fff;
-  padding: 0;
+  padding: 0 0 2em;
   margin-bottom: 2em;
   font-size: 1em;
   line-height: 1.2em;
 }
 @media (min-width: 860px) {
-  #content {
-    font-size: 1.1em;
-    line-height: 1.3em;
-  }
-}
-@media (min-width: 860px) {
-  aside#sidebar {
-    display: block;
-    max-width: 300px;
-    position: absolute;
-    border-left: 1px solid #f3f3f2;
-    background-color: #f9f9f7;
-    padding: 2rem 0 10px;
-    right: 0;
-    top: 0;
-    bottom: 0;
-  }
 }
 @media (min-width: 900px) {
   aside#sidebar {
-    max-width: 350px;
+    max-width: 300px;
   }
 }
 @media (max-width: 860px) {
@@ -2207,6 +2216,25 @@ aside#sidebar p {
 aside#sidebar img {
   display: block;
   margin: 0 auto 0.7em;
+}
+.footer-modules {
+  font-size: 0.9em;
+  padding: 5em 0 0;
+}
+.footer-modules .footer-module {
+  max-width: 300px;
+  margin: 0 auto;
+  text-transform: none;
+}
+.footer-modules .footer-module p {
+  padding: 1em 0 !important;
+}
+.footer-modules .footer-module img {
+  margin: 0 auto;
+  display: block;
+}
+.footer-text {
+  padding-bottom: 6em;
 }
 div.sidebar-module {
   padding: 1em;
@@ -2246,17 +2274,10 @@ aside#sidebar hr {
   }
 }
 div#main {
-  padding: 0 0 2em;
+  padding: 0;
 }
-@media (min-width: 860px) {
-  div#main {
-    margin-right: 300px;
-  }
-}
-@media (min-width: 900px) {
-  div#main {
-    margin-right: 350px;
-  }
+div#main p:first-of-type {
+  /* TODO: Fix this ugly hack. */
 }
 div#main p,
 p.screenshot {
@@ -2279,9 +2300,11 @@ div#main p {
 }
 p.screenshot img,
 a.screenshot img,
-img.screenshot {
+img.screenshot,
+img.photo {
   border: 1px solid #ddd;
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5em;
 }
 @media (min-width: 860px) {
   p.screenshot.float-right {
@@ -2316,7 +2339,7 @@ footer#footer {
   line-height: 1.2em;
   font-size: 0.9em;
   margin: -2em auto 0;
-  padding: 2em 0;
+  padding: 0;
 }
 footer#footer a {
   color: #38313a;
@@ -2327,7 +2350,7 @@ footer#footer a:hover {
   color: #6b646d;
 }
 footer#footer p {
-  margin: 1em auto;
+  margin: 1em 0;
 }
 footer#footer ul.footer-list li {
   margin: 0.5em 0;
@@ -2386,21 +2409,20 @@ div.search-item {
   padding: 2em 0 1em;
 }
 .note {
-  border-left: 10px solid #c4b634;
   font-weight: bold;
   background-color: #F7E967;
   margin: 2em 0;
   padding: 0;
 }
 .note p {
-  padding: 1.5rem !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 .note-alternative {
   font-style: italic;
   margin: 2em 0;
 }
 .note.donations {
-  margin-top: 2em;
   padding: 0;
 }
 @media (min-width: 860px) {
@@ -2417,12 +2439,25 @@ body.front-page .note.donations {
 span.normal-text {
   font-style: normal;
 }
-div.meta p.share-prompt {
+div.meta .share-prompt {
+  background-color: #f3f3f3;
   text-transform: uppercase;
-  font-weight: bold;
-  border-top: 6px dashed rgba(220, 220, 215, 0.4);
   padding-top: 2em !important;
+  padding-bottom: 2em;
   margin-top: 2em !important;
+}
+div.meta .share-prompt h4 {
+  font-size: 1.5em;
+  max-width: 1150px;
+  margin: 0 auto;
+}
+@media (min-width: 860px) {
+  div.meta .share-prompt h4 {
+    padding: 0.5rem 2rem;
+  }
+}
+div.meta p {
+  padding: .1rem 2rem;
 }
 ul.sharing-is-caring {
   padding-left: 1.5em;
@@ -2454,6 +2489,8 @@ ul.sharing-is-caring li a:hover {
 p.ssbg-attribution {
   font-size: 0.7em;
   color: #aaa;
+  padding: .5rem 2rem 0 !important;
+  margin-bottom: 0 !important;
 }
 p.ssbg-attribution a {
   color: #5b9aed;
@@ -2480,7 +2517,6 @@ div.article-thumbnail {
   transition: background-color 0.2s;
   text-align: center;
   padding-bottom: 0;
-  margin-bottom: 1.5em;
   min-height: 50px;
 }
 @media (min-width: 860px) {
@@ -2498,7 +2534,7 @@ div.article-thumbnail a {
   }
 }
 div.article-thumbnail.color-fade {
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 div.search-thumbnail img {
   border: 1px solid #efefef;

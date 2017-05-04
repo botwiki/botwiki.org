@@ -16,46 +16,46 @@ See also:
 - [current events](/events/)
 - [all bot-related meetups on meetup.com](http://www.meetup.com/topics/bots/)
 
-## [¶](#usa){.pilcrow} United States {#usa}
+## United States [¶](#usa){.pilcrow} {#usa}
 
-### [¶](#nyc){.pilcrow} New York {#nyc}
+### New York [¶](#nyc){.pilcrow} {#nyc}
 
 - [Botmakers](http://www.meetup.com/botmakers/), the official Botwiki/Botmakers [Meetup](http://www.meetup.com/) group
 - [New York Slack Meetup](http://www.meetup.com/New-York-Slack-Meetup/), created by [David Markovich](https://twitter.com/DavidMarkovich_)
 
-### [¶](#austin-tx){.pilcrow} Austin, Texas {#austin-tx}
+### Austin, Texas [¶](#austin-tx){.pilcrow} {#austin-tx}
 
 - [Talkabot ATX](https://www.meetup.com/Talkabot-ATX/): "a monthly meetup where we will explore the past, present and future of bots in commerce, journalism and entertainment"
 
-### [¶](#san-francisco){.pilcrow} San Francisco {#san-francisco}
+### San Francisco [¶](#san-francisco){.pilcrow} {#san-francisco}
 
 - [Bay Area Bot Arts Meetup](http://www.meetup.com/Bay-Area-Bot-Arts/), hosted by [Kasey](https://twitter.com/bitpixi). Follow [@BayAreaBotArts](https://twitter.com/BayAreaBotArts) for updates.
 - [SlackDevs](http://www.meetup.com/SlackDevs/), the official [Slack](http://slackhq.com/) meetup group.
 - [Messaging 2.0](http://www.meetup.com/messaging2/): this meetup "brings together thought leaders, connectors, coders and marketers from around the industry to examine and celebrate the rise of the next paradigm: Messaging".
 
-### [¶](#la){.pilcrow} LA {#la}
+### LA [¶](#la){.pilcrow} {#la}
 
 - [LA Chat Bot Meetup](http://www.meetup.com/LA-Chat-Bot-Meetup/): "This group is designed to bring people together from multiple disciplines to discuss conversational user interfaces."
 
-### [¶](#minneapolis){.pilcrow} Minneapolis {#minneapolis}
+### Minneapolis [¶](#minneapolis){.pilcrow} {#minneapolis}
 
 - [MN Bot Makers](http://www.meetup.com/MN-Bot-Makers/): A group for anyone who wants to show off their new bot project, learn from others, or compare notes on the latest bot library. All skill levels are welcome!
 
-### [¶](#detroit){.pilcrow} Detroit {#detroit}
+### Detroit [¶](#detroit){.pilcrow} {#detroit}
 
 - [BotMakers Detroit](http://www.meetup.com/BotMakers-Detroit/)
 
 
-## [¶](#canada){.pilcrow} Canada {#canada}
+## Canada [¶](#canada){.pilcrow} {#canada}
 
-### [¶](#toronto){.pilcrow} Toronto {#toronto}
+### Toronto [¶](#toronto){.pilcrow} {#toronto}
 
 - [#BotTO](http://www.meetup.com/bot-to/): a community of ambitious and curious humans who want to learn about the new era of messaging platforms
 
 
-## [¶](#germany){.pilcrow} Germany {#germany}
+## Germany [¶](#germany){.pilcrow} {#germany}
 
-### [¶](#berlin){.pilcrow} Berlin {#berlin}
+### Berlin[¶](#berlin){.pilcrow} {#berlin}
 
 - [Bots Berlin](http://www.meetup.com/Bots-Berlin-Slack-Messenger-WhatsApp-meets-AI-ML-NLP/): Slack, Messenger, WhatsApp meets AI, ML, NLP
 

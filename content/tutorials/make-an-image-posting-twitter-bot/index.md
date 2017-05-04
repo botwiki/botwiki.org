@@ -16,7 +16,7 @@ Tags: tutorial,twitter,openshift,images,node,nodejs,node.js,fourtonfish,botwiki-
   Note: There is a [newer version of this tutorial](/tutorials/random-image-tweet/).
 </div>
 
-### [¶](#what-is-a-bot){.pilcrow} What is a bot? {#what-is-a-bot}
+### What is a bot? [¶](#what-is-a-bot){.pilcrow} {#what-is-a-bot}
 
 Most people might think of bots as little automated programs that send out spam email and messages online. Yes, there are certainly those kinds of bots, but a bot is really just that: a little automated program, and it can automate all kinds of activities. Anything from generating [images](https://twitter.com/generativebot) and [poetry](https://twitter.com/tinypoemgen), to [telling stories](https://twitter.com/space_stories) and letting you [play games](https://twitter.com/letsplaysnake).
 
@@ -26,7 +26,7 @@ The only limits to what a bot can do is your imagination! And maybe the [Twitter
 In this tutorial, I am going to show you how easy it is to create your own Twitter bot using node.js, a popular framework that lets you run JavaScript on a server, as opposed to a browser, and [Twit](https://github.com/ttezel/twit), a popular node.js library for interacting with Twitter's public API.
 
 
-### [¶](#a-few-words-on-apis){.pilcrow} A few words on APIs {#a-few-words-on-apis}
+### A few words on APIs [¶](#a-few-words-on-apis){.pilcrow} {#a-few-words-on-apis}
 
 API, which stands for Application Programming Interface, is, to put it simply, a way for you to interact with the data of a website by accessing it directly on their server.
   
@@ -37,7 +37,7 @@ This is the key part: Twitter's API is what lets you automate user behavior, in 
 So let's make something fun then!
 
 
-### [¶](#tools){.pilcrow} Tools {#tools}
+### Tools [¶](#tools){.pilcrow} {#tools}
 
 Here, again, are the tools we will need to make our bot:
 
@@ -49,7 +49,7 @@ Here, again, are the tools we will need to make our bot:
 Hosting your bot is probably going to be harder part of creating a Twitter bot, so let's start by running it straight from your computer first.
 
 
-### [¶](#nodejs){.pilcrow} Node.js {#nodejs}
+### Node.js [¶](#nodejs){.pilcrow} {#nodejs}
 
 First, let's install node.js. The instructions will vary a bit depending on your operating system, so just follow the [official download and installation guide](https://nodejs.org/en/download/).
 
@@ -100,7 +100,7 @@ Here we are loading a few modules (or libraries). You already know Twit, and fs 
 
 As for config, we are going to need to make another detour.
 
-### [¶](#creating-a-twitter-app){.pilcrow} Creating a Twitter app {#creating-a-twitter-app}
+### Creating a Twitter app [¶](#creating-a-twitter-app){.pilcrow} {#creating-a-twitter-app}
 
 
 Before you can start writing any code, you will need something called API keys. These will let you make API calls, or in other words, interact with the data on Twitter's website.
@@ -190,7 +190,7 @@ Congratulations, your bot is now tweeting!
 
 There are two more steps left now. Making your bot do something interesting, and hosting your bot somewhere so that you can turn off your computer without having to shut down the script powering your bot.
 
-### [¶](#cute-animals-bot){.pilcrow} Cute animals bot {#cute-animals-bot}
+### Cute animals bot [¶](#cute-animals-bot){.pilcrow} {#cute-animals-bot}
 
 
 Here's an idea: maybe our bot could post cute pictures of puppies, kittens, panda bears, and other animals! 
@@ -388,7 +388,7 @@ And once again, looking at our bot's Twitter page, we see it was indeed posting.
 You can press `CTRL+C` while looking at the command line to end the script.
 
 
-### [¶](#hosting-your-bot){.pilcrow} Hosting your bot {#hosting-your-bot}
+### Hosting your bot [¶](#hosting-your-bot){.pilcrow} {#hosting-your-bot}
 
 Great, so now you have your very own tweeting bot. The final step is moving the code to a server that will host the bot for you.
 
@@ -399,7 +399,7 @@ For a good overview check out [this list of available hosting solutions](https:/
 For this tutorial, I am going to use OpenShift, which does offer a limited free plan that shuts down your app if it doesn't receive any traffic for 24 hours, but you can lift this limit by adding your credit card information to your account and upgrade to the still free Bronze Plan.
 
 
-### [¶](#hosting-your-bot-on-openshift){.pilcrow} Hosting your bot on OpenShift {#hosting-your-bot-on-openshift}
+### Hosting your bot on OpenShift [¶](#hosting-your-bot-on-openshift){.pilcrow} {#hosting-your-bot-on-openshift}
 
 
 First, let's sign up for a new [OpenShift account](https://www.openshift.com/app/account/new). As I mentioned above, you can [upgrade to the free Bronze plan](https://www.openshift.com/pricing/index.html) to avoid the 24 hour limit, but this step is optional.

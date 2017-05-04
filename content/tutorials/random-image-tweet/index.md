@@ -16,7 +16,7 @@ Tags: tutorial,twitter,images,node,nodejs,node.js,fourtonfish,botwiki-original
 ***Note: If you're familiar with concepts like APIs, and maybe even have node.js installed, feel free [to skip the introduction](#creating-a-twitter-app).***
 </div>
 
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 
 - [What is a bot?](#what-is-a-bot)
@@ -26,7 +26,7 @@ Tags: tutorial,twitter,images,node,nodejs,node.js,fourtonfish,botwiki-original
 - [Cute animals bot](#cute-animals-bot)
 - [Hosting your bot](#hosting-your-bot)
 
-### [¶](#what-is-a-bot){.pilcrow} [What is a bot?](/what-is-a-bot/) {#what-is-a-bot}
+### [What is a bot?](/what-is-a-bot/) [¶](#what-is-a-bot){.pilcrow} {#what-is-a-bot}
 
 Most people might think of bots as little automated programs that send out spam email and messages online. Yes, there are certainly those kinds of bots, but a bot is really just that: a little automated program, and it can automate all kinds of activities. Anything from generating [images](https://twitter.com/generativebot) and [poetry](https://twitter.com/tinypoemgen), to [telling stories](https://twitter.com/space_stories) and letting you [play games](https://twitter.com/letsplaysnake).
 
@@ -36,7 +36,7 @@ In this tutorial, I am going to show you how easy it is to create your own Twitt
 
 
 
-### [¶](#a-few-words-on-apis){.pilcrow} A few words on APIs {#a-few-words-on-apis}
+### A few words on APIs [¶](#a-few-words-on-apis){.pilcrow} {#a-few-words-on-apis}
 
 API, which stands for [Application Programming Interface](https://en.wikipedia.org/wiki/Application_programming_interface), is, to put it simply, a way for you to interact with the data of a website by accessing it directly on their server.
   
@@ -47,7 +47,7 @@ This is the key part: Twitter's API is what lets you automate user behavior, in 
 So let's make something fun then!
 
 
-### [¶](#nodejs){.pilcrow} Node.js {#nodejs}
+### Node.js [¶](#nodejs){.pilcrow} {#nodejs}
 
 First, let's install node.js. The instructions will vary a bit depending on your operating system, so just follow the [official download and installation guide](https://nodejs.org/en/download/).
 
@@ -98,7 +98,7 @@ Here we are loading a few modules (or libraries). You already know Twit, and fs 
 
 As for config, we are going to need to make another detour.
 
-### [¶](#creating-a-twitter-app){.pilcrow} Creating a Twitter app {#creating-a-twitter-app}
+### Creating a Twitter app [¶](#creating-a-twitter-app){.pilcrow} {#creating-a-twitter-app}
 
 
 Before you can start writing any code, you will need something called API keys. These will let you make API calls, or in other words, interact with the data on Twitter's website.
@@ -169,12 +169,12 @@ Congratulations, your bot is now tweeting!
 
 There are two more steps left now. Making your bot do something interesting, and hosting your bot somewhere so that you can turn off your computer without having to shut down the script powering your bot.
 
-### [¶](#cute-animals-bot){.pilcrow} Cute animals bot {#cute-animals-bot}
+### Cute animals bot [¶](#cute-animals-bot){.pilcrow} {#cute-animals-bot}
 
 
 Here's an idea: maybe our bot could post cute pictures of puppies, kittens, panda bears, and other animals! 
 
-First, download a few pictures of animals that you think look cute. Create a folder called `cute-animals` and add these images here.
+First, download a few pictures of animals that you think look cute. Create a folder called `images` and add these images here.
 
 Next, remove the code that posted your first tweet:
 
@@ -188,7 +188,7 @@ T.post('statuses/update', { status: 'Look, I am tweeting!' }, function(err, data
 
 We are going to write these two functions:
 
-- `pick_random_image` will pick a random image
+- `random_from_array` will pick a random image from a group of images (you can also use this function to [pick random text to be posted with your image](https://github.com/fourtonfish/random-image-twitterbot/blob/master/server.js#L32))
 - `upload_random_image` will handle the actual image upload
 
 We will read all the files in our `images` folder and use the above two functions to pick one random image, upload it to Twitter, and post it.
@@ -196,7 +196,7 @@ We will read all the files in our `images` folder and use the above two function
 Here is the first function:
 
 ```
-function pick_random_image(images){
+function random_from_array(images){
   return images[Math.floor(Math.random() * images.length)];
 }
 ```
@@ -207,12 +207,12 @@ In my case, `images.length` will be 5. So `Math.random() * images.length` will a
 
 To avoid picking a number like 3.202108, we are using the `Math.floor()` function, which rounds the number down to the nearest whole number.
 
-With the `pick_random_image()` function in place, we can now start uploading the images. Here is the function, with a few console logs for easier understanding of the code.
+With the `random_from_array()` function in place, we can now start uploading the images. Here is the function, with a few console logs for easier understanding of the code.
 
 ```
 function upload_random_image(images){
   console.log('Opening an image...');
-  var image_path = path.join(__dirname, '/images/' + pick_random_image(images)),
+  var image_path = path.join(__dirname, '/images/' + random_from_array(images)),
       b64content = fs.readFileSync(image_path, { encoding: 'base64' });
 
   console.log('Uploading an image...');
@@ -244,7 +244,7 @@ function upload_random_image(images){
 }
 ```
 
-There are some technical parts to this, but in essence, we pick a random image from our folder (using the `pick_random_image` function), and then load the file into a variable `b64content`.
+There are some more technical parts to this, but in essence, we pick a random image from our folder (using the `random_from_array` function), and then load the file into a variable `b64content`.
 
 The `b64` refers to Twitter requiring the uploaded media files to be "base64-encoded" (see [this StackOverflow thread](http://stackoverflow.com/questions/3538021/why-do-we-use-base64) for a more technical explanation of what this means).
 
@@ -306,16 +306,20 @@ fs.unlink(image_path, function(err){
   else{
     console.log('image ' + image_path + ' was deleted');
   }
-}
+});
 ```
+
+(See [`server-delete-images.js` on GitHub](https://github.com/fourtonfish/random-image-twitterbot/blob/master/server-delete-images.js).)
 
 This way you can choose whether you want to cycle through all the images or only use each image once. You could also keep a list of images you already posted to avoid posting the same one twice in a row, or too many times. Or you could [move the images to a different folder](http://stackoverflow.com/questions/38285546/how-can-i-move-files-to-a-directory-using-node-js) after posting them, and once your original folder is empty, move them back. 
 
-### [¶](#hosting-your-bot){.pilcrow} Hosting your bot {#hosting-your-bot}
+### Hosting your bot [¶](#hosting-your-bot){.pilcrow} {#hosting-your-bot}
 
 Great, so now you have your very own image-tweeting bot. The final step is moving the code to a server that will host the bot for you.
 
 I put the [finished code on GitHub](https://github.com/fourtonfish/random-image-tweet) and I also wrote a [tutorial on importing GitHub projects to Glitch](/tutorials/importing-github-glitch), which is a really awesome and free app that lets you [create and remix all kinds of fun apps](https://glitch.com/about/), including [bots](https://glitch.com/handy-bots).
+
+(Note: I made a [Glitch version](https://glitch.com/edit/#!/random-image-twitterbot) as well, but this one doesn't let you delete images.)
 
 For a good overview of all your bot-hosting options, check out [this list of available hosting solutions](https://botwiki.org/tutorials/bot-hosting), but keep in mind that almost all of them are paid, starting at $5-7 a month. And the free options are usually quite limited (for example, [Heroku](https://www.heroku.com/) only allows your app to run for a few hours every day if you're on the free plan).
 

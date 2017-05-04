@@ -12,11 +12,7 @@ Weight: 1
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
-
 So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
-
-
 
 <blockquote>
   <div class="row">
@@ -69,8 +65,10 @@ Thanks for checking out **Botwiki**!
 
 **PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 
-#### [¶](#browse-bots-by-category){.pilcrow} Browse by category {#browse-bots-by-category}
+#### Browse by category [¶](#browse-bots-by-category){.pilcrow} {#browse-bots-by-category}
 
 - [Poetry bots](/tag/bot+poetry)
 - [Image bots](/tag/bot+images) ([GIF bots](/tag/bot+gif))
@@ -83,8 +81,7 @@ Thanks for checking out **Botwiki**!
 - [Open source bots](/tag/bot+opensource)
 - [Winners of the Monthly Bot Challenge](/tag/bot+monthlybotchallenge+winner)
 
-#### [¶](#browse-bots-by-network){.pilcrow} Browse by network {#browse-bots-by-network}
-
+#### Browse by network [¶](#browse-bots-by-network){.pilcrow} {#browse-bots-by-network}
 
 - [Twitter bots](/bots/twitterbots/)
 - [Slack bots](/bots/slackbots/)
@@ -99,16 +96,22 @@ Thanks for checking out **Botwiki**!
 
 Or check out a [random bot](/random-bot)!
 
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. BTW: No need to @ mention me, just use the tag Hey: <a href="https://t.co/ZsgiAa6IVB">pic.twitter.com/ZsgiAa6IVB</a></p>&mdash; Your Words In Neon (@NixieBot) <a href="https://twitter.com/NixieBot/status/839493822103044096">March 8, 2017</a></blockquote>
-    
-#### [¶](#bot-directories){.pilcrow} Bot directories {#bot-directories}
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. BTW: No need to @ mention me, just use the tag Hey: <a href="https://t.co/ZsgiAa6IVB">pic.twitter.com/ZsgiAa6IVB</a></p>&mdash; Your Words In Neon (@NixieBot) <a href="https://twitter.com/NixieBot/status/839493822103044096">March 8, 2017</a></blockquote>
+  </div>
+</div>
+ 
+#### Bot directories [¶](#bot-directories){.pilcrow} {#bot-directories}
 
 Botwiki is mainly focused on creative examples of online bots. If you're more interested in "business bots", check out some of these bot directories:
 
 - [Botlist](https://botlist.co/)
 - [BotPages](https://www.botpages.com/)
 - [Chatbots.org](https://www.chatbots.org/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
+
 
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>

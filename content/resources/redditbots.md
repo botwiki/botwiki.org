@@ -14,7 +14,7 @@ Nav: hidden
   </p>
 </div>
 
-### [¶](#general){.pilcrow} General {#general}
+### General [¶](#general){.pilcrow} {#general}
 
 - [/r/redditdev](https://www.reddit.com/r/redditdev) -- a subreddit for Reddit API developers
 - [PRAW: The Python Reddit Api Wrapper](https://praw.readthedocs.org/en/stable/index.html)

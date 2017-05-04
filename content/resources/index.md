@@ -11,7 +11,7 @@ Below is a list of categories with useful resources, such as **libraries**, **fr
 
 Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource). Still can't find what you're looking for? Try asking in our community for botmakers and bot enthusiasts: you can join us at [botmakers.org](https://botmakers.org/).
 
-### [¶](#general){.pilcrow} General resources {#general}
+### General resources [¶](#general){.pilcrow} {#general}
 
 - [Public datasets](/resources/public-datasets)
 - [APIs](/resources/apis)
@@ -20,7 +20,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Tools](/resources/tools)
 - [Machine learning and AI resources](/resources/machine-learning-nlp-ai)
 
-### [¶](#specific-resources){.pilcrow} Network-specific resources {#specific-resources}
+### Network-specific resources [¶](#specific-resources){.pilcrow} {#specific-resources}
 
 - [Twitter bots](/resources/twitterbots)
 - [Facebook Messenger bots](/resources/facebook-messenger-bots)
@@ -32,7 +32,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [kik bots](/resources/kik-bots)
 - [IRC bots](/resources/irc-bots)
 
-### [¶](#non-english){.pilcrow} Non-English resources {#non-english}
+### Non-English resources [¶](#non-english){.pilcrow} {#non-english}
 
 ***See also: [non-English open source bots](/tag/bot+opensource+non-english).***
 

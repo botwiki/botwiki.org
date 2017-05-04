@@ -10,7 +10,7 @@ Nav: hidden
 */
 
 
-### [¶](#datasets-general){.pilcrow} General {#datasets-general}
+### General [¶](#datasets-general){.pilcrow} {#datasets-general}
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) -- various public datasets (Agriculture, Biology, Finance, Sports and a lot more)
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) -- data and code behind the stories and interactives at [FiveThirtyEight](http://fivethirtyeight.com/)
@@ -36,12 +36,15 @@ Nav: hidden
 - [github.com/unitedstates](https://github.com/unitedstates) -- "a shared commons of data and tools for the United States"
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html) -- photographs, manuscripts, pictorial material
 - [Text & metadata from fake & biased news sources around the web](https://www.kaggle.com/mrisdal/fake-news)
+- [A Large Self-Annotated Corpus for Sarcasm](http://nlp.cs.princeton.edu/SARC/)
+  - [related paper on arxiv.org](https://arxiv.org/abs/1704.05579)
+- [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots): a  dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor
 
 You can also retrieve various data [via web APIs](/resources/apis/).
 
 **Hat tip to [dataquest.io](https://www.dataquest.io/blog/free-datasets-for-projects/)!**
 
-### [¶](#datasets-language){.pilcrow} News, reviews, forum data, metadata {#datasets-language}
+### News, reviews, forum data, metadata [¶](#datasets-language){.pilcrow} {#datasets-language}
 
 - [ConceptNet 5](http://conceptnet5.media.mit.edu/) -- "semantic network containing lots of things computers should know about the world, especially when understanding text written by people"
 - [VisualGenome](http://visualgenome.org/) -- "dataset, a knowledge base, an ongoing effort to connect structured image concepts to language"
@@ -64,8 +67,11 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Open Images Dataset by Google](https://github.com/openimages/dataset) -- dataset consisting of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories ([related blog post](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html))
 - [Retired Comedy Phrases](https://github.com/bluechoochoo/retired_comedy_phrases)
 - [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
+- [bot-ai/bot-lang](https://github.com/bot-ai/bot-lang): a collection of common keywords or commands a user might use while interacting with a bot
+  - forked from [howdyai/bot-common-keywords](https://github.com/howdyai/bot-common-keywords)
 
-### [¶](#datasets-geo-space){.pilcrow} Geographical/location data, space {#datasets-geo-space}
+
+### Geographical/location data, space [¶](#datasets-geo-space){.pilcrow} {#datasets-geo-space}
 - [Climate datasets](https://github.com/climate-mirror/datasets)
 - [Publica Mundi](http://www.publicamundi.eu/) -- Geospatial data
 - [openNASA](https://open.nasa.gov/) -- 30k+ data sets from NASA
@@ -74,10 +80,10 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts
 - [Uber trip data](https://github.com/fivethirtyeight/uber-tlc-foil-response) from a freedom of information request to NYC's Taxi & Limousine Commission
 
-### [¶](#biology){.pilcrow} Biology {#biology}
+### Biology [¶](#biology){.pilcrow} {#biology}
 - [Catalogue of Life](http://www.catalogueoflife.org/) -- online database of the world's known species of animals, plants, fungi and micro-organisms, available [as an API](http://www.catalogueoflife.org/content/web-services) and [downloadable data set](http://www.catalogueoflife.org/content/annual-checklist-archive)
 
-### [¶](#datasets-movies){.pilcrow} Movies {#datasets-movies}
+### Movies [¶](#datasets-movies){.pilcrow} {#datasets-movies}
 - [Cornell Movie-Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) -- a large metadata-rich collection of fictional conversations extracted from raw movie scripts
 - [Movielens Data by GroupLens](http://grouplens.org/datasets/movielens/) -- rating data sets from the [MovieLens](http://movielens.org) web site
 - [UC Irvine Machine Learning Lab’s Movie Data Set](https://archive.ics.uci.edu/ml/datasets/Movie) -- a list of over 10000 films including many older, odd, and cult films
@@ -88,7 +94,7 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 - [Cornell University Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Jonathan Koren Movies Data Set](http://jonathankoren.com/movies-dataset.html) -- faceted metadata describing contemporary American films, along with relevant judgements by actual human users
 
-### [¶](#other){.pilcrow} Other {#other}
+### Other [¶](#other){.pilcrow} {#other}
 
 - [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
 - [Open Payments Dataset](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) -- payments made by healthcare manufacturers (pharmaceutical companies, medical device manufacturers) to any doctor they work with

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/facebook-messenger-bots/images/GoPandaIndia.png
 Link: https://www.messenger.com/t/GoPandaIndia
 Author: botsheeter.py
 Date: October 11, 2016
-Tags: bot,active,interactive,food,delivery,ordering,mpower_chat
+Tags: bot,active,facebook,messenger,interactive,food,delivery,ordering,mpower_chat
 Nav: hidden
 Robots: index,follow
 */

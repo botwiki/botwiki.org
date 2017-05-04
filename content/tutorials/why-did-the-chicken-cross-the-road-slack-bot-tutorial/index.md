@@ -18,7 +18,7 @@ Slack bots range from useful little helpers that make you more effective at your
 
 In this tutorial, I will show you how to use node.js and [Botkit](https://github.com/howdyai/botkit) to create your very own Slack bot. In the process, we are going to make a bot that knows a few jokes about chicken crossing the road :-)
 
-## [¶](#getting-set-up){.pilcrow} Getting set up {#getting-set-up}
+## Getting set up [¶](#getting-set-up){.pilcrow} {#getting-set-up}
 
 First, we will need to install node.js. You can follow the [official download and installation guide](https://nodejs.org/en/download/) for your particular operating system. After you sign up for an [OpenShift account](https://www.openshift.com/app/account/new), you might want to [upgrade to the free Bronze plan](https://www.openshift.com/pricing/index.html) to avoid the 24 hour app inactivity limit.
 
@@ -52,7 +52,7 @@ rhc env set SLACK_TOKEN=YOURSLACKBOTTOKEN -a NAMEOFYOURNODEJSAPP
 You can also run `rhc env list -a NAMEOFYOURNODEJSAPP` to make sure the token was added correctly.
 
 
-## [¶](#the-coding-part){.pilcrow} The coding part {#the-coding-part}
+## The coding part [¶](#the-coding-part){.pilcrow} {#the-coding-part}
 
 Now, open the file `server.js` and replace its content with following code:
 

@@ -13,34 +13,55 @@ Nav: hidden
   </p>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You say: &quot;We added AI to our product&quot;<br>I hear: &quot;We added a bunch more IF statements to our codebase&quot;</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/830070592611172357">February 10, 2017</a></blockquote>
 
-### [¶](#page-content){.pilcrow} Page content {#page-content}
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [General tools](#general-tools)
 - [Frameworks and libraries](#frameworks-and-libraries)
 - [See also](#see-also)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You say: &quot;We added AI to our product&quot;<br>I hear: &quot;We added a bunch more IF statements to our codebase&quot;</p>&mdash; I Am Devloper (@iamdevloper) <a href="https://twitter.com/iamdevloper/status/830070592611172357">February 10, 2017</a></blockquote>
+  </div>
+</div>
 
-### [¶](#general-tools){.pilcrow} General tools {#general-tools}
+
+### General tools [¶](#general-tools){.pilcrow} {#general-tools}
 
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
 
-### [¶](#frameworks-and-libraries){.pilcrow} Frameworks and libraries {#frameworks-and-libraries}
+### Frameworks and libraries [¶](#frameworks-and-libraries){.pilcrow} {#frameworks-and-libraries}
 
-***See also the [general libraries and frameworks page](/resources/libraries-frameworks/).***
+#### node.js [¶](#frameworks-and-libraries-nodejs){.pilcrow} {#frameworks-and-libraries-nodejs}
 
-#### [¶](#frameworks-and-libraries-nodejs){.pilcrow} node.js {#frameworks-and-libraries-nodejs}
-
-- [baidu/Paddle](https://github.com/baidu/Paddle) -- PArallel Distributed Deep LEarning ([paddlepaddle.org](http://www.paddlepaddle.org/))
-- [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games) -- Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
-
-
-#### [¶](#frameworks-and-libraries-other){.pilcrow} Other {#frameworks-and-libraries-other}
-
-- [antirez/neural-redis](https://github.com/antirez/neural-redis) -- neural networks module for [Redis](http://redis.io/)
+- [shiffman/Neural-Network-p5](https://github.com/shiffman/Neural-Network-p5): Simple neural network JavaScript library
+- [baidu/Paddle](https://github.com/baidu/Paddle): PArallel Distributed Deep LEarning ([paddlepaddle.org](http://www.paddlepaddle.org/))
+- [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games): Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
 
 
-### [¶](#other){.pilcrow} Lists and unsorted {#other}
+#### Python [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}
+
+- [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
+
+
+#### TensorFlow [¶](#tensorflow){.pilcrow} {#tensorflow}
+
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
+- [tensorflow/models](https://github.com/tensorflow/models): models built with TensorFlow
+- [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition)
+
+
+#### Other [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}
+
+- [antirez/neural-redis](https://github.com/antirez/neural-redis): neural networks module for [Redis](http://redis.io/)
+- [casparwylie/Perceptron](https://github.com/casparwylie/Perceptron): A flexible artificial neural network builder to analyse performance, and optimise the best model.
+
+See also the [general libraries and frameworks page](/resources/libraries-frameworks/).
+
+
+### Lists and unsorted [¶](#other){.pilcrow} {#other}
 
 - [nucl.ai: Artificial Intelligence in Creative Industries.](https://nucl.ai/): archives of conferences, and courses
 - [keonkim/awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing
@@ -50,7 +71,7 @@ Nav: hidden
 
 
 
-### [¶](#see-also){.pilcrow} See also {#see-also}
+### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Machine learning tutorials](/tutorials/machine-learning-nlp-ai/)
 - [General resources](/resources/)

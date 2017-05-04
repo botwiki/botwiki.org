@@ -12,13 +12,13 @@ Watch our first workshop [below](#botmaking-from-the-ground-up), and follow [@bo
 
 
 <!--
-### [¶](#upcoming-workshops){.pilcrow} Upcoming workshops {#upcoming-workshops}
+### Upcoming workshops [¶](#upcoming-workshops){.pilcrow} {#upcoming-workshops}
 -->
 
 
-### [¶](#past-workshops){.pilcrow} Past workshops {#past-workshops}
+### Past workshops [¶](#past-workshops){.pilcrow} {#past-workshops}
 
-#### [¶](#botmaking-from-the-ground-up){.pilcrow} Botmaking from the Ground Up {#botmaking-from-the-ground-up}
+#### Botmaking from the Ground Up [¶](#botmaking-from-the-ground-up){.pilcrow} {#botmaking-from-the-ground-up}
 
 [![Botmakers.org](/content/bot-workshops/images/bots-are-cool.png)](/bot-workshops/botmaking-from-the-ground-up)
 

@@ -21,12 +21,9 @@ Nav: hidden
 
 Despite the rules concerning the Twitter API use having gotten [stricter throughout the years](http://thenextweb.com/twitter/2012/08/17/twitter-4/), Twitter remains a popular network for bot makers and enthusiasts, which can be easily proved by the variety of bots hosted on it:
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/TheRiddlerBot">
-    <img src="/content/bots/twitterbots/images/TheRiddlerBot.png">
-  </a>
-</p>
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+Some example bots include:
 
 - [@censusAmericans](/bots/twitterbots/censusAmericans) -- tweeting the census one real American at a time
 - [@congressedits](/bots/twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
@@ -38,17 +35,19 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
 - [@holidaybot4000](/bots/twitterbots/holidaybot4000) -- holidays, every day
 - [@riverlevel_1867](/bots/twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/twitterbots/TheRiddlerBot">
+      <img class="screenshot" src="/content/bots/twitterbots/images/TheRiddlerBot.png">
+    </a>
+  </div>
+</div>
 
 
-<p class="screenshot float-right">
-  <a href="/bots/twitterbots/FireworksBot">
-    <img src="/content/bots/twitterbots/images/FireworksBot.png">
-  </a>
-</p>
+### Browse by category [¶](#browse-twitter-bots-by-category){.pilcrow} {#browse-twitter-bots-by-category}
 
-
-### [¶](#browse-twitter-bots-by-category){.pilcrow} Browse by category {#browse-twitter-bots-by-category}
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [Poetry bots](/tag/twitter+bot+poetry)
 - [Image bots](/tag/twitter+bot+images) ([GIF bots](/tag/twitter+bot+gif))
 - [Emoji bots](/tag/twitter+bot+emoji)
@@ -58,20 +57,31 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
 - [Internet of Things (IoT) bots](/tag/twitter+bot+iot)
 - [Interactive bots](/tag/twitter+bot+interactive)
 - [Open source bots](/tag/twitter+bot+opensource)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/twitterbots/FireworksBot">
+      <img class="screenshot" src="/content/bots/twitterbots/images/FireworksBot.png">
+    </a>
+  </div>
+</div>
+
+
+
+
 
 
 Browse [all Twitter bots](/tag/twitterbot).
 
-### [¶](#lists-of-twitter-bots){.pilcrow} Lists of Twitter bots {#lists-of-twitter-bots}
+### Lists of Twitter bots [¶](#lists-of-twitter-bots){.pilcrow} {#lists-of-twitter-bots}
 
 
-#### [¶](#lists-of-twitter-bots-botwiki){.pilcrow} Lists managed by the Botwiki team {#lists-of-twitter-bots-botwiki}
+#### Lists managed by the Botwiki team [¶](#lists-of-twitter-bots-botwiki){.pilcrow} {#lists-of-twitter-bots-botwiki}
 
 
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members)
 - [XKCD Bots](https://twitter.com/botwikidotorg/lists/xkcd-bots): bots inspired by the [xkcd webcomic](https://xkcd.com/)
 
-#### [¶](#lists-of-twitter-bots-general){.pilcrow} General {#lists-of-twitter-bots-general}
+#### General [¶](#lists-of-twitter-bots-general){.pilcrow} {#lists-of-twitter-bots-general}
 
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
 - [@everyword-alike bots](https://twitter.com/hugovk/lists/everyevery/members), maintained by [@hugovk](https://twitter.com/hugovk)
@@ -86,14 +96,14 @@ See also:
 
 - [Interactive Fiction's Twitter Bots](https://farfarfutures.wordpress.com/2016/05/31/interactive-fictions-twitter-bots/) (farfarfutures.wordpress.com)
 
-#### [¶](#lists-of-twitter-bots-science-education){.pilcrow} Science, education {#lists-of-twitter-bots-science-education}
+#### Science, education [¶](#lists-of-twitter-bots-science-education){.pilcrow} {#lists-of-twitter-bots-science-education}
 
 - [Scientific literature using Twitter bots](https://twitter.com/Alexis_Verger/lists/twitterbot/members), maintained by [Alexis Verger](https://twitter.com/Alexis_Verger) (see [related article](https://caseybergman.wordpress.com/2014/02/24/keeping-up-with-the-scientific-literature-using-twitterbots-the-flypapers-experiment/))
 - [Bots watching Wikipedia](https://twitter.com/Rmlivingstone/lists/bots-watching-wikipedia/members), by [R. M. Livingstone](https://twitter.com/Rmlivingstone)
 - [Gallery, library, archive and museum bots](https://twitter.com/nealstimler/lists/glambots/members), maintained by [Neal Stimler](https://twitter.com/nealstimler/lists/glambots)
 - [Museum Bots](https://twitter.com/backspace/lists/museum-bots/members), maintained by [John Emerson](https://twitter.com/backspace)
 
-#### [¶](#lists-of-twitter-bots-non-english){.pilcrow} Non-English bots {#lists-of-twitter-bots-non-english}
+#### Non-English bots [¶](#lists-of-twitter-bots-non-english){.pilcrow} {#lists-of-twitter-bots-non-english}
 
 - [Bots tweeting in Finnish](https://twitter.com/hugovk/lists/finnish-bots/members), maintained by [@hugovk](https://twitter.com/hugovk)
 - [Bots tweeting in German](https://twitter.com/ojahnn/lists/deutsche-twitterbots/members), maintained by [Esther Seyffarth](https://twitter.com/ojahnn)
@@ -110,10 +120,14 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 </div>
 
 
-### [¶](#communities){.pilcrow} Communities {#communities}
-#### [¶](#communities-botally){.pilcrow} \#botALLY {#communities-botally}
+### Communities [¶](#communities){.pilcrow} {#communities}
+#### \#botALLY [¶](#communities-botally){.pilcrow} {#communities-botally}
 
-There is a small, very loosely connected community of Twitter botmakers exchanging updates under the [\#botALLY](https://twitter.com/hashtag/botally?f=tweets) hashtag.
+There is a small, very loosely connected community exchanging updates under the [\#botALLY](https://twitter.com/hashtag/botally?f=tweets) hashtag.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the <a href="https://twitter.com/hashtag/botALLY?src=hash">#botALLY</a> philosophy <a href="https://t.co/q06uj8xbdL">https://t.co/q06uj8xbdL</a></p>&mdash; Esther Seyffarth (@ojahnn) <a href="https://twitter.com/ojahnn/status/858745498576056320">April 30, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ojahnn">@ojahnn</a> your bot is bad and you should feel good :)</p>&mdash; Ranjit Bhatnagar (@ranjit) <a href="https://twitter.com/ranjit/status/858745338143932419">April 30, 2017</a></blockquote>
 
 The term "bot ally" was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
@@ -123,13 +137,17 @@ Darius notes on the purpose of #botALLY:
 
 > \#botALLY is ​primarily​ here to provide emotional support and camaraderie and to celebrate people's work and encourage participation. It is only secondarily about discussion of the art and craft of making bots, and that is a far, far, FAR second-place priority.
 
-### [¶](#further-reading){.pilcrow} Further reading {#further-reading}
+### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 
 - [The Best of Bot Worlds](http://bestofbotworlds.com/): "Everything you need to know about Creative Twitterbots" (bestofbotworlds.com)
 - [Anatomy of a Creative Twitterbot](http://robotcomix.com/comix/Twitterbots/mobile/) (robotcomix.com)
 - [How Twitter bots paved the way for today's chatbots](https://medium.com/ddouble/how-twitter-bots-paved-the-way-for-todays-chatbots-2fa103020d3e) (Sandi MacPherson via medium.com)
 - [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
 - [Hot bots](http://kairos.technorhetoric.net/21.2/interviews/lauer/), an interview with [Dr. Leonardo Flores](https://twitter.com/leonardo_UPRM) (kairos.technorhetoric.net)
+- [6 Bots That Deliver Science and Serendipity on Twitter](https://www.nytimes.com/2017/04/28/science/twitter-bots-science.html) (nytimes.com)
+- [Anatomy of a Museum Twitter Bot](https://medium.com/berkman-klein-center/anatomy-of-a-museum-twitter-bot-2311d81de243) (L. Kelly Fitzpatrick via medium.com)
+- [I made a Twitter bot and what it tweeted shocked me!](https://medium.com/becoming-human/i-made-a-twitter-bot-and-what-it-tweeted-shocked-me-fbaefa3b4a00) (Paul Newton via medium.com)
+- [Stopping by Twitter on a Snowy Evening](http://goodgoodcontent.com/stopping-by-twitter-on-a-snowy-evening/) (goodgoodcontent.com)
 
 Return to the [**Bots** page](/bots), learn [how to make one](/tutorials/twitterbots), or look at some of the [tools](/resources/twitterbots) used for making Twitter bots.
 
