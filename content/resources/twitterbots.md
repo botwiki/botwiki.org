@@ -84,7 +84,7 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 
 - [hugovk/word-tools](https://github.com/hugovk/word-tools): a collection of tools/mini-bots that do various language-related things, used by [@favibot](https://twitter.com/favibot), [@lovihatibot](https://twitter.com/lovihatibot) and [@nixibot](https://twitter.com/nixibot)
 - [fitnr/twitter_markov](https://github.com/fitnr/twitter_markov): create [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) ("_ebooks") accounts
-
+- [lydianchord/tracery-markov-model-maker](https://github.com/lydianchord/tracery-markov-model-maker): [Tracery](http://tracery.io/)-format Markov models for Twitter bots
 
 ### Working with images [¶](#images){.pilcrow} {#images}
 

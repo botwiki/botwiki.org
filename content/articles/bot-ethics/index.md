@@ -81,12 +81,16 @@ Nav: hidden
 - [A cautionary tale about humans creating biased AI models](https://techcrunch.com/2016/09/11/a-cautionary-tale-about-humans-creating-biased-ai-models/) (techcrunch.com)
 - [How artificial intelligence learns to be racist](https://www.vox.com/science-and-health/2017/4/17/15322378/how-artificial-intelligence-learns-how-to-be-racist) (vox.com)
 - [The Guardian view on computers and language: reproducing bias](https://www.theguardian.com/commentisfree/2017/apr/14/the-guardian-view-on-computers-and-language-reproducing-bias) (theguardian.com)
+- [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) (Blaise Aguera y Arcas via medium.com)
+- [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183) (sciencemag.org)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
 
 ### Dangers in automation [¶](#dangers-in-automation){.pilcrow} {#dangers-in-automation}
 
+- [The Dark Secret at the Heart of AI](https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/) technologyreview.com
 - [Why it's dangerous to outsource our critical thinking to computers](https://www.theguardian.com/technology/2016/dec/10/google-facebook-critical-thinking-computers) (theguardian.com)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm)
 - [Technically Female: Women, Machines, and Hyperemployment](http://salvage.zone/in-print/technically-female-women-machines-and-hyperemployment/) (salvage.zone)
@@ -104,6 +108,9 @@ Nav: hidden
 - [AI Can Be Fooled With One Misspelled Word](https://motherboard.vice.com/en_us/article/ai-can-be-fooled-with-one-misspelled-word) (motherboard.vice.com)
 - [The Ethics of Crash Optimisation Algorithms](http://philosophicaldisquisitions.blogspot.nl/2017/04/the-ethics-of-crash-optimisation.html?m=1) (philosophicaldisquisitions.blogspot.nl)
 - [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/) (techcrunch.com)
+- [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
+- [Artificial Intelligence Owes You an Explanation](http://www.slate.com/articles/technology/future_tense/2017/05/why_artificial_intelligences_should_have_to_explain_their_actions.html) (slate.com)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
@@ -138,6 +145,8 @@ Nav: hidden
 - [Ethically Aligned Design](http://standards.ieee.org/develop/indconn/ec/ead_v1.pdf) (PDF, standards.ieee.org)
 - [Ethical imperatives in AI and generative art](https://worldwritable.com/ethical-imperatives-in-ai-and-generative-art-b8cf51af4c5)
 - [FairML: Auditing Black-Box Predictive Models](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html) (blog.fastforwardlabs.com)
+- [Ethical algorithms: The good, the bad, and the ugly](https://www.theengineer.co.uk/ethical-algorithms-the-good-the-bad-and-the-ugly) (theengineer.co.uk)
+- [Deep, Deep Trouble](https://sinews.siam.org/Details-Page/deep-deep-trouble-4) (sinews.siam.org)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
 
@@ -151,6 +160,7 @@ Nav: hidden
 - [Critical Algorithm Studies: a Reading List](http://socialmediacollective.org/reading-lists/critical-algorithm-studies/) (socialmediacollective.org)
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
 - [Partnership on Artificial Intelligence to Benefit People and Society](http://www.partnershiponai.org/) (partnershiponai.org)
+- [Vector Institute for Artificial Intelligence](http://vectorinstitute.ai) (vectorinstitute.ai)
 - [Artificial Intelligence Now](https://artificialintelligencenow.com/): Researching the social impacts of artificial intelligence now to ensure a more equitable future (artificialintelligencenow.com)
 - [Concerning AI](https://concerning.ai/): a podcast that explores "concerns about intelligent machines" (concerning.ai)
 - [Humane Tech](https://medium.com/humane-tech) (a collection of essays by [Anil Dash](https://twitter.com/anildash)) (via medium.com)

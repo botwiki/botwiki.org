@@ -30,7 +30,10 @@ Show donation link: yes
 
 - [SMS for Humans: Using NLP and Python To Build Text Interfaces](https://www.youtube.com/watch?v=3o5awRDS0oI), with [Twilio](https://www.twilio.com/)
 - [Twilio Programmable Chat Quickstart and Demo](https://glitch.com/edit/#!/twilio-chat-qs) (glitch.com)
+- [Recieve an SMS with Node](https://glitch.com/edit/#!/sms-to-webpage)
 - [Playing a Twitter adventure game using SMS and Twilio on Glitch](https://www.twilio.com/blog/2017/04/playing-a-twitter-adventure-game-using-sms-and-twilio-on-glitch.html) (twilio.com)
+- [How to Receive an SMS in Node.js with Twilio and HyperDev (Glitch)](https://www.twilio.com/blog/2016/08/how-to-receive-an-sms-in-node-js-with-twilio-and-hyperdev.html)
+
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 

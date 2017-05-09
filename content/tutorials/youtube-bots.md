@@ -21,15 +21,17 @@ Show donation link: yes
 
 ### General [¶](#general){.pilcrow} {#general}
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 
 - [Google Developers page for the YouTube API](https://developers.google.com/youtube/)
 - [YouTube for Developers - API Resources](https://www.youtube.com/yt/dev/api-resources.html)
-
-<p class="screenshot float-right">
-  <a href="/bots/youtube-bots/treasurecolumn">
-    <img src="/content/bots/youtube-bots/images/Treasure_Column.png">
-  </a>
-</p>
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <a href="/bots/youtube-bots/treasurecolumn">
+      <img class="screenshot" src="/content/bots/youtube-bots/images/Treasure_Column.png">
+    </a>
+  </div>
+</div>
 
 See also [open source YouTube bot code](/tag/youtube+opensource), [browse all the YouTube bots](/bots/youtube-bots), or check out some [useful resources](/resources/youtube-bots) for making YouTube bots.
-

@@ -68,6 +68,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Practical Deep Learning](http://micha.codes/2017-qcon-deeplearning/) (micha.codes)
 - [Metadata: Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.com/2016/12/learning-machine-learning-beginners.html) (muratbuffalo.blogspot.com)
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of some of the foundational Machine Learning models and algorithms
+- [Deep Learning in Minutes with this Pre-configured Python VM Image](http://www.kdnuggets.com/2017/05/deep-learning-pre-configured-python-vm-image.html) (kdnuggets.com)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
 - [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) (Thomas Johnson via github.com)
 
@@ -104,6 +105,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 ### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
 
+- [AIY Projects](https://aiyprojects.withgoogle.com): Do-it-yourself artificial intelligence (aiyprojects.withgoogle.com)
 - [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 - [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
 - [Pix2Pix image translation using conditional adversarial network - sketch to face](https://richliao.github.io/2017/02/17/pix2pix-image-translation-using-conditional-adversarial-network-sketch-to-face/) (richliao.github.io)
@@ -114,7 +116,8 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [DeepWarp Demo Page](http://163.172.78.19/): a demo for [DeepWarp](http://sites.skoltech.ru/compvision/projects/deepwarp/): Photorealistic Image
 Resynthesis for Gaze Manipulation
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
-
+- [ROBOVISION: Comparing image recognition APIs](http://imagery.parthenonsoftware.com/) (imagery.parthenonsoftware.com)
+  - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

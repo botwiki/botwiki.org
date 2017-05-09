@@ -14,6 +14,14 @@ Below is a list of articles that talk about Botwiki and related projects, or tha
 ### Articles [¶](#articles){.pilcrow} {#articles}
 
 
+> Stefan is the creator of Botwiki, an open catalog of friendly, useful and artistic online bots, tools and tutorials.
+>
+> Alongside fellow admin, Veronica Belmont, Stefan and co have worked tirelessly for the past year and a half on the site that’s dedicated to teaching folks how to make friendly, whimsical, and (by his own admission) “sometimes mildly annoying”, online bots.
+>
+> [Creator Spotlight: Building Twitter Bots with Stefan Bohacek](https://medium.com/glitch/creator-spotlight-building-twitter-bots-with-stefan-bohacek-4caf436f277) (Glitch via medium.com, May 2017)
+
+<br/>
+
 > Botmakers.org provides a list of tools and resources for developers to create ethical bots, and the organization has a Code of Conduct that applies to all bots its more than 700 members create. 
 >
 > Stefan Bohacek, Botmakers's organizer, said reaching outside of your usual social and professional circles to other groups can give you a different perspective and help you realize features your bot might need for harassment prevention. 

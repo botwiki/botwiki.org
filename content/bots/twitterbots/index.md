@@ -125,6 +125,8 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 
 There is a small, very loosely connected community exchanging updates under the [\#botALLY](https://twitter.com/hashtag/botally?f=tweets) hashtag.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How India? More like Howe India, amirite?</p>&mdash; AmIRite Bot (@AmIRiteBot) <a href="https://twitter.com/AmIRiteBot/status/861929257672609792">May 9, 2017</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the <a href="https://twitter.com/hashtag/botALLY?src=hash">#botALLY</a> philosophy <a href="https://t.co/q06uj8xbdL">https://t.co/q06uj8xbdL</a></p>&mdash; Esther Seyffarth (@ojahnn) <a href="https://twitter.com/ojahnn/status/858745498576056320">April 30, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ojahnn">@ojahnn</a> your bot is bad and you should feel good :)</p>&mdash; Ranjit Bhatnagar (@ranjit) <a href="https://twitter.com/ranjit/status/858745338143932419">April 30, 2017</a></blockquote>

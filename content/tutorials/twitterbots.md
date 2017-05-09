@@ -70,6 +70,7 @@ Can't wait to see you there!
   - [Import this bot project to Glitch](/tutorials/importing-github-glitch/)
   - [Original version of the tutorial with OpenShift](/tutorials/make-an-image-posting-twitter-bot/)
 - [Making @what_capital](/tutorials/making-what_capital/): introduction to using [Cloud9](https://c9.io/) for making Twitter bots
+- [Set Up a Basic Twitter Bot with Twit.js](https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js) (video, egghead.io)
 - [Building Twitter Bots in Node.js](https://www.youtube.com/watch?v=xkNOKSNSoVI): a video tutorial by [Philip James](https://twitter.com/phildini)
 - A three-part in-depth tutorial by [@ursooperduper](https://twitter.com/ursooperduper)
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
