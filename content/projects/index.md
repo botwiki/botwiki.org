@@ -45,7 +45,7 @@ We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to ou
 
 ### Bot Ethics [¶](#bot-ethics){.pilcrow} {#bot-ethics}
 
-[Bot Ethics](/bot-ethics/) is a growing collections of essays and articles that help you understand the ever increasing role of automation and algorithms in human society, and if you are a botmaker, provide resources to avoid the common pitfalls.
+[Bot Ethics](/articles/bot-ethics/) is a growing collections of essays and articles that help you understand the ever increasing role of automation and algorithms in human society, and if you are a botmaker, provide resources to avoid the common pitfalls.
 
 ### Bot! zine [¶](#bot-zine){.pilcrow} {#bot-zine}
 

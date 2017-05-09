@@ -46,7 +46,7 @@ For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotor
 
 ### Essays [¶](#general-essays){.pilcrow} {#general-essays}
 
-- [Bot ethics](/bot-ethics): Misbehaving bots, biased algorithms, and more
+- [Bot ethics](/articles/bot-ethics): Misbehaving bots, biased algorithms, and more
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (harrygiles.org)
 - [Bots, bespoke code, and the materiality of software platforms](http://stuartgeiger.com/bespoke-code-ics.pdf) (stuartgeiger.com, PDF)
