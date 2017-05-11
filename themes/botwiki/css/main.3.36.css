@@ -2495,6 +2495,11 @@ p.ssbg-attribution {
 p.ssbg-attribution a {
   color: #5b9aed;
 }
+@media (max-width: 900px) {
+  p.ssbg-attribution {
+    padding: .5rem 10px 0 !important;
+  }
+}
 div.search-item p.meta,
 div.meta p.last-updated {
   font-style: italic;
