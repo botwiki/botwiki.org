@@ -7,7 +7,11 @@ Show donation link: yes
 Weight: 3
 */
 
-Below is a list of categories with useful resources, such as **libraries**, **frameworks**, **datasets**, **APIs** and **free images and other media**.
+<div class="note" markdown=1>
+Do you know about an interesting blog or have you read a good article a botmaker or a bot enthusiast would enjoy? Send us a [pull request](https://github.com/botwiki/botwiki.org), [an email](mailto:stefan@botwiki.org) or [Tweet at us](https://twitter.com/botwikidotorg).
+</div>
+
+Below is a list of categories with useful resources, such as libraries, frameworks, datasets, APIs, and free images and other media.
 
 Be sure to also check out [the **Tutorials** section](/tutorials) and [open source code](/tag/opensource). Still can't find what you're looking for? Try asking in our community for botmakers and bot enthusiasts: you can join us at [botmakers.org](https://botmakers.org/).
 
@@ -26,6 +30,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [Facebook Messenger bots](/resources/facebook-messenger-bots)
 - [Slack bots](/resources/slackbots)
 - [Telegram bots](/resources/telegram-bots)
+- [Alexa skills](/resources/alexa)
 - [GNU Social](/resources/gnu-social-bots)
 - [YouTube bots](/resources/youtube-bots)
 - [Reddit bots](/resources/redditbots)
@@ -34,9 +39,8 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 
 ### Non-English resources [¶](#non-english){.pilcrow} {#non-english}
 
-***See also: [non-English open source bots](/tag/bot+opensource+non-english).***
-
 - [janteuni/french-bots-ecosystem](https://github.com/janteuni/french-bots-ecosystem): resources for making bots in French
+- [non-English open source bots](/tag/bot+opensource+non-english)
 
 
-For chatbots, check out [BotCube/awesome-bots](https://github.com/BotCube/awesome-bots).
+**For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.**
