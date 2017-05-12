@@ -30,6 +30,8 @@ Choose the network on which you want to deploy your bot:
 - [Facebook Messenger](/tutorials/facebook-messenger-bots)
 - [Slack](/tutorials/slackbots)
 - [Telegram](/tutorials/telegram-bots)
+- [Google Assistant and Home](/tutorials/google)
+- [Amazon Alexa and Echo](/tutorials/amazon)
 - [GNU Social](/tutorials/gnu-social-bots)
 - [YouTube](/tutorials/youtube-bots)
 - [Reddit](/tutorials/redditbots)
