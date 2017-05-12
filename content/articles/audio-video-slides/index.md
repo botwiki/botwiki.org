@@ -25,10 +25,11 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 - [Videos from the alt-AI conference](http://alt-ai.net/#watch) (learn more about the event [here](/events/alt-ai-may-2016/))
 - [Tim Hwang on bots that cause chaos](https://www.oreilly.com/ideas/tim-hwang-on-bots-that-cause-chaos?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+oreilly%2Fradar%2Fatom+%28O%27Reilly+Radar%29) (oreilly.com)
 - [A Brief History of Our Robotic Future](https://www.youtube.com/watch?v=nlrr5b1XWoY) (Wired via youtube.com)
-- [Bot Summit](/tag/event+botsummit/): a series of events centered around "art" bots
+- [The Next Frontier - Mustafa Suleyman](https://www.youtube.com/watch?v=UjKEYss966E): climate change, social change, and AI
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Archived events](/tag/event+archived/)
+- [Bot Summit](/tag/event+botsummit/): a series of events centered around "art" bots
 
 [Return to the **Articles** page.](/articles/)
