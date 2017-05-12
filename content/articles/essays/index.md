@@ -40,7 +40,10 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Computer Generated Poetry Will Knock Your Socks Off](https://medium.com/@Yisela/computer-generated-poetry-will-knock-your-socks-off-763c815a1b52) (Yisela Alvarez Trentini via medium.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
 - [Shape grammars: procedural generation techniques for virtual cities](https://cis700-procedural-graphics.github.io/files/shape_grammar_2_7_17.pdf) (PDF, cis700-procedural-graphics.github.io)
+- [When the Machine Made Art – Grant Taylor traces the origins of computational creativity](http://www.creativeapplications.net/theory/when-the-machine-made-art-grant-taylor-traces-the-origins-of-computer-art/) (creativeapplications.net)
 - [The Strange Victorian Computer That Generated Latin Verse](http://www.atlasobscura.com/articles/the-strange-victorian-computer-that-generated-latin-verse) (atlasobscura.com)
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
 
 ### Unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 
@@ -56,9 +59,13 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [I Automated My Friends and Nobody Could Tell the Difference](https://latenightcoding.co/i-automated-my-friends/) (latenightcoding.co)
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm) (idlewords.com)
 - [AI: Process v Output](https://medium.com/@peterbihr/ai-process-v-output-56af9ee67bd2) (Peter Bihr via medium.com)
-
+- [Eyes Without a Face](http://reallifemag.com/eyes-without-a-face/) (reallifemag.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Bot ethics](/articles/bot-ethics/)
 - [Return to the **Articles** page](/articles/)
+
+
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

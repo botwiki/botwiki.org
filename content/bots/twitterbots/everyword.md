@@ -15,4 +15,4 @@ Robots: index,follow
 
 It is one of the most well-known Twitter bots with over 78,000 followers (as of September 2015) and is an [inspiration](https://twitter.com/everyword/following) to several other bots that tweet in the so-called "everyword style".
 
-You can read more about the bot on [Allison's website](http://www.decontextualize.com/2014/06/task-complete/).
+You can read more about the bot on [Allison's website](http://www.decontextualize.com/2014/06/task-complete/), and see the bot's most popular tweets on [favstar.fm](http://favstar.fm/users/everyword).

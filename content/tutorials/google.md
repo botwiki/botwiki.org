@@ -62,8 +62,8 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 for bots, applications, services, and devices".
 
 - [Building Actions for the Google Assistant with No Code](https://medium.com/google-cloud/building-actions-for-the-google-assistant-with-no-code-35ad5adb7448) (Google Cloud Platform via medium.com)
+- [Building a Google Action Using API.AI](https://medium.com/@joshfein/building-a-google-action-using-api-ai-3614874bfa75) (Josh Feinberg via medium.com)
 - [Build Your First Assistant App For Google Home](https://medium.com/google-developers/build-your-first-smart-bot-for-google-home-18949f74822c)
-
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

@@ -118,6 +118,8 @@ Resynthesis for Gaze Manipulation
 - [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
 - [ROBOVISION: Comparing image recognition APIs](http://imagery.parthenonsoftware.com/) (imagery.parthenonsoftware.com)
   - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
+- [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
+
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
