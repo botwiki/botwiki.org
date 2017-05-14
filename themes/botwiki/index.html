@@ -43,7 +43,7 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Anton|Open+Sans' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.36.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.37.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -202,8 +202,14 @@
   {% include 'includes/statcounter.html' ignore missing %}
   <div class="bottom-page-links">
     <a id="back-to-top" title="Go back all the way to the top of this page!" href="#header" class="slide-down"><img src="/content/images/arrow-up.svg"></a>
+<!--
     <a id="submit-bot-link" title="Submit your bot!" href="https://botwiki.org/submit-your-bot/">📋</a>
+-->
     <a id="random-bot-link" title="Explore the wonderful world of online bots, one random bot at a time." href="/random-bot">🤖</a>
+    <a id="twitter-link" title="Follow @botwikidotorg on Twitter" href="https://twitter.com/botwikidotorg">
+      <img src="/content/images/logos/twitter-white.svg">
+      <span>@botwikidotorg</span>
+    </a>
   </div>
   <script src="{{ theme_url }}/js/scripts.3.2.min.js"></script>
   {% if meta.has_code == 'yes' %}

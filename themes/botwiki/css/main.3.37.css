@@ -2741,6 +2741,27 @@ div.bottom-page-links a#back-to-top {
   padding: 12px;
   line-height: 1em;
 }
+div.bottom-page-links a#twitter-link {
+  padding: 8px;
+}
+@media (min-width: 860px) {
+  div.bottom-page-links a#twitter-link {
+    width: auto;
+  }
+}
+div.bottom-page-links a#twitter-link img {
+  width: 1em;
+}
+div.bottom-page-links a#twitter-link span {
+  font-size: .7em;
+  line-height: 1.7em;
+  vertical-align: inherit;
+}
+@media (max-width: 860px) {
+  div.bottom-page-links a#twitter-link span {
+    display: none;
+  }
+}
 a#search-help {
   position: absolute;
   margin-left: -1em;

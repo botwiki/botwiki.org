@@ -1296,13 +1296,33 @@ div.bottom-page-links{
       opacity: 0.95;
       font-size: 1.9em;
     }
-  }
-  a:hover{
-    opacity: 1;
-  }
-  a#back-to-top{
-    padding: 12px;
-    line-height: 1em;
+
+    &:hover{
+      opacity: 1;
+    }
+    &#back-to-top{
+      padding: 12px;
+      line-height: 1em;
+    }
+    &#twitter-link{
+      padding: 8px;
+      @media (min-width : @site-width-small){
+        width: auto;      
+      }
+      img{
+        width: 1em;
+      }
+      span{
+        font-size: .7em;
+        line-height: 1.7em;
+        vertical-align: inherit;
+        @media (max-width : @site-width-small){
+          display: none;
+        }
+      }
+    }
+
+
   }
 }
 
