@@ -26,7 +26,7 @@ An experimental new feature on Botwiki lets you import open source bot code dire
 
 ![Remix on Glitch](/content/tutorials/hosting-bots-glitch/images/remix-on-glitch.png){.centered}
 
-Please note that Glitch only supports node.js and (unofficially) Python. Also, some bots will need a few updates to work on Glith ([see guides below](#guides-tutorials)).
+Please note that Glitch only supports node.js and (unofficially) Python. Also, some bots will need a few updates to work on Glitch ([see guides below](#guides-tutorials)).
 
 
 ### Project templates [¶](#project-templates){.pilcrow} {#project-templates}
