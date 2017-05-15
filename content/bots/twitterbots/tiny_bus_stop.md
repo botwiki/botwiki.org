@@ -3,6 +3,7 @@ Title: @tiny_bus_stop
 Description: Tiny people waiting for the tiny bus at the tiny bus stop.
 Thumbnail: /content/bots/twitterbots/images/tiny_bus_stop.png
 Link: https://twitter.com/tiny_bus_stop
+Source: https://github.com/hugovk/cheapbotsdonequick
 Author: botsheeter.py
 Date: February 28, 2016
 Tags: twitter,bot,twitterbot,active,emoji,cheapbotsdonequick,hugovk,monthlybotchallenge,bus,public transport,public transit,people,no language,open source,opensource,tracery

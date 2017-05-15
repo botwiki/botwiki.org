@@ -3,6 +3,7 @@ Title: @lettergamebot
 Description: Let's play letter games!
 Thumbnail: /content/bots/twitterbots/images/lettergamebot.png
 Link: https://twitter.com/lettergamebot
+Source: http://cheapbotsdonequick.com/source/lettergamebot
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,emoji,game,words,letters,open source,opensource,tracery,derekahmedzai

@@ -3,6 +3,7 @@ Title: slack-tableflip
 Description: (╯°□°）╯︵ ┻━┻
 Thumbnail: /content/bots/slackbots/images/slack-tableflip.png
 Link: https://github.com/josheverett/slack-tableflip
+Source: https://github.com/josheverett/slack-tableflip
 Installed: yes
 Author: botsheeter.py
 Date: November 12, 2015

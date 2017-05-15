@@ -3,6 +3,7 @@ Title: doorbell-server
 Description: A Slack bot that opens the door for you.
 Thumbnail: /content/bots/slackbots/images/doorbell-server.png
 Link: https://github.com/Lostmyname/doorbell-server
+Source: https://github.com/Lostmyname/doorbell-server
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: slack,bot,slackbot,ruby,sinatra,opensource,open source,iot,lostmynamebook

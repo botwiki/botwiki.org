@@ -3,6 +3,7 @@ Title: @clitoscope
 Description: Revealing the hidden beauty of the clitoris.
 Thumbnail: /content/bots/twitterbots/images/clitoscope.png
 Link: https://twitter.com/clitoscope
+Source: https://github.com/fhoehl/clitorisvulgaris
 Author: botsheeter.py
 Date: September 17, 2016
 Tags: twitter,twitterbot,bot,active,generative,generative art,artbot,generative design,clitoris,blender,python,open source,opensource,python,bash,startuple,fhoehl,smcdoyle

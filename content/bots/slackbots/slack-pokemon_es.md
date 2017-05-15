@@ -3,6 +3,7 @@ Title: slack-pokemon (es)
 Description: ¡Atrápalos ya!
 Thumbnail: /content/bots/slackbots/images/slack-pokemon.png
 Link: https://github.com/rvinluan/slack-pokemon/
+Source: https://github.com/rvinluan/slack-pokemon/
 Installed: yes
 Author: hectorpalmatellez
 Language: es

@@ -3,6 +3,7 @@ Title: @relativebot
 Description: I compare the sizes of random things!
 Thumbnail: /content/bots/twitterbots/images/relativebot.png
 Link: https://twitter.com/relativebot
+Source: https://github.com/Zarkonnen/RelativeBot
 Author: botsheeter.py
 Date: March 12, 2017
 Tags: twitter,twitterbot,bot,active,comparison,compare,open source,opensource,python,zarkonnen_com

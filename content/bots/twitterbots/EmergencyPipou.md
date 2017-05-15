@@ -3,6 +3,7 @@ Title: @EmergencyPipou
 Description: A french Twitter bot that sends random hugs.
 Thumbnail: /content/bots/twitterbots/images/EmergencyPipou.png
 Link: https://twitter.com/EmergencyPipou
+Source: https://github.com/WhiteFangs/EmergencyPipou
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,interactive,french,non-english,cute,hugs,interactive,petosorus,non-english,open source,opensource,php,python,white_fangs

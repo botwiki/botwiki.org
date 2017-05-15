@@ -3,6 +3,7 @@ Title: @ObliqueBot
 Description: Disconnect from desire.
 Thumbnail: /content/bots/twitterbots/images/ObliqueBot.png
 Link: http://twitter.com/ObliqueBot
+Source: https://github.com/wookiehangover/oblique-tab
 Author: botsheeter.py
 Date: November 12, 2015
 Tags: twitter,bot,twitterbot,active,cards,aphorisms,open source,opensource,node.js,nodejs,node,sambreed

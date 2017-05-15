@@ -3,6 +3,7 @@ Title: @dailypatent
 Description: Random patents for all!
 Thumbnail: /content/bots/twitterbots/images/dailypatent.png
 Link: https://twitter.com/dailypatent
+Source: https://github.com/fmcorey/dailypatent
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,patents,open source,opensource,python,fmcorey

@@ -3,6 +3,7 @@ Title: @lsystembot
 Description: Generates random L-systems.
 Thumbnail: /content/bots/twitterbots/images/lsystembot.png
 Link: http://twitter.com/lsystembot
+Source: https://github.com/Objelisks/lsystembot
 Author: botsheeter.py
 Date: December 02, 2015
 Tags: twitter,bot,twitterbot,active,images,open source,opensource,node.js,nodejs,node,objelisks

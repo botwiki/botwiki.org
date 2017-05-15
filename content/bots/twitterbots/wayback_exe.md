@@ -3,6 +3,7 @@ Title: @wayback_exe
 Description: Screenshots of old websites in old browsers.
 Thumbnail: /content/bots/twitterbots/images/wayback_exe.png
 Link: https://twitter.com/wayback_exe
+Source: https://github.com/defacto133/twitter-wordcloud-bot
 Author: botsheeter.py
 Date: October 20, 2015
 Tags: twitter,bot,twitterbot,active,old,internet,archive,website,browser,open source,opensource,node.js,nodejs,node,muffinista

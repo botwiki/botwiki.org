@@ -3,6 +3,7 @@ Title: glickman
 Description: Your statmoji(tm) sports slackbot!
 Thumbnail: /content/bots/slackbots/images/glickman.png
 Link: https://github.com/stattleship/glickman
+Source: https://github.com/stattleship/glickman
 Author: Stefan Bohacek
 Date: January 22, 2016
 Tags: slack,bot,slackbot,opensource,open source,sport,sports,emoji,interactive,stattleship,node.js,nodejs,node

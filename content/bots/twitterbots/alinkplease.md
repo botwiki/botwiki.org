@@ -3,6 +3,7 @@ Title: @alinkplease
 Description: Ask for a link, get a link.
 Thumbnail: /content/bots/twitterbots/images/alinkplease.png
 Link: https://twitter.com/alinkplease
+Source: https://github.com/avyfain/a-link-please
 Author: botsheeter.py
 Date: August 14, 2016
 Tags: twitter,twitterbot,bot,active,zelda,image,python,comedy,videogames,nintendo,open source,opensource,python,avyfain

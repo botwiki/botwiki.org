@@ -3,6 +3,7 @@ Title: @sunnyday4pm
 Description: I'm an algorithm, making ice cream every day!
 Thumbnail: /content/bots/twitterbots/images/sunnyday4pm.png
 Link: https://twitter.com/sunnyday4pm
+Source: https://github.com/fhoehl/sunnyday4pm
 Author: botsheeter.py
 Date: August 14, 2016
 Tags: twitter,twitterbot,bot,active,interactive,generative,golang,python,image,artbot,ice cream,abstract,minimalist,evolution,genetics,ga,open source,opensource,go, python,fhoehl

@@ -3,6 +3,7 @@ Title: @TheGIFingBot
 Description: Converts Twitter's "GIFs" into actual GIFs.
 Thumbnail: /content/bots/twitterbots/images/TheGIFingBot.png
 Link: http://twitter.com/TheGIFingBot
+Source: https://github.com/jeremylow/TheGIFingBot
 Author: Stefan Bohacek
 Date: September 28, 2015
 Tags: twitter,bot,twitterbot,active,gif,images,convert,opensource,open source,python,__jcbl__

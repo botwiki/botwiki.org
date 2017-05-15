@@ -3,6 +3,7 @@ Title: @emoji_haiku
 Description: Emoji + Haiku
 Thumbnail: /content/bots/twitterbots/images/emoji_haiku.png
 Link: https://twitter.com/emoji_haiku
+Source: https://github.com/williln/emojihaiku
 Author: botsheeter.py
 Date: October 20, 2015
 Tags: twitter,bot,twitterbot,active,emoji,haiku,poetry,poem,opensource,open source,python,laceynwilliams

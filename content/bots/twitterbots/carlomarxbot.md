@@ -3,6 +3,7 @@ Title: @carlomarxbot
 Description: I tweet in the style of Allen Ginsberg's "Howl".
 Thumbnail: /content/bots/twitterbots/images/carlomarxbot.png
 Link: https://twitter.com/carlomarxbot
+Source: https://glitch.com/edit/#!/howler
 Author: botsheeter.py
 Date: March 30, 2017
 Tags: twitter,twitterbot,bot,active,poetry,literature,generative,glitch,ginsberg,beat generation,open source,opensource,javascript,tracery,sudama

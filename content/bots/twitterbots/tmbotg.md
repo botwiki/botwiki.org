@@ -3,6 +3,7 @@ Title: @tmbotg
 Description: TMBG lyrics bot.
 Thumbnail: /content/bots/twitterbots/images/tmbotg.png
 Link: https://twitter.com/tmbotg
+Source: https://github.com/bgporter/tmbotg
 Author: botsheeter.py
 Date: September 24, 2016
 Tags: twitter,twitterbot,bot,active,interactive,music,lyrics,tmbg,open source,opensource,python,bgporter

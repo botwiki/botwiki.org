@@ -3,6 +3,7 @@ Title: @SinebrychoffBot
 Description: Tweets art from Sinebrychoff Art Museum four times a day. 
 Thumbnail: /content/bots/twitterbots/images/SinebrychoffBot.png
 Link: https://twitter.com/SinebrychoffBot
+Source: https://github.com/hugovk/fngbot
 Author: botsheeter.py
 Date: June 11, 2016
 Tags: twitter,twitterbot,bot,active,art,artbot,museum bot,glam bot,glam,museum,art bot,finland,art museum,english,finnish,sinebrychoff art museum,helsinki,sinebrychoff,open source,opensource,python,hugovk

@@ -4,6 +4,7 @@ Description: "Diseñé este bot de Twitter para explicar una cosa... I don't kno
 Language: es
 Thumbnail: /content/bots/twitterbots/images/1_thing_idk_why.png
 Link: https://twitter.com/1_thing_idk_why
+Source: https://github.com/coleww/1_thing_idk_why
 Author: hectorpalmatellez
 Date: 29 de Octubre, 2015
 Tags: twitter,twitterbot,active,lyrics,tweetstorm,opensource,open source,node.js,nodejs,node,colewillsea

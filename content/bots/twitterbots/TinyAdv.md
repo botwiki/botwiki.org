@@ -3,6 +3,7 @@ Title: @TinyAdv
 Description: Tiny space adventures.
 Thumbnail: /content/bots/twitterbots/images/TinyAdv.png
 Link: https://twitter.com/TinyAdv
+Source: http://pastebin.com/YYtZnzZ0
 Author: botsheeter.py
 Date: March 15, 2016
 Tags: twitter,twitterbot,bot,active,space,cheapbotsdonequick,images,open source,opensource,tracery,galaxykate

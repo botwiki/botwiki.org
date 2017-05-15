@@ -3,6 +3,7 @@ Title: @alt_text_bot
 Description: "Mention me with an image to get a description."
 Thumbnail: /content/bots/twitterbots/images/alt_text_bot.png
 Link: https://twitter.com/alt_text_bot
+Source: https://github.com/ckundo/alt-text-bot
 Author: Stefan Bohacek
 Date: October 2, 2015
 Tags: twitter,bot,twitterbot,active,useful,open source,opensource,ruby,images,image recognition,accessibility,ckundo

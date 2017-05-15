@@ -3,6 +3,7 @@ Title: @OliverBarkBark
 Description: Bark!
 Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
+Source: https://github.com/HenryWConklin
 Author: Stefan Bohacek
 Date: September 15, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,iot,raspberry pi

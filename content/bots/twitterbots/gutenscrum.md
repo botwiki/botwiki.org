@@ -3,6 +3,7 @@ Title: @gutenscrum
 Description: "A surrealist project management"
 Thumbnail: /content/bots/twitterbots/images/gutenscrum.png
 Link: https://twitter.com/gutenscrum
+Source: https://github.com/coleww/gutenscrum
 Author: Stefan Bohacek
 Date: September 20, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,node.js,nodejs,node,gutenberg,colewillsea

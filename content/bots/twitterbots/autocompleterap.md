@@ -3,6 +3,7 @@ Title: @autocompleterap
 Description: Autocomplete Rap
 Thumbnail: /content/bots/twitterbots/images/autocompleterap.png
 Link: https://twitter.com/autocompleterap
+Source: https://github.com/jimkang/autocompleterap
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,node.js,nodejs,node,language,rap,deathmtn

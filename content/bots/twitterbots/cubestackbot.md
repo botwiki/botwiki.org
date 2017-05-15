@@ -3,6 +3,7 @@ Title: @cubestackbot
 Description: Organize your tweets.
 Thumbnail: /content/bots/twitterbots/images/cubestackbot.png
 Link: https://twitter.com/cubestackbot
+Source: https://github.com/supaldubey/twitterbotui
 Author: botsheeter.py
 Date: May 01, 2017
 Tags: twitter,twitterbot,bot,active,interactive,java,tweetbot,organize,manage-tweets,tweet-list,opensource,open source,java,html,cubestack

@@ -3,6 +3,7 @@ Title: @benjaminbotbot
 Description: The Words of B. Franklin.
 Thumbnail: /content/bots/twitterbots/images/benjaminbotbot.png
 Link: https://twitter.com/benjaminbotbot
+Source: https://github.com/tpinecone/hello-world-bot
 Author: botsheeter.py
 Date: September 07, 2016
 Tags: twitter,twitterbot,bot,active,history,python,benjamin,benjamin franklin,autobiography,everyword,english,18century,america,memoir,foundingfather,printer,longform,open source,opensource,python,lrw3bb

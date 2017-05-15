@@ -3,6 +3,7 @@ Title: @RosettaBot
 Description: The latest data from the ESA Rosetta Mission spacecraft.
 Thumbnail: /content/bots/twitterbots/images/RosettaBot.png
 Link: http://twitter.com/RosettaBot
+Source: https://github.com/barentsen/RosettaBot
 Author: Stefan Bohacek
 Date: October 6, 2015
 Tags: twitter,bot,twitterbot,active,open source,opensource,python,images,space,GeertHub

@@ -3,6 +3,7 @@ Title: @DoSomethingBot
 Description: Ways to take action and fight back.
 Thumbnail: /content/bots/twitterbots/images/DoSomethingBot.png
 Link: https://twitter.com/DoSomethingBot
+Source: http://cheapbotsdonequick.com/source/DoSomethingBot
 Author: botsheeter.py
 Date: March 12, 2017
 Tags: twitter,twitterbot,bot,active,political,protest,usa,cheapbotsdonequick,tracery,open source,opensource,ethanbeihl

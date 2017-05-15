@@ -3,6 +3,7 @@ Title: @kaleid_o_bot
 Description: A Twitter bot which takes an image and runs it through a kaleidoscope filter.
 Thumbnail: /content/bots/twitterbots/images/kaleid_o_bot.png
 Link: http://twitter.com/kaleid_o_bot
+Source: https://github.com/muffinista/kaleid_o_bot
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,processing,images,muffinista

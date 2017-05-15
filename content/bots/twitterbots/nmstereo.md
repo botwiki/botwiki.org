@@ -3,6 +3,7 @@ Title: @nmstereo
 Description: "Get yer hits out!"
 Thumbnail: /content/bots/twitterbots/images/nmstereo.png
 Link: http://twitter.com/nmstereo
+Source: https://github.com/nixmc/nmstereo-enterprise-edition/
 Author: Stefan Bohacek
 Date: August 5, 2015
 Tags: twitter,bot,twitterbot,inactive,opensource,open source,python,NixonMcInnes,iot,raspberry pi

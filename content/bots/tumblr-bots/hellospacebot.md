@@ -3,6 +3,7 @@ Title: hellospacebot
 Description: Deep space on your timeline, once in a while.
 Thumbnail: /content/bots/tumblr-bots/images/hellospacebot.png
 Link: http://hellospacebot.tumblr.com/
+Source: https://github.com/StreetWanderer/HelloSpaceBot
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: tumblr,bot,tumblrbot,active,space,python,opus,cassini,new horizon,voyager,images,open source,opensource,python,streetwanderer

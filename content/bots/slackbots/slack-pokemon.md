@@ -3,6 +3,7 @@ Title: slack-pokemon
 Description: Gotta catch em all!
 Thumbnail: /content/bots/slackbots/images/slack-pokemon.png
 Link: https://github.com/rvinluan/slack-pokemon/
+Source: https://github.com/rvinluan/slack-pokemon/
 Installed: yes
 Author: Stefan Bohacek
 Date: November 15, 2015

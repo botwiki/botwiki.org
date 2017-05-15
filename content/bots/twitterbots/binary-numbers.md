@@ -3,6 +3,7 @@ Title: binary-numbers
 Description: An avatar a day keeps the cobwebs away...
 Thumbnail: /content/bots/twitterbots/images/binary-numbers.png
 Link: https://twitter.com/beet_keeper
+Source: https://github.com/exponential-decay/binary-numbers
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,python,twitter,avatar,avatargeneration,generativeart,publicdomain,nlnz,nationallibrarynewzealand,beet_keeper,binary,stripes,patterns,pythonanywhere,heritagecolorpalettes,digitalhumanities,gif,open source,opensource,python,beet_keeper

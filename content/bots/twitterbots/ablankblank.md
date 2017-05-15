@@ -3,6 +3,7 @@ Title: @ablankblank
 Description: Relatable queer content™.
 Thumbnail: /content/bots/twitterbots/images/ablankblank.png
 Link: https://twitter.com/ablankblank
+Source: https://github.com/tinruufu/ablankblank
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,python,open source,opensource,tinruufu

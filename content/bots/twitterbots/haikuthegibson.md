@@ -3,6 +3,7 @@ Title: @haikuthegibson
 Description: Haiku from the movie Hackers.
 Thumbnail: /content/bots/twitterbots/images/haikuthegibson.png
 Link: https://twitter.com/haikuthegibson
+Source: https://github.com/nathanielksmith/haikuthegibson
 Author: botsheeter.py
 Date: October 15, 2015
 Tags: bot,twitterbot,twitter,poetry,hackers,film,film and tv,movies,opensource,open source,python,prosaic,nate_smith

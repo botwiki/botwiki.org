@@ -3,6 +3,7 @@ Title: slack-meme
 Description: A meme bot for Slack.
 Thumbnail: /content/bots/slackbots/images/slack-meme.png
 Link: https://github.com/nicolewhite/slack-meme/
+Source: https://github.com/nicolewhite/slack-meme/
 Installed: yes
 Author: botsheeter.py
 Date: December 02, 2015

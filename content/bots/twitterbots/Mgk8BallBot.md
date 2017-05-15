@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/Mgk8BallBot.png
 Link: https://twitter.com/Mgk8BallBot
 Author: botsheeter.py
 Date: March 30, 2017
-Tags: twitter,twitterbot,bot,active,interactive,magic,eight ball,open source,opensource,azilipe
+Tags: twitter,twitterbot,bot,active,interactive,magic,eight ball,azilipe
 Nav: hidden
 Robots: index,follow
 */

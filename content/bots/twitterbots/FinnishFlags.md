@@ -3,6 +3,7 @@ Title: @FinnishFlags
 Description: Why are the flags up in Finland?
 Thumbnail: /content/bots/twitterbots/images/FinnishFlags.png
 Link: http://twitter.com/FinnishFlags
+Source: https://github.com/hugovk/whyaretheflagsup
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,finnish,finland,flags,hugovk

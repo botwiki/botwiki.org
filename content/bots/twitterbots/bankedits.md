@@ -3,6 +3,7 @@ Title: @bankedits
 Description: I’m a bot that tweets anonymous Wikipedia edits that are made from IP addresses of large banks.
 Thumbnail: /content/bots/twitterbots/images/bankedits.png
 Link: https://twitter.com/bankedits
+Source: https://github.com/TokyoQ/bankedits
 Author: botsheeter.py
 Date: March 12, 2017
 Tags: twitter,twitterbot,bot,active,wikipedia,anonymous,ip,edit,open source,opensource,javascript,coffeescript,tokyoq

@@ -35,8 +35,26 @@
       {% endif %}
       </p></div>
     {% endif %}
-    {{ content }}
 
+    {% if meta.source %}
+    <div class="opensource">
+      <p>
+        <a class="btn" href="{{ meta.source }}">View source</a>
+
+      {% if "github.com" in meta.source %}
+        <a target="_blank" class="btn" href="https://gomix.com/#!/import/github/{{ meta.source|replace({'https://github.com/': ''}) }}">Remix on Glitch</a>
+        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
+      {% endif %}
+      {% if "glitch.com" in meta.source %}
+        <a target="_blank" class="btn" href="{{ meta.source|replace({'https://glitch.com/': 'https://glitch.com/edit/#!/remix/'}) }}">Remix on Glitch</a>
+        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
+      {% endif %}
+      </p>
+    </div>
+    {% endif %}
+
+
+    {{ content }}
     {% if "bot-workshops" in meta.tags %}
       {% include 'includes/bot-workshops.html' %}
     {% endif %}
@@ -68,6 +86,9 @@
             </div>
      -->
     <div class="meta">
+        {% if meta.date %}
+          <p><em>Last updated on {{ meta.date }}.</em></p>
+        {% endif %}
         {% if meta.tags is not empty %}
         {% if 'bot' in meta.tags %}
           <p class="tags">

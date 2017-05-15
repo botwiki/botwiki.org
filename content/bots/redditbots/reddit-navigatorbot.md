@@ -2,6 +2,7 @@
 Title: reddit-navigatorbot
 Description: Navigate quicker!
 Link: https://github.com/instaguy88/reddit-navigatorbot
+Source: https://github.com/instaguy88/reddit-navigatorbot
 Author: botsheeter.py
 Date: May 01, 2017
 Tags: bot,inactive,reddit,redditbot,opensource,open source,python,instaguy88,eatworksleepreddit

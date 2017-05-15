@@ -3,6 +3,7 @@ Title: @nyplemoji
 Description: Tweet an emoji, receive a related image from NYPL collections. 
 Thumbnail: /content/bots/twitterbots/images/nyplemoji.png
 Link: https://twitter.com/nyplemoji
+Source: https://github.com/lolibrarian/NYPL-Emoji-Bot
 Author: botsheeter.py
 Date: September 07, 2016
 Tags: bot,active,interactive,emoji,images,open source,opensource,lolibrarian

@@ -3,6 +3,7 @@ Title: @MancOrchSays
 Description: A Manchester Orchestra lyrics Twitter bot.
 Thumbnail: /content/bots/twitterbots/images/MancOrchSays.png
 Link: https://twitter.com/MancOrchSays
+Source: https://github.com/WhiteFangs/TwitterLyricsBot
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,lyrics,band,music,open source,opensource,php,white_fangs

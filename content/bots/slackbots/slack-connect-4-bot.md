@@ -3,6 +3,7 @@ Title: slack-connect-4-bot
 Description: A bot that allows you to play Connect 4 on Slack.
 Thumbnail: /content/bots/slackbots/images/slack-connect-4-bot.png
 Link: https://github.com/wgpsutherland/slack-connect-4-bot
+Source: https://github.com/wgpsutherland/slack-connect-4-bot
 Author: botsheeter.py
 Date: December 02, 2015
 Tags: slack,bot,slackbot,active,interactive,game,open source,opensource,node.js,nodejs,node,wgpsutherland

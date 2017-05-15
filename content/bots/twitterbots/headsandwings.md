@@ -3,6 +3,7 @@ Title: @headsandwings
 Description: "I got a head with wings"
 Thumbnail: /content/bots/twitterbots/images/headsandwings.png
 Link: https://twitter.com/headsandwings
+Source: http://cheapbotsdonequick.com/source/headsandwings
 Author: botsheeter.py
 Date: August 14, 2016
 Tags: twitter,twitterbot,bot,active,music,emoji,tinyworlds,tracery,open source,opensource,art,tracery,filmplane

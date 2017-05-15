@@ -3,6 +3,7 @@ Title: @symmetric_curve
 Description: Symmetric curves from complex Fourier series.
 Thumbnail: /content/bots/twitterbots/images/symmetric_curve.png
 Link: https://twitter.com/symmetric_curve
+Source: https://github.com/illustrating-mathematics/farris-bot
 Author: botsheeter.py
 Date: October 11, 2016
 Tags: twitter,twitterbot,bot,active,images,gifs,symmetric,curve,fourier,open source,opensource,python,michiexile

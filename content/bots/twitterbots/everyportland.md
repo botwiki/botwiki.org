@@ -3,6 +3,7 @@ Title: @everyportland
 Description: Every word, but in Portland
 Thumbnail: /content/bots/twitterbots/images/everyportland.png
 Link: https://twitter.com/everyportland
+Source: https://github.com/tpinecone/everyportland
 Author: botsheeter.py
 Date: October 21, 2015
 Tags: twitter,bot,twitterbot,active,dictionary,everyword,portland,bespoke,open source,opensource,python,spine_cone

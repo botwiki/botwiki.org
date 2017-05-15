@@ -3,6 +3,7 @@ Title: @botilius_syrus
 Description: Sayings of Publilius Syrus with computationally generated emoji.
 Thumbnail: /content/bots/twitterbots/images/botilius_syrus.png
 Link: https://twitter.com/botilius_syrus
+Source: https://github.com/lizadaly/botilius_syrus
 Author: botsheeter.py
 Date: February 18, 2016
 Tags: twitter,bot,twitterbot,active,inspirational,quotes,latin,emoji,monthlybotchallenge,open source,opensource,python,liza

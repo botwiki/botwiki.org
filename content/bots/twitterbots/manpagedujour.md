@@ -3,6 +3,7 @@ Title: @manpagedujour
 Description: Linux Man Page a Day
 Thumbnail: /content/bots/twitterbots/images/manpagedujour.png
 Link: http://twitter.com/manpagedujour
+Source: https://github.com/exponential-decay/manpage-du-jour
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: twitter,bot,twitterbot,active,linux,learning,humor,computing,open source,opensource,python,beet_keeper

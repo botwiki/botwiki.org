@@ -3,6 +3,7 @@ Title: @DitheredBot
 Description: Twitter bot that replies with dithered images.
 Thumbnail: /content/bots/twitterbots/images/DitheredBot.png
 Link: http://twitter.com/DitheredBot
+Source: https://github.com/MaxBittker/ditherBot
 Author: botsheeter.py
 Date: November 15, 2015
 Tags: twitter,bot,twitterbot,active,interactive,images,effects,open source,opensource,node.js,nodejs,node,maxbittker

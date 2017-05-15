@@ -3,6 +3,7 @@ Title: @thetinygallery
 Description: Tiny exhibitions from a tiny emoji gallery.
 Thumbnail: /content/bots/twitterbots/images/thetinygallery.png
 Link: http://twitter.com/thetinygallery
+Source: https://github.com/emmawinston/thetinygallery
 Author: botsheeter.py
 Date: February 03, 2016
 Tags: twitter,bot,twitterbot,active,emoji,cheapbotsdonequick,ascii,art,monthlybotchallenge,winner,open source,opensource,tracery,deer_ful

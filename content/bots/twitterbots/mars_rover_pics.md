@@ -10,4 +10,4 @@ Nav: hidden
 Robots: index,follow
 */
 
-[@mars_rover_pics](https://twitter.com/mars_rover_pics) is an [open source](Go) Twitter bot created by [Emmanuel T Odeke](https://twitter.com/odeke_et/) that tweets images captured by a [Mars rover](https://en.wikipedia.org/wiki/Mars_rover).
+[@mars_rover_pics](https://twitter.com/mars_rover_pics) is a Twitter bot created by [Emmanuel T Odeke](https://twitter.com/odeke_et/) that tweets images captured by a [Mars rover](https://en.wikipedia.org/wiki/Mars_rover).

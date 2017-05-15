@@ -3,6 +3,7 @@ Title: @obitbot
 Description: Procedurally generated obituaries for the 1.8 of us who die every second.
 Thumbnail: /content/bots/twitterbots/images/obitbot.png
 Link: https://twitter.com/obitbot
+Source: https://github.com/CodeMacabre/obitbot
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,data,death,obituary,nodejs,codemacabre,macabre,who,mortality,open source,opensource,javascript,node.js,node,codemacabre

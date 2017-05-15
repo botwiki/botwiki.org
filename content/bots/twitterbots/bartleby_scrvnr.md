@@ -3,6 +3,7 @@ Title: @bartleby_scrvnr
 Description: A short-story character turned into a bot.
 Thumbnail: /content/bots/twitterbots/images/bartleby_scrvnr.png
 Link: https://twitter.com/bartleby_scrvnr
+Source: https://github.com/fourtonfish/bartleby_scrvnr
 Author: Stefan Bohacek
 Date: July 9, 2015
 Tags: twitter,bot,twitterbot,active,interactive,opensource,open source,node.js,nodejs,node,rivescript,fourtonfish,chatbot,literature

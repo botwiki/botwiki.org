@@ -3,6 +3,7 @@ Title: @inXwords
 Description: Random nuggets of wisdom from Project Gutenberg in so many words
 Thumbnail: /content/bots/twitterbots/images/inXwords.png
 Link: http://twitter.com/inXwords
+Source: https://github.com/hugovk/inXwords
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,trending,language,literature,hugovk

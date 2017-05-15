@@ -3,6 +3,7 @@ Title: @anappleadaybot
 Description: An apple a day keeps the doctor away.
 Thumbnail: /content/bots/twitterbots/images/anappleadaybot.png
 Link: https://twitter.com/anappleadaybot
+Source: http://cheapbotsdonequick.com/source/anappleadaybot
 Author: botsheeter.py
 Date: May 01, 2017
 Tags: twitter,twitterbot,bot,active,cheapbotsdonequick,health,generative,careers,aphorism,saying,food,tracery,open source,opensource,mveritym

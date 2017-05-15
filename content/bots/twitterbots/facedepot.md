@@ -3,6 +3,7 @@ Title: @facedepot
 Description: Servicing all your face replacement needs with our specially selected range of vintage faces.
 Thumbnail: /content/bots/twitterbots/images/facedepot.png
 Link: http://twitter.com/facedepot
+Source: https://github.com/wragge/face-depot
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,bot,twitterbot,active,interactive,images,faces,replace,open source,opensource,python,wragge

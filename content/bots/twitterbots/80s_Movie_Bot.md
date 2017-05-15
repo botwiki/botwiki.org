@@ -3,6 +3,7 @@ Title: @80s_Movie_Bot
 Description: 80's movie quotes!
 Thumbnail: /content/bots/twitterbots/images/80s_Movie_Bot.png
 Link: https://twitter.com/80s_Movie_Bot
+Source: https://github.com/carmalou/80s-movie-twitterbot
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,movies,film and tv,monthlybotchallenge,1980s,quotes,funny,open source,opensource,node,carmalou

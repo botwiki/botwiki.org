@@ -3,6 +3,7 @@ Title: @CutePetsBmore
 Description: Feel the warmth of a cold nose.
 Thumbnail: /content/bots/twitterbots/images/CutePetsBmore.png
 Link: http://twitter.com/CutePetsBmore
+Source: https://github.com/Ryan-J-Smith/CutePetsBmore
 Author: Stefan Bohacek
 Date: October 8, 2015
 Tags: twitter,bot,twitterbot,active,adopt,pets,baltimore,open source,opensource,python,Ryan_J_Smith

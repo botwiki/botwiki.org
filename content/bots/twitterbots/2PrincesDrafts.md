@@ -3,6 +3,7 @@ Title: @2PrincesDrafts
 Description: Bot that tweets discarded (and fake, obvs) drafts of Two Princes by the Spin Doctors.
 Thumbnail: /content/bots/twitterbots/images/2PrincesDrafts.png
 Link: https://twitter.com/2PrincesDrafts
+Source: https://github.com/amarriner/TwoPrinces
 Author: botsheeter.py
 Date: June 11, 2016
 Tags: twitter,twitterbot,bot,active,music lyrics ,open source,opensource,python,amarriner

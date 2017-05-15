@@ -3,6 +3,7 @@ Title: @NYChickens
 Description: "Caller states that while walking his dog in the park they came across either a dead turkey or chicken with the head off."
 Thumbnail: /content/bots/twitterbots/images/NYChickens.png
 Link: http://twitter.com/NYChickens
+Source: https://github.com/hugovk/NYChickens
 Author: Stefan Bohacek
 Date: September 24, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,dead,death,animal,hugovk

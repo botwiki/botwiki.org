@@ -3,6 +3,7 @@ Title: @youreherebot
 Description: Locating every location I can locate.
 Thumbnail: /content/bots/twitterbots/images/youreherebot.png
 Link: https://twitter.com/youreherebot
+Source: https://github.com/dnass/herebot
 Author: botsheeter.py
 Date: May 01, 2017
 Tags: twitter,twitterbot,bot,active,geography,places,gif,map,maps,images,geocoding,satellite,open source,opensource,node,nodejs,node.js,dnass

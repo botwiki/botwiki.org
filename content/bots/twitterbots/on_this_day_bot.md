@@ -3,6 +3,7 @@ Title: @on_this_day_bot
 Description: Tweets a random historical event for the current date.
 Thumbnail: /content/bots/twitterbots/images/on_this_day_bot.png
 Link: http://twitter.com/on_this_day_bot
+Source: https://github.com/kapari/twitterbot
 Author: botsheeter.py
 Date: November 15, 2015
 Tags: twitter,bot,twitterbot,active,history,wikipedia,open source,opensource,python,arielhkaplan

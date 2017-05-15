@@ -3,6 +3,7 @@ Title: @i_luv_recipes
 Description: A random recipe with random substitutions.
 Thumbnail: /content/bots/twitterbots/images/i_luv_recipes.png
 Link: https://twitter.com/i_luv_recipes
+Source: https://github.com/lizadaly/i_luv_recipes
 Author: botsheeter.py
 Date: February 18, 2016
 Tags: twitter,bot,twitterbot,active,lizadaly,recipe,food,open source,opensource,python,liza

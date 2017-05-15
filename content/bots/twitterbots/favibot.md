@@ -3,6 +3,7 @@ Title: @favibot
 Description: Sourced from tweets of '[X] is my new favourite word'. (And favorite and fave.)
 Thumbnail: /content/bots/twitterbots/images/favibot.png
 Link: https://twitter.com/favibot
+Source: https://github.com/hugovk/word-tools
 Author: botsheeter.py
 Date: June 11, 2016
 Tags: twitter,twitterbot,bot,active,language,words,favourite,fave,favorite,english,rt bot,retweetbot,open source,opensource,python,hugovk

@@ -2,6 +2,7 @@
 Title: TelegramLogin
 Description: OAuth for Telegram Messenger
 Link: https://telegramlogin.com
+Source: https://github.com/3x14159265/telegramlogin
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: bot,active,telegram,oauth,openid,authentication,platform,webservice,open source,opensource,php,3x14159265

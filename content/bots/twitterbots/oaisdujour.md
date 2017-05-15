@@ -3,6 +3,7 @@ Title: @oaisdujour
 Description: Your daily engagement with an ISO standard!
 Thumbnail: /content/bots/twitterbots/images/oaisdujour.png
 Link: https://twitter.com/oaisdujour
+Source: https://github.com/exponential-decay/oais-du-jour
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,interactive,digitalpreservation,oais,iso,opensource,beet_keeper,python,standards,communityengagement,active,twitter,archives,digitalcuration,digitalarchives,digitalheritage,digitalhumanities,glam,libraries,dpc,digitalpreservationcoalition,open,source,opensource,python,beet_keeper

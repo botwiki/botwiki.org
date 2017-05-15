@@ -3,6 +3,7 @@ Title: @rikersbot
 Description: Collaborative coding and storytelling project.
 Thumbnail: /content/bots/twitterbots/images/rikersbot.png
 Link: http://twitter.com/rikersbot
+Source: https://github.com/xpmethod/rikersbot
 Author: botsheeter.py
 Date: October 28, 2015
 Tags: twitter,bot,twitterbot,active,prison,story,storytelling,open source,opensource,python,justicecolumbia

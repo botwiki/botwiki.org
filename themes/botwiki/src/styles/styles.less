@@ -93,6 +93,43 @@ button{
   overflow: visible;
 }
 
+a.btn{
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 8px 10px;
+  color: @main-color !important;
+  border-radius: 5px;
+  background-color: #fafafa;
+  font-size: 0.9em;
+
+
+  &:hover{
+    color: @main-color;
+    text-decoration: none;
+    background-color: #fafafa - #111;
+  }
+
+  &,
+  &:hover{
+    transition: background-color 0.2s;
+    text-decoration: none;
+  }
+
+  &, &-link{
+    white-space: nowrap;
+    line-height: 3em;
+    margin-right: 0.5em;
+  }
+
+  &-link{
+    text-decoration: underline;
+  }
+
+
+}
+
+
+
+
 /* Sharper Thumbnails */
 img{
   -ms-interpolation-mode: bicubic;
@@ -178,6 +215,16 @@ h1, h2, h3, h4, h5, h6{
   padding: 0.5rem;
   @media (min-width : @site-width-small){
     padding: 1rem 2rem;
+  }
+}
+
+div.opensource{
+  background-color: #f3f3f3;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  p{
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
   }
 }
 

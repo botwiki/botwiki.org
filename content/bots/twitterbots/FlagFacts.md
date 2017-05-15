@@ -3,6 +3,7 @@ Title: @FlagFacts
 Description: Random flags.
 Thumbnail: /content/bots/twitterbots/images/FlagFacts.png
 Link: https://twitter.com/FlagFacts
+Source: https://github.com/hugovk/randimgbot
 Author: botsheeter.py
 Date: June 11, 2016
 Tags: twitter,twitterbot,bot,active,flag bot,flags,country flags,flag,vexillology,images,open source,opensource,python,hugovk

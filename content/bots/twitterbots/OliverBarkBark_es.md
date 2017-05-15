@@ -3,6 +3,7 @@ Title: @OliverBarkBark (es)
 Description: ¡Guau!
 Thumbnail: /content/bots/twitterbots/images/OliverBarkBark.png
 Link: http://twitter.com/OliverBarkBark
+Source: https://github.com/HenryWConklin
 Author: hectorpalmatellez
 Language: es
 Date: 31 de Enero, 2015

@@ -3,6 +3,7 @@ Title: @Deutsch_Falsch
 Description: Learn something wrong about German once every two hours.
 Thumbnail: /content/bots/twitterbots/images/Deutsch_Falsch.png
 Link: http://twitter.com/Deutsch_Falsch
+Source: https://github.com/ojahnn/deutsch_falsch
 Author: botsheeter.py
 Date: October 19, 2015
 Tags: twitter,bot,twitterbot,active,german,language,wordnik,open source,opensource,python,ojahnn
