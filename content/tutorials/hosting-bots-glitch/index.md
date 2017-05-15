@@ -1,6 +1,6 @@
 /*
 Title: Hosting bots on Glitch
-Description: Introduction to hosting bots on Glith
+Description: Introduction to hosting bots on Glitch.
 Thumbnail: /content/tutorials/importing-github-glitch/images/new-project.png
 Has code: yes
 Show donation link: yes
@@ -22,22 +22,26 @@ Tags: tutorial,guide,glitch,hyperdev,fourtonfish,botwiki-original
 > [Creator Spotlight: Building Twitter Bots with Stefan Bohacek](https://medium.com/glitch/creator-spotlight-building-twitter-bots-with-stefan-bohacek-4caf436f277) (Glitch via medium.com, May 2017)
 
 
-An experimental new feature on Botwiki lets you import open source bot code directly into Glitch: look for the **Remix on Glitch** button on all open source bot pages.
+An experimental new feature on Botwiki lets you import open source bot code directly into Glitch: look for the **Remix on Glitch** button on [most of the open source bot pages](/tag/opensource).
 
 ![Remix on Glitch](/content/tutorials/hosting-bots-glitch/images/remix-on-glitch.png){.centered}
 
-Please note that some bots will need a few updates to work on Glith ([see guides below](#guides-tutorials)).
+Please note that Glitch only supports node.js and (unofficially) Python. Also, some bots will need a few updates to work on Glith ([see guides below](#guides-tutorials)).
 
 
 ### Project templates [¶](#project-templates){.pilcrow} {#project-templates}
 
-- [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot)
-- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond)
-- [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors)
-- [Facebook Messenger Bot](https://glitch.com/~messenger-bot)
+- [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
+- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
+- [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
+- [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
+- [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
+- [Actions on Google/Api.ai boilerplate project on Glitch](https://glitch.com/edit/#!/project/actions-on-google-api-ai-boilerplate) (glitch.com)
+- [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
+- [Alexa Airport Info Skill](https://glitch.com/edit/#!/alexa-skill) (glitch.com)
 
 
-You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [twitter](https://glitch.com/search?q=twitter) or [slack](https://glitch.com/search?q=slack).
+You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*twitter*](https://glitch.com/search?q=twitter) or [*slack*](https://glitch.com/search?q=slack).
 
 
 ### Guides and tutorials [¶](#guides-tutorials){.pilcrow} {#guides-tutorials}
