@@ -14,6 +14,15 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 **For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.**
 
+
+### Page content [¶](#page-content){.pilcrow} {#page-content}
+
+- [What are bots?](#bots)
+- [Automated art](#automated-art)
+- [Unsorted](#unsorted)
+- [See also](#see-also)
+
+
 > In order to better comprehend the possibilities, and perils, of social bots we must ask pointed questions—about their design, implementation, regulation, and ethics.
 >
 > -- [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
@@ -31,6 +40,13 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
 
+#### See also
+
+- [What is a bot? (Botmakers answer.)](/what-is-a-bot) 
+
+> Art and curation left in the hands of scripts and algorithms is fascinating ...
+>
+> -- [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
 
 ### Automated art [¶](#automated-art){.pilcrow} {#automated-art}
 
