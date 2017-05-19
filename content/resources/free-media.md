@@ -13,6 +13,7 @@ Nav: hidden
 
 ### Free images [¶](#free-images){.pilcrow} {#free-images}
 
+- [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset): collection of 50 million drawings across 345 categories, contributed by players of the game [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/): illustrations from old books; this very site uses it extensively!
 - [Vintage Printable](http://vintageprintable.com/): free, public domain/out-of-copyright images
