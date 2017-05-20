@@ -1,6 +1,6 @@
 /*
 Title: @mazingbot
-Description: Collaboratively solve mazes on Twitter
+Description: Collaboratively solve mazes on Twitter.
 Thumbnail: /content/bots/twitterbots/images/mazingbot.png
 Link: https://twitter.com/mazingbot
 Source: https://github.com/pouretrebelle/twitter-maze-bot

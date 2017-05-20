@@ -1,6 +1,6 @@
 /*
 Title: @bot_inspiration
-Description: Haiku Creator
+Description: Haiku creator.
 Thumbnail: /content/bots/twitterbots/images/bot_inspiration.png
 Link: https://twitter.com/bot_inspiration
 Author: botsheeter.py
