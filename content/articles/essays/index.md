@@ -39,6 +39,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (bot.watch)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [The Art and Nonsense Poetry of Obscure Twitter Bots](http://secretcave.co/obscure-twitter-bots/) (secretcave.co)
+- [Bots: a cultural tour](http://mewo2.com/cultural-bots/) (mewo2.com, press S for speaker notes)
+
 
 #### See also
 
