@@ -1612,7 +1612,7 @@ article {
   /* overflow: auto; */
 }
 article h2 {
-  padding-top: 1em;
+  padding-top: 1.5em;
 }
 div.search-results-intro {
   padding-bottom: 2em;
@@ -2466,7 +2466,7 @@ div.search-item {
 }
 .note.donations {
   padding: 0;
-  margin: 4em auto;
+  margin: 3em auto;
 }
 @media (min-width: 860px) {
   div.donations-top-fix {
