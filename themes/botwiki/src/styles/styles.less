@@ -221,7 +221,12 @@ h1, h2, h3, h4, h5, h6{
 div.opensource{
   background-color: #f3f3f3;
   margin-top: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
+  @media(max-width: @site-width-small){
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
   p{
     padding-top: 1.5rem !important;
     padding-bottom: 1.5rem !important;
@@ -1001,6 +1006,7 @@ div.search-item{
 
 .note.donations{
   padding: 0;
+  margin: 4em auto;
 }
 
 div.donations-top-fix{
@@ -1028,6 +1034,11 @@ div.meta{
     padding-top: 2em !important;
     padding-bottom: 2em;
     margin-top: 2em !important;
+    @media (min-width : @site-width-small){
+      margin-top: 4em !important;
+    }
+
+
     h4{
       font-size: 1.5em;
       @media (min-width : @site-width-small){
@@ -1083,8 +1094,7 @@ p.ssbg-attribution{
   }
 }
 
-div.search-item p.meta,
-div.meta p.last-updated{
+div.search-item p.meta{
   font-style: italic;
 }
 

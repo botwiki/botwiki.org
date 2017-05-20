@@ -1771,7 +1771,13 @@ h6 {
 div.opensource {
   background-color: #f3f3f3;
   margin-top: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
+}
+@media (max-width: 860px) {
+  div.opensource {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
 }
 div.opensource p {
   padding-top: 1.5rem !important;
@@ -2460,6 +2466,7 @@ div.search-item {
 }
 .note.donations {
   padding: 0;
+  margin: 4em auto;
 }
 @media (min-width: 860px) {
   div.donations-top-fix {
@@ -2481,6 +2488,11 @@ div.meta .share-prompt {
   padding-top: 2em !important;
   padding-bottom: 2em;
   margin-top: 2em !important;
+}
+@media (min-width: 860px) {
+  div.meta .share-prompt {
+    margin-top: 4em !important;
+  }
 }
 div.meta .share-prompt h4 {
   font-size: 1.5em;
@@ -2536,8 +2548,7 @@ p.ssbg-attribution a {
     padding: .5rem 10px 0 !important;
   }
 }
-div.search-item p.meta,
-div.meta p.last-updated {
+div.search-item p.meta {
   font-style: italic;
 }
 div.meta p.last-updated {
