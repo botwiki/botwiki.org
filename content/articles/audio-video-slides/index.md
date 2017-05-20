@@ -26,6 +26,7 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 - [Tim Hwang on bots that cause chaos](https://www.oreilly.com/ideas/tim-hwang-on-bots-that-cause-chaos?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+oreilly%2Fradar%2Fatom+%28O%27Reilly+Radar%29) (oreilly.com)
 - [A Brief History of Our Robotic Future](https://www.youtube.com/watch?v=nlrr5b1XWoY) (Wired via youtube.com)
 - [The Next Frontier - Mustafa Suleyman](https://www.youtube.com/watch?v=UjKEYss966E): climate change, social change, and AI
+- [Automating Creativity - How Artificial Intelligence changes Creative Processes](https://www.youtube.com/watch?v=MBujX26n5gw) (youtube.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
