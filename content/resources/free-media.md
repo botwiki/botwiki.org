@@ -36,6 +36,8 @@ Nav: hidden
 - [Museum of Modern Art Exhibition History](http://www.moma.org/calendar/exhibitions/history): from 1929 to the present 
 - [The Metropolitan Museum of Art Collection](http://metmuseum.org/art/collection/)
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car): image frames from car-mounted cameras, and information about latitude, longitude, gear, brake, throttle, steering angles and speed
+- [The Behance Artistic Media Dataset](https://bam-dataset.org/): Automatically-labeled binary attribute scores for over 2.5 million images across 20 attributes each, and more (bam-dataset.org)
+- [David Rumsey Historical Map Collection](http://www.davidrumsey.com/luna/servlet/RUMSEY~8~1): over 67,000 images of 16th through 21st century maps of America, North America, South America, Europe, Asia, Africa, Pacific and the World (davidrumsey.com)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 These are not always downloadable, but you can at least freely link to them.

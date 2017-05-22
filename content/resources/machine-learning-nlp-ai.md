@@ -31,6 +31,7 @@ Nav: hidden
 ### General tools [¶](#general-tools){.pilcrow} {#general-tools}
 
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
+- [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
 
 ### Frameworks and libraries [¶](#frameworks-and-libraries){.pilcrow} {#frameworks-and-libraries}
 

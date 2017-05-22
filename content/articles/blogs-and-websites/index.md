@@ -19,6 +19,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 - [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch) (retired?)
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
+- [google.ai](https://google.ai/): "Bringing the benefits of AI to everyone" (google.ai)
 - [The Bot Blog](https://thebotblog.wordpress.com/): social science and news on automated culture
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/): posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/): Short-form scholarship on born-digital poetry and poetics.
@@ -31,6 +32,13 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Algorithm-Driven Design](http://algorithms.design/): How AI is Changing Design
 - [HAUNTED MACHINES](http://hauntedmachines.com/): project exploring narratives of myth, magic and haunting around technology
 
+**See also:** [Machine learning and AI demos](/tutorials/machine-learning-nlp-ai/#demos-projects)
+
+### AI and machine learning [¶](#ai-ml){.pilcrow} {#ai-ml}
+
+- [A16Z AI Playbook](http://aiplaybook.a16z.com/) (aiplaybook.a16z.com)
+
+**See also:** [Tutorials](/tutorials/machine-learning-nlp-ai) and [resources](/resources/machine-learning-nlp-ai) for machine learning and AI
 
 ### Chat bots and "business bots" [¶](#serious-business){.pilcrow} {#serious-business}
 

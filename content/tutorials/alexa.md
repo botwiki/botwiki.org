@@ -26,7 +26,7 @@ Nav: hidden
 - [Alexa documentation](#docs)
 - [Beginner tutorials](#beginner-tutorials)
   - [node.js](#tutorials-nodejs)
-  - [api.ai](#tutorials-api-ai)
+  - [AWS Lambda](#tutorials-lambda)
   </div>
   <div class="col-sm-12 col-md-6">
 <!--
@@ -57,6 +57,14 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 - [Writing a Weasley Clock with Alexa](http://mdickin.com/2017/04/30/writing-weasley-clock-with-alexa/) (mdickin.com )
 - [Build an Alexa Skill in 7 Minutes Flat with Node.js and StdLib](https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f) (hackernoon.com)
 
+#### AWS Lambda [¶](#tutorials-lambda){.pilcrow} {#tutorials-lambda}
+
+> AWS Lambda lets you run code without provisioning or managing servers.
+>
+> -- [aws.amazon.com/lambda](https://aws.amazon.com/lambda/)
+
+- [How to build an Alexa skill - Trivia skill tutorial](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/trivia-skill-1) (developer.amazon.com)
+- [How to build an Alexa skill - Fact skill tutorial](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill-1) (developer.amazon.com)
 
 #### Other [¶](#tutorials-other){.pilcrow} {#tutorials-other}
 
