@@ -37,6 +37,7 @@ Choose the network on which you want to deploy your bot:
 - [Reddit](/tutorials/redditbots)
 - [IRC](/tutorials/irc-bots)
 - [SMS](/tutorials/sms-bots)
+- [Trello](/tutorials/trello)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
@@ -55,5 +56,7 @@ Choose the network on which you want to deploy your bot:
 - [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) (theatlantic.com)
 - [Open-sourced bots](/tag/bot+opensource)
 - [The Long Game of Creativity](http://www.openculture.com/2015/04/the-long-game-of-creativity.html) (openculture.com)
+
+For more tutorials, check out [Online Courses For Bot Development](https://chatbotsmagazine.com/online-courses-for-bot-development-d09eae356ea4) on [Chatbots Magazine](https://chatbotsmagazine.com/).
 
 If you can't find what you're looking for, be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or join us at [botmakers.org](https://botmakers.org/)!

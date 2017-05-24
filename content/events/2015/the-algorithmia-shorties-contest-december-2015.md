@@ -2,7 +2,7 @@
 Title: The Algorithmia Shorties Contest 2015
 Description: Get started with Natural Language Processing tools and concepts. 
 Link: https://github.com/algorithmiaio/shorties
-Date: December 9th, 2015
+Date: December 9, 2015
 Tags: event,archived
 */
 

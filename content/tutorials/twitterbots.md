@@ -85,6 +85,7 @@ Can't wait to see you there!
 - [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
+- [How to build and deploy a multifunctional Twitter bot](https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092) (Scott Spence via medium.com)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot): a super simple tutorial with node.js source code
 
 #### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}

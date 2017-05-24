@@ -42,6 +42,7 @@ Nav: hidden
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
 
+- [The Local News: An Archive](https://archive.org/details/localnewsarchive): a large collection of samples of local news programs and broadcasting styles over the decades (archive.org)
 - [British Pathé](https://www.youtube.com/user/britishpathe/videos): historical footage
 - [AP Archive](https://www.youtube.com/c/aparchive): the film and video archive of The Associated Press
 - [British Movietone](https://www.youtube.com/channel/UCHq777_waKMJw6SZdABmyaA): *arguably the world's greatest newsreel archive, spanning the period 1895 to 1986*
