@@ -23,6 +23,7 @@ My name is Stefan [*stefn*] and I'm [@stefan](https://botmakers.slack.com/messag
 
 You can reach me at [stefan@botwiki.org](mailto:stefan@botwiki.org), or visit [fourtonfish.com](https://fourtonfish.com/) for more of my personal projects.
 
+PS: [Here are my bots](https://twitter.com/fourtonfish/lists/my-twitterbots/members) and [tutorials on Botwiki](/tag/fourtonfish+tutorial/).
 
 
 ### Veronica [¶](#veronica){.pilcrow} {#veronica}
