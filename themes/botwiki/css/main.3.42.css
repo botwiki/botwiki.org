@@ -2450,8 +2450,13 @@ p.search-instructions code {
 div.search-item {
   max-width: 1150px;
   margin: 0 auto;
-  border-top: 1px solid #eee;
+  border: 1px solid #eee;
   padding: 2em 0 1em;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 2em;
+}
+div.search-item .screenshot {
+  box-shadow: none;
 }
 .note {
   font-weight: bold;
