@@ -2034,10 +2034,13 @@ img.main-banner {
   margin: 10px 0 10px 50px;
 }
 div.all-tags {
-  text-align: justify;
+  line-height: 1.8em;
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
 }
 div.all-tags a {
-  padding: 0 0.2em;
+  padding-right: 0.5em;
 }
 /* Structure Styles
 /*---------------------------------------------*/
