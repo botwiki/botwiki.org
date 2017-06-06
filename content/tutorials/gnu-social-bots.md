@@ -25,11 +25,6 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 GNU social implementations include [Mastodon](https://mastodon.social/) and [botsin.space](https://botsin.space/), among others. 
 
 
-
-<!--
-### General tutorials [¶](#general){.pilcrow} {#general}
--->
-
 ### Mastodon [¶](#mastodon){.pilcrow} {#mastodon}
 
 [Mastodon](https://mastodon.social/) is a GNU Social-compatible microblogging server.

@@ -41,7 +41,7 @@
       <p>
         <a class="btn" href="{{ meta.source }}">View source</a>
 
-      {% if "github.com" in meta.source %}
+      {% if "github.com" in meta.source and ("node" in meta.tags or "python" in meta.tags) %}
         <a target="_blank" class="btn" href="https://gomix.com/#!/import/github/{{ meta.source|replace({'https://github.com/': ''}) }}">Remix on Glitch</a>
         <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
       {% endif %}

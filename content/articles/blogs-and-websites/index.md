@@ -19,6 +19,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 - [BotWatch](http://bot.watch/) and [@botwatch](https://twitter.com/botwatch) (retired?)
 - [@algorithm_club](https://twitter.com/algorithm_club): Twitter book club on the theme of critical algorithm studies
+- [Artists and Machine Intelligence](https://ami.withgoogle.com/): AMI is a program at Google that brings artists & engineers together to create with machine intelligence
+  - [@artwithMI](https://twitter.com/artwithMI)
 - [google.ai](https://google.ai/): "Bringing the benefits of AI to everyone" (google.ai)
 - [The Bot Blog](https://thebotblog.wordpress.com/): social science and news on automated culture
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/): posts tagged *#bots*

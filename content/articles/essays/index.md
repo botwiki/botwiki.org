@@ -63,6 +63,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [When the Machine Made Art – Grant Taylor traces the origins of computational creativity](http://www.creativeapplications.net/theory/when-the-machine-made-art-grant-taylor-traces-the-origins-of-computer-art/) (creativeapplications.net)
 - [The Strange Victorian Computer That Generated Latin Verse](http://www.atlasobscura.com/articles/the-strange-victorian-computer-that-generated-latin-verse) (atlasobscura.com)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
 
 ### Unsorted [¶](#unsorted){.pilcrow} {#unsorted}

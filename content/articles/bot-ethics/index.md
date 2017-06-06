@@ -83,7 +83,7 @@ Nav: hidden
 - [The Guardian view on computers and language: reproducing bias](https://www.theguardian.com/commentisfree/2017/apr/14/the-guardian-view-on-computers-and-language-reproducing-bias) (theguardian.com)
 - [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) (Blaise Aguera y Arcas via medium.com)
 - [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183) (sciencemag.org)
-
+- ['A white mask worked better': why algorithms are not colour blind](https://www.theguardian.com/technology/2017/may/28/joy-buolamwini-when-algorithms-are-racist-facial-recognition-bias) (theguardian.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
@@ -127,6 +127,8 @@ Nav: hidden
 - [The truth about gender-neutral bots](https://medium.com/@HealthinarE/the-truth-about-gender-neutral-bots-448bc0cab6dc) (Healthinar Engagement via medium.com)
 - [REPORT: 1 in 4 people have fantasised about Alexa, Siri, and other AI assistants](http://www.businessinsider.com/jwt-speak-easy-study-people-fantasised-about-alexa-2017-4)
 - [Why People Treat Bots Like People](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8) (chatbotsmagazine.com)
+- [AI ‘victims’ of sexism answer back](https://www.raconteur.net/technology/ai-victims-of-sexism-answer-back) (raconteur.net)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
