@@ -3,6 +3,7 @@ Title: @thenewharperlee
 Description: Announcing Harper Lee's new novel: Go Overstand an Abbot.
 Thumbnail: /content/bots/twitterbots/images/thenewharperlee.png
 Link: http://twitter.com/thenewharperlee
+Source: https://github.com/hugovk/thenewharperlee
 Author: botsheeter.py
 Date: October 19, 2015
 Tags: twitter,bot,twitterbot,active,books,literature,wordnik,open source,opensource,python,hugovk

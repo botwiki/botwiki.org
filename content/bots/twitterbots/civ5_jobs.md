@@ -3,6 +3,7 @@ Title: @civ5_jobs
 Description: Timeless Tech Talent.
 Thumbnail: /content/bots/twitterbots/images/civ5_jobs.png
 Link: http://twitter.com/civ5_jobs
+Source: https://github.com/swizzard/civjobs
 Author: botsheeter.py
 Date: October 26, 2015
 Tags: twitter,bot,twitterbot,active,python,dumb,open source,opensource,python,swizzard

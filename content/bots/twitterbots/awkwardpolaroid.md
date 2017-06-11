@@ -3,6 +3,7 @@ Title: @awkwardpolaroid
 Description: Procedurally generated photos from that one party.
 Thumbnail: /content/bots/twitterbots/images/awkwardpolaroid.png
 Link: https://twitter.com/awkwardpolaroid
+Source: https://github.com/relsqui/awkward_polaroid
 Author: botsheeter.py
 Date: May 09, 2017
 Tags: twitter,twitterbot,bot,active,images,people,emotions,captions,open source,opensource,python,relsqui

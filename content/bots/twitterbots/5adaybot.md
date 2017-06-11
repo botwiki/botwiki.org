@@ -3,6 +3,7 @@ Title: @5adaybot
 Description: Stay healthy, eat your #5aday!
 Thumbnail: /content/bots/twitterbots/images/5adaybot.png
 Link: https://twitter.com/5adaybot
+Source: http://cheapbotsdonequick.com/source/5adaybot
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,emoji,food,open source,opensource,tracery,cheapbotsdonequick,derekahmedzai

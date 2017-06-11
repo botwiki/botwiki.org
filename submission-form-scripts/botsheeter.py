@@ -215,8 +215,10 @@ def format_md(bot):
 
     if bot['is_open_source']:
         open_source_text = 'n [open source](' + bot['source_url'] + ') '
+        open_source_url = 'Source: ' + bot['source_url'] + '\n'
     else:
         open_source_text = ' '
+        open_source_url = ''
 
     if 'creator_twitter_url' in bot:
         creator_text = ('[' + bot['creator'] + '](' +
@@ -230,6 +232,7 @@ def format_md(bot):
         'Description: ' + bot['short_description'] + '\n' +
         'Thumbnail: ' + bot_png_filename(bot) + '\n' +
         'Link: ' + bot['location'] + '\n' +
+        open_source_url +
         'Author: botsheeter.py' + '\n' +
         'Date: ' + date + '\n' +
         'Tags: ' + bot['tags'] + '\n' +

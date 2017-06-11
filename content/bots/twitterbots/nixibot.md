@@ -3,6 +3,7 @@ Title: @nixibot
 Description: Sourced from tweets of 'X ain't a word', 'X isn't a word' and 'X is not a word'.
 Thumbnail: /content/bots/twitterbots/images/nixibot.png
 Link: https://twitter.com/nixibot
+Source: https://github.com/hugovk/word-tools
 Author: botsheeter.py
 Date: June 11, 2016
 Tags: twitter,twitterbot,bot,active,language,words,english,rt bot,retweetbot,not a word,open source,opensource,python,hugovk

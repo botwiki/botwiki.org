@@ -3,6 +3,7 @@ Title: cardsync
 Description: 2-way Trello card mirroring.
 Thumbnail: /content/bots/trello-bots/images/cardsync.png
 Link: https://trello.com/cardsync
+Source: https://github.com/websitesfortrello/cardsync
 Author: botsheeter.py
 Date: November 06, 2015
 Tags: trello,bot,trellobot,active,useful,card,board,mirror,sync,replication,comments,checklists,attachments,due dates,open source,opensource,node,nodejs,node.js,fiatjaf

@@ -20,27 +20,28 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 #### node.js [¶](#mastodon-nodejs){.pilcrow} {#mastodon-nodejs}
 
-- [tracery-mastodon-bot](https://glitch.com/~tracery-mastodon-bot): generative Mastodon bot starter project using [Tracery](http://tracery.io/)
-- [jessicahayley/node-mastodon](https://github.com/jessicahayley/node-mastodon), a fork of the [twit](https://github.com/ttezel/twit) library for the [Mastodon](https://github.com/tootsuite/mastodon) API
+- [tracery-mastodon-bot](https://glitch.com/~tracery-mastodon-bot): generative Mastodon bot starter project using [Tracery](http://tracery.io/) (glitch.com)
+- [jessicahayley/node-mastodon](https://github.com/jessicahayley/node-mastodon), a fork of the [twit](https://github.com/ttezel/twit) library for the [Mastodon](https://github.com/tootsuite/mastodon) API (github.com)
+- [notoriousbot](https://glitch.com/edit/#!/notoriousbot): bot that posts to Twitter and Mastodon (glitch.com)
 
 #### Python [¶](#mastodon-python){.pilcrow} {#mastodon-python}
 
-- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API
-- [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster
+- [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API (github.com)
+- [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster (github.com)
 
 #### Ruby [¶](#mastodon-ruby){.pilcrow} {#mastodon-ruby}
 
-- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api): Ruby interface for the Mastodon API
+- [tootsuite/mastodon-api](https://github.com/tootsuite/mastodon-api): Ruby interface for the Mastodon API (github.com)
 
 #### Tools [¶](#tools){.pilcrow} {#tools}
 
-- [Register a Mastodon App](https://tinysubversions.com/notes/mastodon-bot/index.html)
+- [Register a Mastodon App](https://tinysubversions.com/notes/mastodon-bot/index.html) (tinysubversions.com)
 
 #### Open source bots [¶](#open-source-bots){.pilcrow} {#open-source-bots}
 
 ##### Python [¶](#open-source-python){.pilcrow} {#open-source-python}
 
-- [Icebox Breakfast Bot](https://github.com/aparrish/iceboxbreakfast): A [William Carlos Williams](https://en.wikipedia.org/wiki/William_Carlos_Williams)-parodizing Mastodon bot
+- [Icebox Breakfast Bot](https://github.com/aparrish/iceboxbreakfast): A [William Carlos Williams](https://en.wikipedia.org/wiki/William_Carlos_Williams)-parodizing Mastodon bot (github.com)
 
 
 

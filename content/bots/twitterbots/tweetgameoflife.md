@@ -3,6 +3,7 @@ Title: @tweetgameoflife
 Description: Tweet, and get procedurally generated art.
 Thumbnail: /content/bots/twitterbots/images/tweetgameoflife.png
 Link: https://twitter.com/tweetgameoflife
+Source: https://github.com/avyfain/conway
 Author: botsheeter.py
 Date: August 14, 2016
 Tags: twitter,twitterbot,bot,active,interactive,finiteautomata,gif,conway'sgameoflife,art,python,reply,autoreply,tweepy,open source,opensource,python,avyfain

@@ -3,6 +3,7 @@ Title: TWebCam
 Description: A bot for posting webcam (or any other) images to a Twitter feed at regular intervals.
 Thumbnail: /content/bots/twitterbots/images/twebcam.png
 Link: http://www.vool.ie/tweeting-webcams/
+Source: https://github.com/vool/TwebCam
 Author: Keith O'Faolain
 Date: April 09, 2016
 Tags: twitter,bot,twitterbot,active,opensource,open source,php,image,images,photo,webcam,iot,interactive

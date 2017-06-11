@@ -2,7 +2,7 @@
 Title: Public Lives/Private Platform: The Politics of Twitter
 Description: Computational Creativity is the art, science, philosophy and engineering of computational systems which, by taking on particular responsibilities, exhibit behaviours that unbiased observers would deem to be creative.
 Link: http://computationalcreativity.net/iccc2017/
-Date: May 23-24, 2017
+Date: May 23, 2017
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=1012-wx-amsterdam-netherlands&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,upcoming  
 */

@@ -3,6 +3,7 @@ Title: @cellendipity
 Description: Cells move about, have brief encounters, spawn more cells & die.
 Thumbnail: /content/bots/twitterbots/images/cellendipity.png
 Link: https://twitter.com/cellendipity
+Source: https://github.com/rik-brown/Cellendipity_EC2
 Author: botsheeter.py
 Date: September 24, 2016
 Tags: twitter,twitterbot,bot,active,creative coding,codeart,processing,procedural,generative,generative art,open source,opensource,node,nodejs,node.js,zoot_allures

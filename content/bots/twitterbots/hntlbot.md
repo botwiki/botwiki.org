@@ -3,6 +3,7 @@ Title: @hntlbot
 Description: Hacker News comments link bot.
 Thumbnail: /content/bots/twitterbots/images/hntlbot.png
 Link: https://twitter.com/hntlbot
+Source: https://github.com/dbish/hacker-news-tweet-linking-bot
 Author: botsheeter.py
 Date: January 5, 2016
 Tags: twitter,bot,twitterbot,active,open source,opensource,python,diamondbishop

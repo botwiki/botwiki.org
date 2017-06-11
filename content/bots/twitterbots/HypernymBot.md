@@ -3,6 +3,7 @@ Title: @HypernymBot
 Description: A bot that creates poems based on hypernyms.
 Thumbnail: /content/bots/twitterbots/images/HypernymBot.png
 Link: https://twitter.com/HypernymBot
+Source: https://github.com/Gangles/hypernym-bot
 Author: botsheeter.py
 Date: November 12, 2015
 Tags: twitter,bot,twitterbot,active,poetry,wordnik,open source,opensource,python,gangles

@@ -3,6 +3,7 @@ Title: @emoji_jury
 Description: Assuming you are an emoji, this is a jury of your peers!
 Thumbnail: /content/bots/twitterbots/images/emoji_jury.png
 Link: https://twitter.com/emoji_jury
+Source: https://github.com/jimkang/emoji-jury
 Author: botsheeter.py
 Date: February 28, 2016
 Tags: twitter,bot,twitterbot,active,interactive,monthlybotchallenge,emoji,open source,opensource,node.js,nodejs,node,deathmtn

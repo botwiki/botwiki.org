@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/ip2location.png
 Link: https://twitter.com/ip2location
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: twitter,twitterbot,bot,active,geolocation,ip2location,ip-address,open source,opensource
+Tags: twitter,twitterbot,bot,active,geolocation,ip2location,ip-address
 Nav: hidden
 Robots: index,follow
 */

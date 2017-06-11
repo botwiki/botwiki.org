@@ -3,6 +3,7 @@ Title: @invandringgarna
 Description: Provoking ignorant immigration tweeters.
 Thumbnail: /content/bots/twitterbots/images/invandringgarna.png
 Link: http://twitter.com/invandringgarna
+Source: https://github.com/ArVID220u/invandringsbot
 Author: botsheeter.py
 Date: October 17, 2015
 Tags: twitter,bot,twitterbot,python,political,cause,reply,open source,opensource,arvid220u

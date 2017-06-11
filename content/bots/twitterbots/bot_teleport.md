@@ -3,6 +3,7 @@ Title: @bot_teleport
 Description: I'm a text bot who teleports you to magical, inspiring places.
 Thumbnail: /content/bots/twitterbots/images/bot_teleport.png
 Link: http://twitter.com/bot_teleport
+Source: https://github.com/tinyworlds/bot_teleport
 Author: botsheeter.py
 Date: October 31, 2015
 Tags: bot,twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,open source,opensource,cheapbotsdonequick,tinyworlds

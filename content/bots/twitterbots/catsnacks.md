@@ -3,6 +3,7 @@ Title: @catsnacks
 Description: exploring the universe of adorable cat faces
 Thumbnail: /content/bots/twitterbots/images/catsnacks.png
 Link: http://twitter.com/catsnacks
+Source: https://github.com/beaugunderson/cat-snacks
 Author: botsheeter.py
 Date: February 03, 2016
 Tags: twitter,bot,twitterbot,active,cats,nodejs,node.js,javascript,canvas,collaborative,open source,opensource,beaugunderson

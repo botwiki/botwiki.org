@@ -3,6 +3,7 @@ Title: @greatartbot
 Description: Computer-generated art, updated four times a day.
 Thumbnail: /content/bots/twitterbots/images/greatartbot.png
 Link: http://twitter.com/greatartbot
+Source: https://github.com/prestia/greatartbot
 Author: botsheeter.py
 Date: October 19, 2015
 Tags: twitter,bot,twitterbot,active,art,images,open source,opensource,python,_arp

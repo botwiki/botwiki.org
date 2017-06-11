@@ -3,6 +3,7 @@ Title: @IsReallyCute
 Description: A cute and friendly bot to brighten your day.
 Thumbnail: /content/bots/twitterbots/images/IsReallyCute.png
 Link: http://www.twitter.com/IsReallyCute
+Source: https://github.com/rachelnicole/isReallyCute-bot
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,interactive,node,javascript,cute,kaomoji,open source,opensource,node.js,nodejs,ohhoe

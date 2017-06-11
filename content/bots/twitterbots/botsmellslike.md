@@ -3,6 +3,7 @@ Title: @botsmellslike
 Description: Smells Like Bot Spirit!
 Thumbnail: /content/bots/twitterbots/images/botsmellslike.png
 Link: https://twitter.com/botsmellslike
+Source: http://cheapbotsdonequick.com/source/botsmellslike
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,interactive,opensource,tracery,cheapbotsdonequick,music,lyrics,open source,tracery, javascript,filmplane

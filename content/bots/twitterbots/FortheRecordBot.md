@@ -3,6 +3,7 @@ Title: @FortheRecordBot
 Description: Twitter's tiny stenographer, preserving your comments #ForTheRecord.
 Thumbnail: /content/bots/twitterbots/images/FortheRecordBot.png
 Link: https://twitter.com/FortheRecordBot
+Source: https://github.com/ForTheRecordBot/ForTheRecordBot
 Author: botsheeter.py
 Date: February 09, 2016
 Tags: twitter,bot,twitterbot,active,quinnheraty,emckean,tinysubversions,open source,opensource

@@ -3,6 +3,7 @@ Title: @how2butt
 Description: Learning how to butt from wikiHow.
 Thumbnail: /content/bots/twitterbots/images/how2butt.png
 Link: https://twitter.com/how2butt
+Source: https://github.com/tpinecone/tweetbots
 Author: botsheeter.py
 Date: October 21, 2015
 Tags: twitter,bot,twitterbot,active,wikihow,butts,instructions,open source,opensource,ruby,spine_cone

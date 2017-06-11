@@ -24,6 +24,7 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [Botkit](http://howdy.ai/botkit/): "Building Blocks for Building Slack Bots" ([howdyai/botkit](https://github.com/howdyai/botkit))
   - [asopinka/botkit-interactive-storage](https://github.com/asopinka/botkit-interactive-storage): simple storage for your Botkit interactive callback messages
   - [gratifychat/botkit-mock](https://github.com/gratifychat/botkit-mock): write tests for Botkit
+- [Slack Onboarding Bot](https://glitch.com/edit/#!/slack-bot) (glitch.com)
 - [slackhq/node-slack-client](https://github.com/slackhq/node-slack-client): official Slack client for node.js
 - [slackhq/hubot-slack](https://github.com/slackhq/hubot-slack): a [Hubot](https://hubot.github.com/) adapter to use with Slack
 - [mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api): "node.js library for easy operation with Slack API"

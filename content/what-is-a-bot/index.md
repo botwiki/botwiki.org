@@ -1,12 +1,12 @@
 /*
 Title: What is a bot?
-Description: The Botmakers.org community ponders on what a bot is. 
+Description: The Botmakers community ponders on what a bot is. 
 Show donation link: yes
 Nav: hidden
 */
 
 
-I [asked](https://botwiki.org/survey/quick-bot-survey) the [Botmakers.org](https://botmakers.org/) community how they'd define the word bot. Here's what they had to say.
+I [asked](https://botwiki.org/survey/quick-bot-survey) the [Botmakers](https://botmakers.org/) community how they'd define the word bot. Here's what they had to say.
 
 
 

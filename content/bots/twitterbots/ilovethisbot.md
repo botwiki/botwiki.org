@@ -3,6 +3,7 @@ Title: @ilovethisbot
 Description: Parodies of I ❤ NY for cities around the world.
 Thumbnail: /content/bots/twitterbots/images/ilovethisbot.png
 Link: https://twitter.com/ilovethisbot
+Source: https://github.com/sammorrisdesign/i-heart-this-bot
 Author: botsheeter.py
 Date: September 17, 2016
 Tags: twitter,twitterbot,bot,active,design,emoji,t-shirts,holiday,new york,milton glaser,graphic design,open source,opensource,node,nodejs,node.js,sammorrisdesign

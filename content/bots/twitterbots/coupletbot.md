@@ -3,6 +3,7 @@ Title: @coupletbot
 Description: Generates heroic couplets
 Thumbnail: /content/bots/twitterbots/images/coupletbot.png
 Link: https://twitter.com/coupletbot
+Source: https://github.com/Transcriptase/sonnet
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,poetry couplets iambic rhyming neuralnetwork tensorflow,open source,opensource,python,transcriptase

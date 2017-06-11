@@ -3,6 +3,7 @@ Title: @fiwotd
 Description: A random Finnish word of the day
 Thumbnail: /content/bots/twitterbots/images/fiwotd.png
 Link: http://twitter.com/fiwotd
+Source: https://github.com/hugovk/wotdbot
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,bot,twitterbot,active,non-english,finnish,open source,opensource,python,hugovk

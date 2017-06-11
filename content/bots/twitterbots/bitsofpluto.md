@@ -3,6 +3,7 @@ Title: @bitsofpluto
 Description: Bits of Pluto.
 Thumbnail: /content/bots/twitterbots/images/bitsofpluto.png
 Link: https://twitter.com/bitsofpluto
+Source: https://github.com/hugovk/bitsofpluto
 Author: Stefan Bohacek
 Date: October 6, 2015
 Tags: twitter,bot,twitterbot,active,images,space,opensource,open source,python,hugovk,monthlybotchallenge,winner

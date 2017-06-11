@@ -3,6 +3,7 @@ Title: @botwikidotorg
 Description: The official Botwiki Twitter bot.
 Thumbnail: /content/bots/twitterbots/images/botwikidotorg.png
 Link: http://twitter.com/botwikidotorg
+Source: https://github.com/botwiki/community-retweet-bot
 Author: Stefan Bohacek
 Date: August 1, 2015
 Tags: twitter,bot,twitterbot,active,node,fourtonfish,opensource,open source,node.js,nodejs,node,retweet,white list

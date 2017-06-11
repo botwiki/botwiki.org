@@ -3,6 +3,7 @@ Title: @hashfacade
 Description: Word as color.
 Thumbnail: /content/bots/twitterbots/images/hashfacade.png
 Link: https://twitter.com/hashfacade
+Source: http://cheapbotsdonequick.com/source/hashfacade
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,images,svg,generated,tracery,cheapbotsdonequick,open source,opensource,lyyyndseyyy

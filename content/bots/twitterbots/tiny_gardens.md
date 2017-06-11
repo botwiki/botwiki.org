@@ -3,6 +3,7 @@ Title: @tiny_gardens
 Description: Tiny emoji gardens, a few times a day.
 Thumbnail: /content/bots/twitterbots/images/tiny_gardens.png
 Link: http://twitter.com/tiny_gardens
+Source: https://github.com/emmawinston/tiny_gardens
 Author: botsheeter.py
 Date: January 22, 2016
 Tags: twitter,bot,twitterbot,active,gardens,emoji,cheapbotsdonequick,plants,nature,flowers,open source,opensource,tracery,deer_ful

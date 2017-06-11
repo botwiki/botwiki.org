@@ -63,6 +63,7 @@ Can't wait to see you there!
 - [How to make a retweet-via-DM Twitter bot using Glitch and node.js](https://botwiki.org/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/)
 -->
 - [A quick template/mini-tutorial for making Twitter bots with Glitch](https://glitch.com/edit/#!/project/twitterbot) (glitch.com)
+  - See also: [twitterbot-autorespond](https://glitch.com/edit/#!/twitterbot-autorespond) and [random-image-twitterbot](https://glitch.com/edit/#!/random-image-twitterbot)
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Create a generative Twitter bot using Tracery](https://glitch.com/~tracery-twitter-bot) ([Byron Hulcher](http://twitter.com/hypirlink) via glitch.com)
@@ -84,6 +85,7 @@ Can't wait to see you there!
 - [Create a simple, free, text-driven Twitterbot with AWS Lambda & Node.js](https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5)
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
+- [How to build and deploy a multifunctional Twitter bot](https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092) (Scott Spence via medium.com)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot): a super simple tutorial with node.js source code
 
 #### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}

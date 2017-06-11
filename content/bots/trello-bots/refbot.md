@@ -3,6 +3,7 @@ Title: refbot
 Description: GitHub Issues-style backreferences.
 Thumbnail: /content/bots/trello-bots/images/refbot.png
 Link: https://trello.com/refbot
+Source: https://github.com/websitesfortrello/refbot
 Author: botsheeter.py
 Date: November 06, 2015
 Tags: trello,bot,trellobot,active,useful,comments,links,references,backreferences,open source,opensource,node,nodejs,node.js,fiatjaf

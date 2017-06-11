@@ -3,6 +3,7 @@ Title: @joculators
 Description: 3x daily cryptograms!
 Thumbnail: /content/bots/twitterbots/images/joculators.png
 Link: https://twitter.com/joculators
+Source: https://github.com/relsqui/joculators
 Author: botsheeter.py
 Date: May 09, 2017
 Tags: twitter,twitterbot,bot,active,interactive,puzzle,cryptogram,cipher,quote,quotes,wikiquote,open source,opensource,python, bash,relsqui

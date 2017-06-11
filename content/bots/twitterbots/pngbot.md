@@ -3,6 +3,7 @@ Title: @pngbot
 Description: A Twitter bot exploiting Twitter's PNG transparency quirks.
 Thumbnail: /content/bots/twitterbots/images/pngbot.png
 Link: http://twitter.com/pngbot
+Source: https://github.com/vgan/pngbot
 Author: Stefan Bohacek
 Date: September 18, 2015
 Tags: twitter,bot,twitterbot,active,images,png,opensource,open source,python,vgan

@@ -3,6 +3,7 @@ Title: @ShouldBot
 Description: Should you THIS or should you THAT?
 Thumbnail: /content/bots/twitterbots/images/ShouldBot.png
 Link: http://twitter.com/ShouldBot
+Source: https://github.com/20hz20khz/ShouldBot
 Author: Stefan Bohacek
 Date: September 12, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,php,20hz20khz

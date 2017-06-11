@@ -2,7 +2,7 @@
 Title: NaBoMaMo 2016
 Description: A month-long celebration of non-commercial botmaking.
 Link: https://tullyhansen.github.io/NaBoMaMo/
-Date: November 1-30, 2016
+Date: November 1, 2016
 Thumbnail: /content/events/images/nabomamo-2016.png
 Tags: event,archived
 */

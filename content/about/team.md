@@ -18,11 +18,12 @@ If you'd like to get in touch, feel free to email [Stefan and Veronica](mailto:s
 
 Hi!
 
-My name is Stefan [*stefn*] and I'm [@stefan](https://botmakers.slack.com/messages/@stefan/details/) on [Botmakers.org](https://botmakers.org/) and [@fourtonfish](https://twitter.com/fourtonfish) on Twitter. I am the original creator of Botwiki, a [Botmakers](https://botmakers.org/) admin, and I also wrote the first 32 issues of [Bot! zine](https://botzine.org/).
+My name is Stefan [*stefn*] and I'm [@stefan](https://botmakers.slack.com/messages/@stefan/details/) on [Botmakers](https://botmakers.org/) and [@fourtonfish](https://twitter.com/fourtonfish) on Twitter. I am the original creator of Botwiki, a [Botmakers](https://botmakers.org/) admin, and I also wrote the first 32 issues of [Bot! zine](https://botzine.org/).
 
 
 You can reach me at [stefan@botwiki.org](mailto:stefan@botwiki.org), or visit [fourtonfish.com](https://fourtonfish.com/) for more of my personal projects.
 
+PS: [Here are my bots](https://twitter.com/fourtonfish/lists/my-twitterbots/members) and [tutorials on Botwiki](/tag/fourtonfish+tutorial/).
 
 
 ### Veronica [¶](#veronica){.pilcrow} {#veronica}

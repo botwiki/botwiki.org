@@ -53,7 +53,7 @@ aside, nav, article, figure{
 article{
 /* overflow: auto; */
   h2{
-    padding-top: 1em;
+    padding-top: 1.5em;
   }
 }
 
@@ -92,6 +92,43 @@ button{
   width: auto;
   overflow: visible;
 }
+
+a.btn{
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding: 8px 10px;
+  color: @main-color !important;
+  border-radius: 5px;
+  background-color: #fafafa;
+  font-size: 0.9em;
+
+
+  &:hover{
+    color: @main-color;
+    text-decoration: none;
+    background-color: #fafafa - #111;
+  }
+
+  &,
+  &:hover{
+    transition: background-color 0.2s;
+    text-decoration: none;
+  }
+
+  &, &-link{
+    white-space: nowrap;
+    line-height: 3em;
+    margin-right: 0.5em;
+  }
+
+  &-link{
+    text-decoration: underline;
+  }
+
+
+}
+
+
+
 
 /* Sharper Thumbnails */
 img{
@@ -178,6 +215,21 @@ h1, h2, h3, h4, h5, h6{
   padding: 0.5rem;
   @media (min-width : @site-width-small){
     padding: 1rem 2rem;
+  }
+}
+
+div.opensource{
+  background-color: #f3f3f3;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  @media(max-width: @site-width-small){
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+  p{
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
   }
 }
 
@@ -452,10 +504,13 @@ img.main-banner{
 }
 
 div.all-tags{
-  text-align: justify;
+  line-height: 1.8em;
+  max-width: @max-content-width;  
+  margin: 0 auto;
+  padding: 1rem 2rem;
 
   a{
-    padding: 0 0.2em;
+    padding-right: 0.5em;
   }
 }
 
@@ -785,7 +840,7 @@ p.screenshot{
 }
 
 div#main p{
-  max-width: @max-content-width;  
+  max-width: @max-content-width;
 }
 
 p.screenshot{
@@ -931,8 +986,14 @@ p.search-instructions code{
 div.search-item{
   max-width: @max-content-width;
   margin: 0 auto;
-  border-top: 1px solid #eee;
+  border: 1px solid #eee;
   padding: 2em 0 1em;
+  box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+  margin-bottom: 2em;
+
+  .screenshot{
+    box-shadow: none;
+  }
 }
 
 .note{
@@ -954,6 +1015,7 @@ div.search-item{
 
 .note.donations{
   padding: 0;
+  margin: 3em auto;
 }
 
 div.donations-top-fix{
@@ -981,6 +1043,11 @@ div.meta{
     padding-top: 2em !important;
     padding-bottom: 2em;
     margin-top: 2em !important;
+    @media (min-width : @site-width-small){
+      margin-top: 4em !important;
+    }
+
+
     h4{
       font-size: 1.5em;
       @media (min-width : @site-width-small){
@@ -1031,10 +1098,12 @@ p.ssbg-attribution{
   }
   padding: .5rem 2rem 0 !important;
   margin-bottom: 0 !important;
+  @media(max-width: @site-width-medium){
+    padding: .5rem 10px 0 !important;
+  }
 }
 
-div.search-item p.meta,
-div.meta p.last-updated{
+div.search-item p.meta{
   font-style: italic;
 }
 
@@ -1293,13 +1362,33 @@ div.bottom-page-links{
       opacity: 0.95;
       font-size: 1.9em;
     }
-  }
-  a:hover{
-    opacity: 1;
-  }
-  a#back-to-top{
-    padding: 12px;
-    line-height: 1em;
+
+    &:hover{
+      opacity: 1;
+    }
+    &#back-to-top{
+      padding: 12px;
+      line-height: 1em;
+    }
+    &#twitter-link{
+      padding: 8px;
+      @media (min-width : @site-width-small){
+        width: auto;      
+      }
+      img{
+        width: 1em;
+      }
+      span{
+        font-size: .7em;
+        line-height: 1.7em;
+        vertical-align: inherit;
+        @media (max-width : @site-width-small){
+          display: none;
+        }
+      }
+    }
+
+
   }
 }
 

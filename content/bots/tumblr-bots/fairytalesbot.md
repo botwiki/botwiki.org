@@ -3,6 +3,7 @@ Title: fairytalesbot
 Description: NodeJS Fairy Tale Generator Tumblr-bot.
 Thumbnail: /content/bots/tumblr-bots/images/fairytalesbot.png
 Link: http://fairytalesbot.tumblr.com/
+Source: https://github.com/MichaelPaulukonis/malepropp/tree/tumblr
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: tumblr,tumblrbot,bot,active,interactive,fairytales,javascript,nodejs,narratology,vladimirpropp,nanogenmo,michaelpaulukonis,open source,opensource,nodejs,node.js,node,othermichael

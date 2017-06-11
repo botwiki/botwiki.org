@@ -13,15 +13,24 @@
 
     <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
     <p class="excerpt">{{ page.description }}</p>
+
+      <p>
+        <a class="btn" href="{{ page.url }}">Read more</a>
+      {% if page.source %}
+        <a class="btn" target="_blank" href="{{ page.source }}">View source</a>
+      {% endif %}
+      </p>
+
+
+
     {% if page.date %}
     <p class="meta">
       {% if 'event' in page.tags %}
         {{ page.date }}
-      {% else %}
-        Last updated on {{ page.date }}
       {% endif %}
 
 
+    <!--
     {% if page.translations|length > 0 %}
       {% if page.translations is iterable %}
         {% set page_languages = page.translations %}
@@ -40,8 +49,7 @@
           </a>
         {% endfor %}
     {% endif %}
-
-
+    -->
 
 
 
@@ -60,8 +68,5 @@
           {% endfor %}
         </p>
     {% endif %}
-
-
-
   </div>
 </div>

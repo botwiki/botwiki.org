@@ -25,6 +25,8 @@ Nav: hidden
 - [IBM Watson tutorials](#watson)
 - [Unsorted tutorials](#unsorted)
 
+
+**See also:** [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net, uses JavaScript and node.js)
@@ -37,6 +39,7 @@ Nav: hidden
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
+- [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
 
 #### See also
 
@@ -54,13 +57,6 @@ Nav: hidden
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372) (gizmodo.com)
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [What is Gender and Why Does it Matter to Emoji?](http://blog.emojipedia.org/what-is-gender-and-why-does-it-matter-to-emoji/) (emojipedia.org)
-
-### Glitch [¶](#glitch){.pilcrow} {#glitch}
-
-[Glitch](https://glitch.com) is a "community [and an online tool] that helps you build the app or bot of your dreams".
-
-- [Importing a node.js Twitter bot from GitHub to Glitch](/tutorials/importing-github-glitch)
-- [Importing a Python Slack bot from GitHub to Glitch](/tutorials/importing-github-glitch-slackbot-python)
 
 ### Botkit and Botkit Studio [¶](#botkit){.pilcrow} {#botkit}
 

@@ -3,6 +3,7 @@ Title: @BiffySays
 Description: A Biffy Clyro lyrics Twitter bot.
 Thumbnail: /content/bots/twitterbots/images/BiffySays.png
 Link: https://twitter.com/BiffySays
+Source: https://github.com/WhiteFangs/TwitterLyricsBot
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,lyrics,band,php,music,open source,opensource,php,white_fangs

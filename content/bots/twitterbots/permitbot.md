@@ -3,6 +3,7 @@ Title: @permitbot
 Description: Interesting findings from Chicago building permits.
 Thumbnail: /content/bots/twitterbots/images/permitbot.png
 Link: http://twitter.com/permitbot
+Source: https://github.com/chagan/permitbot
 Author: Stefan Bohacek
 Date: September 6, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,chrishagan

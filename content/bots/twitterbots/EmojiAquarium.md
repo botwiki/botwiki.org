@@ -3,6 +3,7 @@ Title: @EmojiAquarium
 Description: Tranquil random cute fishies.
 Thumbnail: /content/bots/twitterbots/images/EmojiAquarium.png
 Link: https://twitter.com/EmojiAquarium
+Source: https://github.com/joesondow/fishies
 Author: botsheeter.py
 Date: March 12, 2017
 Tags: twitter,twitterbot,bot,active,emoji,fish,water,nature,ocean,aquarium,art,open source,opensource,java,joesondow

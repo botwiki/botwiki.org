@@ -3,6 +3,7 @@ Title: @treesarerandom
 Description: Ever wanted your own tree?
 Thumbnail: /content/bots/twitterbots/images/treesarerandom.png
 Link: http://twitter.com/treesarerandom
+Source: https://github.com/Mobilpadde/RandomTreeTwitter
 Author: botsheeter.py
 Date: December 02, 2015
 Tags: twitter,bot,twitterbot,active,interactive,reply,images,open source,opensource,node,nodejs,node.js,mobilpadde

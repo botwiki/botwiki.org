@@ -3,6 +3,7 @@ Title: @bot_ideas
 Description: Emoji gardens & strange planets.
 Thumbnail: /content/bots/twitterbots/images/bot_ideas.png
 Link: https://twitter.com/bot_ideas
+Source: https://github.com/tinyworlds/bot_ideas
 Author: botsheeter.py
 Date: March 31, 2016
 Tags: twitter,twitterbot,bot,active,emoji,cheapbotsdonequick,space,inspiring,inspiration,tinyworlds,experimental,open source,opensource,tracery

@@ -3,6 +3,7 @@ Title: @dscovrnews
 Description: Yesterday on a blue marble suspended in a light beam.
 Thumbnail: /content/bots/twitterbots/images/dscovrnews.png
 Link: https://twitter.com/dscovrnews
+Source: https://github.com/StreetWanderer/yesterdayWorld
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: twitter,bot,twitterbot,tumblr,tumblrbot,active,monthlybotchallenge,space,images,gif,dscovr,epic,news,python,open source,opensource,python,streetwanderer

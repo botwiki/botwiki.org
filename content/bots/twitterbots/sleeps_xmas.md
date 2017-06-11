@@ -3,6 +3,7 @@ Title: @sleeps_xmas
 Description: How many sleeps until Christmas?
 Thumbnail: /content/bots/twitterbots/images/sleeps_xmas.png
 Link: https://twitter.com/sleeps_xmas
+Source: http://cheapbotsdonequick.com/source/sleeps_xmas
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,images,svg,christmas,holidays,calendar,momentjs,javascript,tracery,cheapbotsdonequick,open source,opensource,derekahmedzai

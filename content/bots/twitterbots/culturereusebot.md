@@ -3,6 +3,7 @@ Title: @culturereusebot
 Description: Mining old movies for #content.
 Thumbnail: /content/bots/twitterbots/images/culturereusebot.png
 Link: https://twitter.com/culturereusebot
+Source: https://github.com/inkleby/inklebyrobots
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,gif,python,film,film and tv,monthlybotchallenge,open source,opensource,python,alexparsons

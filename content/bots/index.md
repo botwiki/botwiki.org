@@ -35,9 +35,6 @@ So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-
 >
 > -- [A user experience tester](http://peek.usertesting.com/result/20922996954524)
 
-
-***Related:** [General essays on bots and botmaking](/articles/#general-essays)*
-
 In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
 
 
@@ -56,12 +53,14 @@ Bots can be funny, useful, artistic -- but also annoying and spammy. This site -
 Feel free to browse the bots below -- [by categories](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
 
-You are also welcome to join [botmakers.org](https://botmakers.org/), our friendly community of botmakers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
+You are also welcome to join [Botmakers](https://botmakers.org/), our friendly community of bot makers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
 
 
 Thanks for checking out **Botwiki**!
 
--- [Stefan](https://twitter.com/fourtonfish), the creator of **Botwiki.org**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
+
 
 **PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
 
@@ -90,6 +89,8 @@ Thanks for checking out **Botwiki**!
 - [YouTube bots](/bots/youtube-bots/)
 - [Reddit bots](/bots/redditbots/)
 - [Telegram bots](/bots/telegram-bots/)
+- [Actions on Goole](/bots/google/)
+- [Alexa Skills](/bots/alexa/)
 - [Snapchat bots](/tag/snapchatbot/)
 - [Kik bots](/tag/kikbot/)
 - [Trello bots](/bots/trello-bots/)
@@ -110,8 +111,9 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 - [BotPages](https://www.botpages.com/)
 - [Chatbots.org](https://www.chatbots.org/)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
+#### See also [¶](#see-also){.pilcrow} {#see-also}
 
+- [Essays on bots and botmaking](/articles/essays)
 
 
 <div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>

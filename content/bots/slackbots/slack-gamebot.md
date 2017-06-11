@@ -3,6 +3,7 @@ Title: slack-gamebot
 Description: A game bot for Slack, ping-pong, chess, and more.
 Thumbnail: /content/bots/slackbots/images/slack-gamebot.png
 Link: https://github.com/dblock/slack-gamebot
+Source: https://github.com/dblock/slack-gamebot
 Author: botsheeter.py
 Date: October 20, 2015
 Tags: slack,bot,slackbot,active,interactive,game,ping-pong,chess,open source,opensource,ruby,dblockdotorg

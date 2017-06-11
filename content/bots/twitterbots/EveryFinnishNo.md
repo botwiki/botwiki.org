@@ -3,6 +3,7 @@ Title: @EveryFinnishNo
 Description: A bot to tweet every Finnish number.
 Thumbnail: /content/bots/twitterbots/images/EveryFinnishNo.png
 Link: https://twitter.com/EveryFinnishNo
+Source: https://github.com/hugovk/everyfinnishno
 Author: Stefan Bohacek
 Date: September 21, 2015
 Tags: twitter,bot,twitterbot,active,opensource,open source,python,language,finnish,non-english,finland,everyword,numbers,hugovk

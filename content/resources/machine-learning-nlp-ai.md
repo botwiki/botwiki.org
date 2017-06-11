@@ -31,6 +31,8 @@ Nav: hidden
 ### General tools [¶](#general-tools){.pilcrow} {#general-tools}
 
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
+  - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
+- [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
 
 ### Frameworks and libraries [¶](#frameworks-and-libraries){.pilcrow} {#frameworks-and-libraries}
 
@@ -41,16 +43,17 @@ Nav: hidden
 - [TomaszRewak/ML-games](https://github.com/TomaszRewak/ML-games): Machine learning games. Use combination of genetic algorithms and neural networks to control the behaviour of in-game objects. ([demo](http://ml-games.tomasz-rewak.com/))
 
 
-#### Python [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}
-
-- [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
-
 
 #### TensorFlow [¶](#tensorflow){.pilcrow} {#tensorflow}
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
 - [tensorflow/models](https://github.com/tensorflow/models): models built with TensorFlow
-- [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition)
+- [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
+- [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition): end-to-end automatic speech recognition from scratch in Tensorflow
+- [vacancy/TensorArtist](https://github.com/vacancy/TensorArtist): collection of machine learning models
+
+**See also:** [tensortalk.com](https://tensortalk.com/)
+
 
 
 #### Other [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}

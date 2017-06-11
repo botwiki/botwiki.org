@@ -3,6 +3,7 @@ Title: @glossatory
 Description: An endless dictionary from a recurrent neural net
 Thumbnail: /content/bots/twitterbots/images/glossatory.png
 Link: https://twitter.com/glossatory
+Source: https://github.com/spikelynch/bots/tree/master/glossatory
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,poetry,neuralnet,python,lua,dictionary,nonsense,open source,opensource,python, using rnn code in lua,bombinans

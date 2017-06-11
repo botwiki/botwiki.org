@@ -24,11 +24,7 @@ You have quite a few options when it comes to hosting your bots!
   - [How to Deploy a Node.js App to DigitalOcean with a Free SSL Certificate (Video)](https://www.youtube.com/watch?v=kR06NoSzAXY&feature=youtu.be)
   - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron) (youtube.com)
 - [Glitch](https://glitch.com/): the easiest way to build the app or bot of your dreams
-  - [Handy bots](https://glitch.com/handy-bots): collection of starter bot projects
-    - [Glitch Twitter bot template](https://glitch.com/edit/#!/project/twitterbot)
-    - [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors)
-    - [Facebook Messenger Bot](https://glitch.com/~messenger-bot)
-  - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591)
+  - [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
 - [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting

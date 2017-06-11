@@ -3,6 +3,7 @@ Title: @BMovieGenerator
 Description: I walked with a B-movie title generator.
 Thumbnail: /content/bots/twitterbots/images/BMovieGenerator.png
 Link: https://twitter.com/BMovieGenerator
+Source: http://cheapbotsdonequick.com/source/BMovieGenerator
 Author: botsheeter.py
 Date: March 31, 2016
 Tags: twitter,twitterbot,bot,active,cheapbotsdonequick,b-movie,movies,film and tv,horror,monthlybotchallenge,winner,film,tracery,cosmophagy,open source,opensource

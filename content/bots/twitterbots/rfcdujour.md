@@ -3,6 +3,7 @@ Title: @rfcdujour
 Description: An RFC a day. 
 Thumbnail: /content/bots/twitterbots/images/rfcdujour.png
 Link: http://twitter.com/rfcdujour
+Source: https://github.com/exponential-decay/rfc-du-jour
 Author: botsheeter.py
 Date: December 21, 2015
 Tags: twitter,bot,twitterbot,active,internet,history,computing,rfc,ietf,open source,opensource,python,beet_keeper

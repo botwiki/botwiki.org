@@ -3,6 +3,7 @@ Title: @emocage
 Description: Nic Cage being silly
 Thumbnail: /content/bots/twitterbots/images/emocage.png
 Link: https://twitter.com/emocage
+Source: http://cheapbotsdonequick.com/source/emocage
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,images,silly,niccage,billmurray,stevenseagal,open source,opensource,tracery,cheapbotsdonequick,derekahmedzai

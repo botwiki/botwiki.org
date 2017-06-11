@@ -3,6 +3,7 @@ Title: /u/NobodyDoesThis
 Description: "Nope, it's just you."
 Thumbnail: /content/bots/redditbots/images/NobodyDoesThis.png
 Link: https://www.reddit.com/user/NobodyDoesThis
+Source: https://github.com/karan/NobodyDoesThis
 Author: Stefan Bohacek
 Date: September 23, 2015
 Tags: reddit,bot,redditbot,python,opensource,open source,karangoel

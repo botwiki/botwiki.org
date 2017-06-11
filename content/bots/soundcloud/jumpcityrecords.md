@@ -3,6 +3,7 @@ Title: jumpcityrecords
 Description: A generative noise label bot.
 Thumbnail: /content/bots/soundcloud/images/jumpcityrecords.png
 Link: https://github.com/luismqueral/jumpcityrecords
+Source: https://github.com/luismqueral/jumpcityrecords
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: bot,active,interactive,music,noise,generative,albums,sound,open source,opensource,python

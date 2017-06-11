@@ -3,6 +3,7 @@ Title: @FrontPageBot
 Description: A Twitter bot that posts front pages of newspapers.
 Thumbnail: /content/bots/twitterbots/images/FrontPageBot.png
 Link: http://twitter.com/FrontPageBot
+Source: https://github.com/jacobroufa/tfp-bot
 Author: Stefan Bohacek
 Date: July 27, 2015
 Tags: twitter,bot,twitterbot,active,images,news,opensource,open source,node,nodejs,node.js,jroufa

@@ -3,6 +3,7 @@ Title: @uudetsanat
 Description: Finnish words invented by machine learning.
 Thumbnail: /content/bots/twitterbots/images/uudetsanat.png
 Link: https://twitter.com/uudetsanat
+Source: https://github.com/hugovk/cheapbotsdonequick
 Author: botsheeter.py
 Date: March 12, 2017
 Tags: twitter,twitterbot,bot,active,finnish,non-english,language,neuralnet,neuralnetwork,rnn,machine learning,words,open source,opensource,tracery,hugovk

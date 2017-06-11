@@ -3,6 +3,7 @@ Title: @neuralgae
 Description: Automated deep drawings
 Thumbnail: /content/bots/twitterbots/images/neuralgae.png
 Link: https://twitter.com/neuralgae
+Source: https://github.com/spikelynch/neuralgae
 Author: botsheeter.py
 Date: June 05, 2016
 Tags: twitter,twitterbot,bot,active,deepdreams,image,poetry,surreal,neuralnet,open source,opensource,python,bombinans

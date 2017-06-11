@@ -3,6 +3,7 @@ Title: @happymoonbot
 Description: Respond to one of the tweets tagged #love.
 Thumbnail: /content/bots/twitterbots/images/happymoonbot.png
 Link: https://twitter.com/happymoonbot
+Source: http://cheapbotsdonequick.com/source/happymoonbot
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,happy,positive,encouragement,community,cheapbotsdonequick,tracery,love,open source,opensource,fourtonfish

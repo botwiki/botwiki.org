@@ -3,6 +3,7 @@ Title: @ceasedesistbot
 Description: Cease and Desist Bot does not approve of your use of common words and phrases.
 Thumbnail: /content/bots/twitterbots/images/ceasedesistbot.png
 Link: http://twitter.com/ceasedesistbot
+Source: https://github.com/tpinecone/tweetbots
 Author: botsheeter.py
 Date: October 21, 2015
 Tags: twitter,bot,twitterbot,active,trademark,copyright,open source,opensource,ruby,spine_cone

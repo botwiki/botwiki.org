@@ -3,6 +3,7 @@ Title: @letsplaysnake
 Description: Up, down, left, right!
 Thumbnail: /content/bots/twitterbots/images/letsplaysnake.png
 Link: http://twitter.com/letsplaysnake
+Source: https://github.com/yrochat/twitterplayssnake
 Author: botsheeter.py
 Date: January 22, 2016
 Tags: twitter,bot,twitterbot,active,interactive,game,emoji,open source,opensource,r,yrochat

@@ -3,6 +3,7 @@ Title: @everytwitpic
 Description: Cada palabra del diccionario español.
 Thumbnail: /content/bots/twitterbots/images/everytwitpic.png
 Link: https://twitter.com/everytwitpic
+Source: https://github.com/NiciusB/everytwitpic
 Author: botsheeter.py
 Date: November 21, 2015
 Tags: twitter,bot,twitterbot,active,everyword,non-english,spanish,autofollow,open source,opensource,php,niciusb

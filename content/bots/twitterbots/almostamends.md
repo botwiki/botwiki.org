@@ -3,6 +3,7 @@ Title: @almostamends
 Description: Tweeting the 11,000 attempted amends to the US Constitution.
 Thumbnail: /content/bots/twitterbots/images/almostamends.png
 Link: https://twitter.com/almostamends
+Source: https://github.com/inkleby/inklebyrobots/blob/master/robots/amendments.py
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,history political,open source,opensource,python,alexparsons

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/EmojiMoodBot.png
 Link: https://twitter.com/EmojiMoodBot
 Author: botsheeter.py
 Date: January 10, 2017
-Tags: twitter,twitterbot,bot,active,emotions,mood,emoji,robot,visage,open source,opensource,frespech
+Tags: twitter,twitterbot,bot,active,emotions,mood,emoji,robot,visage,frespech
 Nav: hidden
 Robots: index,follow
 */

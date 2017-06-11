@@ -3,6 +3,7 @@ Title: slack-tableflip
 Description: (╯°□°）╯︵ ┻━┻
 Thumbnail: /content/bots/slackbots/images/slack-tableflip.png
 Link: https://github.com/josheverett/slack-tableflip
+Source: https://github.com/josheverett/slack-tableflip
 Installed: yes
 Author: botsheeter.py
 Date: November 12, 2015
@@ -11,8 +12,6 @@ Nav: hidden
 Robots: index,follow
 */
 
-[slack-tableflip](https://github.com/josheverett/slack-tableflip) is an [open source](https://github.com/josheverett/slack-tableflip) Slack bot created by [Josh Everett](https://github.com/josheverett). 
+[slack-tableflip](https://github.com/josheverett/slack-tableflip) is an [open source](https://github.com/josheverett/slack-tableflip) Slack bot created by [Josh Everett](https://github.com/josheverett) that posts the table-flipping ASCII character, optionaly flipping text instead of tables.
 
-
-See screenshot above.
-
+> (╯°□°）╯︵ ┻━┻

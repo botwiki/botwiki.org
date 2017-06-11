@@ -3,6 +3,7 @@ Title: @ItIsYourData
 Description: A bot to raise awareness about data ownership.
 Thumbnail: /content/bots/twitterbots/images/ItIsYourData.png
 Link: https://twitter.com/ItIsYourData
+Source: http://cheapbotsdonequick.com/source/ItIsYourData
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,tracery,cheapbotsdonequick,monthlybotchallenge,winner,data,political,open source,opensource,tracery,white_fangs

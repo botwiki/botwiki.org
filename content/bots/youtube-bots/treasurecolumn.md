@@ -3,6 +3,7 @@ Title: Treasure Column
 Description: Preseting footage from unsecured network cameras as aesthetic, rather than intrusive.
 Thumbnail: /content/bots/youtube-bots/images/Treasure_Column.png
 Link: https://www.youtube.com/channel/UCKNW6jeGUfPUg_UsyAsTaPA
+Source: https://github.com/lysol/treasurecolumn
 Author: Stefan Bohacek
 Date: October 1, 2015
 Tags: youtube,bot,youtubebot,active,video,eerie,music,sound,webcam,opensource,open source,python,derekarnold

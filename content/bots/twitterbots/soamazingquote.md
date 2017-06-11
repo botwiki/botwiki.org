@@ -3,6 +3,7 @@ Title: @soamazingquote
 Description: Inspiring quotations, misattributed.
 Thumbnail: /content/bots/twitterbots/images/soamazingquote.png
 Link: https://twitter.com/soamazingquote
+Source: https://github.com/lizadaly/soamazingquote
 Author: botsheeter.py
 Date: February 18, 2016
 Tags: twitter,bot,twitterbot,active,lizadaly,quotes,pedantry,inspiring,open source,opensource,python,liza

@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/bayareabotarts.png
 Link: https://www.twitter.com/bayareabotarts
 Author: botsheeter.py
 Date: January 22, 2016
-Tags: twitter,bot,twitterbot,active,space,ifttt,nasa,images,open source,opensource,bitpixi
+Tags: twitter,bot,twitterbot,active,space,ifttt,nasa,images,bitpixi
 Nav: hidden
 Robots: index,follow
 */

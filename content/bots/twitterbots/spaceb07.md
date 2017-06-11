@@ -3,6 +3,7 @@ Title: @spaceb07
 Description: Images from astronauts curently in space and random space GIFs.
 Thumbnail: /content/bots/twitterbots/images/spaceb07.png
 Link: http://twitter.com/spaceb07
+Source: https://github.com/dnlcrl/spaceb07
 Author: botsheeter.py
 Date: November 22, 2015
 Tags: twitter,bot,twitterbot,active,space,images,gif,retweet,open source,opensource,python,dnlcrl

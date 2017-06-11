@@ -3,6 +3,7 @@ Title: @ImagesDArtBot
 Description: French museums Twitter bot
 Thumbnail: /content/bots/twitterbots/images/ImagesDArtBot.png
 Link: https://twitter.com/ImagesDArtBot
+Source: https://github.com/WhiteFangs/ImagesDArtBot
 Author: botsheeter.py
 Date: April 28, 2016
 Tags: twitter,twitterbot,bot,active,french,non-english,images,museum,art,opensource,white_fangs,open source,opensource,php,white_fangs

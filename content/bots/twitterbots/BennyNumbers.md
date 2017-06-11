@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/BennyNumbers.png
 Link: https://twitter.com/BennyNumbers
 Author: botsheeter.py
 Date: January 10, 2017
-Tags: twitter,twitterbot,bot,active,sports,basketball,ncaa,gambling,betting,toxic
+Tags: twitter,twitterbot,bot,active,sport,sports,basketball,ncaa,gambling,betting,toxic
 Nav: hidden
 Robots: index,follow
 */

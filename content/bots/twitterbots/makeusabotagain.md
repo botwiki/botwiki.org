@@ -3,6 +3,7 @@ Title: @makeusabotagain
 Description: Fictional US presidential candidates.
 Thumbnail: /content/bots/twitterbots/images/makeusabotagain.png
 Link: https://twitter.com/makeusabotagain
+Source: http://cheapbotsdonequick.com/source/MakeUSABotAgain
 Author: botsheeter.py
 Date: January 10, 2017
 Tags: twitter,twitterbot,bot,active,generated,images,svg,text,president,elections,politics,cheapbotsdonequick,tracery,open source,opensource,mewo2

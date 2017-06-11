@@ -3,6 +3,7 @@ Title: @particlemanbot
 Description: Thing Man, Thing Man, doing the things a thing can.
 Thumbnail: /content/bots/twitterbots/images/particlemanbot.png
 Link: http://www.twitter.com/particlemanbot
+Source: http://cheapbotsdonequick.com/source/particlemanbot
 Author: botsheeter.py
 Date: March 30, 2016
 Tags: twitter,twitterbot,bot,active,tracery,cheapbotsdonequick,music,tmbg,open source,opensource,tracery,twerribletweets

@@ -2,7 +2,7 @@
 Title: Algorithms, Automation and News Conference
 Description: Algorithms and automation increasingly are connected to many aspects of news production, distribution, and consumption.
 Link: http://www.algorithmic.news/
-Date: May 22-23, 2018
+Date: May 22, 2018
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=seestrasse-13-80802-Munich&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,upcoming
 */

@@ -2,7 +2,7 @@
 Title: NaNoGenMo 2016
 Description: Spend the month of November writing code that generates a novel of 50k+ words. 
 Link: https://github.com/NaNoGenMo/2016
-Date: November 1-30, 2016
+Date: November 1, 2016
 Tags: event,archived
 */
 
