@@ -34,7 +34,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
 - [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
 - [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) (glitch.com)
-- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com)
+- [A Twitter bot that uses the Twitter Webhooks API (beta)](https://glitch.com/edit/#!/twitterbot-webhooks) (glitch.com)
 - [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 - [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
 - [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
@@ -42,6 +42,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 - [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
 - [Alexa Airport Info Skill](https://glitch.com/edit/#!/alexa-skill) (glitch.com)
 
+<!--- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com) -->
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*twitter*](https://glitch.com/search?q=twitter) or [*slack*](https://glitch.com/search?q=slack).
 
