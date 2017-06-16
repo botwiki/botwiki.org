@@ -33,6 +33,8 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
 - [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
+- [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) (glitch.com)
+- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com)
 - [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 - [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
 - [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
