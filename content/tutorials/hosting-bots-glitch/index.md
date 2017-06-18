@@ -9,7 +9,7 @@ Tags: tutorial,guide,glitch,hyperdev,fourtonfish,botwiki-original
 */
 
 <div class="note" markdown="1">
-  Need more help? [Ask in the Botmakers community!](https://botmakers.org/)
+  Need more help? [Ask in the Botmakers community!](https://botmakers.org/) And [check out Botwiki on Glitch](https://glitch.com/botwiki) 🎏
 </div>
 
 
@@ -76,4 +76,3 @@ You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or
 - [Importing a Python Slack bot from GitHub to Glitch](/tutorials/importing-github-glitch-slackbot-python/)
 - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591) (Slack Developer Blog via medium.com)
 
-**PS: [Visit Botwiki on Glitch](https://glitch.com/botwiki).**
