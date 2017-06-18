@@ -34,6 +34,7 @@ Be sure to also check out [the **Tutorials** section](/tutorials) and [open sour
 - [GNU Social](/resources/gnu-social-bots)
 - [YouTube bots](/resources/youtube-bots)
 - [Reddit bots](/resources/redditbots)
+- [Twitch bots](/resources/twitch-bots)
 - [kik bots](/resources/kik-bots)
 - [IRC bots](/resources/irc-bots)
 

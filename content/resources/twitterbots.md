@@ -116,6 +116,7 @@ See also the [Language section](/resources/libraries-frameworks#language) of ***
 #### Unsorted [¶](#other-unsorted){.pilcrow} {#other-unsorted}
 
 - [cheapbotsdonequick.com](http://cheapbotsdonequick.com/): *"This site will help you make a Twitterbot!"* (see [examples](/tag/cheapbotsdonequick) of bots created with CBDQ)
+- [A big list of bot-making resources](https://medium.com/@NoraReed/a-big-list-of-bot-making-resources-b78c38d85ea1) (Nora Reed via medium.com)
 - [Tracery Writer](https://beaugunderson.com/tracery-writer/): a tool that lets you write bots for CBDQ
 - [Twitter key formatter](http://coleww.github.io/tweet-key-formatter/): a tool by [@colewillsea](https://twitter.com/colewillsea), see the [GitHub repo](https://github.com/coleww/tweet-key-formatter) for instructions
 - [I Will Dance The OAuth Dance For You](http://v21.io/iwilldancetheoauthdanceforyou/): a tool to help obtain oauth credentials for an account

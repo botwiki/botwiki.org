@@ -31,24 +31,49 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 
 ### Project templates [¶](#project-templates){.pilcrow} {#project-templates}
 
+
+#### Twitter bots [¶](#project-templates-twitter){.pilcrow} {#project-templates-twitter}
+
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
 - [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
 - [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) (glitch.com)
 - [A Twitter bot that uses the Twitter Webhooks API (beta)](https://glitch.com/edit/#!/twitterbot-webhooks) (glitch.com)
 - [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
-- [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
-- [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
-- [Actions on Google/Api.ai boilerplate project on Glitch](https://glitch.com/edit/#!/project/actions-on-google-api-ai-boilerplate) (glitch.com)
-- [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
-- [Alexa Airport Info Skill](https://glitch.com/edit/#!/alexa-skill) (glitch.com)
 
 <!--- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com) -->
 
-You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*twitter*](https://glitch.com/search?q=twitter) or [*slack*](https://glitch.com/search?q=slack).
+#### Slack bots [¶](#project-templates-slack){.pilcrow} {#project-templates-slack}
+
+- [Slack Blueprints](https://glitch.com/slack-blueprints): project blueprints to kickstart building integrations for Slack (glitch.com)
+- [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
+
+#### Facebook Messenger bots [¶](#project-templates-messenger){.pilcrow} {#project-templates-messenger}
+
+- [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
+
+#### Google Assistant/Home [¶](#project-templates-google){.pilcrow} {#project-templates-google}
+
+- [Actions on Google/Api.ai boilerplate project on Glitch](https://glitch.com/edit/#!/project/actions-on-google-api-ai-boilerplate) (glitch.com)
+- [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
+
+#### Amazon Alexa [¶](#project-templates-amazon){.pilcrow} {#project-templates-amazon}
+
+- [Alexa Airport Info Skill](https://glitch.com/edit/#!/alexa-skill) (glitch.com)
+
+
+#### Twitch [¶](#project-templates-twitch){.pilcrow} {#project-templates-twitch}
+
+- [Twitch Bot starter project on Glitch](https://glitch.com/edit/#!/twitch-bot) (glitch.com)
+
+
+You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).
 
 
 ### Guides and tutorials [¶](#guides-tutorials){.pilcrow} {#guides-tutorials}
 
+- [Glitch – Frequently Asked Questions](https://glitch.com/faq) (glitch.com)
 - [Importing a node.js bot from GitHub to Glitch](/tutorials/importing-github-glitch/)
 - [Importing a Python Slack bot from GitHub to Glitch](/tutorials/importing-github-glitch-slackbot-python/)
 - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591) (Slack Developer Blog via medium.com)
+
+**PS: [Visit Botwiki on Glitch](https://glitch.com/botwiki).**
