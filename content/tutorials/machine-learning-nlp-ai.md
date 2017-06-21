@@ -24,7 +24,6 @@ Nav: hidden
 - [With Julia](#with-julia)
 - [TensorFlow](#tensorflow)
 - [WaveNet](#wavenet)
-- [Demos and interesting projects](#demos-projects)
 
 See also [Machine learning and AI libraries and frameworks on the Resources page](/resources/libraries-frameworks#machine-learning-ai).
 
@@ -102,25 +101,6 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)
 - [basveeling/wavenet/](https://github.com/basveeling/wavenet/)
-
-### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
-
-- [A.I. Experiments](https://aiexperiments.withgoogle.com): Explore machine learning by playing with pictures, language, music, code, and more. (aiexperiments.withgoogle.com)
-- [AIY Projects](https://aiyprojects.withgoogle.com): Do-it-yourself artificial intelligence (aiyprojects.withgoogle.com)
-- [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
-- [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
-- [Pix2Pix image translation using conditional adversarial network - sketch to face](https://richliao.github.io/2017/02/17/pix2pix-image-translation-using-conditional-adversarial-network-sketch-to-face/) (richliao.github.io)
-- [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow)
-- [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
-- [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
-- [Comment.ai](http://comment.ai/): Make a comment, get a comment
-- [DeepWarp Demo Page](http://163.172.78.19/): a demo for [DeepWarp](http://sites.skoltech.ru/compvision/projects/deepwarp/): Photorealistic Image
-Resynthesis for Gaze Manipulation
-- [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
-- [ROBOVISION: Comparing image recognition APIs](http://imagery.parthenonsoftware.com/) (imagery.parthenonsoftware.com)
-  - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
-- [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
-- [Create with AI](http://createwith.ai/) (createwith.ai, Japanese)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

@@ -84,6 +84,7 @@ Nav: hidden
 - [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a) (Blaise Aguera y Arcas via medium.com)
 - [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183) (sciencemag.org)
 - ['A white mask worked better': why algorithms are not colour blind](https://www.theguardian.com/technology/2017/may/28/joy-buolamwini-when-algorithms-are-racist-facial-recognition-bias) (theguardian.com)
+- [The fight against racist algorithms](https://theoutline.com/post/1571/the-fight-against-racist-algorithms) (theoutline.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 

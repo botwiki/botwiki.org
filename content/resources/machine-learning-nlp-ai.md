@@ -20,6 +20,7 @@ Nav: hidden
 
 - [General tools](#general-tools)
 - [Frameworks and libraries](#frameworks-and-libraries)
+- [Demos and interesting projects](#demos-projects)
 - [See also](#see-also)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
@@ -72,6 +73,26 @@ See also the [general libraries and frameworks page](/resources/libraries-framew
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn): curated list of resources dedicated to recurrent neural networks
 
+
+### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
+
+- [A.I. Experiments](https://aiexperiments.withgoogle.com): Explore machine learning by playing with pictures, language, music, code, and more. (aiexperiments.withgoogle.com)
+- [AIY Projects](https://aiyprojects.withgoogle.com): Do-it-yourself artificial intelligence (aiyprojects.withgoogle.com)
+- [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
+- [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`
+- [Pix2Pix image translation using conditional adversarial network - sketch to face](https://richliao.github.io/2017/02/17/pix2pix-image-translation-using-conditional-adversarial-network-sketch-to-face/) (richliao.github.io)
+- [fotogenerator ](http://fotogenerator.npocloud.nl/) (fotogenerator.npocloud.nl)
+- [Image Completion with Deep Learning in TensorFlow](https://github.com/bamos/dcgan-completion.tensorflow)
+- [Explainable AI in Frogger](https://www.youtube.com/watch?v=vXcuLEBwXsQ) (youtube.com)
+- [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/)
+- [Comment.ai](http://comment.ai/): Make a comment, get a comment
+- [DeepWarp Demo Page](http://163.172.78.19/): a demo for [DeepWarp](http://sites.skoltech.ru/compvision/projects/deepwarp/): Photorealistic Image
+Resynthesis for Gaze Manipulation
+- [Quora: "What are some recent interesting projects in natural language generation?"](https://www.quora.com/What-are-some-recent-interesting-projects-in-natural-language-generation) (quora.com)
+- [ROBOVISION: Comparing image recognition APIs](http://imagery.parthenonsoftware.com/) (imagery.parthenonsoftware.com)
+  - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
+- [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
+- [Create with AI](http://createwith.ai/) (createwith.ai, Japanese)
 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
