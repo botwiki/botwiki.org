@@ -4,7 +4,7 @@ Description: Computational creativity intersects social justice in three major w
 Link: https://cs.uwaterloo.ca/conferences/ccsjw2017/
 Date: June 20th, 2017
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=atlanta+georgia&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,upcoming  
+Tags: event,archived  
 */
 
 
