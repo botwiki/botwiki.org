@@ -25,13 +25,12 @@ In March 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botma
 
 For more of Botwiki Foundation's projects and initiatives, check out the [Projects](/projects) page.
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Find any bot ever with this awesome online encyclopedia: <a href="https://t.co/Jsff2ApJWl">https://t.co/Jsff2ApJWl</a> | <a href="https://twitter.com/Woods_TylerWL">@Woods_TylerWL</a> <a href="https://twitter.com/TechnicallyBK">@TechnicallyBK</a> <a href="https://twitter.com/hashtag/BotWiki?src=hash">#BotWiki</a></p>&mdash; Microsoft New York (@MicrosoftNY) <a href="https://twitter.com/MicrosoftNY/status/705839362248982529">March 4, 2016</a></blockquote>
 
 
 All of our work is [open](https://github.com/botwiki/), and everyone is invited to contribute. Feel free to [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi [via email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)!
 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Find any bot ever with this awesome online encyclopedia: <a href="https://t.co/Jsff2ApJWl">https://t.co/Jsff2ApJWl</a> | <a href="https://twitter.com/Woods_TylerWL">@Woods_TylerWL</a> <a href="https://twitter.com/TechnicallyBK">@TechnicallyBK</a> <a href="https://twitter.com/hashtag/BotWiki?src=hash">#BotWiki</a></p>&mdash; Microsoft New York (@MicrosoftNY) <a href="https://twitter.com/MicrosoftNY/status/705839362248982529">March 4, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
 
 
 ### Timeline [¶](#timeline){.pilcrow} {#timeline}
