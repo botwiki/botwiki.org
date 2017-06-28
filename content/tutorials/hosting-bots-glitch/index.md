@@ -35,12 +35,13 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 #### Twitter bots [¶](#project-templates-twitter){.pilcrow} {#project-templates-twitter}
 
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
-- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
 - [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) (glitch.com)
+- [A Twitter bot that generates random images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com)
+- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
+- [A Twitter bot that responds to something its followers said](https://glitch.com/edit/#!/twitterbot-follower-autoreply) (glitch.com)
 - [A Twitter bot that uses the Twitter Webhooks API (beta)](https://glitch.com/edit/#!/twitterbot-webhooks) (glitch.com)
 - [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 
-<!--- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com) -->
 
 #### Slack bots [¶](#project-templates-slack){.pilcrow} {#project-templates-slack}
 

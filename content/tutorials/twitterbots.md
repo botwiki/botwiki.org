@@ -63,7 +63,7 @@ Can't wait to see you there!
 - [How to make a retweet-via-DM Twitter bot using Glitch and node.js](https://botwiki.org/tutorials/how-to-make-a-twitter-bot-dm-retweet-glitch/)
 -->
 - [A quick template/mini-tutorial for making Twitter bots with Glitch](https://glitch.com/edit/#!/project/twitterbot) (glitch.com)
-  - See also: [twitterbot-autorespond](https://glitch.com/edit/#!/twitterbot-autorespond) and [random-image-twitterbot](https://glitch.com/edit/#!/random-image-twitterbot)
+  - See [Botwiki on Glitch](https://glitch.com/botwiki) for more bot template projects
 - A [six-part video tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) by [Daniel Shiffman](https://twitter.com/shiffman) with node.js and [Processing](http://learningprocessing.com/)
  - See also [Daniel's notes](http://shiffman.net/a2z/twitter-bots/) and a [small wiki](https://github.com/shiffman/A2Z-F15/wiki/Twitter-Bots)
 - [Create a generative Twitter bot using Tracery](https://glitch.com/~tracery-twitter-bot) ([Byron Hulcher](http://twitter.com/hypirlink) via glitch.com)
