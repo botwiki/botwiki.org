@@ -26,7 +26,6 @@ Nav: hidden
 - [The World Bank](http://data.worldbank.org/)
 - [Academic Torrents](http://academictorrents.com/browse.php?cat=6): datasets from scientific papers
 - [Common Crawl](http://commoncrawl.org/): an open repository of web crawl data
-- [Enigma](http://enigma.io/): "Explore the world's public data"
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Pew Research Center Datasets](http://www.pewinternet.org/datasets/)
@@ -39,7 +38,7 @@ Nav: hidden
 - [A Large Self-Annotated Corpus for Sarcasm](http://nlp.cs.princeton.edu/SARC/)
   - [related paper on arxiv.org](https://arxiv.org/abs/1704.05579)
 - [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots): a  dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor
-- [Enigma Public](https://public.enigma.com/): Broad collection of public data (public.enigma.com)
+- [Enigma Public](https://public.enigma.com/): Broad collection of public data; requires free account (public.enigma.com)
 
 You can also retrieve various data [via web APIs](/resources/apis/).
 
