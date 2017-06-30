@@ -50,6 +50,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 
 #### Facebook Messenger bots [¶](#project-templates-messenger){.pilcrow} {#project-templates-messenger}
 
+- [Botkit Starter Kit for Facebook Bots](https://glitch.com/edit/#!/botkit-facebook) (glitch.com)
 - [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
 
 #### Google Assistant/Home [¶](#project-templates-google){.pilcrow} {#project-templates-google}
@@ -65,6 +66,10 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 #### Twitch [¶](#project-templates-twitch){.pilcrow} {#project-templates-twitch}
 
 - [Twitch Bot starter project on Glitch](https://glitch.com/edit/#!/twitch-bot) (glitch.com)
+
+#### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
+
+- [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) (glitch.com)
 
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).

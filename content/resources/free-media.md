@@ -38,6 +38,9 @@ Nav: hidden
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car): image frames from car-mounted cameras, and information about latitude, longitude, gear, brake, throttle, steering angles and speed
 - [The Behance Artistic Media Dataset](https://bam-dataset.org/): Automatically-labeled binary attribute scores for over 2.5 million images across 20 attributes each, and more (bam-dataset.org)
 - [David Rumsey Historical Map Collection](http://www.davidrumsey.com/luna/servlet/RUMSEY~8~1): over 67,000 images of 16th through 21st century maps of America, North America, South America, Europe, Asia, Africa, Pacific and the World (davidrumsey.com)
+- [ECUSTFD](https://github.com/Liang-yc/ECUSTFD-resized-): a food image dataset (2900+ images) for evaluating computer vision-based methods (github.com)
+  - [Computer vision-based food calorie estimation: dataset, method, and experiment](https://arxiv.org/abs/1705.07632v3) (arxiv.org)
+- [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/): a 37 category pet dataset with roughly 200 images for each class (robots.ox.ac.uk)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 These are not always downloadable, but you can at least freely link to them.
@@ -50,6 +53,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [mazwai.com](http://mazwai.com/#/videos): a small collection of stock videos
 - [coverr.co](http://www.coverr.co/): more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/): archive of wildlife sounds and videos
+- [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions (deepmind.com)
 
 ### Free audio [¶](#free-audio){.pilcrow} {#free-audio}
 

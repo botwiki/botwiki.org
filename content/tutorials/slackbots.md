@@ -87,6 +87,7 @@ See also:
 - [How to make a Slack bot speak Kubernetes](https://medium.com/@janetkuo/how-to-make-a-slack-bot-speak-kubernetes-e7929f51c741)
 - [Slack meet Hue](https://joffcom.net/slack-meet-hue/) (joffcom.net)
 - [Build a hybrid human + AI messaging experience on Slack](https://medium.com/slack-developer-blog/build-a-hybrid-human-ai-messaging-experience-on-slack-dd670a5f0d0f) (Slack Platform Blog via medium.com)
+- [Building a sentiment analysis bot with IBM Watson and Raspberry Pi](https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803) (Tomomi Imura via medium.com)
 
 For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorials).
 
@@ -97,6 +98,8 @@ For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorial
 - [3 Things We Learned Building a Chatbot for Slack](https://medium.com/@kipsearch/3-things-we-learned-building-a-chatbot-for-slack-2dc32321d77c): via [@kipsearch](https://twitter.com/kipsearch)
 - [How We Use Bots in Slack at SparkPost](https://www.sparkpost.com/blog/using-slack-bots-sparkpost/)
 - [Running Slack Bots on DigitalOcean with Dokku](http://code.dblock.org/2016/02/08/running-slack-bots-on-digital-ocean-with-dokku.html)
+- [The building blocks of a great Slack app](https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44) (The Slack Developer Blog via medium.com)
+
 
 ### Non-English tutorials [¶](#non-english-tutorials){.pilcrow} {#non-english-tutorials}
 

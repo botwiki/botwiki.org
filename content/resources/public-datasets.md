@@ -69,7 +69,8 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 - [bot-ai/bot-lang](https://github.com/bot-ai/bot-lang): a collection of common keywords or commands a user might use while interacting with a bot
   - forked from [howdyai/bot-common-keywords](https://github.com/howdyai/bot-common-keywords)
-
+- [A Large Self-Annotated Corpus for Sarcasm](http://nlp.cs.princeton.edu/SARC/) (nlp.cs.princeton.edu)
+  - [Related paper](https://arxiv.org/pdf/1704.05579.pdf) (PDF, arxiv.org)
 
 ### Geographical/location data, space [¶](#datasets-geo-space){.pilcrow} {#datasets-geo-space}
 - [Climate datasets](https://github.com/climate-mirror/datasets)

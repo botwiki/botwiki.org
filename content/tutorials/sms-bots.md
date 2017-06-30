@@ -33,7 +33,7 @@ Show donation link: yes
 - [Recieve an SMS with Node](https://glitch.com/edit/#!/sms-to-webpage)
 - [Playing a Twitter adventure game using SMS and Twilio on Glitch](https://www.twilio.com/blog/2017/04/playing-a-twitter-adventure-game-using-sms-and-twilio-on-glitch.html) (twilio.com)
 - [How to Receive an SMS in Node.js with Twilio and HyperDev (Glitch)](https://www.twilio.com/blog/2016/08/how-to-receive-an-sms-in-node-js-with-twilio-and-hyperdev.html)
-
+- [Botkit and Twilio Programmable SMS](https://github.com/howdyai/botkit/blob/master/docs/readme-twiliosms.md) (github.com)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 

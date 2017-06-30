@@ -44,6 +44,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 ### Machine learning [¶](#machine-learning){.pilcrow} {#machine-learning}
 
+- [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
@@ -70,6 +71,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Deep Learning in Minutes with this Pre-configured Python VM Image](http://www.kdnuggets.com/2017/05/deep-learning-pre-configured-python-vm-image.html) (kdnuggets.com)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
 - [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) (Thomas Johnson via github.com)
+- [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837) (Rasmus Rothe via medium.com)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
@@ -96,6 +98,11 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) (svds.com)
 - [Recurrent Neural Networks - A Short TensorFlow Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial) (Silicon Valley Data Science via github.com)
 - [Build a TensorFlow Image Classifier in 5 Min](https://www.youtube.com/watch?v=QfNvhPx5Px8) (Siraj Raval via youtube.com)
+- [Contextual Chatbots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077) (chatbotsmagazine.com)
+
+#### See also
+
+- [TensorFlow World](https://github.com/astorfi/TensorFlow-World): Simple and ready-to-use tutorials for TensorFlow (github.com)
 
 ### [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) [¶](#wavenet){.pilcrow} {#wavenet}
 

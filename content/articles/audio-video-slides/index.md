@@ -27,6 +27,9 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 - [A Brief History of Our Robotic Future](https://www.youtube.com/watch?v=nlrr5b1XWoY) (Wired via youtube.com)
 - [The Next Frontier - Mustafa Suleyman](https://www.youtube.com/watch?v=UjKEYss966E): climate change, social change, and AI
 - [Automating Creativity - How Artificial Intelligence changes Creative Processes](https://www.youtube.com/watch?v=MBujX26n5gw) (youtube.com)
+- [Kate Crawford: DARK DAYS: AI and the Rise of Fascism - SXSW 2017](https://www.youtube.com/watch?v=Dlr4O1aEJvI&t=824s) (youtube.com)
+- [Mark Riedl - Human-Centered Artificial Intelligence](http://www.cc.gatech.edu/~riedl/talks/yconf.pdf) (PDF, cc.gatech.edu)
+- [Five robots that are changing everything](http://www.bbc.com/news/av/technology-40306617/five-robots-that-are-changing-everything) (video, bbc.com) 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

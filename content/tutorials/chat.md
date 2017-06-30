@@ -17,6 +17,7 @@ Nav: hidden
 
 A great resource for making online chatbots is [Chatbots Magazine](https://chatbotsmagazine.com/). Some of their articles include:
 
+- [shiffman/ChatBot-Workshop](https://github.com/shiffman/ChatBot-Workshop): resources, code for ITP Camp Workshop (github.com)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
 - [It’s not about bots](https://chatbotsmagazine.com/its-not-about-bots-146a90f3360b)
 - [Content Mapping for Chatbots](https://chatbotsmagazine.com/content-mapping-for-chatbots-cdb55dc51aa6)
@@ -59,7 +60,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [What we can learn from Alexa’s mistakes](https://uxdesign.cc/what-we-can-learn-from-alexas-mistakes-a4670a9e6c3e) (uxdesign.cc)
 - [We need to talk about Accessibility on Chatbots](https://uxdesign.cc/we-need-to-talk-about-accessibility-on-chatbots-98cf93c54963) (uxdesign.cc)
 - [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
-
+- [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a) (studio.carnegiemuseums.org)
 
 #### See also
 

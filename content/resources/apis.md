@@ -50,6 +50,10 @@ Nav: hidden
 - [Wunderground](https://www.wunderground.com/weather/api/): API for weather forecasts 
 - [Forecast.io API](https://developer.forecast.io/): weather API used by [The Dark Sky](http://darkskyapp.com/) app and [Forecast.io](https://forecast.io/)
 
+### Politics and law [¶](#politics-law){.pilcrow} {#politics-law}
+
+- [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) (projects.propublica.org)
+
 
 ### Other [¶](#other){.pilcrow} {#other}
 - [Twitter](https://dev.twitter.com/streaming/overview), see also [Tutorials for Twitter Bots](/tutorials/twitterbots/)

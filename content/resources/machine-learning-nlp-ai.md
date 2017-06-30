@@ -52,6 +52,8 @@ Nav: hidden
 - [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
 - [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition): end-to-end automatic speech recognition from scratch in Tensorflow
 - [vacancy/TensorArtist](https://github.com/vacancy/TensorArtist): collection of machine learning models
+- [ArunMichaelDsouza/tensorflow-image-detection](https://github.com/ArunMichaelDsouza/tensorflow-image-detection): a generic image detection program that uses Google's Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception (github.com)
+- [oarriaga/face_classification](https://github.com/oarriaga/face_classification): real-time face detection and emotion classification (github.com)
 
 **See also:** [tensortalk.com](https://tensortalk.com/)
 
@@ -93,7 +95,7 @@ Resynthesis for Gaze Manipulation
   - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
 - [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
 - [Create with AI](http://createwith.ai/) (createwith.ai, Japanese)
-
+- [junyanz/CatPapers](https://github.com/junyanz/CatPapers): Cool vision, learning and graphics papers on Cats! (github.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

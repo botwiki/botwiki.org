@@ -86,6 +86,7 @@ Can't wait to see you there!
 - [How to make simple bots with the twitter stream API](http://thealphanerd.io/blog/what-exactly-is-talkpaybot-how-to-make-simple-bots-with-the-twitter-stream-api/) (with node.js and [ttezel/twit](https://github.com/ttezel/twit), covers processing of Direct Messages on Twitter)
 - [Making a RapBot with JavaScript](https://bocoup.com/weblog/making-a-rapbot/)
 - [How to build and deploy a multifunctional Twitter bot](https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092) (Scott Spence via medium.com)
+- [twitterdev/twitter-webhook-boilerplate-node](https://github.com/twitterdev/twitter-webhook-boilerplate-node): node.js app using Express 4 for Twitter DMs and webhooks (github.com)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot): a super simple tutorial with node.js source code
 
 #### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}
@@ -122,7 +123,10 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b)
 
-See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
+##### See also
+
+- [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
+- [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
 
 #### SSBot (Google Spreadsheets) [¶](#ssbot){.pilcrow} {#ssbot}
 
@@ -165,6 +169,8 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [Alt text support for Twitter Cards and the REST API](https://blog.twitter.com/2016/alt-text-support-for-twitter-cards-and-the-rest-api)
 - [Twitter's missing manual](https://eev.ee/blog/2016/02/20/twitters-missing-manual/)
 - [Twitter API Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-api-platform-roadmap)
+- [Tweet Metadata Timeline](http://support.gnip.com/articles/tweet-timeline.html) (support.gnip.com)
+- [More updates to our Direct Message APIs to help you build better bots](https://blog.twitter.com/developer/en_us/topics/tools/2017/More-updates-to-our-Direct-Message-APIs-to-help-you-build-better-bots.html) (blog.twitter.com)
 
 See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitter API.
 

@@ -85,6 +85,10 @@ Nav: hidden
 - [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183) (sciencemag.org)
 - ['A white mask worked better': why algorithms are not colour blind](https://www.theguardian.com/technology/2017/may/28/joy-buolamwini-when-algorithms-are-racist-facial-recognition-bias) (theguardian.com)
 - [The fight against racist algorithms](https://theoutline.com/post/1571/the-fight-against-racist-algorithms) (theoutline.com)
+- [To err is algorithm: Algorithmic fallibility and economic organisation](https://medium.com/towards-data-science/to-err-is-algorithm-algorithmic-fallibility-and-economic-organisation-dbe18bb32abc) (Juan Mateos-Garcia via medium.com)
+- [The Algorithmic Justice League](https://medium.com/mit-media-lab/the-algorithmic-justice-league-3cc4131c5148) (Joy Buolamwini via medium.com)
+- [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/) (technologyreview.com)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
@@ -111,7 +115,7 @@ Nav: hidden
 - [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/) (techcrunch.com)
 - [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
 - [Artificial Intelligence Owes You an Explanation](http://www.slate.com/articles/technology/future_tense/2017/05/why_artificial_intelligences_should_have_to_explain_their_actions.html) (slate.com)
-
+- [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
@@ -129,6 +133,8 @@ Nav: hidden
 - [REPORT: 1 in 4 people have fantasised about Alexa, Siri, and other AI assistants](http://www.businessinsider.com/jwt-speak-easy-study-people-fantasised-about-alexa-2017-4)
 - [Why People Treat Bots Like People](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8) (chatbotsmagazine.com)
 - [AI ‘victims’ of sexism answer back](https://www.raconteur.net/technology/ai-victims-of-sexism-answer-back) (raconteur.net)
+- [Tech Etiquette: The Real Reason You Need to be Polite to Alexa](https://medium.com/@rafe/tech-etiquette-the-real-reason-you-need-to-be-polite-to-alexa-6a76f97d0803) (Rafe Needleman via medium.com)
+- [Robot Tries to Escape from Children's Abuse](https://www.youtube.com/watch?v=CuJT9EtdETY) (youtube.com)
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
