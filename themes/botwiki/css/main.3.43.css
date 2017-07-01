@@ -1508,7 +1508,7 @@ html {
   }
 }
 /*
-  TODO: This is a slightly modified default Pico theme, needs to be heavily re-organized and rewritten.
+  TODO: This is a modified default Pico theme, needs to be heavily re-organized and rewritten.
 */
 /*=================================*/
 /* Pico Default Theme
@@ -2474,7 +2474,10 @@ div.search-item .screenshot {
 }
 .note.donations {
   padding: 0;
-  margin: 3em auto;
+  margin: 0 auto;
+}
+.note.donations p {
+  margin: 0 auto !important;
 }
 @media (min-width: 860px) {
   div.donations-top-fix {
@@ -2483,9 +2486,6 @@ div.search-item .screenshot {
   div.donations-top-fix .note.donations {
     margin-top: auto;
   }
-}
-body.front-page .note.donations {
-  margin: 3em 0;
 }
 span.normal-text {
   font-style: normal;
