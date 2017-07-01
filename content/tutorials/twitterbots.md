@@ -123,10 +123,16 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b)
 
-##### See also
+
+##### Tools and other resources [¶](#cbdq-tools){.pilcrow} {#cbdq-tools}
+
+- [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
+
+
+##### See also [¶](#cbdq-more){.pilcrow} {#cbdq-more}
 
 - [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
-- [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
+- [Open source bots made with CBDQ](/tag/bot+opensource+cheapbotsdonequick)
 
 #### SSBot (Google Spreadsheets) [¶](#ssbot){.pilcrow} {#ssbot}
 

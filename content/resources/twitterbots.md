@@ -58,7 +58,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 #### Java [¶](#twitterbot-frameworks-java){.pilcrow} {#twitterbot-frameworks-java}
 
 - [joesondow/markov](https://github.com/joesondow/markov): a template for [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) Twitter bots
-- [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base: template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
+- [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base): template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
 
 #### Other languages [¶](#twitterbot-frameworks-other){.pilcrow} {#twitterbot-frameworks-other}
 
