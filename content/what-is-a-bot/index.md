@@ -1,6 +1,7 @@
 /*
 Title: What is a bot?
 Description: The Botmakers community ponders on what a bot is. 
+Thumbnail: /content/what-is-a-bot/images/bot-likes-pizza.png
 Show donation link: yes
 Nav: hidden
 */

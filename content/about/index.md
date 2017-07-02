@@ -39,6 +39,7 @@ Below is a timeline of major events in the history of the Botwiki project.
 
 #### 2017 [¶](#2017){.pilcrow} {#2017}
 
+- **June 16:** Botwiki got an [official page on Glitch](https://glitch.com/botwiki).
 - **March:** Botwiki had more than 20,000 unique visitors.
 
 #### 2016 [¶](#2016){.pilcrow} {#2016}
