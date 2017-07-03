@@ -34,7 +34,7 @@ Nav: hidden
 
 ### Misbehaving bots [¶](#misbehaving-bots){.pilcrow} {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
-- [Bots Should Punch Up](bots-should-punch-up) (crummy.com)
+- [Bots Should Punch Up](/articles/bots-should-punch-up) (crummy.com)
 - [Basic Twitter bot etiquette](/articles/basic-twitter-bot-etiquette-tiny-subversions): applies to *all* bots (Darius Kazemi)
 - [Bots Need to Learn Some Manners, and It’s on Us to Teach Them](http://www.wired.com/2016/04/bots-emergent-behavior-deception/) (wired.com)
 - [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot) (motherboard.vice.com)
