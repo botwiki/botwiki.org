@@ -2347,8 +2347,8 @@ p.screenshot img,
 a.screenshot img,
 img.screenshot,
 img.photo {
-  border: 1px solid #ddd;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  border: 1px solid #525252;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.6);
   margin-bottom: 1.5em;
 }
 @media (min-width: 860px) {
@@ -2450,9 +2450,9 @@ p.search-instructions code {
 div.search-item {
   max-width: 1150px;
   margin: 0 auto;
-  border: 1px solid #eee;
+  border: 1px solid #525252;
   padding: 2em 0 1em;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.6);
   margin-bottom: 2em;
 }
 div.search-item .screenshot {
