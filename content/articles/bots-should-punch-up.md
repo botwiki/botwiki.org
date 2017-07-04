@@ -13,11 +13,11 @@ We spent a fair amount of time discussing the ethical issues surrounding bot con
 
 Here's an illustrative example, a tale of two bots. Bot #1 is [@CancelThatCard](https://twitter.com/cancelthatcard). It finds people who have posted pictures of their credit or debit card to Twitter, and lets them know that they really ought to cancel the card and get a new one.
 
-![@cancelthatcard](/content/tutorials/images/cancelthatcard.png)
+![@cancelthatcard](/content/tutorials/images/cancelthatcard.png) {.centered}
 
 Bot #2 is [@NeedADebitCard](https://twitter.com/needadebitcard). It finds the same tweets as @CancelThatCard, but it retweets the pictures, collecting them in one place for all to see.
 
-![@NeedADebitCard](/content/tutorials/images/needadebitcard.png)
+![@NeedADebitCard](/content/tutorials/images/needadebitcard.png) {.centered}
 
 Now, technically speaking, @CancelThatCard is a spammer. It does nothing but find people who mentioned a certain phrase on Twitter and sends them a boilerplate message saying "Hey, look at my website!" For this reason, @CancelThatCard is constantly getting in trouble with Twitter.
 

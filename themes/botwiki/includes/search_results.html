@@ -1,3 +1,15 @@
+  {% if meta.thumbnail %}
+    <div class="article-thumbnail" style="background-color: {{meta.dominant_color}}">
+    {% if meta.link %}
+      <a href="{{ meta.link }}">
+    {% endif %}
+      <img src="{{ meta.thumbnail }}" data-src="{{ meta.thumbnail }}" class="lazy-load">
+    {% if meta.link %}
+      </a>
+    {% endif %}
+    </div>
+  {% endif %}
+
 <div class="search-results-intro">
 {% set search_term_lower = search_term|lower %}
 {% if  search_term_lower == 'stefan' or search_term_lower == 'fourtonfish' or search_term_lower == 'four ton fish' or search_term_lower == 'contact' or search_term_lower == 'email' %}
@@ -44,12 +56,20 @@
 
 {% if search_num_results == 0 %}
     <h2>Bummer, nothing found for "{{ search_term }}"!</h2>
-    <p>This site is open source, so you can <a href="https://github.com/botwiki/botwiki.org">add more content</a> yourself! You can also <a href="https://botwiki.org/submit-your-bot">use this form</a> to suggest a bot to add to <strong>Botwiki</strong>.</p>
-  </div>
-  <div class="content-wrapper">
-    <p><em><strong>Note:</strong> If you recently submitted a bot, please wait patiently, adding it is a manual process for us!</em></p>
-    <p>Feel free to reach out to our <a href="https://botmakers.org/">Botmakers.org community</a>, or directly to <a href="mailto:stefan@botwiki.org">Stefan</a> (<a href="https://twitter.com/fourtonfish">@fourtonfish</a>).</p>
-    <p><a href="/">Back to the main page.</a></p>
+    <p>Here are some options:</p>
+    <!-- https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fbotwiki.org -->
+    <ul>
+      <li><a href="https://github.com/botwiki/botwiki.org">Contribute to Botwiki on GitHub</a></li>
+      <li><a href="https://botwiki.org/submit-your-bot">Submit a bot to Botwiki</a>
+        <ul>
+          <li><strong>Note:</strong> If you recently submitted your bot, please be patient, adding it is a manual process.</li>
+        </ul>
+      </li>
+      <li><a href="https://botmakers.org/">Ask in the Botmakers community</a></li>
+      <li><a href="https://twitter.com/botwikidotorg">Find us on Twitter</a></li>
+      <li><a href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">Send us an email</a></li>
+    </ul>
+    <p>Or just <a href="/">go back to the main page</a>.</p>
   </div>
 {% else %}
     <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, <a href="mailto:stefan@botwiki.org">send an email</a>, <a href="https://twitter.com/botwikidotorg">or a tweet</a>.</em></p>
