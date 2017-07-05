@@ -183,7 +183,6 @@ See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitte
 ### Unsorted and notes [¶](#unsorted-notes){.pilcrow} {#unsorted-notes}
 
 - ["These emojis will work in your Twitter name and bio"](https://www.emojibase.com/emojis-on-twitter)
-- [Friendly Twitter Bots and Write Access](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/)
 
 #### Note on needing a phone number [¶](#note-phone-number){.pilcrow} {#note-phone-number}
 
@@ -194,6 +193,8 @@ There is a few ways to solve this:
 - see [Molly White's tutorial](http://blog.mollywhite.net/twitter-bots-pt2/#createthetwitterapp) that explains how to transfer your Twitter app to another account
 - you can remove the phone number from your account and associate it with a new one
 - you can sign up for [Google Voice](https://www.google.com/voice) ([Skype](http://www.skype.com/) number won't work, because Skype doesn't let you receive text messages, which you will need to verify your phone number)
+- see also: [Friendly Twitter Bots and Write Access](http://dghubble.com/blog/posts/twitter-app-write-access-and-bots/)
+
 
 And once you have one account verified, you can also host all your bots under the same account.
 

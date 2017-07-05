@@ -161,7 +161,9 @@ ready(function(){
   catch(err){/*noop*/}
 
   if(window.location.hash) {
-    smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
+    setTimeout(function(){
+      smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
+    }, 700);
   }
 
   document.getElementById('back-to-top').addEventListener("click", function(ev){
