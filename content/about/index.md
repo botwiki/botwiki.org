@@ -56,9 +56,9 @@ Below is a timeline of major events in the history of the Botwiki project.
 - **November 16:** Announced the [Botmaker Badges](/botmaker-badges) in [Bot! zine #4](http://tinyletter.com/botzine/letters/the-bot-zine-issue-4).
 - **October 26:** The first issue of the the [Bot! zine](http://tinyletter.com/botzine/letters/the-bot-zine-issue-1) newsletter was sent out.
 - **October 20:** The [botzine.org](https://botzine.org) domain was bought.
-- **October 8:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **September 17:** [Publicly announced the Botmakers Slack group](https://twitter.com/botwikidotorg/status/644517400738709504).
 - **September 3:** [First tweet by @botwikidotorg](https://twitter.com/botwikidotorg/status/639459648580489216).
+- **August 19:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **July 15:** First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
 - **July 12:** The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 
