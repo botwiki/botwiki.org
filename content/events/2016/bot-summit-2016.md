@@ -5,7 +5,7 @@ Thumbnail: /content/events/images/bot-summit-2016-slide.jpg
 Link: http://tinysubversions.com/botsummit/2016/
 Date: April 9, 2016
 Location: London
-Tags: event,archived,bot summit,botsummit
+Tags: event,archived,bot summit,botsummit,video
 */
 
 > Bot Summit is an event where botmakers from around the world get together, both in person and online, to discuss the art and craft of making software bots.

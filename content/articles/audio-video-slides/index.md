@@ -33,7 +33,6 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
-- [Archived events](/tag/event+archived/)
-- [Bot Summit](/tag/event+botsummit/): a series of events centered around "art" bots
+- [Recorded events](/tag/event+video/)
 
 [Return to the **Articles** page.](/articles/)

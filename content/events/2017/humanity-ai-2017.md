@@ -4,7 +4,7 @@ Link: https://www.eventbrite.com/e/humanityai-tickets-27038920138
 Date: February 28, 2017
 Description: Behind every new bot, conversational UI, or AI system are people working at the intersection of design, data, and technology.  This day is all about them.
 Thumbnail: /content/events/images/humanity-ai-2017.png
-Tags: event,archived
+Tags: event,archived,video
 */
 
 

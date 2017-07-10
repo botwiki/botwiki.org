@@ -4,7 +4,7 @@ Link: https://www.eventbrite.com/e/talkabot-conference-tickets-24627590787
 Date: September 28, 2016
 Description: A two day convergence to explore the past, present and future of bots in commerce, journalism, and entertainment.
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Fair+Market+1100+East+5th+Street+Austin+TX+78702&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,archived
+Tags: event,archived,video
 */
 
 
