@@ -2,6 +2,7 @@
 Title: How to enjoy bots as a "noncoder"
 Author: Stefan Bohacek
 Description: Botwiki and bots are for everyone!
+Tags: articles
 Thumbnail: /content/articles/images/how-to-enjoy-bots-as-a-noncoder.png
 Nav: hidden
 */

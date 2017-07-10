@@ -61,6 +61,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth): Large-scale and high-quality dataset of annotated musical notes
 - [freesound4s](https://archive.org/details/freesound4s): 126,900 sounds on [Freesound](https://freesound.org/) less than 4 seconds long
   - see also: [Fingerprints and Labels to Classifier.ipynb](https://github.com/kylemcdonald/AudioNotebooks/blob/master/Fingerprints%20and%20Labels%20to%20Classifier.ipynb)
+- [IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](http://imslp.org/) (imslp.org)
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series
 
 

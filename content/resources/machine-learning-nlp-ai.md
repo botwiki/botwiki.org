@@ -54,6 +54,7 @@ Nav: hidden
 - [vacancy/TensorArtist](https://github.com/vacancy/TensorArtist): collection of machine learning models
 - [ArunMichaelDsouza/tensorflow-image-detection](https://github.com/ArunMichaelDsouza/tensorflow-image-detection): a generic image detection program that uses Google's Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception (github.com)
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification): real-time face detection and emotion classification (github.com)
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture (github.com)
 
 **See also:** [tensortalk.com](https://tensortalk.com/)
 
@@ -96,6 +97,8 @@ Resynthesis for Gaze Manipulation
 - [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
 - [Create with AI](http://createwith.ai/) (createwith.ai, Japanese)
 - [junyanz/CatPapers](https://github.com/junyanz/CatPapers): Cool vision, learning and graphics papers on Cats! (github.com)
+- [Meow Generator](https://ajolicoeur.wordpress.com/cats/): generate pictures of cats with Generative Adversarial Networks (ajolicoeur.wordpress.com)
+  - [AlexiaJM/Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) (github.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

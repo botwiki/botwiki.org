@@ -2,6 +2,7 @@
 Title: Basic Twitter Bot Etiquette
 Description: "Basic rules for making a bot that isn’t an asshole."
 Author: Darius Kazemi
+Tags: articles
 Nav: hidden
 */
 

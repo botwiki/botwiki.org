@@ -88,6 +88,7 @@ See also:
 - [Slack meet Hue](https://joffcom.net/slack-meet-hue/) (joffcom.net)
 - [Build a hybrid human + AI messaging experience on Slack](https://medium.com/slack-developer-blog/build-a-hybrid-human-ai-messaging-experience-on-slack-dd670a5f0d0f) (Slack Platform Blog via medium.com)
 - [Building a sentiment analysis bot with IBM Watson and Raspberry Pi](https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803) (Tomomi Imura via medium.com)
+- [Turn boring email notifications into actionable Slack conversations](https://hackernoon.com/turn-boring-email-notifications-into-actionable-slack-conversations-3c6b1177e1e1) (hackernoon.com)
 
 For more tutorials, see [api.slack.com/tutorials](https://api.slack.com/tutorials).
 

@@ -69,10 +69,10 @@ Thanks for checking out **Botwiki**!
 
 #### Browse by category [¶](#browse-bots-by-category){.pilcrow} {#browse-bots-by-category}
 
-- [Poetry bots](/tag/bot+poetry)
 - [Image bots](/tag/bot+images) ([GIF bots](/tag/bot+gif))
 - [Emoji bots](/tag/bot+emoji)
 - [Game bots](/tag/bot+game)
+- [Poetry bots](/tag/bot+poetry)
 - [Generative bots](/tag/bot+generative/)
 - [Non-English bots](/tag/bot+non-english)
 - [Internet of Things (IoT) bots](/bots/iot)

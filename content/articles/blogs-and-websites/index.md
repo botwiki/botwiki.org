@@ -22,6 +22,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Artists and Machine Intelligence](https://ami.withgoogle.com/): AMI is a program at Google that brings artists & engineers together to create with machine intelligence
   - [@artwithMI](https://twitter.com/artwithMI)
 - [google.ai](https://google.ai/): "Bringing the benefits of AI to everyone" (google.ai)
+  - [PAIR: People-AI Research Initiative](https://ai.google/pair) (google.ai) ([related blog post on blog.google](https://www.blog.google/topics/machine-learning/pair-people-ai-research-initiative/))
 - [The Bot Blog](https://thebotblog.wordpress.com/): social science and news on automated culture
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/): posts tagged *#bots*
 - [I ♥ E-Poetry](http://iloveepoetry.com/): Short-form scholarship on born-digital poetry and poetics.
@@ -29,6 +30,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [r/botsrights](https://www.reddit.com/r/botsrights): *Because bots are people, too!*
 - [botsplaining](http://botsplaining.tumblr.com/): diaries of a troll honeypot on Twitter, by [@NoraReed](https://twitter.com/NoraReed)
 - [Diversity in Artificial Intelligence](diversity.ai) (diversity.ai)
+- [AI Progress Measurement](https://www.eff.org/ai/metrics) (eff.org)
 - [CuratedAI](http://curatedai.com/): a literary magazine written by machines, for people
 - [thedotisblack](http://thedotisblack.tumblr.com/): A casual platform for research design on generative drawings. (http://thedotisblack.tumblr.com/)
 - [Algorithm-Driven Design](http://algorithms.design/): How AI is Changing Design
