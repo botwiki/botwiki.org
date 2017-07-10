@@ -218,14 +218,23 @@
   {% if not is_front_page and meta.thumbnail %}
   <script type="text/javascript">
     var request = new XMLHttpRequest();
-    request.open('GET', 'https://fourtonfish.com/api/dominant-color/?img=https://botwiki.org{{ meta.thumbnail }}', true);
+    var thumbnailUrl = '{{ meta.thumbnail }}';
+    if (thumbnailUrl.indexOf('http') === -1){
+      thumbnailUrl = 'https://botwiki.org' + thumbnailUrl
+    }
+    request.open('GET', 'https://fourtonfish.com/api/dominant-color/?img=' + thumbnailUrl, true);
     request.onload = function() {
       if (request.status >= 200 && request.status < 400) {
         var data = JSON.parse(request.responseText),
             bkgColor = data.data,
             articleThumbnail = document.getElementsByClassName('article-thumbnail')[0];
         articleThumbnail.classList.add('color-fade');
-        articleThumbnail.style.backgroundColor = 'rgb(' + bkgColor[0] + ',' + bkgColor[1] + ',' + bkgColor[2] + ')';
+        if (bkgColor && bkgColor.length > 0){
+          articleThumbnail.style.backgroundColor = 'rgb(' + bkgColor[0] + ',' + bkgColor[1] + ',' + bkgColor[2] + ')';          
+        }
+        else{
+          articleThumbnail.style.backgroundColor = 'rgb(238,238,237)';          
+        }
       }
     };
     request.send();
