@@ -985,11 +985,14 @@ p.search-instructions code{
 
 div.search-item{
   max-width: @max-content-width;
-  margin: 0 auto;
+  margin: 2em auto;
   border: 1px solid #525252;
   padding: 2em 0 1em;
   box-shadow: 10px 10px 0 rgba(0,0,0,0.6);
-  margin-bottom: 2em;
+
+  p.meta{
+    font-style: italic;
+  }
 
   .screenshot{
     box-shadow: none;
@@ -1023,7 +1026,7 @@ div.search-item{
 
 div.donations-top-fix{
   @media (min-width: @site-width-small){
-    margin-top: -1.1rem;
+    margin-bottom: 2rem;
     .note.donations{
       margin-top: auto;
     }
@@ -1105,9 +1108,6 @@ p.ssbg-attribution{
   }
 }
 
-div.search-item p.meta{
-  font-style: italic;
-}
 
 div.meta p.last-updated{
   font-size: 0.9em;
