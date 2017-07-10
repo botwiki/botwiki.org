@@ -12,7 +12,7 @@ Show donation link: yes
 
 
 <div class="row">
-  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+  <div class="col-sm-12 col-md-7 no-pad" markdown=1>
 
 Some examples of such bots include:
 
@@ -22,7 +22,7 @@ Some examples of such bots include:
 - [a bot that opens the door for you](bots/slackbots/doorbell-server)
 - [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
   </div>
-  <div class="col-sm-12 col-md-6" markdown=1>
+  <div class="col-sm-12 col-md-5" markdown=1>
 [![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
   </div>
 </div>
