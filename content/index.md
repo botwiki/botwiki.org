@@ -51,7 +51,10 @@ Some examples of such bots include:
 
 There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add!
 
-#### SEE ALSO
+#### More about Botwiki
 
 - [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
 - [One year of Botwiki 🤖🎂👏🎉](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/) 
+
+
+See also the [About page](/about), our [Team page](/about/team), and [what others wrote about us](/about/press).

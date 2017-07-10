@@ -2515,6 +2515,9 @@ div.meta .share-prompt h4 {
 div.meta p {
   padding: .1rem 2rem;
 }
+div.meta .meta-date {
+  font-style: italic;
+}
 ul.sharing-is-caring {
   padding-left: 1.5em;
   list-style: none;
