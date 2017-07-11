@@ -13,7 +13,7 @@ Nav: hidden
   </p>
 </div>
 
-Learn how to make bots for [Twitter](https://twitter.com/) ([Wikipedia link](https://en.wikipedia.org/wiki/Twitter)) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
+Learn how to make bots for [Twitter](https://twitter.com/) ([What is Twitter?](https://en.wikipedia.org/wiki/Twitter)) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
 [![XKCD: Twitter Bot](/content/tutorials/images/twitter_bot_xkcd.png "PYTHON FLAG ENABLE THREE LAWS")](https://xkcd.com/1646/) {.centered .centered-text}
 
@@ -55,6 +55,9 @@ Can't wait to see you there!
 
 
 ### Beginner tutorials [¶](#beginner-tutorials){.pilcrow} {#beginner-tutorials}
+
+
+**So you want to make a Twitter bot? Check out [How to Make a Twitter Bot: The Definitive Guide](/tutorials/how-to-make-a-twitter-bot-definitive-guide)!**
 
 
 #### node.js [¶](#tutorials-nodejs){.pilcrow} {#tutorials-nodejs}
