@@ -1245,8 +1245,8 @@ img.logo-digitalocean{
         }
         margin: 0;
         opacity: 0;
-        transition: all 0.1s;
-        margin-left: 30px;
+        transition: all 0.3s;
+        transform: translateX(50%);
       }
 
       a{
@@ -1267,11 +1267,12 @@ img.logo-digitalocean{
     padding: 20px;
     background: #fff;
     box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-    right: -100px;
+    transform: translateX(-50%);
     top: 2em;
+    left: 0;
     width: 100%;
     z-index: 9999;
-    transition: all 0.2s;
+    transition: all 0.3s;
     pointer-events: none;
   }
 
@@ -1329,11 +1330,12 @@ img.logo-digitalocean{
   #header nav #menu-toggle:checked ul,
   #menu-toggle:checked + #menu{
     opacity: 1;
-    right: 0;
+    transform: none;
     pointer-events: all;
   }
   #header nav #menu-toggle:checked + #menu li{
     margin-left: 0;
+    transform: none;
     opacity: 1;
   }
 }
