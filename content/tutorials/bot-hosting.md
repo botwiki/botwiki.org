@@ -25,13 +25,14 @@ You have quite a few options when it comes to hosting your bots!
   - [Automating bots with cron on DigitalOcean](http://www.colewillsea.com/blog/do-cron) (youtube.com)
 - [Glitch](https://glitch.com/): the easiest way to build the app or bot of your dreams
   - [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
-- [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan
+  - [Botwiki project on Glitch](https://glitch.com/botwiki)
+- [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan, but a credit card verification is required to prevent your app from sleeping when inactive
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
+- [Heroku](https://www.heroku.com): similar to OpenShift with [free "Dyno hours"](https://devcenter.heroku.com/changelog-items/907) and a [scheduler](https://elements.heroku.com/addons/scheduler). Useful tutorials include:
+ - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
   - see [tutorials on Botwiki that use Cloud9](/tag/tutorial+cloud9)
 - [Google Cloud Platform](https://cloud.google.com/) ([Free Tier](https://cloud.google.com/free/))
-- [Heroku](https://www.heroku.com): similar to OpenShift, but your app needs to "sleep" for six hours each day (see details on the [pricing page](https://www.heroku.com/pricing)), useful tutorials include:
- - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
 - [Linode](https://www.linode.com/): another VPS, starts at $10/mo
 - [Dreamhost](https://www.dreamhost.com/): web hosting and domain name registrar, their VPS starts at $15/month
 - [PythonAnywhere](https://www.pythonanywhere.com/): "Host, run, and code Python in the cloud!"
