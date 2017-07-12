@@ -98,7 +98,11 @@ For our very first [Botmaker Profile](/tag/botmaker), I'm chatting with [Erin Mc
 **Erin:** Thanks so much for including me!
 
 
-<div class="video-wrapper"><iframe width="467" height="350" src="https://www.youtube.com/embed/di57fUUSYm8" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-background">
+  <div class="video-wrapper">
+    <iframe width="467" height="350" src="https://www.youtube.com/embed/di57fUUSYm8" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 
 

@@ -116,7 +116,11 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 - [Essays on bots and botmaking](/articles/essays)
 
 
-<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-background">
+  <div class="video-wrapper">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
