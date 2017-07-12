@@ -31,9 +31,11 @@ There's a lot that goes into maintaining **Botwiki**, **Botmakers**, and all the
 - you can also [buy Botwiki merchandise](/merch/)
 - or sign up for [DigitalOcean](https://www.digitalocean.com/) using [our referral link](https://www.digitalocean.com/?refcode=9e279abc3337)
 
-If you like our work, but are not in position to provide financial support, we also appreciate giving us a [shoutout on Twitter](https://twitter.com/intent/tweet?source=https://botwiki.org/about/support&text=Support%20Botwiki,%20Botmakers.org,%20and%20the%20Bot!%20zine%20newsletter%20https://botwiki.org/about/support&via=botwikidotorg), or sending us a little [note of encouragement](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com) :-)
+If you like our work, but are not in position to provide financial support, we also appreciate giving us a [shoutout on Twitter](https://twitter.com/intent/tweet?source=https://botwiki.org/about/support&text=Support%20Botwiki,%20Botmakers.org,%20and%20the%20Bot!%20zine%20newsletter%20https://botwiki.org/about/support&via=botwikidotorg), or sending us a little [note of encouragement](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com).
 
-And you are more than welcome to join [Botmakers](https://botmakers.org/), regardless of your programming experience! The one thing we all have in common is that we just really like bots :-)
+We also love getting [feedback](/about/surveys)!
+
+And you are more than welcome to join [Botmakers](https://botmakers.org/), regardless of your programming experience! The one thing we all have in common is that we just really like bots 😊
 
 
 **Thank you!**
