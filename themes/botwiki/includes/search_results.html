@@ -75,7 +75,7 @@
     <p><em><strong>Note:</strong> Not quite what you're looking for? Ask in the <a href="https://botmakers.org/">Botmakers community</a>, or <a href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">send us an email</a> <a href="https://twitter.com/botwikidotorg">or a tweet</a>.</em></p>
     <h2>{{ search_num_results }} {{ search_num_results == 1 ? 'page' : 'pages' }}  found for "{{ search_term }}"</h2>
   </div>
-  <div class="content-wrapper">
+  <div class="content-wrapper search-results-wrapper">
     {% for page in search_results %}
       {% if not page.language and page.title != 'Search results' %}
         {% include 'includes/search_item.html' %}

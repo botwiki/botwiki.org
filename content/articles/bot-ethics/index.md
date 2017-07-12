@@ -88,7 +88,7 @@ Nav: hidden
 - [To err is algorithm: Algorithmic fallibility and economic organisation](https://medium.com/towards-data-science/to-err-is-algorithm-algorithmic-fallibility-and-economic-organisation-dbe18bb32abc) (Juan Mateos-Garcia via medium.com)
 - [The Algorithmic Justice League](https://medium.com/mit-media-lab/the-algorithmic-justice-league-3cc4131c5148) (Joy Buolamwini via medium.com)
 - [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/) (technologyreview.com)
-
+- [AI's use in healthcare will only further perpetuate bias in medical data](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/) (qz.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 

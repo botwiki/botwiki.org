@@ -29,6 +29,8 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API (github.com)
 - [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster (github.com)
 - [dtluna/pygnusocial](https://gitgud.io/dtluna/pygnusocial): GNU Social API for Python 3 (gitgud.io)
+- [markcaudill/bird2gs](https://github.com/markcaudill/bird2gs): Twitter -> GNU Social / postActive Relay Bot
+
 
 #### Ruby [¶](#mastodon-ruby){.pilcrow} {#mastodon-ruby}
 

@@ -1631,9 +1631,11 @@ pre code {
 }
 div.content-wrapper {
   margin: 0 auto;
-  padding: 0 1em;
   -webkit-animation: reveal 0.6s normal forwards ease-in-out;
           animation: reveal 0.6s normal forwards ease-in-out;
+}
+.search-results-wrapper {
+  padding: 0 1em;
 }
 /* hand cursor on clickable input elements */
 label,
@@ -2349,7 +2351,7 @@ a.screenshot img,
 img.screenshot,
 img.photo {
   border: 1px solid #525252;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.6);
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
   margin-bottom: 1.5em;
 }
 @media (min-width: 860px) {
@@ -2453,7 +2455,7 @@ div.search-item {
   margin: 2em auto;
   border: 1px solid #525252;
   padding: 2em 0 1em;
-  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.6);
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
 }
 div.search-item p.meta {
   font-style: italic;
