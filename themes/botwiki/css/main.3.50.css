@@ -1631,6 +1631,7 @@ pre code {
 }
 div.content-wrapper {
   margin: 0 auto;
+  padding: 0 1em;
   -webkit-animation: reveal 0.6s normal forwards ease-in-out;
           animation: reveal 0.6s normal forwards ease-in-out;
 }

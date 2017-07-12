@@ -9,13 +9,11 @@ Show donation link: yes
 
 **Botwiki** is an [open](https://github.com/botwiki/botwiki.org) catalog of **friendly, useful, artistic** online bots ([*What is a bot?*](/bots/)), and [tools](/resources/) and [tutorials](/tutorials/) that can help you make them.
 
+Some examples of such bots include:
 
 
 <div class="row">
   <div class="col-sm-12 col-md-7 no-pad" markdown=1>
-
-Some examples of such bots include:
-
 - [a bot that posts holidays around the world](bots/twitterbots/holidaybot4000)
 - [a bot that posts emoji polls every hour](bots/twitterbots/emoji__polls)
 - [a reminder bot](bots/twitterbots/mnemosynetron)
