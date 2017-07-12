@@ -15,9 +15,10 @@ Nav: hidden
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
+- [shiffman/ChatBot-Workshop](https://github.com/shiffman/ChatBot-Workshop): resources, code for ITP Camp Workshop (github.com)
+
 A great resource for making online chatbots is [Chatbots Magazine](https://chatbotsmagazine.com/). Some of their articles include:
 
-- [shiffman/ChatBot-Workshop](https://github.com/shiffman/ChatBot-Workshop): resources, code for ITP Camp Workshop (github.com)
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
 - [It’s not about bots](https://chatbotsmagazine.com/its-not-about-bots-146a90f3360b)
 - [Content Mapping for Chatbots](https://chatbotsmagazine.com/content-mapping-for-chatbots-cdb55dc51aa6)
@@ -25,6 +26,8 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Animatronic Elephants and Other Bot Design Revelations](https://chatbotsmagazine.com/animatronic-elephants-and-other-bot-design-revelations-a1a297ae2941)
 - [How Artists Can Leverage Bots In 2017](https://chatbotsmagazine.com/how-artists-can-utilize-bots-in-2017-192554ac3df3)
 - [Do you want your chatbot converse in foreign languages? My learnings from bot devs.](https://chatbotsmagazine.com/do-you-want-your-chatbot-converse-in-foreign-languages-my-learnings-from-bot-devs-9b608f685f5b)
+
+
 
 #### Convincing conversations [¶](#convincing-conversations){.pilcrow} {#convincing-conversations}
 
@@ -64,7 +67,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 
 #### See also
 
-- the general [Tools](/resources/tools) section
+- the [Tools](/resources/tools) section
 - [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)
 - [10 links to get started with Conversational UI and chatbots](https://uxdesign.cc/10-links-to-get-started-with-conversational-ui-and-chatbots-3c0920ef4723) (uxdesign.cc)
 - [BotSpeak: 1 human, 200+ bots, 892 bot dialogs](https://keyreply.com/botspeak/) (keyreply.com/botspeak)
