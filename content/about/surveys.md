@@ -3,7 +3,7 @@ Title: Surveys
 Thumbnail: /content/images/botwiki-thumbnail-image-1140.png
 Tags: about,botwiki,press,blogs,news,botwiki-foundation
 Show donation link: yes
-Description: Articles about Botwiki, Botmakers, and related projects.
+Description: We at Botwiki love getting feedback and constructive criticism.
 */
 
 We at Botwiki love getting feedback and constructive criticism. Check out some of our surveys that let you help us improve. You can fill them out anonymously, but feel free to leave your contact information for possible follow up questions.
