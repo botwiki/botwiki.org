@@ -54,7 +54,8 @@ There are many more bots [on the **Bots** page](bots/) and you can use [this han
 #### More about Botwiki
 
 - [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
-- [One year of Botwiki 🤖🎂👏🎉](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/) 
+- [One year of Botwiki](/blog/2016-07-13-botwiki-one-year) 
+- [Two years of Botwiki](/blog/2017-07-12-botwiki-two-years) 
 
 
 See also the [About page](/about), our [Team page](/about/team), and [what others wrote about us](/about/press).
