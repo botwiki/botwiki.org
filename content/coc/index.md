@@ -62,7 +62,7 @@ If you do need some ideas to work on, have a look at the [Bot Summit 2014 docume
   - Continued one-on-one communication after requests to cease
   - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
   - Publication of non-harassing private communication
-  - Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically. See [this article](http://www.racialicious.com/2012/05/02/a-historical-guide-to-hipster-racism/) for background. 
+  - Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically. See [this article](http://web.archive.org/web/20150527074203/http://www.racialicious.com:80/2012/05/02/a-historical-guide-to-hipster-racism) for background. 
 
 
 ## Language and communication [¶](#language-and-communication){.pilcrow} {#language-and-communication}
