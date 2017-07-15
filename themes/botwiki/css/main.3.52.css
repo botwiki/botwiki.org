@@ -1614,6 +1614,13 @@ article {
 article h2 {
   padding-top: 1.5em;
 }
+h1 span,
+h2 span {
+  color: #fff;
+  background-color: #38313a;
+  padding: 10px;
+  line-height: 2em;
+}
 div.search-results-intro {
   padding-bottom: 2em;
 }
@@ -1755,7 +1762,7 @@ h6 {
   text-transform: uppercase;
   max-width: 1150px;
   margin: 0 auto !important;
-  font-family: 'Anton', serif;
+  font-family: 'Anton', sans-serif;
   color: #38313a;
   line-height: 1.2em;
   margin: 0 auto;
@@ -2045,6 +2052,17 @@ div.all-tags {
 div.all-tags a {
   padding-right: 0.5em;
 }
+.tags a {
+  background-color: #afafaf;
+  color: #fff;
+  text-decoration: none;
+  line-height: 2em;
+  padding: 5px;
+  white-space: nowrap;
+}
+.tags a:hover {
+  background-color: #999;
+}
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
@@ -2113,7 +2131,7 @@ ul#menu {
 }
 @media (min-width: 860px) {
   #header a {
-    padding-bottom: 8px;
+    padding-bottom: 0;
   }
 }
 #header a,
@@ -2161,8 +2179,8 @@ ul#menu {
 #header nav {
   list-style: none;
   margin: 0.2em 0 0;
-  font-family: 'Anton', serif;
-  font-weight: 100;
+  font-family: 'Anton', sans-serif;
+  font-size: 1.2em;
 }
 #header nav li {
   margin-top: -5px;

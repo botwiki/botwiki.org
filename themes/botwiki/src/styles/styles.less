@@ -57,6 +57,14 @@ article{
   }
 }
 
+h1, h2{
+  span{
+    color: #fff;
+    background-color: #38313a;
+    padding: 10px;
+    line-height: 2em;
+  }
+}
 
 
 div.search-results-intro{
@@ -212,7 +220,7 @@ h1, h2, h3, h4, h5, h6{
   text-transform: uppercase;
   max-width: @max-content-width;
   margin: 0 auto !important;
-  font-family: 'Anton', serif;  
+  font-family: 'Anton', sans-serif;  
   color: @main-color;
   line-height: 1.2em;
   margin: 0 auto;
@@ -518,6 +526,20 @@ div.all-tags{
   }
 }
 
+.tags {
+  a{
+    background-color: #afafaf;
+    color: #fff;
+    text-decoration: none;
+    line-height: 2em;
+    padding: 5px;
+    white-space: nowrap;
+
+    &:hover{
+      background-color: #999;
+    }
+  }
+}
 
 /* Structure Styles
 /*---------------------------------------------*/
@@ -584,7 +606,7 @@ ul#menu{
   a{ 
     color: #5D9CEC; 
     @media (min-width: @site-width-small){
-      padding-bottom: 8px;
+      padding-bottom: 0;
     }
     &, &:hover{
       transition: border 0.1s;
@@ -640,8 +662,8 @@ ul#menu{
   nav{
     list-style: none;
     margin: 0.2em 0 0;
-    font-family: 'Anton', serif;
-    font-weight: 100;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.2em;
 
     li{
       margin-top: -5px;

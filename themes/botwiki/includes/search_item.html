@@ -62,7 +62,7 @@
       {% else %}
         {% set page_tags = page.tags|split(',') %}
       {% endif %}
-        <p class="meta">
+        <p class="tags">
           {% for tag in page_tags %}
             <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
           {% endfor %}
