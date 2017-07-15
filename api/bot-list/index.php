@@ -79,4 +79,5 @@ else{
 }
 
 header('Content-type: application/json');
+header("Expires: " . date("D, j M Y", strtotime("+2 days")) . " 02:00:00 GMT");
 echo '[' . implode(',', $bot_list) . ']';
