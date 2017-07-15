@@ -43,7 +43,7 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Anton|Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.54.min.css" type="text/css" />  
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.55.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -56,6 +56,13 @@
   <link rel="prerender" href="{{base_url}}/articles">
   <link rel="prerender" href="{{base_url}}/events">
   <link rel="prerender" href="{{base_url}}/about">
+{% endif %}
+{% if meta.thumbnail %}
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="{{ meta.thumbnail }}"/>
+    </DataObject>
+  </PageMap>
 {% endif %}
 </head>
 <body{% if is_front_page %} class="front-page"{% endif %}>
@@ -70,7 +77,7 @@
         <ul id="menu">
           <li class="form-wrapper">
             <form id="search-form" action="/search">
-              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><a id="search-help" href="#">?</a>
+              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
             </form>
           </li>
           <li 
