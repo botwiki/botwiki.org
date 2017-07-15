@@ -65,6 +65,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Your Bot Art Belongs in a Museum](http://secretcave.co/bot-art-museum/) (secretcave.co)
 - [Computers and humans and super-creativity](https://www.axios.com/theres-a-limit-to-computer-creativity-2427178561.html) (axios.com)
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">asking &quot;can a computer generate shakespeare?&quot; to me is less interesting than asking e.g. &quot;what would gertrude stein have made w/tensorflow?&quot;</p>&mdash; Allison Parrish (@aparrish) <a href="https://twitter.com/aparrish/status/860351704570658816">May 5, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
 
