@@ -1472,7 +1472,12 @@ video {
 
 /* Google Search tweaks */
 
-.gsc-selected-option{
+
+.gsc-control-cse .gsc-option-menu-container{
+  width: 11em;
+}
+
+.gsc-selected-option-container.gsc-inline-block{
   width: 120% !important;
 }
 
@@ -1480,6 +1485,10 @@ video {
 .gs-web-image-box, .gs-promotion-image-box, img.gs-image{
   width: 200px !important;
   min-width: 200px !important;
+  @media (max-width: @site-width-small){
+    width: 100px !important;
+    min-width: 100px !important;
+  }
 }
 
 .gsc-table-cell-snippet-close, .gs-promotion-text-cell{
