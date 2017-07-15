@@ -101,7 +101,7 @@ Nav: hidden
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/) (lizmrush.com)
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/) (setosa.io)
-
+- [Text Mining Course](https://github.com/organisciak/Text-Mining-Course): Course Notes for 590TXL, University of Illinois at Urbana-Champaign (Peter Organisciak via github.com)
 
 Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or [join the Botmakers community](https://botmakers.org/)!
 

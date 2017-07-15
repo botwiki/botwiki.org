@@ -100,6 +100,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Recurrent Neural Networks - A Short TensorFlow Tutorial](https://github.com/silicon-valley-data-science/RNN-Tutorial) (Silicon Valley Data Science via github.com)
 - [Build a TensorFlow Image Classifier in 5 Min](https://www.youtube.com/watch?v=QfNvhPx5Px8) (Siraj Raval via youtube.com)
 - [Contextual Chatbots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077) (chatbotsmagazine.com)
+- [Building Your Own Neural Machine Translation System in TensorFlow](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) (research.googleblog.com)
 
 #### See also
 
