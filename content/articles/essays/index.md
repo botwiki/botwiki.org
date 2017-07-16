@@ -71,6 +71,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the computer poet&#39;s muse (1966) <a href="https://t.co/VTshAOn0TU">pic.twitter.com/VTshAOn0TU</a></p>&mdash; James Ryan (@xfoml) <a href="https://twitter.com/xfoml/status/885339450309459969">July 13, 2017</a></blockquote>
+
 ### Unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)

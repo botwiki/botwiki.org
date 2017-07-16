@@ -119,6 +119,7 @@ Nav: hidden
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. <a href="https://t.co/4ckbQlMyBS">pic.twitter.com/4ckbQlMyBS</a></p>&mdash; Kasper Hawser (@Gossenphilosoph) <a href="https://twitter.com/Gossenphilosoph/status/884769533810143237">July 11, 2017</a></blockquote>
 
 
 ### Life of a bot [¶](#life-of-a-bot){.pilcrow} {#life-of-a-bot}

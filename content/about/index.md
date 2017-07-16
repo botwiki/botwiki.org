@@ -39,13 +39,14 @@ Below is a timeline of major events in the history of the Botwiki project.
 
 #### 2017 [¶](#2017){.pilcrow} {#2017}
 
+- **July 12:** [Botwiki celebrated its two years](/blog/2017-07-12-botwiki-two-years/).
 - **June 16:** Botwiki got an [official page on Glitch](https://glitch.com/botwiki).
 - **March:** Botwiki had more than 20,000 unique visitors.
 
 #### 2016 [¶](#2016){.pilcrow} {#2016}
 
 - **October 1:** Hosted [the first online Bot Workshop](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/).
-- **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/).
+- **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](/blog/2016-07-13-botwiki-one-year/).
 - **March 31:** [Veronica](/about/team/#veronica) [joined the Botwiki team](https://github.com/botwiki/botwiki.org/commit/ba19c71042bdb8c7b36fc6a8c214f6d874dab543).
 - **March 21:** Hosted [the first Botmakers in-person event](http://www.meetup.com/botmakers/events/228956424/).
 - **February 18:** Created the [Botmakers Meetup group](http://www.meetup.com/botmakers/).
