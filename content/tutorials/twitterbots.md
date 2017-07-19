@@ -135,7 +135,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 ##### Tools and other resources [¶](#cbdq-tools){.pilcrow} {#cbdq-tools}
 
 - [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
-
+- [Visual Tracery editor](http://www.brightspiral.com/tracery/)
 
 ##### See also [¶](#cbdq-more){.pilcrow} {#cbdq-more}
 

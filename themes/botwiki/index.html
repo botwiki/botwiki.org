@@ -222,6 +222,10 @@
   <script src="{{ theme_url }}/js/scripts.3.3.min.js"></script>
   {% if meta.has_code == 'yes' %}
   <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
+  <script type="text/javascript">
+    hljs.initHighlighting.called = false;
+    hljs.initHighlighting();    
+  </script>
   {% endif %}
   {% if not is_front_page and meta.thumbnail %}
   <script type="text/javascript">

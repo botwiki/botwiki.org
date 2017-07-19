@@ -46,7 +46,7 @@ Let's first talk about the kind of bots you absolutely should *not* make. Start 
 
 The bottom line is this: **don't let your bot annoy people**. That means, don't let it interact with people who don't follow your bot or knowingly initiate the conversation either through a tweet with your bot's handle, a unique dedicated hashtag (see [@NixieBot](/bots/twitterbots/NixieBot/) for an example), or a direct message.
 
-While there certainly are clever examples of bots who do reply to random strangers, understand that this absolutely goes against Twitter's policy and you have a decent chance of getting your bot suspended, even if you believe the bot's behavior is innocent.
+While there certainly are clever examples of [bots who do interact to random strangers](http://www.shardcore.org/shardpress/2014/10/27/algobola/), understand that this absolutely goes against Twitter's policy and you have a decent chance of getting your bot suspended, even if you believe the bot's behavior is innocent.
 
 And it hopefully doesn't even need to be said that you **shouldn't make bots that harass people**, post spam, or do any other malicious activity. Remember, [bots should always punch up, never punch down](/articles/bots-should-punch-up/).
 

@@ -155,11 +155,6 @@ ready(function(){
     return null;
   }
 
-  try{
-    hljs.initHighlightingOnLoad();
-  }
-  catch(err){/*noop*/}
-
   if(window.location.hash) {
     setTimeout(function(){
       smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
@@ -217,6 +212,9 @@ TODO: Work in progress: AJAXifying the site.
     }
   });
 */
+
+    hljs.initHighlighting.called = false;
+    hljs.initHighlighting();
 
 });
 
