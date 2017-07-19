@@ -64,6 +64,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [We need to talk about Accessibility on Chatbots](https://uxdesign.cc/we-need-to-talk-about-accessibility-on-chatbots-98cf93c54963) (uxdesign.cc)
 - [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a) (studio.carnegiemuseums.org)
+- [Prototyping for Voice: Methodology](http://www.bbc.co.uk/rd/blog/2017-06-voice-ui-user-interface-children-drama) (bbc.co.uk)
 
 #### See also
 

@@ -57,6 +57,9 @@ Nav: hidden
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372) (gizmodo.com)
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [What is Gender and Why Does it Matter to Emoji?](http://blog.emojipedia.org/what-is-gender-and-why-does-it-matter-to-emoji/) (emojipedia.org)
+- [How Fortune Cookies Explain the Westernization of Emoji](https://www.theatlantic.com/technology/archive/2017/05/the-westernization-of-emoji/527616/) (theatlantic.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/hashtag/WorldEmojiDay?src=hash">#WorldEmojiDay</a>, revisit where it all started—NTT DOCOMO’s original set of 176 emoji <a href="https://t.co/ocjHTwd0Ou">https://t.co/ocjHTwd0Ou</a> <a href="https://twitter.com/hashtag/MoMACollection?src=hash">#MoMACollection</a> <a href="https://t.co/4yr1lNPSMd">pic.twitter.com/4yr1lNPSMd</a></p>&mdash; Museum of Modern Art (@MuseumModernArt) <a href="https://twitter.com/MuseumModernArt/status/886953606972403712">July 17, 2017</a></blockquote>
 
 ### Botkit and Botkit Studio [¶](#botkit){.pilcrow} {#botkit}
 
@@ -92,6 +95,7 @@ Nav: hidden
 
 ### Unsorted tutorials [¶](#unsorted){.pilcrow} {#unsorted}
 
+- [Robot poetry and storytelling in Scratch](http://www.suppertime.co.uk/blogmywiki/2017/07/robot-poetry/) (suppertime.co.uk)
 - [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2) (Paul Walsh via medium.com)
 - [How to interact with bots? Dealing with the complexity of a new design paradigm](https://chatbotsmagazine.com/how-to-interact-with-bots-dealing-with-the-complexity-of-a-new-design-paradigm-e89fd7131921) (chatbotsmagazine.com)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd) (freecodecamp.com)

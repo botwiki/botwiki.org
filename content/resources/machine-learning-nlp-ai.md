@@ -34,6 +34,9 @@ Nav: hidden
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
   - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
 - [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
+- [EasyGen](https://github.com/markriedl/easygen):  a visual user interface to help set up simple neural network generation tasks (Mark Riedl via github.com)
+- [Facets](https://github.com/pair-code/facets): visualizations for machine learning datasets
+  - [related blog post](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html) (research.googleblog.com)
 
 ### Frameworks and libraries [¶](#frameworks-and-libraries){.pilcrow} {#frameworks-and-libraries}
 
@@ -99,6 +102,9 @@ Resynthesis for Gaze Manipulation
 - [junyanz/CatPapers](https://github.com/junyanz/CatPapers): Cool vision, learning and graphics papers on Cats! (github.com)
 - [Meow Generator](https://ajolicoeur.wordpress.com/cats/): generate pictures of cats with Generative Adversarial Networks (ajolicoeur.wordpress.com)
   - [AlexiaJM/Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) (github.com)
+- [ACVT capability demonstrator](http://demo.cs.adelaide.edu.au/) (demo.cs.adelaide.edu.au)
+- [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
+
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

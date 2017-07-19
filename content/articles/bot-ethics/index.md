@@ -89,6 +89,8 @@ Nav: hidden
 - [The Algorithmic Justice League](https://medium.com/mit-media-lab/the-algorithmic-justice-league-3cc4131c5148) (Joy Buolamwini via medium.com)
 - [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/) (technologyreview.com)
 - [AI's use in healthcare will only further perpetuate bias in medical data](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/) (qz.com)
+- [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed) (Rob Speer via github.com)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
@@ -116,6 +118,8 @@ Nav: hidden
 - [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
 - [Artificial Intelligence Owes You an Explanation](http://www.slate.com/articles/technology/future_tense/2017/05/why_artificial_intelligences_should_have_to_explain_their_actions.html) (slate.com)
 - [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
+- [A Blueprint for Coexistence with Artificial Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence) (wired.com)
+- [Please Prove You’re Not a Robot](https://www.nytimes.com/2017/07/15/opinion/sunday/please-prove-youre-not-a-robot.html) (nytimes.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
@@ -136,7 +140,7 @@ Nav: hidden
 - [AI ‘victims’ of sexism answer back](https://www.raconteur.net/technology/ai-victims-of-sexism-answer-back) (raconteur.net)
 - [Tech Etiquette: The Real Reason You Need to be Polite to Alexa](https://medium.com/@rafe/tech-etiquette-the-real-reason-you-need-to-be-polite-to-alexa-6a76f97d0803) (Rafe Needleman via medium.com)
 - [Robot Tries to Escape from Children's Abuse](https://www.youtube.com/watch?v=CuJT9EtdETY) (youtube.com)
-
+- [What Interacting With Robots Might Reveal About Human Nature](https://www.theatlantic.com/technology/archive/2017/06/kate-darling-robots-aspen/532194/) (theatlantic.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
@@ -144,6 +148,7 @@ Nav: hidden
 
 ### General resources [¶](#general-resources){.pilcrow} {#general-resources}
 
+- [Machines with Brains](https://qz.com/se/machines-with-brains/1025378/machines-with-brains-what-it-mean-to-be-human-in-a-world-filled-with-robots/) (qz.com)
 - [What do we talk about when we talk about AI ethics?](https://www.linkedin.com/pulse/what-do-we-talk-when-ai-ethics-virginia-dignum) (Virginia Dignum via linkedin.com)
 - [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) ([Amir Shevat](https://twitter.com/ashevat) via techcrunch.com)
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)

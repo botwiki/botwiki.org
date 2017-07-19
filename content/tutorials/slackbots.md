@@ -49,6 +49,7 @@ See also:
 #### node.js [¶](#beginner-nodejs){.pilcrow} {#beginner-nodejs}
 
 - [Why did the chicken cross the road?](https://botwiki.org/tutorials/why-did-the-chicken-cross-the-road-slack-bot-tutorial/): Basic intro to Slack bots with with Botkit (uses OpenShift for hosting)
+- [Create a new Slack app using Botkit Studio and Glitch](https://www.youtube.com/watch?v=us2zdf0vRz0) (Howdy via youtube.com)
 - [Botkit is better with Slack’s Events API](https://medium.com/slack-developer-blog/botkit-is-better-with-slacks-events-api-f9a27e051591): create a Slack app using Botkit and [Glitch](https://glitch.com) (Eric Soelzer via medium.com)
 - [Getting Started with Slack Bots](http://www.sitepoint.com/getting-started-slack-bots/)
 - [Easy-Peasy Bots: Getting Started](https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf) (with node.js and [Botkit](http://howdy.ai/botkit/))
