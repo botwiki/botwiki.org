@@ -47,6 +47,9 @@ Nav: hidden
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">1956 <a href="https://t.co/abNMifXLQx">pic.twitter.com/abNMifXLQx</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/764912869330878469">August 14, 2016</a></blockquote>
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I spent 10 minutes discussing the <a href="https://twitter.com/hashtag/Ethics?src=hash">#Ethics</a> of <a href="https://twitter.com/hashtag/AI?src=hash">#AI</a> &amp; <a href="https://twitter.com/hashtag/Robots?src=hash">#Robots</a> with my 5 &amp; 7 year old kids. They have produced their own <a href="https://twitter.com/hashtag/RobotRules?src=hash">#RobotRules</a>! <a href="https://twitter.com/hashtag/ProudDad?src=hash">#ProudDad</a> <a href="https://t.co/gC1o8yRct5">pic.twitter.com/gC1o8yRct5</a></p>&mdash; Rob McCargow (@robmccargow) <a href="https://twitter.com/robmccargow/status/843740450397835266">March 20, 2017</a></blockquote>
 
 ### Biased algorithms [¶](#biased-algorithms){.pilcrow} {#biased-algorithms}

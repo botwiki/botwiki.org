@@ -27,10 +27,16 @@ Nav: hidden
 
 
 **See also:** [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
+
+
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net, uses JavaScript and node.js)
 - [The Node Beginner Book](https://glitch.com/edit/#!/node-beginner) (glitch.com)
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally remembered the name of my first &#39;computer&#39; - the VTech Precomputer Power Pad (1994). Wrote my first infinite loop in BASIC at age 4. <a href="https://t.co/YQcxSlaLnS">pic.twitter.com/YQcxSlaLnS</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/805425966164152320">December 4, 2016</a></blockquote>
+
 
 ### Creative programming [¶](#creative-programming){.pilcrow} {#creative-programming}
 

@@ -52,9 +52,13 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [Slack.Pipe](http://slack.datastack.co/): allows you to create custom bots from any API
 - [Natural Language Slackbots with Wit.ai and Beep Boop](https://blog.beepboophq.com/natural-language-slackbots-with-wit-ai-and-beep-boop-c007cf303c04) (tutorial)
 
+#### Design [¶](#tools-design){.pilcrow} {#tools-design}
+
+- [Bot UI Kit for Slack](https://www.avocadobots.com/botuikit): Free Sketch download (avocadobots.com)
+- [Walkie](https://walkiebot.co/): "Design Slack dialogs effortlessly"
+
 #### Other [¶](#tools-other){.pilcrow} {#tools-other}
 
-- [Walkie](https://walkiebot.co/): "Design Slack dialogs effortlessly"
 - [Slack Message Builder](https://api.slack.com/docs/formatting/builder): created by [Slack](https://twitter.com/SlackHQ)
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/): created by [Dave Stevens](https://github.com/davestevens)
 - You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example) (browsing [api.slack.com/methods](https://api.slack.com/methods) is useful in general, as you can test all of the Slack API)
