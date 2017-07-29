@@ -46,6 +46,9 @@ Nav: hidden
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
 - [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
+- [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
+- [Little Planet Procedural](http://alanluo.com/procgen/midterm.html)
+
 
 #### See also
 

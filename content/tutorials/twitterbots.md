@@ -166,6 +166,7 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [Tutorial on Python Twitter Bots](https://github.com/DSSatPitt/python-twitter-bots): a tutorial in [Jupyter Notebooks](http://jupyter.org/) (Digital Scholarship Services at the Pitt University Library System via github.com)
 - [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) with [Jupyter Notebooks](http://jupyter.org/) (lawyerist.com)
 - [Tutorial on Creative Twitterbots](https://www.slideshare.net/kimveale/tutorial-on-creative-twitterbots) (Tony Veale via slideshare.net)
+- [How I Built a Twitter Bot Using Auth0 Webtasks and Data.gov](https://auth0.com/blog/how-i-built-a-twitter-bot-using-webtask-and-data-gov/) (auth0.com)
 
 ### Intermediate tutorials [¶](#intermediate-tutorials){.pilcrow} {#intermediate-tutorials}
 

@@ -93,7 +93,8 @@ Nav: hidden
 - [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/) (technologyreview.com)
 - [AI's use in healthcare will only further perpetuate bias in medical data](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/) (qz.com)
 - [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed) (Rob Speer via github.com)
-
+- [How can we stop algorithms telling lies?](https://www.theguardian.com/technology/2017/jul/16/how-can-we-stop-algorithms-telling-lies) (theguardian.com)
+- [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
@@ -123,6 +124,8 @@ Nav: hidden
 - [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
 - [A Blueprint for Coexistence with Artificial Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence) (wired.com)
 - [Please Prove You’re Not a Robot](https://www.nytimes.com/2017/07/15/opinion/sunday/please-prove-youre-not-a-robot.html) (nytimes.com)
+- [AI Shouldn’t Believe Everything It Hears](https://www.technologyreview.com/s/608381/ai-shouldnt-believe-everything-it-hears/) (technologyreview.com)
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 

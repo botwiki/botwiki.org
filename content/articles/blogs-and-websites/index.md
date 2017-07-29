@@ -46,6 +46,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Berkeley Artificial Intelligence Research Blog](http://bair.berkeley.edu/blog/) (bair.berkeley.edu)
 - [AI Magazine](https://www.aaai.org/ojs/index.php/aimagazine/index)
 - [A16Z AI Playbook](http://aiplaybook.a16z.com/) (aiplaybook.a16z.com)
+- [Apple Machine Learning Journal](https://machinelearning.apple.com/) (machinelearning.apple.com)
 
 **See also:** [Tutorials](/tutorials/machine-learning-nlp-ai) and [resources](/resources/machine-learning-nlp-ai) for machine learning and AI
 

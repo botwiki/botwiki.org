@@ -25,16 +25,17 @@ Despite the rules concerning the Twitter API use having gotten [stricter through
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 Some example bots include:
 
-- [@censusAmericans](/bots/twitterbots/censusAmericans) -- tweeting the census one real American at a time
-- [@congressedits](/bots/twitterbots/congressedits) -- shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
-- [@mnemosynetron](/bots/twitterbots/mnemosynetron) -- a reminder bot
-- [@Betelgeuse_3](/bots/twitterbots/Betelgeuse_3) -- based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)
-- [@DearAssistant](/bots/twitterbots/DearAssistant) -- answers to all your questions
-- [@infinitedeserts](/bots/twitterbots/infinitedeserts) -- an infinity of deserts
-- [@JustDiedBot](/bots/twitterbots/JustDiedBot) -- tweets about celebrity deaths once they are posted on Wikipedia
-- [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr) -- responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
-- [@holidaybot4000](/bots/twitterbots/holidaybot4000) -- holidays, every day
-- [@riverlevel_1867](/bots/twitterbots/riverlevel_1867) -- one of 2,400+ water level-monitoring UK Twitter bots
+- [@censusAmericans](/bots/twitterbots/censusAmericans): tweeting the census one real American at a time
+- [@congressedits](/bots/twitterbots/congressedits): shows anonymous Wikipedia edits that are made from IP addresses in the US Congress
+- [@mnemosynetron](/bots/twitterbots/mnemosynetron): a reminder bot
+- [@Betelgeuse_3](/bots/twitterbots/Betelgeuse_3): based on the "obnoxious, devious ghost named Betelgeuse" from the 1988 movie [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice)
+- [@DearAssistant](/bots/twitterbots/DearAssistant): answers to all your questions
+- [@infinitedeserts](/bots/twitterbots/infinitedeserts): an infinity of deserts
+- [@JustDiedBot](/bots/twitterbots/JustDiedBot): tweets about celebrity deaths once they are posted on Wikipedia
+- [@bartleby_scrvnr](/bots/twitterbots/bartleby_scrvnr): responds to @ mentions using lines from [Bartleby, the Scrivener](https://en.wikipedia.org/wiki/Bartleby,_the_Scrivener)
+- [@holidaybot4000](/bots/twitterbots/holidaybot4000): holidays, every day
+- [@riverlevel_1867](/bots/twitterbots/riverlevel_1867): one of 2,400+ water level-monitoring UK Twitter bots
+- [@GenerateACat](/bots/twitterbots/GenerateACat/): generates a drawing of a cat when someone follows or tweets at it
   </div>
   <div class="col-sm-12 col-md-6">
     <a href="/bots/twitterbots/TheRiddlerBot">

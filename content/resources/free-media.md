@@ -13,6 +13,8 @@ Nav: hidden
 
 ### Free images [¶](#free-images){.pilcrow} {#free-images}
 
+- [ImageNet](http://image-net.org/): image database organized according to the [WordNet](https://wordnet.princeton.edu/) hierarchy (image-net.org)
+- [Open Images](https://github.com/openimages/dataset): dataset of ~9 million URLs to images that have been annotated with labels and bounding boxes spanning thousands categories (github.com)
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset): collection of 50 million drawings across 345 categories, contributed by players of the game [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/): illustrations from old books; this very site uses it extensively!
@@ -41,6 +43,7 @@ Nav: hidden
 - [ECUSTFD](https://github.com/Liang-yc/ECUSTFD-resized-): a food image dataset (2900+ images) for evaluating computer vision-based methods (github.com)
   - [Computer vision-based food calorie estimation: dataset, method, and experiment](https://arxiv.org/abs/1705.07632v3) (arxiv.org)
 - [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/): a 37 category pet dataset with roughly 200 images for each class (robots.ox.ac.uk)
+- [Amazing Stories](https://archive.org/search.php?query=title%3A%28amazing+stories%29+AND+collection%3A%28pulpmagazinearchive%29&page=1): the world’s first science fiction magazine, launched in 1926 (archive.org)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 These are not always downloadable, but you can at least freely link to them.

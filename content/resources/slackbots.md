@@ -39,8 +39,7 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 
 #### PHP [¶](#libraries-frameworks-php){.pilcrow} {#libraries-frameworks-php}
 
-- [mpociot/slackbot](https://github.com/mpociot/slackbot): "a framework agnostic PHP library that is designed to simplify the task of developing innovative bots for Slack"
-  - [Build your own Slack Bot with this PHP library](https://laravel-news.com/2016/11/slack-bot) (laravel-news.com)
+- [BotMan](https://github.com/botman/botman): PHP library for developing bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat
 
 
 ### Tools [¶](#tools){.pilcrow} {#tools}

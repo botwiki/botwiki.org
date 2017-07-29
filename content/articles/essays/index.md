@@ -88,7 +88,10 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm) (idlewords.com)
 - [AI: Process v Output](https://medium.com/@peterbihr/ai-process-v-output-56af9ee67bd2) (Peter Bihr via medium.com)
 - [Eyes Without a Face](http://reallifemag.com/eyes-without-a-face/) (reallifemag.com)
+- [Togelius: Some advice for journalists writing about artificial intelligence](http://togelius.blogspot.se/2017/07/some-advice-for-journalists-writing.html?m=1) (togelius.blogspot.se)
 - [Has human communication become botifed?](https://www.ibm.com/blogs/think-leaders/new-thinking/human-communication-become-botifed/) (ibm.com)
+- [For 4 Seattle women called Alexa, it’s funny, frustrating to share name with Amazon device](http://www.seattletimes.com/life/for-4-seattle-women-called-alexa-its-fun-frustrating-to-share-name-with-amazon-device/)
+
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

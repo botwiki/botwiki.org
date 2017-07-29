@@ -27,8 +27,11 @@ Nav: hidden
 
 ### General bot frameworks [¶](#bot-frameworks){.pilcrow} {#bot-frameworks}
 
-- [Botkit](https://github.com/howdyai/botkit)
-- [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Botkit](https://github.com/howdyai/botkit): a toolkit for making bot applications (github.com)
+- [Microsoft Bot Framework](https://dev.botframework.com/): supports Cortana, Skype, Teams, Office 365 mail, Slack, Facebook Messenger, Skype for Business, and more (dev.botframework.com)
+- [BotMan](https://github.com/botman/botman): PHP library for developing bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat (github.com)
+- [BotUI](https://botui.org/): A JavaScript framework to build conversational UIs (botui.org)
+  - [BotUI on GitHub](https://github.com/moinism/botui)
 
 For libraries and frameworks for specific networks [check out the Resources page](/resources/#specific-resources).
 

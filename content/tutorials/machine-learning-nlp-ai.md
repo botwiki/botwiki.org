@@ -48,7 +48,11 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
-- [Machine Learning Crash Course]: [Part one](http://ml.berkeley.edu/blog/2016/11/06/tutorial-1/), and [part two](http://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) (ml.berkeley.edu)
+- Machine Learning Crash Course (ml.berkeley.edu)
+  - [Part one](http://ml.berkeley.edu/blog/2016/11/06/tutorial-1/)
+  - [Part two](http://ml.berkeley.edu/blog/2016/12/24/tutorial-2/) 
+  - [Part three](https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/)
+  - [Part four](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/): The Bias-Variance Dilemma
 - [Machine Learning 101: An Intro to Utilizing Decision Trees](http://www.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees)
 - [Machine learning cheat sheet map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) -- "choosing the right estimator"
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
@@ -72,6 +76,8 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) (martin.zinkevich.org, PDF)
 - [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) (Thomas Johnson via github.com)
 - [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837) (Rasmus Rothe via medium.com)
+- [Deep Learning Made Simple](https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/) (blog.vivekpanyam.com)
+- [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Google Design via medium.com)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
