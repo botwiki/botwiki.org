@@ -13,7 +13,7 @@ Nav: hidden
 
 ### Free images [¶](#free-images){.pilcrow} {#free-images}
 
-- [ImageNet](http://image-net.org/): image database organized according to the [WordNet](https://wordnet.princeton.edu/) hierarchy (image-net.org)
+- [ImageNet](http://image-net.org/): image database organized according to tzhe [WordNet](https://wordnet.princeton.edu/) hierarchy (image-net.org)
 - [Open Images](https://github.com/openimages/dataset): dataset of ~9 million URLs to images that have been annotated with labels and bounding boxes spanning thousands categories (github.com)
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset): collection of 50 million drawings across 345 categories, contributed by players of the game [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a large database of freely usable media files (images, sounds, videos)
@@ -46,6 +46,7 @@ Nav: hidden
 - [Amazing Stories](https://archive.org/search.php?query=title%3A%28amazing+stories%29+AND+collection%3A%28pulpmagazinearchive%29&page=1): the world’s first science fiction magazine, launched in 1926 (archive.org)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
+
 These are not always downloadable, but you can at least freely link to them.
 
 - [The Local News: An Archive](https://archive.org/details/localnewsarchive): a large collection of samples of local news programs and broadcasting styles over the decades (archive.org)
@@ -57,6 +58,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [coverr.co](http://www.coverr.co/): more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/): archive of wildlife sounds and videos
 - [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions (deepmind.com)
+- [NASA Armstrong Flight Research Center](https://www.youtube.com/user/DrydenTV/videos): hours of aerospace history (youtube.com)
 
 ### Free audio [¶](#free-audio){.pilcrow} {#free-audio}
 

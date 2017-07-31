@@ -91,7 +91,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Togelius: Some advice for journalists writing about artificial intelligence](http://togelius.blogspot.se/2017/07/some-advice-for-journalists-writing.html?m=1) (togelius.blogspot.se)
 - [Has human communication become botifed?](https://www.ibm.com/blogs/think-leaders/new-thinking/human-communication-become-botifed/) (ibm.com)
 - [For 4 Seattle women called Alexa, it’s funny, frustrating to share name with Amazon device](http://www.seattletimes.com/life/for-4-seattle-women-called-alexa-its-fun-frustrating-to-share-name-with-amazon-device/)
-
+- [Human-Centered Artificial Intelligence](https://medium.com/@mark_riedl/human-centered-artificial-intelligence-70b019f956d1) (Mark Riedl via medium.com)
+- [The Artificial Intelligence Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (waitbutwhy.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

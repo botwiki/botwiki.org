@@ -32,6 +32,7 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 - [Five robots that are changing everything](http://www.bbc.com/news/av/technology-40306617/five-robots-that-are-changing-everything) (video, bbc.com) 
 - [How to replace yourself with a very small shell script](https://boingboing.net/2017/06/30/next-level-regexp.html) (boingboing.net)
 - [At the Intersection of AI, Governments, and Google](https://www.youtube.com/watch?v=kEgeHOtsxrE) (Tim Hwang via youtube.com)
+- [Making Music and Art Through Machine Learning](http://blog.ycombinator.com/making-music-and-art-through-machine-learning-doug-eck-of-magenta/) (blog.ycombinator.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

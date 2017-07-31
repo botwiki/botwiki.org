@@ -125,6 +125,7 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai) (github.com)
   - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md) (github.com)
   - [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md) (github.com)
+- [An Introduction to Twitterbots with Tracery](https://programminghistorian.github.io/ph-submissions/lessons/intro-to-twitterbots) (programminghistorian.github.io)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/): tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (cmuems.com)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots) (Code Kitchen via github.com)
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767) (barrl.net)
