@@ -34,6 +34,9 @@ Nav: hidden
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
   - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
 - [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
+- [EasyGen](https://github.com/markriedl/easygen):  a visual user interface to help set up simple neural network generation tasks (Mark Riedl via github.com)
+- [Facets](https://github.com/pair-code/facets): visualizations for machine learning datasets
+  - [related blog post](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html) (research.googleblog.com)
 
 ### Frameworks and libraries [¶](#frameworks-and-libraries){.pilcrow} {#frameworks-and-libraries}
 
@@ -52,6 +55,9 @@ Nav: hidden
 - [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
 - [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition): end-to-end automatic speech recognition from scratch in Tensorflow
 - [vacancy/TensorArtist](https://github.com/vacancy/TensorArtist): collection of machine learning models
+- [ArunMichaelDsouza/tensorflow-image-detection](https://github.com/ArunMichaelDsouza/tensorflow-image-detection): a generic image detection program that uses Google's Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception (github.com)
+- [oarriaga/face_classification](https://github.com/oarriaga/face_classification): real-time face detection and emotion classification (github.com)
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech): A TensorFlow implementation of Baidu's DeepSpeech architecture (github.com)
 
 **See also:** [tensortalk.com](https://tensortalk.com/)
 
@@ -93,6 +99,11 @@ Resynthesis for Gaze Manipulation
   - [Through Robot Eyes (or) Image Recognition: Dawn of the APIs](https://www.parthenonsoftware.com/blog/through-robot-eyes-or-image-recognition-dawn-of-the-apis/) (parthenonsoftware.com)
 - [Dreamcanvas](https://dream.almost.digital/) (dream.almost.digital)
 - [Create with AI](http://createwith.ai/) (createwith.ai, Japanese)
+- [junyanz/CatPapers](https://github.com/junyanz/CatPapers): Cool vision, learning and graphics papers on Cats! (github.com)
+- [Meow Generator](https://ajolicoeur.wordpress.com/cats/): generate pictures of cats with Generative Adversarial Networks (ajolicoeur.wordpress.com)
+  - [AlexiaJM/Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) (github.com)
+- [ACVT capability demonstrator](http://demo.cs.adelaide.edu.au/) (demo.cs.adelaide.edu.au)
+- [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}

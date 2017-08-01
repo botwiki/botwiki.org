@@ -15,6 +15,8 @@ Nav: hidden
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
+- [shiffman/ChatBot-Workshop](https://github.com/shiffman/ChatBot-Workshop): resources, code for ITP Camp Workshop (github.com)
+
 A great resource for making online chatbots is [Chatbots Magazine](https://chatbotsmagazine.com/). Some of their articles include:
 
 - [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca)
@@ -24,6 +26,8 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Animatronic Elephants and Other Bot Design Revelations](https://chatbotsmagazine.com/animatronic-elephants-and-other-bot-design-revelations-a1a297ae2941)
 - [How Artists Can Leverage Bots In 2017](https://chatbotsmagazine.com/how-artists-can-utilize-bots-in-2017-192554ac3df3)
 - [Do you want your chatbot converse in foreign languages? My learnings from bot devs.](https://chatbotsmagazine.com/do-you-want-your-chatbot-converse-in-foreign-languages-my-learnings-from-bot-devs-9b608f685f5b)
+
+
 
 #### Convincing conversations [¶](#convincing-conversations){.pilcrow} {#convincing-conversations}
 
@@ -59,11 +63,13 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [What we can learn from Alexa’s mistakes](https://uxdesign.cc/what-we-can-learn-from-alexas-mistakes-a4670a9e6c3e) (uxdesign.cc)
 - [We need to talk about Accessibility on Chatbots](https://uxdesign.cc/we-need-to-talk-about-accessibility-on-chatbots-98cf93c54963) (uxdesign.cc)
 - [Bot Design Guide](https://docs.google.com/spreadsheets/d/1LHfvDS0lBQKv15cN-6HbAJzqbCfhPNW1PyPnswQ0PPM/edit#gid=472119151) ([related blog post](https://chatbotslife.com/ultimate-bot-design-guide-a-living-doc-69a589ee0028))
-
+- [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a) (studio.carnegiemuseums.org)
+- [Prototyping for Voice: Methodology](http://www.bbc.co.uk/rd/blog/2017-06-voice-ui-user-interface-children-drama) (bbc.co.uk)
+- [Pushing messaging platforms beyond their boundaries](http://www.poynter.org/2017/pushing-messaging-platforms-beyond-their-boundaries/467182/) (poynter.org)
 
 #### See also
 
-- the general [Tools](/resources/tools) section
+- the [Tools](/resources/tools) section
 - [mortenjust/awesome-conversational](https://github.com/mortenjust/awesome-conversational/)
 - [10 links to get started with Conversational UI and chatbots](https://uxdesign.cc/10-links-to-get-started-with-conversational-ui-and-chatbots-3c0920ef4723) (uxdesign.cc)
 - [BotSpeak: 1 human, 200+ bots, 892 bot dialogs](https://keyreply.com/botspeak/) (keyreply.com/botspeak)

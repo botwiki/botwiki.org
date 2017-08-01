@@ -46,6 +46,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [swizzard/botmaster](https://github.com/swizzard/botmaster): making Twitter bots easier
 - [bgporter/nanobot](https://github.com/bgporter/nanobot): a tiny little Python twitterbot framework (see [related blog post](https://artandlogic.com/2016/06/nanobot-tiny-little-twitterbot-framework/))
 - [kootenpv/twitterqa](https://github.com/kootenpv/twitterqa): a Deep learning-based chatbot
+- [tommeagher/heroku_ebooks](https://github.com/tommeagher/heroku_ebooks): a Heroku worker script to post to an _ebooks version of your Twitter account
 
 
 #### Ruby [¶](#twitterbot-frameworks-ruby){.pilcrow} {#twitterbot-frameworks-ruby}
@@ -58,7 +59,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 #### Java [¶](#twitterbot-frameworks-java){.pilcrow} {#twitterbot-frameworks-java}
 
 - [joesondow/markov](https://github.com/joesondow/markov): a template for [Markov chain](https://simple.wikipedia.org/wiki/Markov_chain) Twitter bots
-- [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base: template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
+- [joesondow/lambda-twitter-base](https://github.com/joesondow/lambda-twitter-base): template project for building Twitter bots with Java and [AWS Lambda](https://aws.amazon.com/lambda/)
 
 #### Other languages [¶](#twitterbot-frameworks-other){.pilcrow} {#twitterbot-frameworks-other}
 

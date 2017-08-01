@@ -34,7 +34,7 @@ Nav: hidden
 
 ### Misbehaving bots [¶](#misbehaving-bots){.pilcrow} {#misbehaving-bots}
 - [You Are The Bot: An intervention for bot developers](https://fourtonfish.com/blog/2016-03-18-you-are-the-bot/)
-- [Bots Should Punch Up](bots-should-punch-up) (crummy.com)
+- [Bots Should Punch Up](/articles/bots-should-punch-up) (crummy.com)
 - [Basic Twitter bot etiquette](/articles/basic-twitter-bot-etiquette-tiny-subversions): applies to *all* bots (Darius Kazemi)
 - [Bots Need to Learn Some Manners, and It’s on Us to Teach Them](http://www.wired.com/2016/04/bots-emergent-behavior-deception/) (wired.com)
 - [How to Make a Bot That Isn't Racist](http://motherboard.vice.com/read/how-to-make-a-not-racist-bot) (motherboard.vice.com)
@@ -46,6 +46,9 @@ Nav: hidden
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb) (Amir Shevat via Slack Platform Blog)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">1956 <a href="https://t.co/abNMifXLQx">pic.twitter.com/abNMifXLQx</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/764912869330878469">August 14, 2016</a></blockquote>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I spent 10 minutes discussing the <a href="https://twitter.com/hashtag/Ethics?src=hash">#Ethics</a> of <a href="https://twitter.com/hashtag/AI?src=hash">#AI</a> &amp; <a href="https://twitter.com/hashtag/Robots?src=hash">#Robots</a> with my 5 &amp; 7 year old kids. They have produced their own <a href="https://twitter.com/hashtag/RobotRules?src=hash">#RobotRules</a>! <a href="https://twitter.com/hashtag/ProudDad?src=hash">#ProudDad</a> <a href="https://t.co/gC1o8yRct5">pic.twitter.com/gC1o8yRct5</a></p>&mdash; Rob McCargow (@robmccargow) <a href="https://twitter.com/robmccargow/status/843740450397835266">March 20, 2017</a></blockquote>
 
@@ -85,6 +88,13 @@ Nav: hidden
 - [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183) (sciencemag.org)
 - ['A white mask worked better': why algorithms are not colour blind](https://www.theguardian.com/technology/2017/may/28/joy-buolamwini-when-algorithms-are-racist-facial-recognition-bias) (theguardian.com)
 - [The fight against racist algorithms](https://theoutline.com/post/1571/the-fight-against-racist-algorithms) (theoutline.com)
+- [To err is algorithm: Algorithmic fallibility and economic organisation](https://medium.com/towards-data-science/to-err-is-algorithm-algorithmic-fallibility-and-economic-organisation-dbe18bb32abc) (Juan Mateos-Garcia via medium.com)
+- [The Algorithmic Justice League](https://medium.com/mit-media-lab/the-algorithmic-justice-league-3cc4131c5148) (Joy Buolamwini via medium.com)
+- [Inspecting Algorithms for Bias](https://www.technologyreview.com/s/607955/inspecting-algorithms-for-bias/) (technologyreview.com)
+- [AI's use in healthcare will only further perpetuate bias in medical data](https://qz.com/1023448/if-youre-not-a-white-male-artificial-intelligences-use-in-healthcare-could-be-dangerous/) (qz.com)
+- [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed) (Rob Speer via github.com)
+- [How can we stop algorithms telling lies?](https://www.theguardian.com/technology/2017/jul/16/how-can-we-stop-algorithms-telling-lies) (theguardian.com)
+- [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
 
@@ -111,10 +121,15 @@ Nav: hidden
 - [Algorithmic accountability](https://techcrunch.com/2017/04/30/algorithmic-accountability/) (techcrunch.com)
 - [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
 - [Artificial Intelligence Owes You an Explanation](http://www.slate.com/articles/technology/future_tense/2017/05/why_artificial_intelligences_should_have_to_explain_their_actions.html) (slate.com)
+- [Magic AI: these are the optical illusions that trick, fool, and flummox computers](https://www.theverge.com/2017/4/12/15271874/ai-adversarial-images-fooling-attacks-artificial-intelligence) (theverge.com)
+- [A Blueprint for Coexistence with Artificial Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence) (wired.com)
+- [Please Prove You’re Not a Robot](https://www.nytimes.com/2017/07/15/opinion/sunday/please-prove-youre-not-a-robot.html) (nytimes.com)
+- [AI Shouldn’t Believe Everything It Hears](https://www.technologyreview.com/s/608381/ai-shouldnt-believe-everything-it-hears/) (technologyreview.com)
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. <a href="https://t.co/4ckbQlMyBS">pic.twitter.com/4ckbQlMyBS</a></p>&mdash; Kasper Hawser (@Gossenphilosoph) <a href="https://twitter.com/Gossenphilosoph/status/884769533810143237">July 11, 2017</a></blockquote>
 
 
 ### Life of a bot [¶](#life-of-a-bot){.pilcrow} {#life-of-a-bot}
@@ -129,7 +144,9 @@ Nav: hidden
 - [REPORT: 1 in 4 people have fantasised about Alexa, Siri, and other AI assistants](http://www.businessinsider.com/jwt-speak-easy-study-people-fantasised-about-alexa-2017-4)
 - [Why People Treat Bots Like People](https://chatbotsmagazine.com/why-people-treat-bots-like-people-1c3d7afafca8) (chatbotsmagazine.com)
 - [AI ‘victims’ of sexism answer back](https://www.raconteur.net/technology/ai-victims-of-sexism-answer-back) (raconteur.net)
-
+- [Tech Etiquette: The Real Reason You Need to be Polite to Alexa](https://medium.com/@rafe/tech-etiquette-the-real-reason-you-need-to-be-polite-to-alexa-6a76f97d0803) (Rafe Needleman via medium.com)
+- [Robot Tries to Escape from Children's Abuse](https://www.youtube.com/watch?v=CuJT9EtdETY) (youtube.com)
+- [What Interacting With Robots Might Reveal About Human Nature](https://www.theatlantic.com/technology/archive/2017/06/kate-darling-robots-aspen/532194/) (theatlantic.com)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
 
@@ -137,6 +154,7 @@ Nav: hidden
 
 ### General resources [¶](#general-resources){.pilcrow} {#general-resources}
 
+- [Machines with Brains](https://qz.com/se/machines-with-brains/1025378/machines-with-brains-what-it-mean-to-be-human-in-a-world-filled-with-robots/) (qz.com)
 - [What do we talk about when we talk about AI ethics?](https://www.linkedin.com/pulse/what-do-we-talk-when-ai-ethics-virginia-dignum) (Virginia Dignum via linkedin.com)
 - [Hard questions about bot ethics](https://techcrunch.com/2016/09/16/hard-questions-about-bot-ethics/) ([Amir Shevat](https://twitter.com/ashevat) via techcrunch.com)
 - [Do no harm, don't discriminate](https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute) (theguardian.com)

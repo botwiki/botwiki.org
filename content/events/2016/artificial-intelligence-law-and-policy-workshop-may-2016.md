@@ -4,7 +4,7 @@ Link: https://www.law.uw.edu/events/artificial-intelligence-law-and-policy
 Date: May 24, 2016
 Description: A public workshop on the law and policy of artificial intelligence.
 Thumbnail: /content/events/images/white-house-artificial-intelligence.jpg
-Tags: event,archived
+Tags: event,archived,video
 */
 
 > The University of Washington School of Law is delighted to announce a public workshop on the law and policy of artificial intelligence, co-hosted by the White House and UW’s Tech Policy Lab. The event places leading artificial intelligence experts from academia and industry in conversation with government officials interested in developing a wise and effective policy framework for this increasingly important technology. The event is free and open to the public but requires registration.

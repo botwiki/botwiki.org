@@ -1,14 +1,15 @@
 /*
 Title: What is a bot?
 Description: The Botmakers community ponders on what a bot is. 
+Thumbnail: /content/what-is-a-bot/images/bot-likes-pizza.png
 Show donation link: yes
 Nav: hidden
 */
 
 
-I [asked](https://botwiki.org/survey/quick-bot-survey) the [Botmakers](https://botmakers.org/) community how they'd define the word bot. Here's what they had to say.
+For the purposes of Botwiki, a **bot** is a program that uses an online forum, social media website, or other online communication tool or network for its output and, optionally, also for its input.
 
-
+We [asked](https://botwiki.org/survey/quick-bot-survey) the [Botmakers](https://botmakers.org/) community how they'd define the word bot. Here's what they had to say.
 
 > For me a bot is essentially a machine contextually programmed to interact with users or serve a community of users with specific content for a specific purpose.
 >

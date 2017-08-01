@@ -155,13 +155,10 @@ ready(function(){
     return null;
   }
 
-  try{
-    hljs.initHighlightingOnLoad();
-  }
-  catch(err){/*noop*/}
-
   if(window.location.hash) {
-    smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});
+    setTimeout(function(){
+      smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
+    }, 700);
   }
 
   document.getElementById('back-to-top').addEventListener("click", function(ev){
@@ -215,6 +212,9 @@ TODO: Work in progress: AJAXifying the site.
     }
   });
 */
+
+    hljs.initHighlighting.called = false;
+    hljs.initHighlighting();
 
 });
 

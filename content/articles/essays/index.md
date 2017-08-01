@@ -62,10 +62,16 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Shape grammars: procedural generation techniques for virtual cities](https://cis700-procedural-graphics.github.io/files/shape_grammar_2_7_17.pdf) (PDF, cis700-procedural-graphics.github.io)
 - [When the Machine Made Art – Grant Taylor traces the origins of computational creativity](http://www.creativeapplications.net/theory/when-the-machine-made-art-grant-taylor-traces-the-origins-of-computer-art/) (creativeapplications.net)
 - [The Strange Victorian Computer That Generated Latin Verse](http://www.atlasobscura.com/articles/the-strange-victorian-computer-that-generated-latin-verse) (atlasobscura.com)
+- [Your Bot Art Belongs in a Museum](http://secretcave.co/bot-art-museum/) (secretcave.co)
+- [Computers and humans and super-creativity](https://www.axios.com/theres-a-limit-to-computer-creativity-2427178561.html) (axios.com)
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">asking &quot;can a computer generate shakespeare?&quot; to me is less interesting than asking e.g. &quot;what would gertrude stein have made w/tensorflow?&quot;</p>&mdash; Allison Parrish (@aparrish) <a href="https://twitter.com/aparrish/status/860351704570658816">May 5, 2017</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the computer poet&#39;s muse (1966) <a href="https://t.co/VTshAOn0TU">pic.twitter.com/VTshAOn0TU</a></p>&mdash; James Ryan (@xfoml) <a href="https://twitter.com/xfoml/status/885339450309459969">July 13, 2017</a></blockquote>
 
 ### Unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 
@@ -82,6 +88,11 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Superintelligence: The Idea That Eats Smart People](http://idlewords.com/talks/superintelligence.htm) (idlewords.com)
 - [AI: Process v Output](https://medium.com/@peterbihr/ai-process-v-output-56af9ee67bd2) (Peter Bihr via medium.com)
 - [Eyes Without a Face](http://reallifemag.com/eyes-without-a-face/) (reallifemag.com)
+- [Togelius: Some advice for journalists writing about artificial intelligence](http://togelius.blogspot.se/2017/07/some-advice-for-journalists-writing.html?m=1) (togelius.blogspot.se)
+- [Has human communication become botifed?](https://www.ibm.com/blogs/think-leaders/new-thinking/human-communication-become-botifed/) (ibm.com)
+- [For 4 Seattle women called Alexa, it’s funny, frustrating to share name with Amazon device](http://www.seattletimes.com/life/for-4-seattle-women-called-alexa-its-fun-frustrating-to-share-name-with-amazon-device/)
+- [Human-Centered Artificial Intelligence](https://medium.com/@mark_riedl/human-centered-artificial-intelligence-70b019f956d1) (Mark Riedl via medium.com)
+- [The Artificial Intelligence Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (waitbutwhy.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

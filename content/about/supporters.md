@@ -23,7 +23,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 - [@Kimik00](https://twitter.com/Kimik00)
 - [Noah Petherbridge](https://www.kirsle.net/?ref=botwiki)
 - [@filmplane](http://matthewspencerphotography.com/?ref=botwiki)
-- [@tinyworlds](http://twitter.com/tinyworlds) ([personal website](http://tinyworlds.org/?ref=botwiki))
+- [@tinyruin](http://twitter.com/tinyruin) ([personal website](http://tinyworlds.org/?ref=botwiki))
 - [cosmophagy](http://cosmophagy.tumblr.com/?ref=botwiki)
 - [revdancatt](http://revdancatt.com/?ref=botwiki)
 

@@ -1,1 +1,3 @@
-[There was no 2015 Bot Summit!](https://botwiki.org/events/nyc-botally-meetup-october-2015/)
+# There was no 2015 Bot Summit
+
+[Yep.](/events/2015/nyc-botally-meetup-october-2015/)

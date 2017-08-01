@@ -18,6 +18,7 @@ Nav: hidden
   - [Rhyming and pronunciation](#language-rhyme-pronunciation)
   - [Other language libraries](#language-other)
 - [Images](#images)
+- [Math and data](#math-data)
 - [APIs](#apis)
 - [Web scraping and parsing](#web-scraping-parsing)
 - [Machine learning, AI](#machine-learning-ai)
@@ -26,8 +27,11 @@ Nav: hidden
 
 ### General bot frameworks [¶](#bot-frameworks){.pilcrow} {#bot-frameworks}
 
-- [Botkit](https://github.com/howdyai/botkit)
-- [Microsoft Bot Framework](https://dev.botframework.com/)
+- [Botkit](https://github.com/howdyai/botkit): a toolkit for making bot applications (github.com)
+- [Microsoft Bot Framework](https://dev.botframework.com/): supports Cortana, Skype, Teams, Office 365 mail, Slack, Facebook Messenger, Skype for Business, and more (dev.botframework.com)
+- [BotMan](https://github.com/botman/botman): PHP library for developing bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat (github.com)
+- [BotUI](https://botui.org/): A JavaScript framework to build conversational UIs (botui.org)
+  - [BotUI on GitHub](https://github.com/moinism/botui)
 
 For libraries and frameworks for specific networks [check out the Resources page](/resources/#specific-resources).
 
@@ -113,16 +117,29 @@ For libraries and frameworks for specific networks [check out the Resources page
 - [aleju/cat-generator](https://github.com/aleju/cat-generator): generate cat images with neural networks
 - [Newmu/dcgan_code](https://github.com/Newmu/dcgan_code): generate any image
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv): OpenCV Bindings for node.js
+- [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs): node.js module for scientific computing with JavaScript and basic image processing
+
 
 #### Python [¶](#images-python){.pilcrow} {#images-python}
 
 - [paarthneekhara/text-to-image](https://github.com/paarthneekhara/text-to-image): text to image synthesis using thought vectors
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix): image-to-image translation using conditional adversarial nets
+- [friggog/tree-gen](https://github.com/friggog/tree-gen): procedural generation of trees
+
 
 #### Lua [¶](#images-lua){.pilcrow} {#images-lua}
 
 - [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask): Torch implementation of [DeepMask and SharpMask](https://code.facebook.com/posts/561187904071636)
 
+### Math and data [¶](#math-data){.pilcrow} {#math-data}
+
+##### node.js [¶](#math-data-nodejs){.pilcrow} {#math-data-nodejs}
+
+- [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs): node.js module for scientific computing with JavaScript and basic image processing
+
+##### Python [¶](#math-data-nodejs){.pilcrow} {#math-data-nodejs}
+
+- [NumPy](http://www.numpy.org/): the fundamental package for scientific computing with Python (numpy.org)
 
 ### APIs [¶](#apis){.pilcrow} {#apis}
 

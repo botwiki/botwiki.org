@@ -1,5 +1,5 @@
 /*
-  TODO: This is a slightly modified default Pico theme, needs to be heavily re-organized and rewritten.
+  TODO: This is a modified default Pico theme, needs to be heavily re-organized and rewritten.
 */
 
 /*=================================*/
@@ -57,6 +57,15 @@ article{
   }
 }
 
+h1, h2{
+  span{
+    color: #fff;
+    background-color: #38313a;
+    padding: 10px;
+    line-height: 2em;
+    box-decoration-break: clone;
+  }
+}
 
 
 div.search-results-intro{
@@ -79,6 +88,10 @@ pre code{
 div.content-wrapper{
   margin: 0 auto;
   animation: reveal 0.6s normal forwards ease-in-out;
+}
+
+.search-results-wrapper{
+  padding: 0 1em;
 }
 
 /* hand cursor on clickable input elements */
@@ -176,7 +189,7 @@ select:focus{
 /* Main Styles
 /*---------------------------------------------*/
 body{
-  font: 1.2em 'Open Sans', sans-serif;
+  font: 1.1em 'Open Sans', sans-serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -208,7 +221,7 @@ h1, h2, h3, h4, h5, h6{
   text-transform: uppercase;
   max-width: @max-content-width;
   margin: 0 auto !important;
-  font-family: 'Anton', serif;  
+  font-family: 'Anton', sans-serif;  
   color: @main-color;
   line-height: 1.2em;
   margin: 0 auto;
@@ -514,6 +527,20 @@ div.all-tags{
   }
 }
 
+.tags {
+  a{
+    background-color: #afafaf;
+    color: #fff;
+    text-decoration: none;
+    line-height: 2em;
+    padding: 5px;
+    white-space: nowrap;
+
+    &:hover{
+      background-color: #999;
+    }
+  }
+}
 
 /* Structure Styles
 /*---------------------------------------------*/
@@ -555,7 +582,7 @@ label.cursor-pointer{
 
 a#logo{
   float: left;
-  margin: 0.1em 0.7em 0 0;
+  margin: 0 0.7em 0 0;
   color: #fff !important;
   text-decoration: none !important;
 
@@ -580,7 +607,7 @@ ul#menu{
   a{ 
     color: #5D9CEC; 
     @media (min-width: @site-width-small){
-      padding-bottom: 8px;
+      padding-bottom: 0;
     }
     &, &:hover{
       transition: border 0.1s;
@@ -602,7 +629,7 @@ ul#menu{
 
   ul{
     list-style: none;
-    padding-top: 0.6em;
+    padding-top: 0.3em;
     margin: 0;
   }
 
@@ -636,8 +663,8 @@ ul#menu{
   nav{
     list-style: none;
     margin: 0.2em 0 0;
-    font-family: 'Anton', serif;
-    font-weight: 100;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.2em;
 
     li{
       margin-top: -5px;
@@ -853,8 +880,8 @@ p.screenshot img,
 a.screenshot img,
 img.screenshot,
 img.photo{
-  border: 1px solid #ddd;
-  box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+  border: 1px solid #525252;
+  box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
   margin-bottom: 1.5em;
 }
 
@@ -985,11 +1012,14 @@ p.search-instructions code{
 
 div.search-item{
   max-width: @max-content-width;
-  margin: 0 auto;
-  border: 1px solid #eee;
+  margin: 2em auto;
+  border: 1px solid #525252;
   padding: 2em 0 1em;
-  box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
-  margin-bottom: 2em;
+  box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
+
+  p.meta{
+    font-style: italic;
+  }
 
   .screenshot{
     box-shadow: none;
@@ -1015,20 +1045,19 @@ div.search-item{
 
 .note.donations{
   padding: 0;
-  margin: 3em auto;
+  margin: 0 auto;
+  p{
+    margin: 0 auto !important;
+  }
 }
 
 div.donations-top-fix{
   @media (min-width: @site-width-small){
-    margin-top: -1.1rem;
+    margin-bottom: 2rem;
     .note.donations{
       margin-top: auto;
     }
   }
-}
-
-body.front-page .note.donations{
-  margin: 3em 0;
 }
 
 span.normal-text{
@@ -1059,6 +1088,9 @@ div.meta{
   }
   p{
     padding: .1rem 2rem;
+  }
+  .meta-date{
+    font-style: italic;
   }
 }
 
@@ -1103,9 +1135,6 @@ p.ssbg-attribution{
   }
 }
 
-div.search-item p.meta{
-  font-style: italic;
-}
 
 div.meta p.last-updated{
   font-size: 0.9em;
@@ -1243,8 +1272,8 @@ img.logo-digitalocean{
         }
         margin: 0;
         opacity: 0;
-        transition: all 0.1s;
-        margin-left: 30px;
+        transition: all 0.3s;
+        transform: translateX(50%);
       }
 
       a{
@@ -1265,11 +1294,12 @@ img.logo-digitalocean{
     padding: 20px;
     background: #fff;
     box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-    right: -100px;
+    transform: translateX(-50%);
     top: 2em;
+    left: 0;
     width: 100%;
     z-index: 9999;
-    transition: all 0.2s;
+    transition: all 0.3s;
     pointer-events: none;
   }
 
@@ -1327,11 +1357,12 @@ img.logo-digitalocean{
   #header nav #menu-toggle:checked ul,
   #menu-toggle:checked + #menu{
     opacity: 1;
-    right: 0;
+    transform: none;
     pointer-events: all;
   }
   #header nav #menu-toggle:checked + #menu li{
     margin-left: 0;
+    transform: none;
     opacity: 1;
   }
 }
@@ -1399,7 +1430,7 @@ a#search-help{
   color: #dadada !important;
   top: 1.1em;
   @media (min-width: @site-width-small){
-    top: 1.4em;
+    top: 1.2em;
     margin-left: -25px;
   }
 }
@@ -1416,20 +1447,66 @@ video {
   height: auto !important;
 }
 
-.video-wrapper {
-  position: relative;
-  margin: 3em 0;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
-  height: 0;
+.video-background{
+  background-color: #000;
+  height: 315px;
+  margin: 2em 0;
 }
 
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+.video-wrapper {
+  position: relative;
+  margin: 3em auto;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 315px;
+  max-width: 600px;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* height: 100%; */
+    height: 315px;
+  }
+}
+
+/* Google Search tweaks */
+
+
+.gsc-control-cse .gsc-option-menu-container{
+  width: 11em;
+}
+
+.gsc-selected-option-container.gsc-inline-block{
+  width: 120% !important;
+}
+
+.gs-image-box.gs-web-image-box.gs-web-image-box-landscape,
+.gs-web-image-box, .gs-promotion-image-box, img.gs-image{
+  width: 200px !important;
+  min-width: 200px !important;
+  @media (max-width: @site-width-small){
+    width: 100px !important;
+    min-width: 100px !important;
+  }
+}
+
+.gsc-table-cell-snippet-close, .gs-promotion-text-cell{
+  padding: 0 10px;
+}
+
+.gsc-webResult.gsc-result{
+  padding: 0 !important;
+
+  &:hover{
+    border-left: 1px solid #fff !important;
+  }
+}
+
+.gsc-control-cse .gs-result .gs-title,
+.gs-result .gs-snippet{
+  font-size: 1.2em !important;
 }
 
 /* Grid system tweaks */

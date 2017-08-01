@@ -13,6 +13,8 @@ Nav: hidden
 
 ### Free images [¶](#free-images){.pilcrow} {#free-images}
 
+- [ImageNet](http://image-net.org/): image database organized according to tzhe [WordNet](https://wordnet.princeton.edu/) hierarchy (image-net.org)
+- [Open Images](https://github.com/openimages/dataset): dataset of ~9 million URLs to images that have been annotated with labels and bounding boxes spanning thousands categories (github.com)
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset): collection of 50 million drawings across 345 categories, contributed by players of the game [Quick, Draw!](https://quickdraw.withgoogle.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page): a large database of freely usable media files (images, sounds, videos)
 - [Old Book Illustrations](http://www.oldbookillustrations.com/): illustrations from old books; this very site uses it extensively!
@@ -38,8 +40,13 @@ Nav: hidden
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car): image frames from car-mounted cameras, and information about latitude, longitude, gear, brake, throttle, steering angles and speed
 - [The Behance Artistic Media Dataset](https://bam-dataset.org/): Automatically-labeled binary attribute scores for over 2.5 million images across 20 attributes each, and more (bam-dataset.org)
 - [David Rumsey Historical Map Collection](http://www.davidrumsey.com/luna/servlet/RUMSEY~8~1): over 67,000 images of 16th through 21st century maps of America, North America, South America, Europe, Asia, Africa, Pacific and the World (davidrumsey.com)
+- [ECUSTFD](https://github.com/Liang-yc/ECUSTFD-resized-): a food image dataset (2900+ images) for evaluating computer vision-based methods (github.com)
+  - [Computer vision-based food calorie estimation: dataset, method, and experiment](https://arxiv.org/abs/1705.07632v3) (arxiv.org)
+- [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/): a 37 category pet dataset with roughly 200 images for each class (robots.ox.ac.uk)
+- [Amazing Stories](https://archive.org/search.php?query=title%3A%28amazing+stories%29+AND+collection%3A%28pulpmagazinearchive%29&page=1): the world’s first science fiction magazine, launched in 1926 (archive.org)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
+
 These are not always downloadable, but you can at least freely link to them.
 
 - [The Local News: An Archive](https://archive.org/details/localnewsarchive): a large collection of samples of local news programs and broadcasting styles over the decades (archive.org)
@@ -50,6 +57,8 @@ These are not always downloadable, but you can at least freely link to them.
 - [mazwai.com](http://mazwai.com/#/videos): a small collection of stock videos
 - [coverr.co](http://www.coverr.co/): more stock videos
 - [Macaulay Library](http://macaulaylibrary.org/): archive of wildlife sounds and videos
+- [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions (deepmind.com)
+- [NASA Armstrong Flight Research Center](https://www.youtube.com/user/DrydenTV/videos): hours of aerospace history (youtube.com)
 
 ### Free audio [¶](#free-audio){.pilcrow} {#free-audio}
 
@@ -57,6 +66,7 @@ These are not always downloadable, but you can at least freely link to them.
 - [The NSynth Dataset](https://magenta.tensorflow.org/datasets/nsynth): Large-scale and high-quality dataset of annotated musical notes
 - [freesound4s](https://archive.org/details/freesound4s): 126,900 sounds on [Freesound](https://freesound.org/) less than 4 seconds long
   - see also: [Fingerprints and Labels to Classifier.ipynb](https://github.com/kylemcdonald/AudioNotebooks/blob/master/Fingerprints%20and%20Labels%20to%20Classifier.ipynb)
+- [IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](http://imslp.org/) (imslp.org)
 - [Old Time Radio Researchers Library](http://www.otrrlibrary.org/index.html): more than 85,000 individual episodes from nearly 2,000 series
 
 

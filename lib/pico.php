@@ -39,6 +39,7 @@ class Pico
                 $request_url, 1), '/');
         }
         $url = preg_replace('/\?.*/', '', $url); // Strip query string
+        $url = rtrim($url, '/');
         $this->run_hooks('request_url', array(&$url));
 
         // Get the file path

@@ -27,10 +27,16 @@ Nav: hidden
 
 
 **See also:** [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
+
+
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net, uses JavaScript and node.js)
 - [The Node Beginner Book](https://glitch.com/edit/#!/node-beginner) (glitch.com)
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally remembered the name of my first &#39;computer&#39; - the VTech Precomputer Power Pad (1994). Wrote my first infinite loop in BASIC at age 4. <a href="https://t.co/YQcxSlaLnS">pic.twitter.com/YQcxSlaLnS</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/805425966164152320">December 4, 2016</a></blockquote>
+
 
 ### Creative programming [¶](#creative-programming){.pilcrow} {#creative-programming}
 
@@ -40,6 +46,9 @@ Nav: hidden
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
 - [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
+- [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
+- [Little Planet Procedural](http://alanluo.com/procgen/midterm.html)
+
 
 #### See also
 
@@ -57,6 +66,9 @@ Nav: hidden
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372) (gizmodo.com)
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [What is Gender and Why Does it Matter to Emoji?](http://blog.emojipedia.org/what-is-gender-and-why-does-it-matter-to-emoji/) (emojipedia.org)
+- [How Fortune Cookies Explain the Westernization of Emoji](https://www.theatlantic.com/technology/archive/2017/05/the-westernization-of-emoji/527616/) (theatlantic.com)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/hashtag/WorldEmojiDay?src=hash">#WorldEmojiDay</a>, revisit where it all started—NTT DOCOMO’s original set of 176 emoji <a href="https://t.co/ocjHTwd0Ou">https://t.co/ocjHTwd0Ou</a> <a href="https://twitter.com/hashtag/MoMACollection?src=hash">#MoMACollection</a> <a href="https://t.co/4yr1lNPSMd">pic.twitter.com/4yr1lNPSMd</a></p>&mdash; Museum of Modern Art (@MuseumModernArt) <a href="https://twitter.com/MuseumModernArt/status/886953606972403712">July 17, 2017</a></blockquote>
 
 ### Botkit and Botkit Studio [¶](#botkit){.pilcrow} {#botkit}
 
@@ -92,6 +104,7 @@ Nav: hidden
 
 ### Unsorted tutorials [¶](#unsorted){.pilcrow} {#unsorted}
 
+- [Robot poetry and storytelling in Scratch](http://www.suppertime.co.uk/blogmywiki/2017/07/robot-poetry/) (suppertime.co.uk)
 - [Why developers should treat bots like browser extensions](https://medium.com/@Paul__Walsh/why-developers-should-treat-bots-like-browser-extensions-cf819aab62b2) (Paul Walsh via medium.com)
 - [How to interact with bots? Dealing with the complexity of a new design paradigm](https://chatbotsmagazine.com/how-to-interact-with-bots-dealing-with-the-complexity-of-a-new-design-paradigm-e89fd7131921) (chatbotsmagazine.com)
 - [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd) (freecodecamp.com)
@@ -101,7 +114,7 @@ Nav: hidden
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/) (lizmrush.com)
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/) (setosa.io)
-
+- [Text Mining Course](https://github.com/organisciak/Text-Mining-Course): Course Notes for 590TXL, University of Illinois at Urbana-Champaign (Peter Organisciak via github.com)
 
 Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or [join the Botmakers community](https://botmakers.org/)!
 

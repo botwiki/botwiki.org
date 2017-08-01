@@ -69,10 +69,10 @@ Thanks for checking out **Botwiki**!
 
 #### Browse by category [¶](#browse-bots-by-category){.pilcrow} {#browse-bots-by-category}
 
-- [Poetry bots](/tag/bot+poetry)
 - [Image bots](/tag/bot+images) ([GIF bots](/tag/bot+gif))
 - [Emoji bots](/tag/bot+emoji)
 - [Game bots](/tag/bot+game)
+- [Poetry bots](/tag/bot+poetry)
 - [Generative bots](/tag/bot+generative/)
 - [Non-English bots](/tag/bot+non-english)
 - [Internet of Things (IoT) bots](/bots/iot)
@@ -116,7 +116,11 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 - [Essays on bots and botmaking](/articles/essays)
 
 
-<div class="video-wrapper"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-background">
+  <div class="video-wrapper">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/ZtWTUt2RZh0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

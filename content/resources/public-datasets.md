@@ -26,7 +26,6 @@ Nav: hidden
 - [The World Bank](http://data.worldbank.org/)
 - [Academic Torrents](http://academictorrents.com/browse.php?cat=6): datasets from scientific papers
 - [Common Crawl](http://commoncrawl.org/): an open repository of web crawl data
-- [Enigma](http://enigma.io/): "Explore the world's public data"
 - [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.html)
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Pew Research Center Datasets](http://www.pewinternet.org/datasets/)
@@ -39,6 +38,7 @@ Nav: hidden
 - [A Large Self-Annotated Corpus for Sarcasm](http://nlp.cs.princeton.edu/SARC/)
   - [related paper on arxiv.org](https://arxiv.org/abs/1704.05579)
 - [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots): a  dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor
+- [Enigma Public](https://public.enigma.com/): Broad collection of public data; requires free account (public.enigma.com)
 
 You can also retrieve various data [via web APIs](/resources/apis/).
 
@@ -69,7 +69,9 @@ You can also retrieve various data [via web APIs](/resources/apis/).
 - [Natural Language Corpus Data: Beautiful Data](http://norvig.com/ngrams/)
 - [bot-ai/bot-lang](https://github.com/bot-ai/bot-lang): a collection of common keywords or commands a user might use while interacting with a bot
   - forked from [howdyai/bot-common-keywords](https://github.com/howdyai/bot-common-keywords)
-
+- [A Large Self-Annotated Corpus for Sarcasm](http://nlp.cs.princeton.edu/SARC/) (nlp.cs.princeton.edu)
+  - [Related paper](https://arxiv.org/pdf/1704.05579.pdf) (PDF, arxiv.org)
+- [some word lists for bot-making](http://barrl.net/2882) by [Nora Reed](http://www.twitter.com/NoraReed) (barrl.net)
 
 ### Geographical/location data, space [¶](#datasets-geo-space){.pilcrow} {#datasets-geo-space}
 - [Climate datasets](https://github.com/climate-mirror/datasets)
@@ -98,9 +100,11 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 ### Other [¶](#other){.pilcrow} {#other}
 
 - [Emoji Data for UTR #51](http://www.unicode.org/Public/emoji/1.0/emoji-data.txt)
+- [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data/blob/master/README.md)
 - [Open Payments Dataset](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html): payments made by healthcare manufacturers (pharmaceutical companies, medical device manufacturers) to any doctor they work with
 - [CERN Open Data Portal](http://opendata.cern.ch/)
 - [CREST (CIA Records Search Tool)](https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive): Declassified CIA documents
 - [Uber Movement](https://movement.uber.com/cities): anonymized data from over 2 billion trips to help improve urban planning around the world (requires to request access) (movement.uber.com)
+- [DVS128 Gesture Dataset](http://www.research.ibm.com/dvsgesture/) (research.ibm.com)
 
 [Back to all resources.](/resources)

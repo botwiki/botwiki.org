@@ -4,7 +4,7 @@ Description: A game jam about procedural content generation.
 Link: http://www.procjam.com/category/procjam-2015/
 Date: November 7, 2015
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=Blackett+Building,+Imperial+College+London,+South+Kensington+Campus,+London+SW7+2AZ,+United+Kingdom&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,archived
+Tags: event,archived,video
 */
 
 

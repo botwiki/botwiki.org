@@ -4,7 +4,7 @@ Description: Exploring the intersection of artificial intelligence and art.
 Link: http://alt-ai.net/
 Date: May 20, 2016
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=155+Bank+St+New+York+NY+10014&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,archived
+Tags: event,archived,video
 */
 
 > alt-ai explores artificial intelligence through the lens of artistic practice. What role can artists, writers, coders, and curators play in mediating scientific research to the public? How do we critically examine the implications, artifacts, and applications that follow?

@@ -2,7 +2,7 @@
   {% if page.thumbnail %}
   <div class="col-sm-12 col-md-4">
     <a href="{{ page.url }}">
-      <img data-src="{{ page.thumbnail }}" class="screenshot lazy-load">
+      <img data-src="{{ page.thumbnail }}" class="lazy-load">
     </a>
   </div>
   <div class="col-sm-12 col-md-8">
@@ -62,7 +62,7 @@
       {% else %}
         {% set page_tags = page.tags|split(',') %}
       {% endif %}
-        <p class="meta">
+        <p class="tags">
           {% for tag in page_tags %}
             <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
           {% endfor %}

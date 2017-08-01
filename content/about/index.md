@@ -25,10 +25,13 @@ In March 2016, [Veronica Belmont](/about/team#veronica) joined Stefan as a Botma
 
 For more of Botwiki Foundation's projects and initiatives, check out the [Projects](/projects) page.
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Find any bot ever with this awesome online encyclopedia: <a href="https://t.co/Jsff2ApJWl">https://t.co/Jsff2ApJWl</a> | <a href="https://twitter.com/Woods_TylerWL">@Woods_TylerWL</a> <a href="https://twitter.com/TechnicallyBK">@TechnicallyBK</a> <a href="https://twitter.com/hashtag/BotWiki?src=hash">#BotWiki</a></p>&mdash; Microsoft New York (@MicrosoftNY) <a href="https://twitter.com/MicrosoftNY/status/705839362248982529">March 4, 2016</a></blockquote>
 
 
 All of our work is [open](https://github.com/botwiki/), and everyone is invited to contribute. Feel free to [connect on Twitter](https://twitter.com/botwikidotorg) -- or you can just say hi [via email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)!
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A full list of open source bots - <a href="http://t.co/48JFQsOXLR">http://t.co/48JFQsOXLR</a></p>&mdash; Hongkiat (@hongkiat) <a href="https://twitter.com/hongkiat/status/644447055847530496">September 17, 2015</a></blockquote>
+
 
 ### Timeline [¶](#timeline){.pilcrow} {#timeline}
 
@@ -36,12 +39,14 @@ Below is a timeline of major events in the history of the Botwiki project.
 
 #### 2017 [¶](#2017){.pilcrow} {#2017}
 
+- **July 12:** [Botwiki celebrated its two years](/blog/2017-07-12-botwiki-two-years/).
+- **June 16:** Botwiki got an [official page on Glitch](https://glitch.com/botwiki).
 - **March:** Botwiki had more than 20,000 unique visitors.
 
 #### 2016 [¶](#2016){.pilcrow} {#2016}
 
 - **October 1:** Hosted [the first online Bot Workshop](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/).
-- **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](https://fourtonfish.com/blog/2016-07-13-botwiki-one-year/).
+- **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](/blog/2016-07-13-botwiki-one-year/).
 - **March 31:** [Veronica](/about/team/#veronica) [joined the Botwiki team](https://github.com/botwiki/botwiki.org/commit/ba19c71042bdb8c7b36fc6a8c214f6d874dab543).
 - **March 21:** Hosted [the first Botmakers in-person event](http://www.meetup.com/botmakers/events/228956424/).
 - **February 18:** Created the [Botmakers Meetup group](http://www.meetup.com/botmakers/).
@@ -52,9 +57,9 @@ Below is a timeline of major events in the history of the Botwiki project.
 - **November 16:** Announced the [Botmaker Badges](/botmaker-badges) in [Bot! zine #4](http://tinyletter.com/botzine/letters/the-bot-zine-issue-4).
 - **October 26:** The first issue of the the [Bot! zine](http://tinyletter.com/botzine/letters/the-bot-zine-issue-1) newsletter was sent out.
 - **October 20:** The [botzine.org](https://botzine.org) domain was bought.
-- **October 8:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **September 17:** [Publicly announced the Botmakers Slack group](https://twitter.com/botwikidotorg/status/644517400738709504).
 - **September 3:** [First tweet by @botwikidotorg](https://twitter.com/botwikidotorg/status/639459648580489216).
+- **August 19:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **July 15:** First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
 - **July 12:** The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
 

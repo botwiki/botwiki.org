@@ -24,7 +24,8 @@ Nav: hidden
 
 #### PHP [¶](#bot-frameworks-php){.pilcrow} {#bot-frameworks-php}
 
-- [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) -- supports [Laravel](https://laravel.com/) out of the box
+- [BotMan](https://github.com/botman/botman): PHP library for developing bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat
+- [irazasyed/telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk): supports [Laravel](https://laravel.com/) out of the box
 
 #### Python [¶](#bot-frameworks-python){.pilcrow} {#bot-frameworks-python}
 
@@ -43,8 +44,8 @@ Nav: hidden
 
 ### Other [¶](#other){.pilcrow} {#other}
 
-- [emirn/google_sheet_reader_bot](https://github.com/emirn/google_sheet_reader_bot/) -- Telegram bot to get data from Google Sheet, checks the very first column for time (in hours) and returns rows where time matches
-- [staceytay/dollybot](https://github.com/staceytay/dollybot) -- a simple telegram bot in OCaml
+- [emirn/google_sheet_reader_bot](https://github.com/emirn/google_sheet_reader_bot/): Telegram bot to get data from Google Sheet, checks the very first column for time (in hours) and returns rows where time matches
+- [staceytay/dollybot](https://github.com/staceytay/dollybot): a simple telegram bot in OCaml
 
 
 [Back to all resources.](/resources)

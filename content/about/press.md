@@ -6,7 +6,7 @@ Show donation link: yes
 Description: Articles about Botwiki, Botmakers, and related projects.
 */
 
-If you'd like to get in touch with the [Botwiki team](/about/team/), please reach out to [stefan@botwiki.org](mailto:stefan@botwiki.org).
+If you'd like to get in touch with the [Botwiki team](/about/team/), please [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com).
 
 Below is a list of articles that talk about Botwiki and related projects, or that feature the Botwiki team members.
 

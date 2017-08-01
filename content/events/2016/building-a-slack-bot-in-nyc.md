@@ -4,7 +4,7 @@ Link: http://www.meetup.com/New-York-Slack-Meetup/events/227552998/
 Date: March 10, 2016
 Description: Join us for the first-ever NYC Slack meetup and get to know some of the top players in the Slack ecosystem.
 Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=253+W.+35th+St+New+York+NY+us&zoom=15&size=900x220&scale=2&maptype=roadmap
-Tags: event,archived
+Tags: event,archived,video
 */
 
 > Join us for the first-ever NYC Slack meetup and get to know some of the top players in the Slack ecosystem. Featured speaker Daniel Doubrovkine, CTO of Artsy, will live code a basic Slack bot. He'll walk us through the creation of his complete bot service, PlayPlay as well. 

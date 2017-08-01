@@ -3,7 +3,7 @@ Title: Chatbot platforms, how do they differ and which one should I choose? (May
 Date: May 18, 2016
 Description: A focused online discussion with a handful of botmakers and shakers.
 Thumbnail: /content/events/images/chatbot-platforms-difference-choose.png
-Tags: event,archived
+Tags: event,archived,video
 */
 
 

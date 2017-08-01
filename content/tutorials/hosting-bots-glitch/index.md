@@ -35,12 +35,13 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 #### Twitter bots [¶](#project-templates-twitter){.pilcrow} {#project-templates-twitter}
 
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) (glitch.com)
-- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
 - [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) (glitch.com)
+- [A Twitter bot that generates random images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com)
+- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) (glitch.com)
+- [A Twitter bot that responds to something its followers said](https://glitch.com/edit/#!/twitterbot-follower-autoreply) (glitch.com)
 - [A Twitter bot that uses the Twitter Webhooks API (beta)](https://glitch.com/edit/#!/twitterbot-webhooks) (glitch.com)
 - [A starter twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 
-<!--- [A Twitter bot that creates and posts images](https://glitch.com/edit/#!/random-image-generator-twitterbot) (glitch.com) -->
 
 #### Slack bots [¶](#project-templates-slack){.pilcrow} {#project-templates-slack}
 
@@ -49,6 +50,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 
 #### Facebook Messenger bots [¶](#project-templates-messenger){.pilcrow} {#project-templates-messenger}
 
+- [Botkit Starter Kit for Facebook Bots](https://glitch.com/edit/#!/botkit-facebook) (glitch.com)
 - [Facebook Messenger Bot](https://glitch.com/~messenger-bot) (glitch.com)
 
 #### Google Assistant/Home [¶](#project-templates-google){.pilcrow} {#project-templates-google}
@@ -64,6 +66,10 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 #### Twitch [¶](#project-templates-twitch){.pilcrow} {#project-templates-twitch}
 
 - [Twitch Bot starter project on Glitch](https://glitch.com/edit/#!/twitch-bot) (glitch.com)
+
+#### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
+
+- [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) (glitch.com)
 
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).

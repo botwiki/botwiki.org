@@ -42,8 +42,8 @@
   <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png" />
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
-  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Anton|Open+Sans' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.42.min.css" type="text/css" />  
+  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Anton|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.58.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -56,6 +56,13 @@
   <link rel="prerender" href="{{base_url}}/articles">
   <link rel="prerender" href="{{base_url}}/events">
   <link rel="prerender" href="{{base_url}}/about">
+{% endif %}
+{% if meta.thumbnail %}
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="https://botwiki.org{{ meta.thumbnail }}"/>
+    </DataObject>
+  </PageMap>
 {% endif %}
 </head>
 <body{% if is_front_page %} class="front-page"{% endif %}>
@@ -70,7 +77,7 @@
         <ul id="menu">
           <li class="form-wrapper">
             <form id="search-form" action="/search">
-              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><a id="search-help" href="#">?</a>
+              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
             </form>
           </li>
           <li 
@@ -161,6 +168,7 @@
             <li class="list-header">Contact</li>
             <li><a class="h-card" rel="me" href="https://twitter.com/botwikidotorg">@botwikidotorg</a></li>
             <li><a class="u-email" rel="me" href="mailto:stefan@botwiki.org?cc=v@veronicabelmont.com">Email us</a></li>
+            <li><a href="/about/surveys">Give feedback</a></li>
             <li><a href="https://botwiki.org/submit-your-bot">Submit your bot</a></li>
             <li><a href="https://botmakers.org/">Join Botmakers</a></li>
           </ul>
@@ -211,25 +219,39 @@
       <span>@botwikidotorg</span>
     </a>
   </div>
-  <script src="{{ theme_url }}/js/scripts.3.2.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.3.3.min.js"></script>
   {% if meta.has_code == 'yes' %}
   <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
+  <script type="text/javascript">
+    hljs.initHighlighting.called = false;
+    hljs.initHighlighting();    
+  </script>
   {% endif %}
   {% if not is_front_page and meta.thumbnail %}
   <script type="text/javascript">
     var request = new XMLHttpRequest();
-    request.open('GET', 'https://fourtonfish.com/api/dominant-color/?img=https://botwiki.org{{ meta.thumbnail }}', true);
+    var thumbnailUrl = '{{ meta.thumbnail }}';
+    if (thumbnailUrl.indexOf('http') === -1){
+      thumbnailUrl = 'https://botwiki.org' + thumbnailUrl
+    }
+    request.open('GET', 'https://fourtonfish.com/api/dominant-color/?img=' + thumbnailUrl, true);
     request.onload = function() {
       if (request.status >= 200 && request.status < 400) {
         var data = JSON.parse(request.responseText),
             bkgColor = data.data,
             articleThumbnail = document.getElementsByClassName('article-thumbnail')[0];
         articleThumbnail.classList.add('color-fade');
-        articleThumbnail.style.backgroundColor = 'rgb(' + bkgColor[0] + ',' + bkgColor[1] + ',' + bkgColor[2] + ')';
+        if (bkgColor && bkgColor.length > 0){
+          articleThumbnail.style.backgroundColor = 'rgb(' + bkgColor[0] + ',' + bkgColor[1] + ',' + bkgColor[2] + ')';          
+        }
+        else{
+          articleThumbnail.style.backgroundColor = 'rgb(238,238,237)';          
+        }
       }
     };
     request.send();
   </script>
   {% endif %}
+<!-- <script src="https://widget.battleforthenet.com/widget.js" async></script> -->
 </body>
 </html>

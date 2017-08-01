@@ -33,6 +33,11 @@ For a list of commercial tools that let you build bots for Facebook's Messenger,
 - [alexindigo/fbbot](https://github.com/alexindigo/fbbot)
 - [olegakbarov/facebook-messenger-devkit](https://github.com/olegakbarov/facebook-messenger-devkit)
 
+#### PHP [¶](#bot-frameworks-php){.pilcrow} {#bot-frameworks-php}
+
+- [BotMan](https://github.com/botman/botman): PHP library for developing bots for multiple messaging platforms, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat
+- [marsbits/restfbmessenger](https://github.com/marsbits/restfbmessenger)
+
 #### Java [¶](#bot-frameworks-java){.pilcrow} {#bot-frameworks-java}
 
 - [marsbits/restfbmessenger](https://github.com/marsbits/restfbmessenger)
