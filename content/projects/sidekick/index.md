@@ -22,18 +22,6 @@ Description: See what we are working on.
 ![Learn more about bots and integrations in your group](/content/projects/sidekick/images/group-info-bots.png) {.centered .screenshot}
 
 
-#### Monitor Twitter for specific keywords and hashtags [¶](#monitor-twitter){.pilcrow} {#monitor-twitter}
-
-![Monitor Twitter for interesting tweets](/content/projects/sidekick/images/monitor-twitter.png) {.centered .screenshot}
-
-![Ignore users](/content/projects/sidekick/images/ignore.png) {.centered .screenshot}
-
-
-#### Share tweets with Sidekick to have them retweeted [¶](#dm-to-rt){.pilcrow} {#dm-to-rt}
-
-![Share to retweet](/content/projects/sidekick/images/share-to-retweet.png) {.centered .screenshot}
-
-
 #### Set up polls [¶](#polls){.pilcrow} {#polls}
 
 
@@ -49,6 +37,21 @@ Description: See what we are working on.
 
 
 ![Move messages](/content/projects/sidekick/images/move-message.png) {.centered .screenshot}
+
+
+
+#### Monitor Twitter for specific keywords and hashtags [¶](#monitor-twitter){.pilcrow} {#monitor-twitter}
+
+![Monitor Twitter for interesting tweets](/content/projects/sidekick/images/monitor-twitter.png) {.centered .screenshot}
+
+![Ignore users](/content/projects/sidekick/images/ignore.png) {.centered .screenshot}
+
+
+#### Share tweets with Sidekick to have them retweeted [¶](#dm-to-rt){.pilcrow} {#dm-to-rt}
+
+![Share to retweet](/content/projects/sidekick/images/share-to-retweet.png) {.centered .screenshot}
+
+
 
 ### Commands [¶](#commands){.pilcrow} {#commands}
 
