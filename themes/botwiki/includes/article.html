@@ -82,23 +82,13 @@
           <p class="meta-date">Last updated on {{ meta.date }}.</p>
         {% endif %}
         {% if meta.tags is not empty %}
-        {% if 'bot' in meta.tags %}
-          <p class="tags">
-            {% if meta.language == 'es'%}
-              Puedes ver otros bots similares en:
-            {% else %}
-              Browse more bots like this:
-            {% endif %}
-        {% else %}
-          <p class="tags">Tags:
-        {% endif %}
-
+        <p class="tags">
         {% for tag in meta.tags %}
             <a href="{{ base_url }}/tag/{{ tag }}">#{{ tag }}</a>
         {% endfor %}
         </p>
         {% if 'bot' in meta.tags %}
-          <p>Or check out <a href="/random-bot">a random bot</a>!</p>
+          <p>Check out <a href="/random-bot">a random bot</a>!</p>
         {% endif %}
       {% endif %}
     </p>
