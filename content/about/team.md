@@ -9,12 +9,15 @@ Nav: hidden
 
 ### Contact us [¶](#contact){.pilcrow} {#contact}
 
-If you'd like to get in touch, feel free to email [Stefan and Veronica](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).
+If you'd like to get in touch, feel free to [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).
+
 
 
 ### Stefan [¶](#stefan){.pilcrow} {#stefan}
 
-[![Stefan](/content/about/images/stefan.png){.float-right .photo}](https://twitter.com/fourtonfish)
+***Botwiki editor, Botmakers moderator, creator of Botwiki and Botmakers***
+
+[![Stefan](/content/about/images/stefan.png){.photo .float-right}](https://twitter.com/fourtonfish)
 
 Hi!
 
@@ -26,15 +29,24 @@ You can reach me at [stefan@botwiki.org](mailto:stefan@botwiki.org), or visit [f
 PS: [Here are my bots](https://twitter.com/fourtonfish/lists/my-twitterbots/members) and [tutorials on Botwiki](/tag/fourtonfish+tutorial/).
 
 
-### Veronica [¶](#veronica){.pilcrow} {#veronica}
 
-[![Veronica](/content/about/images/veronica.jpg){.float-right .photo}](https://twitter.com/Veronica)
+### Veronica [¶](#veronica){.pilcrow} {#veronica}
+***Bot! zine editor, Botmakers moderator***
+
+[![Veronica](/content/about/images/veronica.jpg){.photo .float-right}](https://twitter.com/Veronica)
 
 I'm Veronica!
 
 I'm a podcaster, writer, and bot/AI enthusiast from San Francisco. I love talking and learning about bot projects out there in the world, so tweet them to me [@veronica](https://twitter.com/veronica)!
 
 I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot! zine](https://botzine.org/) newsletter, and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
+
+
+### Angelina [¶](#angelina){.pilcrow} {#angelina}
+
+***Event organizer***
+
+[![Angelina](/content/about/images/angelina.jpg){.photo .float-right}](https://twitter.com/oxangiemarie)
 
 
 ### Contributors [¶](#contributors){.pilcrow} {#contributors}
