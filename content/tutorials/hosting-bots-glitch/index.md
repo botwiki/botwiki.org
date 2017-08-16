@@ -47,6 +47,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 
 - [Slack Blueprints](https://glitch.com/slack-blueprints): project blueprints to kickstart building integrations for Slack (glitch.com)
 - [Slack slash commands template](https://glitch.com/edit/#!/museum-by-colors) (glitch.com)
+- [Slack Parrot](https://glitch.com/edit/#!/slack-parrot) (glitch.com)
 
 #### Facebook Messenger bots [¶](#project-templates-messenger){.pilcrow} {#project-templates-messenger}
 

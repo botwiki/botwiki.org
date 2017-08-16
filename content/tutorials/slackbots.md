@@ -28,8 +28,9 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 - [Slack Developers](https://slack.com/developers)
 - [Official Slack documentation](https://api.slack.com/bot-users)
-- [Which API is right for your Slack app?](https://medium.com/slack-developer-blog/getting-started-with-slacks-apis-f930c73fc889) (Slack Platform Blog via medium.com)
+- [Types of tokens](https://api.slack.com/docs/token-types) (api.slack.com)
 - [OAuth Scopes](https://api.slack.com/docs/oauth-scopes)
+- [Which API is right for your Slack app?](https://medium.com/slack-developer-blog/getting-started-with-slacks-apis-f930c73fc889) (Slack Platform Blog via medium.com)
 - [Attachments](https://api.slack.com/docs/attachments): create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
 - [Threading messages together](https://api.slack.com/docs/message-threading)

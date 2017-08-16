@@ -104,6 +104,8 @@ Resynthesis for Gaze Manipulation
   - [AlexiaJM/Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats) (github.com)
 - [ACVT capability demonstrator](http://demo.cs.adelaide.edu.au/) (demo.cs.adelaide.edu.au)
 - [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
+- [MakeGirls.moe](http://make.girls.moe/#/): Create Anime Characters with A.I. (make.girls.moe)
+  - [MakeGirls.moe Official Blog](https://makegirlsmoe.github.io/main/2017/08/14/news-english.html) (makegirlsmoe.github.io)
 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}

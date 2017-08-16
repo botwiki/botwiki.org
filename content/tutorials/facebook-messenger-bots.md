@@ -30,7 +30,7 @@ Nav: hidden
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
 - [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/) (smashingmagazine.com)
 - [Building a Facebook Chat Bot with Node and Heroku](https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/) (sitepoint.com)
-
+- [Build a dice-rolling FB Messenger Bot with Botkit](https://blog.pusher.com/build-dice-rolling-fb-messenger-bot-botkit/) (blog.pusher.com)
 
 ### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}
 
