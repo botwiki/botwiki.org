@@ -212,10 +212,10 @@ TODO: Work in progress: AJAXifying the site.
     }
   });
 */
-
+  if (hljs){
     hljs.initHighlighting.called = false;
     hljs.initHighlighting();
-
+  }
 });
 
 

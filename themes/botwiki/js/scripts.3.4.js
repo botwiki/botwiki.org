@@ -114,18 +114,18 @@ ready(function(){
 
   };
 
-  document.getElementById('search-help').addEventListener("click", function(ev){
-    ev.preventDefault();
-    // TODO: Make this into a fancy overlay div.
-    alert(
-            'Search quick help:\n\n' +
-            '#tag1 #tag2 #tag3 ... Browse tags\n\n' +
-            'TAGS: tag1 tag2 tag3 ... Browse tags\n\n' +
-            'word1 AND word2 AND ... Search posts that have all listed words\n\n' +
-            'word1 OR word2 OR ... Search posts that have at least one of the listed words (default)'
-         );
-    return false;
-  }, false);
+  // document.getElementById('search-help').addEventListener("click", function(ev){
+  //   ev.preventDefault();
+  //   // TODO: Make this into a fancy overlay div.
+  //   alert(
+  //           'Search quick help:\n\n' +
+  //           '#tag1 #tag2 #tag3 ... Browse tags\n\n' +
+  //           'TAGS: tag1 tag2 tag3 ... Browse tags\n\n' +
+  //           'word1 AND word2 AND ... Search posts that have all listed words\n\n' +
+  //           'word1 OR word2 OR ... Search posts that have at least one of the listed words (default)'
+  //        );
+  //   return false;
+  // }, false);
 
 
   function getElementByIdFromNode(id, rootNode) {
@@ -212,10 +212,10 @@ TODO: Work in progress: AJAXifying the site.
     }
   });
 */
-
+  if (hljs){
     hljs.initHighlighting.called = false;
     hljs.initHighlighting();
-
+  }
 });
 
 
