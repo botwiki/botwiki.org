@@ -53,7 +53,7 @@ aside, nav, article, figure{
 article{
 /* overflow: auto; */
   h2{
-    padding-top: 1.5em;
+    padding-top: 1.3em;
   }
 }
 
@@ -170,26 +170,17 @@ select:focus{
   border: 1px solid #666666;
 }
 
-::-webkit-input-placeholder{
-   font-family: 'Open Sans', sans-serif;
-}
-
-:-moz-placeholder{
-   font-family: 'Open Sans', sans-serif;
-}
-
-::-moz-placeholder{
-   font-family: 'Open Sans', sans-serif;  
-}
-
-:-ms-input-placeholder{  
-   font-family: 'Open Sans', sans-serif; 
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
+:-ms-input-placeholder{
+  font-family: "Rubik", sans-serif;
 }
 
 /* Main Styles
 /*---------------------------------------------*/
 body{
-  font: 1.1em 'Open Sans', sans-serif;
+  font: 1.1em "Rubik", sans-serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -221,7 +212,7 @@ h1, h2, h3, h4, h5, h6{
   text-transform: uppercase;
   max-width: @max-content-width;
   margin: 0 auto !important;
-  font-family: 'Anton', sans-serif;  
+  font-family: 'Anton', sans-serif;
   color: @main-color;
   line-height: 1.2em;
   margin: 0 auto;
@@ -341,7 +332,7 @@ code{
 }
 
 pre code{
-  font-family: Courier, "Courier New", Monaco, Tahoma;
+  font-family: 'Source Serif Pro', Courier, "Courier New", Monaco, Tahoma;
   background: #23241f;
   color: #333;
   padding: 1em 0 !important;
@@ -524,11 +515,14 @@ div.all-tags{
 
   a{
     padding-right: 0.5em;
+    font-family: monospace;
   }
 }
 
 .tags {
   a{
+    font-family: monospace;
+    font-size: 1.2em;
     background-color: #afafaf;
     color: #fff;
     text-decoration: none;
@@ -880,7 +874,7 @@ p.screenshot img,
 a.screenshot img,
 img.screenshot,
 img.photo{
-  border: 1px solid #525252;
+  border: 1px solid rgba(0, 0, 0, 0.3);
   box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
   margin-bottom: 1.5em;
 }
@@ -1013,7 +1007,7 @@ p.search-instructions code{
 div.search-item{
   max-width: @max-content-width;
   margin: 2em auto;
-  border: 1px solid #525252;
+  border: 1px solid rgba(0, 0, 0, 0.5);
   padding: 2em 0 1em;
   box-shadow: 10px 10px 0 rgba(0,0,0,0.2);
 
@@ -1044,7 +1038,7 @@ div.search-item{
 }
 
 .note.donations{
-  padding: 0;
+  padding: 1em 0;
   margin: 0 auto;
   p{
     margin: 0 auto !important;
@@ -1100,7 +1094,7 @@ ul.sharing-is-caring{
     margin: 10px;
   }
 
-  padding-left: 1.5em;
+  padding-left: 1.8em;
 
   @media (max-width: @site-width-small){
     padding-left: 0;
@@ -1179,7 +1173,7 @@ div.article-thumbnail.color-fade{
 }
 
 div.search-thumbnail img{
-  border: 1px solid #efefef;
+  border: 1px solid rgba(0, 0, 0, 0.5);
 }
 
 @media (min-width : 800px){

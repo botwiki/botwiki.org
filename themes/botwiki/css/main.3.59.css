@@ -1612,7 +1612,7 @@ article {
   /* overflow: auto; */
 }
 article h2 {
-  padding-top: 1.5em;
+  padding-top: 1.3em;
 }
 h1 span,
 h2 span {
@@ -1620,6 +1620,8 @@ h2 span {
   background-color: #38313a;
   padding: 10px;
   line-height: 2em;
+  -webkit-box-decoration-break: clone;
+          box-decoration-break: clone;
 }
 div.search-results-intro {
   padding-bottom: 2em;
@@ -1708,22 +1710,16 @@ select:focus {
   background: #fff;
   border: 1px solid #666666;
 }
-::-webkit-input-placeholder {
-  font-family: 'Open Sans', sans-serif;
-}
-:-moz-placeholder {
-  font-family: 'Open Sans', sans-serif;
-}
-::-moz-placeholder {
-  font-family: 'Open Sans', sans-serif;
-}
+::-webkit-input-placeholder,
+:-moz-placeholder,
+::-moz-placeholder,
 :-ms-input-placeholder {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 /* Main Styles
 /*---------------------------------------------*/
 body {
-  font: 1.1em 'Open Sans', sans-serif;
+  font: 1.1em "Rubik", sans-serif;
   color: #444;
   line-height: 1.2em;
   padding-top: 4em;
@@ -1883,7 +1879,7 @@ code {
   padding: 0 2px !important;
 }
 pre code {
-  font-family: Courier, "Courier New", Monaco, Tahoma;
+  font-family: 'Source Serif Pro', Courier, "Courier New", Monaco, Tahoma;
   background: #23241f;
   color: #333;
   padding: 1em 0 !important;
@@ -2051,8 +2047,11 @@ div.all-tags {
 }
 div.all-tags a {
   padding-right: 0.5em;
+  font-family: monospace;
 }
 .tags a {
+  font-family: monospace;
+  font-size: 1.2em;
   background-color: #afafaf;
   color: #fff;
   text-decoration: none;
@@ -2368,7 +2367,7 @@ p.screenshot img,
 a.screenshot img,
 img.screenshot,
 img.photo {
-  border: 1px solid #525252;
+  border: 1px solid rgba(0, 0, 0, 0.3);
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
   margin-bottom: 1.5em;
 }
@@ -2471,7 +2470,7 @@ p.search-instructions code {
 div.search-item {
   max-width: 1150px;
   margin: 2em auto;
-  border: 1px solid #525252;
+  border: 1px solid rgba(0, 0, 0, 0.5);
   padding: 2em 0 1em;
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
 }
@@ -2496,7 +2495,7 @@ div.search-item .screenshot {
   margin: 2em 0;
 }
 .note.donations {
-  padding: 0;
+  padding: 1em 0;
   margin: 0 auto;
 }
 .note.donations p {
@@ -2542,7 +2541,7 @@ div.meta .meta-date {
   font-style: italic;
 }
 ul.sharing-is-caring {
-  padding-left: 1.5em;
+  padding-left: 1.8em;
   list-style: none;
 }
 @media (max-width: 860px) {
@@ -2621,7 +2620,7 @@ div.article-thumbnail.color-fade {
   transition: background-color 0.2s;
 }
 div.search-thumbnail img {
-  border: 1px solid #efefef;
+  border: 1px solid rgba(0, 0, 0, 0.5);
 }
 @media (min-width: 800px) {
   div.search-thumbnail,

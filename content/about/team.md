@@ -42,12 +42,15 @@ I'm a podcaster, writer, and bot/AI enthusiast from San Francisco. I love talkin
 I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot! zine](https://botzine.org/) newsletter, and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
 
 
+<!--
 ### Angelina [¶](#angelina){.pilcrow} {#angelina}
 
 ***Event organizer***
 
 [![Angelina](/content/about/images/angelina.jpg){.photo .float-right}](https://twitter.com/oxangiemarie)
 
+[TODO: bio]
+-->
 
 ### Contributors [¶](#contributors){.pilcrow} {#contributors}
 

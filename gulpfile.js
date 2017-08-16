@@ -13,6 +13,11 @@ var gulp = require('gulp'),
     reload = browserSync.reload,
     sourcemaps = require('gulp-sourcemaps');
 
+function swallowError (error) {
+  console.log(error.toString());
+  this.emit('end');
+}
+
 gulp.task('browser-sync', function () {
    var files = [
       'themes/botwiki/css/*.css',
@@ -24,15 +29,19 @@ gulp.task('browser-sync', function () {
    });
 });
 
+
 gulp.task('styles', function() {
   return gulp.src('themes/botwiki/src/styles/main.*')
     .pipe(less({
       paths: [ path.join(__dirname, 'less', 'includes') ]
     }))
+    .on('error', swallowError)
     .pipe(autoprefixer('last 3 version', 'android >= 3', { cascade: true }))
+    .on('error', swallowError)
     .pipe(gulp.dest('themes/botwiki/css'))
     .pipe(rename({suffix: '.min'}))
     .pipe(minifycss())
+    .on('error', swallowError)
     .pipe(gulp.dest('themes/botwiki/css'))
     .pipe(notify({ message: 'Styles task complete' }))
     .pipe(reload({stream:true}));
@@ -40,9 +49,13 @@ gulp.task('styles', function() {
 
 gulp.task('scripts', function() {
   return gulp.src('themes/botwiki/src/scripts/*.js')
+    .on('error', swallowError)
     .pipe(jshint('tests/.jshintrc'))
+    .on('error', swallowError)
     .pipe(jshint.reporter('default'))
+    .on('error', swallowError)
     .pipe(gulp.dest('themes/botwiki/js'))
+    .on('error', swallowError)
     .pipe(rename({suffix: '.min'}))
 /*
     TODO: Find a good way to only load source map in development. See https://knpuniversity.com/screencast/gulp/sourcemaps-only-dev
@@ -50,8 +63,10 @@ gulp.task('scripts', function() {
 */
 //    .pipe(sourcemaps.init())
     .pipe(uglify())
+    .on('error', swallowError)
 //    .pipe(sourcemaps.write())
     .pipe(gulp.dest('themes/botwiki/js'))
+    .on('error', swallowError)
     .pipe(notify({ message: 'Scripts task complete' }));
 });
 
