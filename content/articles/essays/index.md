@@ -64,6 +64,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Strange Victorian Computer That Generated Latin Verse](http://www.atlasobscura.com/articles/the-strange-victorian-computer-that-generated-latin-verse) (atlasobscura.com)
 - [Your Bot Art Belongs in a Museum](http://secretcave.co/bot-art-museum/) (secretcave.co)
 - [Computers and humans and super-creativity](https://www.axios.com/theres-a-limit-to-computer-creativity-2427178561.html) (axios.com)
+- [If an AI creates a work of art, who owns the rights to it?](https://qz.com/1054039/google-deepdream-art-if-an-ai-creates-a-work-of-art-who-owns-the-rights-to-it/) (qz.com)
+
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">asking &quot;can a computer generate shakespeare?&quot; to me is less interesting than asking e.g. &quot;what would gertrude stein have made w/tensorflow?&quot;</p>&mdash; Allison Parrish (@aparrish) <a href="https://twitter.com/aparrish/status/860351704570658816">May 5, 2017</a></blockquote>
 

@@ -125,7 +125,7 @@ Nav: hidden
 - [A Blueprint for Coexistence with Artificial Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence) (wired.com)
 - [Please Prove You’re Not a Robot](https://www.nytimes.com/2017/07/15/opinion/sunday/please-prove-youre-not-a-robot.html) (nytimes.com)
 - [AI Shouldn’t Believe Everything It Hears](https://www.technologyreview.com/s/608381/ai-shouldnt-believe-everything-it-hears/) (technologyreview.com)
-
+- [Slight Street Sign Modifications Can Completely Fool Machine Learning Algorithms](http://spectrum.ieee.org/cars-that-think/transportation/sensors/slight-street-sign-modifications-can-fool-machine-learning-algorithms) (spectrum.ieee.org)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 

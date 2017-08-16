@@ -28,6 +28,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 
 - [Slack Developers](https://slack.com/developers)
 - [Official Slack documentation](https://api.slack.com/bot-users)
+- [Which API is right for your Slack app?](https://medium.com/slack-developer-blog/getting-started-with-slacks-apis-f930c73fc889) (Slack Platform Blog via medium.com)
 - [OAuth Scopes](https://api.slack.com/docs/oauth-scopes)
 - [Attachments](https://api.slack.com/docs/attachments): create more richly-formatted messages
 - [Reminders](https://api.slack.com/methods#reminders): create and manage reminders for users
@@ -36,6 +37,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Making messages interactive](https://api.slack.com/interactive-messages)
   - [Message menus](https://api.slack.com/docs/message-menus)
     - [Build an interactive Slack app with message menus](https://medium.com/slack-developer-blog/build-an-interactive-slack-app-with-message-menus-1fb2c6298308)
+- [chat.postEphemeral](https://api.slack.com/methods/chat.postEphemeral) (api.slack.com)
 
 
 See also:

@@ -53,6 +53,7 @@ Nav: hidden
 #### See also
 
 - [CreativeAI: On the Democratisation & Escalation of Creativity](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3) (ArtificialExperience via medium.com)
+- [Seeds](http://www.procjam.com/seeds/) (procjam.com)
 
 ### Web APIs [¶](#web-apis){.pilcrow} {#web-apis}
 
