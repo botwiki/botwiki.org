@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/three_shape_bot.png
 Link: https://twitter.com/three_shape_bot
 Author: botsheeter.py
 Date: August 16, 2017
-Tags: twitter,twitterbot,bot,active,art,images,future,tracery,cheapbotsdonequick,nathan_cypher
+Tags: twitter,twitterbot,bot,active,art,images,svg,future,tracery,cheapbotsdonequick,nathan_cypher
 Nav: hidden
 Robots: index,follow
 */
