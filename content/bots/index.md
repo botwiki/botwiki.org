@@ -12,6 +12,7 @@ Weight: 1
   </p>
 </div>
 
+
 So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
 
 <blockquote>
@@ -102,6 +103,9 @@ Or check out a [random bot](/random-bot)!
     <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. BTW: No need to @ mention me, just use the tag Hey: <a href="https://t.co/ZsgiAa6IVB">pic.twitter.com/ZsgiAa6IVB</a></p>&mdash; Your Words In Neon (@NixieBot) <a href="https://twitter.com/NixieBot/status/839493822103044096">March 8, 2017</a></blockquote>
   </div>
 </div>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tag your bot! <a href="https://t.co/84CibXmFJw">https://t.co/84CibXmFJw</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901124180573392963">August 25, 2017</a></blockquote>
+
  
 #### Bot directories [¶](#bot-directories){.pilcrow} {#bot-directories}
 
