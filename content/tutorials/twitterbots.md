@@ -57,10 +57,8 @@ Can't wait to see you there!
 
 ### Beginner tutorials [¶](#beginner-tutorials){.pilcrow} {#beginner-tutorials}
 
-
-**So you want to make a Twitter bot? Check out [How to Make a Twitter Bot: The Definitive Guide](/tutorials/how-to-make-a-twitter-bot-definitive-guide)!**
-
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### node.js [¶](#tutorials-nodejs){.pilcrow} {#tutorials-nodejs}
 
 <!--
@@ -79,7 +77,7 @@ Can't wait to see you there!
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
-- [Smarter & Cuter Bots](https://www.youtube.com/watch?v=oLYcx8C6I18): a video tutorial using [GraphicsMagick](http://www.graphicsmagick.org/) and Microsoft's Cognitive Services (Rachel White via youtube.com)
+- [Smarter &amp; Cuter Bots](https://www.youtube.com/watch?v=oLYcx8C6I18): a video tutorial using [GraphicsMagick](http://www.graphicsmagick.org/) and Microsoft's Cognitive Services (Rachel White via youtube.com)
   - [Slides](https://docs.google.com/presentation/d/1N_28LFIzHjrNF6mE5yBGUBXkNH6n1mKqMcmDu9veuYk/edit#slide=id.p4) (docs.google.com)
 
 
@@ -93,6 +91,15 @@ Can't wait to see you there!
 - [How to build and deploy a multifunctional Twitter bot](https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092) (Scott Spence via medium.com)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot): a super simple tutorial with node.js source code
 -->
+
+  </div>
+  <div class="col-sm-12 col-md-6" markdown=1>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How often should your bot tweet? Where should you host it? Can you retweet non-followers? Check out <a href="https://t.co/sSpF22MU7R">https://t.co/sSpF22MU7R</a> by <a href="https://twitter.com/fourtonfish">@fourtonfish</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901805845452873729">August 27, 2017</a></blockquote>
+  </div>  
+</div>
+
+
+
 
 #### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}
 
@@ -219,3 +226,4 @@ See [Resources for Twitter bots](/resources/twitterbots) and [open source code f
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
