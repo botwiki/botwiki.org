@@ -22,7 +22,6 @@ So you want to make a friendly/useful/artistic Twitter bot and probably have a b
 Hopefully this ambitiously titled guide will answer your questions -- and you are always free to ask for more help [in the Botmakers community](https://botmakers.org/). 
 
 ### Page content [¶](#page-content){.pilcrow} {#page-content}
-
 - [Note on needing a phone number](#note-phone-number)
 - [What kind of a bot should I make?](#what)
 - [Can I make a bot that tracks keywords or hashtags?](#hashtags-keywords)
@@ -153,5 +152,9 @@ If you'd like to leave me feedback and suggestions for this guide, feel free to 
 
 PS: See more of my tutorials [here](/tag/tutorial+fourtonfish/).
 
+
+### Special thanks [¶](#special-thanks){.pilcrow} {#special-thanks}
+
+- [@erocdrahs](https://twitter.com/erocdrahs)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
