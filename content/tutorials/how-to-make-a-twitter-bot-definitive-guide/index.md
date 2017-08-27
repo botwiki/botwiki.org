@@ -155,6 +155,6 @@ PS: See more of my tutorials [here](/tag/tutorial+fourtonfish/).
 
 ### Special thanks [¶](#special-thanks){.pilcrow} {#special-thanks}
 
-- [@erocdrahs](https://twitter.com/erocdrahs)
+- [Eric](http://www.shardcore.org/) (shardcore.org)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
