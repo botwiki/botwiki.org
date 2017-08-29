@@ -26,6 +26,7 @@ Hopefully this ambitiously titled guide will answer your questions -- and you ar
 - [What kind of a bot should I make?](#what)
 - [Can I make a bot that tracks keywords or hashtags?](#hashtags-keywords)
 - [How often should my Twitter bot tweet?](#tweet-frequency)
+- [Do I need to attribute content tweeted by my bot?](#bot-attribution)
 - [How do I make a Twitter bot?](#bot-tutorials)
 - [Where should I host my bot?](#bot-hosting)
 - [Why is my bot not working?](#bot-not-working)
@@ -105,6 +106,12 @@ Here are some thoughts from a member of [Botmakers](https://botmakers.org/):
 > **-- @air_hadoken**
 
 <br/>
+
+### Do I need to attribute content tweeted by my bot? [¶](#bot-attribution){.pilcrow} {#bot-attribution}
+
+[Absolutely!](https://twitter.com/i/moments/901869159931187200)
+
+
 
 ### How do I make a Twitter bot? [¶](#bot-tutorials){.pilcrow} {#bot-tutorials}
 
