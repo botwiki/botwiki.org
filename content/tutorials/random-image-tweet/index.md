@@ -321,7 +321,7 @@ This way you can choose whether you want to cycle through all the images or only
 
 The bot we made is perfect for sharing images you created yourself. When sharing images created by other folks, remember to [give credit](/tutorials/how-to-make-a-twitter-bot-definitive-guide#bot-attribution) to the original author.
 
-One way to do this is to create an object that lets organize images together with source links, something like this:
+One way to do this is to create an object that lets you organize images together with source links, something like this:
 
 ```
 var images = [
