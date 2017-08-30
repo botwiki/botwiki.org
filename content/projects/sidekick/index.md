@@ -166,9 +166,9 @@ Description: See what we are working on.
 </tr>
 <tr>
   <td>
-    <code>star</code><br/>
-    <code>heart</code><br/>
-    <code>+1</code>
+    <code>:star:</code><br/>
+    <code>:heart:</code><br/>
+    <code>:+1:</code>
   </td>
   <td>
     When used in the <strong>#the-feed</strong> channel, the bot will retweet the message.
