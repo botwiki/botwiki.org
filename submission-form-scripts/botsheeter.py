@@ -88,7 +88,7 @@ def bot_category(bot):
         return "telegram-bots"
     elif bot['network'] == 'Skype':
         return "skype-bots"
-    print("Unrecognized network: " + bot['network'])    
+    print("Unrecognized network: " + bot['network'])
     return "other"
 
 
