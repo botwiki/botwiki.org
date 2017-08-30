@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/proceduralart.png
 Link: https://twitter.com/proceduralart
 Author: botsheeter.py
 Date: March 12, 2017
-Tags: twitter,twitterbot,bot,facebook,tumblr,active,geometry,art,shape,everyday,generated,procedural,minimal,laboiteatortue
+Tags: twitter,twitterbot,bot,facebook,page,tumblr,active,geometry,art,shape,everyday,generated,procedural,minimal,laboiteatortue
 Nav: hidden
 Robots: index,follow
 */

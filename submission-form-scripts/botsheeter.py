@@ -80,29 +80,36 @@ def bot_category(bot):
         return "kik-bots"
     elif bot['network'] == 'Snapchat':
         return "snapchat-bots"
+    elif bot['network'] == 'Facebook':
+        return "facebook"
     elif bot['network'] == 'Facebook Messenger':
         return "facebook-messenger-bots"
     elif bot['network'] == 'Telegram':
         return "telegram-bots"
     elif bot['network'] == 'Skype':
         return "skype-bots"
+    print("Unrecognized network: " + bot['network'])    
     return "other"
 
 
 def bot_network(bot):
-    """ First, attempt to get the bot's betwork name from its location,
+    """ First, attempt to get the bot's network name from its location,
     fall back on user-submitted data.
     """
-    if "twitter.com" in bot['location']:
+    if "twitter.com" in bot['location'] or bot['network'] == 'Twitter':
         return "Twitter"
-    elif "youtube.com" in bot['location']:
+    elif "youtube.com" in bot['location'] or bot['network'] == 'YouTube':
         return "Youtube"
-    elif "reddit.com" in bot['location']:
+    elif "reddit.com" in bot['location'] or bot['network'] == 'Reddit':
         return "Reddit"
-    elif "tumblr.com" in bot['location']:
+    elif "tumblr.com" in bot['location'] or bot['network'] == 'Tumblr':
         return "Tumblr"
     elif bot['network'] == 'Slack':
         return "Slack"
+    elif bot['network'] == 'Facebook':
+        return "Facebook"
+    elif bot['network'] == 'Facebook Messenger':
+        return "Facebook Messenger"
     elif bot['network'] == 'Kik':
         return "Kik"
     elif bot['network'] == 'Snapchat':
@@ -380,9 +387,9 @@ if __name__ == "__main__":
             wks.update_cell(added_row, added_col, "true")
 
     print(Fore.GREEN + "Finished processing, skipped " +
-          str(len(skipped_bots)) + " bots:")
-    print(Fore.RESET + Style.DIM)
-    print(', '.join(skipped_bots))
+          str(len(skipped_bots)) + " bots")
+    # print(Fore.RESET + Style.DIM)
+    # print(', '.join(skipped_bots))
     print(Style.RESET_ALL)
 
     if bot_page_urls:

@@ -15,9 +15,10 @@ If you'd like to get in touch, feel free to [send us an email](mailto:stefan@bot
 
 ### Stefan [¶](#stefan){.pilcrow} {#stefan}
 
-***Botwiki editor, Botmakers moderator, creator of Botwiki and Botmakers***
-
 [![Stefan](/content/about/images/stefan.png){.photo .float-right}](https://twitter.com/fourtonfish)
+
+**Creator of Botwiki and Botmakers<br/>
+Botwiki editor and Botmakers community manager**
 
 Hi!
 
@@ -31,9 +32,11 @@ PS: [Here are my bots](https://twitter.com/fourtonfish/lists/my-twitterbots/memb
 
 
 ### Veronica [¶](#veronica){.pilcrow} {#veronica}
-***Bot! zine editor, Botmakers moderator***
 
 [![Veronica](/content/about/images/veronica.jpg){.photo .float-right}](https://twitter.com/Veronica)
+
+**Bot! zine editor and Botmakers community manager**
+
 
 I'm Veronica!
 
@@ -42,15 +45,15 @@ I'm a podcaster, writer, and bot/AI enthusiast from San Francisco. I love talkin
 I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot! zine](https://botzine.org/) newsletter, and sometimes I help [@botwikidotorg](https://twitter.com/botwikidotorg) figure out what to tweet.
 
 
-<!--
 ### Angelina [¶](#angelina){.pilcrow} {#angelina}
-
-***Event organizer***
 
 [![Angelina](/content/about/images/angelina.jpg){.photo .float-right}](https://twitter.com/oxangiemarie)
 
-[TODO: bio]
--->
+**Event organizer**
+
+
+Hi, I'm Angelina! I'm an NYC based web developer with an interest in digital storytelling and building inclusive communities (mainly to hear more people's stories!). I love connecting with people IRL, which is why I'm helping to organize our monthly meet ups here in the city. Interested in giving a talk, or just want to chat about bots? Find me [@oxangiemarie](https://twitter.com/), or as [@ambethoney](https://botmakers.slack.com/messages/@stefan/details/) in our Slack group!
+
 
 ### Contributors [¶](#contributors){.pilcrow} {#contributors}
 

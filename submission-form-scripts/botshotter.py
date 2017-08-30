@@ -105,7 +105,7 @@ def take_shot(driver, url, headless):
     driver.get(url)
 
     # Make sure the page is loaded
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 45)
 
     if "twitter.com" in url:
         wait.until(ec.visibility_of_element_located((
