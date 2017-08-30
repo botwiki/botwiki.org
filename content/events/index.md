@@ -12,6 +12,7 @@ Weight: 5
 - [Bot Workshops](/bot-workshops)
 - [Monthly Bot Challenge](/monthly-bot-challenge)
 
+[Join our Meetup group.](https://meetup.com/botmakers)
 
 ### Events [¶](#events){.pilcrow} {#events}
 
