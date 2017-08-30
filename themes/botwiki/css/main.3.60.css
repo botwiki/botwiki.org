@@ -1879,7 +1879,7 @@ code {
   padding: 0 2px !important;
 }
 pre code {
-  font-family: 'Source Serif Pro', Courier, "Courier New", Monaco, Tahoma;
+  font-family: 'Source Code Pro', Courier, "Courier New", Monaco, Tahoma;
   background: #23241f;
   color: #333;
   padding: 1em 0 !important;
@@ -2441,8 +2441,17 @@ div.sponsors-corporate-organizations img {
   max-width: 300px;
   max-height: 130px;
 }
-table.event-table td {
-  padding: 0.5em 0;
+table {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: .5rem 2rem;
+}
+table th {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+table td {
+  padding: 0.5em 0.5em 0 0;
 }
 table.event-table td.event-time {
   min-width: 5em;
@@ -2450,6 +2459,17 @@ table.event-table td.event-time {
 }
 table.event-table td.event-speaker {
   font-weight: bold;
+}
+table.data-table th {
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+table.data-table th,
+table.data-table td {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 1em;
+}
+table.data-table tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.02);
 }
 /* Misc Styles
 /*---------------------------------------------*/

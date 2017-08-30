@@ -2,7 +2,7 @@
 Title: surebot
 Description: Bot that curates the most Instagrammed food & drink spots 👌
 Thumbnail: /content/bots/facebook-messenger-bots/images/surebot.png
-Link: m.me/surebot
+Link: https://m.me/surebot
 Author: botsheeter.py
 Date: May 01, 2017
 Tags: bot,active,interactive,facebook,messenger,chatbot,food,travel,lifestyle,jurajpal

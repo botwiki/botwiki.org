@@ -332,7 +332,7 @@ code{
 }
 
 pre code{
-  font-family: 'Source Serif Pro', Courier, "Courier New", Monaco, Tahoma;
+  font-family: 'Source Code Pro', Courier, "Courier New", Monaco, Tahoma;
   background: #23241f;
   color: #333;
   padding: 1em 0 !important;
@@ -971,18 +971,51 @@ div.sponsors-corporate-organizations img{
   max-height: 130px;
 }
 
-table.event-table td{
-  padding: 0.5em 0;
+table{
+  max-width: @max-content-width;
+  margin: 0 auto;
+  padding: .5rem 2rem;
+
+  th{
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  td{
+    padding: 0.5em 0.5em 0 0;
+  }
+
+  &.event-table{
+    td{
+      &.event-time{
+        min-width: 5em;
+        font-weight: bold;
+      }
+
+      &.event-speaker{
+        font-weight: bold;
+      }
+    }
+  }
+
+  &.data-table{
+    th{
+      border-top: 1px solid rgba(0, 0, 0, 0.2);
+    }
+
+    th,td{
+      border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+      padding: 1em;
+    }
+
+    tr:nth-of-type(odd) {
+      background-color: rgba(0, 0, 0, 0.02);
+    }
+
+  }
+
 }
 
-table.event-table td.event-time{
-  min-width: 5em;
-  font-weight: bold;
-}
-
-table.event-table td.event-speaker{
-  font-weight: bold;
-}
 
 /* Misc Styles
 /*---------------------------------------------*/

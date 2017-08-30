@@ -346,7 +346,7 @@ var images = [
 module.exports = images;
 ```
 
-Then you can load the file the way you load your API keys:
+Then you can save this file as `images.js` and load it the same way you load your API keys:
 
 ```
 images = require(path.join(__dirname, 'images.js'));
