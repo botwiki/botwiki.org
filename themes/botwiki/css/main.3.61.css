@@ -1697,7 +1697,7 @@ input,
 textarea,
 select {
   padding: 5px;
-  font-size: 0.9em;
+  font-size: 0.8em;
   color: #666;
   background: #fff;
   border: 1px solid #999999;
@@ -2226,7 +2226,7 @@ form#search-form {
   margin-top: -0.6em;
 }
 form#search-form input {
-  padding: 0.5em 1em;
+  padding: 0.5em;
   border-radius: 4px;
   outline: none;
   width: 100%;
@@ -2502,7 +2502,7 @@ div.search-item .screenshot {
 }
 .note {
   font-weight: bold;
-  background-color: #F7E967;
+  background-color: #f3f3f3;
   margin: 2em 0;
   padding: 0;
 }

@@ -36,23 +36,6 @@
       </p></div>
     {% endif %}
 
-    {% if meta.source %}
-    <div class="opensource">
-      <p>
-        <a class="btn" href="{{ meta.source }}">View source</a>
-
-      {% if "github.com" in meta.source and ("node" in meta.tags or "python" in meta.tags) %}
-        <a target="_blank" class="btn" href="https://gomix.com/#!/import/github/{{ meta.source|replace({'https://github.com/': ''}) }}">Remix on Glitch</a>
-        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
-      {% endif %}
-      {% if "glitch.com" in meta.source %}
-        <a target="_blank" class="btn" href="{{ meta.source|replace({'https://glitch.com/': 'https://glitch.com/edit/#!/remix/'}) }}">Remix on Glitch</a>
-        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
-      {% endif %}
-      </p>
-    </div>
-    {% endif %}
-
 
     {{ content }}
     {% if "bot-workshops" in meta.tags %}
@@ -77,10 +60,29 @@
               <p>Enter the <a href="/monthly-bot-challenge/">Monthly Bot Challenge</a>!</p>
             </div>
      -->
+
     <div class="meta">
         {% if meta.date %}
           <p class="meta-date">Last updated on {{ meta.date }}.</p>
         {% endif %}
+
+    {% if meta.source %}
+    <div class="opensource">
+      <p>
+        <a class="btn" href="{{ meta.source }}">View source</a>
+
+      {% if "github.com" in meta.source and ("node" in meta.tags or "python" in meta.tags) %}
+        <a target="_blank" class="btn" href="https://gomix.com/#!/import/github/{{ meta.source|replace({'https://github.com/': ''}) }}">Remix on Glitch</a>
+        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
+      {% endif %}
+      {% if "glitch.com" in meta.source %}
+        <a target="_blank" class="btn" href="{{ meta.source|replace({'https://glitch.com/': 'https://glitch.com/edit/#!/remix/'}) }}">Remix on Glitch</a>
+        <a class="btn-link" href="/tutorials/hosting-bots-glitch">What is Glitch?</a>
+      {% endif %}
+      </p>
+    </div>
+    {% endif %}
+
         {% if meta.tags is not empty %}
         <p class="tags">
         {% for tag in meta.tags %}
