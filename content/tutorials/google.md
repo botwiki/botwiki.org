@@ -55,6 +55,7 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 
 - [Actions on Google/Api.ai boilerplate project on Glitch](https://glitch.com/edit/#!/project/actions-on-google-api-ai-boilerplate) (glitch.com)
 - [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
+- [Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/) (jovo.tech)
 
 #### api.ai [¶](#tutorials-api-ai){.pilcrow} {#tutorials-api-ai}
 

@@ -57,6 +57,7 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 - [Writing a Weasley Clock with Alexa](http://mdickin.com/2017/04/30/writing-weasley-clock-with-alexa/) (mdickin.com )
 - [Build an Alexa Skill in 7 Minutes Flat with Node.js and StdLib](https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f) (hackernoon.com)
 - [Alexa Twitter DM Skill](https://glitch.com/edit/#!/alexa-twitter-dm-skill) (glitch.com)
+- [Build an Alexa Skill in Node.js with Jovo](https://www.jovo.tech/blog/alexa-skill-tutorial-nodejs/) (jovo.tech)
 
 #### AWS Lambda [¶](#tutorials-lambda){.pilcrow} {#tutorials-lambda}
 

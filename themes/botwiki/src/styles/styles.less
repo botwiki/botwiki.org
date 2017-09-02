@@ -60,7 +60,7 @@ article{
 h1, h2{
   span{
     color: #fff;
-    background-color: #38313a;
+    background-color: @main-color;
     padding: 10px;
     line-height: 2em;
     box-decoration-break: clone;
@@ -239,7 +239,7 @@ div.opensource{
 
 a.pilcrow{
   &, &:visited{
-    color: @main-color + #aaa;
+    color: @main-color + #999;
     transition: color 0.2s;    
   }
   &:hover{
@@ -256,23 +256,23 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
 
 
 h1{
-  font-size: 3em;
+  font-size: 4em;
   padding-top: 3rem;
   padding-bottom: 1rem;  
 }
 
 h2{
-  font-size: 2.5em;
+  font-size: 3.5em;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
 h3{
-  font-size: 2.3em;
+  font-size: 3.2em;
 }
 
 h4{
-  font-size: 2em;
+  font-size: 3em;
 }
 
 h5{
@@ -1098,7 +1098,7 @@ div.meta{
     // border-left: 10px solid #ccc;
     text-transform: uppercase;
     padding-top: 2em !important;
-    padding-bottom: 2em;
+    padding-bottom: 0;
     margin-top: 2em !important;
     @media (min-width : @site-width-small){
       margin-top: 4em !important;
@@ -1106,6 +1106,7 @@ div.meta{
 
 
     h4{
+      color: @main-color + #333;
       font-size: 1.5em;
       @media (min-width : @site-width-small){
         padding: 0.5rem 2rem;
@@ -1119,6 +1120,9 @@ div.meta{
   }
   .meta-date{
     font-style: italic;
+  }
+  .note.donations{
+    padding: 0 0 1em;
   }
 }
 
@@ -1156,10 +1160,11 @@ p.ssbg-attribution{
   a{
     color: @link-color + #111;
   }
-  padding: .5rem 2rem 0 !important;
+  padding: 0 2rem !important;
+  margin-top: 0 !important;
   margin-bottom: 0 !important;
   @media(max-width: @site-width-medium){
-    padding: .5rem 10px 0 !important;
+    padding: 0 10px !important;
   }
 }
 

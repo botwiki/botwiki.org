@@ -28,6 +28,7 @@ Nav: hidden
 
 **See also:** [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coding is for art, fashion, space travel, activism, anything! Projects can be as diverse as the people writing them. <a href="https://t.co/hfJ1eHcVEP">https://t.co/hfJ1eHcVEP</a></p>&mdash; Emily Claire Reese (@eclairereese) <a href="https://twitter.com/eclairereese/status/898498307907039232">August 18, 2017</a></blockquote>
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
@@ -114,6 +115,7 @@ Nav: hidden
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/) (tinysubversions.com)
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/) (lizmrush.com)
+- [N-Grams and Markov Chains](http://shiffman.net/a2z/markov/) (shiffman.net) 
 - [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/) (setosa.io)
 - [Text Mining Course](https://github.com/organisciak/Text-Mining-Course): Course Notes for 590TXL, University of Illinois at Urbana-Champaign (Peter Organisciak via github.com)
 

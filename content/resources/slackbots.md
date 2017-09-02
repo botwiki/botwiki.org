@@ -61,6 +61,8 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
 - [Slack Message Builder](https://api.slack.com/docs/formatting/builder): created by [Slack](https://twitter.com/SlackHQ)
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/): created by [Dave Stevens](https://github.com/davestevens)
 - You can use the [channels.list Slack API tester](https://api.slack.com/methods/channels.list/test) to easily get an ID of a channel (for linking to it in bot messages, for example) (browsing [api.slack.com/methods](https://api.slack.com/methods) is useful in general, as you can test all of the Slack API)
+- [Steno](https://slackapi.github.io/steno/): "sidekick for developing tests for your Slack app"
+  - [How we built Steno, your app testing sidekick](https://medium.com/slack-developer-blog/how-we-built-steno-your-app-testing-sidekick-74182da53ef5) (Slack Platform Blog via medium.com)
 - [slack-mock](https://github.com/Skellington-Closet/slack-mock): a Slack API mocker for Slack bot integration tests
 - [r/Slack](https://www.reddit.com/r/Slack/): a subreddit dedicated to all things Slack
 
