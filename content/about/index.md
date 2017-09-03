@@ -14,6 +14,7 @@ Weight: 6
 </div>
 
 
+
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">I liked <a href="https://twitter.com/fourtonfish">@fourtonfish</a>&#39;s Botwiki, a set of resources for learning about &amp; building bots for Slack, Twitter, etc. <a href="https://t.co/uFTB6Zrr6a">https://t.co/uFTB6Zrr6a</a></p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/642120992932933632">September 10, 2015</a></blockquote>
 
 
@@ -63,6 +64,13 @@ Below is a timeline of major events in the history of the Botwiki project.
 - **August 19:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **July 15:** First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
 - **July 12:** The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
+
+
+### Read more [¶](#read-more){.pilcrow} {#read-more}
+
+
+- [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
+- [Celebrating Botwiki](/tag/botwiki+anniversary) 
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want to learn how to make fun/weird/artsy bots? Join <a href="https://t.co/4FH6Ohd5ue">https://t.co/4FH6Ohd5ue</a>  and check out our tutorials <a href="https://t.co/52klQ1dEml">https://t.co/52klQ1dEml</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/799687419259797504">November 18, 2016</a></blockquote>

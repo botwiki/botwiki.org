@@ -5,7 +5,7 @@ Author: Stefan Bohacek
 Thumbnail: /content/blog/images/botwiki-01-v2.png
 Date: July 13, 2016
 Type: Blog post
-Tags: about,blog,botwiki anniversary,one year,project,update
+Tags: about,blog,botwiki,anniversary,one year,project,update
 Nav: hidden
 Robots: index,follow
 */

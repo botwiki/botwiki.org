@@ -5,7 +5,7 @@ Author: Stefan Bohacek
 Thumbnail: /content/blog/images/botwiki-emoji-birthday.png
 Date: July 12, 2017
 Type: Blog post
-Tags: about,blog,botwiki anniversary,two years,project,update
+Tags: about,blog,botwiki,anniversary,two years,project,update
 Nav: hidden
 Robots: index,follow
 */
