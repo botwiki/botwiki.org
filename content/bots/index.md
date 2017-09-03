@@ -8,7 +8,9 @@ Weight: 1
 
 <div class="note">
   <p>
-    Jump straight to browsing bots <a href="#browse-bots-by-category">by category</a>, <a href="#browse-bots-by-network">by the network</a> on which they operate, or check out <a href="/random-bot">a random bot</a>!
+    <a class="btn" href="#browse-bots-by-category">Browse by category</a>
+    <a class="btn" href="#browse-bots-by-network">Browse by network</a>
+    <a class="btn" href="/random-bot">Random bot</a>
   </p>
 </div>
 

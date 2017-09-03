@@ -50,4 +50,3 @@ Some examples of such bots include:
 
 <a class="btn" href="/bots">Explore bots</a>
 <a class="btn" href="https://botwiki.org/submit-your-bot">Submit your bot</a>
-
