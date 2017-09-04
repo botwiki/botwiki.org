@@ -6,9 +6,12 @@ Show donation link: yes
 Nav: hidden
 */
 
+
 <div class="note">
   <p>
-    Browse Twitter bots <a href="#browse-twitter-bots-by-category">by category</a>, check out the <a href="#lists-of-twitter-bots">maintained lists</a>, or jump straight to browsing <a href="/tag/twitterbot">all Twitter bots</a>.
+    <a class="btn" href="#browse-twitter-bots-by-category">Browse by category</a>
+    <a class="btn" href="#lists-of-twitter-bots">Maintained lists</a>
+    <a class="btn" href="/tag/twitterbot">Browse all Twitter bots</a>
   </p>
 </div>
 
@@ -58,6 +61,8 @@ Some example bots include:
 - [Internet of Things (IoT) bots](/tag/twitter+bot+iot)
 - [Interactive bots](/tag/twitter+bot+interactive)
 - [Open source bots](/tag/twitter+bot+opensource)
+
+<p><a class="btn" href="/tag/twitterbot">Browse all Twitter bots</a></p>
   </div>
   <div class="col-sm-12 col-md-6">
     <a href="/bots/twitterbots/FireworksBot">
@@ -69,9 +74,6 @@ Some example bots include:
 
 
 
-
-
-Browse [all Twitter bots](/tag/twitterbot).
 
 ### Lists of Twitter bots [¶](#lists-of-twitter-bots){.pilcrow} {#lists-of-twitter-bots}
 
