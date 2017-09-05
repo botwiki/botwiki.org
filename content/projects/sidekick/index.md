@@ -143,7 +143,31 @@ Description: See what we are working on.
     <code>:rolled_up_newspaper:</code>
   </td>
   <td>
-    Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#news-and-articles</strong> channel.
+    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#news-and-articles</strong> channel.</p>
+    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <code>:wrench:</code><br/>
+    <code>:hammer_and_wrench:</code><br/>
+    <code>:hammer:</code><br/>
+    <code>:hammer_and_pick:</code>
+  </td>
+  <td>
+    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#projects</strong> channel.</p>
+    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
+  </td>
+</tr>
+<tr>
+  <td>
+    <code>:calendar:</code><br/>
+    <code>:date:</code><br/>
+    <code>:spiral_calendar_pad:</code>
+  </td>
+  <td>
+    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#events</strong> channel.</p>
+    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
   </td>
 </tr>
 <tr>

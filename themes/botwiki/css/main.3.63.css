@@ -2453,6 +2453,13 @@ table th {
 table td {
   padding: 0.5em 0.5em 0 0;
 }
+table p {
+  margin: 0 0 1em 0 !important;
+  padding: 0 !important;
+}
+table p:last-of-type {
+  margin-bottom: 0 !important;
+}
 table.event-table td.event-time {
   min-width: 5em;
   font-weight: bold;

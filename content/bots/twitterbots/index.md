@@ -72,9 +72,6 @@ Some example bots include:
 </div>
 
 
-
-
-
 ### Lists of Twitter bots [¶](#lists-of-twitter-bots){.pilcrow} {#lists-of-twitter-bots}
 
 
