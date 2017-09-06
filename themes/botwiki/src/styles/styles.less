@@ -113,9 +113,10 @@ a.btn{
   border-radius: 5px;
   background-color: #fafafa;
   font-size: 0.9em;
-
+  box-shadow: 2px 2px @main-color + #555;
 
   &:hover{
+    box-shadow: 1px 1px 0 @main-color + #222;
     color: @main-color;
     text-decoration: none;
     background-color: #fafafa - #111;
@@ -1423,6 +1424,7 @@ div.bottom-page-links{
   position: fixed;
   bottom: 10px;
   right: 10px;
+
   a{
     display: inline-block;
     cursor: pointer;
@@ -1435,6 +1437,9 @@ div.bottom-page-links{
     vertical-align: top;
     text-align: center;
     font-size: 2.5em;
+    box-shadow: 5px 5px @main-color + #222;
+    margin: 2px;
+
     @media (min-width : @site-width-small){
       opacity: 0.95;
       font-size: 1.9em;
@@ -1442,6 +1447,7 @@ div.bottom-page-links{
 
     &:hover{
       opacity: 1;
+      box-shadow: 4px 4px @main-color + #555
     }
     &#back-to-top{
       padding: 12px;
@@ -1464,8 +1470,6 @@ div.bottom-page-links{
         }
       }
     }
-
-
   }
 }
 
