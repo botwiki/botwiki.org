@@ -1666,8 +1666,10 @@ a.btn {
   border-radius: 5px;
   background-color: #fafafa;
   font-size: 0.9em;
+  box-shadow: 2px 2px #a298a5;
 }
 a.btn:hover {
+  box-shadow: 1px 1px 0 #6f6572;
   color: #4d4350;
   text-decoration: none;
   background-color: #e9e9e9;
@@ -2194,9 +2196,6 @@ div.all-tags a {
     float: none;
     width: 100%;
   }
-}
-li.active a {
-  border-bottom: 8px solid #4d4350;
 }
 label.cursor-pointer {
   cursor: pointer;
@@ -2736,12 +2735,21 @@ img.logo-digitalocean {
       -ms-transform: translateX(50%);
           transform: translateX(50%);
 }
-#header nav a {
+#header nav li a {
   color: #2b212e;
   text-decoration: none;
 }
-#header nav a:hover {
-  color: #434a54;
+#header nav li a:hover {
+  padding: 0 4px;
+  background-color: #4d4350;
+  color: #fff;
+}
+#header nav li.active a {
+  border-bottom: 8px solid #4d4350;
+  padding-bottom: 0;
+}
+#header nav li.active + li {
+  padding-top: 1em;
 }
 #header nav ul,
 nav:active ul,
@@ -2843,6 +2851,8 @@ div.bottom-page-links a {
   vertical-align: top;
   text-align: center;
   font-size: 2.5em;
+  box-shadow: 5px 5px #6f6572;
+  margin: 2px;
 }
 @media (min-width: 860px) {
   div.bottom-page-links a {
@@ -2852,6 +2862,7 @@ div.bottom-page-links a {
 }
 div.bottom-page-links a:hover {
   opacity: 1;
+  box-shadow: 4px 4px #a298a5;
 }
 div.bottom-page-links a#back-to-top {
   padding: 12px;

@@ -679,12 +679,6 @@ div.all-tags{
   }
 }
 
-li.active{
-  a{
-    border-bottom: 8px solid @main-color; 
-  }  
-}
-
 label.cursor-pointer{  
   cursor: pointer;
 }
@@ -1324,13 +1318,26 @@ img.logo-digitalocean{
         opacity: 0;
         transition: all 0.3s;
         transform: translateX(50%);
-      }
 
-      a{
-        color: @main-color - #222;
-        text-decoration: none;
-        &:hover{
-          color: #434a54; 
+        a{
+          color: @main-color - #222;
+          text-decoration: none;
+          &:hover{
+            padding: 0 4px;
+            background-color: @main-color;
+            color: #fff; 
+          }
+        }
+
+
+        &.active{
+          a{
+            border-bottom: 8px solid @main-color; 
+            padding-bottom: 0;
+          }
+         &+li{
+          padding-top: 1em;
+         } 
         }
       }
     }
