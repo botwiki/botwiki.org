@@ -137,6 +137,15 @@ Description: See what we are working on.
   </td>
 </tr>
 <tr>
+  <td>
+    <code>what's the id of this channel</code><br/>
+    <code>what's the id of #channel1 #channel2 #channel3 ...</code>
+  </td>
+  <td>
+    Get the ID of selected channels.
+  </td>
+</tr>
+<tr>
 <tr>
   <td>
     <code>:newspaper:</code><br/>
