@@ -171,6 +171,15 @@ Description: See what we are working on.
   </td>
 </tr>
 <tr>
+  <td>
+    <code>:bulb:</code>
+  </td>
+  <td>
+    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#ideas-and-collab</strong> channel.</p>
+    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
+  </td>
+</tr>
+<tr>
   <td colspan="2">
     <strong>Following commands are only available to group moderators.</strong>
   </td>
