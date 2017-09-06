@@ -2127,6 +2127,13 @@ div.all-tags a {
   text-shadow: 0 0 10px #000;
   position: relative;
   z-index: 3;
+  font-size: 2em;
+}
+@media (max-width: 900px) {
+  #header #menu-icon-wrapper,
+  #header .botwiki-logo {
+    font-size: 3em;
+  }
 }
 #header #menu-toggle {
   display: none;
