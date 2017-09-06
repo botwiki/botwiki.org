@@ -129,7 +129,7 @@ Description: See what we are working on.
 </tr>
 <tr>
   <td>
-    <code>delete my account</code>
+    <code>delete my account</code><br/>
     <code>delete me</code>
   </td>
   <td>
