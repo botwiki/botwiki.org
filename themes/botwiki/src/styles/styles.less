@@ -593,11 +593,20 @@ div.all-tags{
   .botwiki-logo{
     font-family: 'Bree Serif';
     font-size: 2em;
+
+    @media (max-width: @site-width-medium){
+      font-size: 3em;
+    }
   }
 
   #menu-icon-wrapper{
     color: #fff;
     float: right;
+    font-size: 1.7em;
+
+    @media (max-width: @site-width-medium){
+      font-size: 2em;
+    }
   }
 
   #menu-icon-wrapper,
@@ -605,11 +614,6 @@ div.all-tags{
     text-shadow: 0 0 10px #000;
     position: relative;
     z-index: 3;
-    font-size: 2em;
-
-    @media (max-width: @site-width-medium){
-      font-size: 3em;
-    }
   }
 
   #menu-toggle{
