@@ -975,6 +975,14 @@ table{
   margin: 0 auto;
   padding: .5rem 2rem;
 
+  @media (max-width: @site-width-small){
+    margin: 0;
+    padding: 0;
+    code{
+      word-break: break-all;
+    }
+  }
+
   th{
     text-transform: uppercase;
     font-weight: bold;
