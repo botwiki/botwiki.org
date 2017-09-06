@@ -43,7 +43,8 @@
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
   <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro|Anton|Rubik' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.64.min.css" type="text/css" />  
+  <link href='https://fonts.googleapis.com/css?family=Bree+Serif&text=b' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.4.0.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -70,46 +71,61 @@
     <div class="inner clearfix">
       <nav>
         <label id="menu-icon-wrapper" class="cursor-pointer" for="menu-toggle">
+        <!-- 
           <svg id="menu-icon" viewBox="0 0 36 24" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="36px" height="24px"><g id="Layer%201"><rect x="0" y="0" width="36" height="4" fill="#ffffff"/><rect x="0" y="10" width="36" height="4" fill="#ffffff"/><rect x="0" y="20" width="36" height="4" fill="#ffffff"/></g></svg>
+        -->
+        &#9776;
         </label>  
-        <a class="h-card u-url" href="{{ base_url }}" id="logo" title="Hello!"><span class="robot-face">🤖</span></a>
+        <a class="h-card u-url" href="{{ base_url }}" id="logo" title="Hello!"><span class="botwiki-logo">b</span></a>
         <input type="checkbox" id="menu-toggle"/>  
         <ul id="menu">
-          <li class="form-wrapper">
-            <form id="search-form" action="/search">
-              <input name="q" placeholder="Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
-            </form>
-          </li>
-          <li 
-            {% if meta.title == "Bots" or 'bot' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/bots/" title="Bots">Bots</a></li>
-          <li 
-            {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
-          <li 
-            {% if meta.title == "Resources" or 'resources' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/resources/" title="Resources">Resources</a></li>
-          <li 
-            {% if meta.title == "Articles" or 'articles' in meta.tags or 'interview' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/articles/" title="Articles">Articles</a></li>
-          <li 
-            {% if meta.title == "Events" or 'event' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/events/" title="Events">Events</a></li>
-          <li 
-            {% if meta.title == "About" or 'about' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/about/" title="About">About</a></li>
+          <div class="row">
+            <div class="col-sm-12 col-md-6">
+              <li 
+                {% if meta.title == "Bots" or 'bot' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/bots/" title="Bots">Bots</a>
+              </li>
+              <li 
+                {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/tutorials/" title="Tutorials">Tutorials</a>
+              </li>
+              <li 
+                {% if meta.title == "Resources" or 'resources' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/resources/" title="Resources">Resources</a>
+              </li>
+              <li 
+                {% if meta.title == "Articles" or 'articles' in meta.tags or 'interview' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/articles/" title="Articles">Articles</a>
+              </li>
+              <li 
+                {% if meta.title == "Events" or 'event' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/events/" title="Events">Events</a>
+              </li>
+              <li 
+                {% if meta.title == "About" or 'about' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/about/" title="About">About</a>
+              </li>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <li class="form-wrapper">
+                <form id="search-form" action="/search">
+                  <input name="q" placeholder="Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
+                </form>
+              </li>
+            </div>
+          </div>
         </ul>
       </nav>
     </div>

@@ -1722,16 +1722,10 @@ body {
   font: 1.1em "Rubik", sans-serif;
   color: #444;
   line-height: 1.2em;
-  padding-top: 4em;
   margin: 0;
   background: #EDEDE8;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
-}
-@media (max-width: 860px) {
-  body {
-    padding-top: 2em;
-  }
 }
 a,
 a:visited {
@@ -2075,54 +2069,18 @@ div.all-tags a {
 }
 #header {
   position: fixed;
-  z-index: 100;
+  z-index: 1;
   top: 0;
   left: 0;
   right: 0;
   padding: 1em 0;
   color: #5D9CEC;
-  background-color: #4d4350;
   height: 4em;
 }
 @media (max-width: 860px) {
   #header {
     padding: 10px;
-    font-size: 2em;
     height: 2em;
-  }
-}
-li.active a {
-  border-bottom: 8px solid #4d4350;
-}
-@media (min-width: 860px) {
-  li.active a {
-    border-bottom: 3px solid #F5F5F5;
-  }
-}
-label.cursor-pointer {
-  cursor: pointer;
-}
-a#logo {
-  float: left;
-  margin: 0 0.7em 0 0;
-  color: #fff !important;
-  text-decoration: none !important;
-}
-a#logo:hover {
-  border-bottom: none !important;
-}
-ul#menu {
-  margin-left: 0;
-  padding-left: 0;
-  text-align: center;
-  max-width: 100%;
-}
-@media (max-width: 860px) {
-  ul#menu {
-    float: right;
-    overflow: auto;
-    max-height: 85vh;
-    /* Quick hack. */
   }
 }
 #header a {
@@ -2145,7 +2103,6 @@ ul#menu {
 }
 #header h1 a,
 #header h1 a:hover {
-  color: #fff;
   text-decoration: none;
 }
 #header ul {
@@ -2157,8 +2114,19 @@ ul#menu {
   display: inline-block;
   float: left;
 }
+#header .botwiki-logo {
+  font-family: 'Bree Serif';
+  font-size: 2em;
+}
 #header #menu-icon-wrapper {
+  color: #fff;
   float: right;
+}
+#header #menu-icon-wrapper,
+#header .botwiki-logo {
+  text-shadow: 0 0 10px #000;
+  position: relative;
+  z-index: 3;
 }
 #header #menu-toggle {
   display: none;
@@ -2179,7 +2147,6 @@ ul#menu {
   list-style: none;
   margin: 0.2em 0 0;
   font-family: 'Anton', sans-serif;
-  font-size: 1.2em;
 }
 #header nav li {
   margin-top: -5px;
@@ -2187,13 +2154,8 @@ ul#menu {
 }
 #header nav li a {
   text-transform: uppercase;
-}
-@media (min-width: 900px) {
-  #header nav li a {
-    font-size: 1.1em;
-    color: #fff;
-    text-transform: none;
-  }
+  font-size: 2em;
+  line-height: 1em;
 }
 #header nav li a:hover {
   text-decoration: none;
@@ -2221,9 +2183,36 @@ ul#menu {
     width: 100%;
   }
 }
+li.active a {
+  border-bottom: 8px solid #4d4350;
+}
+label.cursor-pointer {
+  cursor: pointer;
+}
+a#logo {
+  float: left;
+  margin: 0 0.7em 0 0;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+a#logo:hover {
+  border-bottom: none !important;
+}
+ul#menu {
+  margin-left: 0;
+  padding-left: 0;
+  max-width: 100%;
+}
+@media (max-width: 860px) {
+  ul#menu {
+    float: right;
+    overflow: auto;
+    max-height: 85vh;
+    /* Quick hack. */
+  }
+}
 form#search-form {
   width: 100%;
-  margin-top: -0.6em;
 }
 form#search-form input {
   padding: 0.5em;
@@ -2242,11 +2231,6 @@ div.search-results-intro h2 {
 }
 div#content-wrapper {
   margin: 0 auto;
-}
-@media (max-width: 860px) {
-  div#content-wrapper {
-    margin-top: 2em;
-  }
 }
 #content {
   position: relative;
@@ -2445,6 +2429,15 @@ table {
   max-width: 1150px;
   margin: 0 auto;
   padding: .5rem 2rem;
+}
+@media (max-width: 860px) {
+  table {
+    margin: 0;
+    padding: 0;
+  }
+  table code {
+    word-break: break-all;
+  }
 }
 table th {
   text-transform: uppercase;
@@ -2715,114 +2708,106 @@ img.logo-digitalocean {
     font-size: 1em;
   }
 }
-@media (max-width: 900px) {
-  #header #menu-icon {
-    display: inline-block;
-  }
-  #header nav ul {
-    overflow-x: hidden;
-  }
-  #header nav li {
-    width: 100%;
-    padding: 20px 0;
-    margin: 0;
-    opacity: 0;
-    transition: all 0.3s;
-    -webkit-transform: translateX(50%);
-        -ms-transform: translateX(50%);
-            transform: translateX(50%);
-  }
-  #header nav a {
-    color: #2b212e;
-    text-decoration: none;
-  }
-  #header nav a:hover {
-    color: #434a54;
-  }
-  #header nav ul,
-  nav:active ul,
-  ul#menu {
-    opacity: 0;
-    position: absolute;
-    padding: 20px;
-    background: #fff;
-    box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-    -webkit-transform: translateX(-50%);
-        -ms-transform: translateX(-50%);
-            transform: translateX(-50%);
-    top: 2em;
-    left: 0;
-    width: 100%;
-    z-index: 9999;
-    transition: all 0.3s;
-    pointer-events: none;
-  }
-  div.callout {
-    max-width: 1500px;
-    margin: 0 auto;
-    font-weight: bold;
-    background-color: #1a101d;
-    color: #fff;
-    overflow: auto;
-    padding: 0.5em 0;
-  }
-  div.callout > p {
-    padding: 0;
-    margin: 0;
-    text-align: center;
-  }
-  div.callout a {
-    color: #fff;
-    text-decoration: underline;
-  }
-  /*
-    TODO: Why is the order here off? 
-    Also, look into writing this programmatically with LESS, or something.
-  */
-  #header nav li:nth-child(1) {
-    transition-delay: 0s;
-  }
-  #header nav li:nth-child(2) {
-    transition-delay: 0.05s;
-  }
-  #header nav li:nth-child(3) {
-    transition-delay: 0.1s;
-  }
-  #header nav li:nth-child(4) {
-    transition-delay: 0.15s;
-  }
-  #header nav li:nth-child(5) {
-    transition-delay: 0.2s;
-  }
-  #header nav li:nth-child(6) {
-    transition-delay: 0.25s;
-  }
-  #header nav li:nth-child(7) {
-    transition-delay: 0.3s;
-  }
-  #header nav li:nth-child(8) {
-    transition-delay: 0.35s;
-  }
-  #header nav #menu-toggle:checked ul,
-  #menu-toggle:checked + #menu {
-    opacity: 1;
-    -webkit-transform: none;
-        -ms-transform: none;
-            transform: none;
-    pointer-events: all;
-  }
-  #header nav #menu-toggle:checked + #menu li {
-    margin-left: 0;
-    -webkit-transform: none;
-        -ms-transform: none;
-            transform: none;
-    opacity: 1;
-  }
+#header #menu-icon {
+  display: inline-block;
 }
-@media (max-width: 900px) and (min-width: 1500px) {
-  #header nav li {
-    padding: 10px 0;
-  }
+#header nav ul {
+  overflow-x: hidden;
+}
+#header nav li {
+  width: 100%;
+  padding: 10px 0;
+  margin: 0;
+  opacity: 0;
+  transition: all 0.3s;
+  -webkit-transform: translateX(50%);
+      -ms-transform: translateX(50%);
+          transform: translateX(50%);
+}
+#header nav a {
+  color: #2b212e;
+  text-decoration: none;
+}
+#header nav a:hover {
+  color: #434a54;
+}
+#header nav ul,
+nav:active ul,
+ul#menu {
+  opacity: 0;
+  position: absolute;
+  padding: 4em 20px 20px;
+  background: #fff;
+  box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  transition: all 0.3s;
+  pointer-events: none;
+}
+div.callout {
+  max-width: 1500px;
+  margin: 0 auto;
+  font-weight: bold;
+  background-color: #1a101d;
+  color: #fff;
+  overflow: auto;
+  padding: 0.5em 0;
+}
+div.callout > p {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+div.callout a {
+  color: #fff;
+  text-decoration: underline;
+}
+/*
+    TODO: Look into writing this programmatically with LESS, or something.
+  */
+#header nav li:nth-child(1) {
+  transition-delay: 0s;
+}
+#header nav li:nth-child(2) {
+  transition-delay: 0.05s;
+}
+#header nav li:nth-child(3) {
+  transition-delay: 0.1s;
+}
+#header nav li:nth-child(4) {
+  transition-delay: 0.15s;
+}
+#header nav li:nth-child(5) {
+  transition-delay: 0.2s;
+}
+#header nav li:nth-child(6) {
+  transition-delay: 0.25s;
+}
+#header nav li:nth-child(7) {
+  transition-delay: 0.3s;
+}
+#header nav li:nth-child(8) {
+  transition-delay: 0.35s;
+}
+#header nav #menu-toggle:checked ul,
+#menu-toggle:checked + #menu {
+  opacity: 1;
+  -webkit-transform: none;
+      -ms-transform: none;
+          transform: none;
+  pointer-events: all;
+}
+#header nav #menu-toggle:checked + #menu li {
+  margin-left: 0;
+  -webkit-transform: none;
+      -ms-transform: none;
+          transform: none;
+  opacity: 1;
 }
 @media (max-width: 480px) {
   #header h1 a {
