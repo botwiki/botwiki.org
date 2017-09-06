@@ -15,7 +15,7 @@ Weight: 1
 </div>
 
 
-So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
+So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot):
 
 <blockquote>
   <div class="row">
@@ -62,10 +62,10 @@ You are also welcome to join [Botmakers](https://botmakers.org/), our friendly c
 Thanks for checking out **Botwiki**!
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
-
-
 **PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
@@ -106,9 +106,8 @@ Or check out a [random bot](/random-bot)!
   </div>
 </div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tag your bot! <a href="https://t.co/84CibXmFJw">https://t.co/84CibXmFJw</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901124180573392963">August 25, 2017</a></blockquote>
-
- 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### Bot directories [¶](#bot-directories){.pilcrow} {#bot-directories}
 
 Botwiki is mainly focused on creative examples of online bots. If you're more interested in "business bots", check out some of these bot directories:
@@ -120,7 +119,11 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 #### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Essays on bots and botmaking](/articles/essays)
-
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tag your bot! <a href="https://t.co/84CibXmFJw">https://t.co/84CibXmFJw</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901124180573392963">August 25, 2017</a></blockquote>
+  </div>  
+</div>
 
 <div class="video-background">
   <div class="video-wrapper">
