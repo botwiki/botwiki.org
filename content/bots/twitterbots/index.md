@@ -12,6 +12,7 @@ Nav: hidden
     <a class="btn" href="#browse-twitter-bots-by-category">Browse by category</a>
     <a class="btn" href="#lists-of-twitter-bots">Maintained lists</a>
     <a class="btn" href="/tag/twitterbot">Browse all Twitter bots</a>
+    <a class="btn" href="/tutorials/twitterbots">Tutorials</a>
   </p>
 </div>
 
@@ -48,10 +49,11 @@ Some example bots include:
 </div>
 
 
-### Browse by category [¶](#browse-twitter-bots-by-category){.pilcrow} {#browse-twitter-bots-by-category}
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+### Browse by category [¶](#browse-twitter-bots-by-category){.pilcrow} {#browse-twitter-bots-by-category}
+
 - [Poetry bots](/tag/twitter+bot+poetry)
 - [Image bots](/tag/twitter+bot+images) ([GIF bots](/tag/twitter+bot+gif))
 - [Emoji bots](/tag/twitter+bot+emoji)
@@ -81,6 +83,9 @@ Some example bots include:
 - [Bots posting polls](https://twitter.com/botwikidotorg/lists/bots-posting-polls1/members)
 - [XKCD Bots](https://twitter.com/botwikidotorg/lists/xkcd-bots): bots inspired by the [xkcd webcomic](https://xkcd.com/)
 
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### General [¶](#lists-of-twitter-bots-general){.pilcrow} {#lists-of-twitter-bots-general}
 
 - [The Omnibots list](https://twitter.com/botALLY/lists/omnibots/members), maintained by [Tully Hansen](https://twitter.com/tullyhansen)
@@ -90,10 +95,13 @@ Some example bots include:
 - [The Botsistance](https://twitter.com/EthanBeihl/lists/the-botsistance/members), maintained by [@EthanBeihl](https://twitter.com/EthanBeihl): Bots aligned toward making hell for the powers that be. Some serious, some frivolous. #resist
 - [Activist bots](https://twitter.com/leonardo_uprm/lists/activist-bots), created by [Leonardo Flores](https://twitter.com/Leonardo_UPRM)
 - [Self-care bots](https://twitter.com/clairesayswhat/lists/self-care-bots/members), created by [Claire S.](https://twitter.com/clairesayswhat)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I give a Twitter bot as a wedding gift?</p>&mdash; Byron Hulcher (@hypirlink) <a href="https://twitter.com/hypirlink/status/773881183662923780">September 8, 2016</a></blockquote>
+  </div>
+</div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I give a Twitter bot as a wedding gift?</p>&mdash; Byron Hulcher (@hypirlink) <a href="https://twitter.com/hypirlink/status/773881183662923780">September 8, 2016</a></blockquote>
-
-See also:
+#### See also
 
 - [Interactive Fiction's Twitter Bots](https://farfarfutures.wordpress.com/2016/05/31/interactive-fictions-twitter-bots/) (farfarfutures.wordpress.com)
 
@@ -122,15 +130,13 @@ For even more Twitter bots visit [botdb.gameology.org/bot-list](http://botdb.gam
 
 
 ### Communities [¶](#communities){.pilcrow} {#communities}
+
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### \#botALLY [¶](#communities-botally){.pilcrow} {#communities-botally}
 
 There is a small, very loosely connected community exchanging updates under the [\#botALLY](https://twitter.com/hashtag/botally?f=tweets) hashtag.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How India? More like Howe India, amirite?</p>&mdash; AmIRite Bot (@AmIRiteBot) <a href="https://twitter.com/AmIRiteBot/status/861929257672609792">May 9, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the <a href="https://twitter.com/hashtag/botALLY?src=hash">#botALLY</a> philosophy <a href="https://t.co/q06uj8xbdL">https://t.co/q06uj8xbdL</a></p>&mdash; Esther Seyffarth (@ojahnn) <a href="https://twitter.com/ojahnn/status/858745498576056320">April 30, 2017</a></blockquote>
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ojahnn">@ojahnn</a> your bot is bad and you should feel good :)</p>&mdash; Ranjit Bhatnagar (@ranjit) <a href="https://twitter.com/ranjit/status/858745338143932419">April 30, 2017</a></blockquote>
 
 The term "bot ally" was originally coined by [@BooDooPerson](https://twitter.com/BooDooPerson) and is mistakenly believed to be connected to the ["Gamergate Controversy"](https://en.wikipedia.org/wiki/Gamergate_controversy) ([source](https://twitter.com/kevinthr/status/635006662273732608)).
 
@@ -138,7 +144,17 @@ The term "bot ally" was originally coined by [@BooDooPerson](https://twitter.com
 
 Darius notes on the purpose of #botALLY:
 
-> \#botALLY is ​primarily​ here to provide emotional support and camaraderie and to celebrate people's work and encourage participation. It is only secondarily about discussion of the art and craft of making bots, and that is a far, far, FAR second-place priority.
+<blockquote>#botALLY is ​primarily​ here to provide emotional support and camaraderie and to celebrate people's work and encourage participation. It is only secondarily about discussion of the art and craft of making bots, and that is a far, far, FAR second-place priority.</blockquote>
+
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How India? More like Howe India, amirite?</p>&mdash; AmIRite Bot (@AmIRiteBot) <a href="https://twitter.com/AmIRiteBot/status/861929257672609792">May 9, 2017</a></blockquote>
+
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the <a href="https://twitter.com/hashtag/botALLY?src=hash">#botALLY</a> philosophy <a href="https://t.co/q06uj8xbdL">https://t.co/q06uj8xbdL</a></p>&mdash; Esther Seyffarth (@ojahnn) <a href="https://twitter.com/ojahnn/status/858745498576056320">April 30, 2017</a></blockquote>
+
+    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ojahnn">@ojahnn</a> your bot is bad and you should feel good :)</p>&mdash; Ranjit Bhatnagar (@ranjit) <a href="https://twitter.com/ranjit/status/858745338143932419">April 30, 2017</a></blockquote>
+  </div>
+</div>
 
 ### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 

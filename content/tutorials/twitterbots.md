@@ -13,6 +13,12 @@ Nav: hidden
   </p>
 </div>
 
+<div class="note">
+  <p>
+    <a class="btn" href="/tutorials/how-to-make-a-twitter-bot-definitive-guide">The Definitive Guide</a>
+  </p>
+</div>
+
 Learn how to make bots for [Twitter](https://twitter.com/) ([What is Twitter?](https://en.wikipedia.org/wiki/Twitter)) below -- or [look at some Twitter bots](/tag/twitterbot) for inspiration.
 
 [![XKCD: Twitter Bot](/content/tutorials/images/twitter_bot_xkcd.png "PYTHON FLAG ENABLE THREE LAWS")](https://xkcd.com/1646/) {.centered .centered-text}

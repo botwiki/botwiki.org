@@ -357,6 +357,14 @@ blockquote{
   padding: 0.5em 0 1em;
   quotes: "\201C""\201D""\2018""\2019";
 
+  .col-md-6 &{
+    padding: 1em;
+  }
+
+  @media (max-width: @site-width-medium){
+    padding: 1em;
+  }
+
   &:before {
     color: #ccc;
     content: '“';
