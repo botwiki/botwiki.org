@@ -2738,9 +2738,9 @@ img.logo-digitalocean {
   margin: 0;
   opacity: 0;
   transition: all 0.3s;
-  -webkit-transform: translateX(50%);
-      -ms-transform: translateX(50%);
-          transform: translateX(50%);
+  -webkit-transform: translateY(-20%);
+      -ms-transform: translateY(-20%);
+          transform: translateY(-20%);
 }
 #header nav li a {
   color: #2b212e;
