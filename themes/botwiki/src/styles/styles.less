@@ -616,6 +616,7 @@ div.all-tags{
     text-shadow: 0 0 5px #000;
     position: relative;
     z-index: 3;
+    pointer-events: all;
   }
 
   #menu-toggle{
@@ -1306,6 +1307,9 @@ img.logo-digitalocean{
     display:inline-block;
   }
   #header{
+    .inner{
+      pointer-events: none;
+    }
     nav{
       ul{
         overflow-x: hidden;        

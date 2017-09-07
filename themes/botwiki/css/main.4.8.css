@@ -2141,6 +2141,7 @@ div.all-tags a {
   text-shadow: 0 0 5px #000;
   position: relative;
   z-index: 3;
+  pointer-events: all;
 }
 #header #menu-toggle {
   display: none;
@@ -2721,6 +2722,9 @@ img.logo-digitalocean {
 }
 #header #menu-icon {
   display: inline-block;
+}
+#header .inner {
+  pointer-events: none;
 }
 #header nav ul {
   overflow-x: hidden;
