@@ -67,6 +67,8 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a) (studio.carnegiemuseums.org)
 - [Prototyping for Voice: Methodology](http://www.bbc.co.uk/rd/blog/2017-06-voice-ui-user-interface-children-drama) (bbc.co.uk)
 - [Pushing messaging platforms beyond their boundaries](http://www.poynter.org/2017/pushing-messaging-platforms-beyond-their-boundaries/467182/) (poynter.org)
+- [Clippy and the History of the Future of Educational Chatbots](http://hackeducation.com/2016/09/14/chatbot) (hackeducation.com)
+- [Bringing Bots and Badges to my Classes](http://jgregorymcverry.com/bringing-bots-and-badges-to-my-classes/) (jgregorymcverry.com)
 
 #### See also
 
