@@ -46,6 +46,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 - [Deep Learning: Free Course by Google](https://www.udacity.com/course/deep-learning--ud730) (udacity.com)
 - [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
+- [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working) (theorangeduck.com)
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)

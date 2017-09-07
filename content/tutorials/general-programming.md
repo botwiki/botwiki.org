@@ -13,77 +13,115 @@ Nav: hidden
 </div>
 
 
+
+
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown="1">
 ### Page content [¶](#page-content){.pilcrow} {#page-content}
 
 - [General tutorials](#general)
 - [Creative programming](#creative-programming)
 - [Web APIs](#web-apis)
 - [Emoji](#emoji)
-- [Glitch](#glitch)
 - [Botkit and Botkit Studio](#botkit)
 - [Microsoft Bot Framework](#microsoft-bot-framework)
 - [IBM Watson tutorials](#watson)
 - [Unsorted tutorials](#unsorted)
-
-
-**See also:** [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coding is for art, fashion, space travel, activism, anything! Projects can be as diverse as the people writing them. <a href="https://t.co/hfJ1eHcVEP">https://t.co/hfJ1eHcVEP</a></p>&mdash; Emily Claire Reese (@eclairereese) <a href="https://twitter.com/eclairereese/status/898498307907039232">August 18, 2017</a></blockquote>
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coding is for art, fashion, space travel, activism, anything! Projects can be as diverse as the people writing them. <a href="https://t.co/hfJ1eHcVEP">https://t.co/hfJ1eHcVEP</a></p>&mdash; Emily Claire Reese (@eclairereese) <a href="https://twitter.com/eclairereese/status/898498307907039232">August 18, 2017</a></blockquote>
+  </div>
+</div>
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net, uses JavaScript and node.js)
 - [The Node Beginner Book](https://glitch.com/edit/#!/node-beginner) (glitch.com)
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally remembered the name of my first &#39;computer&#39; - the VTech Precomputer Power Pad (1994). Wrote my first infinite loop in BASIC at age 4. <a href="https://t.co/YQcxSlaLnS">pic.twitter.com/YQcxSlaLnS</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/805425966164152320">December 4, 2016</a></blockquote>
+- [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
 
 
 ### Creative programming [¶](#creative-programming){.pilcrow} {#creative-programming}
 
-- [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class." (edx.org)
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+#### Generating images [¶](#generating-images){.pilcrow} {#generating-images}
+
 - [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
+- [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
+- [Little Planet Procedural](http://alanluo.com/procgen/midterm.html) (alanluo.com)
+
+##### See also [¶](#generating-images-see-also){.pilcrow} {#generating-images-see-also}
+
+- [Glitchet: Art Resources](http://www.glitchet.com/resources) (glitchet.com)
+- [Opensource image bots on Botwiki](/tag/bot+opensource+images)
+- [Procjam Tutorials](http://www.procjam.com/resources/) (procjam.com)
+
+<!-- TODO: Some image bots are missing "generative" tag.
+- [Opensource image-generating bots on Botwiki](/tag/bot+opensource+images+generative)
+-->
+
+#### Generating text [¶](#generating-text){.pilcrow} {#generating-text}
+
+- [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class." (edx.org)
+- [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
+
+#### Other [¶](#creative-programming-other){.pilcrow} {#creative-programming-other}
+
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
-- [Building An AI Artist Using Neural Networks](https://fossbytes.com/build-ai-artist-using-neural-networks-2/) (fossbytes.com)
-- [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
-- [Little Planet Procedural](http://alanluo.com/procgen/midterm.html)
+  </div>
+  <div class="col-sm-12 col-md-6" markdown="1">
+[![Automated emoji polls](/content/bots/twitterbots/images/soqbot.png)](/bots/twitterbots/soqbot){.screenshot .centered}
+  </div>
+</div>
 
 
-#### See also
+#### See also [¶](#creative-programming-see-also){.pilcrow} {#creative-programming-see-also}
 
 - [CreativeAI: On the Democratisation & Escalation of Creativity](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3) (ArtificialExperience via medium.com)
 - [Seeds](http://www.procjam.com/seeds/) (procjam.com)
+- [Machine learning tutorials on Botwiki](/tutorials/machine-learning-nlp-ai)
 
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown="1">
 ### Web APIs [¶](#web-apis){.pilcrow} {#web-apis}
 
 - [Codecademy](https://www.codecademy.com/apis): "learn how to use popular APIs to make your own applications" (codecademy.com)
 - [Make Your Own Web Mashup: Introduction to Web APIs](https://fourtonfish.makes.org/thimble/make-your-own-web-mashup-introduction-to-web-apis): by [Stefan](https://twitter.com/fourtonfish) (fourtonfish.makes.org)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am a Software Engineer using serious Software Engineering Analogies <a href="https://t.co/a7iZmjWRah">pic.twitter.com/a7iZmjWRah</a></p>&mdash; Terian 💀💾🌸 (@spine_cone) <a href="https://twitter.com/spine_cone/status/848799127513083905">April 3, 2017</a></blockquote>
+  </div>
+</div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am a Software Engineer using serious Software Engineering Analogies <a href="https://t.co/a7iZmjWRah">pic.twitter.com/a7iZmjWRah</a></p>&mdash; Terian 💀💾🌸 (@spine_cone) <a href="https://twitter.com/spine_cone/status/848799127513083905">April 3, 2017</a></blockquote>
-
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown="1">
 ### Emoji 💁 [¶](#emoji){.pilcrow} {#emoji}
+
 - [That Emoji Does Not Mean What You Think It Means](http://gizmodo.com/that-emoji-does-not-mean-what-you-think-it-means-1770296372) (gizmodo.com)
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [What is Gender and Why Does it Matter to Emoji?](http://blog.emojipedia.org/what-is-gender-and-why-does-it-matter-to-emoji/) (emojipedia.org)
 - [How Fortune Cookies Explain the Westernization of Emoji](https://www.theatlantic.com/technology/archive/2017/05/the-westernization-of-emoji/527616/) (theatlantic.com)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/hashtag/WorldEmojiDay?src=hash">#WorldEmojiDay</a>, revisit where it all started—NTT DOCOMO’s original set of 176 emoji <a href="https://t.co/ocjHTwd0Ou">https://t.co/ocjHTwd0Ou</a> <a href="https://twitter.com/hashtag/MoMACollection?src=hash">#MoMACollection</a> <a href="https://t.co/4yr1lNPSMd">pic.twitter.com/4yr1lNPSMd</a></p>&mdash; Museum of Modern Art (@MuseumModernArt) <a href="https://twitter.com/MuseumModernArt/status/886953606972403712">July 17, 2017</a></blockquote>
+  </div>
+</div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/hashtag/WorldEmojiDay?src=hash">#WorldEmojiDay</a>, revisit where it all started—NTT DOCOMO’s original set of 176 emoji <a href="https://t.co/ocjHTwd0Ou">https://t.co/ocjHTwd0Ou</a> <a href="https://twitter.com/hashtag/MoMACollection?src=hash">#MoMACollection</a> <a href="https://t.co/4yr1lNPSMd">pic.twitter.com/4yr1lNPSMd</a></p>&mdash; Museum of Modern Art (@MuseumModernArt) <a href="https://twitter.com/MuseumModernArt/status/886953606972403712">July 17, 2017</a></blockquote>
+
+
 
 ### Botkit and Botkit Studio [¶](#botkit){.pilcrow} {#botkit}
 
 
-[Botkit](https://github.com/howdyai/botkit) is a node.js library for making bots for Slack and Facebook Messenger.
-
-- [Enterprise Grade Bot Metrics Free with Botkit](https://blog.howdy.ai/enterprise-grade-bot-metrics-free-with-botkit-294cecf21cf6) (blog.howdy.ai)
-
-[Botkit Studio](https://www.botkit.ai/) is an "innovative web-based environment that provides everything you need to create powerful bots".
+[Botkit](https://github.com/howdyai/botkit) is a node.js library for making bots for Slack and Facebook Messenger. [Botkit Studio](https://www.botkit.ai/) is an "innovative web-based environment that provides everything you need to create powerful bots".
 
 - [Build a Bot: Store data for your users](https://blog.howdy.ai/build-a-bot-store-data-for-your-users-2e91fe7023d7) (blog.howdy.ai)
 - [Build a Bot: Data-powered conversations](https://blog.howdy.ai/build-a-bot-data-powered-conversations-d14991714ac1) (blog.howdy.ai)
-
+- [Enterprise Grade Bot Metrics Free with Botkit](https://blog.howdy.ai/enterprise-grade-bot-metrics-free-with-botkit-294cecf21cf6) (blog.howdy.ai)
 
 ### Microsoft Bot Framework [¶](#microsoft-bot-framework){.pilcrow} {#microsoft-bot-framework}
 

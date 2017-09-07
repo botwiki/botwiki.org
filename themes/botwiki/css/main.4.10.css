@@ -2365,7 +2365,9 @@ img.screenshot,
 img.photo {
   border: 1px solid rgba(0, 0, 0, 0.3);
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.2);
-  margin-bottom: 1.5em;
+  max-width: 400px;
+  display: block;
+  margin: 2em auto;
 }
 @media (min-width: 860px) {
   p.screenshot.float-right {
