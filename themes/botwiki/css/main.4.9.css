@@ -2723,6 +2723,7 @@ img.logo-digitalocean {
 #header #menu-icon {
   display: inline-block;
 }
+#header,
 #header .inner {
   pointer-events: none;
 }
