@@ -17,7 +17,7 @@ Nav: hidden
 
 <div class="note">
   <p>
-    This event has been put on hold! Check out past <a href="/tag/monthlybotchallenge+archived">challenges</a> and <a href="/tag/monthlybotchallenge+winner">winners</a>!
+    This event has been put on hold. Check out past <a href="/tag/monthlybotchallenge+archived">challenges</a> and <a href="/tag/monthlybotchallenge+winner">winners</a>!
   </p>
 </div>
 
