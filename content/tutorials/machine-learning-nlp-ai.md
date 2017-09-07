@@ -101,6 +101,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 - [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=wmw8Bbb_eIE&feature=youtu.be)
 - [TensorFlow for Poets](https://petewarden.com/2016/02/28/tensorflow-for-poets/) (petewarden.com)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow) (kadenze.com)
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (cloud.google.com)
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)

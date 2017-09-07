@@ -66,11 +66,13 @@ Nav: hidden
 - [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class." (edx.org)
 - [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
 
-#### Other [¶](#creative-programming-other){.pilcrow} {#creative-programming-other}
+#### General [¶](#creative-programming-general){.pilcrow} {#creative-programming-general}
 
+- [Generating things with code](https://medium.com/@nicoptere/generating-things-with-code-ddbca45ceddc) (Nicolas Barradeau via medium.com)
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
+- [Generative Machine Learning on the Cloud](https://medium.com/artists-and-machine-intelligence/generative-machine-learning-on-the-cloud-1ccdfeb33ea2) (Artists and Machine Intelligence via medium.com)
   </div>
   <div class="col-sm-12 col-md-6" markdown="1">
 [![Automated emoji polls](/content/bots/twitterbots/images/soqbot.png)](/bots/twitterbots/soqbot){.screenshot .centered}
@@ -82,6 +84,7 @@ Nav: hidden
 
 - [CreativeAI: On the Democratisation & Escalation of Creativity](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3) (ArtificialExperience via medium.com)
 - [Seeds](http://www.procjam.com/seeds/) (procjam.com)
+- [Computational creativity on Wikipedia](https://en.wikipedia.org/wiki/Computational_creativity) (wikipedia.org)
 - [Machine learning tutorials on Botwiki](/tutorials/machine-learning-nlp-ai)
 
 
