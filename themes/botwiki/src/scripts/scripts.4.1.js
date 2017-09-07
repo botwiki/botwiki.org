@@ -42,7 +42,7 @@ var smoothScroll = function(el, duration, callback){
     if (typeof el === 'number') {
       end = parseInt(el);
     } else {
-      end = getTop(el) - 100;
+      end = getTop(el) - 50;
     }
     var clock = Date.now();
     var requestAnimationFrame = window.requestAnimationFrame ||
@@ -158,7 +158,7 @@ ready(function(){
   if(window.location.hash) {
     setTimeout(function(){
       smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
-    }, 700);
+    }, 300);
   }
 
   document.getElementById('back-to-top').addEventListener("click", function(ev){
