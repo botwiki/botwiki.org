@@ -100,6 +100,7 @@ Nav: hidden
 - [How to make a racist AI without really trying](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed) (Rob Speer via github.com)
 - [How can we stop algorithms telling lies?](https://www.theguardian.com/technology/2017/jul/16/how-can-we-stop-algorithms-telling-lies) (theguardian.com)
 - [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
+- [The Tech Take: The genderless face of accounting bots](https://www.accountingtoday.com/opinion/the-tech-take-the-genderless-face-of-accounting-bots) (accountingtoday.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
@@ -136,6 +137,7 @@ Nav: hidden
 - [Please Prove You’re Not a Robot](https://www.nytimes.com/2017/07/15/opinion/sunday/please-prove-youre-not-a-robot.html) (nytimes.com)
 - [AI Shouldn’t Believe Everything It Hears](https://www.technologyreview.com/s/608381/ai-shouldnt-believe-everything-it-hears/) (technologyreview.com)
 - [Slight Street Sign Modifications Can Completely Fool Machine Learning Algorithms](http://spectrum.ieee.org/cars-that-think/transportation/sensors/slight-street-sign-modifications-can-fool-machine-learning-algorithms) (spectrum.ieee.org)
+- [Hackers send silent commands to speech recognition systems with ultrasound](https://techcrunch.com/2017/09/06/hackers-send-silent-commands-to-speech-recognition-systems-with-ultrasound/) (techcrunch.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
