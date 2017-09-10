@@ -9,13 +9,16 @@ Nav: hidden
 
 ### Contact us [¶](#contact){.pilcrow} {#contact}
 
-If you'd like to get in touch, feel free to [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com), or reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg).
+If you'd like to get in touch, feel free to 
+
+- [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)
+- reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg) (our DMs are open)
 
 
 
 ### Stefan [¶](#stefan){.pilcrow} {#stefan}
 
-[![Stefan](/content/about/images/stefan.png){.photo .float-right}](https://twitter.com/fourtonfish)
+[![Stefan](/content/about/images/stefan.png){.photo .team-member .float-right}](https://twitter.com/fourtonfish)
 
 **Creator of Botwiki and Botmakers<br/>
 Botwiki editor and Botmakers community manager**
@@ -33,7 +36,7 @@ PS: [Here are my bots](https://twitter.com/fourtonfish/lists/my-twitterbots/memb
 
 ### Veronica [¶](#veronica){.pilcrow} {#veronica}
 
-[![Veronica](/content/about/images/veronica.jpg){.photo .float-right}](https://twitter.com/Veronica)
+[![Veronica](/content/about/images/veronica.jpg){.photo .team-member .float-right}](https://twitter.com/Veronica)
 
 **Bot! zine editor and Botmakers community manager**
 
@@ -47,7 +50,7 @@ I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot!
 
 ### Angelina [¶](#angelina){.pilcrow} {#angelina}
 
-[![Angelina](/content/about/images/angelina.jpg){.photo .float-right}](https://twitter.com/oxangiemarie)
+[![Angelina](/content/about/images/angelina.jpg){.photo .team-member .float-right}](https://twitter.com/oxangiemarie)
 
 **Event organizer**
 
@@ -55,7 +58,7 @@ I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot!
 Hi, I'm Angelina! I'm an NYC based web developer with an interest in digital storytelling and building inclusive communities (mainly to hear more people's stories!). I love connecting with people IRL, which is why I'm helping to organize our monthly meet ups here in the city. Interested in giving a talk, or just want to chat about bots? Find me [@oxangiemarie](https://twitter.com/), or as [@ambethoney](https://botmakers.slack.com/messages/@stefan/details/) in our Slack group!
 
 
-### Contributors [¶](#contributors){.pilcrow} {#contributors}
+### Other contributors [¶](#contributors){.pilcrow} {#contributors}
 
 
  
@@ -66,4 +69,4 @@ Hi, I'm Angelina! I'm an NYC based web developer with an interest in digital sto
 - [Bradley](https://twitter.com/air_hadoken), who hosted the very first [Bot Workshop](/bot-workshops/),
 - and [Kasey](https://twitter.com/bitpixi), who hosts [regular botmaking events in San Francisco, CA](http://www.meetup.com/Bay-Area-Bot-Arts/).
 
-**Huge thanks goes to everyone involved on our projects!**
+##### Huge thanks goes to everyone involved in our projects 🙌
