@@ -38,6 +38,7 @@ Can't wait to see you there!
   - [node.js](#tutorials-nodejs)
   - [Python](#tutorials-python)
   - [Ruby](#tutorials-ruby)
+  - [Go](#tutorials-golang)
   - [Cheap Bots Done Quick](#cheap-bots-done-quick)
   - [SSBot (Google Spreadsheets)](#ssbot)
   - [AWS](#tutorials-aws)
@@ -129,6 +130,11 @@ Can't wait to see you there!
 
 - [Civ V Random Game Generator Twitterbot](http://www.katelyndinkgrave.com/ruby/2016/01/31/civ-game-generator-twitterbot.html)
 - [Your Own @Horse_ebooks](https://medium.com/@nulljosh/your-own-horse-ebooks-84e9b87c5af6) (hosted on Heroku)
+
+
+#### Go [¶](#tutorials-golang){.pilcrow} {#tutorials-golang}
+
+- [How I built my earthin24 twitter bot](https://www.thecssninja.com/hacking/how-i-built-my-earthin24-twitter-bot) (thecssninja.com)
 
 
 #### Cheap Bots Done Quick [¶](#cheap-bots-done-quick){.pilcrow} {#cheap-bots-done-quick}
