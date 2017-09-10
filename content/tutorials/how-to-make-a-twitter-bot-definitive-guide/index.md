@@ -57,7 +57,7 @@ As for *what* your bot should do, well, here are a few tips:
 - [learn more about the Twitter API](/tutorials/twitterbots/#twitter-api) and maybe even ["exploit" some of the quirks of the Twitter platform](/bots/twitterbots/pngbot/)
 - the [Botmakers](https://botmakers.org/) Slack group has channels where people share their ideas and look for collaborators
 
-For even more inspiration, check out [essays for botmakers](/articles/essays/), and more specifically, [these essays on ethical botmaking](/articles/bot-ethics/).
+For even more inspiration, check out [these essays and articles](/articles/essays/).
 
 Making a (Twitter) bot is not always a straightforward process, with steps to go through. Sometimes the decisions you make affect each other, for example, you can start with an idea and then decide what language and hosting platform you'll use. But you can also first look at the various platforms you can use to host your bot and play with their strengths and limitations. More on that in an [upcoming section](#bot-hosting).
 

@@ -11,7 +11,6 @@ Below is a list of Botwiki Foundation's projects. Feel free to [reach out to us 
 
 - [Botwiki](#botwiki)
 - [Botmakers](#botmakers)
-- [Bot Ethics](#bot-ethics)
 - [Bot! zine](#bot-zine)
 - [Botmaker Badges](#botmaker-badges)
 - [Monthly Bot Challenge](#monthly-bot-challenge)
@@ -42,11 +41,6 @@ If you'd like to contribute to Botwiki.org, check out [this GitHub repo](https:/
 [Botmakers.org](https://botmakers.org/) is a friendly community for botmakers and bot enthusiasts on Slack and on [meetup.com](http://www.meetup.com/botmakers/). Botmakers is open to everyone regardless their level of technical knowledge. We share ideas, resources, tips -- things that might eventually end up on Botwiki.
 
 We also have a [Code of Conduct](http://botwiki.org/coc) -- and it applies to our bots as well!
-
-
-### Bot Ethics [¶](#bot-ethics){.pilcrow} {#bot-ethics}
-
-[Bot Ethics](/articles/bot-ethics/) is a growing collections of essays and articles that help you understand the ever increasing role of automation and algorithms in human society, and if you are a botmaker, provide resources to avoid the common pitfalls.
 
 ### Bot! zine [¶](#bot-zine){.pilcrow} {#bot-zine}
 
