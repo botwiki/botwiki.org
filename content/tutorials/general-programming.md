@@ -36,10 +36,19 @@ Nav: hidden
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
-- [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net, uses JavaScript and node.js)
+#### JavaScript/node.js [¶](#general-js-node){.pilcrow} {#general-js-node}
+
+- [Programming from A to Z](http://shiffman.net/a2z/) with [Daniel Shiffman](https://twitter.com/shiffman) (shiffman.net)
 - [The Node Beginner Book](https://glitch.com/edit/#!/node-beginner) (glitch.com)
 - [Hosting bots on Glitch](/tutorials/hosting-bots-glitch)
 
+#### Python [¶](#general-python){.pilcrow} {#general-python}
+
+- [Tracery and Python](https://gist.github.com/aparrish/73c19a36b9cdcf604d04e95020418cd4) (Allison Parrish via gist.github.com)
+- [NLP Concepts with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3) (Allison Parrish via gist.github.com)
+- [Quick intro to CSVs](https://gist.github.com/aparrish/f8e7eab47542678a39a39dddbca4ec2f) (Allison Parrish via gist.github.com)
+- [Understanding word vectors: A tutorial for "Reading and Writing Electronic Text"](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469) (Allison Parrish via gist.github.com)
+- [Quick word counts with Counter](https://gist.github.com/aparrish/4b096b95bfbd636733b7b9f2636b8cf4) (Allison Parrish via gist.github.com)
 
 ### Creative programming [¶](#creative-programming){.pilcrow} {#creative-programming}
 
@@ -72,6 +81,7 @@ Nav: hidden
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
+- [Procedural Generation Tools](http://gritfish.net/application/files/7315/0483/0623/Procedural_Generation_Tools.pdf) (gritfish.net, PDF)
 - [Generative Machine Learning on the Cloud](https://medium.com/artists-and-machine-intelligence/generative-machine-learning-on-the-cloud-1ccdfeb33ea2) (Artists and Machine Intelligence via medium.com)
   </div>
   <div class="col-sm-12 col-md-6" markdown="1">
