@@ -52,7 +52,7 @@ In essence, an online bot is a program (sometimes simple, sometimes more complex
 You can pretty much think of bots as programs that turn sites like [damnyoubatman.com](http://damnyoubatman.com/) or [hungernames.com](http://hungernames.com/) into automated [Twitter](https://twitter.com/) or [Tumblr](https://www.tumblr.com/) accounts. 
  -->
 
-Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [Botmakers](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
+Bots can be funny, useful, artistic -- but also annoying and spammy. This site, and our [Botmakers](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
 Feel free to browse the bots below -- [by categories](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
@@ -62,7 +62,7 @@ You are also welcome to [join our friendly community](https://botmakers.org/) of
 
 Thanks for checking out **Botwiki**!
 
-**PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
+**PS:** If you want to add your bot, you can use [this form](https://botwiki.org/submit-your-bot).
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
