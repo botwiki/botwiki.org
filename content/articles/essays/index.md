@@ -76,19 +76,18 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [If an AI creates a work of art, who owns the rights to it?](https://qz.com/1054039/google-deepdream-art-if-an-ai-creates-a-work-of-art-who-owns-the-rights-to-it/) (qz.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">asking &quot;can a computer generate shakespeare?&quot; to me is less interesting than asking e.g. &quot;what would gertrude stein have made w/tensorflow?&quot;</p>&mdash; Allison Parrish (@aparrish) <a href="https://twitter.com/aparrish/status/860351704570658816">May 5, 2017</a></blockquote>
-
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad">
-    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the computer poet&#39;s muse (1966) <a href="https://t.co/VTshAOn0TU">pic.twitter.com/VTshAOn0TU</a></p>&mdash; James Ryan (@xfoml) <a href="https://twitter.com/xfoml/status/885339450309459969">July 13, 2017</a></blockquote>
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
+    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">asking &quot;can a computer generate shakespeare?&quot; to me is less interesting than asking e.g. &quot;what would gertrude stein have made w/tensorflow?&quot;</p>&mdash; Allison Parrish (@aparrish) <a href="https://twitter.com/aparrish/status/860351704570658816">May 5, 2017</a></blockquote>
 
-    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">the computer poet&#39;s muse (1966) <a href="https://t.co/VTshAOn0TU">pic.twitter.com/VTshAOn0TU</a></p>&mdash; James Ryan (@xfoml) <a href="https://twitter.com/xfoml/status/885339450309459969">July 13, 2017</a></blockquote>
+    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samim">@samim</a> I feel we&#39;re brushing up against the aesthetic Turing test</p>&mdash; Keiran Thompson (@drenerbas) <a href="https://twitter.com/drenerbas/status/862345106413760513">May 10, 2017</a></blockquote>
   </div>
 </div>
 
@@ -314,7 +313,13 @@ Do you know about an interesting blog or have you read a good article a botmaker
 </div>
 
 
-[Return to the **Articles** page](/articles/)
+<div class="note">
+  <p>
+    <a class="btn" href="/articles">Articles</a>
+    <a class="btn" href="/tutorials">Tutorials</a>
+    <a class="btn" href="https://botmakers.org">Join Botmakers</a>
+  </p>
+</div>
 
 
 

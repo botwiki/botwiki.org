@@ -1930,7 +1930,8 @@ blockquote p {
 blockquote.instagram-media,
 iframe.instagram-media {
   display: block;
-  margin: 0 auto !important;
+  margin: 2em auto !important;
+  max-width: calc(90%) !important;
 }
 blockquote.twitter-tweet,
 iframe.twitter-tweet,
