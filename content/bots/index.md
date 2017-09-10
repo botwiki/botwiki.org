@@ -38,7 +38,7 @@ So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-
 >
 > -- [A user experience tester](http://peek.usertesting.com/result/20922996954524)
 
-In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
+In essence, an online bot is a program (sometimes simple, sometimes more complex) that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
 
 <!--
 <p class="screenshot float-left">
