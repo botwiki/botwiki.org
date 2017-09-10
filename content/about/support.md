@@ -6,11 +6,18 @@ Tags: about,botwiki,support,supporters,funding,money,contribute,patreon
 Nav: hidden
 */
 
+
 <div class="note">
   <p>
-    Skip directly to the <a href="#donation-options">donation options</a>, see our <a href="/about/supporters">supporters</a>, or visit the <a href="/merch">Botwiki store</a>.
+    <a class="btn" href="#donation-options">Donation options</a>
+    <a class="btn" href="/about/supporters">Our supporters</a>
+    <a class="btn" href="/merch">Botwiki store</a>
   </p>
 </div>
+
+
+### We need your help [¶](#need-your-help){.pilcrow} {#need-your-help}
+
 
 There's a lot that goes into maintaining **Botwiki**, **Botmakers**, and all the [related projects](/projects):
 
@@ -20,9 +27,10 @@ There's a lot that goes into maintaining **Botwiki**, **Botmakers**, and all the
 - organizing [community events](/events/#official-botwiki-events)
 - and overall just keeping all the sites running
 
-<div id="donation-options">
-  <p>If you don't have the time to help out personally (which we completely understand!), here are some other ways to support us:</p>
-</div>
+
+### Donation options [¶](#donation-options){.pilcrow} {#donation-options}
+
+If you don't have the time to help out personally (which we completely understand!), here are some other ways to support us:</p>
 
 - monthly donations through [Patreon](https://www.patreon.com/botwiki)
 - or [Gratipay](https://gratipay.com/botwiki-org/)
