@@ -73,7 +73,7 @@ Please note that Glitch only supports node.js and (unofficially) Python. Also, s
 #### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
 
 - [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) (glitch.com)
-
+- [Microsoft Teams](https://glitch.com/~botkit-teams) (glitch.com)
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).
 

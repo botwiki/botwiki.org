@@ -49,7 +49,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Interview with the Bot: "Is there a line between functional and aesthetic bots?"](http://bot.watch/post/141901082877/interview-with-the-bot-is-there-a-line-between) (bot.watch)
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Bots: a cultural tour](http://mewo2.com/cultural-bots/) (mewo2.com, press S for speaker notes)
-
+- [The Quartz guide to artificial intelligence: What is it, why is it important, and should we be afraid?](https://qz.com/1046350/the-quartz-guide-to-artificial-intelligence-what-is-it-why-is-it-important-and-should-we-be-afraid/) (qz.com)
 
 ### Automated art [¶](#automated-art){.pilcrow} {#automated-art}
 
@@ -201,6 +201,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [AI Shouldn’t Believe Everything It Hears](https://www.technologyreview.com/s/608381/ai-shouldnt-believe-everything-it-hears/) (technologyreview.com)
 - [Slight Street Sign Modifications Can Completely Fool Machine Learning Algorithms](http://spectrum.ieee.org/cars-that-think/transportation/sensors/slight-street-sign-modifications-can-fool-machine-learning-algorithms) (spectrum.ieee.org)
 - [Hackers send silent commands to speech recognition systems with ultrasound](https://techcrunch.com/2017/09/06/hackers-send-silent-commands-to-speech-recognition-systems-with-ultrasound/) (techcrunch.com)
+- [Would you want a robot to be your child’s best friend?](https://theguardian.com/technology/2017/sep/10/should-robot-be-your-childs-best-friend) (theguardian.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
