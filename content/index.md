@@ -49,4 +49,5 @@ Some examples of such bots include:
 -->
 
 <a class="btn" href="/bots">Explore bots</a>
+<a class="btn" href="/tutorials">Make a bot</a>
 <a class="btn" href="https://botwiki.org/submit-your-bot">Submit your bot</a>

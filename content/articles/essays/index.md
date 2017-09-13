@@ -274,15 +274,6 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
-
-  </div>
-  <div class="col-sm-12 col-md-6 no-pad">
-  </div>
-</div>
-
-
-
-
 ### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
@@ -303,6 +294,14 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [For 4 Seattle women called Alexa, it’s funny, frustrating to share name with Amazon device](http://www.seattletimes.com/life/for-4-seattle-women-called-alexa-its-fun-frustrating-to-share-name-with-amazon-device/)
 - [Human-Centered Artificial Intelligence](https://medium.com/@mark_riedl/human-centered-artificial-intelligence-70b019f956d1) (Mark Riedl via medium.com)
 - [The Artificial Intelligence Revolution](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (waitbutwhy.com)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">uh oh this google captcha... <a href="https://t.co/bWh6StUR1v">pic.twitter.com/bWh6StUR1v</a></p>&mdash; Tod E. Kurt (@todbot) <a href="https://twitter.com/todbot/status/907335250195374081">September 11, 2017</a></blockquote>
+  </div>
+</div>
+
+
+
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad">
