@@ -38,6 +38,7 @@ Learn how to make your own [Slack](https://slack.com/) bot with these tutorials 
 - [Making messages interactive](https://api.slack.com/interactive-messages)
   - [Message menus](https://api.slack.com/docs/message-menus)
     - [Build an interactive Slack app with message menus](https://medium.com/slack-developer-blog/build-an-interactive-slack-app-with-message-menus-1fb2c6298308)
+- [Conversations API](https://api.slack.com/docs/conversations-api) (api.slack.com)
 - [chat.postEphemeral](https://api.slack.com/methods/chat.postEphemeral) (api.slack.com)
 
 

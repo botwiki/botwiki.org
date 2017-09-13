@@ -77,6 +77,7 @@ Nav: hidden
 
 #### General [¶](#creative-programming-general){.pilcrow} {#creative-programming-general}
 
+- [Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU) (Kate Compton via youtube.com)
 - [Generating things with code](https://medium.com/@nicoptere/generating-things-with-code-ddbca45ceddc) (Nicolas Barradeau via medium.com)
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
 - [Introduction to Generative Arts and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info) (kadenze.com)

@@ -14,46 +14,48 @@ Description: See what we are working on.
 
 #### Send a group message to admins [¶](#admins-message){.pilcrow} {#admins-message}
 
-![Message all admins in the group](/content/projects/sidekick/images/admin-message-forward.png) {.centered .screenshot}
+![Message all admins in the group](/content/projects/sidekick/images/admin-message-forward.png) {.centered .screenshot-large}
 
 
 #### Learn more about the members and bots in your group [¶](#group-info){.pilcrow} {#group-info}
 
-![Learn more about your group](/content/projects/sidekick/images/group-info.png) {.centered .screenshot}
+![Learn more about your group](/content/projects/sidekick/images/group-info.png) {.centered .screenshot-large}
 
 
 
-![Learn more about bots and integrations in your group](/content/projects/sidekick/images/group-info-bots.png) {.centered .screenshot}
+![Learn more about bots and integrations in your group](/content/projects/sidekick/images/group-info-bots.png) {.centered .screenshot-large}
 
 
 #### Set up polls [¶](#polls){.pilcrow} {#polls}
 
 
-![Poll](/content/projects/sidekick/images/polls.png) {.centered .screenshot}
+![Poll](/content/projects/sidekick/images/polls.png) {.centered .screenshot-large}
 
 #### Send unobtrusive reminders [¶](#reminders){.pilcrow} {#reminders}
 
-![Code of conduct reminder](/content/projects/sidekick/images/hey-guys.png) {.centered .screenshot}
+![Code of conduct reminder](/content/projects/sidekick/images/hey-guys.png) {.centered .screenshot-large}
 
-![Sharing links reminder](/content/projects/sidekick/images/sharing-links.png) {.centered .screenshot}
+![Sharing links reminder](/content/projects/sidekick/images/sharing-links.png) {.centered .screenshot-large}
 
 #### Move messages between channels [¶](#move-messages){.pilcrow} {#move-messages}
 
 
-![Move messages](/content/projects/sidekick/images/move-message.png) {.centered .screenshot}
+![Move messages](/content/projects/sidekick/images/move-message.png) {.centered .screenshot-large}
 
 
 
 #### Monitor Twitter for specific keywords and hashtags [¶](#monitor-twitter){.pilcrow} {#monitor-twitter}
 
-![Monitor Twitter for interesting tweets](/content/projects/sidekick/images/monitor-twitter.png) {.centered .screenshot}
+![Monitor Twitter for interesting tweets](/content/projects/sidekick/images/monitor-twitter.png) {.centered .screenshot-large}
 
-![Ignore users](/content/projects/sidekick/images/ignore.png) {.centered .screenshot}
+![Ignore users](/content/projects/sidekick/images/ignore.png) {.centered .screenshot-large}
 
 
 #### Share tweets with Sidekick to have them retweeted [¶](#dm-to-rt){.pilcrow} {#dm-to-rt}
 
-![Share to retweet](/content/projects/sidekick/images/share-to-retweet.png) {.centered .screenshot}
+![Share to retweet](/content/projects/sidekick/images/share-to-retweet.png) {.centered .screenshot-large}
+
+![Tweet commands](/content/projects/sidekick/images/tweet-command.png) {.centered .screenshot}
 
 
 
@@ -170,6 +172,15 @@ Description: See what we are working on.
 </tr>
 <tr>
   <td>
+    <code>:clipboard:</code>
+  </td>
+  <td>
+    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#projects</strong> channel.</p>
+    <p><strong>Note:</strong> For moderators, this also retweets the tweet and prompts the author to submit their bot to Botwiki.</p>
+  </td>
+</tr>
+<tr>
+  <td>
     <code>:calendar:</code><br/>
     <code>:date:</code><br/>
     <code>:spiral_calendar_pad:</code>
@@ -195,6 +206,23 @@ Description: See what we are working on.
 </tr>
 <tr>
   <td>
+    <code>!whisper @user #channel text</code><br/>
+    <code>!whisper #channel @user text</code>
+  </td>
+  <td>
+    Send a whisper to `@user` in `#channel`. (Moderators will be notified.)
+  </td>
+</tr>
+<tr>
+  <td>
+    <code>!dm @user text</code>
+  </td>
+  <td>
+    Send a message to `@user`. (Moderators will be notified.)
+  </td>
+</tr>
+<tr>
+  <td>
     <code>delete member</code><br/>
     <code>remove member</code><br/>
     <code>kick out member</code><br/>
@@ -214,6 +242,19 @@ Description: See what we are working on.
   </td>
   <td>
     When used in the <strong>#the-feed</strong> channel, the bot will retweet the message.
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <strong>Following commands are only available to group moderators when sharing a tweet with <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>.</strong>
+  </td>
+</tr>
+<tr>
+  <td>
+    <code>!submit</code>
+  </td>
+  <td>
+    Retweet the shared tweet and prompt the author of the tweet to add their bot to Botwiki.
   </td>
 </tr>
 </table>

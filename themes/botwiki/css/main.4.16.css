@@ -2368,6 +2368,11 @@ div#main p {
     max-width: 50% !important;
   }
 }
+@media (min-width: 800px) {
+  p.screenshot-large {
+    max-width: 100% !important;
+  }
+}
 p.screenshot img,
 a.screenshot img,
 img.screenshot,

@@ -39,7 +39,7 @@ Can't wait to see you there!
   - [Python](#tutorials-python)
   - [Ruby](#tutorials-ruby)
   - [Go](#tutorials-golang)
-  - [Cheap Bots Done Quick](#cheap-bots-done-quick)
+  - [Tracery/Cheap Bots Done Quick](#tracery-cbdq)
   - [SSBot (Google Spreadsheets)](#ssbot)
   - [AWS](#tutorials-aws)
   - [Other](#tutorials-other)
@@ -137,13 +137,14 @@ Can't wait to see you there!
 - [How I built my earthin24 twitter bot](https://www.thecssninja.com/hacking/how-i-built-my-earthin24-twitter-bot) (thecssninja.com)
 
 
-#### Cheap Bots Done Quick [¶](#cheap-bots-done-quick){.pilcrow} {#cheap-bots-done-quick}
+#### Tracery/Cheap Bots Done Quick [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
 
-Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For example bots, see the [#cheapbotsdonequick](/tag/cheapbotsdonequick) tag.
+Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://cheapbotsdonequick.com/), which uses it. For example bots, see the [#tracery](/tag/tracery) tag.
 
 - [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai) (github.com)
   - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md) (github.com)
   - [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md) (github.com)
+- [Tracery tutorial by the Tracery creator](http://www.crystalcodepalace.com/traceryTut.html) (crystalcodepalace.com)
 - [An Introduction to Twitterbots with Tracery](https://programminghistorian.github.io/ph-submissions/lessons/intro-to-twitterbots) (programminghistorian.github.io)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/): tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (cmuems.com)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots) (Code Kitchen via github.com)
@@ -151,13 +152,13 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/) (porganized.com)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b) (Species.agency via medium.com)
 
-
-##### Tools and other resources [¶](#cbdq-tools){.pilcrow} {#cbdq-tools}
+##### Tools and other resources [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
 
 - [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
 - [Visual Tracery editor](http://www.brightspiral.com/tracery/)
+- [Tracery starter project on Glitch](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 
-##### See also [¶](#cbdq-more){.pilcrow} {#cbdq-more}
+##### See also [¶](#tracery-cbdq-more){.pilcrow} {#tracery-cbdq-more}
 
 - [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
 - [Open source bots made with CBDQ](/tag/bot+opensource+cheapbotsdonequick)
