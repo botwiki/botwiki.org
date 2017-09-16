@@ -2235,6 +2235,11 @@ ul#menu {
 form#search-form {
   width: 100%;
 }
+@media (max-width: 860px) {
+  form#search-form {
+    margin-top: 0.5em;
+  }
+}
 form#search-form input {
   padding: 0.5em;
   border-radius: 4px;
@@ -2756,9 +2761,9 @@ img.logo-digitalocean {
   margin: 0;
   opacity: 0;
   transition: all 0.3s;
-  -webkit-transform: translateY(-20%);
-      -ms-transform: translateY(-20%);
-          transform: translateY(-20%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 #header nav li a {
   color: #2b212e;
@@ -2784,9 +2789,9 @@ ul#menu {
   padding: 4em 20px 20px;
   background: #fff;
   box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
   top: 0;
   left: 0;
   width: 100%;

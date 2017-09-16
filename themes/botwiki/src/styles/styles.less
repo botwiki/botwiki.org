@@ -718,6 +718,9 @@ ul#menu{
 
 form#search-form{
   width: 100%;
+  @media (max-width: @site-width-small){
+    margin-top: 0.5em;
+  }
 }
 
 form#search-form input{
@@ -1343,7 +1346,7 @@ img.logo-digitalocean{
         margin: 0;
         opacity: 0;
         transition: all 0.3s;
-        transform: translateY(-20%);
+        transform: translateY(-50%);
 
         a{
           color: @main-color - #222;
@@ -1377,7 +1380,7 @@ img.logo-digitalocean{
     padding: 4em 20px 20px;
     background: #fff;
     box-shadow: 0 10px 0 rgba(0, 0, 0, 0.2);
-    transform: translateX(-50%);
+    transform: translateY(-50%);
     top: 0;
     left: 0;
     width: 100%;
