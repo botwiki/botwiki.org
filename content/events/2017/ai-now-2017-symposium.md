@@ -16,4 +16,7 @@ Tags: event,archived,video
 - July 10, 2017, 5:30pm - 8:30pm
 - MIT Media Lab, 75 Amherst St, 6th Floor, Cambridge, MA ([map](https://www.google.com/maps/dir/Current+Location/75+Amherst+St+6th+Floor+Cambridge+MA))
 - [Event page](https://artificialintelligencenow.com/schedule/2017-symposium) (artificialintelligencenow.com)
-- [Video from the event](https://www.youtube.com/watch?v=5d4PBlG2P3w) (youtube.com)
+- Videos from the event:
+  - [AI Now 2017 Experts Workshop](https://www.youtube.com/playlist?list=PLsHf1QGJz7uvFMIYj6oxwKXfIRzNpyzPe) (youtube.com)
+  - [AI Now 2017 Public Symposium](https://www.youtube.com/playlist?list=PLsHf1QGJz7usXfbTQmmdk_OeFe5repbTE) (youtube.com)
+  

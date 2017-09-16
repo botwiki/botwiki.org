@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 <div class="note">
-  <p>Before you start making bots, consider reading <a href="/articles/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  <p>Before you start making bots, consider reading <a href="/articles/essays">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
 
@@ -42,6 +42,7 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Understanding How Conversations Work: The Key to a Better Voice UI](https://developers.google.com/actions/design/how-conversations-work) (developers.google.com)
 - [A Beginner’s Guide to Designing Conversational Interfaces](https://www.webdesignerdepot.com/2017/03/a-beginners-guide-to-designing-conversational-interfaces/) (webdesignerdepot.com)
 - [Conversational Design Essentials: Tips For Building A Chatbot](https://www.smashingmagazine.com/2016/12/conversational-design-essentials-tips-for-building-a-chatbot/) (smashingmagazine.com)
+- [All Talk and No Buttons: The Conversational UI · An A List Apart Article](https://alistapart.com/article/all-talk-and-no-buttons-the-conversational-ui) (alistapart.com)
 
 ### Other/unsorted [¶](#unsorted){.pilcrow} {#unsorted}
 
@@ -66,6 +67,8 @@ A great resource for making online chatbots is [Chatbots Magazine](https://chatb
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a) (studio.carnegiemuseums.org)
 - [Prototyping for Voice: Methodology](http://www.bbc.co.uk/rd/blog/2017-06-voice-ui-user-interface-children-drama) (bbc.co.uk)
 - [Pushing messaging platforms beyond their boundaries](http://www.poynter.org/2017/pushing-messaging-platforms-beyond-their-boundaries/467182/) (poynter.org)
+- [Clippy and the History of the Future of Educational Chatbots](http://hackeducation.com/2016/09/14/chatbot) (hackeducation.com)
+- [Bringing Bots and Badges to my Classes](http://jgregorymcverry.com/bringing-bots-and-badges-to-my-classes/) (jgregorymcverry.com)
 
 #### See also
 

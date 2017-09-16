@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/cdarwin.png
 Link: https://twitter.com/cdarwin
 Author: botsheeter.py
 Date: February 15, 2016
-Tags: twitter,bot,twitterbot,active,facebook,facebook-bot,history,archive,voyage,travel,
+Tags: twitter,bot,twitterbot,active,facebook,page,history,archive,voyage,travel,
 Nav: hidden
 Robots: index,follow
 */

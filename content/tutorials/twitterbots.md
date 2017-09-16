@@ -9,7 +9,13 @@ Nav: hidden
 
 <div class="note">
   <p>
-    Before you start making bots, consider reading <a href="/articles/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+    Before you start making bots, consider reading <a href="/articles/essays">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  </p>
+</div>
+
+<div class="note">
+  <p>
+    <a class="btn" href="/tutorials/how-to-make-a-twitter-bot-definitive-guide">The Definitive Guide</a>
   </p>
 </div>
 
@@ -32,7 +38,8 @@ Can't wait to see you there!
   - [node.js](#tutorials-nodejs)
   - [Python](#tutorials-python)
   - [Ruby](#tutorials-ruby)
-  - [Cheap Bots Done Quick](#cheap-bots-done-quick)
+  - [Go](#tutorials-golang)
+  - [Tracery/Cheap Bots Done Quick](#tracery-cbdq)
   - [SSBot (Google Spreadsheets)](#ssbot)
   - [AWS](#tutorials-aws)
   - [Other](#tutorials-other)
@@ -57,10 +64,8 @@ Can't wait to see you there!
 
 ### Beginner tutorials [¶](#beginner-tutorials){.pilcrow} {#beginner-tutorials}
 
-
-**So you want to make a Twitter bot? Check out [How to Make a Twitter Bot: The Definitive Guide](/tutorials/how-to-make-a-twitter-bot-definitive-guide)!**
-
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### node.js [¶](#tutorials-nodejs){.pilcrow} {#tutorials-nodejs}
 
 <!--
@@ -79,7 +84,7 @@ Can't wait to see you there!
  - Part 1: [Prerequisites](https://ursooperduper.github.io/2014/10/27/twitter-bot-with-node-js-part-1.html)
  - Part 2: [Code](https://ursooperduper.github.io/2014/10/28/twitter-bot-with-node-js-part-2.html)
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
-- [Smarter & Cuter Bots](https://www.youtube.com/watch?v=oLYcx8C6I18): a video tutorial using [GraphicsMagick](http://www.graphicsmagick.org/) and Microsoft's Cognitive Services (Rachel White via youtube.com)
+- [Smarter &amp; Cuter Bots](https://www.youtube.com/watch?v=oLYcx8C6I18): a video tutorial using [GraphicsMagick](http://www.graphicsmagick.org/) and Microsoft's Cognitive Services (Rachel White via youtube.com)
   - [Slides](https://docs.google.com/presentation/d/1N_28LFIzHjrNF6mE5yBGUBXkNH6n1mKqMcmDu9veuYk/edit#slide=id.p4) (docs.google.com)
 
 
@@ -93,6 +98,15 @@ Can't wait to see you there!
 - [How to build and deploy a multifunctional Twitter bot](https://medium.freecodecamp.com/how-to-build-and-deploy-a-multifunctional-twitter-bot-49e941bb3092) (Scott Spence via medium.com)
 - [dariusk/examplebot](https://github.com/dariusk/examplebot): a super simple tutorial with node.js source code
 -->
+
+  </div>
+  <div class="col-sm-12 col-md-6" markdown=1>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How often should your bot tweet? Where should you host it? Can you retweet non-followers? Check out <a href="https://t.co/sSpF22MU7R">https://t.co/sSpF22MU7R</a> by <a href="https://twitter.com/fourtonfish">@fourtonfish</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901805845452873729">August 27, 2017</a></blockquote>
+  </div>  
+</div>
+
+
+
 
 #### Python [¶](#tutorials-python){.pilcrow} {#tutorials-python}
 
@@ -118,13 +132,19 @@ Can't wait to see you there!
 - [Your Own @Horse_ebooks](https://medium.com/@nulljosh/your-own-horse-ebooks-84e9b87c5af6) (hosted on Heroku)
 
 
-#### Cheap Bots Done Quick [¶](#cheap-bots-done-quick){.pilcrow} {#cheap-bots-done-quick}
+#### Go [¶](#tutorials-golang){.pilcrow} {#tutorials-golang}
 
-Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For example bots, see the [#cheapbotsdonequick](/tag/cheapbotsdonequick) tag.
+- [How I built my earthin24 twitter bot](https://www.thecssninja.com/hacking/how-i-built-my-earthin24-twitter-bot) (thecssninja.com)
+
+
+#### Tracery/Cheap Bots Done Quick [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
+
+Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://cheapbotsdonequick.com/), which uses it. For example bots, see the [#tracery](/tag/tracery) tag.
 
 - [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai) (github.com)
   - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md) (github.com)
   - [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md) (github.com)
+- [Tracery tutorial by the Tracery creator](http://www.crystalcodepalace.com/traceryTut.html) (crystalcodepalace.com)
 - [An Introduction to Twitterbots with Tracery](https://programminghistorian.github.io/ph-submissions/lessons/intro-to-twitterbots) (programminghistorian.github.io)
 - [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/): tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (cmuems.com)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots) (Code Kitchen via github.com)
@@ -132,13 +152,13 @@ Tutorials for [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). For examp
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/) (porganized.com)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b) (Species.agency via medium.com)
 
-
-##### Tools and other resources [¶](#cbdq-tools){.pilcrow} {#cbdq-tools}
+##### Tools and other resources [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
 
 - [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
 - [Visual Tracery editor](http://www.brightspiral.com/tracery/)
+- [Tracery starter project on Glitch](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
 
-##### See also [¶](#cbdq-more){.pilcrow} {#cbdq-more}
+##### See also [¶](#tracery-cbdq-more){.pilcrow} {#tracery-cbdq-more}
 
 - [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/)
 - [Open source bots made with CBDQ](/tag/bot+opensource+cheapbotsdonequick)
@@ -168,6 +188,7 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [How to Build a Law Bot](https://lawyerist.com/127093/how-build-law-bot/) with [Jupyter Notebooks](http://jupyter.org/) (lawyerist.com)
 - [Tutorial on Creative Twitterbots](https://www.slideshare.net/kimveale/tutorial-on-creative-twitterbots) (Tony Veale via slideshare.net)
 - [How I Built a Twitter Bot Using Auth0 Webtasks and Data.gov](https://auth0.com/blog/how-i-built-a-twitter-bot-using-webtask-and-data-gov/) (auth0.com)
+- [Notes on building a cron-powered Twitter countdown bot](http://benlk.com/2017-07-31-looming-midterms-a-twitter-cron-bot) (benlk.com)
 
 ### Intermediate tutorials [¶](#intermediate-tutorials){.pilcrow} {#intermediate-tutorials}
 
@@ -218,3 +239,4 @@ See [Resources for Twitter bots](/resources/twitterbots) and [open source code f
 
 Also be sure to read the [Twitter Rules](https://support.twitter.com/articles/18311-the-twitter-rules#), the [Twitter developer policy](https://dev.twitter.com/overview/terms/policy), the [automation rules and best practices](https://support.twitter.com/articles/76915-automation-rules-and-best-practices) and learn about the [API Rate Limits](https://dev.twitter.com/rest/public/rate-limits).
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

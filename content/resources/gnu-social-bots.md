@@ -26,6 +26,7 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 #### Python [¶](#mastodon-python){.pilcrow} {#mastodon-python}
 
+- [russss/polybot](https://github.com/russss/polybot): a framework for making social media bots for multiple networks (github.com)
 - [halcy/Mastodon.py](https://github.com/halcy/Mastodon.py): Python wrapper for the Mastodon API (github.com)
 - [halcy/MastodonToTwitter](https://github.com/halcy/MastodonToTwitter): Mastodon <-> Twitter cross-poster (github.com)
 - [dtluna/pygnusocial](https://gitgud.io/dtluna/pygnusocial): GNU Social API for Python 3 (gitgud.io)
@@ -46,6 +47,10 @@ This is a fairly new section: [would you like to contribute](https://github.com/
 
 - [Icebox Breakfast Bot](https://github.com/aparrish/iceboxbreakfast): A [William Carlos Williams](https://en.wikipedia.org/wiki/William_Carlos_Williams)-parodizing Mastodon bot (github.com)
 
+See also:
+
+- [tutorials for GNU Social bots](/tutorials/gnu-social-bots/)
+- [Mastodon Bot Directory](https://info.toot.works/bots/) (info.toot.works)
 
 
-See [tutorials for GNU Social bots](/tutorials/gnu-social-bots/), or [go back to all resources](/resources).
+[Return to Resources](/resources).

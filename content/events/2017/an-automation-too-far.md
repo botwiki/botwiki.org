@@ -3,7 +3,7 @@ Title: An automation too far?
 Description: A debate on AI-created art
 Link: https://dublin.sciencegallery.com/events/2017/02/automationtoofardebateaicreatedart
 Date: February 10, 2017
-Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=36-west-20th-street-new-york-ny-10011&zoom=15&size=900x220&scale=2&maptype=roadmap
+Thumbnail: https://maps.googleapis.com/maps/api/staticmap?center=pearse-street-dublin-ireland&zoom=15&size=900x220&scale=2&maptype=roadmap
 Tags: event,archived
 */
 

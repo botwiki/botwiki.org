@@ -7,11 +7,23 @@ Show donation link: yes
 Weight: 6
 */
 
+
+<div class="note">
+  <p>
+    <a class="btn" href="/about/team">Our team</a>
+    <a class="btn" href="/projects">Our projects</a>
+    <a class="btn" href="/about/press">Press coverage</a>
+    <a class="btn" href="#timeline">Timeline</a>
+  </p>
+</div>
+
+
 <div class="note">
   <p>
     To see who's behind Botwiki and <a href="/projects/">related projects</a>, see the <a href="/about/team/">Team page</a>. Also, check out the <a href="/about/press/">press coverage</a>, and the <a href="#timeline">timeline of important milestones in Botwiki's history below</a>.
   </p>
 </div>
+
 
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">I liked <a href="https://twitter.com/fourtonfish">@fourtonfish</a>&#39;s Botwiki, a set of resources for learning about &amp; building bots for Slack, Twitter, etc. <a href="https://t.co/uFTB6Zrr6a">https://t.co/uFTB6Zrr6a</a></p>&mdash; Anil Dash (@anildash) <a href="https://twitter.com/anildash/status/642120992932933632">September 10, 2015</a></blockquote>
@@ -39,6 +51,7 @@ Below is a timeline of major events in the history of the Botwiki project.
 
 #### 2017 [¶](#2017){.pilcrow} {#2017}
 
+- **August 31:** [Angelina](/about/team/#angelina) joined the Botwiki team as an event organizer.
 - **July 12:** [Botwiki celebrated its two years](/blog/2017-07-12-botwiki-two-years/).
 - **June 16:** Botwiki got an [official page on Glitch](https://glitch.com/botwiki).
 - **March:** Botwiki had more than 20,000 unique visitors.
@@ -47,7 +60,7 @@ Below is a timeline of major events in the history of the Botwiki project.
 
 - **October 1:** Hosted [the first online Bot Workshop](https://botwiki.org/bot-workshops/botmaking-from-the-ground-up/).
 - **July:** First time Botwiki was visited by over 10,000 people in one month. Also, [Botwiki celebrated its first year](/blog/2016-07-13-botwiki-one-year/).
-- **March 31:** [Veronica](/about/team/#veronica) [joined the Botwiki team](https://github.com/botwiki/botwiki.org/commit/ba19c71042bdb8c7b36fc6a8c214f6d874dab543).
+- **March 31:** [Veronica](/about/team/#veronica) joined the Botwiki team as a Bot! zine editor and Botmakers community manager.
 - **March 21:** Hosted [the first Botmakers in-person event](http://www.meetup.com/botmakers/events/228956424/).
 - **February 18:** Created the [Botmakers Meetup group](http://www.meetup.com/botmakers/).
 - **January 1:** The first [Monthly Bot Challenge](https://botwiki.org/monthly-bot-challenge/) was announced.
@@ -62,6 +75,13 @@ Below is a timeline of major events in the history of the Botwiki project.
 - **August 19:** The [botmakers.org](https://botmakers.org) domain was bought.
 - **July 15:** First commit to the [public Botwiki repository](https://github.com/botwiki/botwiki.org/commit/590928d96bc33175a4417880375ee4e9032e79ef).
 - **July 12:** The [botwiki.org](https://botwiki.org) domain was bought and the [@botwikidotorg](https://twitter.com/botwikidotorg) Twitter account was set up.
+
+
+### Read more [¶](#read-more){.pilcrow} {#read-more}
+
+
+- [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
+- [Celebrating Botwiki](/tag/botwiki+anniversary) 
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Want to learn how to make fun/weird/artsy bots? Join <a href="https://t.co/4FH6Ohd5ue">https://t.co/4FH6Ohd5ue</a>  and check out our tutorials <a href="https://t.co/52klQ1dEml">https://t.co/52klQ1dEml</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/799687419259797504">November 18, 2016</a></blockquote>

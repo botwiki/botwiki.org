@@ -6,7 +6,7 @@ Tags: articles
 Nav: hidden
 */
 
-*Originally posted on [tinysubversions.com](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) by [Darius Kazemi](https://twitter.com/tinysubversions). See also: [Bot Ethics](/articles/bot-ethics/).*
+*Originally posted on [tinysubversions.com](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/) by [Darius Kazemi](https://twitter.com/tinysubversions). [Read more essays.](/articles/essays/)*
 
 So you want to make a Twitter bot! That’s great! Here are some basic rules for making a bot that isn’t an asshole (and also reduce the chance of the bot getting banned by Twitter).
 

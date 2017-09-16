@@ -15,11 +15,12 @@ Do you know about an interesting blog or have you read a good article a botmaker
 **For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.**
 
 
-- [2017: Chatbot crisis](/articles/selected-articles/2017)
+- [2017: The rise of AI, biased machines, chatbot crisis](/articles/selected-articles/2017)
 - [2016: Bots ruining everything](/articles/selected-articles/2016)
 - [2015: More on bots](/articles/selected-articles/2015)
-- [2014: Protest bots and bots taking over jobs](/articles/selected-articles/2014)
+- [2014: Protest bots, bots taking over jobs](/articles/selected-articles/2014)
 - [2013: Rise of Twitter bots, Siri's origin story](/articles/selected-articles/2013)
+- [1997: Bach by computer](/articles/selected-articles/1997)
 - [1996: Bots are hot!](/articles/selected-articles/1996)
 - [1981: AI](/articles/selected-articles/1981)
 

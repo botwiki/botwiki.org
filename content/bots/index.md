@@ -8,11 +8,14 @@ Weight: 1
 
 <div class="note">
   <p>
-    Jump straight to browsing bots <a href="#browse-bots-by-category">by category</a>, <a href="#browse-bots-by-network">by the network</a> on which they operate, or check out <a href="/random-bot">a random bot</a>!
+    <a class="btn" href="#browse-bots-by-category">Browse by category</a>
+    <a class="btn" href="#browse-bots-by-network">Browse by network</a>
+    <a class="btn" href="/random-bot">Random bot</a>
   </p>
 </div>
 
-So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot).
+
+So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-bot):
 
 <blockquote>
   <div class="row">
@@ -35,34 +38,37 @@ So what exactly is a "bot"? Well, it really depends on [who you ask](/what-is-a-
 >
 > -- [A user experience tester](http://peek.usertesting.com/result/20922996954524)
 
-In essence, an online bot is (usually) a simple program that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
+In essence, an online bot is a program (sometimes simple, sometimes more complex) that does something a human would otherwise do, like post pictures on [Tumblr](https://www.tumblr.com/) or [retweet](https://twitter.com/) Tweets that talk about cats.
 
-
+<!--
 <p class="screenshot float-left">
   <a href="/bots/tumblr-bots/deadspelunkers">
     <img src="/content/bots/tumblr-bots/images/deadspelunkers.png">
   </a>
 </p>
+-->
 
+<!-- 
 You can pretty much think of bots as programs that turn sites like [damnyoubatman.com](http://damnyoubatman.com/) or [hungernames.com](http://hungernames.com/) into automated [Twitter](https://twitter.com/) or [Tumblr](https://www.tumblr.com/) accounts. 
+ -->
 
-
-Bots can be funny, useful, artistic -- but also annoying and spammy. This site -- and our [botmakers.org](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
-
+Bots can be funny, useful, artistic -- but also annoying and spammy. This site, and our [Botmakers](https://botmakers.org/) community, are dedicated to the friendlier of the online bots.
 
 Feel free to browse the bots below -- [by categories](#browse-bots-by-category) or [by the network](#browse-bots-by-network) on which they operate, check out the [tutorials](/tutorials/), [read bot-related articles](/articles/) or just use the search on top of this page, if you're looking for something specific.
 
-
-You are also welcome to join [Botmakers](https://botmakers.org/), our friendly community of bot makers and bot enthusiasts of all skill levels, to share ideas, ask questions or just see what interesting projects everyone is working on.
-
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
+You are also welcome to [join our friendly community](https://botmakers.org/) of bot makers and bot enthusiasts of all skill levels, to share ideas, ask questions, or just see what everyone is working on.
 
 Thanks for checking out **Botwiki**!
 
+**PS:** If you want to add your bot, you can use [this form](https://botwiki.org/submit-your-bot).
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
+  </div>
+</div>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apparently botmaking attracts a lot of academics, artists, and terrifyingly creative people. WHO KNEW.</p>&mdash; emma winston ☄ (@deer_ful) <a href="https://twitter.com/deer_ful/status/694964643710771200">February 3, 2016</a></blockquote>
-
-
-**PS:** If you want to add your bot, check out [this form](https://botwiki.org/submit-your-bot).
 
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
@@ -85,7 +91,7 @@ Thanks for checking out **Botwiki**!
 - [Twitter bots](/bots/twitterbots/)
 - [Slack bots](/bots/slackbots/)
 - [Tumblr bots](/bots/tumblr-bots/)
-- [Facebook bots](/bots/facebook-messenger-bots/)
+- [Facebook bots](/bots/facebook/)
 - [YouTube bots](/bots/youtube-bots/)
 - [Reddit bots](/bots/redditbots/)
 - [Telegram bots](/bots/telegram-bots/)
@@ -102,7 +108,9 @@ Or check out a [random bot](/random-bot)!
     <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Hi <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a> here&#39;s your pic. BTW: No need to @ mention me, just use the tag Hey: <a href="https://t.co/ZsgiAa6IVB">pic.twitter.com/ZsgiAa6IVB</a></p>&mdash; Your Words In Neon (@NixieBot) <a href="https://twitter.com/NixieBot/status/839493822103044096">March 8, 2017</a></blockquote>
   </div>
 </div>
- 
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 #### Bot directories [¶](#bot-directories){.pilcrow} {#bot-directories}
 
 Botwiki is mainly focused on creative examples of online bots. If you're more interested in "business bots", check out some of these bot directories:
@@ -114,7 +122,11 @@ Botwiki is mainly focused on creative examples of online bots. If you're more in
 #### See also [¶](#see-also){.pilcrow} {#see-also}
 
 - [Essays on bots and botmaking](/articles/essays)
-
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Tag your bot! <a href="https://t.co/84CibXmFJw">https://t.co/84CibXmFJw</a></p>&mdash; Botwiki (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/901124180573392963">August 25, 2017</a></blockquote>
+  </div>  
+</div>
 
 <div class="video-background">
   <div class="video-wrapper">

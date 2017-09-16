@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 <div class="note">
-  <p>Before you start making bots, consider reading <a href="/articles/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  <p>Before you start making bots, consider reading <a href="/articles/essays">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
 
@@ -28,8 +28,9 @@ You have quite a few options when it comes to hosting your bots!
   - [Botwiki project on Glitch](https://glitch.com/botwiki)
 - [OpenShift](https://www.openshift.com/): a [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service), comes with a free plan, but a credit card verification is required to prevent your app from sleeping when inactive
   - see [OpenShift tutorials on Botwiki](/tag/tutorial+openshift)
-- [Heroku](https://www.heroku.com): similar to OpenShift with [free "Dyno hours"](https://devcenter.heroku.com/changelog-items/907) and a [scheduler](https://elements.heroku.com/addons/scheduler). Useful tutorials include:
- - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
+- [Heroku](https://www.heroku.com): similar to OpenShift with [free "Dyno hours"](https://devcenter.heroku.com/changelog-items/907) and a [scheduler](https://elements.heroku.com/addons/scheduler). See also:
+  - [Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+  - [Intermediate Cron Jobs with Heroku](http://blog.andyjiang.com/intermediate-cron-jobs-with-heroku/)
 - [Cloud9](https://c9.io/): browser-based IDE (integrated development environment) that vastly simplifies the development process; offers a free plan that works well with OpenShift for hosting
   - see [tutorials on Botwiki that use Cloud9](/tag/tutorial+cloud9)
 - [Google Cloud Platform](https://cloud.google.com/) ([Free Tier](https://cloud.google.com/free/))

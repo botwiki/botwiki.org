@@ -9,7 +9,7 @@ Nav: hidden
 
 <div class="note">
   <p>
-    Before you start making bots, consider reading <a href="/articles/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+    Before you start making bots, consider reading <a href="/articles/essays">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
 
@@ -55,6 +55,7 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 
 - [Actions on Google/Api.ai boilerplate project on Glitch](https://glitch.com/edit/#!/project/actions-on-google-api-ai-boilerplate) (glitch.com)
 - [Google Home Action project on Glitch](https://glitch.com/edit/#!/google-home) (glitch.com)
+- [Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/) (jovo.tech)
 
 #### api.ai [¶](#tutorials-api-ai){.pilcrow} {#tutorials-api-ai}
 

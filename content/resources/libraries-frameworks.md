@@ -130,6 +130,7 @@ For libraries and frameworks for specific networks [check out the Resources page
 #### Lua [¶](#images-lua){.pilcrow} {#images-lua}
 
 - [facebookresearch/deepmask](https://github.com/facebookresearch/deepmask): Torch implementation of [DeepMask and SharpMask](https://code.facebook.com/posts/561187904071636)
+- [robbiebarrat/art-DCGAN](https://github.com/robbiebarrat/art-DCGAN): modified implementation of DCGAN focused on generative art
 
 ### Math and data [¶](#math-data){.pilcrow} {#math-data}
 

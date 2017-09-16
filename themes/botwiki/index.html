@@ -42,8 +42,9 @@
   <link rel="apple-touch-icon-precomposed" href="https://botwiki.org/content/images/favicon-152.png" />
   <link rel="icon" href="https://botwiki.org/content/images/favicon-32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://botwiki.org/content/images/favicon-64.png" />
-  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro|Anton|Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ theme_url }}/css/main.3.58.min.css" type="text/css" />  
+  <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro|Anton|Rubik' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Bree+Serif&text=b' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ theme_url }}/css/main.4.17.min.css" type="text/css" />  
 {% if meta.has_code == 'yes' %}
   <link rel="stylesheet" href="{{ theme_url }}/libs/highlight.js/styles/monokai-sublime.css" type="text/css" />
 {% endif %}
@@ -70,46 +71,61 @@
     <div class="inner clearfix">
       <nav>
         <label id="menu-icon-wrapper" class="cursor-pointer" for="menu-toggle">
+        <!-- 
           <svg id="menu-icon" viewBox="0 0 36 24" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="36px" height="24px"><g id="Layer%201"><rect x="0" y="0" width="36" height="4" fill="#ffffff"/><rect x="0" y="10" width="36" height="4" fill="#ffffff"/><rect x="0" y="20" width="36" height="4" fill="#ffffff"/></g></svg>
+        -->
+        &#9776;
         </label>  
-        <a class="h-card u-url" href="{{ base_url }}" id="logo" title="Hello!"><span class="robot-face">🤖</span></a>
+        <a class="h-card u-url" href="{{ base_url }}" id="logo" title="Hello!"><span class="botwiki-logo">b</span></a>
         <input type="checkbox" id="menu-toggle"/>  
         <ul id="menu">
-          <li class="form-wrapper">
-            <form id="search-form" action="/search">
-              <input name="q" placeholder="🔎 Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
-            </form>
-          </li>
-          <li 
-            {% if meta.title == "Bots" or 'bot' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/bots/" title="Bots">Bots</a></li>
-          <li 
-            {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/tutorials/" title="Tutorials">Tutorials</a></li>
-          <li 
-            {% if meta.title == "Resources" or 'resources' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/resources/" title="Resources">Resources</a></li>
-          <li 
-            {% if meta.title == "Articles" or 'articles' in meta.tags or 'interview' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/articles/" title="Articles">Articles</a></li>
-          <li 
-            {% if meta.title == "Events" or 'event' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/events/" title="Events">Events</a></li>
-          <li 
-            {% if meta.title == "About" or 'about' in meta.tags %}
-              class="active"
-            {% endif %}
-              ><a href="/about/" title="About">About</a></li>
+          <div class="row">
+            <div class="col-sm-12 col-md-6">
+              <li 
+                {% if meta.title == "Bots" or 'bot' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/bots/" title="Bots">Bots</a>
+              </li>
+              <li 
+                {% if meta.title == "Tutorials" or 'tutorials' in meta.tags  or 'tutorial' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/tutorials/" title="Tutorials">Tutorials</a>
+              </li>
+              <li 
+                {% if meta.title == "Resources" or 'resources' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/resources/" title="Resources">Resources</a>
+              </li>
+              <li 
+                {% if meta.title == "Articles" or 'articles' in meta.tags or 'interview' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/articles/" title="Articles">Articles</a>
+              </li>
+              <li 
+                {% if meta.title == "Events" or 'event' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/events/" title="Events">Events</a>
+              </li>
+              <li 
+                {% if meta.title == "About" or 'about' in meta.tags %}
+                  class="active"
+                {% endif %}
+                  ><a href="/about/" title="About">About</a>
+              </li>
+            </div>
+            <div class="col-sm-12 col-md-6">
+              <li class="form-wrapper">
+                <form id="search-form" action="/search">
+                  <input name="q" placeholder="Search..." value="{{ search_term }}"><!--<a id="search-help" href="#">?</a>-->
+                </form>
+              </li>
+            </div>
+          </div>
         </ul>
       </nav>
     </div>
@@ -176,11 +192,11 @@
 
         <div class="col-sm-12 col-md-6 col-lg-3">
           <ul class="footer-list">
-            <li class="list-header">Support</li>
+            <li class="list-header">Support us</li>
+            <li><a href="/about/support">Support page</a></li>
             <li><a href="https://www.patreon.com/botwiki">Patreon</a></li>
             <li><a href="https://gratipay.com/botwiki-org/">Gratipay</a></li>
-            <li><a href="https://www.paypal.me/stefanbohacek">PayPal</a></li>
-            <li><a href="bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&amp;label=Botwiki">Bitcoin</a></li>
+            <li><a href="/merch">Botwiki Store</a></li>
             <li><a href="/about/supporters">Our supporters</a></li>
           </ul>
         </div>
@@ -188,10 +204,10 @@
           <ul class="footer-list">
             <li class="list-header">Share/Save</li>
             <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fbotwiki.org%2F&amp;text=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.:%20https%3A%2F%2Fbotwiki.org%2F&via=botwikidotorg" target="_blank" title="Tweet">Twitter</a></li>
-            <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbotwiki.org%2F&amp;t=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Share on Facebook">Facebook</a></li>
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbotwiki.org%2F&amp;t=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots" target="_blank" title="Share on Facebook">Facebook</a></li>
             <li><a href="mailto:?subject=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;body=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks.:%20https%3A%2F%2Fbotwiki.org%2F" target="_blank" title="Email">Email</a></li>
-            <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots." target="_blank" title="Add to Pocket">Pocket</a></li>
-            <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks." target="_blank" title="Save to Pinboard">Pinboard</a></li>
+            <li><a href="https://getpocket.com/save?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots" target="_blank" title="Add to Pocket">Pocket</a></li>
+            <li><a href="https://pinboard.in/popup_login/?url=https%3A%2F%2Fbotwiki.org%2F&amp;title=Resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots.&amp;description=Botwiki.org%20is%20an%20open-source%20collection%20of%20tutorials%2C%20articles%2C%20datasets%20and%20other%20resources%20for%20creating%20useful%2C%20interesting%2C%20artistic%20and%20friendly%20online%20bots%20--%20smart%20software%20agents%20that%20do%20fun%20or%20useful%20stuff%20--%20for%20Twitter%2C%20Slack%2C%20IRC%20and%20other%20online%20networks" target="_blank" title="Save to Pinboard">Pinboard</a></li>
           </ul>
         </div>
       </div>
@@ -209,22 +225,25 @@
 
   {% include 'includes/statcounter.html' ignore missing %}
   <div class="bottom-page-links">
-    <a id="back-to-top" title="Go back all the way to the top of this page!" href="#header" class="slide-down"><img src="/content/images/arrow-up.svg"></a>
+    <a id="back-to-top" title="Go back all the way to the top of this page" href="#header" class="slide-down"><img src="/content/images/arrow-up.svg"></a>
 <!--
     <a id="submit-bot-link" title="Submit your bot!" href="https://botwiki.org/submit-your-bot/">📋</a>
 -->
-    <a id="random-bot-link" title="Explore the wonderful world of online bots, one random bot at a time." href="/random-bot">🤖</a>
+    <a id="random-bot-link" title="Explore the wonderful world of online bots, one random bot at a time" href="/random-bot">🤖</a>
+    <a id="submit-bot-link" title="Add your bot to Botwiki" href="https://botwiki.org/submit-your-bot/" target="_blank">📋</a>
     <a id="twitter-link" title="Follow @botwikidotorg on Twitter" href="https://twitter.com/botwikidotorg">
       <img src="/content/images/logos/twitter-white.svg">
       <span>@botwikidotorg</span>
     </a>
   </div>
-  <script src="{{ theme_url }}/js/scripts.3.3.min.js"></script>
+  <script src="{{ theme_url }}/js/scripts.4.1.min.js"></script>
   {% if meta.has_code == 'yes' %}
   <script src="{{ theme_url }}/libs/highlight.js/highlight.pack.js"></script>
   <script type="text/javascript">
-    hljs.initHighlighting.called = false;
-    hljs.initHighlighting();    
+    if (hljs){
+      hljs.initHighlighting.called = false;
+      hljs.initHighlighting();    
+    }
   </script>
   {% endif %}
   {% if not is_front_page and meta.thumbnail %}

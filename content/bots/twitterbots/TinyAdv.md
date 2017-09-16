@@ -6,7 +6,7 @@ Link: https://twitter.com/TinyAdv
 Source: http://pastebin.com/YYtZnzZ0
 Author: botsheeter.py
 Date: March 15, 2016
-Tags: twitter,twitterbot,bot,active,space,cheapbotsdonequick,images,open source,opensource,tracery,galaxykate
+Tags: twitter,twitterbot,bot,active,space,cheapbotsdonequick,images,svg,open source,opensource,tracery,galaxykate
 Nav: hidden
 Robots: index,follow
 */

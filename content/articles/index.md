@@ -16,7 +16,6 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 - [Blogs and websites](/articles/blogs-and-websites): bots' rights, botsplaining, and automated art
 - [Essays](/articles/essays): what is a bot, and can it make art?
-- [Bot ethics](/articles/bot-ethics): misbehaving bots and biased algorithms
 - [Selected articles](/articles/selected-articles): all the bot news that's fit to print
 - [Books and other literature](/articles/books): bot book club
 - [Audio, video, slides](/articles/audio-video-slides): talks and presentations

@@ -19,14 +19,14 @@ Hey there, [Stefan](/about/team/#stefan) here!
 
 So you want to make a friendly/useful/artistic Twitter bot and probably have a bunch of questions, like *How often should my bot tweet?* or *Why am I getting this weird error message?* and *How do I even make a Twitter bot?*
 
-Hopefully this ambitiously titled guide will answer most of your questions -- and you are always free to ask for more help [in the Botmakers community](https://botmakers.org/). 
+Hopefully this ambitiously titled guide will answer your questions -- and you are always free to ask for more help [in the Botmakers community](https://botmakers.org/). 
 
 ### Page content [¶](#page-content){.pilcrow} {#page-content}
-
 - [Note on needing a phone number](#note-phone-number)
 - [What kind of a bot should I make?](#what)
 - [Can I make a bot that tracks keywords or hashtags?](#hashtags-keywords)
 - [How often should my Twitter bot tweet?](#tweet-frequency)
+- [Do I need to attribute content tweeted by my bot?](#bot-attribution)
 - [How do I make a Twitter bot?](#bot-tutorials)
 - [Where should I host my bot?](#bot-hosting)
 - [Why is my bot not working?](#bot-not-working)
@@ -42,27 +42,39 @@ For more information on this, check out the [Twitterbot tutorials page here on B
 
 ### What kind of a bot should I make? [¶](#what){.pilcrow} {#what}
 
-Let's first talk about the kind of bots you absolutely should *not* make. Start by reviewing Twitter's [Rules and best practices](https://support.twitter.com/articles/69214) and their [Automation rules](https://support.twitter.com/articles/76915). There are also the API limits, but we will get into that shortly.
+Let's first talk about the kinds of bots you absolutely should **not** make. Start by reviewing Twitter's [Rules and best practices](https://support.twitter.com/articles/69214) and their [Automation rules](https://support.twitter.com/articles/76915). There are also API rate limits, but we will [get into that shortly](#tweet-frequency).
 
-The bottom line is this: **don't let your bot annoy people**. That means, don't let it interact with people who don't follow your bot or knowingly initiate the conversation either through a tweet with your bot's handle, a unique dedicated hashtag (see [@NixieBot](/bots/twitterbots/NixieBot/) for an example), or a direct message.
+The bottom line is this: **don't let your bot annoy people**. Try to avoid interacting with people who don't follow your bot or knowingly initiate the conversation either through a tweet with your bot's handle, a direct message, or a unique dedicated hashtag (see [@NixieBot](/bots/twitterbots/NixieBot/) for an example of such approach).
 
-While there certainly are clever examples of [bots who do interact with random strangers](http://www.shardcore.org/shardpress/2014/10/27/algobola/), understand that this absolutely goes against Twitter's policy and you have a decent chance of getting your bot suspended, even if you believe the bot's behavior is innocent.
+There certainly are [clever examples](https://botwiki.org/bots/twitterbots/wdywam/) of [bots who do interact with random Twitter users](http://www.shardcore.org/shardpress/2014/10/27/algobola/) who didn't explicitly opt-in, but this is a bit of a gray area and you should use your best judgement here.
 
 And it hopefully doesn't even need to be said that you **shouldn't make bots that harass people**, post spam, or do any other malicious activity. Remember, [bots should always punch up, never punch down](/articles/bots-should-punch-up/).
 
-As for *what* your bot should do, well, you can always [browse Botwiki](/bots/twitterbots/#browse-twitter-bots-by-category) and get inspired by what others made. Or check out the various [APIs, images, and public data sets](/resources/) you can use. You can also [learn more about the actual Twitter API](/tutorials/twitterbots/#twitter-api) and maybe even ["exploit" some of the quirks of the Twitter platform](/bots/twitterbots/pngbot/).
+As for *what* your bot should do, well, here are a few tips:
 
-For even more inspiration, check out [essays for botmakers](/articles/essays/), and more specifically, [these essays on ethical botmaking](/articles/bot-ethics/).
+- [browse Botwiki](/bots/twitterbots/#browse-twitter-bots-by-category) and get inspired by what others made
+- check out various [APIs, images, and public data sets](/resources/) you can use
+- [learn more about the Twitter API](/tutorials/twitterbots/#twitter-api) and maybe even ["exploit" some of the quirks of the Twitter platform](/bots/twitterbots/pngbot/)
+- the [Botmakers](https://botmakers.org/) Slack group has channels where people share their ideas and look for collaborators
+
+For even more inspiration, check out [these essays and articles](/articles/essays/).
 
 Making a (Twitter) bot is not always a straightforward process, with steps to go through. Sometimes the decisions you make affect each other, for example, you can start with an idea and then decide what language and hosting platform you'll use. But you can also first look at the various platforms you can use to host your bot and play with their strengths and limitations. More on that in an [upcoming section](#bot-hosting).
 
 ### Can I make a bot that tracks keywords or hashtags? [¶](#hashtags-keywords){.pilcrow} {#hashtags-keywords}
 
-As explained above, bots that retweet people who didn't opt into interacting with your bot are likely to get suspended. One way around this is to make your bot private and have it follow your main account. This way you can follow the topics you're interested in without disturbing anyone, since notifications from private accounts don't show up to people your bot is not following.
+From Twitter's [Automation rules](https://support.twitter.com/articles/76915):
+
+> Automated Retweets: Provided you comply with all other rules, **you may Retweet or Quote Tweet in an automated manner for entertainment, informational, or novelty purposes**. Automated Retweets often lead to negative user experiences, and bulk, aggressive, or spammy Retweeting is a violation of the Twitter Rules.
+
+As explained above, there are some gray areas when it comes to automating certain actions on Twitter, including automated retweets.
+
+One way around getting your retweet bot suspended is to make your bot private. This way you can follow the topics you're interested in without bothering anyone since notifications from private accounts don't show up to people your bot is not following.
+
+The biggest drawback here is that it will be harder for others to discover your bot, and as of [February 2017](https://twittercommunity.com/t/how-do-i-use-the-twitter-api-to-approve-a-follower-request-for-a-protected-account/82579), there is no way to approve follower requests for a protected account via the Twitter API, so you will have to handle follower requests manually.
+
 
 ### How often should my Twitter bot tweet? [¶](#tweet-frequency){.pilcrow} {#tweet-frequency}
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How often should a Twitter bot tweet?</p>&mdash; Ian Brown (@igb) <a href="https://twitter.com/igb/status/877731018538573824">June 22, 2017</a></blockquote>
 
 Alright, you might have a rough idea what your bot is going to be posting about now, great! How often should it post though?
 
@@ -72,9 +84,11 @@ Other than that, it's all about striking the right balance. If your bot tweets e
 
 But also consider that some people don't want their home timeline cluttered with just one account, so for bots that don't work with real-time data, spacing the tweets out makes a lot of sense. As I said above, one good rule to follow is to make sure your bot doesn't annoy people.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How often should a Twitter bot tweet?</p>&mdash; Ian Brown (@igb) <a href="https://twitter.com/igb/status/877731018538573824">June 22, 2017</a></blockquote>
+
 There are bots that post every hour, once or twice a day, or even just once throughout the whole year.
 
-Here are some thoughts from one of the Botmakers community members:
+Here are some thoughts from a member of [Botmakers](https://botmakers.org/):
 
 
 > Hard question.  I look at it as a logarithmic-scale line starting at once a minute and ending somewhere around once a week or month.
@@ -92,6 +106,12 @@ Here are some thoughts from one of the Botmakers community members:
 > **-- @air_hadoken**
 
 <br/>
+
+### Do I need to attribute content tweeted by my bot? [¶](#bot-attribution){.pilcrow} {#bot-attribution}
+
+[Absolutely!](https://twitter.com/i/moments/901869159931187200)
+
+
 
 ### How do I make a Twitter bot? [¶](#bot-tutorials){.pilcrow} {#bot-tutorials}
 
@@ -133,9 +153,15 @@ If you're not getting any error messages from Twitter, and the bot doesn't seem 
 
 ### Wrap up [¶](#wrap-up){.pilcrow} {#wrap-up}
 
-I hope this guide will help you deal with some of the biggest questions and challenges of making friendly Twitter bots. Be sure to [join us in the Botmakers community](https://botmakers.org/). We are artists, journalists, educators, tinkerers, bot enthusiasts, seasoned developers, and always happy to help a fellow botmaker out!
+I hope this guide will help you deal with some of the biggest questions and challenges of making friendly Twitter bots. Be sure to [join us in the Botmakers community](https://botmakers.org/). We are artists, journalists, educators, tinkerers, bot enthusiasts, seasoned developers, and always happy to help a fellow botmaker out :-)
 
 If you'd like to leave me feedback and suggestions for this guide, feel free to [send me an email](mailto:stefan@botwiki.org)!
 
+PS: See more of my tutorials [here](/tag/tutorial+fourtonfish/).
+
+
+### Special thanks [¶](#special-thanks){.pilcrow} {#special-thanks}
+
+- [Eric](http://www.shardcore.org/) (shardcore.org)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

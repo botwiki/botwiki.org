@@ -24,6 +24,7 @@ Tags: tutorial,twitter,images,node,nodejs,node.js,fourtonfish,botwiki-original
 - [Node.js](#nodejs)
 - [Creating a Twitter app](#creating-a-twitter-app)
 - [Cute animals bot](#cute-animals-bot)
+- [Attribution](#attribution)
 - [Hosting your bot](#hosting-your-bot)
 
 ### [What is a bot?](/what-is-a-bot/) [¶](#what-is-a-bot){.pilcrow} {#what-is-a-bot}
@@ -313,6 +314,50 @@ fs.unlink(image_path, function(err){
 
 This way you can choose whether you want to cycle through all the images or only use each image once. You could also keep a list of images you already posted to avoid posting the same one twice in a row, or too many times. Or you could [move the images to a different folder](http://stackoverflow.com/questions/38285546/how-can-i-move-files-to-a-directory-using-node-js) after posting them, and once your original folder is empty, move them back. 
 
+
+
+
+### Attribution [¶](#attribution){.pilcrow} {#attribution}
+
+The bot we made is perfect for sharing images you created yourself. When sharing images created by other folks, remember to [give credit](/tutorials/how-to-make-a-twitter-bot-definitive-guide#bot-attribution) to the original author.
+
+One way to do this is to create an object that lets you organize images together with source links, something like this:
+
+```
+var images = [
+  { 
+    file: 'image0001.png',
+    source: 'http://www.example.com/image0001.png'
+  },
+  { 
+    file: 'image0002.png',
+    source: 'http://www.example.com/image0002.png'
+  },
+  { 
+    file: 'image0003.png',
+    source: 'http://www.example.com/image0003.png'
+  },
+  { 
+    file: 'image0004.png',
+    source: 'http://www.example.com/image0004.png'
+  }
+]
+
+module.exports = images;
+```
+
+Then you can save this file as `images.js` and load it the same way you load your API keys:
+
+```
+images = require(path.join(__dirname, 'images.js'));
+
+```
+
+For the full code, see [my GitHub repo](https://github.com/fourtonfish/random-image-twitterbot/blob/master/server-attribution.js).
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How cute! Source: <a href="https://t.co/rDUi8aNxK7">https://t.co/rDUi8aNxK7</a> <a href="https://t.co/4U6rAalQfP">pic.twitter.com/4U6rAalQfP</a></p>&mdash; EDDBOTT (@eddbott) <a href="https://twitter.com/eddbott/status/902344697833820160">August 29, 2017</a></blockquote>
+
+
 ### Hosting your bot [¶](#hosting-your-bot){.pilcrow} {#hosting-your-bot}
 
 Great, so now you have your very own image-tweeting bot. The final step is moving the code to a server that will host the bot for you.
@@ -329,3 +374,5 @@ For a good overview of all your bot-hosting options, check out [this list of ava
 I hope you enjoyed making your Twitter bot! Feel free to browse the [Twit documentation](https://github.com/ttezel/twit) and [Twitter API documentation](https://dev.twitter.com/overview/documentation) to learn more about what your bot can do, and maybe get some more ideas browsing open source Twitter bots here on Botwiki!
 
 And you are always welcome to [join the Botmakers community](https://botmakers.org/) :-)
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

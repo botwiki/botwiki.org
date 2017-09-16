@@ -6,7 +6,7 @@ Link: https://twitter.com/nestiles
 Source: http://cheapbotsdonequick.com/source/nestiles
 Author: botsheeter.py
 Date: July 24, 2017
-Tags: twitter,twitterbot,bot,active,art,images,generative,retro,color,nes,palette,pixel,open source,opensource,cheapbotsdonequick,cbdq,tracery,amandaglosson
+Tags: twitter,twitterbot,bot,active,art,images,svg,generative,retro,color,nes,palette,pixel,open source,opensource,cheapbotsdonequick,cbdq,tracery,amandaglosson
 Nav: hidden
 Robots: index,follow
 */

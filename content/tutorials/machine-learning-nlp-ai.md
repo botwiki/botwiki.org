@@ -8,7 +8,7 @@ Nav: hidden
 */
 
 <div class="note">
-  <p>Before you start making bots, consider reading <a href="/articles/bot-ethics">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
+  <p>Before you start making bots, consider reading <a href="/articles/essays">these essays and articles</a>. Also worth browsing: <a href="/resources/libraries-frameworks/#language">resources for cleaning up your bot's language</a>.
   </p>
 </div>
 
@@ -44,7 +44,10 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 ### Machine learning [¶](#machine-learning){.pilcrow} {#machine-learning}
 
+- [Deep Learning: Free Course by Google](https://www.udacity.com/course/deep-learning--ud730) (udacity.com)
 - [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
+- [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working) (theorangeduck.com)
+- [Deep Learning - The Straight Dope](https://github.com/zackchase/mxnet-the-straight-dope) (Zack Chase Lipton via github.com)
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c) (Per Harald Borgen via medium.com)
@@ -89,6 +92,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/blog/what-does-machine-learning-look-like) (graphcore.ai)
 - [Machine relearning: What I’ve learned from one year of workshops](https://medium.com/@genekogan/machine-relearning-8cd57ba242) (Gene Kogan via medium.com)
+- [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/posts/what-does-machine-learning-look-like) (graphcore.ai)
 
 ### With [Julia](http://julialang.org/) [¶](#with-julia){.pilcrow} {#with-julia}
 
@@ -98,6 +102,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 - [TensorFlow: Machine Learning for Everyone](https://www.youtube.com/watch?v=wmw8Bbb_eIE&feature=youtu.be)
 - [TensorFlow for Poets](https://petewarden.com/2016/02/28/tensorflow-for-poets/) (petewarden.com)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow) (kadenze.com)
 - [jostmey/NakedTensor](https://github.com/jostmey/NakedTensor): "bare bottom simplest example of machine learning in TensorFlow"
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) (cloud.google.com)
 - [How to use Tensorboard](https://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
@@ -108,6 +113,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Contextual Chatbots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077) (chatbotsmagazine.com)
 - [Building Your Own Neural Machine Translation System in TensorFlow](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) (research.googleblog.com)
 - [Visualizable Tensorflow](https://medium.com/@tartavull/visualizable-tensorflow-260e27e25567) (Ignacio Tartavull via medium.com)
+- [Introduction to TensorFlow Datasets and Estimators](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html) (developers.googleblog.com)
 
 #### See also
 

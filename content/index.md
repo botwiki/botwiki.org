@@ -12,10 +12,10 @@ Show donation link: yes
 
 
 <div class="row">
-  <div class="col-sm-12 col-md-6 centered-text" markdown=1>
+  <div class="col-sm-12 col-md-6 centered-text no-pad" markdown=1>
 [![Automated emoji polls](/content/bots/twitterbots/images/emoji__polls-thumbnail.png)](/bots/twitterbots/emoji__polls){.screenshot}
   </div>
-  <div class="col-sm-12 col-md-6" markdown=1>
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 Some examples of such bots include:
 
 - [a bot that posts holidays around the world](bots/twitterbots/holidaybot4000)
@@ -48,13 +48,6 @@ Some examples of such bots include:
 </div>
 -->
 
-There are many more bots [on the **Bots** page](bots/) and you can use [this handy form](https://botwiki.org/submit-your-bot) to suggest a bot we should add!
-
-#### More about Botwiki
-
-- [How to enjoy bots as a "noncoder"](/articles/how-to-enjoy-bots-as-a-noncoder)
-- [One year of Botwiki](/blog/2016-07-13-botwiki-one-year) 
-- [Two years of Botwiki](/blog/2017-07-12-botwiki-two-years) 
-
-
-See also the [About page](/about), our [Team page](/about/team), and [what others wrote about us](/about/press).
+<a class="btn" href="/bots">Explore bots</a>
+<a class="btn" href="/tutorials">Make a bot</a>
+<a class="btn" href="https://botwiki.org/submit-your-bot">Submit your bot</a>

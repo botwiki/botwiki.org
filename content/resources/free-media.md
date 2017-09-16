@@ -45,6 +45,10 @@ Nav: hidden
 - [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/): a 37 category pet dataset with roughly 200 images for each class (robots.ox.ac.uk)
 - [Amazing Stories](https://archive.org/search.php?query=title%3A%28amazing+stories%29+AND+collection%3A%28pulpmagazinearchive%29&page=1): the world’s first science fiction magazine, launched in 1926 (archive.org)
 
+#### See also [¶](#free-images-more){.pilcrow} {#free-images-more}
+
+- [Random Image Generators](http://www.thisiskelv.in/posts/2017-07-27-random-image-placeholders/) (thisiskelv.in)
+
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}
 
 These are not always downloadable, but you can at least freely link to them.

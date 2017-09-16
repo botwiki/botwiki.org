@@ -5,7 +5,7 @@ Thumbnail: /content/bots/twitterbots/images/HostosBot.png
 Link: https://twitter.com/HostosBot
 Author: botsheeter.py
 Date: November 21, 2015
-Tags: twitter,bot,twitterbot,active,literature,non-english,spanish,facebook,tumblr,tumblrbot,leonardo_uprm
+Tags: twitter,bot,twitterbot,active,literature,non-english,spanish,facebook,page,tumblr,tumblrbot,leonardo_uprm
 Nav: hidden
 Robots: index,follow
 */
@@ -15,4 +15,3 @@ Robots: index,follow
 It generates text based on the work of [Eugenio María de Hostos](https://en.wikipedia.org/wiki/Eugenio_María_de_Hostos) and publishes it on [Twitter](https://twitter.com/HostosBot), [Facebook](https://www.facebook.com/hostosbot) and also [Tumblr](http://hostosbot.tumblr.com/).
 
 You can read more about the project in Spanish on the associated [Tumblr account](http://hostosbot.tumblr.com/proyecto).
-
