@@ -16,6 +16,8 @@ Nav: hidden
 <div class="note">
   <p>
     <a class="btn" href="/tutorials/how-to-make-a-twitter-bot-definitive-guide">The Definitive Guide</a>
+    <a class="btn" href="https://glitch.com/botwiki">Botwiki on Glitch 🎏</a>
+    <a class="btn" href="https://botmakers.org">Join Botmakers</a>
   </p>
 </div>
 
