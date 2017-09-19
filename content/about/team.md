@@ -9,7 +9,7 @@ Nav: hidden
 
 ### Contact us [¶](#contact){.pilcrow} {#contact}
 
-If you'd like to get in touch, feel free to 
+If you'd like to get in touch, feel free to: 
 
 - [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)
 - reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg)
