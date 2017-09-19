@@ -12,9 +12,8 @@ Nav: hidden
 If you'd like to get in touch, feel free to 
 
 - [send us an email](mailto:stefan@botwiki.org?cc=v@veronicabelmont.com)
-- reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg) (our DMs are open)
-
-
+- reach out to [@botwikidotorg on Twitter](https://twitter.com/botwikidotorg)
+- [fill out one of our surveys](/about/surveys/)
 
 ### Stefan [¶](#stefan){.pilcrow} {#stefan}
 
@@ -52,7 +51,7 @@ I'm also an admin at [botmakers.org](https://botmakers.org/), maintain the [Bot!
 
 [![Angelina](/content/about/images/angelina.jpg){.photo .team-member .float-right}](https://twitter.com/oxangiemarie)
 
-**Event organizer**
+**Botmakers community manager, Chief event organizer**
 
 
 Hi, I'm Angelina! I'm an NYC based web developer with an interest in digital storytelling and building inclusive communities (mainly to hear more people's stories!). I love connecting with people IRL, which is why I'm helping to organize our monthly meet ups here in the city. Interested in giving a talk, or just want to chat about bots? Find me [@oxangiemarie](https://twitter.com/), or as [@ambethoney](https://botmakers.slack.com/messages/@stefan/details/) in our Slack group!
