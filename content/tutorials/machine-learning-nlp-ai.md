@@ -23,6 +23,7 @@ Nav: hidden
 - [General tutorials](#general)
 - [With Julia](#with-julia)
 - [TensorFlow](#tensorflow)
+- [PyTorch](#pytorch)
 - [WaveNet](#wavenet)
 
 See also [Machine learning and AI libraries and frameworks on the Resources page](/resources/libraries-frameworks#machine-learning-ai).
@@ -118,6 +119,11 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 #### See also
 
 - [TensorFlow World](https://github.com/astorfi/TensorFlow-World): Simple and ready-to-use tutorials for TensorFlow (github.com)
+
+### [PyTorch](http://pytorch.org/) [¶](#pytorch){.pilcrow} {#pytorch}
+
+- [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch
+- [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb): explanation of two crucial linear algebra operations used when coding neural networks: matrix multiplication and broadcasting
 
 ### [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) [¶](#wavenet){.pilcrow} {#wavenet}
 
