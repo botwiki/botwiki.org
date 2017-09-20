@@ -143,6 +143,8 @@ Can't wait to see you there!
 
 Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://cheapbotsdonequick.com/), which uses it. For example bots, see the [#tracery](/tag/tracery) tag.
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai) (github.com)
   - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md) (github.com)
   - [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md) (github.com)
@@ -153,6 +155,15 @@ Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://c
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767) (barrl.net)
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/) (porganized.com)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b) (Species.agency via medium.com)
+- [Create a generative Twitter bot using Tracery](https://glitch.com/~tracery-twitter-bot) ([Byron Hulcher](http://twitter.com/hypirlink) via glitch.com)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad" centered-text markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/personaIitea.png)](/bots/twitterbots/personaIitea){.screenshot}
+  </div>
+</div>
+
+
+
 
 ##### Tools and other resources [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
 
