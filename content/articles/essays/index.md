@@ -39,6 +39,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 >
 > [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [What is a bot? (Botmakers answer)](/what-is-a-bot) 
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (harrygiles.org)
@@ -50,6 +52,11 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Bots: a cultural tour](http://mewo2.com/cultural-bots/) (mewo2.com, press S for speaker notes)
 - [The Quartz guide to artificial intelligence: What is it, why is it important, and should we be afraid?](https://qz.com/1046350/the-quartz-guide-to-artificial-intelligence-what-is-it-why-is-it-important-and-should-we-be-afraid/) (qz.com)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice, but I have some bad news about using this to defend against the robots... <a href="https://t.co/A1P5WO6jMU">https://t.co/A1P5WO6jMU</a></p>&mdash; Garry Kasparov (@Kasparov63) <a href="https://twitter.com/Kasparov63/status/905179347560124416">September 5, 2017</a></blockquote>
+  </div>
+</div>
 
 ### Automated art [¶](#automated-art){.pilcrow} {#automated-art}
 
