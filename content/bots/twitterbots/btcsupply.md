@@ -2,7 +2,7 @@
 Title: @btcsupply 
 Description: Bitcoin supply.
 Thumbnail: /content/bots/twitterbots/images/btcsupply.png
-Link: www.twitter.com/btcsupply 
+Link: https://www.twitter.com/btcsupply 
 Source: www.github.com/stabla/btcsupply_bot 
 Author: botsheeter.py
 Date: September 20, 2017
