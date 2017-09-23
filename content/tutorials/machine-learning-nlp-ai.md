@@ -84,6 +84,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Deep Learning Made Simple](https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/) (blog.vivekpanyam.com)
 - [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Google Design via medium.com)
 - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning): a curated list of awesome adversarial machine learning resources (github.com)
+- [Coding the History of Deep Learning](http://blog.floydhub.com/coding-the-history-of-deep-learning/) (blog.floydhub.com)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
