@@ -48,6 +48,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Deep Learning: Free Course by Google](https://www.udacity.com/course/deep-learning--ud730) (udacity.com)
 - [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working) (theorangeduck.com)
+- [Generative Machine Learning on the Cloud](https://medium.com/artists-and-machine-intelligence/generative-machine-learning-on-the-cloud-1ccdfeb33ea2) (Artists and Machine Intelligence via medium.com)
 - [Deep Learning - The Straight Dope](https://github.com/zackchase/mxnet-the-straight-dope) (Zack Chase Lipton via github.com)
 - [Nature of Code: "Intelligence and Learning" (Spring 2017)](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning) (Daniel Shiffman via github.com)
 - [Machine Learning: An In-Depth, Non-Technical Guide](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
@@ -82,6 +83,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837) (Rasmus Rothe via medium.com)
 - [Deep Learning Made Simple](https://blog.vivekpanyam.com/deep-learning-made-simple-part-1/) (blog.vivekpanyam.com)
 - [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Google Design via medium.com)
+- [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning): a curated list of awesome adversarial machine learning resources (github.com)
 
 ### General tutorials [¶](#general){.pilcrow} {#general}
 

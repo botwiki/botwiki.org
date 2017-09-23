@@ -73,6 +73,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [A Long History of Generated Poetics: cutups from Dickinson to Melitzah](https://medium.com/@katierosepipkin/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233) (Katie Rose Pipkin via medium.com)
 - [Who are the Audiences of Computer-Generated Novels?](https://dev.to/tra/who-are-the-audiences-of-computer-generated-novels) (dev.to)
 - [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/) (secretcave.co)
+- [Internet Archaeology](https://medium.com/artists-and-machine-intelligence/internet-archaeology-210d78311145) (Artists and Machine Intelligence 
+ via medium.com)
 - [Computer Generated Poetry Will Knock Your Socks Off](https://medium.com/@Yisela/computer-generated-poetry-will-knock-your-socks-off-763c815a1b52) (Yisela Alvarez Trentini via medium.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
 - [Shape grammars: procedural generation techniques for virtual cities](https://cis700-procedural-graphics.github.io/files/shape_grammar_2_7_17.pdf) (PDF, cis700-procedural-graphics.github.io)
