@@ -73,6 +73,7 @@ You can also retrieve various data [via web APIs](/resources/apis/).
   - [Related paper](https://arxiv.org/pdf/1704.05579.pdf) (PDF, arxiv.org)
 - [some word lists for bot-making](http://barrl.net/2882) by [Nora Reed](http://www.twitter.com/NoraReed) (barrl.net)
 - [Wordbanks Word Lists](http://www.enchantedlearning.com/wordlist/) (enchantedlearning.com)
+- [Third Eye Data: TV News Archive chyrons](https://archive.org/details/third-eye) (archive.org)
 
 ### Geographical/location data, space [¶](#datasets-geo-space){.pilcrow} {#datasets-geo-space}
 - [Climate datasets](https://github.com/climate-mirror/datasets)

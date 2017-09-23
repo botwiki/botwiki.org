@@ -171,6 +171,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [How can we stop algorithms telling lies?](https://www.theguardian.com/technology/2017/jul/16/how-can-we-stop-algorithms-telling-lies) (theguardian.com)
 - [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
 - [The Tech Take: The genderless face of accounting bots](https://www.accountingtoday.com/opinion/the-tech-take-the-genderless-face-of-accounting-bots) (accountingtoday.com)
+- [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>

@@ -32,6 +32,7 @@ Nav: hidden
 - [Chronicling America](http://chroniclingamerica.loc.gov/about/api/): historic newspapers and select digitized newspaper pages
 - [RhymeBrain.com: Rhyming and Word Information API](http://rhymebrain.com/api.html)
 - [Perspective](https://www.perspectiveapi.com/): "API that makes it easier to host better conversations", requires access request
+- [Third Eye Data: TV News Archive chyrons](https://archive.org/details/third-eye) (archive.org)
 
 ### Face and object recognition [¶](#face-and-object-recognition){.pilcrow} {#face-and-object-recognition}
 - [OpenFace API](http://openfaceapi.com/)
