@@ -53,6 +53,7 @@ Nav: hidden
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): an open source software library for numerical computation using data flow graphs, by Google; see also [models](https://github.com/tensorflow/models) and [other related resources](https://github.com/tensorflow)
 - [tensorflow/models](https://github.com/tensorflow/models): models built with TensorFlow
 - [tensorflow/agents](https://github.com/tensorflow/agents): a library of reinforcement learning tools
+- [Magenta](https://github.com/tensorflow/magenta): Make music and art using machine learning (magenta.tensorflow.org)
 - [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard): Visualizing Learning (tensorflow.org)
 - [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections): collection of generative models in Tensorflow
 - [deepmind/sonnet](https://github.com/deepmind/sonnet): TensorFlow-based neural network library
@@ -86,6 +87,7 @@ See also the [general libraries and frameworks page](/resources/libraries-framew
 ### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
 
 - [A.I. Experiments](https://aiexperiments.withgoogle.com): Explore machine learning by playing with pictures, language, music, code, and more. (aiexperiments.withgoogle.com)
+- [Magenta](https://magenta.tensorflow.org/): Make music and art using machine learning (magenta.tensorflow.org)
 - [AIY Projects](https://aiyprojects.withgoogle.com): Do-it-yourself artificial intelligence (aiyprojects.withgoogle.com)
 - [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
 - [Image-to-Image Demo](https://affinelayer.com/pixsrv/index.html): Interactive Image Translation with `pix2pix-tensorflow`

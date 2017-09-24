@@ -39,6 +39,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 >
 > [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [What is a bot? (Botmakers answer)](/what-is-a-bot) 
 - [How to Think About Bots](http://motherboard.vice.com/read/how-to-think-about-bots) (motherboard.vice.com)
 - [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/) (harrygiles.org)
@@ -50,6 +52,11 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Bots: a cultural tour](http://mewo2.com/cultural-bots/) (mewo2.com, press S for speaker notes)
 - [The Quartz guide to artificial intelligence: What is it, why is it important, and should we be afraid?](https://qz.com/1046350/the-quartz-guide-to-artificial-intelligence-what-is-it-why-is-it-important-and-should-we-be-afraid/) (qz.com)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice, but I have some bad news about using this to defend against the robots... <a href="https://t.co/A1P5WO6jMU">https://t.co/A1P5WO6jMU</a></p>&mdash; Garry Kasparov (@Kasparov63) <a href="https://twitter.com/Kasparov63/status/905179347560124416">September 5, 2017</a></blockquote>
+  </div>
+</div>
 
 ### Automated art [¶](#automated-art){.pilcrow} {#automated-art}
 
@@ -66,6 +73,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [A Long History of Generated Poetics: cutups from Dickinson to Melitzah](https://medium.com/@katierosepipkin/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233) (Katie Rose Pipkin via medium.com)
 - [Who are the Audiences of Computer-Generated Novels?](https://dev.to/tra/who-are-the-audiences-of-computer-generated-novels) (dev.to)
 - [Neural Network Art: From AI Nightmares to Alien Volcanoes](http://secretcave.co/neural-network-art/) (secretcave.co)
+- [Internet Archaeology](https://medium.com/artists-and-machine-intelligence/internet-archaeology-210d78311145) (Artists and Machine Intelligence 
+ via medium.com)
 - [Computer Generated Poetry Will Knock Your Socks Off](https://medium.com/@Yisela/computer-generated-poetry-will-knock-your-socks-off-763c815a1b52) (Yisela Alvarez Trentini via medium.com)
 - [So you want to build a generator...](http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator) (galaxykate0.tumblr.com)
 - [Shape grammars: procedural generation techniques for virtual cities](https://cis700-procedural-graphics.github.io/files/shape_grammar_2_7_17.pdf) (PDF, cis700-procedural-graphics.github.io)
@@ -164,6 +173,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [How can we stop algorithms telling lies?](https://www.theguardian.com/technology/2017/jul/16/how-can-we-stop-algorithms-telling-lies) (theguardian.com)
 - [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
 - [The Tech Take: The genderless face of accounting bots](https://www.accountingtoday.com/opinion/the-tech-take-the-genderless-face-of-accounting-bots) (accountingtoday.com)
+- [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>

@@ -76,6 +76,9 @@ See also:
 
 - [Building a Slackbot with Ruby and Sinatra](http://www.sitepoint.com/building-a-slackbot-with-ruby-and-sinatra/)
 
+#### Other [¶](#beginner-other){.pilcrow} {#beginner-other}
+
+- [How to build your own custom Slack app (for non-coders)](https://slackhq.com/how-to-build-your-own-custom-slack-app-for-non-coders-97d1ea85615f) (slackhq.com)
 
 ### Intermediate tutorials [¶](#intermediate-tutorials){.pilcrow} {#intermediate-tutorials}
 

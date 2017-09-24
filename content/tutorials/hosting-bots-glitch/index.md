@@ -40,7 +40,7 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 - [Basic Glitch Twitter bot template](https://glitch.com/edit/#!/twitterbot) 
 - [A Twitter bot that posts random images of your choice](https://glitch.com/edit/#!/random-image-twitterbot) 
 - [A Twitter bot that generates random images](https://glitch.com/edit/#!/random-image-generator-twitterbot) 
-- [Twitter-autorespond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) 
+- [Twitter auto-respond bot template](https://glitch.com/edit/#!/twitterbot-autorespond) 
 - [A Twitter bot that responds to something its followers said](https://glitch.com/edit/#!/twitterbot-follower-autoreply) 
 - [A Twitter bot that uses the Twitter Webhooks API (beta)](https://glitch.com/edit/#!/twitterbot-webhooks) 
 - [A Twitter bot that generates random tweets using Tracery](https://glitch.com/edit/#!/tracery-twitter-bot) 

@@ -16,6 +16,8 @@ Nav: hidden
 <div class="note">
   <p>
     <a class="btn" href="/tutorials/how-to-make-a-twitter-bot-definitive-guide">The Definitive Guide</a>
+    <a class="btn" href="https://glitch.com/botwiki">Botwiki on Glitch 🎏</a>
+    <a class="btn" href="https://botmakers.org">Join Botmakers</a>
   </p>
 </div>
 
@@ -141,22 +143,34 @@ Can't wait to see you there!
 
 Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://cheapbotsdonequick.com/), which uses it. For example bots, see the [#tracery](/tag/tracery) tag.
 
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 - [Making twitter bots using Cheap Bots, Done Quick!](https://github.com/derekahmedzai/cheapbotsdonequick): tutorials by [Derek Ahmedzai](https://twitter.com/derekahmedzai) (github.com)
   - [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md) (github.com)
   - [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md) (github.com)
 - [Tracery tutorial by the Tracery creator](http://www.crystalcodepalace.com/traceryTut.html) (crystalcodepalace.com)
 - [An Introduction to Twitterbots with Tracery](https://programminghistorian.github.io/ph-submissions/lessons/intro-to-twitterbots) (programminghistorian.github.io)
-- [Tracery & Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/): tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (cmuems.com)
+- [Tracery &amp; Twitterbots](http://cmuems.com/2015b/tracery-twitterbots/): tutorial with [Cheap Bots Done Quick](http://cheapbotsdonequick.com/) and [Tracery](http://www.brightspiral.com/) (cmuems.com)
 - [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots) (Code Kitchen via github.com)
 - [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767) (barrl.net)
 - [Your First Twitter Bot, in 20 minutes](https://porganized.com/2015/10/27/your-first-twitter-bot-in-20-minutes/) (porganized.com)
 - [Design an Ideation Twitter Bot](https://medium.com/@Species.agency/design-an-ideation-twitter-bot-58fe73c3510b) (Species.agency via medium.com)
+- [Create a generative Twitter bot using Tracery](https://glitch.com/~tracery-twitter-bot) ([Byron Hulcher](http://twitter.com/hypirlink) via glitch.com)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad" centered-text markdown=1>
+[![Automated emoji polls](/content/bots/twitterbots/images/personaIitea.png)](/bots/twitterbots/personaIitea){.screenshot}
+  </div>
+</div>
+
+
+
 
 ##### Tools and other resources [¶](#tracery-cbdq){.pilcrow} {#tracery-cbdq}
 
 - [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
 - [Visual Tracery editor](http://www.brightspiral.com/tracery/)
 - [Tracery starter project on Glitch](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
+- [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements): Tracery grammars for building creative Twitterbots (github.com)
 
 ##### See also [¶](#tracery-cbdq-more){.pilcrow} {#tracery-cbdq-more}
 

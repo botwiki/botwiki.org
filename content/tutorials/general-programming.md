@@ -13,9 +13,6 @@ Nav: hidden
 </div>
 
 
-
-
-
 <div class="row">
   <div class="col-sm-12 col-md-6 no-pad" markdown="1">
 ### Page content [¶](#page-content){.pilcrow} {#page-content}
@@ -65,6 +62,7 @@ Nav: hidden
 - [Glitchet: Art Resources](http://www.glitchet.com/resources) (glitchet.com)
 - [Opensource image bots on Botwiki](/tag/bot+opensource+images)
 - [Procjam Tutorials](http://www.procjam.com/resources/) (procjam.com)
+- [/r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) (reddit.com)
 
 <!-- TODO: Some image bots are missing "generative" tag.
 - [Opensource image-generating bots on Botwiki](/tag/bot+opensource+images+generative)

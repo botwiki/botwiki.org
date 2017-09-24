@@ -18,11 +18,11 @@ Show donation link: yes
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 Some examples of such bots include:
 
-- [a bot that posts holidays around the world](bots/twitterbots/holidaybot4000)
-- [a bot that posts emoji polls every hour](bots/twitterbots/emoji__polls)
-- [a reminder bot](bots/twitterbots/mnemosynetron)
-- [a bot that opens the door for you](bots/slackbots/doorbell-server)
-- [a bot that tweets every time your dog barks](bots/twitterbots/OliverBarkBark)
+- [a bot that posts emoji polls every hour](/bots/twitterbots/emoji__polls)
+- [a bot that generates pictures of socks](/bots/twitterbots/soqbot/)
+- [a reminder bot](/bots/twitterbots/mnemosynetron)
+- [a bot that opens the door for you](/bots/slackbots/doorbell-server)
+- [a bot that tweets every time your dog barks](/bots/twitterbots/OliverBarkBark)
   </div>
 </div>
 
@@ -51,3 +51,4 @@ Some examples of such bots include:
 <a class="btn" href="/bots">Explore bots</a>
 <a class="btn" href="/tutorials">Make a bot</a>
 <a class="btn" href="https://botwiki.org/submit-your-bot">Submit your bot</a>
+<a class="btn" href="/botmaker-badges/">Apply for a badge</a>
