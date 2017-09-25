@@ -24,4 +24,4 @@ This document is an addition to the existing [Code of Conduct](/coc/) which alre
 - The Botwiki/Botmakers [Code Of Conduct](/coc/) applies to everyone, including bots and moderators
 - **@everyone**/**@channel**/**@here** should be only used for critical announcements
 - Members of Botmakers should be encouraged to share their thoughts on feedback either through **@botwikibot** or [one of our surveys](/about/surveys) which allow anonymous feedback
-
+- When inviting people to Botmakers, always share the URL as [botmakers.org](https://botmakers.org/). There is no way to sign up on [bookmakers.slack.com](https://bookmakers.slack.com), only to sign in if you're already a member.
