@@ -6,7 +6,7 @@ Link: https://twitter.com/headsandwings
 Source: http://cheapbotsdonequick.com/source/headsandwings
 Author: botsheeter.py
 Date: August 14, 2016
-Tags: twitter,twitterbot,bot,active,music,emoji,tinyworlds,tracery,open source,opensource,art,tracery,filmplane
+Tags: twitter,twitterbot,bot,active,music,emoji,tracery,open source,opensource,art,tracery,filmplane
 Nav: hidden
 Robots: index,follow
 */
