@@ -1,6 +1,9 @@
 /*
 Title: @facho_bot
 Description: A racist bot that responds to press articles with slur
+Thumbnail: /content/bots/twitterbots/images/facho_bot.png
+Link: https://twitter.com/facho_bot
+Source: https://github.com/maeligg/facho-bot
 Author: Maël Brunet
 Date: September 29, 2017
 Tags: twitter,bot,twitterbot,active,node.js,nodejs,javascript,open source,opensource,political,funny,french,non-english

@@ -1,6 +1,8 @@
 /*
 Title: @patchslitt
 Description: A bot that improves litterature classics with video game patch notes
+Thumbnail: /content/bots/twitterbots/images/patchslitt.png
+Link: https://twitter.com/patchslitt
 Author: Maël Brunet
 Date: September 29, 2017
 Tags: twitter,bot,twitterbot,active,cheapbotsdonequick,funny,french,non-english
