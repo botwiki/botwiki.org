@@ -82,7 +82,8 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 #### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
 
 - [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) 
-- [Microsoft Teams](https://glitch.com/~botkit-teams) 
+- [Microsoft Teams](https://glitch.com/~botkit-teams)
+- [Discord bot example](https://glitch.com/edit/#!/discord-bot-example)
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).
 

@@ -15,3 +15,4 @@ Do you know about an interesting book a botmaker or a bot enthusiast would enjoy
 **For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.**
 
 - [Twitter Bot Encyclopedia](http://leeeeza.com/twitter-bot-encyclopedia.html) by [Elizaveta Pritychenko](http://leeeeza.com/) (read the full book at [archive.org](https://archive.org/stream/twitter_bot_encyclopedia_with_cover#page/n0/mode/2up))
+- [Poetic Computation: Reader](http://poeticcomputation.info) (poeticcomputation.info)

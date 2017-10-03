@@ -21,5 +21,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 #### node.js/JavaScript [¶](#nodejs-js){.pilcrow} {#nodejs-js}
 - [caffeinery/coffea](https://github.com/caffeinery/coffea)
 
+#### Python [¶](#python){.pilcrow} {#python}
+- [archangelic/pinhook](https://github.com/archangelic/pinhook)
 
 [Back to all resources.](/resources)

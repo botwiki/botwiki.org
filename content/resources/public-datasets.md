@@ -108,5 +108,6 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 - [CREST (CIA Records Search Tool)](https://www.cia.gov/library/readingroom/collection/crest-25-year-program-archive): Declassified CIA documents
 - [Uber Movement](https://movement.uber.com/cities): anonymized data from over 2 billion trips to help improve urban planning around the world (requires to request access) (movement.uber.com)
 - [DVS128 Gesture Dataset](http://www.research.ibm.com/dvsgesture/) (research.ibm.com)
+- [Public list of .gov domains](https://home.dotgov.gov/data/) (home.dotgov.gov)
 
 [Back to all resources.](/resources)

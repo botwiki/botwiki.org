@@ -69,7 +69,7 @@ This is a suplementary page to the [general **Resources** section](/resources). 
 - [StrongLoop-Evangelists/openwhisk-twitterbot-template](https://github.com/StrongLoop-Evangelists/openwhisk-twitterbot-template): a blank template to use to make simple text-driven Twitterbots with [OpenWhisk](http://openwhisk.org/)
 - [Literal Twitter Bot Kit](https://www.adafruit.com/product/3281) (adafruit.com)
 
-For more frameworks and libraries built for the Twitter platform, check out [Twitter Libraries](https://dev.twitter.com/resources/twitter-libraries) at dev.twitter.com.
+For more frameworks and libraries built for the Twitter platform, check out [Twitter Libraries](https://developer.twitter.com/en/docs/developer-utilities/twitter-libraries) at [developer.twitter.com](https://developer.twitter.com/).
 
 ### Language [¶](#language){.pilcrow} {#language}
 
