@@ -88,7 +88,7 @@ Can't wait to see you there!
  - Part 3: [Deployment](https://ursooperduper.github.io/2014/11/03/twitter-bot-with-node-js-part-3.html)
 - [Smarter &amp; Cuter Bots](https://www.youtube.com/watch?v=oLYcx8C6I18): a video tutorial using [GraphicsMagick](http://www.graphicsmagick.org/) and Microsoft's Cognitive Services (Rachel White via youtube.com)
   - [Slides](https://docs.google.com/presentation/d/1N_28LFIzHjrNF6mE5yBGUBXkNH6n1mKqMcmDu9veuYk/edit#slide=id.p4) (docs.google.com)
-
+- [Build a Twitter Bot with the Twitter API]() (@kathleencodes via Google Drive, PDF)
 
 <!--
 - [Why you should have your own Twitter bot, and how to build one in less than 30 minutes](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f) (medium.freecodecamp.com) (uses Cloud9 and Heroku)
