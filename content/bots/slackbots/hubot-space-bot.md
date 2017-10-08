@@ -1,6 +1,6 @@
 /*
 Title: hubot-space-bot
-Description: A simple hubot script that gives you random quotes and trivia about space movies
+Description: A simple Hubot script that gives you random quotes and trivia about space movies.
 Thumbnail: /content/bots/slackbots/images/hubot-space-bot.png
 Link: https://www.npmjs.com/package/hubot-space-bot
 Source: https://github.com/pierredup/space-bot

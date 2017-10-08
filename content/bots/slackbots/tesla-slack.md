@@ -1,6 +1,6 @@
 /*
 Title: tesla-slack
-Description: Integrates Tesla Model S REST API to Slack
+Description: Integrates Tesla Model S REST API to Slack.
 Thumbnail: /content/bots/slackbots/images/tesla-slack.png
 Link: https://github.com/heikkipora/tesla-slack
 Source: https://github.com/heikkipora/tesla-slack

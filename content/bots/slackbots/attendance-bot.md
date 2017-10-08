@@ -1,6 +1,6 @@
 /*
 Title: Attendance Bot
-Description: Super simple attendance and leave tracking on Slack
+Description: Super simple attendance and leave tracking on Slack.
 Thumbnail: /content/bots/slackbots/images/attendance-bot.png
 Link: http://www.attendancebot.com
 Author: botsheeter.py

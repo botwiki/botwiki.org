@@ -1,6 +1,6 @@
 /*
 Title: must-read
-Description: Build controllable must-read lists for your team.  No more scrolling channels.
+Description: Build controllable must-read lists for your team. No more scrolling channels.
 Link: http://finalem.com/must-read
 Author: botsheeter.py
 Date: June 11, 2016
