@@ -26,7 +26,7 @@ See also [contributors on GitHub](https://github.com/botwiki/botwiki.org/graphs/
 - [@tinyruin](http://twitter.com/tinyruin) ([personal website](http://tinyworlds.org/?ref=botwiki))
 - [cosmophagy](http://cosmophagy.tumblr.com/?ref=botwiki)
 - [revdancatt](http://revdancatt.com/?ref=botwiki)
-
+- [@BrettWitty](https://twitter.com/BrettWitty)
 
 ## Corporations & organizations [¶](#corporate-sponsors){.pilcrow} {#corporate-sponsors}
 
