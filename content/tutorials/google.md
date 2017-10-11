@@ -45,6 +45,7 @@ Nav: hidden
 - [Actions on Google](https://developers.google.com/actions/) (developers.google.com)
 - [Getting started](https://developers.google.com/actions/develop/apiai/tutorials/getting-started) (developers.google.com)
 - [Web simulator](https://developers.google.com/actions/tools/web-simulator): test your actions and get access to debug information and voice customization (developers.google.com)
+- [Templates](https://developers.google.com/actions/templates/first-app)
 
 See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for updates.
 

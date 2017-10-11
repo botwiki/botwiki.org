@@ -12,6 +12,5 @@ Nav: hidden
 Robots: index,follow
 */
 
-[![](/content/bots/twitterbots/images/JSLibGenerator.png)](https://twitter.com/JSLibGenerator)
 
 [@JSLibGenerator](https://twitter.com/JSLibGenerator) is a Twitter bot that comes up with imaginary JavaScript libraries, using the [Wordnik API](http://developer.wordnik.com/). It was created by [@maelb](https://twitter.com/MaelB).

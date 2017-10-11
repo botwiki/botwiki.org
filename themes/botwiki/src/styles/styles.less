@@ -109,6 +109,13 @@ button{
 a.btn{
   border: 1px solid rgba(0, 0, 0, 0.5);
   padding: 8px 10px;
+
+  @media (max-width: @site-width-small){
+    padding: 12px 15px;
+    line-height: 3.8em !important;
+  }
+
+
   color: @main-color !important;
   border-radius: 5px;
   background-color: #fafafa;
@@ -446,8 +453,29 @@ footer{
   margin: 0 auto;
 }
 
-.centered-text{
+.centered-text,
+.text-centered{
   text-align: center;
+}
+
+.text-right{
+  text-align: right;
+  .screenshot img{
+    display: inline;
+  }
+}
+
+.text-left{
+  text-align: left;
+  .screenshot img{
+    display: inline;
+  }
+}
+
+.project-feature{
+  .screenshot img{
+    max-width: 100%;
+  }
 }
 
 img.centered{
@@ -1027,6 +1055,7 @@ table{
   }
 
   &.event-table{
+    margin: 10px;
     td{
       &.event-time{
         min-width: 5em;
@@ -1062,6 +1091,10 @@ table{
 /*---------------------------------------------*/
 .no-pad{
   padding: 0 !important;
+}
+
+.no-mg{
+  margin: 0 !important;
 }
 
 div.search-instructions,
@@ -1126,6 +1159,9 @@ div.donations-top-fix{
     .note.donations{
       margin-top: auto;
     }
+  }
+  .note.donations{
+    padding-top: 3em;
   }
 }
 
@@ -1605,4 +1641,8 @@ div.row{
 
 .w-100{
   max-width: 100% !important;
+}
+
+div#adBlock{
+  display: none !important;
 }
