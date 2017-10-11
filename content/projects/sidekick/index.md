@@ -3,7 +3,7 @@ Title: Sidekick
 Thumbnail: /content/projects/sidekick/images/reaction-retweet.png
 Tags: about,botwiki,projects,sidekick,botwikibot
 Show donation link: yes
-Description: See what we are working on.
+Description: A sidekick for our Slack group.
 */
 
 **Sidekick makes managing your Slack group easier.**
