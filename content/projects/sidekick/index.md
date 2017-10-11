@@ -117,7 +117,7 @@ Keep your group nice and organized and move messages to more appropriate channel
   <div class="col-sm-12 col-md-5 no-pad" markdown="1">
 #### And more... [¶](#more-features){.pilcrow} {#more-features}
 
-Sidekick also lets you send private notifications, shows automatic contextual reminders, and you can use it to set up polls.
+Sidekick also lets you send private notifications and shows automatic contextual reminders.
 
 Sidekick is under active development and everyone is welcome 
  to help add new features [in our Botmakers Slack group](https://botmakers.org/) 😊
