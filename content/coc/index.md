@@ -38,9 +38,13 @@ We understand that creating truly welcoming and safe spaces can be challenging, 
 This Code of Conduct applies equally to all members and contributors of [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/), and in **all online and offline spaces** (examples include, but are not limited to, private and public communication in the [Botmakers](https://botmakers.org/) Slack group, emails, pull requests on GitHub, Twitter DMs between members, in-person contact, etc).
 
 
-If you have any concerns, please contact the administrators via DM (currently [@stefan](https://botmakers.slack.com/messages/@stefan/details/)).
+If you have any concerns, please contact the group administrators using the `/sidekick` command and clicking the Contact Moderators button.
 
-The admins reserve the right to exclude people from the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities based on their past behavior, including behavior outside the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities spaces and behavior towards people who are not in the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities.
+[![Use the Sidekick app to contact group's moderators](/content/coc/images/sidekick-contact-moderators.png)](/content/coc/images/sidekick-contact-moderators.png){.screenshot-large .centered}
+
+
+
+The group administrators reserve the right to exclude people from the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities based on their past behavior, including behavior outside the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities spaces and behavior towards people who are not in the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of members of the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities or the general public. We will not name harassment victims without their affirmative consent.
 
