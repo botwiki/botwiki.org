@@ -4,7 +4,7 @@ Description: Let's edit Botwiki. Together!
 Link: http://www.meetup.com/botmakers/events/228956424/
 Date: March 21, 2016
 Thumbnail: /content/events/official-events/botwiki-edit-a-thon-march-21-2016/photos/botwiki-edit-a-thon.jpg
-Tags: event,archived
+Tags: event,official,archived
 */
 
 
