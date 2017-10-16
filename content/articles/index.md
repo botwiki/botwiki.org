@@ -18,6 +18,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Essays](/articles/essays): what is a bot, and can it make art?
 - [Selected articles](/articles/selected-articles): all the bot news that's fit to print
 - [Books and other literature](/articles/books): bot book club
+- [Games](/articles/games): AI-themed games
 - [Audio, video, slides](/articles/audio-video-slides): talks and presentations
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
