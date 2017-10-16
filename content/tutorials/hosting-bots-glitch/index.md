@@ -81,6 +81,7 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 
 #### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
 
+- [Tracery Mastodon Bot](https://glitch.com/~tracery-mastodon-bot)
 - [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) 
 - [Microsoft Teams](https://glitch.com/~botkit-teams)
 - [Discord bot example](https://glitch.com/edit/#!/discord-bot-example)

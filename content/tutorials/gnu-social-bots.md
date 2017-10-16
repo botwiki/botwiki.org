@@ -31,6 +31,7 @@ GNU social implementations include [Mastodon](https://mastodon.social/) and [bot
 
 - [GitHub repo](https://github.com/tootsuite/mastodon/)
 - [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
+- [Tracery Mastodon Bot](https://glitch.com/~tracery-mastodon-bot) (glitch.com)
 
 
 ### botsin.space [¶](#botsinspace){.pilcrow} {#botsinspace}
