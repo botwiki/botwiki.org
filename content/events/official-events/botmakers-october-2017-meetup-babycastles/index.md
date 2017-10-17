@@ -1,6 +1,6 @@
 /*
 Title: Botmakers October 2017 Meetup @ Babycastles
-Description: Let's edit Botwiki. Together!
+Description: Visual recognition, AI, video bots, weather cats, and botmaking with Glitch!
 Link: http://www.meetup.com/botmakers/events/228956424/
 Date: October 11, 2017
 Thumbnail: /content/events/official-events/botmakers-october-2017-meetup-babycastles/images/meetup.png
