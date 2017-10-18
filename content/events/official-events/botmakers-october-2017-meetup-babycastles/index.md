@@ -39,6 +39,8 @@ Tags: event,official,archived,video
   </div>
 </div>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I took some splotchy notes at the NYC Botmakers meetup last week and put them in a gist if anyone&#39;s interested.  <a href="https://t.co/4wwD37uYfK">https://t.co/4wwD37uYfK</a></p>&mdash; Abe Hmiel (@_1134) <a href="https://twitter.com/_1134/status/920748795486527489?ref_src=twsrc%5Etfw">October 18, 2017</a></blockquote>
+
 <!--
 ***See also: [photos from the event](http://www.meetup.com/botmakers/photos/all_photos/?photoAlbumId=26846392).***
 -->
