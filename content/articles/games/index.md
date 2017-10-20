@@ -17,6 +17,7 @@ Do you know about interesting games, including web-based games, that explore the
 - [Paperclips](http://www.decisionproblem.com/paperclips/): 
   - [This addictive free paperclip game is also a terrifying lesson in how artificial intelligence will make us unnecessary](http://www.sfgate.com/technology/businessinsider/article/This-addictive-free-paperclip-game-is-also-a-12268176.php) (sfgate.com)
 - [You’re A Computer. Can You Pass The Turing Test?](http://www.clickhole.com/clickventure/youre-computer-can-you-pass-turing-test-4009#32,) (clickhole.com)
-
+- [\_transfer](https://abyssaluncreations.itch.io/-transfer) (abyssaluncreations.itch.io)
+  - [A Game Where You Play As An AI With Amnesia](https://kotaku.com/a-game-where-you-play-as-an-ai-with-amnesia-1819650850) (kotaku.com)
 
 See also: [*Demos and interesting projects* on the *Machine learning* Resources page](/resources/machine-learning-nlp-ai/#demos-projects)

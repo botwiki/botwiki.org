@@ -31,6 +31,8 @@ Nav: hidden
 
 ### General tools [¶](#general-tools){.pilcrow} {#general-tools}
 
+- [How To Use the Machine Learning One-Click Install Image on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-machine-learning-one-click-install-image-on-digitalocean) (digitalocean.com)
+  - [Botwiki DigitalOcean referral link](https://www.digitalocean.com/?refcode=9e279abc3337)
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
   - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
 - [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)

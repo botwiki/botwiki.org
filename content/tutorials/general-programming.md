@@ -75,6 +75,7 @@ Nav: hidden
 
 #### General [¶](#creative-programming-general){.pilcrow} {#creative-programming-general}
 
+- [PROCJAM Tutorials](http://www.procjam.com/tutorials/) (procjam.com)
 - [Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU) (Kate Compton via youtube.com)
 - [Generating things with code](https://medium.com/@nicoptere/generating-things-with-code-ddbca45ceddc) (Nicolas Barradeau via medium.com)
 - [Computational Creativity - An Introduction](http://videolectures.net/iccc2014_wiggins_creativity_tutorial/) (videolectures.net)
@@ -117,6 +118,7 @@ Nav: hidden
 - [The whimsical world of emoji swearing](https://stronglang.wordpress.com/2017/03/14/the-whimsical-world-of-emoji-swearing/) (stronglang.wordpress.com)
 - [What is Gender and Why Does it Matter to Emoji?](http://blog.emojipedia.org/what-is-gender-and-why-does-it-matter-to-emoji/) (emojipedia.org)
 - [How Fortune Cookies Explain the Westernization of Emoji](https://www.theatlantic.com/technology/archive/2017/05/the-westernization-of-emoji/527616/) (theatlantic.com)
+- [Emoji for fun and profit (Webstock '17)](https://vimeo.com/209181367) (Cal Henderson via vimeo.com)
   </div>
   <div class="col-sm-12 col-md-6">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In honor of <a href="https://twitter.com/hashtag/WorldEmojiDay?src=hash">#WorldEmojiDay</a>, revisit where it all started—NTT DOCOMO’s original set of 176 emoji <a href="https://t.co/ocjHTwd0Ou">https://t.co/ocjHTwd0Ou</a> <a href="https://twitter.com/hashtag/MoMACollection?src=hash">#MoMACollection</a> <a href="https://t.co/4yr1lNPSMd">pic.twitter.com/4yr1lNPSMd</a></p>&mdash; Museum of Modern Art (@MuseumModernArt) <a href="https://twitter.com/MuseumModernArt/status/886953606972403712">July 17, 2017</a></blockquote>

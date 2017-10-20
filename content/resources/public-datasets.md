@@ -109,5 +109,6 @@ pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances
 - [Uber Movement](https://movement.uber.com/cities): anonymized data from over 2 billion trips to help improve urban planning around the world (requires to request access) (movement.uber.com)
 - [DVS128 Gesture Dataset](http://www.research.ibm.com/dvsgesture/) (research.ibm.com)
 - [Public list of .gov domains](https://home.dotgov.gov/data/) (home.dotgov.gov)
+- [20 Weird & Wonderful Datasets for Machine Learning](https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5) (Oliver Cameron via medium.com)
 
 [Back to all resources.](/resources)
