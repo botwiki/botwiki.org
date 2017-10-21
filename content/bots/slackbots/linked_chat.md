@@ -1,6 +1,6 @@
 /*
 Title: linked.chat
-Description: Live chat with your website visitors from Slack and Telegram
+Description: Live chat with your website visitors from Slack and Telegram.
 Thumbnail: /content/bots/slackbots/images/linked_chat.png
 Link: https://linked.chat
 Author: botsheeter.py

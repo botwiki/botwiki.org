@@ -65,6 +65,6 @@ A collection of community-built Slack integrations and plugins is at [api.slack.
   - [How we built Steno, your app testing sidekick](https://medium.com/slack-developer-blog/how-we-built-steno-your-app-testing-sidekick-74182da53ef5) (Slack Platform Blog via medium.com)
 - [slack-mock](https://github.com/Skellington-Closet/slack-mock): a Slack API mocker for Slack bot integration tests
 - [r/Slack](https://www.reddit.com/r/Slack/): a subreddit dedicated to all things Slack
-
+- [Typeform Form to Slack Dialog converter](https://flashy-plywood.glitch.me) (flashy-plywood.glitch.me)
 
 [Back to all resources.](/resources)

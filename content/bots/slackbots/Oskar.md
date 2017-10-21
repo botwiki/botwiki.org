@@ -1,6 +1,6 @@
 /*
 Title: Oskar
-Description: bot,slackbot that tracks how happy people are at work and helps remote teams to prevent isolation.
+Description: Slack bot that tracks how happy people are at work and helps remote teams to prevent isolation.
 Thumbnail: /content/bots/slackbots/images/Oskar.png
 Link: http://oskar.hanno.co/
 Source: https://github.com/wearehanno/oskar

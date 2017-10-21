@@ -47,7 +47,7 @@ All of our work is [open](https://github.com/botwiki/), and everyone is invited 
 
 ### Timeline [¶](#timeline){.pilcrow} {#timeline}
 
-Below is a timeline of major events in the history of the Botwiki project.
+Below is a timeline of major events in the history of the Botwiki project. See also [our blog posts](/tag/about+anniversary/) celebrating Botwiki anniversaries. 
 
 #### 2017 [¶](#2017){.pilcrow} {#2017}
 

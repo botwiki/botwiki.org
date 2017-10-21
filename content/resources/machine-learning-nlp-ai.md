@@ -31,6 +31,8 @@ Nav: hidden
 
 ### General tools [¶](#general-tools){.pilcrow} {#general-tools}
 
+- [How To Use the Machine Learning One-Click Install Image on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-machine-learning-one-click-install-image-on-digitalocean) (digitalocean.com)
+  - [Botwiki DigitalOcean referral link](https://www.digitalocean.com/?refcode=9e279abc3337)
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
   - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
 - [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
@@ -87,6 +89,7 @@ See also the [general libraries and frameworks page](/resources/libraries-framew
 ### Demos and interesting projects [¶](#demos-projects){.pilcrow} {#demos-projects}
 
 - [A.I. Experiments](https://aiexperiments.withgoogle.com): Explore machine learning by playing with pictures, language, music, code, and more. (aiexperiments.withgoogle.com)
+  - [Teachable Machine](https://teachablemachine.withgoogle.com) (teachablemachine.withgoogle.com)
 - [Magenta](https://magenta.tensorflow.org/): Make music and art using machine learning (magenta.tensorflow.org)
 - [AIY Projects](https://aiyprojects.withgoogle.com): Do-it-yourself artificial intelligence (aiyprojects.withgoogle.com)
 - [Deep Learning Gallery](http://deeplearninggallery.com/): a curated list of awesome deep learning projects (deeplearninggallery.com)
@@ -111,6 +114,7 @@ Resynthesis for Gaze Manipulation
 - [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
 - [MakeGirls.moe](http://make.girls.moe/#/): Create Anime Characters with A.I. (make.girls.moe)
   - [MakeGirls.moe Official Blog](https://makegirlsmoe.github.io/main/2017/08/14/news-english.html) (makegirlsmoe.github.io)
+
 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}

@@ -6,10 +6,7 @@ Unit tests for botsheeter.py
 from __future__ import print_function, unicode_literals
 from hypothesis import given
 from hypothesis.strategies import text
-try:
-    import unittest2 as unittest
-except ImportError:
-    import unittest
+import unittest
 
 import botsheeter
 

@@ -44,7 +44,7 @@ Nav: hidden
 
 - [Alexa](https://developer.amazon.com/alexa) (developer.amazon.com)
 - [Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit) (developer.amazon.com)
-
+- [Training for the Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training) (developer.amazon.com)
 
 See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for updates.
 
@@ -65,6 +65,7 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 >
 > -- [aws.amazon.com/lambda](https://aws.amazon.com/lambda/)
 
+- [Introduction to Alexa](https://www.codecademy.com/learn/learn-alexa) (codecademy.com)
 - [How to build an Alexa skill - Trivia skill tutorial](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/trivia-skill-1) (developer.amazon.com)
 - [How to build an Alexa skill - Fact skill tutorial](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/fact-skill-1) (developer.amazon.com)
 

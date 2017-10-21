@@ -1,6 +1,6 @@
 /*
 Title: Engazify Bot
-Description: A slack bot that makes it easy for teams to appreciate hard work and celebrate small wins using emojis. 
+Description: A Slack bot that makes it easy for teams to appreciate hard work and celebrate small wins using emojis. 
 Thumbnail: /content/bots/slackbots/images/engazify.png
 Link: https://ai.engazify.com
 Author: botsheeter.py

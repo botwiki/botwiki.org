@@ -1,6 +1,6 @@
 /*
-Title: Catalog of friendly, useful, artistic online bots, and resources that can help you make them
-Description: Botwiki.org is an open-source collection of tutorials, articles, datasets and other resources for creating useful, interesting, artistic and friendly online bots.
+Title: Cataloging the world of creative bots, clumsy AI, and machine ethics.
+Description: Botwiki is a collection of useful, friendly, and artistic online bots, and resources for making them.
 Nav: hidden
 Thumbnail: /content/images/botwiki-nixiebot-1500px.jpg
 Small thumbnail: /content/images/botwiki-nixiebot-small-thumbnail.jpg

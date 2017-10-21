@@ -73,7 +73,7 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 #### Amazon Alexa [¶](#project-templates-amazon){.pilcrow} {#project-templates-amazon}
 
 - [Alexa Airport Info Skill](https://glitch.com/edit/#!/alexa-skill) 
-
+- [Alexa Twitter DM Skill](https://glitch.com/edit/#!/alexa-twitter-dm-skill)
 
 #### Twitch [¶](#project-templates-twitch){.pilcrow} {#project-templates-twitch}
 
@@ -81,8 +81,10 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 
 #### Other [¶](#project-templates-other){.pilcrow} {#project-templates-other}
 
+- [Tracery Mastodon Bot](https://glitch.com/~tracery-mastodon-bot)
 - [Skype Bot using Bot Builder SDK](https://glitch.com/edit/#!/bot-builder-skype) 
-- [Microsoft Teams](https://glitch.com/~botkit-teams) 
+- [Microsoft Teams](https://glitch.com/~botkit-teams)
+- [Discord bot example](https://glitch.com/edit/#!/discord-bot-example)
 
 You can also check out [Handy bots on Glitch](https://glitch.com/handy-bots), or search directly for terms like [*[twitter]*](https://glitch.com/search?q=twitter) or [*[slack]*](https://glitch.com/search?q=slack).
 

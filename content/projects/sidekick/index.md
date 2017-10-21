@@ -1,270 +1,137 @@
 /*
 Title: Sidekick
-Thumbnail: /content/projects/sidekick/images/reaction-retweet.png
+Thumbnail: /content/projects/sidekick/images/sidekick.png
 Tags: about,botwiki,projects,sidekick,botwikibot
 Show donation link: yes
-Description: See what we are working on.
+Description: A sidekick for our Slack group.
 */
 
-**Sidekick makes managing your Slack group easier.**
 
-<a class="btn" href="#features">Explore features</a> <a class="btn" href="#commands">See commands</a>
+Sidekick makes Slack groups easier to manage and more enjoyable to be in.  
 
-### Features [¶](#features){.pilcrow} {#features}
-
-#### Send a group message to admins [¶](#admins-message){.pilcrow} {#admins-message}
-
-![Message all admins in the group](/content/projects/sidekick/images/admin-message-forward.png) {.centered .screenshot-large}
-
-
-#### Learn more about the members and bots in your group [¶](#group-info){.pilcrow} {#group-info}
-
-![Learn more about your group](/content/projects/sidekick/images/group-info.png) {.centered .screenshot-large}
-
-
-
-![Learn more about bots and integrations in your group](/content/projects/sidekick/images/group-info-bots.png) {.centered .screenshot-large}
-
-
-#### Set up polls [¶](#polls){.pilcrow} {#polls}
-
-
-![Poll](/content/projects/sidekick/images/polls.png) {.centered .screenshot-large}
-
-#### Send unobtrusive reminders [¶](#reminders){.pilcrow} {#reminders}
-
-![Code of conduct reminder](/content/projects/sidekick/images/hey-guys.png) {.centered .screenshot-large}
-
-![Sharing links reminder](/content/projects/sidekick/images/sharing-links.png) {.centered .screenshot-large}
-
-#### Move messages between channels [¶](#move-messages){.pilcrow} {#move-messages}
-
-
-![Move messages](/content/projects/sidekick/images/move-message.png) {.centered .screenshot-large}
-
-
-
-#### Monitor Twitter for specific keywords and hashtags [¶](#monitor-twitter){.pilcrow} {#monitor-twitter}
-
-![Monitor Twitter for interesting tweets](/content/projects/sidekick/images/monitor-twitter.png) {.centered .screenshot-large}
-
-![Ignore users](/content/projects/sidekick/images/ignore.png) {.centered .screenshot-large}
-
-
-#### Share tweets with Sidekick to have them retweeted [¶](#dm-to-rt){.pilcrow} {#dm-to-rt}
-
-![Share to retweet](/content/projects/sidekick/images/share-to-retweet.png) {.centered .screenshot-large}
-
-![Tweet commands](/content/projects/sidekick/images/tweet-command.png) {.centered .screenshot}
-
-
-
-### Commands [¶](#commands){.pilcrow} {#commands}
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+#### Contact moderators [¶](#admins-message){.pilcrow} {#admins-message}
+Group members can easily contact all group moderators at once using Slack's new [Dialogs](https://api.slack.com/dialogs) feature.
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/contact-admins.webm" type="video/webm">
 <!-- 
-#### All members [¶](#commands-all){.pilcrow} {#commands-all}
- -->
-<table class="data-table">
-<tr>
-  <th>Commmand/Reaction</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td>
-    <code>forward to mods</code><br/>
-    <code>forward to moderators</code><br/>
-    <code>for mods</code><br/>
-    <code>for moderators</code><br/>
-    <code>forward to admins</code><br/>
-    <code>for admins</code>
-  </td>
-  <td>
-    Forward your message to group's moderators.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>about this group</code><br/>
-    <code>who is online</code><br/>
-    <code>who's online</code>
-  </td>
-  <td>
-    See information about your group such as number of registered accounts and how many people are currently online.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>list all bots</code><br/>
-    <code>what bots are here</code><br/>
-    <code>list bots</code>
-  </td>
-  <td>
-    List all bots in the group.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>let's vote</code><br/>
-    <code>let's have a vote</code><br/>
-    <code>let's have a quick vote</code><br/>
-    <code>let's have a poll</code><br/>
-    <code>let's have a quick poll</code><br/>
-    <code>here's a poll</code><br/>
-    <code>here's a quick poll</code><br/>
-    <code>how about a poll</code><br/>
-    <code>how about a quick poll</code>
-  </td>
-  <td>
-    Create a poll. You don't need to @ mention the bot. Here are example messages:
-    <ul>
-      <li><code>Let's have a poll: 1: Option one. 2: Option two. 3: Option three. 4: Option four</code></li>
-      <li><code>Let's have a quick vote: Yay or nay?</code></li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>move that message to <strong>#channel</strong></code>
-  </td>
-  <td>
-    First, mark a message with <code>:information_source:</code>, then you can ask the bot to re-post it to a more appropriate channel. The original message will remain where it was posted.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>delete my account</code><br/>
-    <code>delete me</code>
-  </td>
-  <td>
-    Deactivate your account. If you change your mind, you can always get in touch with the group moderators via email and have your account restored.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>what's the id of this channel</code><br/>
-    <code>what's the id of #channel1 #channel2 #channel3 ...</code>
-  </td>
-  <td>
-    Get the ID of selected channels.
-  </td>
-</tr>
-<tr>
-<tr>
-  <td>
-    <code>:newspaper:</code><br/>
-    <code>:rolled_up_newspaper:</code>
-  </td>
-  <td>
-    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#news-and-articles</strong> channel.</p>
-    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>:wrench:</code><br/>
-    <code>:hammer_and_wrench:</code><br/>
-    <code>:hammer:</code><br/>
-    <code>:hammer_and_pick:</code>
-  </td>
-  <td>
-    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#projects</strong> channel.</p>
-    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>:clipboard:</code>
-  </td>
-  <td>
-    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#projects</strong> channel.</p>
-    <p><strong>Note:</strong> For moderators, this also retweets the tweet and prompts the author to submit their bot to Botwiki.</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>:calendar:</code><br/>
-    <code>:date:</code><br/>
-    <code>:spiral_calendar_pad:</code>
-  </td>
-  <td>
-    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#events</strong> channel.</p>
-    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>:bulb:</code>
-  </td>
-  <td>
-    <p>Adding this reaction to a message in the <strong>#the-feed</strong> channel reposts it in the <strong>#ideas-and-collab</strong> channel.</p>
-    <p><strong>Note:</strong> For moderators, this also retweets the tweet.</p>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <strong>Following commands are only available to group moderators.</strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>!whisper @user #channel text</code><br/>
-    <code>!whisper #channel @user text</code>
-  </td>
-  <td>
-    Send a whisper to `@user` in `#channel`. (Moderators will be notified.)
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>!dm @user text</code>
-  </td>
-  <td>
-    Send a message to `@user`. (Moderators will be notified.)
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>delete member</code><br/>
-    <code>remove member</code><br/>
-    <code>kick out member</code><br/>
-    <code>delete user</code><br/>
-    <code>remove user</code><br/>
-    <code>kick out user</code>
-  </td>
-  <td>
-    Deactivate an account.
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>:star:</code><br/>
-    <code>:heart:</code><br/>
-    <code>:+1:</code>
-  </td>
-  <td>
-    When used in the <strong>#the-feed</strong> channel, the bot will retweet the message.
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <strong>Following commands are only available to group moderators when sharing a tweet with <a href="https://twitter.com/botwikidotorg">@botwikidotorg</a>.</strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <code>!submit</code>
-  </td>
-  <td>
-    Retweet the shared tweet and prompt the author of the tweet to add their bot to Botwiki.
-  </td>
-</tr>
-</table>
-
-<!-- 
-
-#### Admins [¶](#commands-admins){.pilcrow} {#commands-admins}
-
-***Coming soon!***
-
+      <source src="/content/projects/sidekick/videos/mp4/contact-admins.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/contact-admins.ogg" type="video/ogg">
 -->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/contact-admins.gif">
+    </video>
+  </div>
+</div>
 
-You can join the development of **Sidekick** [in our Botmakers Slack group](https://botmakers.org/)!
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+#### Learn about your Slack group [¶](#group-info){.pilcrow} {#group-info}
+How many members are in your group? How many bots? Who's online right now? Find out with a click of a button. 
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/whos-online.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/whos-online.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/whos-online.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/whos-online.gif">
+    </video>
+  </div>
+</div>
+
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+Learn more about bots and other integrations in your Slack group.
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/our-bots.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/our-bots.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/our-bots.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/our-bots.gif">
+    </video>
+  </div>
+</div>
+
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+#### Monitor Twitter [¶](#twitter){.pilcrow} {#twitter}
+Track topics interesting to your community and easily share tweets with your Slack group or your Twitter followers. 
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/monitor-twitter.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/monitor-twitter.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/monitor-twitter.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/monitor-twitter.gif">
+    </video>
+  </div>
+</div>
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+Share a tweet with Sidekick to have it retweeted, no need to switch accounts back and forth. 
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/dm-to-rt.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/dm-to-rt.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/dm-to-rt.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/dm-to-rt.gif">
+    </video>
+  </div>
+</div>
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+#### Move messages [¶](#move-messages){.pilcrow} {#move-messages}
+Keep your group nice and organized and move messages to more appropriate channels when necessary.
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/move-messages.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/move-messages.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/move-messages.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/move-messages.gif">
+    </video>
+  </div>
+</div>
+
+
+<div class="row project-feature">
+  <div class="col-sm-12 col-md-5 no-pad" markdown="1">
+#### And more... [¶](#more-features){.pilcrow} {#more-features}
+
+Sidekick also lets you send private notifications and shows automatic contextual reminders.
+
+Sidekick is under active development and everyone is welcome 
+ to help add new features [in our Botmakers Slack group](https://botmakers.org/) 😊
+  </div>
+  <div class="col-sm-12 col-md-7 text-right">
+    <video controls>
+      <source src="/content/projects/sidekick/videos/webm/whisper.webm" type="video/webm">
+<!-- 
+      <source src="/content/projects/sidekick/videos/mp4/whisper.mp4" type="video/mp4">
+      <source src="/content/projects/sidekick/videos/ogg/whisper.ogg" type="video/ogg">
+-->
+      <img class="screenshot" src="/content/projects/sidekick/gifs/whisper.gif">
+    </video>
+  </div>
+</div>
+
+

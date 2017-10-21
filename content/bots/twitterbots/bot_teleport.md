@@ -6,7 +6,7 @@ Link: http://twitter.com/bot_teleport
 Source: https://github.com/tinyworlds/bot_teleport
 Author: botsheeter.py
 Date: October 31, 2015
-Tags: bot,twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,open source,opensource,cheapbotsdonequick,tinyworlds
+Tags: bot,twitterbot,twitter,art,nature,fiction,inspiration,inspiring,escapism,open source,opensource,cheapbotsdonequick,tinyruin
 Nav: hidden
 Robots: index,follow
 */
@@ -15,4 +15,4 @@ Robots: index,follow
 >
 > -- George Buckenham
 
-[@bot_teleport](https://twitter.com/bot_teleport) is an [open source](https://github.com/tinyworlds/bot_teleport) Twitter bot created by [Rick Hoppmann](https://twitter.com/tinyworlds) using [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). It's a "fish with a tophat transporting you to magical, inspiring places".
+[@bot_teleport](https://twitter.com/bot_teleport) is an [open source](https://github.com/tinyworlds/bot_teleport) Twitter bot created by [Rick Hoppmann](https://twitter.com/tinyruin) using [Cheap Bots Done Quick](http://cheapbotsdonequick.com/). It's a "fish with a tophat transporting you to magical, inspiring places".

@@ -52,6 +52,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Art of the Bot](https://bjbestpoet.wordpress.com/the-art-of-the-bot/) (bjbestpoet.wordpress.com)
 - [Bots: a cultural tour](http://mewo2.com/cultural-bots/) (mewo2.com, press S for speaker notes)
 - [The Quartz guide to artificial intelligence: What is it, why is it important, and should we be afraid?](https://qz.com/1046350/the-quartz-guide-to-artificial-intelligence-what-is-it-why-is-it-important-and-should-we-be-afraid/) (qz.com)
+- [What is the Value of a Bot?](https://points.datasociety.net/what-is-the-value-of-a-bot-cc72280b3e4c#.8obik0vqg) (points.datasociety.net)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice, but I have some bad news about using this to defend against the robots... <a href="https://t.co/A1P5WO6jMU">https://t.co/A1P5WO6jMU</a></p>&mdash; Garry Kasparov (@Kasparov63) <a href="https://twitter.com/Kasparov63/status/905179347560124416">September 5, 2017</a></blockquote>
@@ -174,6 +175,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Chatbots and artificial intelligence bots are shedding outdated gender male and female stereotypes to go genderless — Quartz](https://qz.com/1033587/it-took-only-six-years-for-bots-to-start-ditching-outdated-gender-stereotypes/) (qz.com)
 - [The Tech Take: The genderless face of accounting bots](https://www.accountingtoday.com/opinion/the-tech-take-the-genderless-face-of-accounting-bots) (accountingtoday.com)
 - [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
+- [The Foundations of Algorithmic Bias](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) (approximatelycorrect.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>

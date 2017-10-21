@@ -1,6 +1,6 @@
 /*
 Title: huskybot
-Description: bot,slackbot for "people who need Siberian Huskies, now".
+Description: Slack bot for "people who need Siberian Huskies, now".
 Thumbnail: /content/bots/slackbots/images/huskybot.png
 Link: https://github.com/hlian/huskybot
 Source: https://github.com/hlian/huskybot

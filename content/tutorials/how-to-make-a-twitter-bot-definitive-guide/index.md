@@ -80,7 +80,7 @@ Alright, you might have a rough idea what your bot is going to be posting about 
 
 As I mentioned earlier, Twitter has [limits on how often you can call their API](https://support.twitter.com/articles/15364), so you should keep those in mind.
 
-Other than that, it's all about striking the right balance. If your bot tweets every time a certain event happens, it's okay if your bot posts more frequently, as long as it stays under the API rate limit.
+Other than that, it's all about striking the right balance. If your bot tweets every time a certain event happens, it's okay if your bot posts more frequently, as long as it stays under the [API rate limit](https://developer.twitter.com/en/docs/ads/general/guides/rate-limiting).
 
 But also consider that some people don't want their home timeline cluttered with just one account, so for bots that don't work with real-time data, spacing the tweets out makes a lot of sense. As I said above, one good rule to follow is to make sure your bot doesn't annoy people.
 
@@ -134,7 +134,7 @@ For a comprehensive list of available hosting platforms, [see the **Bot hosting*
 ### Why is my bot not working? [¶](#bot-not-working){.pilcrow} {#bot-not-working}
 
 
-Twitter will [send you an error message](https://dev.twitter.com/overview/api/response-codes) that should help you understand why your bot stopped working.
+Twitter will [send you an error message](https://developer.twitter.com/en/docs/basics/response-codes) that should help you understand why your bot stopped working.
 
 For example, if you're using [the Twit library](https://github.com/ttezel/twit), here's how you can see the error message:
 

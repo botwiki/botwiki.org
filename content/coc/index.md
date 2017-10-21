@@ -22,6 +22,7 @@ Nav: hidden
 - [Code of Conduct](#code-of-conduct)
 - [What is considered harassment?](#what-is-considered-harassment)
 - [Language and communication](#language-and-communication)
+- [Contacting moderators](#contact-moderators)
 - [On using Slack](#on-using-slack)
 - [Am I posting in the right channel?](#am-i-posting-in-the-right-channel)
 - [Can I test my bot here?](#can-i-test-my-bot-here)
@@ -38,9 +39,7 @@ We understand that creating truly welcoming and safe spaces can be challenging, 
 This Code of Conduct applies equally to all members and contributors of [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/), and in **all online and offline spaces** (examples include, but are not limited to, private and public communication in the [Botmakers](https://botmakers.org/) Slack group, emails, pull requests on GitHub, Twitter DMs between members, in-person contact, etc).
 
 
-If you have any concerns, please contact the administrators via DM (currently [@stefan](https://botmakers.slack.com/messages/@stefan/details/)).
-
-The admins reserve the right to exclude people from the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities based on their past behavior, including behavior outside the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities spaces and behavior towards people who are not in the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities.
+The group administrators reserve the right to exclude people from the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities based on their past behavior, including behavior outside the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities spaces and behavior towards people who are not in the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities.
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of members of the [Botwiki](https://botwiki.org/) and [Botmakers](https://botmakers.org/) communities or the general public. We will not name harassment victims without their affirmative consent.
 
@@ -107,6 +106,15 @@ Our general rule of thumb for identifying slurs is that slurs are words/expressi
 If you see anyone using terms you find offensive or you believe would be offensive to certain groups of people, first try reaching out to the person privately. Also, be **very careful** about misunderstandings. These may happen particularly when all the nuances of communication, like body language or tone of voice are stripped away, like in an online setting. Also, remember that we are a group of people from all over the world, so people whose first language is not English will very likely learn about ableist language as a brand new concept.
 
 **Always contact the person you feel is being offensive** and try to talk it out, **then contact the moderator**, if necessary.
+
+
+### Contacting moderators [¶](#contact-moderators){.pilcrow} {#contact-moderators}
+
+Of you'd like to share feedback, suggestions, or if you have any concerns or want to report something, please contact the group administrators using the `/sidekick` command and clicking the Contact Moderators button.
+
+[![Use the Sidekick app to contact group's moderators](/content/coc/images/sidekick-contact-moderators.png)](/content/coc/images/sidekick-contact-moderators.png){.screenshot-large .centered}
+
+For more contact options see [our Contact page](/about/team/#contact).
 
 
 ### On using Slack [¶](#on-using-slack){.pilcrow} {#on-using-slack}
