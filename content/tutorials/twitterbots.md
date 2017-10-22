@@ -227,7 +227,7 @@ See also: [Botmaking from the Ground Up](https://botwiki.org/bot-workshops/botma
 - [Tweet Metadata Timeline](http://support.gnip.com/articles/tweet-timeline.html) (support.gnip.com)
 - [More updates to our Direct Message APIs to help you build better bots](https://blog.twitter.com/developer/en_us/topics/tools/2017/More-updates-to-our-Direct-Message-APIs-to-help-you-build-better-bots.html) (blog.twitter.com)
 
-See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitter API.
+See also [@twitterapi](https://twitter.com/twitterapi) for updates on the Twitter API and the [Twitter Developer Platform Roadmap Trello board](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap).
 
 ### Unsorted and notes [¶](#unsorted-notes){.pilcrow} {#unsorted-notes}
 
