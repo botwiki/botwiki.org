@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /*
   https://github.com/alicelieutier/smoothScroll
   Modified by Stefan Bohacek to use the HTML5 History API.
@@ -70,10 +70,10 @@ var linkHandler = function(ev) {
     smoothScroll(document.getElementById(hash), 500, function(el) {
     });
 };
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener('DOMContentLoaded', function () {
     var internal = document.querySelectorAll('a[href^="#"]'), a;
-    for(var i=internal.length; a=internal[--i];){
-        a.addEventListener("click", linkHandler, false);
+    for(var i = internal.length; a = internal[--i];){
+        a.addEventListener('click', linkHandler, false);
     }
 });
 return smoothScroll;
@@ -85,6 +85,15 @@ function ready(fn) {
     fn();
   } else {
     document.addEventListener('DOMContentLoaded', fn);
+  }
+}
+
+
+window.onload = function () {
+  if(window.location.hash) {
+    setTimeout(function(){
+      smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
+    }, 300);
   }
 }
 
@@ -110,23 +119,7 @@ ready(function(){
       backToTop.classList.remove('slide-up');
       backToTop.classList.add('slide-down');
     }
-
-
   };
-
-  // document.getElementById('search-help').addEventListener("click", function(ev){
-  //   ev.preventDefault();
-  //   // TODO: Make this into a fancy overlay div.
-  //   alert(
-  //           'Search quick help:\n\n' +
-  //           '#tag1 #tag2 #tag3 ... Browse tags\n\n' +
-  //           'TAGS: tag1 tag2 tag3 ... Browse tags\n\n' +
-  //           'word1 AND word2 AND ... Search posts that have all listed words\n\n' +
-  //           'word1 OR word2 OR ... Search posts that have at least one of the listed words (default)'
-  //        );
-  //   return false;
-  // }, false);
-
 
   function getElementByIdFromNode(id, rootNode) {
   /* Based on http://stackoverflow.com/questions/3902671/getelementbyid-doesnt-work-on-a-node */
@@ -155,13 +148,7 @@ ready(function(){
     return null;
   }
 
-  if(window.location.hash) {
-    setTimeout(function(){
-      smoothScroll(document.getElementById(window.location.hash.substring(1)), 200, function(el){});      
-    }, 300);
-  }
-
-  document.getElementById('back-to-top').addEventListener("click", function(ev){
+  document.getElementById('back-to-top').addEventListener('click', function(ev){
     ev.preventDefault();
     smoothScroll(0, 500);
   }, false);
@@ -180,44 +167,11 @@ ready(function(){
       classList.add('search-text');
   }
 
-/*
-TODO: Work in progress: AJAXifying the site.
-  window.addEventListener('click', function(ev){
-    if (ev.target.tagName.toLowerCase() === 'a' && (ev.target.href.indexOf('#') === -1 && (ev.target.href.indexOf('botwiki.org') > -1 || ev.target.href.indexOf('http://localhost') > -1 ))){
-      ev.preventDefault();
-      var request = new XMLHttpRequest();
-      request.open('GET', ev.target.href, true);
-
-      request.onload = function() {
-
-        if (request.status >= 200 && request.status < 400) {
-          var el = document.createElement('div');
-          el.innerHTML = request.responseText;
-          // var elMain = el.getElementById('main');
-          var elMain = getElementByIdFromNode('main', el);
-          document.getElementById('main').innerHTML = elMain.getElementsByTagName('article')[0].innerHTML;
-        } else {
-          // TODO: Error handling.
-          return false;
-        }
-      };
-
-      request.onerror = function() {
-          // TODO: Error handling.
-          console.log(":-(");
-      };
-
-      request.send();
-      return false;
-    }
-  });
-*/
-  if (hljs){
+  if (hljs !== undefined){
     hljs.initHighlighting.called = false;
     hljs.initHighlighting();
   }
 });
-
 
 /*
   Lazy Load Images without jQuery
@@ -228,6 +182,18 @@ TODO: Work in progress: AJAXifying the site.
 (function() {
   var addEventListener =  window.addEventListener || function(n,f) { window.attachEvent('on'+n, f); },
       removeEventListener = window.removeEventListener || function(n,f,b) { window.detachEvent('on'+n, f); };
+
+  // For IE7 compatibility
+  // Adapted from http://www.quirksmode.org/js/findpos.html
+  function getOffsetTop(el) {
+    var val = 0;
+    if (el.offsetParent) {
+      do {
+        val += el.offsetTop;
+      } while (el = el.offsetParent);
+      return val;
+    }
+  }      
 
   var lazyLoader = {
     cache: [],
@@ -310,7 +276,7 @@ TODO: Work in progress: AJAXifying the site.
               styleTag = doc.createElement('STYLE');
           head.appendChild(styleTag);
           doc.__qsaels = [];
-          styleTag.styleSheet.cssText = selector + "{x:expression(document.__qsaels.push(this))}";
+          styleTag.styleSheet.cssText = selector + '{x:expression(document.__qsaels.push(this))}';
           window.scrollBy(0, 0);
           return doc.__qsaels;
         };
@@ -335,18 +301,6 @@ TODO: Work in progress: AJAXifying the site.
       });
     }
   };
-
-  // For IE7 compatibility
-  // Adapted from http://www.quirksmode.org/js/findpos.html
-  function getOffsetTop(el) {
-    var val = 0;
-    if (el.offsetParent) {
-      do {
-        val += el.offsetTop;
-      } while (el = el.offsetParent);
-      return val;
-    }
-  }
 
   lazyLoader.init();
 })();

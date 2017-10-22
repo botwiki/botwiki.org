@@ -95,6 +95,7 @@ Some example bots include:
 - [The Botsistance](https://twitter.com/EthanBeihl/lists/the-botsistance/members), maintained by [@EthanBeihl](https://twitter.com/EthanBeihl): Bots aligned toward making hell for the powers that be. Some serious, some frivolous. #resist
 - [Activist bots](https://twitter.com/leonardo_uprm/lists/activist-bots), created by [Leonardo Flores](https://twitter.com/Leonardo_UPRM)
 - [Self-care bots](https://twitter.com/clairesayswhat/lists/self-care-bots/members), created by [Claire S.](https://twitter.com/clairesayswhat)
+- [Chatbots on Twitter](https://twitter.com/SamSchmir/lists/chatbots-on-twitter/members), created by [Sam Schmir](https://twitter.com/SamSchmir)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can I give a Twitter bot as a wedding gift?</p>&mdash; Byron Hulcher (@hypirlink) <a href="https://twitter.com/hypirlink/status/773881183662923780">September 8, 2016</a></blockquote>
