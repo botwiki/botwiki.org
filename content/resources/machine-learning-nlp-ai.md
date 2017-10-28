@@ -114,6 +114,7 @@ Resynthesis for Gaze Manipulation
 - [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
 - [MakeGirls.moe](http://make.girls.moe/#/): Create Anime Characters with A.I. (make.girls.moe)
   - [MakeGirls.moe Official Blog](https://makegirlsmoe.github.io/main/2017/08/14/news-english.html) (makegirlsmoe.github.io)
+- [Cyborg Writer](https://github.com/tensorfire/cyborg-writer): an experimental text editor with an neural text synthesizer (TensorFire via github.com)
 
 
 
