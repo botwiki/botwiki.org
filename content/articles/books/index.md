@@ -20,3 +20,4 @@ Do you know about an interesting book a botmaker or a bot enthusiast would enjoy
 - [Janet Chan: I.A. on A.I.](http://janetcchan.com/index.php?id=asimovs-ai) (janetcchan.com, site not available)
   - [bfacd.parsons.edu](http://bfacd.parsons.edu/2016/i-a-on-a-i)
   - [creativeboom.com](https://www.creativeboom.com/inspiration/new-york-designer-janet-chans-typographic-book-on-the-ethics-of-artificial-intelligence/)
+- [David A. Mindell: Our Robots, Ourselves: Robotics and the Myths of Autonomy](https://www.amazon.com/Our-Robots-Ourselves-Robotics-Autonomy/dp/0525426973/) (amazon.com)

@@ -25,6 +25,8 @@ This section lists general tools and articles that discuss tools and possible ap
 
 #### Tools for creating dialog mockups [¶](#dialog-tools-mockups){.pilcrow} {#dialog-tools-mockups}
 
+- [Bottery](https://github.com/google/bottery): a conversational agent prototyping platform (Google via github.com)
+  - [Demo on Glitch](https://bottery.glitch.me) (glitch.me, [view source code](https://glitch.com/edit/#!/bottery))
 - [Twine](http://twinery.org/): an open-source tool for telling interactive, nonlinear stories
 - [Twinecery](https://github.com/mrfb/twinecery): tool for authoring and implementing tracery grammars in Twine
 - [The Poor Man's Dialogue Tree](http://etodd.io/2014/05/16/the-poor-mans-dialogue-tree/) (article)

@@ -179,6 +179,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Tech Take: The genderless face of accounting bots](https://www.accountingtoday.com/opinion/the-tech-take-the-genderless-face-of-accounting-bots) (accountingtoday.com)
 - [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
 - [The Foundations of Algorithmic Bias](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) (approximatelycorrect.com)
+- [Copyright Law Makes Artificial Intelligence Bias Worse](https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias) (motherboard.vice.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
@@ -284,6 +285,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hondanhon">@hondanhon</a> AIs don’t kill people. Training data kills people.</p>&mdash; Martin Spindler 🛰 (@mjays) <a href="https://twitter.com/mjays/status/789193239462940672">October 20, 2016</a></blockquote>
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Best outline of social / technical / contextual biases in computer systems I&#39;ve seen yet. <a href="https://twitter.com/hashtag/EthicalAlgorithms?src=hash">#EthicalAlgorithms</a> (Friedman &amp; Nissenbaum, 1996) <a href="https://t.co/vdKNASz5Ro">pic.twitter.com/vdKNASz5Ro</a></p>&mdash; Paige Bailey (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/782763615065559040">October 3, 2016</a></blockquote>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Machines don’t need to think for us to fear them, only to operate beyond our immediate grasp of understanding.</p>&mdash; SwiftOnSecurity (@SwiftOnSecurity) <a href="https://twitter.com/SwiftOnSecurity/status/924855542522302464?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote>
   </div>
 </div>
 
