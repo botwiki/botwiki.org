@@ -33,6 +33,7 @@ Nav: hidden
 
 - [How To Use the Machine Learning One-Click Install Image on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-machine-learning-one-click-install-image-on-digitalocean) (digitalocean.com)
   - [Botwiki DigitalOcean referral link](https://www.digitalocean.com/?refcode=9e279abc3337)
+- [pretrained.ml](http://pretrained.ml): deep learning models with demos (pretrained.ml)
 - [OpenAI Universe](https://universe.openai.com/): Measurement and training for artificial intelligence (universe.openai.com)
   - [openai/baselines](https://github.com/openai/baselines): high-quality implementations of reinforcement learning algorithms
 - [Roboschool](https://github.com/openai/roboschool): open-source software for robot simulation, integrated with OpenAI Gym (OpenAI via github.com)
@@ -114,6 +115,7 @@ Resynthesis for Gaze Manipulation
 - [Projects using the Quick, Draw! dataset](https://github.com/googlecreativelab/quickdraw-dataset#projects-using-the-dataset) (Google Creative Lab via github.com)
 - [MakeGirls.moe](http://make.girls.moe/#/): Create Anime Characters with A.I. (make.girls.moe)
   - [MakeGirls.moe Official Blog](https://makegirlsmoe.github.io/main/2017/08/14/news-english.html) (makegirlsmoe.github.io)
+- [Cyborg Writer](https://github.com/tensorfire/cyborg-writer): an experimental text editor with an neural text synthesizer (TensorFire via github.com)
 
 
 

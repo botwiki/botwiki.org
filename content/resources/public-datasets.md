@@ -39,6 +39,7 @@ Nav: hidden
   - [related paper on arxiv.org](https://arxiv.org/abs/1704.05579)
 - [markriedl/WikiPlots](https://github.com/markriedl/WikiPlots): a  dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor
 - [Enigma Public](https://public.enigma.com/): Broad collection of public data; requires free account (public.enigma.com)
+- [Open Datasets for Deep Learning](https://deeplearning4j.org/opendata) (deeplearning4j.org)
 
 You can also retrieve various data [via web APIs](/resources/apis/).
 

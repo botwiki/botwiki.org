@@ -16,6 +16,7 @@ Nav: hidden
 ### General tutorials [¶](#general){.pilcrow} {#general}
 
 - [shiffman/ChatBot-Workshop](https://github.com/shiffman/ChatBot-Workshop): resources, code for ITP Camp Workshop (github.com)
+- [Voice Chatbot with p5.Speech](https://www.youtube.com/watch?v=iFTgphKCP9U) (Dan Shiffman via youtube.com)
 
 A great resource for making online chatbots is [Chatbots Magazine](https://chatbotsmagazine.com/). Some of their articles include:
 

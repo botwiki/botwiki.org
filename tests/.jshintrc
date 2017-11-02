@@ -17,7 +17,8 @@
     "dojo"          : false,
  
     "predef"        : [  // Custom globals.
-        "hljs"
+        "hljs",
+        "smoothScroll"
     ],
  
     // Development.

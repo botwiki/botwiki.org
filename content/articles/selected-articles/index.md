@@ -22,6 +22,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [2013: Rise of Twitter bots, Siri's origin story](/articles/selected-articles/2013)
 - [1997: Bach by computer](/articles/selected-articles/1997)
 - [1996: Bots are hot!](/articles/selected-articles/1996)
+- [1983: The little thoughts of thinking machines](/articles/selected-articles/1983)
 - [1981: AI](/articles/selected-articles/1981)
 
 [Return to the **Articles** page.](/articles/)

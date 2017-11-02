@@ -133,5 +133,3 @@ Sidekick is under active development and everyone is welcome
     </video>
   </div>
 </div>
-
-
