@@ -87,6 +87,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Computational Narrative Intelligence: Past, Present, and Future](https://medium.com/@mark_riedl/computational-narrative-intelligence-past-present-and-future-99e58cf25ffa) (Mark Riedl via medium.com)
 - [Technology Should Be In Service of Poetry](http://eyebeam.org/stopwork/tech-as-poetry/) (eyebeam.org)
 - [Artificial Intelligence and the Arts: Toward Computational Creativity](https://www.bbvaopenmind.com/en/article/artificial-intelligence-and-the-arts-toward-computational-creativity/?fullscreen=true) (bbvaopenmind.com)
+- [Some Objections to Interactive Computer Art](http://www.flong.com/blog/2017/some-objections-to-interactive-computer-art/) (flong.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
