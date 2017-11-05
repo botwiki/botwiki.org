@@ -29,7 +29,6 @@ Nav: hidden
   - integration with processing, processingjs, and nodejs
   - integrates with WordNet dictionary
   - it was used to create [@SortingBot](/bots/twitterbots/SortingBot)
-- [Chronicling America](http://chroniclingamerica.loc.gov/about/api/): historic newspapers and select digitized newspaper pages
 - [RhymeBrain.com: Rhyming and Word Information API](http://rhymebrain.com/api.html)
 - [Perspective](https://www.perspectiveapi.com/): "API that makes it easier to host better conversations", requires access request
 - [Third Eye Data: TV News Archive chyrons](https://archive.org/details/third-eye) (archive.org)
@@ -51,8 +50,10 @@ Nav: hidden
 - [Wunderground](https://www.wunderground.com/weather/api/): API for weather forecasts 
 - [Forecast.io API](https://developer.forecast.io/): weather API used by [The Dark Sky](http://darkskyapp.com/) app and [Forecast.io](https://forecast.io/)
 
-### Politics and law [¶](#politics-law){.pilcrow} {#politics-law}
+### Government, politics, and law [¶](#gov-politics-law){.pilcrow} {#gov-politics-law}
 
+- [Chronicling America](http://chroniclingamerica.loc.gov/about/api/): historic newspapers and select digitized newspaper pages
+- [United States Census Bureau APIs](https://www.census.gov/data/developers/data-sets.html) (census.gov)
 - [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/) (projects.propublica.org)
 
 
@@ -85,5 +86,6 @@ Nav: hidden
 - [Capitol Words API](http://capitolwords.org/api/1/): [Capitol Words](http://capitolwords.org/): visualizes the most frequently used words in the Congressional Record
 - [Poetry DB](http://poetrydb.org/index.html): API for *next generation internet poets*
 - [Sunlight Congress API](https://sunlightlabs.github.io/congress/): live JSON API for the people and work of US Congress
+
 
 [Back to all resources.](/resources)
