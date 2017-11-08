@@ -170,6 +170,8 @@ Tutorials for [Tracery](http://tracery.io/) and [Cheap Bots Done Quick](http://c
 - [Mark's MetaArtbot](http://artbot.combinatorium.com/#!/tracery) (artbot.combinatorium.com)
 - [Visual Tracery editor](http://www.brightspiral.com/tracery/)
 - [Tracery starter project on Glitch](https://glitch.com/edit/#!/tracery-twitter-bot) (glitch.com)
+- [Cheap Markovs, Traced Quick!](https://serin-delaunay.github.io/cheapmarkovstracedquick/) (serin-delaunay.github.io)
+  - [source code on GitHub](https://github.com/serin-delaunay/cheapmarkovstracedquick)
 - [prosecconetwork/TraceElements](https://github.com/prosecconetwork/TraceElements): Tracery grammars for building creative Twitterbots (github.com)
 
 ##### See also [¶](#tracery-cbdq-more){.pilcrow} {#tracery-cbdq-more}

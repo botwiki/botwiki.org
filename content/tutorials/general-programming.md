@@ -72,6 +72,9 @@ Nav: hidden
 
 - [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x): "Interactive Fiction. Chatterbots. Hypertext and kinetic poetry. Explore these avant garde forms and other new media in this exciting class." (edx.org)
 - [Best Practices for Procedural Narrative Generation](https://www.youtube.com/watch?v=k2rgzZ2WXKo) (Rogelio Cardona-Rivera and Chris Martens via youtube.com)
+- [N-Grams and Markov Chains](http://shiffman.net/a2z/markov/) (shiffman.net) 
+- [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/) (setosa.io)
+- [ML Basics: Markov Models Write Fairy Tales](http://thagomizer.com/blog/2017/11/07/markov-models.html) (thagomizer.com)
 
 #### General [¶](#creative-programming-general){.pilcrow} {#creative-programming-general}
 
@@ -167,8 +170,6 @@ Nav: hidden
 - [How to query Wikipedia like a database](http://tinysubversions.com/notes/how-to-query-wikipedia/) (tinysubversions.com)
 - Video introduction of RiveScript by its author, Noah Petherbridge: [Part 1](https://www.youtube.com/watch?v=Vkd4chh0ewU), [part 2](https://www.youtube.com/watch?v=sRdm2OkZaGk), also see [rivescript.com](http://www.rivescript.com/)
 - [Troubleshooting cron jobs for bot makers](http://lizmrush.com/cron-jobs-for-bot-makers/) (lizmrush.com)
-- [N-Grams and Markov Chains](http://shiffman.net/a2z/markov/) (shiffman.net) 
-- [Markov Chains: A visual explanation](http://setosa.io/blog/2014/07/26/markov-chains/) (setosa.io)
 - [Text Mining Course](https://github.com/organisciak/Text-Mining-Course): Course Notes for 590TXL, University of Illinois at Urbana-Champaign (Peter Organisciak via github.com)
 
 Can't find what you're looking for? Be sure to [reach out on Twitter](https://twitter.com/botwikidotorg), or [join the Botmakers community](https://botmakers.org/)!
