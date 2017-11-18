@@ -90,10 +90,12 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Some Objections to Interactive Computer Art](http://www.flong.com/blog/2017/some-objections-to-interactive-computer-art/) (flong.com)
 - [COCO’s Memory Palace: A Strange Fantasia](https://medium.com/@lynn_72328/cocos-memory-palace-a-strange-fantasia-28b48264612f) (Lynn Cherny via medium.com)
 - [Better Living Through Generativity](http://www.rogueprocess.run/2017/11/06/better-living-through-generativity/) (rogueprocess.run)
+- [What it Means to Be an 'Experimental Computer Poet'](https://motherboard.vice.com/en_us/article/8x8ppp/poetry-twitter-bots-best-twitter-bots-art-allison-parrish-everyword) (motherboard.vice.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
   </div>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Stop thinking about art works as objects, and start thinking about them as triggers for experiences.&quot; ~Brian Eno / <a href="https://twitter.com/dark_shark?ref_src=twsrc%5Etfw">@dark_shark</a></p>&mdash; wavepaths (@wavepaths) <a href="https://twitter.com/wavepaths/status/931141878145273857?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>
 </div>
 
 <div class="row">
