@@ -45,6 +45,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 ### Machine learning [¶](#machine-learning){.pilcrow} {#machine-learning}
 
+- [Critical Machine Learning](http://criticalml.net) (criticalml.net)
 - [Deep Learning: Free Course by Google](https://www.udacity.com/course/deep-learning--ud730) (udacity.com)
 - [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working) (theorangeduck.com)
