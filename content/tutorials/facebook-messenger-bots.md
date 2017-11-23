@@ -24,6 +24,7 @@ Nav: hidden
 ### node.js [¶](#tutorials-nodejs){.pilcrow} {#tutorials-nodejs}
 
 - [Botkit Starter Kit for Facebook Bots](https://glitch.com/edit/#!/botkit-facebook) (glitch.com)
+- [Build A Bot Workshop](https://melissamcewen.github.io/build-a-bot-workshop/) (melissamcewen.github.io)
 - [Facebook Messenger ChatBot in Node.js - Weather Lookup](https://glitch.com/edit/#!/fb-messenger-weather-bot) ([Tomomi Imura](https://twitter.com/girlie_mac) via glitch.com)
 - [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://medium.com/chat-bots/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892) (with Heroku)
 - [Quickstart Bots for Messenger from Localhost](https://medium.com/@ThomasBrd/in-this-quick-post-we-will-see-how-to-configure-and-quickstart-a-facebook-messenger-bot-plateform-86dcc013741d)

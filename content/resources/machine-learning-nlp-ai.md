@@ -72,6 +72,7 @@ Nav: hidden
 
 #### Other [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}
 
+- [ml4a/ml4a-ofx](https://github.com/ml4a/ml4a-ofx): a collection of openFrameworks apps for working with machine learning
 - [antirez/neural-redis](https://github.com/antirez/neural-redis): neural networks module for [Redis](http://redis.io/)
 - [casparwylie/Perceptron](https://github.com/casparwylie/Perceptron): A flexible artificial neural network builder to analyse performance, and optimise the best model.
 

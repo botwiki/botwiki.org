@@ -69,4 +69,5 @@ for bots, applications, services, and devices".
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 
+- [Resourcess for Actions on Google on Botwiki](/resources/google)
 - [Ultimate Guide to Voice Assistants](https://github.com/bentossell/ultimate-guide-to-voice-assistants) (Ben Tossel via github.com)
