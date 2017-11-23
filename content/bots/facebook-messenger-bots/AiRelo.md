@@ -1,5 +1,5 @@
 /*
-Title: AiReloMe
+Title: AiRelo
 Description: Smart city registration assistant
 Thumbnail: /content/bots/facebook-messenger-bots/images/AiReloMe.png
 Link: https://www.messenger.com/t/AiReloMe
@@ -10,7 +10,7 @@ Nav: hidden
 Robots: index,follow
 */
 
-[AiReloMe](https://www.messenger.com/t/AiReloMe) is a Facebook Messenger bot created by [Mario Paladini](https://twitter.com/mariopaladini). 
+[AiRelo](https://www.messenger.com/t/AiReloMe) is a Facebook Messenger bot created by [Mario Paladini](https://twitter.com/mariopaladini). 
 
 > AiRelo, this relocation assistant was designed to make registering in a new city quick and easy, as users hardly need to lift a finger. AiRelo does most of the work for you - anytime, anywhere, and in multiple languages. 
 >

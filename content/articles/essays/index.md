@@ -227,6 +227,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Artificial intelligence discovers gayface. Sigh.](https://scatter.wordpress.com/2017/09/10/guest-post-artificial-intelligence-discovers-gayface-sigh/) (scatter.wordpress.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Come dream along with me; the best is yet to be.&quot; <a href="https://t.co/GHCWluG2tm">https://t.co/GHCWluG2tm</a> <a href="https://t.co/XGeVkqPCcn">pic.twitter.com/XGeVkqPCcn</a></p>&mdash; @DynamicWebPaige (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/932319639320825862?ref_src=twsrc%5Etfw">November 19, 2017</a></blockquote>
+
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. <a href="https://t.co/4ckbQlMyBS">pic.twitter.com/4ckbQlMyBS</a></p>&mdash; Kasper Hawser (@Gossenphilosoph) <a href="https://twitter.com/Gossenphilosoph/status/884769533810143237">July 11, 2017</a></blockquote>
@@ -300,6 +302,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 
+- [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0) (Casey Fiesler via Google Sheets)
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)
