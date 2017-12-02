@@ -24,6 +24,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
   - [@artwithMI](https://twitter.com/artwithMI)
 - [google.ai](https://google.ai/): "Bringing the benefits of AI to everyone" (google.ai)
   - [PAIR: People-AI Research Initiative](https://ai.google/pair) (google.ai) ([related blog post on blog.google](https://www.blog.google/topics/machine-learning/pair-people-ai-research-initiative/))
+- [Auditing Algorithms](http://auditingalgorithms.science): adding accountability to automated authority (auditingalgorithms.science)
 - [aiweirdness.com](http://aiweirdness.com): letting neural networks be weird (aiweirdness.com)
 - [The Bot Blog](https://thebotblog.wordpress.com/): social science and news on automated culture
 - [Source](https://source.opennews.org/en-US/articles/tags/bots/): posts tagged *#bots*

@@ -130,6 +130,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb) (Amir Shevat via Slack Platform Blog)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Never trust a computer you can&#39;t throw out a window.&quot; - Steve Wozniak</p>&mdash; The Practical Dev (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/934875181318901760?ref_src=twsrc%5Etfw">November 26, 2017</a></blockquote>
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
 <!--     <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">1956 <a href="https://t.co/abNMifXLQx">pic.twitter.com/abNMifXLQx</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/764912869330878469">August 14, 2016</a></blockquote> -->
