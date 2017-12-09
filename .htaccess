@@ -66,6 +66,7 @@
     RedirectMatch "^/survey/botmakers-community-survey/*" "https://docs.google.com/forms/d/1coP28xTpLZQvDeWmqcBE3TYKK403BLcrisv5tvpFP4s/viewform"
     RedirectMatch "^/survey/bot-workshop-feedback/*" "https://docs.google.com/forms/d/e/1FAIpQLSc02KEU3JEypGnCCt_xR5UGCibwlvRGBPMn9vT3Ky9bsDZaiw/viewform"
     RedirectMatch "^/survey/opensource/*" "https://docs.google.com/forms/d/e/1FAIpQLSepU-v4M7Za0FKgcJqSvKTsBWov8RouDiFBmzwp9YSDjz0JVA/viewform"
+    RedirectMatch "^/survey/botmakers-meetup/*" "https://docs.google.com/forms/d/e/1FAIpQLSdADcEFbFYkvL9QAMf_Tkd9fyfLYiQcsn4Lkyj-4oyx104T5A/viewform"
 
     RedirectMatch "^/botmakers/erin/*" "https://botwiki.org/interviews/erin"
     RedirectMatch "^/interviews/*$" "https://botwiki.org/tag/interview"

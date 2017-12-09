@@ -72,6 +72,7 @@ Nav: hidden
 
 #### Other [¶](#frameworks-and-libraries-other){.pilcrow} {#frameworks-and-libraries-other}
 
+- [ml4a/ml4a-ofx](https://github.com/ml4a/ml4a-ofx): a collection of openFrameworks apps for working with machine learning
 - [antirez/neural-redis](https://github.com/antirez/neural-redis): neural networks module for [Redis](http://redis.io/)
 - [casparwylie/Perceptron](https://github.com/casparwylie/Perceptron): A flexible artificial neural network builder to analyse performance, and optimise the best model.
 
@@ -116,8 +117,8 @@ Resynthesis for Gaze Manipulation
 - [MakeGirls.moe](http://make.girls.moe/#/): Create Anime Characters with A.I. (make.girls.moe)
   - [MakeGirls.moe Official Blog](https://makegirlsmoe.github.io/main/2017/08/14/news-english.html) (makegirlsmoe.github.io)
 - [Cyborg Writer](https://github.com/tensorfire/cyborg-writer): an experimental text editor with an neural text synthesizer (TensorFire via github.com)
-
-
+- [GAN playground](https://reiinakano.github.io/gan-playground/): Experiment with Generative Adversarial Networks in your browser (reiinakano.github.io)
+  - [source](https://github.com/reiinakano/gan-playground) (github.com)
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

@@ -87,10 +87,16 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Computational Narrative Intelligence: Past, Present, and Future](https://medium.com/@mark_riedl/computational-narrative-intelligence-past-present-and-future-99e58cf25ffa) (Mark Riedl via medium.com)
 - [Technology Should Be In Service of Poetry](http://eyebeam.org/stopwork/tech-as-poetry/) (eyebeam.org)
 - [Artificial Intelligence and the Arts: Toward Computational Creativity](https://www.bbvaopenmind.com/en/article/artificial-intelligence-and-the-arts-toward-computational-creativity/?fullscreen=true) (bbvaopenmind.com)
+- [Some Objections to Interactive Computer Art](http://www.flong.com/blog/2017/some-objections-to-interactive-computer-art/) (flong.com)
+- [COCO’s Memory Palace: A Strange Fantasia](https://medium.com/@lynn_72328/cocos-memory-palace-a-strange-fantasia-28b48264612f) (Lynn Cherny via medium.com)
+- [Better Living Through Generativity](http://www.rogueprocess.run/2017/11/06/better-living-through-generativity/) (rogueprocess.run)
+- [What it Means to Be an 'Experimental Computer Poet'](https://motherboard.vice.com/en_us/article/8x8ppp/poetry-twitter-bots-best-twitter-bots-art-allison-parrish-everyword) (motherboard.vice.com)
+- [Voice Technology is an Opportunity to Make Weird Stuff](https://medium.com/@nicolehe/voice-technology-is-an-opportunity-to-make-weird-stuff-d4296ce7448a) (Nicole He via medium.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
   </div>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Stop thinking about art works as objects, and start thinking about them as triggers for experiences.&quot; ~Brian Eno / <a href="https://twitter.com/dark_shark?ref_src=twsrc%5Etfw">@dark_shark</a></p>&mdash; wavepaths (@wavepaths) <a href="https://twitter.com/wavepaths/status/931141878145273857?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote>
 </div>
 
 <div class="row">
@@ -124,6 +130,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [The Bot Rulebook](https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb) (Amir Shevat via Slack Platform Blog)
 - [Where many bots will fail](https://blog.howdy.ai/where-many-bots-will-fail-68ae163e2473) (blog.howdy.ai)
 - [Three Years of @fewerror](http://t.wjt.me.uk/post/151462998480/three-years-of-fewerror) (Will Thompson)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Never trust a computer you can&#39;t throw out a window.&quot; - Steve Wozniak</p>&mdash; The Practical Dev (@ThePracticalDev) <a href="https://twitter.com/ThePracticalDev/status/934875181318901760?ref_src=twsrc%5Etfw">November 26, 2017</a></blockquote>
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
 <!--     <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">1956 <a href="https://t.co/abNMifXLQx">pic.twitter.com/abNMifXLQx</a></p>&mdash; Katy Moe (@katyemoe) <a href="https://twitter.com/katyemoe/status/764912869330878469">August 14, 2016</a></blockquote> -->
@@ -221,6 +229,8 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Artificial intelligence discovers gayface. Sigh.](https://scatter.wordpress.com/2017/09/10/guest-post-artificial-intelligence-discovers-gayface-sigh/) (scatter.wordpress.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Come dream along with me; the best is yet to be.&quot; <a href="https://t.co/GHCWluG2tm">https://t.co/GHCWluG2tm</a> <a href="https://t.co/XGeVkqPCcn">pic.twitter.com/XGeVkqPCcn</a></p>&mdash; @DynamicWebPaige (@DynamicWebPaige) <a href="https://twitter.com/DynamicWebPaige/status/932319639320825862?ref_src=twsrc%5Etfw">November 19, 2017</a></blockquote>
+
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Green line: US industry production, purple line jobs in manufacturing. &quot;This is an automation story, not a globalization story.&quot; <a href="https://twitter.com/hashtag/SXSW?src=hash">#SXSW</a> <a href="https://t.co/R5y6igLjQG">pic.twitter.com/R5y6igLjQG</a></p>&mdash; Stephan Dörner 🇪🇺 (@Doener) <a href="https://twitter.com/Doener/status/841367737238712320">March 13, 2017</a></blockquote>
 
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Using salt circle runes to trap an A.I. car is possibly the most cyberpunk thing ever. <a href="https://t.co/4ckbQlMyBS">pic.twitter.com/4ckbQlMyBS</a></p>&mdash; Kasper Hawser (@Gossenphilosoph) <a href="https://twitter.com/Gossenphilosoph/status/884769533810143237">July 11, 2017</a></blockquote>
@@ -294,6 +304,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
   <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### Further reading [¶](#further-reading){.pilcrow} {#further-reading}
 
+- [Tech Ethics Curriculum](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0) (Casey Fiesler via Google Sheets)
 - [Conveying the Boundaries of Artificial Intelligence](https://medium.com/@jessjo/conveying-the-boundaries-of-artificial-intelligence-5073ab44f6fb) ([Jess Johnson](https://medium.com/@jessjo) via medium.com)
 - [Is Artificial Intelligence Permanently Inscrutable?](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable) (nautil.us)
 - [How can we address real concerns over artificial intelligence?](https://www.theguardian.com/media-network/2016/sep/15/responsiblity-real-concerns-artificial-intelligence-technology) (theguardian.com)

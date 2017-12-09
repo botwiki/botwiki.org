@@ -21,6 +21,9 @@ So you want to make a friendly/useful/artistic Twitter bot and probably have a b
 
 Hopefully this ambitiously titled guide will answer your questions -- and you are always free to ask for more help [in the Botmakers community](https://botmakers.org/). 
 
+
+<div class="row">
+  <div class="col-sm-12 col-md-6 no-pad" markdown=1>
 ### Page content [¶](#page-content){.pilcrow} {#page-content}
 - [Note on needing a phone number](#note-phone-number)
 - [What kind of a bot should I make?](#what)
@@ -31,6 +34,12 @@ Hopefully this ambitiously titled guide will answer your questions -- and you ar
 - [Where should I host my bot?](#bot-hosting)
 - [Why is my bot not working?](#bot-not-working)
 - [Wrap up](#wrap-up)
+  </div>
+  <div class="col-sm-12 col-md-6 no-pad">
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/BIN3DTa7z0">pic.twitter.com/BIN3DTa7z0</a></p>&mdash; vennsplain (@vennsplain) <a href="https://twitter.com/vennsplain/status/925888068208521222?ref_src=twsrc%5Etfw">November 2, 2017</a></blockquote>
+  </div>
+</div>
+
 
 
 ### Note on needing a phone number [¶](#note-phone-number){.pilcrow} {#note-phone-number}
@@ -164,4 +173,4 @@ PS: See more of my tutorials [here](/tag/tutorial+fourtonfish/).
 
 - [Eric](http://www.shardcore.org/) (shardcore.org)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

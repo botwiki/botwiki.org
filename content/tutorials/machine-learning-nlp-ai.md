@@ -45,6 +45,8 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 
 ### Machine learning [¶](#machine-learning){.pilcrow} {#machine-learning}
 
+- [Machine Learning for Artists](https://ml4a.github.io/ml4a/) (ml4a.github.io)
+- [Critical Machine Learning](http://criticalml.net) (criticalml.net)
 - [Deep Learning: Free Course by Google](https://www.udacity.com/course/deep-learning--ud730) (udacity.com)
 - [Machine Learning with JavaScript](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) (hackernoon.com)
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working) (theorangeduck.com)
@@ -97,6 +99,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/blog/what-does-machine-learning-look-like) (graphcore.ai)
 - [Machine relearning: What I’ve learned from one year of workshops](https://medium.com/@genekogan/machine-relearning-8cd57ba242) (Gene Kogan via medium.com)
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/posts/what-does-machine-learning-look-like) (graphcore.ai)
+- [How Adversarial Attacks WorkHow Adversarial Attacks Work](http://blog.ycombinator.com/how-adversarial-attacks-work/) (blog.ycombinator.com)
 
 ### With [Julia](http://julialang.org/) [¶](#with-julia){.pilcrow} {#with-julia}
 
@@ -119,6 +122,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [Building Your Own Neural Machine Translation System in TensorFlow](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) (research.googleblog.com)
 - [Visualizable Tensorflow](https://medium.com/@tartavull/visualizable-tensorflow-260e27e25567) (Ignacio Tartavull via medium.com)
 - [Introduction to TensorFlow Datasets and Estimators](https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html) (developers.googleblog.com)
+- [Deep Dive into Object Detection with Open Images, using Tensorflow](https://blog.algorithmia.com/deep-dive-into-object-detection-with-open-images-using-tensorflow/) (blog.algorithmia.com)
 
 #### See also
 

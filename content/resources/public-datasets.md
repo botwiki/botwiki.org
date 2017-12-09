@@ -32,6 +32,7 @@ Nav: hidden
 - [Yahoo Webscope](http://webscope.sandbox.yahoo.com/): reference library of interesting and scientifically useful datasets for non-commercial use by academics and other scientists
 - [Yahoo! Datasets](http://webscope.sandbox.yahoo.com/#datasets)
 - [data.gov](http://www.data.gov/): "the home of the U.S. Governments open data" (data, tools, and resources)
+- [HealthData.gov](https://www.healthdata.gov): making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all (healthdata.gov)
 - [github.com/unitedstates](https://github.com/unitedstates): "a shared commons of data and tools for the United States"
 - [State Library of New South Wales -- Open Data](http://www.sl.nsw.gov.au/using/search/open_data.html): photographs, manuscripts, pictorial material
 - [Text & metadata from fake & biased news sources around the web](https://www.kaggle.com/mrisdal/fake-news)

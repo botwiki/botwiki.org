@@ -45,7 +45,7 @@ Do you know about an interesting talk a bot enthusiast would enjoy? Send us a [p
 - [Your Friendly Robot Companions](https://medium.com/why-not/your-friendly-robot-companions-b2d39e71dfcb)
 - [A session from the Notifications Summit](http://avc.com/2015/10/video-of-the-week-notifications-summit/) featuring [Ben Brown](https://twitter.com/benbrown), [April Underwood](https://twitter.com/aunder) and [@naveen](https://twitter.com/naveen).
 - [Videos from the alt-AI conference](http://alt-ai.net/#watch) (learn more about the event [here](/events/alt-ai-may-2016/))
-
+- [Georgia Tech Researchers Use Robot To Hand Out Halloween Candy](https://www.youtube.com/watch?v=4qez8ZKX4RY) (youtube.com)
 
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}

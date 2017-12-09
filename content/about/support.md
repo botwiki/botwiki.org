@@ -33,9 +33,7 @@ There's a lot that goes into maintaining **Botwiki**, **Botmakers**, and all the
 If you don't have the time to help out personally (which we completely understand!), here are some other ways to support us:</p>
 
 - monthly donations through [Patreon](https://www.patreon.com/botwiki)
-- or [Gratipay](https://gratipay.com/botwiki-org/)
 - one time donation through [PayPal](https://www.paypal.me/botwiki)
-- or [Bitcoin](bitcoin:18WDyJFShLcLVCRyiEm3MijbCsBjcxG4mH?amount=0.025&label=Botwiki)
 - you can also [buy Botwiki merchandise](/merch/)
 - or sign up for [DigitalOcean](https://www.digitalocean.com/) using [our referral link](https://www.digitalocean.com/?refcode=9e279abc3337)
 

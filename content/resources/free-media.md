@@ -44,6 +44,7 @@ Nav: hidden
   - [Computer vision-based food calorie estimation: dataset, method, and experiment](https://arxiv.org/abs/1705.07632v3) (arxiv.org)
 - [Visual Geometry Group: Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/): a 37 category pet dataset with roughly 200 images for each class (robots.ox.ac.uk)
 - [Amazing Stories](https://archive.org/search.php?query=title%3A%28amazing+stories%29+AND+collection%3A%28pulpmagazinearchive%29&page=1): the world’s first science fiction magazine, launched in 1926 (archive.org)
+- [11k Hands](https://sites.google.com/view/11khands): a large dataset of hand images
 
 #### See also [¶](#free-images-more){.pilcrow} {#free-images-more}
 

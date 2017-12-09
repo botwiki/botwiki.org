@@ -54,8 +54,9 @@ Choose the network on which you want to deploy your bot:
 - [Art and Math and Science, Oh My!](https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223) (Sailor Mercury via medium.com)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) ([Paul Ford](https://twitter.com/ftrain) via bloomberg.com)
 - [How Aristotle Created the Computer](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) (theatlantic.com)
-- [Open-sourced bots](/tag/bot+opensource)
 - [The Long Game of Creativity](http://www.openculture.com/2015/04/the-long-game-of-creativity.html) (openculture.com)
+- [Art Math, Math Art](http://www.johnhanacek.net/along-the-curve/2017/10/25/art-math-math-art-toward-a-boundless-grounded-infinity) (johnhanacek.net)
+- [Open-sourced bots](/tag/bot+opensource)
 
 For more tutorials, check out [Online Courses For Bot Development](https://chatbotsmagazine.com/online-courses-for-bot-development-d09eae356ea4) on [Chatbots Magazine](https://chatbotsmagazine.com/).
 

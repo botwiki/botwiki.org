@@ -20,6 +20,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [2015: More on bots](/articles/selected-articles/2015)
 - [2014: Protest bots, bots taking over jobs](/articles/selected-articles/2014)
 - [2013: Rise of Twitter bots, Siri's origin story](/articles/selected-articles/2013)
+- [2008: Computer writer](/articles/selected-articles/2008)
 - [1997: Bach by computer](/articles/selected-articles/1997)
 - [1996: Bots are hot!](/articles/selected-articles/1996)
 - [1983: The little thoughts of thinking machines](/articles/selected-articles/1983)
