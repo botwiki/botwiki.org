@@ -43,6 +43,9 @@ Nav: hidden
 ### Art, images [¶](#art-images){.pilcrow} {#art-images}
 - [Artsy.net Public API](https://developers.artsy.net/): access to images of historic artwork and related information on [artsy.net](https://www.artsy.net/)
 - [Unsplash API](https://unsplash.com/developers): a collection of high-quality, CC0 photographs, available via API
+- Google Maps
+  - [Google Street View Image API](https://developers.google.com/maps/documentation/streetview/intro) (developers.google.com)
+  - [Google Static Maps API](https://developers.google.com/maps/documentation/static-maps/) (developers.google.com)
 
 ### Location and weather [¶](#location-and-weather){.pilcrow} {#location-and-weather}
 - [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API): editing API for fetching and saving raw geodata from/to the [OpenStreetMap](http://www.openstreetmap.org/) database

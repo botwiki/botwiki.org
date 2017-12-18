@@ -254,6 +254,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Tech Etiquette: The Real Reason You Need to be Polite to Alexa](https://medium.com/@rafe/tech-etiquette-the-real-reason-you-need-to-be-polite-to-alexa-6a76f97d0803) (Rafe Needleman via medium.com)
 - [Robot Tries to Escape from Children's Abuse](https://www.youtube.com/watch?v=CuJT9EtdETY) (youtube.com)
 - [What Interacting With Robots Might Reveal About Human Nature](https://www.theatlantic.com/technology/archive/2017/06/kate-darling-robots-aspen/532194/) (theatlantic.com)
+- [Should you say "please" and "thank you" to your Amazon Echo or Google Home?](https://www.theverge.com/circuitbreaker/2017/12/10/16751232/smart-assistants-please-thank-you-politeness-manners-alexa-siri-google-cortana) (theverge.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
