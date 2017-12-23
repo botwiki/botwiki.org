@@ -189,6 +189,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
 - [The Foundations of Algorithmic Bias](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) (approximatelycorrect.com)
 - [Copyright Law Makes Artificial Intelligence Bias Worse](https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias) (motherboard.vice.com)
+- [We Are Running Out of Time to Make Algorithms Fair](http://nautil.us/issue/55/trust/are-algorithms-building-the-new-infrastructure-of-racism) (nautil.us)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
