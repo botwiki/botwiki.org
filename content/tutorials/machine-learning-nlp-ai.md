@@ -96,6 +96,7 @@ See also [Machine learning and AI libraries and frameworks on the Resources page
 - [OpenCV tutorials](http://docs.opencv.org/doc/tutorials/tutorials.html)
   - [OpenCV tutorial: Computer vision with Node.js](https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/)
 - [Markov Chains Explained Visually](http://setosa.io/ev/markov-chains/)
+- [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50) (towardsdatascience.com)
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/blog/what-does-machine-learning-look-like) (graphcore.ai)
 - [Machine relearning: What I’ve learned from one year of workshops](https://medium.com/@genekogan/machine-relearning-8cd57ba242) (Gene Kogan via medium.com)
 - [Inside an AI 'brain' - What does machine learning look like?](https://www.graphcore.ai/posts/what-does-machine-learning-look-like) (graphcore.ai)
