@@ -119,6 +119,8 @@ Resynthesis for Gaze Manipulation
 - [Cyborg Writer](https://github.com/tensorfire/cyborg-writer): an experimental text editor with an neural text synthesizer (TensorFire via github.com)
 - [GAN playground](https://reiinakano.github.io/gan-playground/): Experiment with Generative Adversarial Networks in your browser (reiinakano.github.io)
   - [source](https://github.com/reiinakano/gan-playground) (github.com)
+- [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo) (magenta.tensorflow.org)
+
 
 ### See also [¶](#see-also){.pilcrow} {#see-also}
 

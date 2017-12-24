@@ -48,6 +48,7 @@ Nav: hidden
 
 #### See also [¶](#free-images-more){.pilcrow} {#free-images-more}
 
+- [Emoji-list with emojis, names, shortcodes, unicode and html entities](https://gist.github.com/oliveratgithub/0bf11a9aff0d6da7b46f1490f86a71eb) (Oliver Raduner via gist.github.com)
 - [Random Image Generators](http://www.thisiskelv.in/posts/2017-07-27-random-image-placeholders/) (thisiskelv.in)
 
 ### Free videos [¶](#free-videos){.pilcrow} {#free-videos}

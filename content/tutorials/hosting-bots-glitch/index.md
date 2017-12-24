@@ -59,6 +59,7 @@ All of the following projects are hosted on [glitch.com](https://glitch.com/).
 - [Slack Parrot](https://glitch.com/edit/#!/slack-parrot) 
 - [Slack IMDB slash command](https://glitch.com/edit/#!/slack-imdb) 
 - [Slack Weather slash command](https://glitch.com/edit/#!/slack-weather) 
+- [BPOLL: Do better polls in Slack](https://glitch.com/edit/#!/bpoll)
 
 #### Facebook Messenger bots [¶](#project-templates-messenger){.pilcrow} {#project-templates-messenger}
 

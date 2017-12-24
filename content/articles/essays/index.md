@@ -92,6 +92,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Better Living Through Generativity](http://www.rogueprocess.run/2017/11/06/better-living-through-generativity/) (rogueprocess.run)
 - [What it Means to Be an 'Experimental Computer Poet'](https://motherboard.vice.com/en_us/article/8x8ppp/poetry-twitter-bots-best-twitter-bots-art-allison-parrish-everyword) (motherboard.vice.com)
 - [Voice Technology is an Opportunity to Make Weird Stuff](https://medium.com/@nicolehe/voice-technology-is-an-opportunity-to-make-weird-stuff-d4296ce7448a) (Nicole He via medium.com)
+- [Adventures in Narrated Reality – Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3) (Ross Goodwin via medium.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Peter sees the computer.<br><br>&quot;But the machine only<br>creates what humans<br>have taught it to,&quot;<br>says Peter.<br><br>&quot;So do you,&quot;<br>says Mummy. <a href="https://t.co/cN5dPL3aPl">pic.twitter.com/cN5dPL3aPl</a></p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/778530231279816704">September 21, 2016</a></blockquote>
@@ -188,6 +189,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Google explains how artificial intelligence becomes biased against women and minorities](https://qz.com/1064035/google-goog-explains-how-artificial-intelligence-becomes-biased-against-women-and-minorities/) (qz.com)
 - [The Foundations of Algorithmic Bias](http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/) (approximatelycorrect.com)
 - [Copyright Law Makes Artificial Intelligence Bias Worse](https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias) (motherboard.vice.com)
+- [We Are Running Out of Time to Make Algorithms Fair](http://nautil.us/issue/55/trust/are-algorithms-building-the-new-infrastructure-of-racism) (nautil.us)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Algorithmic discrimination illustrated. Animated gif from my talk tomorrow at the Harvard Data Privacy lab <a href="https://t.co/Hh6lOpacdi">https://t.co/Hh6lOpacdi</a> <a href="https://t.co/zTS4nhD6vk">pic.twitter.com/zTS4nhD6vk</a></p>&mdash; J. Nathan Matias (@natematias) <a href="https://twitter.com/natematias/status/850173218057048064">April 7, 2017</a></blockquote>
@@ -254,6 +256,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 - [Tech Etiquette: The Real Reason You Need to be Polite to Alexa](https://medium.com/@rafe/tech-etiquette-the-real-reason-you-need-to-be-polite-to-alexa-6a76f97d0803) (Rafe Needleman via medium.com)
 - [Robot Tries to Escape from Children's Abuse](https://www.youtube.com/watch?v=CuJT9EtdETY) (youtube.com)
 - [What Interacting With Robots Might Reveal About Human Nature](https://www.theatlantic.com/technology/archive/2017/06/kate-darling-robots-aspen/532194/) (theatlantic.com)
+- [Should you say "please" and "thank you" to your Amazon Echo or Google Home?](https://www.theverge.com/circuitbreaker/2017/12/10/16751232/smart-assistants-please-thank-you-politeness-manners-alexa-siri-google-cortana) (theverge.com)
   </div>
   <div class="col-sm-12 col-md-6 no-pad">
     <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Lose your sense of entitlement and include AIs in your circle of empathy&quot; Rich Sutton presented by <a href="https://twitter.com/geordierose">@geordierose</a> <a href="https://twitter.com/hashtag/mkt4intel?src=hash">#mkt4intel</a> <a href="https://t.co/NCHQxQCeog">pic.twitter.com/NCHQxQCeog</a></p>&mdash; David Crow (@davidcrow) <a href="https://twitter.com/davidcrow/status/791679575101173761">October 27, 2016</a></blockquote>
