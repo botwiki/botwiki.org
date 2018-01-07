@@ -26,6 +26,7 @@ Nav: hidden
 - [Alexa documentation](#docs)
 - [Beginner tutorials](#beginner-tutorials)
   - [node.js](#tutorials-nodejs)
+  - [Dexter](#tutorials-dexter)
   - [AWS Lambda](#tutorials-lambda)
   </div>
   <div class="col-sm-12 col-md-6">
@@ -58,6 +59,12 @@ See also [@actionsongoogle](https://twitter.com/actionsongoogle) on Twitter for 
 - [Build an Alexa Skill in 7 Minutes Flat with Node.js and StdLib](https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f) (hackernoon.com)
 - [Alexa Twitter DM Skill](https://glitch.com/edit/#!/alexa-twitter-dm-skill) (glitch.com)
 - [Build an Alexa Skill in Node.js with Jovo](https://www.jovo.tech/blog/alexa-skill-tutorial-nodejs/) (jovo.tech)
+
+#### Dexter [¶](#tutorials-dexter){.pilcrow} {#tutorials-dexter}
+
+Tutorials using [Dexter](https://rundexter.com/), a platform that makes connecting third-party APIs easy.
+
+- [Alexa Fact Skill](https://github.com/jkeefe/workshops/tree/master/module-alexa-fact-skill) (John Keefe via github.com)
 
 #### AWS Lambda [¶](#tutorials-lambda){.pilcrow} {#tutorials-lambda}
 
