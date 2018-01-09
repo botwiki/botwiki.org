@@ -4,7 +4,7 @@ Description: This proliferation of listening algorithms brings huge opportunitie
 Link: https://dublin.sciencegallery.com/events/2017/02/automationtoofardebateaicreatedart
 Date: September 14, 2017
 Thumbnail: /content/events/2017/images/humanising-algorithmic-listening-in-culture-and-conservation.jpg
-Tags: event,upcoming
+Tags: event,archived
 */
 
 > From Amazon’s Echo to Mattel's Hello Barbie, a troupe of devices fitted with quasi-intelligent listening software is invading our homes. Similar technologies are being developed and deployed across wild landscapes globally, holding promise for new conservation methods to monitor and protect our planet.
