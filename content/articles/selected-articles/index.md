@@ -15,6 +15,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 **For the latest articles follow [@botwikidotorg](https://twitter.com/botwikidotorg) and subscribe to the [Bot! zine](http://botzine.org/) newsletter.**
 
 
+- [2018](/articles/selected-articles/2018)
 - [2017: The rise of AI, biased machines, chatbot crisis](/articles/selected-articles/2017)
 - [2016: Bots ruining everything](/articles/selected-articles/2016)
 - [2015: More on bots](/articles/selected-articles/2015)

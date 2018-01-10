@@ -60,6 +60,7 @@ Do you know about an interesting blog or have you read a good article a botmaker
 
 ### Chat bots and "business bots" [¶](#serious-business){.pilcrow} {#serious-business}
 
+- [Quartz Bot Studio](https://bots.qz.com): experimenting with software you can text with, software you can talk with, tools for journalists, and artificial intelligence (bots.qz.com)
 - [Chatbots Magazine](https://chatbotsmagazine.com/): *The #1 Place to Learn About Chatbots*
 - [Posts tagged #ai on oreilly.com](https://www.oreilly.com/topics/ai) (see also [O'Reilly Bots Podcast](https://itunes.apple.com/us/podcast/what-are-bots-heres-background./id1145426486?i=1000374278363))
 - [Posts tagged #bots on venturebeat.com](http://venturebeat.com/tag/bots/)
