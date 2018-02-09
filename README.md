@@ -2,7 +2,11 @@
 
 ![Botwiki](/content/images/botwiki-nixiebot-1500px.jpg)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A new and improved <a href="https://t.co/bJNBhVfJrv">https://t.co/bJNBhVfJrv</a> is coming and we want to hear from you!<br><br>Join <a href="https://t.co/4FH6OgVuCG">https://t.co/4FH6OgVuCG</a> or use our feedback survey at <a href="https://t.co/x3S5Cu0QpK">https://t.co/x3S5Cu0QpK</a> and let us know about the changes you&#39;d like to see.<br><br>Thank you 🎉</p>&mdash; A friendly encyclopedia of 🤖💻💾 (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/961246190980489218?ref_src=twsrc%5Etfw">February 7, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A new and improved botwiki.org is coming and we want to hear from you!
+
+Join botmakers.org  or use our feedback survey at botwiki.org/survey/the-big-botwiki-survey and let us know about the changes you'd like to see.
+
+Thank you 🎉</p>&mdash; A friendly encyclopedia of 🤖💻💾 (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/961246190980489218?ref_src=twsrc%5Etfw">February 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
