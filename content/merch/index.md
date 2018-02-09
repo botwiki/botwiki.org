@@ -9,7 +9,7 @@ You can now support Botwiki through buying [stickers](https://www.stickermule.co
 For donation options, see [this page](/about/support#donation-options).
 
 <div class="centered-text">
-
+<!-- 
   <a href="https://www.stickermule.com/marketplace/12100-botwiki">
     <img src="/content/merch/images/botwiki.png" class="centered">
   </a>
@@ -21,7 +21,7 @@ For donation options, see [this page](/about/support#donation-options).
   </a>
   <a href="https://www.stickermule.com/marketplace/12101-i-robot-face-bots">"I 🤖 bots" Sticker <code>$3.01</code></a>
 
-
+ -->
   <a href="https://www.amazon.com/Mens-Botwiki-Support-T-Shirt-Asphalt/dp/B01MF4M6JL/ref=sr_1_1?s=apparel&ie=UTF8&qid=1476115417&sr=1-1&nodeID=7141123011">
     <img src="/content/merch/images/t-shirts/botwiki-asphalt.jpg" class="centered">
   </a>

@@ -1616,8 +1616,8 @@ article h2 {
 }
 h1 span,
 h2 span {
-  color: #fff;
-  background-color: #4d4350;
+  color: #4d4350;
+  background-color: #fff;
   padding: 10px;
   line-height: 2em;
   -webkit-box-decoration-break: clone;
