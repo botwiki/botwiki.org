@@ -4,7 +4,7 @@
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A new and improved botwiki.org is coming and we want to hear from you!
 
-Join botmakers.org  or use our feedback survey at botwiki.org/survey/the-big-botwiki-survey and let us know about the changes you'd like to see.
+Join <a href="https://botmakers.org">botmakers.org</a> or use our feedback survey at <a href="https://botwiki.org/survey/the-big-botwiki-survey">botwiki.org/survey/the-big-botwiki-survey</a> and let us know about the changes you'd like to see.
 
 Thank you 🎉</p>&mdash; A friendly encyclopedia of 🤖💻💾 (@botwikidotorg) <a href="https://twitter.com/botwikidotorg/status/961246190980489218?ref_src=twsrc%5Etfw">February 7, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
