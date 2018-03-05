@@ -23,6 +23,13 @@ Are you a [Botmakers](https://botmakers.org) member? Let us know about your expe
 
 <a class="btn" href="https://botwiki.org/survey/botmakers-community-survey">Fill out the survey</a>
 
+
+### Botwiki Site Feedback [¶](#botwiki-site-feedback){.pilcrow} {#botwiki-site-feedback}
+
+Let us know how we can make Botwiki better!
+
+<a class="btn" href="https://botwiki.org/survey/botwiki-site-feedback">Fill out the survey</a>
+
 ### A botmaker/bot enthusiast survey [¶](#a-botmaker-bot-enthusiast-survey){.pilcrow} {#a-botmaker-bot-enthusiast-survey}
 
 A brief survey for everyone interested in friendly online bots.
