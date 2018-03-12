@@ -188,10 +188,15 @@ select:focus{
 /* Main Styles
 /*---------------------------------------------*/
 body{
+  margin: 0;
+  margin-top: 3em;
+  @media (min-width : @site-width-small){
+    margin-top: 2em;
+  }
+
   font: 1.1em "Rubik", sans-serif;
   color: #444;
   line-height: 1.2em;
-  margin: 0;
   background: @background-color;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
@@ -652,10 +657,16 @@ div.all-tags{
   .botwiki-logo{
     text-shadow: 0 0 5px #000;
     position: relative;
-    z-index: 3;
     pointer-events: all;
   }
 
+  .botwiki-logo{
+    z-index: 3;
+  }
+
+  #menu-icon-wrapper{
+    z-index: 4;
+  }
   #menu-toggle{
     display: none;
     &:checked#menu-icon{
@@ -675,7 +686,11 @@ div.all-tags{
 
   nav{
     list-style: none;
-    margin: 0.2em 0 0;
+    margin: 3em 0 0;
+    @media (max-width : @site-width-small){
+      margin-top: 5em !important;
+    }
+
     font-family: 'Anton', sans-serif;
     // font-size: 1.2em;
 
@@ -1127,6 +1142,22 @@ div.search-item{
   }
 }
 
+.top-site-note{
+  color: #000;
+  background-color: yellow;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+
+  p{
+    margin: 0 auto;
+    padding: 1rem;
+  }
+}
+
 .note{
   // border-left: 10px solid #F7E967 - #333;
   font-weight: bold;
@@ -1420,7 +1451,7 @@ img.logo-digitalocean{
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 2;
+    z-index: 3;
     transition: all 0.3s;
     pointer-events: none;
   }
